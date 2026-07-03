@@ -1,0 +1,20 @@
+Title: MPEDA & NOAA DS-2031 Shrimp Exporter Declaration & Turtle Excluder Device (TED) Compliance Procedure
+URL: https://mpeda.gov.in/exporters/
+Scraped Date: 2026-07-03T11:54:45.521585
+
+THE MARINE PRODUCTS EXPORT DEVELOPMENT AUTHORITY (MPEDA)
+STATUTORY COMPLIANCE PROCEDURE: NOAA FORM DS-2031 EXPORTER DECLARATION FOR USA SHRIMP EXPORTS
+
+1. BACKGROUND & US REGULATORY MANDATE:
+Pursuant to Section 609 of United States Public Law 101-162, all shipments of shrimp and shrimp products imported into the United States must be accompanied by the Exporter's / Importer's Declaration (Form DS-2031) issued by the National Oceanic and Atmospheric Administration (NOAA).
+
+2. CERTIFICATION OF AQUACULTURE VS. WILD-CAUGHT SHRIMP:
+Since India's wild-caught shrimp trawl fishery faces Section 609 TED restrictions, US customs clearances rely on two distinct certification pathways:
+- Aquaculture / Farmed Shrimp (Box 7(A)(2)): Shrimp harvested from aquaculture facilities where sea turtles do not occur. Exporters must attach MPEDA enrollment farm registration certificates and Pre-Harvest Test (PHT) lot codes proving farmed origin.
+- Wild-Caught Shrimp harvested using Turtle Excluder Devices (TEDs): Requires explicit endorsement by government-authorized inspection officers certifying that trawlers operated approved TED gear.
+
+3. MANDATORY DOCUMENTATION PACKET:
+For every US container shipment, processing plants must submit to MPEDA/EIC:
+- Complete DS-2031 Form signed by responsible corporate officer
+- Farm Traceability Sheet linking pond enrollment numbers to processing lot codes
+- Bill of Lading and Commercial Invoice matching container sealing records.
