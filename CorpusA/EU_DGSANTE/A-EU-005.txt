@@ -1,0 +1,19 @@
+Title: European Commission Rapid Alert System for Food and Feed (RASFF) Standard Operating Procedures
+URL: https://food.ec.europa.eu/safety/rasff_en
+Scraped Date: 2026-07-03T12:17:51.386299
+
+EUROPEAN COMMISSION - DIRECTORATE-GENERAL FOR HEALTH AND FOOD SAFETY (DG SANTE)
+RAPID ALERT SYSTEM FOR FOOD AND FEED (RASFF) - STANDARD OPERATING PROCEDURES FOR THIRD COUNTRY NOTIFICATIONS
+
+1. STATUTORY BASIS OF RASFF:
+Established under Article 50 of Regulation (EC) No 178/2002 (General Food Law), the Rapid Alert System for Food and Feed (RASFF) provides an instantaneous digital notification network enabling EU Member States, the European Commission, and EFSA to exchange critical food safety alerts regarding non-compliant or hazardous food consignments detected at EU borders or retail markets.
+
+2. NOTIFICATION CLASSIFICATIONS:
+- Border Rejection Notifications: Transmitted when a consignment of third-country food (e.g., Indian spices or marine products) is tested at a Border Control Post (BCP) and denied entry due to exceeding Maximum Residue Limits (MRLs), microbial contamination (Salmonella), or unauthorized food additives.
+- Alert Notifications: Initiated when hazardous food presents a serious consumer risk and is already circulating on retail shelves within an EU Member State, requiring mandatory product recalls.
+
+3. TRANSMISSION TO INDIAN COMPETENT AUTHORITIES:
+Upon validation of a Border Rejection Notification concerning an Indian shipment, DG SANTE transmits an official alert dossier through the RASFF window directly to India's National Contact Points (EIC, Spices Board, MPEDA, and FSSAI).
+
+4. MANDATORY INVESTigation & Corrective Action Plan (CAP):
+Within 30 calendar days of receiving a RASFF border rejection alert, the exporting Indian authority must conduct a root-cause trace-back audit at the processing plant, suspend the exporter's health certificate privileges if warranted, and submit a documented Corrective Action Plan (CAP) to DG SANTE to prevent repeat interceptions.

@@ -1,0 +1,21 @@
+Title: Commission Implementing Regulation (EU) 2019/1793 - Temporary Increase of Official Controls on Third Country Imports
+URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1793
+Scraped Date: 2026-07-03T12:17:49.128716
+
+OFFICIAL JOURNAL OF THE EUROPEAN UNION
+COMMISSION IMPLEMENTING REGULATION (EU) 2019/1793
+on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries implementing Regulations (EU) 2017/625 and (EC) No 178/2002
+
+1. REGULATORY PURPOSE & EMERGENCY BORDER SURVEILLANCE:
+Pursuant to Article 47 of Regulation (EU) 2017/625, the European Commission establishes mandatory border frequency checks and emergency certification rules for feed and food originating from third countries where ongoing monitoring indicates persistent non-compliance with EU food safety legislation.
+
+2. ANNEX II MANDATE FOR INDIAN SPICES:
+Consignments of high-risk Indian agricultural products listed in Annex II—specifically Capsicum annuum (Chilli peppers and products), Myristica fragrans (Nutmeg), Cumin seeds, and Murraya koenigii (Curry leaves)—cannot enter EU Border Control Posts (BCPs) without mandatory pre-shipment health certification.
+
+3. REQUIRED ACCOMPANYING DOCUMENTATION:
+Every entry lot from India must be accompanied by:
+- An Official Certificate issued by the competent authority of India (Export Inspection Council / Spices Board).
+- An Analytical Test Report demonstrating compliance with EU Maximum Residue Limits (MRLs) for Ethylene Oxide (ETO) and pesticide contamination, sampled within 30 days prior to container departure.
+
+4. BORDER CONTROL POST (BCP) IDENTITY & PHYSICAL CHECKS:
+EU customs authorities execute 100% documentary checks, 100% identity checks, and at least 20% identity/physical analytical sampling checks at BCPs. Non-compliant lots face mandatory rejection, destruction, or re-dispatch under Article 66 of Regulation (EU) 2017/625.

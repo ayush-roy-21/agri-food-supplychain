@@ -1,0 +1,15 @@
+Title: Ministry of Commerce & APEDA Advisory on EUDR Compliance & GPS Plot Geotagging for Indian Exporters
+URL: https://apeda.gov.in/
+Scraped Date: 2026-07-03T14:09:53.147242
+
+MINISTRY OF COMMERCE & INDUSTRY / AGRICULTURAL AND PROCESSED FOOD PRODUCTS EXPORT DEVELOPMENT AUTHORITY (APEDA)
+EXECUTIVE ADVISORY: IMPLEMENTATION OF DIGITAL GEOLOCATION TRACEABILITY FOR EU DEFORESTATION REGULATION (EUDR) COMPLIANCE
+
+1. CRITICAL IMPACT ON INDIAN AGRI-FOOD EXPORTS:
+Recognizing the impending enforcement of Regulation (EU) 2023/1115 (EUDR), the Department of Commerce mandates immediate digital preparedness for Indian exporters handling coffee, cocoa, palm oil derivatives, and paper/wooden food packaging shipped to European destinations.
+
+2. INTEGRATION OF APEDA TRACENET WITH GPS PLOT MAPPING:
+To prevent trade disruptions at European ports, APEDA is upgrading its TraceNet digital infrastructure to capture farm-level geolocation polygons. Registered exporters must upload GPS coordinates verified by State Horticulture Departments or remote sensing satellite imagery for all registered contract farming plots.
+
+3. INTER-OPERABILITY WITH EU TRACES PORTAL:
+The advisory establishes guidelines for Indian exporters to generate standardized GeoJSON plot dossiers capable of automated transmission into the European Commission's TRACES information system when generating pre-shipment export documentation.
