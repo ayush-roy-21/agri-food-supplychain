@@ -1,14 +1,15 @@
-# India Agri-Food Export Governance & Compliance Corpus (CorpusA)
+# The Barrier Horizon: Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs
+### Empirical Regulatory Archive & Compliance Corpus (CorpusA)
 
-A comprehensive, structured institutional data archive and regulatory intelligence repository investigating India's agricultural, marine, and value-added food export compliance architecture.
+A comprehensive, structured institutional data archive and regulatory intelligence repository investigating sustainable supplier hurdles, non-tariff sanitary/phytosanitary (SPS) barriers, and deforestation due diligence mandates facing Indian agricultural, marine, and value-added food export MSMEs.
 
 ---
 
 ## 📌 Project Overview
 
-Indian agricultural and processed food exports operate within a multi-layered regulatory ecosystem involving domestic statutory authorities, export promotion councils, and rigorous international sanitary/phytosanitary (SPS) and sustainability regimes. 
+Indian agricultural and processed food micro, small, and medium enterprises (MSMEs) operate within an increasingly complex global regulatory horizon. Exporting suppliers face severe structural hurdles imposed by overlapping domestic statutory regimes and rigorous international compliance mandates—ranging from zero-tolerance antibiotic screening and pesticide Maximum Residue Levels (MRLs) to mandatory GPS polygon farm geotagging under zero-deforestation due diligence rules.
 
-**CorpusA** bridges the gap between fragmented institutional notifications and empirical trade policy research by assembling **authoritative statutory frameworks, operational procedures, circulars, and trade statistics** across **10 institutional pillars**. Every record is curated with strict academic transparency, multi-dimension Data Quality Assessment (DQA), and dual-logging into a unified 13-column master registry.
+**The Barrier Horizon (CorpusA)** bridges the gap between fragmented institutional notifications and empirical trade policy research by assembling **authoritative statutory frameworks, operational procedures, circulars, enforcement refusal records, and trade statistics** across **11 institutional pillars** (India, European Union, and United States). Every record is curated with strict academic transparency, multi-dimension Data Quality Assessment (DQA), and dual-logging into a unified 13-column master registry.
 
 ---
 
