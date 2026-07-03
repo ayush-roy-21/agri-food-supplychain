@@ -1,6 +1,7 @@
-# Registry Schema & Audit Log Data Dictionary
+# The Barrier Horizon: Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs
+## Registry Schema & Audit Log Data Dictionary
 
-To ensure inter-corpus consistency and computational compatibility across multi-agent research teams, all data collection operations in **CorpusA** log into a single source of truth: `data/master_registry.csv`.
+To ensure inter-corpus consistency and computational compatibility across multi-agent research teams investigating **The Barrier Horizon: Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs**, all data collection operations in **CorpusA** log into a single source of truth: `data/master_registry.csv`.
 
 ---
 

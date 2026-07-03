@@ -1,6 +1,7 @@
-# Data Collection & Quality Assessment Protocol
+# The Barrier Horizon: Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs
+## Data Collection & Quality Assessment Protocol
 
-This protocol outlines the automated scraping workflow, verification standards, and Data Quality Assessment (DQA) methodology enforced across the **India Agri-Food Export Governance & Compliance Corpus (CorpusA)**.
+This protocol outlines the automated scraping workflow, verification standards, and Data Quality Assessment (DQA) methodology enforced across **The Barrier Horizon: Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs (CorpusA)**.
 
 ---
 

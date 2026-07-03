@@ -1,6 +1,7 @@
-# Corpus Architecture & Institutional Pillar Breakdown
+# The Barrier Horizon: Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs
+## Corpus Architecture & Institutional Pillar Breakdown
 
-This document details the structural design, routing logic, and thematic scope of the **India Agri-Food Export Governance & Compliance Corpus (CorpusA)**.
+This document details the structural design, routing logic, and thematic scope of **The Barrier Horizon: Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs (CorpusA)**.
 
 ---
 
