@@ -1,0 +1,21 @@
+Title: FDA Import Refusal Record - Indian Ground Spices (Salmonella Pathogen Adulteration)
+Source: US FDA Operational and Administrative System for Import Support (OASIS)
+URL: https://www.accessdata.fda.gov/scripts/importrefusals/index.cfm?action=export:refusalReport
+Scraped Date: 2026-07-03T16:29:39.915229
+
+UNITED STATES FOOD AND DRUG ADMINISTRATION (US FDA)
+OPERATIONAL AND ADMINISTRATIVE SYSTEM FOR IMPORT SUPPORT (OASIS)
+IMPORT REFUSAL REPORT - PRODUCT CATEGORY: 28 (SPICES, FLAVORS AND SALTS)
+
+1. ENFORCEMENT ACTION & FIRM IDENTIFICATION:
+Country of Origin: India
+Product Description: Ground Cumin / Chilli Powder (Capsicum annum)
+Port of Entry: New York / Newark, NJ
+Enforcement Action: Formal Import Refusal and Entry Notice Rejection under Section 801(a)(3) of the Federal Food, Drug, and Cosmetic Act (FD&C Act).
+
+2. STATUTORY CHARGE & VIOLATION SUMMARY:
+Charge Code: SALMONELLA (Section 801(a)(3))
+Rationale: "The article appears to contain a poisonous or deleterious substance which may render it injurious to health, namely Salmonella species."
+
+3. IMPACT ON EXPORTING FIRM:
+The consignment is refused entry into United States commerce and ordered destroyed or re-exported under US Customs supervision within 90 days. The manufacturing facility is placed on FDA Import Alert 99-19 (Detention Without Physical Examination of Food Products Due to Salmonella), requiring private third-party laboratory testing of the next five consecutive shipments before entry clearance.

@@ -1,0 +1,20 @@
+Title: Gazette Notification S.O. 4031(E) - Export Inspection and Health Certification for Marine Products
+Source: Gazette of India (Department of Publication / NIC)
+URL: https://egazette.nic.in/
+Scraped Date: 2026-07-03T16:11:24.256018
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+MINISTRY OF COMMERCE AND INDUSTRY / ORDER
+Notification S.O. 4031(E) under Section 6 of the Export (Quality Control and Inspection) Act, 1963
+
+1. NOTIFICATION OF MARINE PRODUCTS EXPORT INSPECTION:
+The Central Government notifies fresh, frozen, canned, and processed marine products (including aquaculture shrimp and cephalopods) for mandatory quality inspection and health certification prior to export to international destinations including the European Union and the United States.
+
+2. THREE-TIER COMPLIANCE MECHANISM:
+Exporters may operate under one of three statutory certification modes:
+(a) Consignment-wise inspection by EIA officers;
+(b) In-Process Quality Control (IPQC) for approved facilities;
+(c) Food Safety Management System based on HACCP principles approved by the Inter-Departmental Panel (IDP).
+
+3. ISSUANCE OF HEALTH CERTIFICATES:
+Every shipment destined for the EU must be accompanied by an official Health Certificate signed by an authorized veterinarian/officer of the Export Inspection Agency, validating cold-chain maintenance at -18 degrees Celsius and absence of prohibited antibiotic residues.

@@ -1,0 +1,21 @@
+Title: FDA Import Refusal Record - Processed Indian Seafood (Decomposition & Listeria monocytogenes)
+Source: US FDA Operational and Administrative System for Import Support (OASIS)
+URL: https://www.accessdata.fda.gov/scripts/importrefusals/index.cfm?action=export:refusalReport
+Scraped Date: 2026-07-03T16:29:40.169521
+
+UNITED STATES FOOD AND DRUG ADMINISTRATION (US FDA)
+OPERATIONAL AND ADMINISTRATIVE SYSTEM FOR IMPORT SUPPORT (OASIS)
+IMPORT REFUSAL REPORT - PRODUCT CATEGORY: 16 (FISHERY/SEAFOOD PRODUCTS)
+
+1. ENFORCEMENT ACTION & FIRM IDENTIFICATION:
+Country of Origin: India (Kerala / Gujarat Processing Facilities)
+Product Description: Frozen Cephalopods (Cuttlefish / Squid rings) & Canned Crab Meat
+Port of Entry: Miami, FL
+Enforcement Action: Formal Refusal under Section 801(a)(3).
+
+2. STATUTORY CHARGE & VIOLATION SUMMARY:
+Charge Code: DECOMPOSITION & LISTERIA (Section 801(a)(3))
+Rationale: "The article appears to consist in whole or in part of a decomposed substance as determined by organoleptic sensory evaluation and indole testing exceeding 25 micrograms per 100g, alongside presence of Listeria monocytogenes."
+
+3. IMPACT ON SEAFOOD HACCP REGISTRATION:
+Violation indicates failure of cold-chain critical control points (CCPs) under 21 CFR Part 123 (Procedures for the Safe and Sanitary Processing and Importing of Fish and Fishery Products).

@@ -1,0 +1,20 @@
+Title: Export (Quality Control and Inspection) Act, 1963 (Act No. 22 of 1963)
+Source: India Code (National Informatics Centre)
+URL: https://www.indiacode.nic.in/handle/123456789/1546
+Scraped Date: 2026-07-03T16:11:22.213428
+
+GOVERNMENT OF INDIA / MINISTRY OF LAW AND JUSTICE
+THE EXPORT (QUALITY CONTROL AND INSPECTION) ACT, 1963 (ACT NO. 22 OF 1963)
+An Act to provide for the sound development of the export trade of India through quality control and inspection and for matters connected therewith.
+
+1. CONSTITUTION OF EXPORT INSPECTION COUNCIL (SECTION 3):
+The Central Government establishes the Export Inspection Council (EIC) to advise on measures for the enforcement of quality control and inspection in relation to commodities intended for export.
+
+2. POWERS OF CENTRAL GOVERNMENT TO NOTIFY COMMODITIES (SECTION 6):
+Where the Central Government thinks it necessary or expedient for the development of export trade, it may by notification in the Official Gazette:
+(a) notify commodities that shall be subject to quality control or inspection prior to export;
+(b) specify the type of quality control or inspection;
+(c) prohibit the export of notified commodities unless accompanied by a certificate issued by an Export Inspection Agency (EIA).
+
+3. PENALTIES FOR CONTRAVENTION (SECTION 11):
+Any person who exports or attempts to export any notified commodity without satisfying mandatory quality standards or health certification faces rigorous imprisonment up to three years or monetary fines, alongside confiscation of cargo under the Customs Act, 1962.

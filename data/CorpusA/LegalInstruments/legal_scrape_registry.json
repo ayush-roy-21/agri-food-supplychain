@@ -1,0 +1,80 @@
+[
+  {
+    "doc_id": "A-INDIA-001",
+    "url": "https://www.indiacode.nic.in/handle/123456789/1546",
+    "retrieval_date": "2026-07-03",
+    "title": "Export (Quality Control and Inspection) Act, 1963 (Act No. 22 of 1963)",
+    "source": "India Code (National Informatics Centre)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\LegalInstruments\\A-INDIA-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\LegalInstruments\\A-INDIA-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\LegalInstruments\\A-INDIA-001.txt"
+    ]
+  },
+  {
+    "doc_id": "A-INDIA-002",
+    "url": "https://www.indiacode.nic.in/handle/123456789/2403",
+    "retrieval_date": "2026-07-03",
+    "title": "Drugs and Cosmetics Act, 1940 (Act No. 23 of 1940)",
+    "source": "India Code (National Informatics Centre)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\LegalInstruments\\A-INDIA-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\LegalInstruments\\A-INDIA-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\LegalInstruments\\A-INDIA-002.txt"
+    ]
+  },
+  {
+    "doc_id": "A-INDIA-003",
+    "url": "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/acts_rules/2016DrugsandCosmeticsAct1940Rules1945.pdf",
+    "retrieval_date": "2026-07-03",
+    "title": "Drugs and Cosmetics Rules, 1945",
+    "source": "India Code (National Informatics Centre)",
+    "format": "pdf",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\LegalInstruments\\A-INDIA-003.pdf",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\LegalInstruments\\A-INDIA-003.pdf",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\LegalInstruments\\A-INDIA-003.pdf"
+    ]
+  },
+  {
+    "doc_id": "A-GAZ-001",
+    "url": "https://egazette.nic.in/",
+    "retrieval_date": "2026-07-03",
+    "title": "Gazette Notification S.O. 497(E) - Mandatory Quality Control and Inspection of Spices and Condiments",
+    "source": "Gazette of India (Department of Publication / NIC)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\LegalInstruments\\A-GAZ-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\LegalInstruments\\A-GAZ-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\LegalInstruments\\A-GAZ-001.txt"
+    ]
+  },
+  {
+    "doc_id": "A-GAZ-002",
+    "url": "https://egazette.nic.in/",
+    "retrieval_date": "2026-07-03",
+    "title": "Gazette Notification S.O. 4031(E) - Export Inspection and Health Certification for Marine Products",
+    "source": "Gazette of India (Department of Publication / NIC)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\LegalInstruments\\A-GAZ-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\LegalInstruments\\A-GAZ-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\LegalInstruments\\A-GAZ-002.txt"
+    ]
+  },
+  {
+    "doc_id": "A-GAZ-003",
+    "url": "https://egazette.nic.in/",
+    "retrieval_date": "2026-07-03",
+    "title": "Gazette Notification S.O. 4032(E) - Inter-Departmental Panel Inspection & Sampling Frequencies",
+    "source": "Gazette of India (Department of Publication / NIC)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\LegalInstruments\\A-GAZ-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\LegalInstruments\\A-GAZ-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\LegalInstruments\\A-GAZ-003.txt"
+    ]
+  }
+]

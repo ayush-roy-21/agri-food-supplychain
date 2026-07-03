@@ -1,0 +1,74 @@
+[
+  {
+    "doc_id": "A-EU-006",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0625",
+    "retrieval_date": "2026-07-03",
+    "title": "Regulation (EU) 2017/625 (Official Controls Regulation - OCR)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EU_DGSANTE\\A-EU-006.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EU_DGSANTE\\A-EU-006.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EU_DGSANTE\\A-EU-006.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EU-007",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005R0396",
+    "retrieval_date": "2026-07-03",
+    "title": "Regulation (EC) No 396/2005 - Maximum Residue Levels (MRLs) for Pesticides in Plant and Animal Products",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EU_DGSANTE\\A-EU-007.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EU_DGSANTE\\A-EU-007.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EU_DGSANTE\\A-EU-007.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EU-008",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0163",
+    "retrieval_date": "2026-07-03",
+    "title": "Commission Decision 2011/163/EU - Approval of Third Country National Residue Monitoring Plans (NRMP)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EU_DGSANTE\\A-EU-008.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EU_DGSANTE\\A-EU-008.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EU_DGSANTE\\A-EU-008.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EU-009",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0404",
+    "retrieval_date": "2026-07-03",
+    "title": "Commission Implementing Regulation (EU) 2021/404 - Lists of Authorized Third Countries for Animal & Marine Entry",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EU_DGSANTE\\A-EU-009.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EU_DGSANTE\\A-EU-009.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EU_DGSANTE\\A-EU-009.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EU-010",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0808",
+    "retrieval_date": "2026-07-03",
+    "title": "Commission Implementing Regulation (EU) 2021/808 - Performance Criteria for Veterinary Residue Analytical Testing",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EU_DGSANTE\\A-EU-010.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EU_DGSANTE\\A-EU-010.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EU_DGSANTE\\A-EU-010.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EU-011",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2090",
+    "retrieval_date": "2026-07-03",
+    "title": "Commission Implementing Regulation (EU) 2019/2090 - Illegal, Unreported and Unregulated (IUU) Catch Validation",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EU_DGSANTE\\A-EU-011.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EU_DGSANTE\\A-EU-011.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EU_DGSANTE\\A-EU-011.txt"
+    ]
+  }
+]

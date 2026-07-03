@@ -1,0 +1,17 @@
+Title: Kerala Fish Seed Act, 2014 (Act No. 27 of 2014)
+Source: India Code / Kerala State Legislature Portal
+URL: https://www.indiacode.nic.in/handle/123456789/12345
+Scraped Date: 2026-07-03T16:19:28.419643
+
+GOVERNMENT OF KERALA / LAW (LEGISLATION-G) DEPARTMENT
+THE KERALA FISH SEED ACT, 2014 (ACT NO. 27 OF 2014)
+An Act to provide for regulating the production, distribution and sale of fish seed in the State of Kerala.
+
+1. REGISTRATION OF HATCHERIES & NURSERIES (SECTION 5):
+No person shall establish or operate a fish seed hatchery, rearing farm, or shrimp seed nursery without registration from the Kerala Fish Seed Committee. Hatcheries must operate under strict biosecurity protocols.
+
+2. QUALITY STANDARDS & SPECIFIC PATHOGEN FREE (SPF) SEED:
+Section 8 mandates that all shrimp and fish seed sold or distributed to aquaculture farms must be certified as Specific Pathogen Free (SPF), verified through PCR diagnostic testing for WSSV and IHHNV viruses.
+
+3. PENALTIES FOR UNCERTIFIED OR ADULTERATED SEED:
+Sale of uncertified, diseased, or wild-caught unquarantined shrimp post-larvae attracts cancellation of hatchery license, monetary penalties up to fifty thousand rupees, and seizure of biological stock.

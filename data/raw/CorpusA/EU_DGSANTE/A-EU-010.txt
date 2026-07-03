@@ -1,0 +1,16 @@
+Title: Commission Implementing Regulation (EU) 2021/808 - Performance Criteria for Veterinary Residue Analytical Testing
+URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0808
+Scraped Date: 2026-07-03T16:01:27.038456
+
+OFFICIAL JOURNAL OF THE EUROPEAN UNION
+COMMISSION IMPLEMENTING REGULATION (EU) 2021/808
+on the performance of analytical methods for residues of pharmacologically active substances used in food-producing animals and on the interpretation of results
+
+1. STATUTORY REPLACEMENT OF DECISION 2002/657/EC:
+Regulation (EU) 2021/808 updates European standards for testing veterinary drug residues in aquaculture and livestock products, establishing rigorous analytical performance criteria for official control laboratories worldwide.
+
+2. DECISION LIMIT (CCalpha) & DETECTION CAPABILITY (CCbeta):
+To prevent false-positive or false-negative rejections at EU border control posts, Indian EIC and MPEDA Pre-Harvest Test (PHT) laboratories must calibrate LC-MS/MS instruments to meet statutory CCalpha decision limits. For banned zero-tolerance antibiotics (such as chloramphenicol and nitrofuran metabolites AOZ/AMOZ), detection capability must reach Minimum Required Performance Limits (MRPL) of 0.3 ppb or lower.
+
+3. MANDATORY ACCREDITATION & PROFICIENCY TESTING:
+Laboratories certifying Indian marine exports must hold ISO/IEC 17025 accreditation and successfully participate in international proficiency testing schemes evaluated against Regulation 2021/808 calibration curves.

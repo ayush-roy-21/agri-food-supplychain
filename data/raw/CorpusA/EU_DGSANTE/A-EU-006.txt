@@ -1,0 +1,15 @@
+Title: Regulation (EU) 2017/625 (Official Controls Regulation - OCR)
+URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0625
+Scraped Date: 2026-07-03T16:01:25.074108
+
+OFFICIAL JOURNAL OF THE EUROPEAN UNION
+REGULATION (EU) 2017/625 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL (Official Controls Regulation)
+
+1. STATUTORY SCOPE & BORDER CONTROL POST (BCP) INSPECTIONS:
+Regulation (EU) 2017/625 forms the overarching legal framework governing official border controls on all third-country agri-food imports entering the European Union. Every consignment of Indian spices and marine aquaculture shrimp must pass through designated Border Control Posts (BCPs) where competent member state authorities perform mandatory documentary, identity, and physical laboratory inspections.
+
+2. TRACES ELECTRONIC CERTIFICATION MANDATE:
+Under Article 56, clearance requires prior notification via a Common Health Entry Document (CHED) lodged in the European Commission's TRACES digital platform. Consignments lacking cryptographically validated EIC health certificates or Spices Board analytical reports face automatic rejection.
+
+3. EMERGENCY MEASURES & COST RECOVERY:
+Where physical checks detect chemical contaminants or microbiological pathogens exceeding EU standards, Article 66 empowers member states to order cargo destruction or return at the exporter's expense, alongside intensified sampling rates for subsequent consignments under Article 65.

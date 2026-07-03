@@ -1,0 +1,17 @@
+Title: FDA FSMA Section 415 Foreign Food Facility Registration Guidance & US Agent Designation
+Source: US FDA Food Safety Modernization Act (FSMA) Guidance Portal
+URL: https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/registration-food-facilities-and-other-submissions
+Scraped Date: 2026-07-03T16:29:40.412373
+
+UNITED STATES FOOD AND DRUG ADMINISTRATION (US FDA)
+CENTER FOR FOOD SAFETY AND APPLIED NUTRITION (CFSAN)
+GUIDANCE FOR INDUSTRY: QUESTIONS AND ANSWERS REGARDING FOOD FACILITY REGISTRATION (SEVENTH EDITION)
+
+1. STATUTORY REGISTRATION REQUIREMENT (SECTION 415):
+Every foreign facility that manufactures, processes, packs, or holds food (including spices and seafood) for consumption in the United States must register with the FDA before shipments arrive at US ports.
+
+2. MANDATORY UNIQUE FACILITY IDENTIFIER (UFI):
+Facilities must obtain and submit a recognized Unique Facility Identifier (Data Universal Numbering System / DUNS number) during registration and biennial renewal between October 1 and December 31 of every even-numbered year.
+
+3. DESIGNATION OF UNITED STATES AGENT:
+Foreign processing plants located in India must designate a US Agent residing or maintaining a place of business in the United States. The US Agent acts as the primary emergency liaison between FDA inspection divisions and the Indian manufacturing facility.

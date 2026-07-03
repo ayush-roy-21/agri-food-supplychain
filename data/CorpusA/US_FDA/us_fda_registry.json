@@ -1,0 +1,80 @@
+[
+  {
+    "doc_id": "A-FDA-001",
+    "url": "https://www.accessdata.fda.gov/scripts/importrefusals/index.cfm?action=export:refusalReport",
+    "retrieval_date": "2026-07-03",
+    "title": "FDA Import Refusal Record - Indian Ground Spices (Salmonella Pathogen Adulteration)",
+    "source": "US FDA Operational and Administrative System for Import Support (OASIS)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\US_FDA\\A-FDA-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\US_FDA\\A-FDA-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\US_FDA\\A-FDA-001.txt"
+    ]
+  },
+  {
+    "doc_id": "A-FDA-002",
+    "url": "https://www.accessdata.fda.gov/scripts/importrefusals/index.cfm?action=export:refusalReport",
+    "retrieval_date": "2026-07-03",
+    "title": "FDA Import Refusal Record - Indian Whole Black Pepper (Filth & Insect Contamination)",
+    "source": "US FDA Operational and Administrative System for Import Support (OASIS)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\US_FDA\\A-FDA-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\US_FDA\\A-FDA-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\US_FDA\\A-FDA-002.txt"
+    ]
+  },
+  {
+    "doc_id": "A-FDA-003",
+    "url": "https://www.accessdata.fda.gov/scripts/importrefusals/index.cfm?action=export:refusalReport",
+    "retrieval_date": "2026-07-03",
+    "title": "FDA Import Refusal Record - Indian Aquaculture Marine Shrimp (Veterinary Drug Residues / Nitrofurans)",
+    "source": "US FDA Operational and Administrative System for Import Support (OASIS)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\US_FDA\\A-FDA-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\US_FDA\\A-FDA-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\US_FDA\\A-FDA-003.txt"
+    ]
+  },
+  {
+    "doc_id": "A-FDA-004",
+    "url": "https://www.accessdata.fda.gov/scripts/importrefusals/index.cfm?action=export:refusalReport",
+    "retrieval_date": "2026-07-03",
+    "title": "FDA Import Refusal Record - Processed Indian Seafood (Decomposition & Listeria monocytogenes)",
+    "source": "US FDA Operational and Administrative System for Import Support (OASIS)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\US_FDA\\A-FDA-004.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\US_FDA\\A-FDA-004.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\US_FDA\\A-FDA-004.txt"
+    ]
+  },
+  {
+    "doc_id": "A-FDA-005",
+    "url": "https://www.fda.gov/food/food-safety-modernization-act-fsma/foreign-supplier-verification-program-fsvp",
+    "retrieval_date": "2026-07-03",
+    "title": "FDA FSMA Foreign Supplier Verification Program (FSVP) Final Rule Guidance for Importers",
+    "source": "US FDA Food Safety Modernization Act (FSMA) Guidance Portal",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\US_FDA\\A-FDA-005.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\US_FDA\\A-FDA-005.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\US_FDA\\A-FDA-005.txt"
+    ]
+  },
+  {
+    "doc_id": "A-FDA-006",
+    "url": "https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/registration-food-facilities-and-other-submissions",
+    "retrieval_date": "2026-07-03",
+    "title": "FDA FSMA Section 415 Foreign Food Facility Registration Guidance & US Agent Designation",
+    "source": "US FDA Food Safety Modernization Act (FSMA) Guidance Portal",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\US_FDA\\A-FDA-006.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\US_FDA\\A-FDA-006.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\US_FDA\\A-FDA-006.txt"
+    ]
+  }
+]
