@@ -1,0 +1,23 @@
+Title: MPEDA Guidelines & Standard Operating Procedure for Issuance of EU Catch Certificate
+URL: https://mpeda.gov.in/catch-certificate/
+Scraped Date: 2026-07-03T11:54:45.242314
+
+THE MARINE PRODUCTS EXPORT DEVELOPMENT AUTHORITY (MPEDA)
+(Ministry of Commerce & Industry, Government of India)
+STANDARD OPERATING PROCEDURE (SOP) FOR ISSUANCE & VALIDATION OF EU CATCH CERTIFICATE
+
+1. LEGAL & REGULATORY MANDATE:
+Under Council Regulation (EC) No 1005/2008 establishing a community system to prevent, deter and eliminate Illegal, Unreported and Unregulated (IUU) fishing, marine fishery products imported into the European Union must be accompanied by a validated Catch Certificate. MPEDA is designated by the Government of India as the competent validating authority.
+
+2. TRACEABILITY & FISHING VESSEL VERIFICATION:
+Exporters applying for an EU Catch Certificate must upload verifiable landing records linking the raw material to authorized Indian fishing vessels registered with the Real Craft portal / Department of Fisheries.
+Key verification parameters include:
+- Fishing Vessel Registration Number and Gear Type
+- Date and Geographical Area of Catch (FAO Fishing Area 51/57)
+- Landing Port and Verification of Logbooks.
+
+3. DIGITAL VALIDATION WORKFLOW:
+All applications must be processed online through the MPEDA Catch Certificate portal (e-mpeda.nic.in). Designated MPEDA officers conduct physical and documentation verification at processing plants prior to digital stamping and signature endorsement.
+
+4. RECORD RETENTION & AUDIT:
+Exporters and MPEDA regional offices must preserve complete traceability dossiers (landing receipts, transport bills, lot codes) for a minimum period of five years for bilateral European Commission food safety audits.

@@ -1,0 +1,23 @@
+Title: Food Safety Auditing Regulations, 2018 - Statutory Recognition of Third-Party Auditing Agencies
+URL: https://www.fssai.gov.in/cms/third-party-audit.php
+Scraped Date: 2026-07-03T12:06:24.680402
+
+FOOD SAFETY AND STANDARDS AUTHORITY OF INDIA (FSSAI)
+FOOD SAFETY AND STANDARDS (FOOD SAFETY AUDITING) REGULATIONS, 2018
+RECOGNITION & GOVERNANCE OF THIRD-PARTY FOOD SAFETY AUDITING AGENCIES (HACCP / BRCGS / FSSC 22000)
+
+1. PURPOSE & THIRD-PARTY VERIFICATION LOGIC:
+To strengthen the domestic and export food safety verification mechanism, FSSAI notified the Food Safety Auditing Regulations, 2018 under Section 44 of the Act. These regulations formally recognize independent third-party auditing agencies accredited under ISO/IEC 17065 to conduct regulatory food safety audits of high-risk food manufacturing and processing businesses.
+
+2. ELIGIBLE SCHEMES & GLOBAL STANDARDS BENCHMARKING:
+Recognized third-party auditing agencies evaluated by FSSAI are empowered to verify process certifications listed in international food safety standards:
+- GFSI Benchmarked Schemes: FSSC 22000 (Food Safety System Certification), BRCGS Global Standard for Food Safety, and IFS Food Standard.
+- Core Hazard Management: ISO 22000:2018 and Codex Alimentarius HACCP guidelines.
+
+3. IMPACT ON STATUTORY LICENSING & INSPECTION FREQUENCY:
+Food Business Operators holding valid third-party audit certificates (HACCP / FSSC 22000) issued by FSSAI-recognized auditing agencies receive risk-based classification benefits:
+- Exemption from routine government regulatory inspections (except in cases of consumer complaints or food safety emergencies).
+- Expedited processing of FSSAI Central License renewals and export manufacturing endorsements.
+
+4. AUDIT REPORTING & TRACKING:
+Auditing agencies must upload comprehensive audit reports directly to the Food Safety Compliance System (FoSCoS) portal within 15 days of audit completion, grading FBO compliance as Satisfactory, Needs Improvement, or Non-Compliant.

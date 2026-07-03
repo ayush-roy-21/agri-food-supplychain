@@ -1,0 +1,16 @@
+Title: Commission Implementing Regulation (EU) 2021/405 - Third Country Lists for Public Health Compliance
+URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0405
+Scraped Date: 2026-07-03T12:17:50.548055
+
+OFFICIAL JOURNAL OF THE EUROPEAN UNION
+COMMISSION IMPLEMENTING REGULATION (EU) 2021/405
+laying down the lists of third countries or regions thereof authorised for the entry into the Union of certain animals and goods intended for human consumption in accordance with Regulation (EU) 2017/625
+
+1. STATUTORY PREREQUISITE FOR THIRD COUNTRY IMPORTS:
+Under Article 126 of Regulation (EU) 2017/625, food of animal origin—including aquaculture crustaceans, finfish, and bivalve molluscs—can only enter the EU if harvested and processed in a third country officially listed in Annex IX of Regulation 2021/405.
+
+2. AUTHORIZATION OF INDIA & RESIDUE MONITORING COMPLIANCE:
+India is formally approved under Annex IX for the export of fishery products and farmed shrimp, strictly conditional upon annual submission and European Commission approval of India's National Residue Monitoring Plan (NRMP) administered by MPEDA and EIC under Directive 96/23/EC.
+
+3. SANCTIONS FOR ANTIBIOTIC DETECTIONS:
+If Commission audit surveillance or Rapid Alert System detections reveal systemic failure in a third country's pre-harvest antibiotic monitoring (such as recurrent Nitrofuran or Chloramphenicol detections in aquaculture shrimp), the Commission is empowered to suspend third-country listing or impose 100% pre-shipment detention and chemical testing under Article 128.

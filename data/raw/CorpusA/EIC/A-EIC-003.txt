@@ -1,0 +1,21 @@
+Title: EIC Mandatory Consignment-Wise Inspection Scheme for Export of Spices (Chilli, Nutmeg, Curry Leaves) to EU
+URL: https://eicindia.gov.in/Spices.aspx
+Scraped Date: 2026-07-03T12:00:09.616717
+
+EXPORT INSPECTION COUNCIL OF INDIA (EIC)
+CONSIGNMENT-WISE INSPECTION & HEALTH CERTIFICATION PROTOCOL FOR EXPORT OF SPICES TO EUROPEAN UNION
+
+1. BACKGROUND & JOINT MANDATE WITH SPICES BOARD:
+Pursuant to European Union special import conditions (Commission Implementing Regulation EU 2019/1793 as amended), export consignments of high-risk Indian spices—specifically Capsicum annuum (Chilli and Chilli products), Myristica fragrans (Nutmeg), and Murraya koenigii (Curry leaves)—require mandatory health certification issued by EIC/EIAs before export from India.
+
+2. SAMPLING PROTOCOL FOR SPICE CONSIGNMENTS:
+For every planned export lot, authorized EIA inspection officers must draw representative samples strictly following ISO 948 / EU sampling regulations. Samples are divided into three sealed counter-parts: one for official laboratory testing, one for exporter reference, and one retained at EIA headquarters.
+
+3. ANALYTICAL TESTING MANDATE:
+Official testing is conducted at EIA laboratories or Spices Board Quality Evaluation Laboratories (QEL) verifying strict adherence to EU Maximum Residue Limits (MRLs):
+- Aflatoxin B1 (maximum 5.0 mcg/kg) and Total Aflatoxins (maximum 10.0 mcg/kg) in Chilli and Nutmeg.
+- Ethylene Oxide (ETO) and 2-Chloroethanol (sum expressed as ETO below LOQ 0.05 mg/kg).
+- Multi-residue pesticide screens in Curry leaves.
+
+4. HEALTH CERTIFICATE ENDORSEMENT:
+Consignments clearing analytical verification receive the statutory EIC Official Certificate signed by designated EIA inspection officers, enabling expedited green-lane entry at EU Border Control Posts.

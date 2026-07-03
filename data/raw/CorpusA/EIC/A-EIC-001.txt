@@ -1,0 +1,22 @@
+Title: Export (Quality Control and Inspection) Act, 1963 - Statutory Powers of EIC and EIAs
+URL: https://eicindia.gov.in/Index.aspx
+Scraped Date: 2026-07-03T12:00:07.960727
+
+EXPORT INSPECTION COUNCIL OF INDIA (EIC)
+(Ministry of Commerce & Industry, Government of India)
+STATUTORY GOVERNANCE FRAMEWORK UNDER THE EXPORT (QUALITY CONTROL AND INSPECTION) ACT, 1963
+
+1. CONSTITUTION & MANDATE:
+The Export Inspection Council (EIC) is the official export-certification body of India, established by the Central Government under Section 3 of the Export (Quality Control and Inspection) Act, 1963 (Act No. 22 of 1963). Its primary mandate is to ensure sound development of export trade through mandatory quality control and pre-shipment inspection.
+
+2. SUB-ORDINATE INSPECTION AGENCIES (EIAs):
+To execute statutory inspection and testing across India's export hubs, five Export Inspection Agencies (EIAs) function under EIC at Mumbai, Kolkata, Kochi, Delhi, and Chennai, supported by a network of 30 sub-offices and NABL-accredited analytical laboratories.
+
+3. STATUTORY FUNCTIONS & POWERS:
+Under Section 6 of the Act, the Central Government empowers EIC/EIAs to:
+- Notify agricultural, marine, and food commodities subject to mandatory pre-shipment quality inspection.
+- Formulate standard quality specifications recognizing international standards (Codex Alimentarius, EU regulations, US FDA requirements).
+- Issue statutory Certificates of Inspection (CoI) and Health Certificates required for customs clearance at destination ports.
+
+4. OFFENSES & PENALTIES:
+Exporting notified food or agricultural items without valid EIC inspection endorsement or Health Certificates constitutes a direct statutory violation subject to seizure of cargo, license revocation, and prosecution under Section 11 of the Act.
