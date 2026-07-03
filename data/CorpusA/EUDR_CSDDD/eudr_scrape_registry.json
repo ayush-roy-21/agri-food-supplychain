@@ -1,0 +1,38 @@
+[
+  {
+    "doc_id": "A-EUDR-001",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1115",
+    "retrieval_date": "2026-07-03",
+    "title": "Regulation (EU) 2023/1115 (EUDR) - Mandatory Geolocation Traceability & Due Diligence Statements",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EUDR_CSDDD\\A-EUDR-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EUDR_CSDDD\\A-EUDR-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EUDR_CSDDD\\A-EUDR-001.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EUDR-002",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1760",
+    "retrieval_date": "2026-07-03",
+    "title": "Directive (EU) 2024/1760 (CSDDD) - Corporate Sustainability & Human Rights Due Diligence",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EUDR_CSDDD\\A-EUDR-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EUDR_CSDDD\\A-EUDR-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EUDR_CSDDD\\A-EUDR-002.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EUDR-003",
+    "url": "https://apeda.gov.in/",
+    "retrieval_date": "2026-07-03",
+    "title": "Ministry of Commerce & APEDA Advisory on EUDR Compliance & GPS Plot Geotagging for Indian Exporters",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EUDR_CSDDD\\A-EUDR-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EUDR_CSDDD\\A-EUDR-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EUDR_CSDDD\\A-EUDR-003.txt"
+    ]
+  }
+]

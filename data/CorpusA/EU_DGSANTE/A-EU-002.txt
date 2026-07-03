@@ -1,0 +1,22 @@
+Title: Council Regulation (EC) No 1005/2008 - Community System to Prevent, Deter and Eliminate IUU Fishing
+URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R1005
+Scraped Date: 2026-07-03T12:17:49.587236
+
+OFFICIAL JOURNAL OF THE EUROPEAN UNION
+COUNCIL REGULATION (EC) No 1005/2008
+establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated (IUU) fishing
+
+1. LEGAL BASIS & SCOPE OF CATCH CERTIFICATION:
+To protect marine ecosystems and prevent unfairly harvested fish from destabilizing European maritime markets, Article 12 mandates that the importation of fishery products into the European Community shall only be permitted when accompanied by a validated Catch Certificate.
+
+2. THIRD COUNTRY FLAG STATE RESPONSIBILITIES:
+The Catch Certificate must be validated by the designated competent flag state authority of the fishing vessel (in India, the Marine Products Export Development Authority - MPEDA). The competent authority certifies that the catches concerned have been made in accordance with applicable international conservation and management laws.
+
+3. MANDATORY DATA FIELDS IN CATCH CERTIFICATE (ANNEX II):
+- Vessel name, registration number, home port, and call sign.
+- Catch dates, estimated live weight by species, and FAO fishing area.
+- Verification of landing port and transhipment declarations.
+- Processing plant health stamp and export container sealing numbers.
+
+4. INDIRECT IMPORTATION & PROCESSING IN THIRD COUNTRIES:
+Where fishery products are processed in a third country other than the flag state prior to EU entry, Article 14 requires a statement endorsed by the processing plant's competent authority documenting exact input-output conversion ratios and raw material traceability.

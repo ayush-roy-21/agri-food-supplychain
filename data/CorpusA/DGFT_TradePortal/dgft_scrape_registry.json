@@ -1,0 +1,62 @@
+[
+  {
+    "doc_id": "A-DGFT-001",
+    "url": "https://dgft.gov.in/CP/?opt=ft-policy",
+    "retrieval_date": "2026-07-03",
+    "title": "Foreign Trade Policy (FTP) 2023 - Chapter 2 General Provisions & IEC Registration Mandate",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\DGFT_TradePortal\\A-DGFT-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\DGFT_TradePortal\\A-DGFT-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\DGFT_TradePortal\\A-DGFT-001.txt"
+    ]
+  },
+  {
+    "doc_id": "A-DGFT-002",
+    "url": "https://coo.dgft.gov.in/",
+    "retrieval_date": "2026-07-03",
+    "title": "DGFT Public Notice on Online Issuance of Certificate of Origin (Preferential & Non-Preferential)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\DGFT_TradePortal\\A-DGFT-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\DGFT_TradePortal\\A-DGFT-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\DGFT_TradePortal\\A-DGFT-002.txt"
+    ]
+  },
+  {
+    "doc_id": "A-DGFT-003",
+    "url": "https://www.indiantradeportal.in/",
+    "retrieval_date": "2026-07-03",
+    "title": "India Trade Portal SPS & TBT Compliance Matrix for Export of Spices and Marine Products",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\DGFT_TradePortal\\A-DGFT-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\DGFT_TradePortal\\A-DGFT-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\DGFT_TradePortal\\A-DGFT-003.txt"
+    ]
+  },
+  {
+    "doc_id": "A-DGFT-004",
+    "url": "https://dgft.gov.in/",
+    "retrieval_date": "2026-07-03",
+    "title": "DGFT Notification on Mandatory Quality Control Orders (QCOs) & Pre-Shipment Export Clearance",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\DGFT_TradePortal\\A-DGFT-004.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\DGFT_TradePortal\\A-DGFT-004.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\DGFT_TradePortal\\A-DGFT-004.txt"
+    ]
+  },
+  {
+    "doc_id": "A-DGFT-005",
+    "url": "https://dgft.gov.in/CP/?opt=rodtep",
+    "retrieval_date": "2026-07-03",
+    "title": "RoDTEP Scheme Operational Guidelines & Duty Remission Mechanisms for Food Processors",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\DGFT_TradePortal\\A-DGFT-005.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\DGFT_TradePortal\\A-DGFT-005.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\DGFT_TradePortal\\A-DGFT-005.txt"
+    ]
+  }
+]

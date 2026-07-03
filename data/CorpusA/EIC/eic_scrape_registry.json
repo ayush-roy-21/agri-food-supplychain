@@ -1,0 +1,62 @@
+[
+  {
+    "doc_id": "A-EIC-001",
+    "url": "https://eicindia.gov.in/Index.aspx",
+    "retrieval_date": "2026-07-03",
+    "title": "Export (Quality Control and Inspection) Act, 1963 - Statutory Powers of EIC and EIAs",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EIC\\A-EIC-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EIC\\A-EIC-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EIC\\A-EIC-001.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EIC-002",
+    "url": "https://eicindia.gov.in/Marine.aspx",
+    "retrieval_date": "2026-07-03",
+    "title": "EIC Executive Instructions for Issuance of Health Certificates for Marine Products Exported to EU & USA",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EIC\\A-EIC-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EIC\\A-EIC-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EIC\\A-EIC-002.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EIC-003",
+    "url": "https://eicindia.gov.in/Spices.aspx",
+    "retrieval_date": "2026-07-03",
+    "title": "EIC Mandatory Consignment-Wise Inspection Scheme for Export of Spices (Chilli, Nutmeg, Curry Leaves) to EU",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EIC\\A-EIC-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EIC\\A-EIC-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EIC\\A-EIC-003.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EIC-004",
+    "url": "https://eicindia.gov.in/Labs.aspx",
+    "retrieval_date": "2026-07-03",
+    "title": "Laboratory Recognition Scheme & Analytical Testing Protocols of Export Inspection Agencies (EIAs)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EIC\\A-EIC-004.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EIC\\A-EIC-004.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EIC\\A-EIC-004.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EIC-005",
+    "url": "https://eicindia.gov.in/IPQC.aspx",
+    "retrieval_date": "2026-07-03",
+    "title": "Approved Technologist Scheme & In-Process Quality Control (IPQC) for Food Processing Units",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EIC\\A-EIC-005.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EIC\\A-EIC-005.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EIC\\A-EIC-005.txt"
+    ]
+  }
+]

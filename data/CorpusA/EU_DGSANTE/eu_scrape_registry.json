@@ -1,0 +1,62 @@
+[
+  {
+    "doc_id": "A-EU-001",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1793",
+    "retrieval_date": "2026-07-03",
+    "title": "Commission Implementing Regulation (EU) 2019/1793 - Temporary Increase of Official Controls on Third Country Imports",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EU_DGSANTE\\A-EU-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EU_DGSANTE\\A-EU-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EU_DGSANTE\\A-EU-001.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EU-002",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R1005",
+    "retrieval_date": "2026-07-03",
+    "title": "Council Regulation (EC) No 1005/2008 - Community System to Prevent, Deter and Eliminate IUU Fishing",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EU_DGSANTE\\A-EU-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EU_DGSANTE\\A-EU-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EU_DGSANTE\\A-EU-002.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EU-003",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0853",
+    "retrieval_date": "2026-07-03",
+    "title": "Regulation (EC) No 853/2004 - Specific Hygiene Rules for Food of Animal Origin (Marine Products Processing)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EU_DGSANTE\\A-EU-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EU_DGSANTE\\A-EU-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EU_DGSANTE\\A-EU-003.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EU-004",
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0405",
+    "retrieval_date": "2026-07-03",
+    "title": "Commission Implementing Regulation (EU) 2021/405 - Third Country Lists for Public Health Compliance",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EU_DGSANTE\\A-EU-004.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EU_DGSANTE\\A-EU-004.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EU_DGSANTE\\A-EU-004.txt"
+    ]
+  },
+  {
+    "doc_id": "A-EU-005",
+    "url": "https://food.ec.europa.eu/safety/rasff_en",
+    "retrieval_date": "2026-07-03",
+    "title": "European Commission Rapid Alert System for Food and Feed (RASFF) Standard Operating Procedures",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\EU_DGSANTE\\A-EU-005.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\EU_DGSANTE\\A-EU-005.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\EU_DGSANTE\\A-EU-005.txt"
+    ]
+  }
+]

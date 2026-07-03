@@ -1,0 +1,18 @@
+Title: FSSAI Manual of Methods of Analysis & Laboratory Recognition Scheme for Processed Food Contaminants
+URL: https://www.fssai.gov.in/cms/manuals-of-methods-of-analysis.php
+Scraped Date: 2026-07-03T12:06:25.215398
+
+FOOD SAFETY AND STANDARDS AUTHORITY OF INDIA (FSSAI)
+MANUAL OF METHODS OF ANALYSIS OF FOOD: METALS, PESTICIDE RESIDUES, AND MYCOTOXINS
+
+1. STATUTORY TESTING & REFERRAL LABORATORY NETWORK:
+Under Sections 40 and 43 of the Act, FSSAI notifies a tier-based network of primary testing laboratories, referral laboratories, and national reference laboratories accredited by NABL (ISO/IEC 17025) to perform regulatory compliance testing on processed foods and value-added exports.
+
+2. INSTRUMENTAL VALIDATION PROTOCOLS FOR VALUE-ADDED FOODS:
+The official manual prescribes standardized instrumental methods for detecting trace chemical contaminants in ready-to-eat and processed food categories:
+- Aflatoxins (B1, B2, G1, G2, and M1) and Ochratoxin A via High-Performance Liquid Chromatography (HPLC) with fluorescence detection and immunoaffinity column cleanup.
+- Multi-residue pesticide monitoring via GC-MS/MS and LC-MS/MS covering over 250 agricultural chemicals.
+- Heavy metal contamination (Arsenic, Cadmium, Lead, Mercury) via Inductively Coupled Plasma Mass Spectrometry (ICP-MS).
+
+3. QUALITY ASSURANCE & PROFICIENCY TESTING:
+Recognized food testing laboratories must participate in mandatory national proficiency testing (PT) rounds and maintain strict chain-of-custody protocols for statutory counter-samples drawn during export or domestic regulatory audits.

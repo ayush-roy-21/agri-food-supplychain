@@ -1,0 +1,98 @@
+[
+  {
+    "doc_id": "A-APEDA-001",
+    "url": "https://apeda.gov.in",
+    "retrieval_date": "2026-07-03",
+    "title": "APEDA Official Portal Root & Export Governance Overview",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\APEDA\\A-APEDA-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\APEDA\\A-APEDA-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\APEDA\\A-APEDA-001.txt"
+    ]
+  },
+  {
+    "doc_id": "A-APEDA-002",
+    "url": "https://apeda.gov.in/ProcessedFoods",
+    "retrieval_date": "2026-07-03",
+    "title": "APEDA Processed Foods & Value-Added Export Portal",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\APEDA\\A-APEDA-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\APEDA\\A-APEDA-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\APEDA\\A-APEDA-002.txt"
+    ]
+  },
+  {
+    "doc_id": "A-APEDA-004",
+    "url": "https://apeda.gov.in/TraceNet",
+    "retrieval_date": "2026-07-03",
+    "title": "APEDA TraceNet Traceability System Portal",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\APEDA\\A-APEDA-004.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\APEDA\\A-APEDA-004.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\APEDA\\A-APEDA-004.txt"
+    ]
+  },
+  {
+    "doc_id": "A-APEDA-005",
+    "url": "https://apeda.gov.in/OrganicProducts",
+    "retrieval_date": "2026-07-03",
+    "title": "Organicproducts",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\APEDA\\A-APEDA-005.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\APEDA\\A-APEDA-005.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\APEDA\\A-APEDA-005.txt"
+    ]
+  },
+  {
+    "doc_id": "A-APEDA-007",
+    "url": "https://apeda.gov.in/Cereals",
+    "retrieval_date": "2026-07-03",
+    "title": "APEDA Cereals Export Sector Profile & Export Protocols",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\APEDA\\A-APEDA-007.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\APEDA\\A-APEDA-007.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\APEDA\\A-APEDA-007.txt"
+    ]
+  },
+  {
+    "doc_id": "A-APEDA-008",
+    "url": "https://apeda.gov.in/FreshFruitsAndVegetables",
+    "retrieval_date": "2026-07-03",
+    "title": "APEDA Fresh Fruits & Vegetables Sector Governance",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\APEDA\\A-APEDA-008.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\APEDA\\A-APEDA-008.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\APEDA\\A-APEDA-008.txt"
+    ]
+  },
+  {
+    "doc_id": "A-APEDA-009",
+    "url": "https://apeda.gov.in/AnimalProducts",
+    "retrieval_date": "2026-07-03",
+    "title": "APEDA Animal Products & Meat Quality Governance",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\APEDA\\A-APEDA-009.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\APEDA\\A-APEDA-009.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\APEDA\\A-APEDA-009.txt"
+    ]
+  },
+  {
+    "doc_id": "A-APEDA-010",
+    "url": "https://apeda.gov.in/FloricultureAndSeeds",
+    "retrieval_date": "2026-07-03",
+    "title": "APEDA Floriculture & Seeds Export Framework",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\APEDA\\A-APEDA-010.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\APEDA\\A-APEDA-010.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\APEDA\\A-APEDA-010.txt"
+    ]
+  }
+]

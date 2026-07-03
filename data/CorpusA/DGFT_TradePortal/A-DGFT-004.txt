@@ -1,0 +1,18 @@
+Title: DGFT Notification on Mandatory Quality Control Orders (QCOs) & Pre-Shipment Export Clearance
+URL: https://dgft.gov.in/
+Scraped Date: 2026-07-03T12:31:30.583406
+
+DIRECTORATE GENERAL OF FOREIGN TRADE (DGFT)
+STATUTORY NOTIFICATION: ENFORCEMENT OF MANDATORY QUALITY CONTROL AND PRE-SHIPMENT INSPECTION FOR EXPORTS
+
+1. POLICY PROVISION FOR MANDATORY EXPORT INSPECTION:
+Under Paragraph 2.55 of FTP 2023, the Central Government retains statutory authority to notify commodities that cannot be exported unless certified by designated government quality inspection agencies.
+
+2. ICEGATE CUSTOMS CLEARANCE GATEWAY:
+Indian Customs electronic data interchange (ICEGATE) blocks export shipping bills for notified food, marine, and spice shipments unless the exporter's IEC is mapped to an active, validated digital inspection certificate transmitted directly by:
+- Export Inspection Council (EIC) e-Health Certificate server.
+- Spices Board Quality Evaluation Laboratory clearance server.
+- MPEDA e-SANTA / Catch Certificate validation portal.
+
+3. EXEMPTION FOR STAR EXPORT HOUSES & APPROVED UNITS:
+Exporters holding Status Holder recognition (One Star to Five Star Export Houses) or processing plants operating under EIC In-Process Quality Control (IPQC) / Approved Technologist schemes are granted self-declaration privileges, subject to periodic regulatory audit trail verification.

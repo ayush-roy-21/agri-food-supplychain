@@ -1,0 +1,26 @@
+[
+  {
+    "doc_id": "A-ZED-001",
+    "url": "https://zed.msme.gov.in/",
+    "retrieval_date": "2026-07-03",
+    "title": "MSME Sustainable (ZED) Certification Scheme Guidelines for Food Processing Enterprises",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\NITI_MSME\\A-ZED-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\NITI_MSME\\A-ZED-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\NITI_MSME\\A-ZED-001.txt"
+    ]
+  },
+  {
+    "doc_id": "A-ZED-002",
+    "url": "https://niti.gov.in/",
+    "retrieval_date": "2026-07-03",
+    "title": "NITI Aayog Strategy Report: Doubling Farmers Income & MSME Export Infrastructure Integration",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\NITI_MSME\\A-ZED-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\NITI_MSME\\A-ZED-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\NITI_MSME\\A-ZED-002.txt"
+    ]
+  }
+]

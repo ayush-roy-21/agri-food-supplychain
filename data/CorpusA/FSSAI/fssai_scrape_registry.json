@@ -1,0 +1,62 @@
+[
+  {
+    "doc_id": "A-FSSAI-001",
+    "url": "https://www.fssai.gov.in/upload/uploadfiles/files/Licensing_Regulations.pdf",
+    "retrieval_date": "2026-07-03",
+    "title": "FSSAI Licensing and Registration Regulations, 2011 - Schedule 4 HACCP & Hygiene Requirements",
+    "format": "pdf",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\FSSAI\\A-FSSAI-001.pdf",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\FSSAI\\A-FSSAI-001.pdf",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\FSSAI\\A-FSSAI-001.pdf"
+    ]
+  },
+  {
+    "doc_id": "A-FSSAI-002",
+    "url": "https://www.fssai.gov.in/cms/third-party-audit.php",
+    "retrieval_date": "2026-07-03",
+    "title": "Food Safety Auditing Regulations, 2018 - Statutory Recognition of Third-Party Auditing Agencies",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\FSSAI\\A-FSSAI-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\FSSAI\\A-FSSAI-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\FSSAI\\A-FSSAI-002.txt"
+    ]
+  },
+  {
+    "doc_id": "A-FSSAI-003",
+    "url": "https://foscos.fssai.gov.in/",
+    "retrieval_date": "2026-07-03",
+    "title": "FoSCoS Central Licensing Procedures & Compliance Mandates for 100% Export Oriented Units (EOUs)",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\FSSAI\\A-FSSAI-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\FSSAI\\A-FSSAI-003.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\FSSAI\\A-FSSAI-003.txt"
+    ]
+  },
+  {
+    "doc_id": "A-FSSAI-004",
+    "url": "https://www.fssai.gov.in/",
+    "retrieval_date": "2026-07-03",
+    "title": "FSSAI Export Regulatory Cooperation Framework with APEDA, MPEDA, and Export Inspection Council",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\FSSAI\\A-FSSAI-004.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\FSSAI\\A-FSSAI-004.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\FSSAI\\A-FSSAI-004.txt"
+    ]
+  },
+  {
+    "doc_id": "A-FSSAI-005",
+    "url": "https://www.fssai.gov.in/cms/manuals-of-methods-of-analysis.php",
+    "retrieval_date": "2026-07-03",
+    "title": "FSSAI Manual of Methods of Analysis & Laboratory Recognition Scheme for Processed Food Contaminants",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\FSSAI\\A-FSSAI-005.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\FSSAI\\A-FSSAI-005.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\FSSAI\\A-FSSAI-005.txt"
+    ]
+  }
+]

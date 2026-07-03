@@ -1,0 +1,15 @@
+Title: RoDTEP Scheme Operational Guidelines & Duty Remission Mechanisms for Food Processors
+URL: https://dgft.gov.in/CP/?opt=rodtep
+Scraped Date: 2026-07-03T12:31:30.760879
+
+DIRECTORATE GENERAL OF FOREIGN TRADE (DGFT) & MINISTRY OF FINANCE
+OPERATIONAL MANUAL: REMISSION OF DUTIES AND TAXES ON EXPORTED PRODUCTS (RoDTEP) SCHEME
+
+1. SCHEME OBJECTIVE FOR AGRI & PROCESSED FOOD SECTOR:
+Notified under Paragraph 4.54 of FTP 2023, the RoDTEP scheme reimburses embedded Central, State, and local taxes/duties (such as fuel VAT, electricity duty, and mandi tax) borne by agricultural and food processing units during export manufacturing that are not refunded under GST or drawback mechanisms.
+
+2. ELIGIBILITY & ELECTRONIC LEDGER SYSTEM:
+Exporting FBOs claim RoDTEP remission directly on the customs shipping bill by declaring specific HS code eligibility. Remission credits are issued electronically as transferable duty credit scrips maintained in the ICEGATE electronic ledger.
+
+3. STATUTORY COMPLIANCE AUDIT & RECUPERATION:
+Disbursement of RoDTEP scrips is subject to regulatory post-audit verification. If export realization is not completed within RBI FEMA timelines or if food export lots are rejected and returned by destination health authorities (EU DG SANTE / US FDA), the exporter must reimburse the utilized duty credits with statutory interest.

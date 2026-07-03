@@ -1,0 +1,26 @@
+[
+  {
+    "doc_id": "A-CSR-001",
+    "url": "https://www.csr.gov.in/",
+    "retrieval_date": "2026-07-03",
+    "title": "Companies Act, 2013 - Section 135 Statutory Mandate & Form CSR-2 E-Filing Format",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\CSR\\A-CSR-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\CSR\\A-CSR-001.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\CSR\\A-CSR-001.txt"
+    ]
+  },
+  {
+    "doc_id": "A-CSR-002",
+    "url": "https://www.csr.gov.in/",
+    "retrieval_date": "2026-07-03",
+    "title": "MCA Guidance on Eligible CSR Spending for Rural Agricultural & Food Supply Chain Infrastructure",
+    "format": "html/text",
+    "local_paths": [
+      "E:\\Summer Internship'26\\agri-food-project\\CorpusA\\CSR\\A-CSR-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\CorpusA\\CSR\\A-CSR-002.txt",
+      "E:\\Summer Internship'26\\agri-food-project\\data\\raw\\CorpusA\\CSR\\A-CSR-002.txt"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+Title: Regulation (EU) 2023/1115 (EUDR) - Mandatory Geolocation Traceability & Due Diligence Statements
+URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1115
+Scraped Date: 2026-07-03T14:09:52.269949
+
+OFFICIAL JOURNAL OF THE EUROPEAN UNION
+REGULATION (EU) 2023/1115 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
+on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation (EUDR)
+
+1. STATUTORY MANDATE & COVERED COMMODITIES:
+To curb global deforestation driven by agricultural expansion, Article 3 prohibits placing relevant commodities—specifically cattle, cocoa, coffee, oil palm, rubber, soya, and wood (along with derivative food packaging and processed products)—on the EU market unless they are strictly deforestation-free and legal according to the laws of the country of production.
+
+2. MANDATORY GEOLOCATION & POLYGON TRACEABILITY (ARTICLE 9):
+Operators importing covered commodities into the EU must collect and transmit exact geolocation coordinates (latitude and longitude) of all plots of land where the commodities were produced. For plots exceeding 4 hectares, operators must submit complete geospatial boundary polygons. Any agricultural product grown on land subjected to deforestation or forest degradation after the statutory cutoff date of 31 December 2020 is barred from EU entry.
+
+3. SUBMISSION OF DUE DILIGENCE STATEMENT (TRACES):
+Prior to customs clearance, importers must upload a formally validated Due Diligence Statement (DDS) into the European Commission's TRACES electronic information portal, verifying comprehensive supply chain risk assessment and mitigation.
+
+4. SANCTIONS & CARGO CONFISCATION:
+Under Article 25, non-compliant third-country shipments face immediate seizure at EU borders, confiscation of revenues gained, and pecuniary fines set at a minimum of 4% of the operator's total annual Union turnover.
