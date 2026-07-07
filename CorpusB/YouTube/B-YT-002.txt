@@ -1,0 +1,66 @@
+Doc ID: B-YT-002
+Title: Demo on How to Apply for a new Advance Authorisation on the DGFT e-Platform
+Channel: Directorate General of Foreign Trade | Video ID: 5tDlf7o52xo
+Publish Date: 2020-12-11T06:26:21Z
+Platform: YouTube Data API v3
+Targeted Query: DGFT portal error export shipment stopped
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+This video is developed by the Directorate General of Foreign Trade to guide exporters on how to apply for a new authorisation ...
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2023-04-29T07:03:35Z] (Likes: 0)
+    "How do apply for the bond wavier for the advance Authorisation , for which export obligation is complete and duty free import has to be done... The eBRC has been uploaded on the dgft website , but is not visible under the bill of export"
+
+(2) Author: [DE-IDENTIFIED USER] [2021-11-17T16:20:02Z] (Likes: 0)
+    "HII HOW CAN I CHECK MY REX NUMBER STATUS . CAN I APPLY REX NUMBER ON THE DGFT SITE"
+
+(3) Author: [DE-IDENTIFIED USER] [2021-10-28T19:30:21Z] (Likes: 0)
+    "Any time limit for the officers to approve AA application ?"
+
+(4) Author: [DE-IDENTIFIED USER] [2021-06-22T04:27:43Z] (Likes: 0)
+    "Sir, I need a demo video for redemption or closure of AA in new website. Please help."
+
+(5) Author: [DE-IDENTIFIED USER] [2021-05-21T17:46:23Z] (Likes: 0)
+    "Can you share demo video for MEIS application"
+
+(6) Author: [DE-IDENTIFIED USER] [2021-04-20T18:18:41Z] (Likes: 0)
+    "nice video ........please make a video on COS(Certificate of supplies) and how to apply ?"
+
+(7) Author: [DE-IDENTIFIED USER] [2021-04-18T01:20:44Z] (Likes: 0)
+    "Nice explains"
+
+(8) Author: [DE-IDENTIFIED USER] [2021-03-17T12:21:19Z] (Likes: 0)
+    "hey please help !! i am filing complaint against a foreign exporter in dgft website , I am facing problems in filling data in concerned office column please suggest what to do now ?"
+
+(9) Author: [DE-IDENTIFIED USER] [2021-03-05T07:06:01Z] (Likes: 0)
+    "I am interested to know Learning career path for CHA or Export marketing Courses kindly provide an email id of the perosn"
+
+(10) Author: [DE-IDENTIFIED USER] [2021-02-26T11:44:45Z] (Likes: 0)
+    "Please explain in HINDI also."
+
+(11) Author: [DE-IDENTIFIED USER] [2020-12-31T14:30:00Z] (Likes: 0)
+    "Request you to guide us in applying for EODC online in new portal."
+
+(12) Author: [DE-IDENTIFIED USER] [2020-12-22T13:00:00Z] (Likes: 0)
+    "Very much informative video, please share for DFIA also"
+
+(13) Author: [DE-IDENTIFIED USER] [2020-12-13T06:30:27Z] (Likes: 2)
+    "This video is really informative. My humble request to DGFT to make more informative videos on each chapter of new FTP-2021, HBP, SCOMET, PLI Schemes. This is going to boost confidence and knowledge level amongst all SMEs and new exporters."
+
+(14) Author: [DE-IDENTIFIED USER] [2020-12-11T11:17:00Z] (Likes: 0)
+    "This is a very good initiative. We also request similar Demo Videos on Migration of AA / EPCG / DFIA online modules on the DGFT e-Platform. Regards, Team PLEXCONCIL"
+
+(15) Author: [DE-IDENTIFIED USER] [2020-12-11T08:20:46Z] (Likes: 0)
+    "Why there is no uploading option of import details?? I have 1257 import items which consumes our productivity if updated individually over website. For export products there is uploading option; however, typically, import products will always high."
+
+================================================================================

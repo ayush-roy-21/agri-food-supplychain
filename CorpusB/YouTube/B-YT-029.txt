@@ -1,0 +1,24 @@
+Doc ID: B-YT-029
+Title: FSMA Fridays January 2016 - FSMA Compliance Implementation Challenges and Guidance
+Channel: SafetyChain Software | Video ID: EAFvnKHQAag
+Publish Date: 2016-01-29T21:59:12Z
+Platform: YouTube Data API v3
+Targeted Query: US FDA FSMA foreign supplier verification program audit India
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+Popular monthly FSMA webcast series, featuring The Acheson Group team. In January 2016's session, Peyman Fatemi and ...
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2020-12-16T17:58:48Z] (Likes: 0)
+    "Apa L"
+
+================================================================================

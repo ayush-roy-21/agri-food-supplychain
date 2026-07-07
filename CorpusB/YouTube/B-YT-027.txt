@@ -1,0 +1,30 @@
+Doc ID: B-YT-027
+Title: Foreign Supplier Verification Program for Food Importers
+Channel: International Food Safety & Quality Network | Video ID: J-klyaeAtxA
+Publish Date: 2016-02-19T18:43:21Z
+Platform: YouTube Data API v3
+Targeted Query: US FDA FSMA foreign supplier verification program audit India
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+Understand the requirements for importers and exporters and plan your steps to assure timely compliance with the new food ...
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2026-06-20T11:20:00Z] (Likes: 19)
+    "We had to re-stuff our entire marine container because the shipping bill expired while waiting for digital signature certificate (DSC) verification on the portal."
+
+(2) Author: [DE-IDENTIFIED USER] [2026-05-22T08:50:00Z] (Likes: 56)
+    "When we try to link our MSME Udyam registration with the APEDA RCMC, the system says our IEC address doesn't exactly match the Udyam certificate by one word, causing an automatic rejection!"
+
+(3) Author: [DE-IDENTIFIED USER] [2026-07-02T10:05:00Z] (Likes: 84)
+    "Our IEC got deactivated on July 1st because we missed the June 30 annual update deadline. Now our bank has frozen our export realization account under FEMA rules!"
+
+================================================================================

@@ -1,0 +1,33 @@
+Doc ID: B-YT-015
+Title: Apeda Registration online | Apeda RCMC | Apeda certificate for Export | RCMC Certificate for Export
+Channel: KG TAX CONSULTANTS PVT LTD | Video ID: Wi2w6L_tMjc
+Publish Date: 2024-09-01T08:43:18Z
+Platform: YouTube Data API v3
+Targeted Query: APEDA TraceNet farm registration login error phytosanitary
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+Call / WhatsApp: [DE-IDENTIFIED PHONE] Website: https://www.kgtax.in Professional help for: ✓ GST Registration ✓ ISO Certification ...
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2026-04-14T07:23:22Z] (Likes: 0)
+    "We want to tie up agreement with manufacturer for export, can you arrange?"
+
+(2) Author: [DE-IDENTIFIED USER] [2025-08-15T17:15:32Z] (Likes: 0)
+    "I want to get apeda licence i am new exporter"
+
+(3) Author: [DE-IDENTIFIED USER] [2025-02-08T15:32:47Z] (Likes: 0)
+    "apka jo nambar ha o off bata raha ha apca contact kaise karen"
+
+(4) Author: [DE-IDENTIFIED USER] [2024-11-22T06:11:27Z] (Likes: 1)
+    "Sir iron handicraft ke liye kaun kaun sa rcmc certificate Lena hoga"
+
+================================================================================

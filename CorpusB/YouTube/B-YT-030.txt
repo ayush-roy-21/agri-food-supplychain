@@ -1,0 +1,24 @@
+Doc ID: B-YT-030
+Title: FSVP Certification: Understanding FSVP Requirements for Importing Food Products
+Channel: Quality Smart Solutions | Video ID: T3pLp1dF08Y
+Publish Date: 2023-06-13T20:21:08Z
+Platform: YouTube Data API v3
+Targeted Query: US FDA FSMA foreign supplier verification program audit India
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+Hi there "Welcome to Quality Smart Solutions, In this informative video, we dive into the topic of FSVP Certification and explore ...
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2025-10-01T11:11:12Z] (Likes: 0)
+    "are you saying S FVP or F SVP? which is correct?"
+
+================================================================================
