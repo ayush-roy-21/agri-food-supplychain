@@ -146,11 +146,11 @@ def run_gdelt_dqa_filter():
     
     project_root = Path(__file__).resolve().parent.parent.parent
     
-    raw_json_path = project_root / "data" / "CorpusB" / "GDELT" / "Corpus_B_Raw_GDELT_Extract.json"
+    raw_json_path = project_root / "data" / "raw" / "CorpusB" / "GDELT" / "Corpus_B_Raw_GDELT_Extract.json"
     if not raw_json_path.exists():
-        raw_json_path = project_root / "CorpusB" / "GDELT" / "Corpus_B_Raw_GDELT_Extract.json"
+        raw_json_path = project_root / "data" / "CorpusB" / "GDELT" / "Corpus_B_Raw_GDELT_Extract.json"
         if not raw_json_path.exists():
-            raw_json_path = project_root / "data" / "raw" / "CorpusB" / "GDELT" / "Corpus_B_Raw_GDELT_Extract.json"
+            raw_json_path = project_root / "CorpusB" / "GDELT" / "Corpus_B_Raw_GDELT_Extract.json"
             
     if not raw_json_path.exists():
         print(f"[!] Could not find raw GDELT extract at {raw_json_path}. Please run src/data-collection/gdelt_pipeline.py first.")
@@ -189,8 +189,7 @@ def run_gdelt_dqa_filter():
     
     output_dirs = [
         project_root / "CorpusB" / "GDELT",
-        project_root / "data" / "CorpusB" / "GDELT",
-        project_root / "data" / "raw" / "CorpusB" / "GDELT"
+        project_root / "data" / "CorpusB" / "GDELT"
     ]
     
     new_master_rows = []
@@ -259,11 +258,10 @@ def run_gdelt_dqa_filter():
         ]
         new_master_rows.append(row)
         
-    for out_dir in output_dirs[:2]:
+    for out_dir in output_dirs:
         if not out_dir.exists():
             continue
         clean_csv = out_dir / "Corpus_B_Clean_GDELT_Extract.csv"
-        clean_json = out_dir / "Corpus_B_Clean_GDELT_Extract.json"
         
         try:
             if pd:
@@ -274,8 +272,6 @@ def run_gdelt_dqa_filter():
                     writer = csv.DictWriter(f, fieldnames=clean_corpus[0].keys() if clean_corpus else [])
                     writer.writeheader()
                     writer.writerows(clean_corpus)
-            with open(clean_json, "w", encoding="utf-8") as f:
-                json.dump(clean_corpus, f, indent=4)
             print(f"[*] Saved clean GDELT extract ({len(clean_corpus)} records) to: {clean_csv}")
         except Exception as e:
             print(f"[!] Warning: Could not save clean extract to {clean_csv}: {e}")
@@ -298,6 +294,14 @@ def run_gdelt_dqa_filter():
         writer.writerows(new_master_rows)
         
     print(f"[*] Successfully updated data/master_registry.csv with {len(new_master_rows)} clean GDELT 13-column records.")
+    
+    # Step 6: Automatically separate clean and raw CSVs into MSME and Large Listed tiers
+    try:
+        from separate_gdelt_tiers import main as separate_main
+        separate_main()
+    except Exception as e:
+        print(f"[!] Could not run tier separation: {e}")
+        
     print("\n[OK] Section 10 DQA Content Quality Filter completed successfully!")
 
 if __name__ == "__main__":
