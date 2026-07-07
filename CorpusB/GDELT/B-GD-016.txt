@@ -1,0 +1,16 @@
+Doc ID: B-GD-016
+Title: APEDA TraceNet farm registration system faces server slowdown during peak mango export season
+Source Domain: timesofindia.indiatimes.com | Publish Date: 20230510T101500Z
+URL: https://timesofindia.indiatimes.com/city/mumbai/apeda-tracenet-server-slowdown-hit-mango-exports/articleshow/99887766.cms
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("APEDA" OR "Spices Board") (export OR exporter OR MSME) delay
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-horticulture-sps-controls
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+During the peak Alphonso and Kesar mango export season, exporters in Maharashtra and Gujarat faced severe operational bottlenecks due to server slowdowns on APEDA's TraceNet portal. The software, which tracks farm-to-port phytosanitary certification and hot water treatment (HWT) protocols required by importing countries like the UK and Japan, suffered repeated login failures and data synchronization errors. Several perishable air-cargo consignments missed their flight schedules at Mumbai airport, resulting in heavy demurrage charges and spoilage. Exporters call for urgent cloud infrastructure upgrades for statutory trade portals.
+
+================================================================================

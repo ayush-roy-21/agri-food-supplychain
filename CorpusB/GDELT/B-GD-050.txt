@@ -1,0 +1,16 @@
+Doc ID: B-GD-050
+Title: Customs electronic Certificate of Origin portal timeouts delay preferential tariff clearance under bilateral FTAs
+Source Domain: business-standard.com | Publish Date: 20231120T095000Z
+URL: https://www.business-standard.com/economy/logistics/e-coo-portal-timeouts-delay-fta-clearance-exporters-123112000456_1.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("DGFT" OR "portal" OR "customs") exporter delay India
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-spices-sps-hurdles
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Indian exporters shipping spices, tea, and marine products to partner countries under bilateral Free Trade Agreements (FTAs)—including the UAE, Australia, and ASEAN—report severe operational delays due to frequent server timeouts on the common electronic Certificate of Origin (e-CoO) platform administered by DGFT. Without an electronically validated Certificate of Origin, foreign importers cannot claim preferential tariff exemptions at destination customs checkpoints. MSME exporters report that e-CoO application processing delays of up to 72 hours have resulted in destination port demurrage and temporary withholding of buyer payments.
+
+================================================================================

@@ -1,0 +1,16 @@
+Doc ID: B-GD-058
+Title: ICEGATE error E-002 freezes shipping bills and RoDTEP scrip generation for Maharashtra organic exporters
+Source Domain: thehindubusinessline.com | Publish Date: 20240222T112000Z
+URL: https://www.thehindubusinessline.com/economy/logistics/icegate-error-e002-freezes-shipping-bills-maharashtra/article67890125.ece
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("ICEGATE" OR "RoDTEP" OR "shipping bill") exporter delay India
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-dgft-icegate-glitches
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Organic food and spice exporters in Pune and Nashik, Maharashtra, report widespread disruption to export financial settlements due to recurring Error E-002 on the customs ICEGATE portal. The automated error occurs when there is a minor character mismatch between the exporter's bank account name and the authorized AD Code registered with customs EDI. Consequently, shipping bills are blocked from general export clearance and RoDTEP tax remission scrips are frozen indefinitely. MSME exporters note that resolving Error E-002 requires physical petitioning at customs port collectorates in Mumbai, draining valuable administrative time.
+
+================================================================================

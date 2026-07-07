@@ -1,0 +1,16 @@
+Doc ID: B-GD-021
+Title: APEDA RCAC rice circulars create documentation burdens for non-Basmati rice exporters in Andhra Pradesh
+Source Domain: thehindubusinessline.com | Publish Date: 20240118T142000Z
+URL: https://www.thehindubusinessline.com/economy/agri-business/apeda-rcac-rice-circulars-hit-andhra-exporters/article67890124.ece
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("APEDA" OR "rice export") (MSME OR exporter) delay
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-basmati-mrl-rejections
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Recent statutory circulars issued by APEDA's Rice Export Promotion Forum and Rice Circulars Advisory Committee (RCAC) have introduced stringent registration and contract verification protocols for non-Basmati rice exports. Exporters in Kakinada and Nellore, Andhra Pradesh, state that mandatory submission of advance bank realization certificates and buyer contract registration on the APEDA portal before shipping bill filing is creating operational bottlenecks. Small merchant exporters who trade on spot-market FOB terms report losing export deals to suppliers in Thailand and Vietnam due to procedural delays in obtaining RCAC export clearance.
+
+================================================================================

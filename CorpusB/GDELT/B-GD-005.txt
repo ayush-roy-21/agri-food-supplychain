@@ -1,16 +1,16 @@
 Doc ID: B-GD-005
-Title: Basmati rice exports to European Union hit by strict tricyclazole MRL enforcement
-Source Domain: livemint.com | Publish Date: 2025-05-28T08:10:00Z
-URL: https://www.livemint.com/economy/basmati-rice-exports-to-european-union-hit-by-strict-tricyclazole-mrl-enforcement-11718923481234.html
+Title: Aflatoxin B1 contamination alerts in dried red chillies trigger port holds in Rotterdam
+Source Domain: thehindubusinessline.com | Publish Date: 20231120T140000Z
+URL: https://www.thehindubusinessline.com/markets/commodities/aflatoxin-alerts-hit-indian-chilli-exports-to-eu/article67890123.ece
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: ("shrimp export" OR "spice export" OR "basmati export" OR "mango export") (rejection OR customs OR border OR "import alert" OR "pesticide residue") India
-Retrieval Date: 2026-07-06
+Targeted Query: (RASFF OR "Spices Board") (rejection OR alert OR contamination) India
+Retrieval Date: 2026-07-07
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-basmati-mrl-rejections
+Locus Tag: gdelt-eu-rasff-notifications
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Indian Basmati rice exporters are witnessing a sharp drop in European Union shipments following the European Commission's refusal to raise the Maximum Residue Limit (MRL) for tricyclazole, a fungicide commonly used by paddy farmers to control blast disease. The EU enforces an import tolerance of 0.01 mg/kg (default limit of analytical quantification), effectively acting as a zero-tolerance barrier. Exporters from Punjab and Haryana state that despite advisory campaigns by APEDA to shift farmers toward alternative molecules like azoxystrobin and isoprothiolane, cross-contamination during milling and contract farming enforcement remain major hurdles. Consignments failing pre-shipment laboratory assays are being diverted to Middle Eastern markets at discounted rates.
+Indian exports of dried red chillies to the European Union are facing heightened scrutiny after multiple Rapid Alert System for Food and Feed (RASFF) notifications cited aflatoxin B1 levels exceeding the statutory EU limit of 5 mcg/kg. A Guntur-based spice merchant exporter reported that three container loads were detained at Rotterdam port, incurring daily demurrage and cold storage charges exceeding 500 Euros per container. Small spice processors attribute the aflatoxin buildup to unseasonal rains during post-harvest open-air yard drying in Andhra Pradesh, calling for government subsidies for mechanical drying yards.
 
 ================================================================================

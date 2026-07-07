@@ -1,16 +1,16 @@
 Doc ID: B-GD-002
-Title: US FDA import alerts on Indian shrimp consignments over antibiotic residue and salmonella
-Source Domain: financialexpress.com | Publish Date: 2025-05-18T14:15:00Z
-URL: https://www.financialexpress.com/economy/us-fda-import-alerts-on-indian-shrimp-consignments-over-antibiotic-residue/3482910/
+Title: Spices Board introduces mandatory sampling for ethylene oxide following Singapore and Hong Kong recalls
+Source Domain: economictimes.indiatimes.com | Publish Date: 20240425T153000Z
+URL: https://economictimes.indiatimes.com/news/economy/foreign-trade/spices-board-mandatory-sampling-eto-recalls/articleshow/109876543.cms
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: (FDA OR RASFF OR "EUDR" OR "DG SANTE") (rejection OR alert OR "border control" OR detained) (India) (seafood OR spice OR rice OR horticulture)
-Retrieval Date: 2026-07-06
+Targeted Query: ("Spices Board" OR "EIC") (export OR exporter) (testing OR quality)
+Retrieval Date: 2026-07-07
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-seafood-dwpe-alerts
+Locus Tag: gdelt-spices-sps-hurdles
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-The United States Food and Drug Administration (US FDA) has placed several Indian marine food processing units under Detention Without Physical Examination (DWPE) due to the detection of banned veterinary antibiotic residues, including nitrofuran and chloramphenicol, as well as Salmonella contamination in frozen shrimp shipments. The Marine Products Export Development Authority (MPEDA) has intensified farm-level surveillance and made Pre-Harvest Testing (PHT) mandatory for aquaculture farms in Andhra Pradesh and Gujarat. However, small-scale aquaculture farmers report significant hurdles in accessing accredited testing labs and maintaining digital farm traceability logs required by US importers under the Food Safety Modernization Act (FSMA) Foreign Supplier Verification Programs (FSVP).
+Following the recall of branded Indian spice curry powders by food safety authorities in Singapore and Hong Kong due to alleged ethylene oxide (EtO) contamination, the Spices Board of India has instituted mandatory pre-shipment sampling and testing for all spice exports to key international markets. While large spice corporations have internal laboratory facilities to ensure compliance, MSME spice grinders and merchant exporters face severe bottlenecks. With only a limited number of NABL-accredited labs authorized for EtO testing, turnaround times for test certificates have stretched up to 10 days, causing acute container congestion at Cochin and Mumbai ports.
 
 ================================================================================

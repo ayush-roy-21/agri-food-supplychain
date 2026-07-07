@@ -1,0 +1,16 @@
+Doc ID: B-GD-043
+Title: DGFT portal glitches delay IEC code updates for small seafood exporters in Andhra Pradesh
+Source Domain: thehindubusinessline.com | Publish Date: 20230822T141500Z
+URL: https://www.thehindubusinessline.com/economy/logistics/dgft-portal-glitches-delay-iec-code-updates/article65432198.ece
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("Import Export Code" OR "IEC" OR "DGFT portal") (MSME OR exporter)
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-seafood-dwpe-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Technical glitches on the Directorate General of Foreign Trade (DGFT) online portal have left hundreds of small seafood exporters in Andhra Pradesh struggling to update their Import-Export Code (IEC) and link their RCMC certificates. The mandatory annual KYC update has triggered repeated server timeout errors (E-104), preventing exporters from generating shipping bills on ICEGATE. Industry associations represent that over 150 refrigerated marine containers were held up at Visakhapatnam port last week due to mismatch between DGFT and customs databases. MSME exporters urge the Ministry of Commerce to simplify the portal interface and establish a dedicated technical helpdesk.
+
+================================================================================

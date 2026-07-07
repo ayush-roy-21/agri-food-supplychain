@@ -1,0 +1,16 @@
+Doc ID: B-GD-051
+Title: High cost of NABL and ISO 17025 accreditation prevents regional test labs from serving MSME exporters
+Source Domain: livemint.com | Publish Date: 20230925T131000Z
+URL: https://www.livemint.com/industry/nabl-iso-17025-accreditation-costs-hit-agri-test-labs-11695678901234.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("testing" OR "laboratory" OR "quality") MSME exporter India
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-dgft-icegate-glitches
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+While international food safety agencies and importing country authorities strictly mandate test reports from ISO/IEC 17025 and NABL-accredited laboratories, private independent testing laboratories in Tier-2 and Tier-3 agricultural hubs report that high accreditation maintenance costs restrict their service expansion. Laboratory directors in Guntur, Indore, and Rajkot state that annual NABL assessment fees, proficiency testing programs, and importing expensive calibrated reference standards make it unviable to offer accredited testing at low rates. Consequently, MSME exporters in hinterland agricultural clusters must pay premium testing rates to large laboratory chains in metropolitan centers.
+
+================================================================================

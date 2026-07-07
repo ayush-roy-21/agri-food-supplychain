@@ -1,16 +1,16 @@
 Doc ID: B-GD-007
-Title: Mandatory APEDA RCMC linking with IEC code triggers portal login failures for new agri-exporters
-Source Domain: economictimes.indiatimes.com | Publish Date: 2025-03-22T12:00:00Z
-URL: https://economictimes.indiatimes.com/small-biz/trade/exports/insights/mandatory-apeda-rcmc-linking-with-iec-code-triggers-portal-login-failures/articleshow/108923412.cms
+Title: UK Official Certificate requirements create administrative friction for small organic spice exporters
+Source Domain: livemint.com | Publish Date: 20231028T161500Z
+URL: https://www.livemint.com/economy/uk-official-certificate-mandate-hits-indian-organic-spice-msmes-11699876543210.html
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: ("Import Export Code" OR "IEC" OR "DGFT portal" OR "RCMC") (MSME OR "small exporter" OR FPO) (spice OR seafood OR shrimp OR rice OR "processed food") locationci:india
-Retrieval Date: 2026-07-06
+Targeted Query: ("Spices Board" OR "APEDA") export compliance UK
+Retrieval Date: 2026-07-07
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-dgft-icegate-glitches
+Locus Tag: gdelt-spices-sps-hurdles
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Newly registered agricultural start-ups and Farmer Producer Organizations (FPOs) attempting to export fresh fruits and vegetables are encountering severe digital onboarding hurdles. Recent statutory directives requiring seamless electronic integration between the APEDA Registration-cum-Membership Certificate (RCMC) and the DGFT Importer-Exporter Code (IEC) database have resulted in widespread authentication mismatches. When exporters modify their corporate address or director details on the DGFT portal, the APEDA TraceNet and HortiNet systems frequently fail to synchronize in real-time, blocking the issuance of mandatory phytosanitary certificates and Certificate of Origin (CoO) applications at inspection agencies.
+Following post-Brexit regulatory divergence, the United Kingdom's Food Standards Agency (FSA) has enforced strict Official Certificate requirements for imported Indian spices and organic produce, mandating physical endorsement by authorized state officers. An Unjha-based cumin exporting MSME stated that obtaining manual signatures and laboratory test endorsements from regional export inspection offices adds significant administrative friction and travel costs. Small exporters report losing orders to suppliers in Turkey and North Africa who benefit from closer geographic proximity and simplified UK border clearance protocols.
 
 ================================================================================

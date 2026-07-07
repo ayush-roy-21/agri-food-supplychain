@@ -1,0 +1,16 @@
+Doc ID: B-GD-047
+Title: Export Inspection Council Consignment Inspection Scheme delays hit multi-commodity exporters at JNPT port
+Source Domain: timesofindia.indiatimes.com | Publish Date: 20231030T100000Z
+URL: https://timesofindia.indiatimes.com/city/mumbai/eic-inspection-delays-jnpt-port-agri-exports/articleshow/104567890.cms
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("EIC" OR "Export Inspection Council") (export OR delay) India
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Multi-commodity agricultural exporters shipping oilseeds, animal feed, and processed foods from JNPT port in Mumbai report recurring shipping line miss-outs due to delays under the Export Inspection Council's (EIC) Consignment Inspection Scheme (CIS). Under CIS rules, unapproved MSME exporters must subject every consignment to physical drawing of samples and laboratory analysis by Export Inspection Agency (EIA) officials before sealing. Exporters state that shortage of field inspection staff in the Mumbai zone often delays physical sampling by 3 to 4 days, causing containers to miss vessel cut-off dates and incurring heavy port ground rent.
+
+================================================================================

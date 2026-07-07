@@ -1,0 +1,16 @@
+Doc ID: B-GD-034
+Title: Pre-harvest antibiotic testing certification delays by MPEDA laboratories stall frozen shrimp exports
+Source Domain: economictimes.indiatimes.com | Publish Date: 20230914T115000Z
+URL: https://economictimes.indiatimes.com/news/economy/foreign-trade/mpeda-pht-lab-delays-hit-shrimp-exports/articleshow/103456789.cms
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("MPEDA" OR "shrimp export" OR "testing") delay India
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-seafood-dwpe-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Frozen shrimp exporters in Bhimavaram and Ongole, Andhra Pradesh, are facing severe export dispatch delays due to congestion at MPEDA's Pre-Harvest Test (PHT) ELISA screening laboratories. Under statutory rules, aquaculture shrimp cannot be harvested or processed for export without a negative PHT certificate confirming the absence of chloramphenicol and nitrofuran metabolites. Due to a surge in harvest samples during the mid-year crop cycle, laboratory reporting lead times have stretched from 48 hours to six days. MSME processing units report that delayed harvesting results in shrimp molting and disease outbreaks in farm ponds, causing substantial financial losses.
+
+================================================================================

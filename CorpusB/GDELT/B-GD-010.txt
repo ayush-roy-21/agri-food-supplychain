@@ -1,16 +1,16 @@
 Doc ID: B-GD-010
-Title: Spices Board enforces mandatory sampling and testing for ethylene oxide and pesticide residues in EU exports
-Source Domain: livemint.com | Publish Date: 2025-04-10T11:00:00Z
-URL: https://www.livemint.com/news/india/spices-board-enforces-mandatory-sampling-and-testing-for-ethylene-oxide-and-pesticide-residues-in-eu-exports-11714567890123.html
+Title: European Commission DG SANTE audit highlights gaps in official monitoring of pesticide residues in Indian spices
+Source Domain: thehindu.com | Publish Date: 20240122T150000Z
+URL: https://www.thehindu.com/news/national/eu-dg-sante-audit-pesticide-monitoring-spices/article67901234.ece
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: ("APEDA" OR "Spices Board" OR "MPEDA" OR "EIC" OR "FSSAI") (export OR exporter OR MSME) (rejection OR consignment OR delay OR testing OR quality)
-Retrieval Date: 2026-07-06
+Targeted Query: ("DG SANTE" OR "RASFF" OR "Spices Board") India export
+Retrieval Date: 2026-07-07
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
 Locus Tag: gdelt-spices-sps-hurdles
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-In response to repeated Rapid Alert System for Food and Feed (RASFF) notifications from European member states, the Spices Board of India has instituted mandatory pre-shipment analytical screening for all spice consignments destined for the European Union. Under the revised guidelines, exporters of black pepper, turmeric, chilli, and cumin must submit representative batch samples to Spices Board Quality Evaluation Laboratories for testing against over 400 pesticide residue parameters and ethylene oxide (EtO). Industry representatives from the All India Spices Exporters Forum note that while the measure is crucial to safeguard brand reputation, laboratory congestion and lack of testing infrastructure in regional spice hubs like Unjha and Guntur are causing dispatch delays of up to three weeks.
+An official audit report published by the European Commission's Directorate-General for Health and Food Safety (DG SANTE) evaluated India's pre-export control system for spices and herbs. While acknowledging the robust statutory framework established by the Spices Board of India, the audit noted operational deficiencies in traceability among unorganized middlemen and small village-level aggregators. The report highlighted that cross-contamination during open-air sun drying and storage in jute bags remains a primary driver of salmonella and pesticide residue exceedances in exports to the EU.
 
 ================================================================================

@@ -1,0 +1,16 @@
+Doc ID: B-GD-049
+Title: CSDDD supply chain due diligence rules force European buyers to demand ESG audits from Indian suppliers
+Source Domain: thehindubusinessline.com | Publish Date: 20240305T144000Z
+URL: https://www.thehindubusinessline.com/economy/csddd-esg-audit-rules-hit-indian-agri-exporters/article67987654.ece
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("CSDDD" OR "due diligence" OR "traceability") India export MSME
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+The European Union's Corporate Sustainability Due Diligence Directive (CSDDD) is creating a new wave of non-tariff trade barriers for Indian agricultural and processed food MSMEs. To protect themselves from statutory European environmental and human rights liability, major EU food retailers and importers are requiring Indian suppliers to undergo extensive third-party ESG (Environmental, Social, and Governance) audits. Exporters in Kerala and Tamil Nadu state that verifying compliance across decentralized smallholder farming networks—including proving absence of child labor and monitoring agricultural groundwater usage—adds massive documentation overheads that small exporters cannot afford.
+
+================================================================================

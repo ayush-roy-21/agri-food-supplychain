@@ -1,0 +1,16 @@
+Doc ID: B-GD-046
+Title: FSSAI central licensing mandate creates dual compliance friction for export-oriented food processors
+Source Domain: financialexpress.com | Publish Date: 20230928T090000Z
+URL: https://www.financialexpress.com/industry/fssai-licensing-dual-compliance-agri-exports/3012345/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("APEDA" OR "FSSAI") (export OR exporter OR MSME) compliance
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-usfda-import-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Export-oriented food processing MSMEs in India are voicing concern over the overlapping regulatory mandates of the Food Safety and Standards Authority of India (FSSAI) and export promotion boards like APEDA and MPEDA. Recent statutory amendments require all 100 percent export-oriented units (EOUs) to obtain an FSSAI Central License and undergo mandatory annual safety audits, even when their entire production is bound for foreign markets with their own distinct SPS standards. Industry representatives argue that subjecting exporters to domestic FSSAI inspection alongside US FDA or EU DG SANTE audits creates unnecessary administrative duplication, informal rent-seeking, and shipment delays.
+
+================================================================================

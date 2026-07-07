@@ -1,0 +1,16 @@
+Doc ID: B-GD-030
+Title: Waterbase Limited and Coastal Corporation Limited invest in advanced PCR testing labs for seafood exports
+Source Domain: financialexpress.com | Publish Date: 20231202T091500Z
+URL: https://www.financialexpress.com/industry/waterbase-coastal-corp-pcr-labs-shrimp-exports/3056789/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("MPEDA" OR "seafood") (testing OR quality OR exporter) India
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-seafood-dwpe-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+In response to tightening European Union and United States screening for chloramphenicol, nitrofurans, and White Spot Syndrome Virus (WSSV), listed marine processors Waterbase Limited and Coastal Corporation Limited have established in-house real-time PCR and LC-MS/MS testing laboratories in Nellore and Visakhapatnam. While corporate entities like Waterbase Limited and Coastal Corporation Limited achieve rapid internal batch clearance, small-scale freezing units operating on job-work basis report extreme reliance on regional MPEDA ELISA screening labs, where sample backlogs frequently delay container stuffing by 4 to 6 working days.
+
+================================================================================

@@ -1,0 +1,16 @@
+Doc ID: B-GD-013
+Title: Basmati rice exports to Europe hit by stringent tricyclazole MRL enforcement
+Source Domain: thehindu.com | Publish Date: 20230718T160000Z
+URL: https://www.thehindu.com/business/agri-business/basmati-rice-exports-to-eu-hit-by-tricyclazole-mrl/article67123456.ece
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("shrimp export" OR "spice export" OR "basmati export") rejection India
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-basmati-mrl-rejections
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Indian Basmati rice shipments to the European Union continue to face severe rejection rates following the European Commission's decision to lower the Maximum Residue Limit (MRL) for tricyclazole, a common fungicide used by paddy farmers, to the default limit of 0.01 ppm. APEDA has issued repeated advisories urging farmers to switch to alternative formulations, but adoption at the grassroots remains sluggish due to high cost and lack of extension services. Exporters report that European buyers are diverting orders to Pakistan, where tricyclazole usage is lower. MSME rice mills in Haryana and Punjab demand bilateral diplomatic intervention by the Commerce Ministry.
+
+================================================================================

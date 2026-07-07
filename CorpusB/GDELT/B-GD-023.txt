@@ -1,0 +1,16 @@
+Doc ID: B-GD-023
+Title: Small processed food manufacturers in Tamil Nadu struggle with FSSC 22000 and BRCGS audit costs
+Source Domain: financialexpress.com | Publish Date: 20231128T111500Z
+URL: https://www.financialexpress.com/industry/msme-food-processors-fssc-22000-audit-costs/3034567/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("APEDA" OR "FSSAI" OR "processed food") export compliance MSME
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Export-oriented value-added food processing MSMEs in Madurai and Coimbatore, Tamil Nadu, report that escalating third-party certification costs are eroding their international competitiveness. Major European and North American supermarket chains now strictly mandate FSSC 22000 or BRCGS Global Food Safety Standard certification as a prerequisite for export procurement. Small food manufacturers note that annual audit fees, facility upgradation to meet hygiene zoning rules, and retaining dedicated quality assurance staff cost upwards of Rs 12 lakh per annum, creating an insurmountable entry barrier for small enterprises.
+
+================================================================================
