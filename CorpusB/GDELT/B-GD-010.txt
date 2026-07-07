@@ -1,0 +1,16 @@
+Doc ID: B-GD-010
+Title: Spices Board enforces mandatory sampling and testing for ethylene oxide and pesticide residues in EU exports
+Source Domain: livemint.com | Publish Date: 2025-04-10T11:00:00Z
+URL: https://www.livemint.com/news/india/spices-board-enforces-mandatory-sampling-and-testing-for-ethylene-oxide-and-pesticide-residues-in-eu-exports-11714567890123.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("APEDA" OR "Spices Board" OR "MPEDA" OR "EIC" OR "FSSAI") (export OR exporter OR MSME) (rejection OR consignment OR delay OR testing OR quality)
+Retrieval Date: 2026-07-06
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-spices-sps-hurdles
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+In response to repeated Rapid Alert System for Food and Feed (RASFF) notifications from European member states, the Spices Board of India has instituted mandatory pre-shipment analytical screening for all spice consignments destined for the European Union. Under the revised guidelines, exporters of black pepper, turmeric, chilli, and cumin must submit representative batch samples to Spices Board Quality Evaluation Laboratories for testing against over 400 pesticide residue parameters and ethylene oxide (EtO). Industry representatives from the All India Spices Exporters Forum note that while the measure is crucial to safeguard brand reputation, laboratory congestion and lack of testing infrastructure in regional spice hubs like Unjha and Guntur are causing dispatch delays of up to three weeks.
+
+================================================================================
