@@ -7,12 +7,12 @@ To ensure inter-corpus consistency and computational compatibility across multi-
 
 ## 1. Master Registry Schema (`data/master_registry.csv`)
 
-The master registry strictly follows a **13-column relational schema**. Scraper scripts and analytical tools must never alter column ordering or drop required fields.
+The master registry strictly follows a **19-column relational schema**. Scraper scripts and analytical tools must never alter column ordering or drop required fields.
 
 | Col # | Column Name | Data Type | Description & Allowed Values | Example |
 | :---: | :--- | :--- | :--- | :--- |
 | **1** | `doc_id` | String | Unique alphanumeric document identifier prefixed by institutional pillar. | `A-APEDA-001`, `A-SPICE-006`, `A-EUDR-001` |
-| **2** | `corpus_id` | String | Single-letter corpus designator. For this project, always `A`. | `A` |
+| **2** | `corpus_id` | String | Single-letter corpus designator. For this project, always `A` or `B`. | `A`, `B` |
 | **3** | `source_institution` | String | Official institutional name and parent ministry/organization. | `Spices Board Ministry of Commerce & Industry` |
 | **4** | `url` | String | Direct source web link or API endpoint from which document was fetched. | `https://indianspices.com/...` |
 | **5** | `retrieval_date_and_format`| String | Composite string combining ISO date (`YYYY-MM-DD`), file format (`pdf`/`html`/`csv`/`txt`), and language. | `2026-07-03 / html / English` |
@@ -24,6 +24,29 @@ The master registry strictly follows a **13-column relational schema**. Scraper 
 | **11** | `target_market` | String | Destination export market or international jurisdiction. | `all`, `USA`, `EU`, `UK`, `Japan` |
 | **12** | `translation_needed` | String | Indicates whether English translation was required (`required`/`not-required`). | `not-required` |
 | **13** | `processing_status` | String | Status of document ingestion and HTTP verification. | `retrieved (HTTP 200)` |
+| **14** | `firm_mentioned` | String | Name of specific export firm mentioned in document, or generalized descriptor per Section 11. | `KRBL Limited`, `None (Generalized MSMEs)`, `Generalized (Unverified Entity)` |
+| **15** | `iec_verification_status` | String | Verification status of corporate entity against checkable registries or allowlist. | `Verified - BSE/NSE Listed (KRBL)`, `Verified - Udyam Registered MSME`, `N/A - No Firm Mentioned` |
+| **16** | `verification_method` | String | Method and authoritative source used to confirm entity identity. | `BSE/NSE Public Listing Check & APEDA Registry`, `Udyam Registry Check`, `N/A` |
+| **17** | `verification_date` | String | ISO date (`YYYY-MM-DD`) on which entity verification or spotlight check was conducted. | `2026-07-07`, `N/A` |
+| **18** | `enterprise_scale_tier` | String | Classification of firm scale to prevent conflating large enterprises with MSMEs. | `large-listed`, `large-private-star-export-house`, `msme-verified`, `msme-plausible-unconfirmed`, `not-applicable` |
+| **19** | `relevance_to_study` | String | Analytical role of document or entity mention within study research questions. | `MSME-instance (target population under study)`, `large-firm-comparator (internal-capability-locus contrast)`, `statutory-governance-framework` |
+
+---
+
+## 2. Methodological Note & Limitations: Entity Verification & MSME Scale
+
+To maintain absolute empirical rigor and prevent fabricated compliance claims from attaching to real corporate names (**No Invented Data or Assumptions**), the project enforces an **Allowlist-First Verification Protocol** coupled with scale stratification:
+
+1. **Separation of Verification Status from MSME Population Relevance**:
+   A firm can be verified as a real commercial entity while being explicitly tagged as out-of-scope for direct MSME population analysis. Large listed corporations (e.g., *KRBL Limited*, *Avanti Feeds Limited*, *ITC Limited*) and major star export houses (e.g., *Allanasons Private Limited*) are categorized under `enterprise_scale_tier` as `large-listed` or `large-private-star-export-house`.
+2. **Analytical Value of Large-Firm Mentions (Contrast Cases)**:
+   Large-firm mentions in practitioner discourse (e.g., Reddit or YouTube comments regarding in-house testing labs versus small exporter struggles) are retained as analytically valuable contrast cases. They are explicitly tagged under `relevance_to_study` as `large-firm-comparator (internal-capability-locus contrast)`, directly supporting RQ1/RQ2 capability-gap analyses without distorting the MSME sample.
+3. **MSME-Appropriate Verification Pathways**:
+   Because stock exchange listing checks cannot verify MSMEs, lighter-weight statutory verification paths are utilized:
+   - **Udyam Registration**: Checkable format `UDYAM-XX-00-0000000` (tagged as `msme-verified`).
+   - **APEDA / Spices Board CRES / MPEDA Exporter Registries**: Matches against statutory exporter directories (tagged as `msme-plausible-unconfirmed`).
+4. **Methodological Limitation Note**:
+   *“Firm-level verification via public listing structurally favors large enterprises; genuine MSME-scale entities in Corpus B discourse are generalized rather than individually verified, consistent with the study's own de-identification protocol, and large-firm mentions are retained only as capability-gap comparators, not as instances of the MSME population under study.”*
 
 ---
 
