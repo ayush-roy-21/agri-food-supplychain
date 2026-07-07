@@ -1,7 +1,7 @@
 # The Barrier Horizon: Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs
-### Empirical Regulatory Archive & Compliance Corpus (CorpusA)
+### Dual-Corpus Empirical Archive: Institutional Regulatory Intelligence (Corpus A) & Public Discourse / Practitioner Hurdles (Corpus B)
 
-A comprehensive, structured institutional data archive and regulatory intelligence repository investigating sustainable supplier hurdles, non-tariff sanitary/phytosanitary (SPS) barriers, and deforestation due diligence mandates facing Indian agricultural, marine, and value-added food export MSMEs.
+A comprehensive, structured institutional data archive and regulatory intelligence repository investigating sustainable supplier hurdles, non-tariff sanitary/phytosanitary (SPS) barriers, deforestation due diligence mandates, and lived practitioner operational friction facing Indian agricultural, marine, and value-added food export MSMEs.
 
 ---
 
@@ -9,17 +9,20 @@ A comprehensive, structured institutional data archive and regulatory intelligen
 
 Indian agricultural and processed food micro, small, and medium enterprises (MSMEs) operate within an increasingly complex global regulatory horizon. Exporting suppliers face severe structural hurdles imposed by overlapping domestic statutory regimes and rigorous international compliance mandates—ranging from zero-tolerance antibiotic screening and pesticide Maximum Residue Levels (MRLs) to mandatory GPS polygon farm geotagging under zero-deforestation due diligence rules.
 
-**The Barrier Horizon (CorpusA)** bridges the gap between fragmented institutional notifications and empirical trade policy research by assembling **authoritative statutory frameworks, operational procedures, circulars, enforcement refusal records, and trade statistics** across **11 institutional pillars** (India, European Union, and United States). Every record is curated with strict academic transparency, multi-dimension Data Quality Assessment (DQA), and dual-logging into a unified 13-column master registry.
+**The Barrier Horizon** bridges the gap between fragmented institutional notifications, macro-level policy frameworks, and empirical trade policy research by assembling a **dual-corpus architecture**:
+* **Corpus A (Institutional & Statutory Intelligence)**: Authoritative statutory frameworks, operational procedures, circulars, enforcement refusal records, and trade statistics across **11 institutional pillars** (India, European Union, and United States), plus state gazettes and US FDA enforcement data. Every record is curated with strict academic transparency, multi-dimension Data Quality Assessment (DQA), and dual-logging into a unified 13-column master registry.
+* **Corpus B (Public Discourse & Practitioner Hurdles)**: Bottom-up operational friction, lived supplier experiences, and media sentiment extracted from YouTube practitioner discussions, Reddit trade forums, and GDELT global news pipelines. All public discourse data strictly adheres to our **Section 11 Ethics Protocol**, featuring automated PII de-identification and rigorous DQA filtering.
 
 ---
 
 ## 🏛️ Corpus Architecture & Institutional Pillars
 
-The corpus contains **authoritative regulatory records** categorized under standardized document ID prefixes across 10 specialized domain folders in `/CorpusA/` and `/data/CorpusA/`:
+### Corpus A: Institutional Regulatory & Statutory Archive
+Corpus A contains authoritative regulatory records categorized under standardized document ID prefixes across specialized domain folders in `/CorpusA/` and `/data/CorpusA/`:
 
 | Pillar | Institution / Domain | Prefix | Commodity Focus | Key Governance Themes |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. APEDA** | Agricultural & Processed Food Products Export Development Authority | `A-APEDA-` | Horticulture, Organic, Processed Foods | NPOP Organic Certification, TraceNet Farm Geotagging, Packhouse Recognition, HortiNet |
+| **1. APEDA** | Agricultural & Processed Food Products Export Development Authority | `A-APEDA-`, `RCAC-` | Horticulture, Organic, Processed Foods, Basmati Rice | NPOP Organic Certification, TraceNet Farm Geotagging, Packhouse Recognition, HortiNet, RCAC Rice Circulars |
 | **2. Spices Board** | Spices Board of India (Ministry of Commerce) | `A-SPICE-` | Chilli, Cumin, Nutmeg, Curry Leaves | Mandatory ETO & Aflatoxin Sampling, USA Salmonella Testing, UK Official Certificates |
 | **3. MPEDA** | Marine Products Export Development Authority | `A-MPEDA-` | Aquaculture Shrimp, Wild Marine Catch | EU Catch Certificate (IUU), US NOAA DS-2031 & TED Protocol, Pre-Harvest Antibiotic Test (PHT) |
 | **4. EIC** | Export Inspection Council of India | `A-EIC-` | All Agri & Marine Exports | Statutory Act 1963, Consignment Inspection Scheme, ISO 17025 Labs, In-Process Quality Control (IPQC) |
@@ -30,6 +33,19 @@ The corpus contains **authoritative regulatory records** categorized under stand
 | **9. NITI & MSME** | NITI Aayog & Ministry of MSME | `A-ZED-` | Agri-Export Infrastructure | MSME ZED Sustainable Certification (HACCP/ISO subsidies), NITI Aayog Agri-Export Strategy |
 | **10. CSR Portal** | National CSR Portal (Ministry of Corporate Affairs) | `A-CSR-` | Agribusiness Compliance | Companies Act Section 135 Mandate, Form CSR-2 E-Filing, Schedule VII Rural Cold-Chain Deployment |
 | **11. EUDR & CSDDD** | European Commission Deforestation & Due Diligence | `A-EUDR-` | Sustainability Due Diligence | Regulation (EU) 2023/1115 (EUDR Geolocation Polygons), Directive 2024/1760 (CSDDD), APEDA EUDR Advisory |
+| **12. US FDA & Exporters**| U.S. Food & Drug Administration & International Exporters | `A-FDA-`, `A-IEC-` | Cross-Border Food Safety | Import Refusal Reports (IRRs), FSMA Foreign Supplier Verification Program (FSVP), IEC Exporter Compliance |
+| **13. State Gazettes** | State Level Agri-Food Policies & Official Gazettes | `A-STATE-` | Regional Agri-Export Governance | State-level export promotion policies, regional packhouse subsidies, statutory gazette notifications |
+
+---
+
+### Corpus B: Public Discourse, Media & Lived Practitioner Hurdles
+Corpus B systematically captures bottom-up operational friction and compliance realities experienced by exporters, farmers, and trade compliance officers:
+
+| Domain | Source Platform | Prefix | Focus Area | Methodology & Ethics Controls |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. YouTube Discourse** | YouTube Data API v3 & Closed Captions | `B-YT-` | Expert Lectures & Practitioner Comments | 80 dedicated dossiers across 16 IEC/MSME compliance queries. Extracts video metadata, lived comment hurdles, and CC transcripts. Automated PII masking. |
+| **2. Reddit Discussions** | Reddit PRAW & Public RSS | `B-RD-` | Exporter & Agri Community Forums | Collects public discussions from target agricultural and trade subreddits. Features read-only XML/RSS fallback for offline/sandbox environments. |
+| **3. GDELT Trade Media** | GDELT Event & News Pipeline | `B-GD-` | Global SPS Alerts & Non-Tariff Barriers | Real-time media intelligence tracking global trade disputes, border refusals, and international regulatory shifts affecting Indian exports. |
 
 ---
 
@@ -37,59 +53,120 @@ The corpus contains **authoritative regulatory records** categorized under stand
 
 ```text
 agri-food-project/
-├── CorpusA/                     # Standardized institutional document repository
-│   ├── APEDA/
-│   ├── SpicesBoard/
-│   ├── MPEDA/
-│   ├── EIC/
-│   ├── FSSAI/
-│   ├── DGFT_TradePortal/
-│   ├── EU_DGSANTE/
-│   ├── DataGov/
-│   ├── NITI_MSME/
-│   ├── CSR/
-│   └── EUDR_CSDDD/
+├── CorpusA/                            # Standardized institutional document repository (Pillars 1-11 + Extensions)
+│   ├── APEDA/                          # APEDA certifications, TraceNet, and RCAC rice circulars
+│   ├── SpicesBoard/                    # Spices Board sampling and mandatory ETO/aflatoxin testing
+│   ├── MPEDA/                          # MPEDA aquaculture, EU catch certificates, and NOAA protocols
+│   ├── EIC/                            # Export Inspection Council health certification & IPQC
+│   ├── FSSAI/                          # FSSAI FoSCoS licensing & Schedule 4 HACCP audits
+│   ├── DGFT_TradePortal/               # DGFT Foreign Trade Policy, e-IEC, and RoDTEP records
+│   ├── EU_DGSANTE/                     # EU DG SANTE emergency controls and RASFF procedures
+│   ├── DataGov/                        # Open government statistical export volume/value data
+│   ├── NITI_MSME/                      # MSME ZED sustainable certification & NITI Aayog reports
+│   ├── CSR/                            # National CSR Portal Section 135 agribusiness data
+│   └── EUDR_CSDDD/                     # European deforestation (EUDR) & due diligence mandates
+├── CorpusB/                            # Public discourse, media & practitioner lived hurdles corpus
+│   ├── YouTube/                        # 80 practitioner dossiers (video metadata, comments, transcripts)
+│   ├── Reddit/                         # Public subreddit discussions on export hurdles and compliance
+│   ├── GDELT/                          # Global trade news & SPS alert datasets
+│   └── ethics_clearance_log.json       # Section 11 Ethics Protocol clearance log
 ├── data/
-│   ├── master_registry.csv      # Single source of truth (13-column standardized schema)
-│   ├── exceptions_log.csv       # Audit trail of rejected stubs, shells, and dynamic placeholders
-│   ├── decision_log.csv         # Academic decision record for inclusion/rejection rationale
-│   ├── CorpusA/                 # Mirrored data directory containing sub-registries (JSON) & files
-│   └── raw/CorpusA/             # Triple-redundant raw backup storage
-├── docs/                        # Complete academic & operational project documentation
-│   ├── CORPUS_ARCHITECTURE.md   # Structural breakdown of pillars and routing logic
-│   ├── DATA_COLLECTION_PROTOCOL.md # Scraper methodology, SSL rules, and DQA framework
-│   └── REGISTRY_SCHEMA.md       # Data dictionary for master_registry.csv and audit logs
+│   ├── master_registry.csv             # Single source of truth (13-column standardized schema)
+│   ├── exceptions_log.csv              # Audit trail of rejected stubs, shells, and dynamic placeholders
+│   ├── decision_log.csv                # Academic decision record for inclusion/rejection rationale
+│   ├── CorpusA/                        # Mirrored data directory containing sub-registries (JSON) & files
+│   ├── processed/                      # Filtered, de-identified, and DQA-audited datasets
+│   ├── results/                        # Analytical outputs, summary tables, and verification reports
+│   └── raw/                            # Triple-redundant raw backup storage
+├── docs/                               # Complete academic & operational project documentation
+│   ├── THE_BARRIER_HORIZON.md          # Comprehensive synthesis of empirical findings and barrier horizon
+│   ├── CORPUS_ARCHITECTURE.md          # Structural breakdown of pillars, routing logic, and taxonomy
+│   ├── DATA_COLLECTION_PROTOCOL.md     # Scraper methodology, SSL rules, and DQA framework
+│   └── REGISTRY_SCHEMA.md              # Data dictionary for master_registry.csv and audit logs
 └── src/
-    └── data-collection/         # Consolidated automated Python scrapers for all 11 pillars
-        ├── scrape_apeda.py              # APEDA master scraper (8 records)
-        ├── scrape_spices.py             # Spices Board master scraper (8 records)
-        ├── scrape_mpeda.py              # MPEDA master scraper (8 records)
-        ├── scrape_eic.py                # EIC inspection & health certification scraper (5 records)
-        ├── scrape_fssai.py              # FSSAI licensing & third-party auditing scraper (5 records)
-        ├── scrape_dgft.py               # DGFT & India Trade Portal scraper (5 records)
-        ├── scrape_international_eu.py   # EU DG SANTE + EUDR/CSDDD international tier scraper (8 records)
-        └── scrape_auxiliary.py          # Data.gov.in + MSME ZED + CSR Section 135 scraper (5 records)
+    ├── data-collection/                # Consolidated automated Python scrapers & pipelines
+    │   ├── scrape_apeda.py             # APEDA master scraper (including RCAC-001 to RCAC-003 rice circulars)
+    │   ├── scrape_spices.py            # Spices Board master scraper
+    │   ├── scrape_mpeda.py             # MPEDA marine & aquaculture scraper
+    │   ├── scrape_eic.py               # EIC inspection & health certification scraper
+    │   ├── scrape_fssai.py             # FSSAI licensing & third-party auditing scraper
+    │   ├── scrape_dgft.py              # DGFT & India Trade Portal scraper
+    │   ├── scrape_international_eu.py  # EU DG SANTE + EUDR/CSDDD international tier scraper
+    │   ├── scrape_auxiliary.py         # Data.gov.in + MSME ZED + CSR Section 135 scraper
+    │   ├── scrape_us_fda.py            # US FDA import refusals & FSMA compliance scraper
+    │   ├── scrape_iec_eu_us_exporters.py # IEC & cross-border exporter compliance scraper
+    │   ├── scrape_legal_instruments.py # Statutory legal instruments & agricultural acts scraper
+    │   ├── scrape_state_and_gazette.py # State-level agri-food policies & official gazette scraper
+    │   ├── youtube_scraper.py          # YouTube Data API v3 & closed caption discourse extractor (Corpus B)
+    │   ├── reddit_scraper.py           # Reddit PRAW & RSS public discourse scraper (Corpus B)
+    │   ├── gdelt_pipeline.py           # GDELT global trade & SPS news event pipeline (Corpus B)
+    │   └── entity_allowlist.py         # Entity filtering and allowlist definitions for NLP extraction
+    └── data-processing/                # Data Quality Assessment (DQA), ethics & sanitization modules
+        ├── ethics_check.py             # Section 11 Ethics Protocol clearance & compliance verification
+        ├── deidentify_youtube_sanitization.py # Automated PII de-identification & masking for discourse
+        ├── dqa_filter_youtube.py       # DQA filtering & adequacy assessment for YouTube dossiers
+        ├── dqa_filter_gdelt.py         # DQA filtering & noise reduction for GDELT event streams
+        ├── run_dqa_audit.py            # Automated master DQA audit & verification runner
+        └── script.py                   # Auxiliary processing utility
 ```
 
 ---
 
-## ⚖️ Academic Transparency & Section 6.1 Compliance
+## ⚖️ Academic Transparency & Governance Protocols
 
-In strict compliance with **Section 6.1** of our research protocol, CorpusA distinguishes clearly between:
+### 1. Section 6.1 Compliance: Primary vs. Derived Records
+In strict compliance with **Section 6.1** of our research protocol, Corpus A distinguishes clearly between:
 1. **Primary Verbatim Text (`full_text_available: yes`)**: Direct binary PDF downloads verified via `%PDF-` magic headers or verified direct HTML legal text pulls.
 2. **Derived Regulatory Orientation Summaries (`full_text_available: derived-summary (Section 6.1)`)**: When official government portals or EUR-Lex return dynamic HTML wrappers, redirects, or anti-bot verification screens (`HTTP 403`), our scrapers generate rich, authoritative statutory digests (always exceeding 300 words to satisfy DQA adequacy thresholds). These records are explicitly flagged in `master_registry.csv` under `production_context` to advise researchers to verify exact deadlines and article numbers against primary legal gazettes prior to verbatim citation.
+
+### 2. Section 11 Ethics Protocol & PII De-identification
+All public discourse data collected under **Corpus B** is governed by our **Section 11 Ethics Protocol** (`src/data-processing/ethics_check.py`):
+* **Automated Ethics Clearance**: Scrapers verify project clearance status before initiating web requests or API calls.
+* **PII De-identification & Masking**: Usernames, personal handles, and identifying metadata in YouTube comments and Reddit threads are systematically sanitized (`deidentify_youtube_sanitization.py`) to protect practitioner privacy while preserving technical compliance insights.
+
+### 3. Multi-Dimension Data Quality Assessment (DQA)
+All ingested datasets undergo continuous DQA auditing (`run_dqa_audit.py`):
+* **Adequacy & Completeness**: Verifies text length thresholds, required schema fields, and file integrity.
+* **Noise Reduction**: Filters irrelevant news items and spam from media pipelines (`dqa_filter_gdelt.py`, `dqa_filter_youtube.py`).
 
 ---
 
 ## 🚀 Quickstart & Scraper Execution
 
-All Python scrapers are self-contained, handling NIC government SSL certificates (`ssl.CERT_NONE`), binary PDF header verification, and automatic dual-logging to local JSON registries and `master_registry.csv`.
+All Python scrapers and processing pipelines are self-contained, handling NIC government SSL certificates (`ssl.CERT_NONE`), binary PDF header verification, and automatic logging to local JSON registries and `master_registry.csv`.
 
-To execute any scraper from terminal:
+### Running Corpus A (Institutional Scrapers)
 ```bash
-# Run FSSAI scraper
-python src/data-collection/scrape_mpeda.py
+# Execute consolidated APEDA scraper (including RCAC Rice Circulars)
+python src/data-collection/scrape_apeda.py
 
-# Run EUDR / CSDDD deforestation scraper
-python src/data-collection/scrape_eudr.py
+# Execute FSSAI licensing & third-party audit scraper
+python src/data-collection/scrape_fssai.py
+
+# Execute US FDA import refusals & FSMA scraper
+python src/data-collection/scrape_us_fda.py
+
+# Execute State Gazette & Agri-Policy scraper
+python src/data-collection/scrape_state_and_gazette.py
+```
+
+### Running Corpus B (Public Discourse & Media Scrapers)
+```bash
+# Execute YouTube practitioner discourse & transcript scraper (Days 8-9)
+python src/data-collection/youtube_scraper.py
+
+# Execute Reddit PRAW/RSS public discourse scraper
+python src/data-collection/reddit_scraper.py
+
+# Execute GDELT global trade news pipeline
+python src/data-collection/gdelt_pipeline.py
+```
+
+### Running Data Processing & DQA Audits
+```bash
+# Run automated Data Quality Assessment (DQA) audit across datasets
+python src/data-processing/run_dqa_audit.py
+
+# Execute YouTube PII de-identification and sanitization pipeline
+python src/data-processing/deidentify_youtube_sanitization.py
 ```
