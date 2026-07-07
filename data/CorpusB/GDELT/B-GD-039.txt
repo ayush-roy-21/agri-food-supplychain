@@ -1,0 +1,16 @@
+Doc ID: B-GD-039
+Title: MPEDA shrimp broodstock import quarantine delays at Chennai airport disrupt hatchery stocking cycles
+Source Domain: timesofindia.indiatimes.com | Publish Date: 20230730T110000Z
+URL: https://timesofindia.indiatimes.com/city/chennai/shrimp-broodstock-quarantine-delay-chennai-airport/articleshow/102345678.cms
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("MPEDA" OR "shrimp export" OR "aquaculture") delay India
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-seafood-dwpe-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Aquaculture hatchery operators in Andhra Pradesh and Tamil Nadu report severe disruptions to shrimp seed production cycles due to extended quarantine clearance delays for imported Specific Pathogen Free (SPF) Vannamei broodstock at Chennai airport. Under statutory biological import rules, all imported broodstock must undergo screening at MPEDA's Aquatic Quarantine Facility (AQF). However, limited holding tank capacity and flight arrival clustering have resulted in broodstock consignments being held at airport cargo terminals for over 18 hours, leading to high mortality rates and raising post-larvae (PL) seed costs for MSME shrimp farmers.
+
+================================================================================

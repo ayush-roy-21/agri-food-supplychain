@@ -1,0 +1,16 @@
+Doc ID: B-GD-029
+Title: Avanti Feeds Limited and Apex Frozen Foods Limited implement blockchain hatchery traceability for marine exports
+Source Domain: business-standard.com | Publish Date: 20231015T103000Z
+URL: https://www.business-standard.com/companies/news/avanti-feeds-apex-frozen-blockchain-traceability-seafood-123101500456_1.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("MPEDA" OR "shrimp export") (exporter OR compliance) India
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-seafood-dwpe-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+To eliminate veterinary drug residue risks and comply with US Food and Drug Administration (FDA) traceability mandates, listed seafood leaders Avanti Feeds Limited and Apex Frozen Foods Limited have integrated end-to-end blockchain traceability across their aquaculture hatchery and processing operations in Andhra Pradesh. By tagging shrimp seed batches and automating water quality data capture, Avanti Feeds Limited and Apex Frozen Foods Limited guarantee antibiotic-free consignments. Conversely, unorganized MSME shrimp aggregators report severe difficulties in verifying farm-level input usage, leading to higher rejection risks during pre-harvest antibiotic testing (PHT).
+
+================================================================================

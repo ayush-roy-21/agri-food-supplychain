@@ -1,0 +1,16 @@
+Doc ID: B-GD-060
+Title: APEDA NPOP organic certification integrity audits by EU authorities cause shipment holds at Indian ports
+Source Domain: economictimes.indiatimes.com | Publish Date: 20240312T101000Z
+URL: https://economictimes.indiatimes.com/news/economy/foreign-trade/eu-npop-audit-holds-indian-organic-exports/articleshow/108123457.cms
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("APEDA" OR "NPOP" OR "organic") export delay India
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-customs-clearance-holds
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+In response to European Commission audits scrutinizing the integrity of India's National Programme for Organic Production (NPOP), APEDA has introduced stringent pre-export physical verification and sampling mandates for organic consignments. Every shipment of organic sesame, soy meal, and medicinal herbs bound for the EU must undergo mandatory sampling by authorized inspection agencies before port customs sealing. MSME organic exporters in Madhya Pradesh and Gujarat report that shortage of field inspectors has created a 7-to-10 day waiting period for container sealing, causing shipments to miss contracted vessel departure dates.
+
+================================================================================

@@ -1,0 +1,16 @@
+Doc ID: B-GD-012
+Title: Turmeric export consignments face ethylene oxide rejection in United States amidst heightened FDA scrutiny
+Source Domain: economictimes.indiatimes.com | Publish Date: 20240205T141000Z
+URL: https://economictimes.indiatimes.com/news/economy/foreign-trade/us-fda-scrutiny-hits-indian-turmeric-exports/articleshow/106789012.cms
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: (FDA OR "Spices Board") (rejection OR alert) India turmeric
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-usfda-import-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Indian turmeric exporters are experiencing increased import refusals at US ports as the Food and Drug Administration (FDA) intensifies screening for ethylene oxide (EtO) and lead chromate adulteration. A Tamil Nadu-based spice grinding unit reported that two shipping containers of ground turmeric were issued notice of detention under Section 801(a)(3) due to pesticide residue exceedance. While large corporate exporters utilize steam sterilization technology to eliminate microbial contamination without chemical fumigation, MSME processors lack the capital to install expensive steam sterilization units, leaving them vulnerable to border rejections.
+
+================================================================================

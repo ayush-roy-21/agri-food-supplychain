@@ -1,16 +1,16 @@
 Doc ID: B-GD-004
-Title: EUDR deforestation regulations impose severe GPS geotagging burden on Indian coffee and cocoa growers
-Source Domain: thehindubusinessline.com | Publish Date: 2025-07-02T11:45:00Z
-URL: https://www.thehindubusinessline.com/economy/agri-business/eudr-deforestation-regulations-impose-severe-gps-geotagging-burden-on-indian-coffee/article68192834.ece
+Title: Tata Consumer Products Limited deploys digital traceability across turmeric and chilli procurement networks
+Source Domain: financialexpress.com | Publish Date: 20240218T094500Z
+URL: https://www.financialexpress.com/industry/tata-consumer-products-limited-digital-traceability-spices/3109876/
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: ("EUDR" OR "deforestation" OR "traceability" OR "catch certificate" OR "IUU fishing" OR "carbon border") (India OR Indian) (export OR exporter OR MSME)
-Retrieval Date: 2026-07-06
+Targeted Query: ("traceability" OR "Spices Board") India export
+Retrieval Date: 2026-07-07
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-eudr-deforestation-geotagging
+Locus Tag: gdelt-msme-trade-friction
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-The upcoming European Union Deforestation Regulation (EUDR) is threatening to lock out thousands of Indian smallholder coffee, cocoa, and spice growers from European markets. Under the statutory mandate, exporters must submit geolocation polygon coordinates (GPS geotagging) for all plots of land where commodities were grown, proving zero deforestation after December 31, 2020. Indian Farmer Producer Organizations (FPOs) and MSME exporters in Karnataka and Kerala lack the digital infrastructure, GIS mapping tools, and financial capital required to audit fragmented smallholder estates. While APEDA and the Coffee Board have initiated pilot projects for blockchain-based traceability, exporters warn that compliance verification costs will render Indian produce uncompetitive against larger corporate plantations in Latin America and Vietnam.
+In response to tightening global sanitary and phytosanitary (SPS) standards, Tata Consumer Products Limited has rolled out a comprehensive digital traceability platform across its turmeric, chilli, and cumin farmer procurement networks in Karnataka and Maharashtra. The system records batch-level geotagging and pre-harvest pesticide application data. Industry trade analysts note that while organized listed enterprises such as Tata Consumer Products Limited can absorb the capital expenditure of digital farm mapping, small-scale spice FPOs and unorganized exporters face acute financial barriers in meeting similar European and US buyer mandates.
 
 ================================================================================

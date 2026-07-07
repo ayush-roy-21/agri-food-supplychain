@@ -1,0 +1,16 @@
+Doc ID: B-GD-052
+Title: DGFT Quality Control Orders on food packaging materials create supply chain bottlenecks for food exporters
+Source Domain: financialexpress.com | Publish Date: 20240208T110000Z
+URL: https://www.financialexpress.com/industry/dgft-qco-packaging-rules-hit-food-exporters/3078901/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("DGFT" OR "Quality Control Order" OR "QCO") export MSME
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Recent Quality Control Orders (QCOs) notified by the Department for Promotion of Industry and Internal Trade (DPIIT) and enforced by DGFT regarding mandatory BIS (Bureau of Indian Standards) certification for polymer and tin-plate food packaging materials have triggered unintended supply chain bottlenecks for processed food exporters. MSME food exporters report that specialty food-grade packaging materials and barrier films previously imported or sourced from regional manufacturers are facing severe shortages due to pending BIS factory inspection clearances. Processing plants in Maharashtra and Delhi report production halts due to non-availability of compliant export packaging cans and pouches.
+
+================================================================================

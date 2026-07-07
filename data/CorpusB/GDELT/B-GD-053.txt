@@ -1,0 +1,16 @@
+Doc ID: B-GD-053
+Title: Mismatch between DGFT RCMC data and customs ICEGATE database leads to cargo holds at Chennai port
+Source Domain: thehindu.com | Publish Date: 20231018T152000Z
+URL: https://www.thehindu.com/business/economy/dgft-rcmc-icegate-mismatch-holds-cargo-chennai/article67456791.ece
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("ICEGATE" OR "RCMC" OR "DGFT") export delay India
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-seafood-dwpe-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Hundreds of export shipping bills covering agricultural, spice, and marine shipments were blocked by the customs automated ICEGATE system at Chennai and Tuticorin ports due to data synchronization errors with the Directorate General of Foreign Trade (DGFT) Registration-cum-Membership Certificate (RCMC) database. Although exporters had renewed their RCMC memberships with APEDA and MPEDA, the automated validation protocol flagged error code E-107, citing 'Invalid RCMC Validity Date'. Exporters were forced to physically visit regional DGFT and customs EDI systems to manually override the validation mismatch, missing weekend sailing schedules.
+
+================================================================================

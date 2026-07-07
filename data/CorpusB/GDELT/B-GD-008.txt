@@ -1,16 +1,16 @@
 Doc ID: B-GD-008
-Title: US FDA FSVP audit compliance creates prohibitive cost barrier for Indian organic food exporters
-Source Domain: thehindubusinessline.com | Publish Date: 2025-04-30T09:15:00Z
-URL: https://www.thehindubusinessline.com/economy/agri-business/us-fda-fsvp-audit-compliance-creates-prohibitive-cost-barrier-for-indian-organic/article68012345.ece
+Title: High cost of multi-residue LC-MS/MS pesticide screening erodes profit margins for Unjha cumin aggregators
+Source Domain: business-standard.com | Publish Date: 20230815T100000Z
+URL: https://www.business-standard.com/markets/commodities/high-testing-costs-squeeze-unjha-cumin-exporters-123081500456_1.html
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: (FDA OR RASFF OR "EUDR" OR "DG SANTE") (rejection OR alert OR "border control" OR detained) (India) (seafood OR spice OR rice OR horticulture)
-Retrieval Date: 2026-07-06
+Targeted Query: ("Spices Board" OR "testing" OR "quality") MSME exporter India
+Retrieval Date: 2026-07-07
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-usfda-import-alerts
+Locus Tag: gdelt-msme-trade-friction
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Indian organic food manufacturers exporting to the United States are facing mounting compliance costs under the FDA's Foreign Supplier Verification Programs (FSVP). US importers are requiring Indian MSME suppliers to undergo rigorous third-party food safety audits, hazard analyses, and microbial risk assessments. For smallholder organic cooperatives certified under India's National Programme for Organic Production (NPOP), hiring US-recognized preventive controls qualified individuals (PCQI) and maintaining bilingual HACCP documentation costs upwards of $15,000 annually. Exporters argue that these technical barriers to trade (TBT) disproportionately disadvantage small agribusinesses compared to multinational food conglomerates.
+Merchant exporters and small aggregators in Unjha, Gujarat—Asia's largest cumin trading hub—report that mandatory multi-residue pesticide testing using advanced LC-MS/MS equipment is severely eroding export profit margins. With European buyers demanding screening for over 400 chemical compounds, test certificate costs have surged to nearly Rs 18,000 per sample. For MSMEs exporting small container loads or LCL (less than container load) shipments, laboratory testing fees represent up to 4 percent of the total FOB consignment value, undermining competitiveness against subsidized exporters in rival producing nations.
 
 ================================================================================

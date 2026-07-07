@@ -1,0 +1,16 @@
+Doc ID: B-GD-054
+Title: Unannounced US FDA foreign facility inspections in Gujarat result in Form 483 observations for food MSMEs
+Source Domain: timesofindia.indiatimes.com | Publish Date: 20240110T093000Z
+URL: https://timesofindia.indiatimes.com/city/ahmedabad/us-fda-unannounced-inspections-gujarat-food-units/articleshow/106543219.cms
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: (FDA OR "inspection") export food MSME India
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-usfda-import-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+The US Food and Drug Administration (FDA) has resumed unannounced on-site surveillance inspections of registered foreign food manufacturing facilities across Gujarat and Maharashtra under FSMA authority. Several regional MSME processed food and spice grinding units were issued FDA Form 483 inspectional observations citing deficiencies in hazard analysis, allergen cross-contact prevention, and sanitary equipment design. Food technologists note that while large multinational food processors maintain permanent regulatory affairs teams to escort US investigators and address Form 483 observations within the mandatory 15-day window, small food manufacturers struggle with technical compliance responses, risking import alerts.
+
+================================================================================

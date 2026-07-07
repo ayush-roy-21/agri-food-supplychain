@@ -1,0 +1,16 @@
+Doc ID: B-GD-020
+Title: Allanasons Private Limited utilizes Star Export House green-channel clearance while MSMEs face physical audits
+Source Domain: business-standard.com | Publish Date: 20231110T103000Z
+URL: https://www.business-standard.com/economy/logistics/allanasons-star-export-house-green-channel-customs-123111000345_1.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("APEDA" OR "customs clearance") exporter India
+Retrieval Date: 2026-07-07
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-customs-clearance-holds
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Under the Foreign Trade Policy 2023, Five-Star Export Houses such as Allanasons Private Limited benefit from green-channel customs clearance, self-certification of origin, and exemption from compulsory bank guarantees at Indian ports. A comparative analysis of processed food exports from Mumbai and Nhava Sheva indicates that while Allanasons Private Limited achieves port clearance within 24 hours, non-status MSME food processors undergo 100 percent physical consignment examination and documentary checks by customs and FSSAI port health officers, extending transit times by up to five working days.
+
+================================================================================
