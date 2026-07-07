@@ -5,7 +5,7 @@ A comprehensive, structured institutional data archive and regulatory intelligen
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Indian agricultural and processed food micro, small, and medium enterprises (MSMEs) operate within an increasingly complex global regulatory horizon. Exporting suppliers face severe structural hurdles imposed by overlapping domestic statutory regimes and rigorous international compliance mandates—ranging from zero-tolerance antibiotic screening and pesticide Maximum Residue Levels (MRLs) to mandatory GPS polygon farm geotagging under zero-deforestation due diligence rules.
 
@@ -15,7 +15,7 @@ Indian agricultural and processed food micro, small, and medium enterprises (MSM
 
 ---
 
-## 🏛️ Corpus Architecture & Institutional Pillars
+##  Corpus Architecture & Institutional Pillars
 
 ### Corpus A: Institutional Regulatory & Statutory Archive
 Corpus A contains authoritative regulatory records categorized under standardized document ID prefixes across specialized domain folders in `/CorpusA/` and `/data/CorpusA/`:
@@ -49,7 +49,7 @@ Corpus B systematically captures bottom-up operational friction and compliance r
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 agri-food-project/
@@ -131,7 +131,7 @@ All ingested datasets undergo continuous DQA auditing (`run_dqa_audit.py`):
 
 ---
 
-## 🚀 Quickstart & Scraper Execution
+##  Quickstart & Scraper Execution
 
 All Python scrapers and processing pipelines are self-contained, handling NIC government SSL certificates (`ssl.CERT_NONE`), binary PDF header verification, and automatic logging to local JSON registries and `master_registry.csv`.
 
