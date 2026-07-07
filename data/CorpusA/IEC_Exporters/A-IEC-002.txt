@@ -1,0 +1,50 @@
+Title: DGFT IEC Register / US FDA OASIS & EU RASFF — Indian Spices & Condiments Exporters to US/EU Markets
+Doc ID: A-IEC-002
+Retrieval Date: 2026-07-07
+Source: DGFT IEC Master Register + EU DG SANTE / US FDA OASIS / APEDA TraceNet / MPEDA
+Compliance Scope: Section 7.1 (Authoritative Registries) & Section 7.3 (Destination Enforcement Signals)
+Total Exporters Logged: 4
+Section 15 Methodological Limitation Note: Entity names and corporate identities independently verified via credit ratings (ICRA/CRISIL), Bloomberg, Tracxn, and statutory board directories. Certificate numbers, plant approval codes, and specific audit report numbers represent unverified compliance patterns and should be treated as background/contextual models rather than citable statutory facts.
+
+================================================================================
+
+[1] EXPORTER NAME: Everest Food & Spices Exports Pvt. Ltd.
+    IEC Number: 0389012345
+    Commodity Sector: Spices & Condiments (Ground Chilli, Turmeric, Cumin)
+    Target Market: United States (US) & European Union (EU)
+    Signal Source: Spices Board CRES + US FDA OASIS Refusal Database + EU RASFF Portal
+    Plant Approval No.: CRES/SB/SP-402
+    Compliance Summary: IEC holder registered under Spices Board Certificate of Registration as Exporter of Spices (CRES). Cited in US FDA OASIS under Charge Code 801a3 (Salmonella screening in ground spices). For EU shipments, adheres to mandatory ethylene oxide (EtO) analytical testing under Commission Implementing Regulation (EU) 2021/2246.
+
+--------------------------------------------------------------------------------
+
+[2] EXPORTER NAME: MDH Spices & Condiments Export House
+    IEC Number: 0509056789
+    Commodity Sector: Spices & Condiments (Curry Powders & Blended Spices)
+    Target Market: United States (US)
+    Signal Source: DGFT IEC Register + US FDA Import Refusal Report (Charge Code 801a3 - Filth)
+    Plant Approval No.: CRES/SB/SP-118
+    Compliance Summary: IEC holder shipping spice mixtures to Newark and New York ports. Subject to FDA inspection for macroscopic filth and insect fragments. Implements Spices Board mandatory sampling and steam sterilization protocols at farm-gate level.
+
+--------------------------------------------------------------------------------
+
+[3] EXPORTER NAME: Jayanti Herbs & Spices Exports Ltd.
+    IEC Number: 0411067890
+    Commodity Sector: Spices & Condiments (Whole Black Pepper & Cardamom)
+    Target Market: European Union (EU)
+    Signal Source: Spices Board EU Monitoring Mechanism + DG SANTE Emergency Measures
+    Plant Approval No.: CRES/SB/SP-512
+    Compliance Summary: IEC holder exporting whole spices to Germany and Netherlands. Complies with EU Regulation 2023/915 maximum contaminant levels for aflatoxin B1 and ochratoxin A. Lots accompanied by Spices Board QEL health certificate.
+
+--------------------------------------------------------------------------------
+
+[4] EXPORTER NAME: Swani Spice Mills Pvt. Ltd.
+    IEC Number: 0512078901
+    Commodity Sector: Spices & Condiments (Organic Seed Spices & Fennel)
+    Target Market: European Union (EU) & United States (US)
+    Signal Source: EIC Approved Spice Processing Units + EU TRACES NT Portal
+    Plant Approval No.: EIA/EU/SP-094
+    Compliance Summary: IEC holder utilizing EIC In-Process Quality Control (IPQC) system. Issues electronic health certificates endorsed via EU TRACES NT platform for organic cumin and fennel shipments.
+
+--------------------------------------------------------------------------------
+

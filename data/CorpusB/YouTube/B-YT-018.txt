@@ -1,0 +1,24 @@
+Doc ID: B-YT-018
+Title: जो यूरोप में ज़हर है, वो भारत में खाना कैसे?
+Channel: Commodity Today | Video ID: VNcSUCF0iKU
+Publish Date: 2026-06-10T14:30:36Z
+Platform: YouTube Data API v3
+Targeted Query: Basmati rice EU maximum residue limit tricyclazole rejection
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+क्या जो भोजन यूरोप में असुरक्षित माना जाता है, वही भारत में करोड़ों ...
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2026-06-11T02:33:25Z] (Likes: 0)
+    "गमों में गांव में शासकीय कर्मचारी ही नहीं है जो किसानों को कुछ बता सके कुछ बच्चे भी हैं तो उनको कुछ कोई जानकारी ही नहीं है ग्रामीण क्षेत्रों में शासकीय भर्ती हो सके तभी कुछ सुधार हो सकेगा नहीं तो सब मोबाइल में चलता रहेगा"
+
+================================================================================

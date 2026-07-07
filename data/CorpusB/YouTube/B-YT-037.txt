@@ -1,0 +1,24 @@
+Doc ID: B-YT-037
+Title: Webinar: Understanding RoDTEP and its Compliances
+Channel: Drip Capital | Video ID: Ac8_-XPM2ws
+Publish Date: 2022-02-11T22:35:24Z
+Platform: YouTube Data API v3
+Targeted Query: RoDTEP scheme export duty scrip audit reimbursement FEMA
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+The RoDTEP scheme came into existence after the US filed a complaint against India at the World Trade Organization (WTO) ...
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2022-02-11T10:45:58Z] (Likes: 0)
+    "Due to some technical error we could not record Q&A section of the webinar. RoDTEP scheme presentation is covered completely though."
+
+================================================================================

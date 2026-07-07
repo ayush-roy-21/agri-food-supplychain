@@ -1,0 +1,45 @@
+Doc ID: B-YT-020
+Title: 1718pusa ke phele 30 din Inthai zrory .part6
+Channel: Achievers | Video ID: evJBU_lKcVo
+Publish Date: 2022-05-11T17:55:47Z
+Platform: YouTube Data API v3
+Targeted Query: Basmati rice EU maximum residue limit tricyclazole rejection
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+pusa 1718.دھان 17191718 ki mukamal details part 1 . 1718 ka seed available hey. 1718 blb ke khilaf bada zbardast hey Pusa 1718 ...
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2023-07-09T01:15:33Z] (Likes: 1)
+    "Recommend this for farmers"
+
+(2) Author: [DE-IDENTIFIED USER] [2023-07-09T01:14:00Z] (Likes: 0)
+    "1718 good varaity"
+
+(3) Author: [DE-IDENTIFIED USER] [2023-06-16T06:18:23Z] (Likes: 1)
+    "Zbardast"
+
+(4) Author: [DE-IDENTIFIED USER] [2023-06-16T06:11:58Z] (Likes: 1)
+    "Good information"
+
+(5) Author: [DE-IDENTIFIED USER] [2023-06-16T06:00:14Z] (Likes: 0)
+    "Mind blowing"
+
+(6) Author: [DE-IDENTIFIED USER] [2023-06-16T06:00:00Z] (Likes: 0)
+    "Amazing"
+
+(7) Author: [DE-IDENTIFIED USER] [2022-07-31T20:15:44Z] (Likes: 1)
+    "Ab bolna nahi basmati pakisthan ka hai Pusa veraite Indian hai"
+
+(8) Author: [DE-IDENTIFIED USER] [2022-07-16T02:42:19Z] (Likes: 0)
+    "Great"
+
+================================================================================

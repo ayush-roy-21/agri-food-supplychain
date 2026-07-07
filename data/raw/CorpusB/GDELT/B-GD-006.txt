@@ -1,0 +1,16 @@
+Doc ID: B-GD-006
+Title: RoDTEP scheme reimbursement delays and tax audit scrutiny create working capital crunch for MSMEs
+Source Domain: financialexpress.com | Publish Date: 2025-06-05T16:20:00Z
+URL: https://www.financialexpress.com/industry/sme/rodtep-scheme-reimbursement-delays-and-tax-audit-scrutiny-create-working-capital-crunch/3412890/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: (RoDTEP OR "export duty" OR "customs clearance" OR "shipping bill") (MSME OR exporter) (delay OR error OR stopped OR rejected) locationci:india
+Retrieval Date: 2026-07-06
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-seafood-dwpe-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Small and medium agricultural exporters are facing severe working capital shortages due to delays in the issuance of electronic scrips under the Remission of Duties and Taxes on Exported Products (RoDTEP) scheme. Exporters report that customs portals frequently freeze scrip generation during departmental audits and verification of Foreign Exchange Management Act (FEMA) realization records. Furthermore, the rebate rates for value-added processed food products and marine items are considered insufficient to offset embedded municipal taxes, electricity duties, and transport fuel levies. MSME industry bodies have petitioned the Ministry of Finance and DGFT for an automated, paperless claim settlement mechanism to prevent export liquidity bottlenecks.
+
+================================================================================

@@ -1,0 +1,66 @@
+Doc ID: B-YT-010
+Title: Apeda Registration Online | E-Rcmc Apeda | Apeda Registration For Export | Rcmc Online | APEDA
+Channel: Give2knw | Video ID: ODZjUYuX7HQ
+Publish Date: 2023-08-13T08:03:53Z
+Platform: YouTube Data API v3
+Targeted Query: APEDA RCMC linking with IEC code MSME
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+give2knw Contact For Any Services - [DE-IDENTIFIED PHONE] Sumit Malviya IEC UPDATE & LINK IEC - https://youtu.be/XurQdMtW4nY ...
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2026-06-03T12:42:48Z] (Likes: 0)
+    "Thank you sir"
+
+(2) Author: [DE-IDENTIFIED USER] [2026-05-22T11:49:32Z] (Likes: 0)
+    "I forgot to sign what to do now"
+
+(3) Author: [DE-IDENTIFIED USER] [2026-05-10T16:48:38Z] (Likes: 0)
+    "aapke steps follow kiya, lekin sign ka option aaya hi nahi , direct payment ka option aaya"
+
+(4) Author: [DE-IDENTIFIED USER] [2026-02-15T06:41:45Z] (Likes: 0)
+    "Sir, mere pass iso ya haccp certificate nahi hai to kya mujhe apeda ka rcmc mil sakta hai"
+
+(5) Author: [DE-IDENTIFIED USER] [2025-09-02T09:55:05Z] (Likes: 0)
+    "Thank you sir ❤❤"
+
+(6) Author: [DE-IDENTIFIED USER] [2025-06-25T12:01:05Z] (Likes: 0)
+    "Iski official website kya hai"
+
+(7) Author: [DE-IDENTIFIED USER] [2025-06-23T11:43:44Z] (Likes: 1)
+    "Trustworthy guy. mr. Sumit Malviya ji. Very helpfull and cooperative. Made it very easy for me where i was stucking. Very minimal fee and you will get the things done. Thank u mr. Sumit malviya ji your honesty made me share my experience here.❤"
+
+(8) Author: [DE-IDENTIFIED USER] [2025-05-16T09:52:29Z] (Likes: 0)
+    "Agar products har time alag ho but apeda ke under hi ho to Hame har ek time ke liye RCMC alag alag lena padega kya ??"
+
+(9) Author: [DE-IDENTIFIED USER] [2025-05-04T11:36:13Z] (Likes: 0)
+    "Sir Website banana zaruri he kya Apeda ke liye ?"
+
+(10) Author: [DE-IDENTIFIED USER] [2025-04-28T12:18:09Z] (Likes: 0)
+    "do you require fssai certificate before applying for rcmc"
+
+(11) Author: [DE-IDENTIFIED USER] [2025-03-03T17:07:14Z] (Likes: 1)
+    "Explained very well, Sir ji. Thank you so much!!"
+
+(12) Author: [DE-IDENTIFIED USER] [2025-02-04T17:08:37Z] (Likes: 1)
+    "Good knowledge"
+
+(13) Author: [DE-IDENTIFIED USER] [2024-11-16T11:23:50Z] (Likes: 0)
+    "अगर एप्लिकेशन्स करते समय एक या दो प्रॉडक्ट का hsn कोड दे दिया . ओर बादमे प्रॉडक्ट बडगाये तो कोई दिक्कत आती हे क्या. जैसे ॲप्लिकेशन के टाईम प्याज का HSN कोड दला. ओर बादमे कोई ओर प्रॉडक्ट की ऑर्डर मिळगाई जो अपेडा के आंदर आता हो तो चलेगा क्या."
+
+(14) Author: [DE-IDENTIFIED USER] [2024-10-24T18:07:32Z] (Likes: 0)
+    "Bhai meat ka krate ho"
+
+(15) Author: [DE-IDENTIFIED USER] [2024-08-27T16:40:47Z] (Likes: 0)
+    "RCMC and APEDA are same?"
+
+================================================================================

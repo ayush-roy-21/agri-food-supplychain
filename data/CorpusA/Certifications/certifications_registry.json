@@ -1,0 +1,23 @@
+[
+  {
+    "doc_id": "BRCGS-001",
+    "body": "BRCGS",
+    "retrieval_date": "2026-07-06",
+    "signal": "BRCGS Directory",
+    "url": "https://directory.brcgs.com/"
+  },
+  {
+    "doc_id": "GLOBALGAP-001",
+    "body": "GLOBALGAP",
+    "retrieval_date": "2026-07-06",
+    "signal": "Portal",
+    "url": "https://database.globalgap.org/"
+  },
+  {
+    "doc_id": "ASC-001",
+    "body": "ASC",
+    "retrieval_date": "2026-07-06",
+    "signal": "Find Certified Fish Farm Locations - ASC International",
+    "url": "https://www.asc-aqua.org/find-a-farm/"
+  }
+]

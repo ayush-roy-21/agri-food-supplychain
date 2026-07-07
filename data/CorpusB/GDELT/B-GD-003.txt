@@ -1,0 +1,16 @@
+Doc ID: B-GD-003
+Title: DGFT ICEGATE portal glitches delay export shipping bill filing for food processors
+Source Domain: business-standard.com | Publish Date: 2025-06-12T09:20:00Z
+URL: https://www.business-standard.com/economy/news/dgft-icegate-portal-glitches-delay-export-shipping-bill-filing-124061200341_1.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: ("Import Export Code" OR "IEC" OR "DGFT portal" OR "RCMC") (MSME OR "small exporter" OR FPO) (spice OR seafood OR shrimp OR rice OR "processed food") locationci:india
+Retrieval Date: 2026-07-06
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-horticulture-sps-controls
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Agri-food MSME exporters across Maharashtra and Gujarat are facing severe consignment holds at customs ports due to technical glitches between the Directorate General of Foreign Trade (DGFT) server and the Indian Customs Electronic Gateway (ICEGATE). Exporters attempting to generate Electronic Bank Realization Certificates (e-BRC) and file shipping bills report recurring error codes such as E-104 and E-002, stemming from digital signature certificate (DSC) mismatches and AD Code bank validation delays. The Federation of Indian Export Organisations (FIEO) has urged the Ministry of Commerce to resolve the integration bottlenecks, noting that perishable agricultural goods, including fresh mangoes and vegetables, are incurring heavy demurrage charges and cold storage fees at Nhava Sheva and Chennai ports.
+
+================================================================================

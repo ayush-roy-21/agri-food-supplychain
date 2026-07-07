@@ -1,0 +1,66 @@
+Doc ID: B-YT-022
+Title: AD Code Export Import 💰 How to apply for AD code for foreign payments transactions #adcode #iec
+Channel: Surazz Gupta | Video ID: OODo5hCtpZQ
+Publish Date: 2024-10-04T10:34:50Z
+Platform: YouTube Data API v3
+Targeted Query: FSSAI central license linking DGFT IEC ICEGATE mandatory
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2026-05-13T10:49:07Z] (Likes: 0)
+    "Mai india se bahar hu to ad code mil jayega india me mere current account ka india aana to nahi padega documents sab hai"
+
+(2) Author: [DE-IDENTIFIED USER] [2026-04-18T16:51:25Z] (Likes: 0)
+    "Savings account se hora kya"
+
+(3) Author: [DE-IDENTIFIED USER] [2026-04-08T08:52:51Z] (Likes: 0)
+    "Sbi bank kasi hai"
+
+(4) Author: [DE-IDENTIFIED USER] [2026-03-30T14:54:38Z] (Likes: 0)
+    "Bhai AD code first 7 digit use hota hai"
+
+(5) Author: [DE-IDENTIFIED USER] [2026-03-27T12:17:00Z] (Likes: 0)
+    "Ad code ka fees kitna he"
+
+(6) Author: [DE-IDENTIFIED USER] [2026-03-13T07:27:33Z] (Likes: 0)
+    "AD code k liye bank wale port details maang rhe h ki konse port s import export hoga, ya jha jha s import export hoga us port ki details chahiye tab Jake AD code denge."
+
+(7) Author: [DE-IDENTIFIED USER] [2025-12-21T07:00:11Z] (Likes: 1)
+    "nice work easy kar ke samjha rahe h ap"
+
+(8) Author: [DE-IDENTIFIED USER] [2025-12-20T12:27:14Z] (Likes: 0)
+    "Bro same cover redme pad😅"
+
+(9) Author: [DE-IDENTIFIED USER] [2025-12-04T16:28:20Z] (Likes: 1)
+    ""Ease of doing business" my foot 🤡"
+
+(10) Author: [DE-IDENTIFIED USER] [2025-11-02T04:27:00Z] (Likes: 1)
+    "Bhai benk AD code nhideti"
+
+(11) Author: [DE-IDENTIFIED USER] [2025-10-27T15:44:38Z] (Likes: 0)
+    "Sbi bank ad code kitne din m deti hai"
+
+(12) Author: [DE-IDENTIFIED USER] [2025-10-27T11:22:12Z] (Likes: 0)
+    "Saving account ko se AD Code deta hai kya bank?"
+
+(13) Author: [DE-IDENTIFIED USER] [2025-09-18T05:01:02Z] (Likes: 0)
+    "Galat bola aapne"
+
+(14) Author: [DE-IDENTIFIED USER] [2025-05-26T15:12:00Z] (Likes: 0)
+    "Ad code kaise submit karna padega or kaha submit karna padega"
+
+(15) Author: [DE-IDENTIFIED USER] [2025-04-08T08:58:02Z] (Likes: 1)
+    "Bhai , apne kis Bank mei AD-Code liya hai ???"
+
+================================================================================

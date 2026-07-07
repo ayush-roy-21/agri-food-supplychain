@@ -1,0 +1,24 @@
+Doc ID: B-YT-012
+Title: Navigating APEDA: Unlocking Schemes, Benefits, and Registration | Agri produce exports | Eximbizz
+Channel: ROHIT YADAV | Video ID: 6Ty2wgu4R20
+Publish Date: 2023-05-16T05:30:01Z
+Platform: YouTube Data API v3
+Targeted Query: APEDA RCMC linking with IEC code MSME
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+Welcome to the YouTube channel of "Eximbizz services"! In this insightful video, we explore the Agricultural and Processed Food ...
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2025-11-13T12:06:37Z] (Likes: 0)
+    "didnt know about this well thanks Rohit sir for sharing this information with me 😍"
+
+================================================================================

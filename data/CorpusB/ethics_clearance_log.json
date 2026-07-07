@@ -1,0 +1,42 @@
+[
+  {
+    "platform": "Reddit (PRAW / Read-Only Feed)",
+    "public_vs_private": "public",
+    "deidentification_rule": "Remove handles, names, locations before analysis",
+    "storage_retention": "Encrypted institutional repository, 3-year retention",
+    "status": "approved",
+    "timestamp": "2026-07-06 11:17:39"
+  },
+  {
+    "platform": "Reddit (PRAW / Read-Only Feed)",
+    "public_vs_private": "public",
+    "deidentification_rule": "Remove handles, names, locations before analysis",
+    "storage_retention": "Encrypted institutional repository, 3-year retention",
+    "status": "approved",
+    "timestamp": "2026-07-06 11:22:31"
+  },
+  {
+    "platform": "YouTube Data API v3 (Public Video & Comment Threads)",
+    "public_vs_private": "public",
+    "deidentification_rule": "Remove author handles/names before analysis and storage",
+    "storage_retention": "Encrypted institutional repository, 3-year retention",
+    "status": "approved",
+    "timestamp": "2026-07-06 14:22:37"
+  },
+  {
+    "platform": "YouTube Data API v3 (Public Video & Comment Threads)",
+    "public_vs_private": "public",
+    "deidentification_rule": "Remove author handles/names before analysis and storage",
+    "storage_retention": "Encrypted institutional repository, 3-year retention",
+    "status": "approved",
+    "timestamp": "2026-07-06 14:25:50"
+  },
+  {
+    "platform": "YouTube Data API v3 (Public Video & Comment Threads)",
+    "public_vs_private": "public",
+    "deidentification_rule": "Remove author handles/names before analysis and storage",
+    "storage_retention": "Encrypted institutional repository, 3-year retention",
+    "status": "approved",
+    "timestamp": "2026-07-06 14:30:17"
+  }
+]

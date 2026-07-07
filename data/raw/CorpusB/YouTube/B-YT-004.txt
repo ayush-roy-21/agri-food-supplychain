@@ -1,0 +1,36 @@
+Doc ID: B-YT-004
+Title: GST Refund is stuck, due to EGM not filed | Understanding about Export General Manifest | #export
+Channel: CA M F Khan – Export & Global Tax Expert | Video ID: edEeOFFJcHI
+Publish Date: 2025-03-06T11:03:42Z
+Platform: YouTube Data API v3
+Targeted Query: DGFT portal error export shipment stopped
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+GST Refund is stuck, due to EGM not filed | Understanding about Export General Manifest | #export Is your GST refund delayed ...
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2025-09-25T06:51:39Z] (Likes: 1)
+    "Sir If I Import Anything I Have To Pay IGST But Will I Get That IGST Refund Or Not Please Guide"
+
+(2) Author: [DE-IDENTIFIED USER] [2025-09-24T02:50:09Z] (Likes: 1)
+    "Where I can get egm document"
+
+(3) Author: [DE-IDENTIFIED USER] [2025-03-07T00:43:16Z] (Likes: 1)
+    "V.good"
+
+(4) Author: [DE-IDENTIFIED USER] [2025-03-06T11:15:02Z] (Likes: 1)
+    "If good Trasport by truck"
+
+(5) Author: [DE-IDENTIFIED USER] [2025-03-06T11:12:01Z] (Likes: 1)
+    "Very good information Thanks Take care"
+
+================================================================================

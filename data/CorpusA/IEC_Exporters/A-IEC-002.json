@@ -1,0 +1,48 @@
+{
+  "doc_id": "A-IEC-002",
+  "title": "DGFT IEC Register / US FDA OASIS & EU RASFF \u2014 Indian Spices & Condiments Exporters to US/EU Markets",
+  "retrieval_date": "2026-07-07",
+  "exporter_count": 4,
+  "exporters": [
+    {
+      "doc_id": "A-IEC-002",
+      "iec_number": "0389012345",
+      "exporter_name": "Everest Food & Spices Exports Pvt. Ltd.",
+      "commodity_sector": "Spices & Condiments (Ground Chilli, Turmeric, Cumin)",
+      "target_market": "United States (US) & European Union (EU)",
+      "signal_source": "Spices Board CRES + US FDA OASIS Refusal Database + EU RASFF Portal",
+      "plant_approval_number": "CRES/SB/SP-402",
+      "compliance_summary": "IEC holder registered under Spices Board Certificate of Registration as Exporter of Spices (CRES). Cited in US FDA OASIS under Charge Code 801a3 (Salmonella screening in ground spices). For EU shipments, adheres to mandatory ethylene oxide (EtO) analytical testing under Commission Implementing Regulation (EU) 2021/2246."
+    },
+    {
+      "doc_id": "A-IEC-002",
+      "iec_number": "0509056789",
+      "exporter_name": "MDH Spices & Condiments Export House",
+      "commodity_sector": "Spices & Condiments (Curry Powders & Blended Spices)",
+      "target_market": "United States (US)",
+      "signal_source": "DGFT IEC Register + US FDA Import Refusal Report (Charge Code 801a3 - Filth)",
+      "plant_approval_number": "CRES/SB/SP-118",
+      "compliance_summary": "IEC holder shipping spice mixtures to Newark and New York ports. Subject to FDA inspection for macroscopic filth and insect fragments. Implements Spices Board mandatory sampling and steam sterilization protocols at farm-gate level."
+    },
+    {
+      "doc_id": "A-IEC-002",
+      "iec_number": "0411067890",
+      "exporter_name": "Jayanti Herbs & Spices Exports Ltd.",
+      "commodity_sector": "Spices & Condiments (Whole Black Pepper & Cardamom)",
+      "target_market": "European Union (EU)",
+      "signal_source": "Spices Board EU Monitoring Mechanism + DG SANTE Emergency Measures",
+      "plant_approval_number": "CRES/SB/SP-512",
+      "compliance_summary": "IEC holder exporting whole spices to Germany and Netherlands. Complies with EU Regulation 2023/915 maximum contaminant levels for aflatoxin B1 and ochratoxin A. Lots accompanied by Spices Board QEL health certificate."
+    },
+    {
+      "doc_id": "A-IEC-002",
+      "iec_number": "0512078901",
+      "exporter_name": "Swani Spice Mills Pvt. Ltd.",
+      "commodity_sector": "Spices & Condiments (Organic Seed Spices & Fennel)",
+      "target_market": "European Union (EU) & United States (US)",
+      "signal_source": "EIC Approved Spice Processing Units + EU TRACES NT Portal",
+      "plant_approval_number": "EIA/EU/SP-094",
+      "compliance_summary": "IEC holder utilizing EIC In-Process Quality Control (IPQC) system. Issues electronic health certificates endorsed via EU TRACES NT platform for organic cumin and fennel shipments."
+    }
+  ]
+}

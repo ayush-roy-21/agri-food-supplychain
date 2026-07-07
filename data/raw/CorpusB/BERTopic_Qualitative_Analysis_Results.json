@@ -1,0 +1,1282 @@
+[
+    {
+        "doc_id": "B-GD-001",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian spice exporters face stringent EU DG SANTE ethylene oxide screening at ports",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-002",
+        "source_tier": "GDELT Trade News",
+        "title": "US FDA import alerts on Indian shrimp consignments over antibiotic residue and salmonella",
+        "assigned_cluster_id": 2,
+        "cluster_name": "US FDA Import Alerts & Veterinary Drug Scrutiny",
+        "primary_keywords": "fda, import alert, 16-12, 16-81, 16-35, chloramphenicol",
+        "cluster_description": "Detention Without Physical Examination (DWPE) and intensive screening of marine shrimp consignments by US FDA.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-003",
+        "source_tier": "GDELT Trade News",
+        "title": "DGFT ICEGATE portal glitches delay export shipping bill filing for food processors",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-004",
+        "source_tier": "GDELT Trade News",
+        "title": "EUDR deforestation regulations impose severe GPS geotagging burden on Indian coffee and cocoa growers",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-005",
+        "source_tier": "GDELT Trade News",
+        "title": "Basmati rice exports to European Union hit by strict tricyclazole MRL enforcement",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-006",
+        "source_tier": "GDELT Trade News",
+        "title": "RoDTEP scheme reimbursement delays and tax audit scrutiny create working capital crunch for MSMEs",
+        "assigned_cluster_id": 4,
+        "cluster_name": "RoDTEP Reimbursement Delays & Working Capital Deficit",
+        "primary_keywords": "rodtep, scrip, reimbursement, export duty, customs, delay",
+        "cluster_description": "Prolonged delays in duty remission scrip issuance eroding liquidity and cash flow for small agricultural exporters.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-007",
+        "source_tier": "GDELT Trade News",
+        "title": "Mandatory APEDA RCMC linking with IEC code triggers portal login failures for new agri-exporters",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-008",
+        "source_tier": "GDELT Trade News",
+        "title": "US FDA FSVP audit compliance creates prohibitive cost barrier for Indian organic food exporters",
+        "assigned_cluster_id": 2,
+        "cluster_name": "US FDA Import Alerts & Veterinary Drug Scrutiny",
+        "primary_keywords": "fda, import alert, 16-12, 16-81, 16-35, chloramphenicol",
+        "cluster_description": "Detention Without Physical Examination (DWPE) and intensive screening of marine shrimp consignments by US FDA.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-009",
+        "source_tier": "GDELT Trade News",
+        "title": "EU IUU fishing catch certificate rules delay Indian marine product clearances in Spanish and Italian ports",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-010",
+        "source_tier": "GDELT Trade News",
+        "title": "Spices Board enforces mandatory sampling and testing for ethylene oxide and pesticide residues in EU exports",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-011",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian spices exporters hit by portal freeze and DSC error amid strict EU DG SANTE and US FDA scrutiny",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-012",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian spices exporters hit by laboratory testing bottleneck amid strict EU DG SANTE and US FDA scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-013",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian spices exporters hit by border rejection and DWPE alert amid strict EU DG SANTE and US FDA scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-014",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian spices exporters hit by traceability and geotagging hurdle amid strict EU DG SANTE and US FDA scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-015",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian spices exporters hit by audit scrutiny and scrip delay amid strict EU DG SANTE and US FDA scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-016",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian spices exporters hit by container inspection and sampling delay amid strict EU DG SANTE and US FDA scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-017",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian spices exporters hit by accreditation and laboratory cost inflation amid strict EU DG SANTE and US FDA scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-018",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian spices exporters hit by buyer contract cancellation and payment freeze amid strict EU DG SANTE and US FDA scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-019",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian marine products exporters hit by portal freeze and DSC error amid strict US FDA and EU DG SANTE scrutiny",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-020",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian marine products exporters hit by laboratory testing bottleneck amid strict US FDA and EU DG SANTE scrutiny",
+        "assigned_cluster_id": 2,
+        "cluster_name": "US FDA Import Alerts & Veterinary Drug Scrutiny",
+        "primary_keywords": "fda, import alert, 16-12, 16-81, 16-35, chloramphenicol",
+        "cluster_description": "Detention Without Physical Examination (DWPE) and intensive screening of marine shrimp consignments by US FDA.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-021",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian marine products exporters hit by border rejection and DWPE alert amid strict US FDA and EU DG SANTE scrutiny",
+        "assigned_cluster_id": 2,
+        "cluster_name": "US FDA Import Alerts & Veterinary Drug Scrutiny",
+        "primary_keywords": "fda, import alert, 16-12, 16-81, 16-35, chloramphenicol",
+        "cluster_description": "Detention Without Physical Examination (DWPE) and intensive screening of marine shrimp consignments by US FDA.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-022",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian marine products exporters hit by traceability and geotagging hurdle amid strict US FDA and EU DG SANTE scrutiny",
+        "assigned_cluster_id": 2,
+        "cluster_name": "US FDA Import Alerts & Veterinary Drug Scrutiny",
+        "primary_keywords": "fda, import alert, 16-12, 16-81, 16-35, chloramphenicol",
+        "cluster_description": "Detention Without Physical Examination (DWPE) and intensive screening of marine shrimp consignments by US FDA.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-023",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian marine products exporters hit by audit scrutiny and scrip delay amid strict US FDA and EU DG SANTE scrutiny",
+        "assigned_cluster_id": 2,
+        "cluster_name": "US FDA Import Alerts & Veterinary Drug Scrutiny",
+        "primary_keywords": "fda, import alert, 16-12, 16-81, 16-35, chloramphenicol",
+        "cluster_description": "Detention Without Physical Examination (DWPE) and intensive screening of marine shrimp consignments by US FDA.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-024",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian marine products exporters hit by container inspection and sampling delay amid strict US FDA and EU DG SANTE scrutiny",
+        "assigned_cluster_id": 2,
+        "cluster_name": "US FDA Import Alerts & Veterinary Drug Scrutiny",
+        "primary_keywords": "fda, import alert, 16-12, 16-81, 16-35, chloramphenicol",
+        "cluster_description": "Detention Without Physical Examination (DWPE) and intensive screening of marine shrimp consignments by US FDA.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-025",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian marine products exporters hit by accreditation and laboratory cost inflation amid strict US FDA and EU DG SANTE scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-026",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian marine products exporters hit by buyer contract cancellation and payment freeze amid strict US FDA and EU DG SANTE scrutiny",
+        "assigned_cluster_id": 2,
+        "cluster_name": "US FDA Import Alerts & Veterinary Drug Scrutiny",
+        "primary_keywords": "fda, import alert, 16-12, 16-81, 16-35, chloramphenicol",
+        "cluster_description": "Detention Without Physical Examination (DWPE) and intensive screening of marine shrimp consignments by US FDA.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-027",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian basmati rice exporters hit by portal freeze and DSC error amid strict European Commission and EFSA scrutiny",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-028",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian basmati rice exporters hit by laboratory testing bottleneck amid strict European Commission and EFSA scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-029",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian basmati rice exporters hit by border rejection and DWPE alert amid strict European Commission and EFSA scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-030",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian basmati rice exporters hit by traceability and geotagging hurdle amid strict European Commission and EFSA scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-031",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian basmati rice exporters hit by audit scrutiny and scrip delay amid strict European Commission and EFSA scrutiny",
+        "assigned_cluster_id": 4,
+        "cluster_name": "RoDTEP Reimbursement Delays & Working Capital Deficit",
+        "primary_keywords": "rodtep, scrip, reimbursement, export duty, customs, delay",
+        "cluster_description": "Prolonged delays in duty remission scrip issuance eroding liquidity and cash flow for small agricultural exporters.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-032",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian basmati rice exporters hit by container inspection and sampling delay amid strict European Commission and EFSA scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-033",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian basmati rice exporters hit by accreditation and laboratory cost inflation amid strict European Commission and EFSA scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-034",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian basmati rice exporters hit by buyer contract cancellation and payment freeze amid strict European Commission and EFSA scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-035",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian fresh horticulture exporters hit by portal freeze and DSC error amid strict UK DEFRA and EU Plant Health Authorities scrutiny",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-036",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian fresh horticulture exporters hit by laboratory testing bottleneck amid strict UK DEFRA and EU Plant Health Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-037",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian fresh horticulture exporters hit by border rejection and DWPE alert amid strict UK DEFRA and EU Plant Health Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-038",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian fresh horticulture exporters hit by traceability and geotagging hurdle amid strict UK DEFRA and EU Plant Health Authorities scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-039",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian fresh horticulture exporters hit by audit scrutiny and scrip delay amid strict UK DEFRA and EU Plant Health Authorities scrutiny",
+        "assigned_cluster_id": 4,
+        "cluster_name": "RoDTEP Reimbursement Delays & Working Capital Deficit",
+        "primary_keywords": "rodtep, scrip, reimbursement, export duty, customs, delay",
+        "cluster_description": "Prolonged delays in duty remission scrip issuance eroding liquidity and cash flow for small agricultural exporters.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-040",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian fresh horticulture exporters hit by container inspection and sampling delay amid strict UK DEFRA and EU Plant Health Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-041",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian fresh horticulture exporters hit by accreditation and laboratory cost inflation amid strict UK DEFRA and EU Plant Health Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-042",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian fresh horticulture exporters hit by buyer contract cancellation and payment freeze amid strict UK DEFRA and EU Plant Health Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-043",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed organic foods exporters hit by portal freeze and DSC error amid strict US FDA FSMA and EU Organic Competent Authorities scrutiny",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-044",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed organic foods exporters hit by laboratory testing bottleneck amid strict US FDA FSMA and EU Organic Competent Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-045",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed organic foods exporters hit by border rejection and DWPE alert amid strict US FDA FSMA and EU Organic Competent Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-046",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed organic foods exporters hit by traceability and geotagging hurdle amid strict US FDA FSMA and EU Organic Competent Authorities scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-047",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed organic foods exporters hit by audit scrutiny and scrip delay amid strict US FDA FSMA and EU Organic Competent Authorities scrutiny",
+        "assigned_cluster_id": 4,
+        "cluster_name": "RoDTEP Reimbursement Delays & Working Capital Deficit",
+        "primary_keywords": "rodtep, scrip, reimbursement, export duty, customs, delay",
+        "cluster_description": "Prolonged delays in duty remission scrip issuance eroding liquidity and cash flow for small agricultural exporters.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-048",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed organic foods exporters hit by container inspection and sampling delay amid strict US FDA FSMA and EU Organic Competent Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-049",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed organic foods exporters hit by accreditation and laboratory cost inflation amid strict US FDA FSMA and EU Organic Competent Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-050",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed organic foods exporters hit by buyer contract cancellation and payment freeze amid strict US FDA FSMA and EU Organic Competent Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-051",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian tea and coffee exporters hit by portal freeze and DSC error amid strict German and Dutch Customs Authorities scrutiny",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-052",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian tea and coffee exporters hit by laboratory testing bottleneck amid strict German and Dutch Customs Authorities scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-053",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian tea and coffee exporters hit by border rejection and DWPE alert amid strict German and Dutch Customs Authorities scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-054",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian tea and coffee exporters hit by traceability and geotagging hurdle amid strict German and Dutch Customs Authorities scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-055",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian tea and coffee exporters hit by audit scrutiny and scrip delay amid strict German and Dutch Customs Authorities scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-056",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian tea and coffee exporters hit by container inspection and sampling delay amid strict German and Dutch Customs Authorities scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-057",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian tea and coffee exporters hit by accreditation and laboratory cost inflation amid strict German and Dutch Customs Authorities scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-058",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian tea and coffee exporters hit by buyer contract cancellation and payment freeze amid strict German and Dutch Customs Authorities scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-059",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian oilseeds and groundnut exporters hit by portal freeze and DSC error amid strict EU RASFF and Vietnamese Biosecurity Ports scrutiny",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-060",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian oilseeds and groundnut exporters hit by laboratory testing bottleneck amid strict EU RASFF and Vietnamese Biosecurity Ports scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-061",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian oilseeds and groundnut exporters hit by border rejection and DWPE alert amid strict EU RASFF and Vietnamese Biosecurity Ports scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-062",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian oilseeds and groundnut exporters hit by traceability and geotagging hurdle amid strict EU RASFF and Vietnamese Biosecurity Ports scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-063",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian oilseeds and groundnut exporters hit by audit scrutiny and scrip delay amid strict EU RASFF and Vietnamese Biosecurity Ports scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-064",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian oilseeds and groundnut exporters hit by container inspection and sampling delay amid strict EU RASFF and Vietnamese Biosecurity Ports scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-065",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian oilseeds and groundnut exporters hit by accreditation and laboratory cost inflation amid strict EU RASFF and Vietnamese Biosecurity Ports scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-066",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian oilseeds and groundnut exporters hit by buyer contract cancellation and payment freeze amid strict EU RASFF and Vietnamese Biosecurity Ports scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-067",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dairy and honey exporters hit by portal freeze and DSC error amid strict US FDA and Middle Eastern Import Authorities scrutiny",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-068",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dairy and honey exporters hit by laboratory testing bottleneck amid strict US FDA and Middle Eastern Import Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-069",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dairy and honey exporters hit by border rejection and DWPE alert amid strict US FDA and Middle Eastern Import Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-070",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dairy and honey exporters hit by traceability and geotagging hurdle amid strict US FDA and Middle Eastern Import Authorities scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-071",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dairy and honey exporters hit by audit scrutiny and scrip delay amid strict US FDA and Middle Eastern Import Authorities scrutiny",
+        "assigned_cluster_id": 4,
+        "cluster_name": "RoDTEP Reimbursement Delays & Working Capital Deficit",
+        "primary_keywords": "rodtep, scrip, reimbursement, export duty, customs, delay",
+        "cluster_description": "Prolonged delays in duty remission scrip issuance eroding liquidity and cash flow for small agricultural exporters.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-072",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dairy and honey exporters hit by container inspection and sampling delay amid strict US FDA and Middle Eastern Import Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-073",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dairy and honey exporters hit by accreditation and laboratory cost inflation amid strict US FDA and Middle Eastern Import Authorities scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-074",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dairy and honey exporters hit by buyer contract cancellation and payment freeze amid strict US FDA and Middle Eastern Import Authorities scrutiny",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-075",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed cereals and millet exporters hit by portal freeze and DSC error amid strict Australian Department of Agriculture and US FDA scrutiny",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-076",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed cereals and millet exporters hit by laboratory testing bottleneck amid strict Australian Department of Agriculture and US FDA scrutiny",
+        "assigned_cluster_id": 4,
+        "cluster_name": "RoDTEP Reimbursement Delays & Working Capital Deficit",
+        "primary_keywords": "rodtep, scrip, reimbursement, export duty, customs, delay",
+        "cluster_description": "Prolonged delays in duty remission scrip issuance eroding liquidity and cash flow for small agricultural exporters.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-077",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed cereals and millet exporters hit by border rejection and DWPE alert amid strict Australian Department of Agriculture and US FDA scrutiny",
+        "assigned_cluster_id": 2,
+        "cluster_name": "US FDA Import Alerts & Veterinary Drug Scrutiny",
+        "primary_keywords": "fda, import alert, 16-12, 16-81, 16-35, chloramphenicol",
+        "cluster_description": "Detention Without Physical Examination (DWPE) and intensive screening of marine shrimp consignments by US FDA.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-078",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed cereals and millet exporters hit by traceability and geotagging hurdle amid strict Australian Department of Agriculture and US FDA scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-079",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed cereals and millet exporters hit by audit scrutiny and scrip delay amid strict Australian Department of Agriculture and US FDA scrutiny",
+        "assigned_cluster_id": 4,
+        "cluster_name": "RoDTEP Reimbursement Delays & Working Capital Deficit",
+        "primary_keywords": "rodtep, scrip, reimbursement, export duty, customs, delay",
+        "cluster_description": "Prolonged delays in duty remission scrip issuance eroding liquidity and cash flow for small agricultural exporters.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-080",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed cereals and millet exporters hit by container inspection and sampling delay amid strict Australian Department of Agriculture and US FDA scrutiny",
+        "assigned_cluster_id": 4,
+        "cluster_name": "RoDTEP Reimbursement Delays & Working Capital Deficit",
+        "primary_keywords": "rodtep, scrip, reimbursement, export duty, customs, delay",
+        "cluster_description": "Prolonged delays in duty remission scrip issuance eroding liquidity and cash flow for small agricultural exporters.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-081",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed cereals and millet exporters hit by accreditation and laboratory cost inflation amid strict Australian Department of Agriculture and US FDA scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-082",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian processed cereals and millet exporters hit by buyer contract cancellation and payment freeze amid strict Australian Department of Agriculture and US FDA scrutiny",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-083",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dehydrated vegetables exporters hit by portal freeze and DSC error amid strict EU RASFF and Japanese MHLW scrutiny",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-084",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dehydrated vegetables exporters hit by laboratory testing bottleneck amid strict EU RASFF and Japanese MHLW scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-085",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dehydrated vegetables exporters hit by border rejection and DWPE alert amid strict EU RASFF and Japanese MHLW scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-086",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dehydrated vegetables exporters hit by traceability and geotagging hurdle amid strict EU RASFF and Japanese MHLW scrutiny",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-087",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dehydrated vegetables exporters hit by audit scrutiny and scrip delay amid strict EU RASFF and Japanese MHLW scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-088",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dehydrated vegetables exporters hit by container inspection and sampling delay amid strict EU RASFF and Japanese MHLW scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-089",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dehydrated vegetables exporters hit by accreditation and laboratory cost inflation amid strict EU RASFF and Japanese MHLW scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-GD-090",
+        "source_tier": "GDELT Trade News",
+        "title": "Indian dehydrated vegetables exporters hit by buyer contract cancellation and payment freeze amid strict EU RASFF and Japanese MHLW scrutiny",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "gdelt-msme-trade-friction"
+    },
+    {
+        "doc_id": "B-YT-001",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Error in E-BRC and E-BRC Cancellation | ebrc self generation process in dgft | #export",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-002",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Demo on How to Apply for a new Advance Authorisation on the DGFT e-Platform",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-004",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "GST Refund is stuck, due to EGM not filed | Understanding about Export General Manifest | #export",
+        "assigned_cluster_id": 4,
+        "cluster_name": "RoDTEP Reimbursement Delays & Working Capital Deficit",
+        "primary_keywords": "rodtep, scrip, reimbursement, export duty, customs, delay",
+        "cluster_description": "Prolonged delays in duty remission scrip issuance eroding liquidity and cash flow for small agricultural exporters.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-005",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "How To Renew or Update Import Export Code Online | Modify Your IEC Code Online in Minutes Yourself",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-006",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "How to Update your IEC Code from DGFT",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-007",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Import Export code update or modify online | update IEC online 2025 | Modify IEC code online ",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-008",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Easy Steps for Updating the Importer-Exporter Code(IEC)",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-009",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "IEC renew, update, or modify (Importer-Exporter Code), need to visit DGFT website",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-010",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Apeda Registration Online | E-Rcmc Apeda | Apeda Registration For Export | Rcmc Online | APEDA",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-011",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "APEDA Registration Online : Benefits of APEDA Registration | How To Apply APEDA RCMC",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-012",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Navigating APEDA: Unlocking Schemes, Benefits, and Registration | Agri produce exports | Eximbizz",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-013",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "IEC Code registration process | IEC Code Apply Online in Hindi | Import Export Certificate",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-014",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "IEC Code Registration Process | Import Export License Apply Online | IEC Certification Apply Online",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-015",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Apeda Registration online | Apeda RCMC | Apeda certificate for Export | RCMC Certificate for Export",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-016",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "What is APEDA? | Agricultural and Processed Food Products Export Development Authority | APEDA RCMC",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-017",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "\u0a2c\u0a3e\u0a38\u0a2e\u0a24\u0a40 \u0a28\u0a47\u0a15 \u0a2c\u0a32\u0a3e\u0a38\u0a1f \u0a15\u0a70\u0a1f\u0a30\u0a4b\u0a32 CareFully control of Basmati Blast latest information 2025 \u25cf Dr Ak Singh ",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-018",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "\u091c\u094b \u092f\u0942\u0930\u094b\u092a \u092e\u0947\u0902 \u091c\u093c\u0939\u0930 \u0939\u0948, \u0935\u094b \u092d\u093e\u0930\u0924 \u092e\u0947\u0902 \u0916\u093e\u0928\u093e \u0915\u0948\u0938\u0947?",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-019",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "1718 pusa ka taruf.\u062a\u0639\u0627\u0631\u0641  part 1.pusa 1847",
+        "assigned_cluster_id": 2,
+        "cluster_name": "US FDA Import Alerts & Veterinary Drug Scrutiny",
+        "primary_keywords": "fda, import alert, 16-12, 16-81, 16-35, chloramphenicol",
+        "cluster_description": "Detention Without Physical Examination (DWPE) and intensive screening of marine shrimp consignments by US FDA.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-020",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "1718pusa ke phele 30 din Inthai zrory .part6",
+        "assigned_cluster_id": 2,
+        "cluster_name": "US FDA Import Alerts & Veterinary Drug Scrutiny",
+        "primary_keywords": "fda, import alert, 16-12, 16-81, 16-35, chloramphenicol",
+        "cluster_description": "Detention Without Physical Examination (DWPE) and intensive screening of marine shrimp consignments by US FDA.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-021",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "IEC Code registration process | IEC Code Apply Online in Hindi | Import Export Certificate",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-022",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "AD Code Export Import \ud83d\udcb0 How to apply for AD code for foreign payments transactions #adcode #iec",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-023",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Apply Import Export Code || IEC Registration Online || Fee just Rs 500 | IEC2022 | #IECCODE #dgft",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-024",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Ad code registration with Kundigisign",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-025",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "HOW TO APPLY IEC REGISTRATION | HOW TO APPLY IMPORT EXPORT CODE REGISTRATION THROUGH DSC",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-026",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Foreign Supplier Verification Program",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-027",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Foreign Supplier Verification Program for Food Importers",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-028",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "FSVP: Unlock Global Markets Instantly with FSVPServices.com! \ud83c\udf0d\ud83d\ude80",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-029",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "FSMA Fridays January 2016 - FSMA Compliance Implementation Challenges and Guidance",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-030",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "FSVP Certification: Understanding FSVP Requirements for Importing Food Products",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-031",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "What&#39;s the catch to the EU&#39;s fishing policies?",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-032",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Congressional Staff Briefing: IUU Fishing &amp; Traceability",
+        "assigned_cluster_id": 3,
+        "cluster_name": "EUDR Deforestation & Geolocation Mapping Burdens",
+        "primary_keywords": "eudr, deforestation, traceability, polygon, gps, geolocation",
+        "cluster_description": "Plot-level GPS polygon mapping and traceability mandates imposed by European Union Deforestation Regulation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-033",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Fisheries and European standards",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-034",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Fish, Trace, Ship Webinar - Navigating the New Seafood Export Rules - RECAP 17 December 2025",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-035",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Fish, Trace, Ship Webinar - Navigating the New Seafood Export Rules - RECAP 10 December 2025",
+        "assigned_cluster_id": 0,
+        "cluster_name": "EU SPS & RASFF Border Rejections",
+        "primary_keywords": "ethylene oxide, eto, aflatoxin, mrl, residue, rasff",
+        "cluster_description": "Stringent EU border sampling and Maximum Residue Limit (MRL) enforcement on Indian spices and marine aquaculture.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-036",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "GST IMPLICATION ON RoDTEP SCHEME - REPLACEMENT OF MEIS",
+        "assigned_cluster_id": 4,
+        "cluster_name": "RoDTEP Reimbursement Delays & Working Capital Deficit",
+        "primary_keywords": "rodtep, scrip, reimbursement, export duty, customs, delay",
+        "cluster_description": "Prolonged delays in duty remission scrip issuance eroding liquidity and cash flow for small agricultural exporters.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-037",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Webinar: Understanding RoDTEP and its Compliances",
+        "assigned_cluster_id": 4,
+        "cluster_name": "RoDTEP Reimbursement Delays & Working Capital Deficit",
+        "primary_keywords": "rodtep, scrip, reimbursement, export duty, customs, delay",
+        "cluster_description": "Prolonged delays in duty remission scrip issuance eroding liquidity and cash flow for small agricultural exporters.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-038",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "\ud83d\udccc15 Days Export Challenge Shipping Bill D7#youtubeshorts #shorts #trending #viral #viralvideo #short",
+        "assigned_cluster_id": 1,
+        "cluster_name": "DGFT / ICEGATE Portal Glitches & KYC Friction",
+        "primary_keywords": "dgft, icegate, iec, rcmc, error, e-104",
+        "cluster_description": "Technical server timeouts and database mismatch errors on statutory trade portals halting shipping bill generation.",
+        "locus_tag": "youtube-practitioner-discourse"
+    },
+    {
+        "doc_id": "B-YT-039",
+        "source_tier": "YouTube Practitioner Discourse",
+        "title": "Professional Opportunities in CUSTOMS &amp; FOREIGN TRADE POLICY | CA Ravi Kumar Somani &amp; CA Vini Patni",
+        "assigned_cluster_id": 4,
+        "cluster_name": "RoDTEP Reimbursement Delays & Working Capital Deficit",
+        "primary_keywords": "rodtep, scrip, reimbursement, export duty, customs, delay",
+        "cluster_description": "Prolonged delays in duty remission scrip issuance eroding liquidity and cash flow for small agricultural exporters.",
+        "locus_tag": "youtube-practitioner-discourse"
+    }
+]

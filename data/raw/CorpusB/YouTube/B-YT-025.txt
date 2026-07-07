@@ -1,0 +1,57 @@
+Doc ID: B-YT-025
+Title: HOW TO APPLY IEC REGISTRATION | HOW TO APPLY IMPORT EXPORT CODE REGISTRATION THROUGH DSC
+Channel: GST Practitioners | Video ID: fAuGVpAydMQ
+Publish Date: 2020-08-16T08:56:39Z
+Platform: YouTube Data API v3
+Targeted Query: FSSAI central license linking DGFT IEC ICEGATE mandatory
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+IMPORT EXPORT CODE (IEC) ONLINE PROCESS IN NEW PORTAL FROM 1ST JULY 2020 : #IEC #IMPORTEXPORTCODE ...
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2022-10-27T04:17:00Z] (Likes: 0)
+    "प्रोप्राइटरशिप फर्म के PAN नंबर से IEC कोड apply कर रहे हैं तो step 2 में प्रोप्राइटर की डिटेल में फर्म का नाम और पैन show कर रहा है... प्रोप्राइटर का नाम डालने पर उसे automatically हटा कर वहां फर्म का नाम आ जाता है बार बार... इस समस्या से कैसे निपटें...?"
+
+(2) Author: [DE-IDENTIFIED USER] [2022-03-01T06:09:52Z] (Likes: 0)
+    "For p'ship firm registration for IEC code to registration me first name and last name konsa dalna hai... Partner ka K firm ka nam?"
+
+(3) Author: [DE-IDENTIFIED USER] [2021-10-03T20:46:30Z] (Likes: 0)
+    "Sir mere paas DSC nehi he, Addhar se authentication nehi hoga?"
+
+(4) Author: [DE-IDENTIFIED USER] [2021-04-05T07:48:51Z] (Likes: 0)
+    "otp nahi ata mobile num pe kya kre"
+
+(5) Author: [DE-IDENTIFIED USER] [2021-01-25T09:15:59Z] (Likes: 0)
+    "Kitne din me mil jata hai?"
+
+(6) Author: [DE-IDENTIFIED USER] [2020-11-24T15:24:49Z] (Likes: 1)
+    "Best Video"
+
+(7) Author: [DE-IDENTIFIED USER] [2020-11-02T15:22:12Z] (Likes: 1)
+    "Kya personal saving account use kar sakte hai IEC application ke liye ?"
+
+(8) Author: [DE-IDENTIFIED USER] [2020-10-12T19:02:55Z] (Likes: 0)
+    "Very good information sir"
+
+(9) Author: [DE-IDENTIFIED USER] [2020-09-18T12:02:06Z] (Likes: 1)
+    "Whether DSC to be registered in Profile first?"
+
+(10) Author: [DE-IDENTIFIED USER] [2020-08-30T04:56:28Z] (Likes: 0)
+    "Sir ek video bnao ki digital signature kese lgaye dgft pr full process pls sir kisi n wo video ni bnya abhi tk u should upload"
+
+(11) Author: [DE-IDENTIFIED USER] [2020-08-24T09:17:06Z] (Likes: 0)
+    "sir main online work krta hu . maine ek company ka EIC apply kiya hai to sing ke liye Kya main apne aadhar se OTP le sakta hu"
+
+(12) Author: [DE-IDENTIFIED USER] [2020-08-19T15:25:33Z] (Likes: 0)
+    "SIR GST WALA DSC USE HO JAEGA KY PLS HELP"
+
+================================================================================

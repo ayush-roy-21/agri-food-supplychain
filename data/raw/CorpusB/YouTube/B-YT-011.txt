@@ -1,0 +1,33 @@
+Doc ID: B-YT-011
+Title: APEDA Registration Online : Benefits of APEDA Registration | How To Apply APEDA RCMC
+Channel: Rajput Jain and Associates  | Video ID: -Dnxor5enTo
+Publish Date: 2021-11-20T07:52:42Z
+Platform: YouTube Data API v3
+Targeted Query: APEDA RCMC linking with IEC code MSME
+Retrieval Date: 2026-07-06
+Section 6.2 DQA Status: ADEQUATE (Authentic MSME practitioner discourse)
+Transcript Status: EXCLUDED (Preventing BERTopic cluster corruption per DQA)
+Ethics Clearance: APPROVED (Section 11 Protocol)
+De-identification Status: Applied (Author Handles/Names and PII Masked)
+
+================================================================================
+
+DESCRIPTION:
+APEDA Registration Online : Benefits of APEDA Registration | How To Apply APEDA RCMC APEDA stands for Agricultural ...
+
+--------------------------------------------------------------------------------
+
+PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):
+(1) Author: [DE-IDENTIFIED USER] [2021-11-21T06:51:06Z] (Likes: 1)
+    "nice"
+
+(2) Author: [DE-IDENTIFIED USER] [2021-11-21T06:15:51Z] (Likes: 1)
+    "THANKS"
+
+(3) Author: [DE-IDENTIFIED USER] [2021-11-20T11:41:45Z] (Likes: 1)
+    "Excellent information vedio"
+
+(4) Author: [DE-IDENTIFIED USER] [2021-11-20T10:34:38Z] (Likes: 1)
+    "Good video"
+
+================================================================================

@@ -1,0 +1,75 @@
+Doc ID: BRCGS-001
+Body: BRCGS
+Signal: BRCGS Directory
+URL: https://directory.brcgs.com/
+Date: 2026-07-06
+
+--- HTML SIGNAL LAYER SAMPLE ---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="/manifest.json" />
+    <!--
+      Notice the use of  in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>BRCGS Directory</title>
+
+    
+      
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-PMCVPK64');</script>
+           <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','G-TCDNR2RCV0');</script>
+          <script type="module" crossorigin src="/assets/index-zrN2Wgpr.js"></script>
+          <link rel="stylesheet" crossorigin href="/assets/index-Uv3ItGkW.css">
+        </head>
+  
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PMCVPK64"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+          <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=G-TCDNR2RCV0"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div id="header"></div>
+
+    <div id="root"></div>
+      
+    <div id="footer"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
+</html>
