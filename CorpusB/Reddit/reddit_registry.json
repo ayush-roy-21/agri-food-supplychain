@@ -1,0 +1,58 @@
+[
+  {
+    "doc_id": "B-REDDIT-001",
+    "subreddit": "r/agriculture",
+    "retrieval_date": "2026-07-06",
+    "ethics_status": "approved",
+    "deidentification": "applied (handles/names removed)",
+    "post_count": 5,
+    "posts": [
+      {
+        "title": "Should you be worried about screwworms?",
+        "url": "https://www.reddit.com/r/Agriculture/comments/1uciys3/should_you_be_worried_about_screwworms/",
+        "created": "2026-06-22T12:16:59+00:00"
+      },
+      {
+        "title": "Could lightning-inspired fertilizer be a climate-friendly option for Canadian farmers?",
+        "url": "https://www.reddit.com/r/Agriculture/comments/1ubvmef/could_lightninginspired_fertilizer_be_a/",
+        "created": "2026-06-21T17:18:23+00:00"
+      },
+      {
+        "title": "DOGE cuts 'gutted\u2019 small KS farm service centers. Bipartisan bill seeks safeguards",
+        "url": "https://www.reddit.com/r/Agriculture/comments/1u8r8ex/doge_cuts_gutted_small_ks_farm_service_centers/",
+        "created": "2026-06-18T00:16:53+00:00"
+      },
+      {
+        "title": "Screwworm spreads into 4 more counties",
+        "url": "https://www.reddit.com/r/Agriculture/comments/1u7n7gq/screwworm_spreads_into_4_more_counties/",
+        "created": "2026-06-16T19:17:00+00:00"
+      },
+      {
+        "title": "\u2018Agrivoltaics\u2019 can both power AI data centres and increase food production",
+        "url": "https://www.reddit.com/r/Agriculture/comments/1u8dvny/agrivoltaics_can_both_power_ai_data_centres_and/",
+        "created": "2026-06-17T15:46:48+00:00"
+      }
+    ],
+    "url": "https://www.reddit.com/r/agriculture/"
+  },
+  {
+    "doc_id": "B-REDDIT-002",
+    "subreddit": "r/india",
+    "retrieval_date": "2026-07-06",
+    "ethics_status": "approved",
+    "deidentification": "applied (handles/names removed)",
+    "post_count": 0,
+    "posts": [],
+    "url": "https://www.reddit.com/r/india/"
+  },
+  {
+    "doc_id": "B-REDDIT-003",
+    "subreddit": "r/farming",
+    "retrieval_date": "2026-07-06",
+    "ethics_status": "approved",
+    "deidentification": "applied (handles/names removed)",
+    "post_count": 0,
+    "posts": [],
+    "url": "https://www.reddit.com/r/farming/"
+  }
+]
