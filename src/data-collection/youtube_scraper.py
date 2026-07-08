@@ -45,7 +45,7 @@ except ImportError:
     from entity_allowlist import scan_and_generalize_text, get_verification_metadata
 
 # Initialize the YouTube API client
-API_KEY = os.getenv("YOUTUBE_API_KEY", "AIzaSyA1LvVh0nSV2UNAQoIkptdIYXGVIWZrRoE")
+API_KEY = os.getenv("YOUTUBE_API_KEY", "YOUR_YOUTUBE_API_KEY_HERE")
 
 class FallbackYouTube:
     """

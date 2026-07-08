@@ -52,23 +52,21 @@ except ImportError:
 # 1. GDELT API Query Architecture
 # ==========================================
 QUERIES = [
-    # Query 1: Operational Portal & Registration Friction
-    '("Import Export Code" OR "IEC" OR "DGFT portal" OR "RCMC") (MSME OR "small exporter" OR FPO) (spice OR seafood OR shrimp OR rice OR "processed food") locationci:india',
-    
-    # Query 2: Regulatory Shocks & Compliance Burdens
-    '(RoDTEP OR "export duty" OR "customs clearance" OR "shipping bill") (MSME OR exporter) (delay OR error OR stopped OR rejected) locationci:india',
-    
-    # Query 3: Destination Market Rejections (US/EU signaling back to Indian media)
-    '(FDA OR RASFF OR "EUDR" OR "DG SANTE") (rejection OR alert OR "border control" OR detained) (India) (seafood OR spice OR rice OR horticulture)',
-    
-    # Query 4: Commodity Board SPS & Quality Hurdles
-    '("APEDA" OR "Spices Board" OR "MPEDA" OR "EIC" OR "FSSAI") (export OR exporter OR MSME) (rejection OR consignment OR delay OR testing OR quality OR contamination) locationci:india',
-    
-    # Query 5: Specific Export Rejections & Border Controls
-    '("shrimp export" OR "spice export" OR "basmati export" OR "mango export" OR "tea export") (rejection OR customs OR border OR "import alert" OR "pesticide residue" OR "ethylene oxide" OR salmonella) India',
-
-    # Query 6: European Green Deal / Deforestation / Traceability Burdens
-    '("EUDR" OR "deforestation" OR "traceability" OR "catch certificate" OR "IUU fishing" OR "carbon border") (India OR Indian) (export OR exporter OR MSME OR coffee OR cocoa OR seafood)'
+    'India export seafood',
+    'India export shrimp',
+    'India export spice',
+    'India export rice',
+    'India export tea',
+    'India export mango',
+    'India export MSME',
+    'India export APEDA',
+    'India export MPEDA',
+    'India export FSSAI',
+    'India export DGFT',
+    'India export rejection',
+    'India export FDA',
+    'India export EUDR',
+    'India export customs'
 ]
 
 GDELT_API_URL = "https://api.gdeltproject.org/api/v2/doc/doc"
@@ -92,21 +90,29 @@ def fetch_gdelt_metadata(query, max_records=150):
         "Accept": "application/json"
     }
     
-    for attempt in range(3):
+    for attempt in range(5):
         try:
-            response = requests.get(GDELT_API_URL, params=params, headers=headers, timeout=20)
+            response = requests.get(GDELT_API_URL, params=params, headers=headers, timeout=60)
             if response.status_code == 429:
-                print(f"    [!] Rate limited (HTTP 429). Backing off for {5 * (attempt + 1)} seconds...")
-                time.sleep(5 * (attempt + 1))
+                wait_time = 30 * (attempt + 1)
+                print(f"    [!] Rate limited (HTTP 429). Backing off for {wait_time} seconds...")
+                time.sleep(wait_time)
                 continue
             response.raise_for_status()
-            data = response.json()
+            try:
+                data = response.json()
+            except Exception as e_json:
+                print(f"    [!] Non-JSON response received from GDELT: {response.text[:150]}")
+                time.sleep(20)
+                continue
+                
             articles = data.get("articles", [])
             print(f"    -> Retrieved {len(articles)} article metadata records.")
+            time.sleep(12)  # Gentle delay between queries
             return articles
         except Exception as e:
             print(f"    [!] GDELT API Attempt {attempt+1} failed: {e}")
-            time.sleep(3)
+            time.sleep(10 * (attempt + 1))
     return []
 
 def extract_full_text(url):
@@ -149,7 +155,7 @@ def extract_full_text(url):
 # Strictly following Entity Allowlist (§11 / §15 DQA) & MSME Trade Friction Focus
 # ==========================================
 def get_curated_backup_articles():
-    """Returns 65+ verified trade news records covering MSME export hurdles across all pillars to guarantee saturation."""
+    raise RuntimeError("CRITICAL: Hardcoded fallback articles have been purged per project governance rules. Live retrieval only.")
     return [
         # --- SPICES BOARD & EU DG SANTE / RASFF HURDLES (1-12) ---
         {
@@ -719,12 +725,7 @@ def get_curated_backup_articles():
     ]
 
 def generate_curated_raw_corpus():
-    """Returns the curated, authentic backup trade news corpus (65+ substantive MSME trade records).
-    
-    Per project governance rules (Strict Scope Adherence & No Invented Data),
-    synthetic simulation loops have been removed.
-    """
-    return get_curated_backup_articles()
+    raise RuntimeError("CRITICAL: Hardcoded fallback articles have been purged per project governance rules. Live retrieval only.")
 
 # ==========================================
 # 2. Pipeline Orchestration & Output
@@ -735,6 +736,23 @@ def run_gdelt_scraper():
     print("==========================================================================")
     
     project_root = Path(__file__).resolve().parent.parent.parent
+    
+    # Purge old/fabricated files across all GDELT directories per project governance rules
+    print("[*] Purging old/fabricated backup files from GDELT folders...")
+    clean_dirs = [
+        project_root / "data" / "raw" / "CorpusB" / "GDELT",
+        project_root / "data" / "CorpusB" / "GDELT",
+        project_root / "CorpusB" / "GDELT"
+    ]
+    for d in clean_dirs:
+        if d.exists():
+            for f in d.glob("*"):
+                if f.is_file() and (f.name.startswith("B-GD-") or f.name.endswith(".csv") or f.name.endswith(".json")):
+                    try:
+                        f.unlink()
+                    except Exception:
+                        pass
+                        
     master_gdelt_corpus = []
     
     # Step 1: Hit GDELT API across all targeted queries
@@ -772,22 +790,8 @@ def run_gdelt_scraper():
     valid_raw = [r for r in master_gdelt_corpus if not r["raw_text"].startswith("[EXTRACTION_FAILED")]
     print(f"\n[*] Successfully extracted {len(valid_raw)} raw articles from live API.")
     
-    # Guarantee saturation and strict allowlist compliance by incorporating our curated corpus
-    print("[*] Incorporating curated backup news records into raw corpus to guarantee saturation (50+ meaningful documents)...")
-    backup_items = generate_curated_raw_corpus()
-    existing_urls = {r["url"] for r in valid_raw}
-    for idx, b_item in enumerate(backup_items, len(valid_raw)+1):
-        if b_item["url"] not in existing_urls:
-            b_item["doc_id"] = f"RAW-GDELT-{len(valid_raw)+1:03d}"
-            _, meta = scan_and_generalize_text(b_item["raw_text"] + " " + b_item["title"])
-            b_item["firm_mentioned"] = meta.get("firm_mentioned", "None (Generalized MSMEs)")
-            b_item["iec_verification_status"] = meta.get("iec_verification_status", "N/A - No Firm Mentioned")
-            b_item["verification_method"] = meta.get("verification_method", "N/A")
-            b_item["verification_date"] = meta.get("verification_date", datetime.now().strftime("%Y-%m-%d"))
-            b_item["enterprise_scale_tier"] = meta.get("enterprise_scale_tier", "not-applicable")
-            b_item["relevance_to_study"] = meta.get("relevance_to_study", "MSME-instance (target population under study)")
-            valid_raw.append(b_item)
-            existing_urls.add(b_item["url"])
+    # Per project governance rules (Strict Scope Adherence & No Invented Data),
+    # no fallback or synthetic backup articles are permitted. We accept ONLY real live-retrieved documents.
             
     print(f"[*] Total Raw GDELT Corpus harvested: {len(valid_raw)} articles.")
     
