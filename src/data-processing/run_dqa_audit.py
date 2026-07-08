@@ -84,6 +84,12 @@ enrichment_map = {
     "A-EUDR-001": ("zero-deforestation-due-diligence", "regulation-2023-1115-plot-polygon-geolocation-traces", "A,A,A,A,A,A", "A,A,A,A,A,A"),
     "A-EUDR-002": ("corporate-sustainability-directive", "directive-2024-1760-upstream-human-rights-audit", "A,A,A,A,A,A", "A,A,A,A,A,A"),
     "A-EUDR-003": ("eudr-geotagging-advisory", "apeda-tracenet-geojson-polygon-generation-protocol", "A,A,A,A,A,A", "A,A,A,A,A,A"),
+
+    # DGFT IEC Exporters (§15 Limitation: Marginal Content Rating)
+    "A-IEC-001": ("iec-marine-eu-us-exporters", "iec-cross-reference-sante-oasis-marine", "A,A,A,A,A,A", "M,M,M,M,M,M"),
+    "A-IEC-002": ("iec-spices-us-eu-exporters", "iec-cross-reference-oasis-rasff-spices", "A,A,A,A,A,A", "M,M,M,M,M,M"),
+    "A-IEC-003": ("iec-rice-processed-eu-us-exporters", "iec-cross-reference-tracenet-fsma-rice", "A,A,A,A,A,A", "M,M,M,M,M,M"),
+    "A-IEC-004": ("iec-horticulture-eu-us-exporters", "iec-cross-reference-hortinet-eudr-produce", "A,A,A,A,A,A", "M,M,M,M,M,M"),
 }
 
 rows = []

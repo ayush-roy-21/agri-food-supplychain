@@ -88,6 +88,33 @@ def execute_section_10_cleaning(raw_corpus):
         "geopolitical tensions in middle east", "global oil prices surge"
     ]
     
+    # Core Agri-Food & Trade Friction mandatory terms (strictly food-specific)
+    agri_food_core = [
+        "spice", "shrimp", "seafood", "rice", "tea", "mango", "pesticide",
+        "aflatoxin", "fssai", "apeda", "mpeda", "spices board", "mrl", "dwpe",
+        "salmonella", "residue", "eto", "ethylene oxide", "aquaculture",
+        "basmati", "chilli", "turmeric", "horticulture", "marine products",
+        "food processing", "food safety", "import alert", "border inspection"
+    ]
+    
+    pharma_and_macro_noise = [
+        "pharma", "pharmaceutical", "drug", "medtech", "hospital", "ceasefire",
+        "missile", "military", "gaza", "israel", "iran", "trump", "biden", "war",
+        "sensex", "nifty", "stock market", "dabur", "usfda official action",
+        "ozempic", "fertility", "pregnancy", "h-1b", "visa", "adani", "indictment",
+        "kheer bhawani", "cow protection", "indo-pacific", "f-35", "fmcg", "upsc",
+        "mutual fund", "repo rate", "gdp growth", "fiscal deficit"
+    ]
+    
+    paywall_stub_phrases = [
+        "enable cookies", "subscribe to read", "subscriber only",
+        "reached your limit of free articles", "already a subscriber",
+        "please log in to read", "to read full story", "adblocker",
+        "cookies to continue", "access to this article requires",
+        "etprime", "trial offer expiring", "login using your et prime",
+        "worry not. you're just a step away"
+    ]
+    
     project_root = Path(__file__).resolve().parent.parent.parent
     exceptions_log_path = project_root / "data" / "exceptions_log.csv"
     rejection_rows = []
@@ -95,47 +122,88 @@ def execute_section_10_cleaning(raw_corpus):
     for item in deduplicated:
         title = item.get("title", "")
         text = item.get("raw_text", "")
+        domain = item.get("source_domain", "").lower()
+        query = item.get("query_used", "")
+        language = item.get("language", "English")
+        doc_id = item.get("doc_id", "RAW-GDELT")
         combined = (title + " " + text).lower()
+        words = text.split()
         
+        # Helper for logging to 7-column exceptions log
+        def log_rejection(reason):
+            nonlocal rejected_count
+            rejected_count += 1
+            rejection_rows.append([
+                doc_id,
+                domain,
+                item.get("url", ""),
+                datetime.now().strftime("%Y-%m-%d"),
+                reason,
+                "Excluded from Master Registry & Corpus B under Section 10 DQA screening",
+                f"Title: '{title[:60]}' | Query: {query}"
+            ])
+
+        # 1. Reject non-English / Arabic / Asian script / non-ASCII title
+        if language != "English" or not any(c.isascii() and c.isalpha() for c in title) or any(ord(c) > 0x2E80 for c in combined):
+            log_rejection("Section 10 DQA Rejection: Non-English/Arabic/Asian script keyword-collision artifact")
+            continue
+            
+        # 2. Reject paywall/adblock/ETPrime stubs
+        if len(words) < 65 or any(stub in combined for stub in paywall_stub_phrases) or "thehindu.com" in domain or "freshplaza.com" in domain:
+            log_rejection("Section 10 DQA Rejection: Unusable raw_text paywall/adblock/ETPrime stub or insufficient length")
+            continue
+            
+        # 3. Unconditional Rejection for Pharma / Geopolitical / Market / Visa noise
+        if any(pn in combined for pn in pharma_and_macro_noise):
+            log_rejection("Section 10 DQA Rejection: Pharma/Geopolitical/Macro noise unrelated to Indian agri-food exports")
+            continue
+            
+        # 4. For "rejection" and "FDA" queries specifically, enforce strict agri-food core relevance
+        agri_hits = sum(1 for ak in agri_food_core if ak in combined)
+        if ("rejection" in query.lower() or "fda" in query.lower() or "customs" in query.lower() or "eudr" in query.lower()) and agri_hits < 1:
+            log_rejection(f"Section 10 DQA Rejection: Query '{query}' yielded non-agri-food content (agri_hits={agri_hits})")
+            continue
+            
+        # 5. General trade friction & depth scoring
         has_macro = any(mk in combined for mk in macro_op_ed_keywords)
         friction_hits = sum(1 for fk in trade_friction_keywords if fk in combined)
         
         if has_macro and friction_hits < 3:
-            rejected_count += 1
-            rejection_rows.append([
-                item.get("doc_id", "RAW-GDELT"),
-                title,
-                item.get("url", ""),
-                "Section 10 DQA Rejection: Broad macroeconomic op-ed lacking specific MSME trade/regulatory friction",
-                datetime.now().strftime("%Y-%m-%d")
-            ])
+            log_rejection("Section 10 DQA Rejection: Broad macroeconomic op-ed lacking specific MSME trade/regulatory friction")
             continue
             
-        if friction_hits >= 2 or len(text.split()) > 100:
+        if friction_hits >= 1 and agri_hits >= 1 and len(words) >= 80:
             clean_corpus.append(item)
         else:
-            rejected_count += 1
-            rejection_rows.append([
-                item.get("doc_id", "RAW-GDELT"),
-                title,
-                item.get("url", ""),
-                "Section 10 DQA Rejection: Insufficient technical depth or trade friction relevance",
-                datetime.now().strftime("%Y-%m-%d")
-            ])
+            log_rejection("Section 10 DQA Rejection: Insufficient technical depth or agri-food trade friction relevance")
             
-    if rejection_rows:
-        if exceptions_log_path.exists():
-            with open(exceptions_log_path, "a", newline="", encoding="utf-8") as f:
-                writer = csv.writer(f)
-                writer.writerows(rejection_rows)
-        else:
-            with open(exceptions_log_path, "w", newline="", encoding="utf-8") as f:
-                writer = csv.writer(f)
-                writer.writerow(["doc_id", "title", "url", "rejection_reason", "log_date"])
-                writer.writerows(rejection_rows)
-                
-    print(f"    -> Rejected {rejected_count} broad macroeconomic op-eds / low-relevance articles.")
-    print(f"    -> Final Clean GDELT Corpus size: {len(clean_corpus)} documents (Target >= 70-80 achieved).")
+    # Schema-Compliant Overwrite of exceptions_log.csv with exactly 7 columns
+    legacy_rows = []
+    header_7 = ["doc_id_attempted", "source_name", "intended_url_or_query", "attempt_date", "reason_inaccessible", "workaround_tried_resolution", "notes"]
+    if exceptions_log_path.exists():
+        try:
+            with open(exceptions_log_path, "r", encoding="utf-8", errors="replace") as f:
+                reader = csv.reader(f)
+                rows = list(reader)
+                for r in rows:
+                    if len(r) >= 1 and not r[0].startswith("RAW-GDELT") and r[0] != "doc_id_attempted":
+                        # Keep legitimate legacy rows (e.g. A-APEDA, EXC-YT, B-REDDIT)
+                        if len(r) < 7:
+                            r = r + [""] * (7 - len(r))
+                        legacy_rows.append(r[:7])
+        except Exception:
+            pass
+            
+    with open(exceptions_log_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(header_7)
+        writer.writerows(legacy_rows)
+        writer.writerows(rejection_rows)
+        
+    print(f"    -> Deduplicated Input Pool: {len(deduplicated)}")
+    print(f"    -> Rejected (Exceptions):   {rejected_count}")
+    print(f"    -> Final Clean GDELT Size:  {len(clean_corpus)}")
+    print(f"    -> Arithmetic Check: {len(clean_corpus)} + {rejected_count} = {len(clean_corpus) + rejected_count} (Matches Input: {len(clean_corpus) + rejected_count == len(deduplicated)})")
     
     return clean_corpus
 
@@ -191,6 +259,16 @@ def run_gdelt_dqa_filter():
         project_root / "CorpusB" / "GDELT",
         project_root / "data" / "CorpusB" / "GDELT"
     ]
+    
+    # Clean up old/fabricated B-GD-*.txt files before generating new ones
+    print("    -> Purging old/unnecessary B-GD-*.txt files from GDELT folders...")
+    for out_dir in output_dirs:
+        if out_dir.exists():
+            for old_file in out_dir.glob("B-GD-*.txt"):
+                try:
+                    old_file.unlink()
+                except Exception:
+                    pass
     
     new_master_rows = []
     

@@ -11,6 +11,7 @@ have been moved to src/data-processing/dqa_filter_gdelt.py per project DQA archi
 """
 
 import os
+import sys
 import re
 import json
 import csv
@@ -19,6 +20,13 @@ import hashlib
 from datetime import datetime
 from pathlib import Path
 import urllib.parse
+
+if hasattr(sys.stdout, 'reconfigure'):
+    try:
+        sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+        sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+    except Exception:
+        pass
 
 try:
     from entity_allowlist import scan_and_generalize_text, get_verification_metadata
@@ -83,7 +91,7 @@ def fetch_gdelt_metadata(query, max_records=150):
         "mode": "artlist",
         "format": "json",
         "maxrecords": max_records,
-        "timespan": "10y"
+        "timespan": "5y"
     }
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/5.37.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/5.37.36",
@@ -102,7 +110,8 @@ def fetch_gdelt_metadata(query, max_records=150):
             try:
                 data = response.json()
             except Exception as e_json:
-                print(f"    [!] Non-JSON response received from GDELT: {response.text[:150]}")
+                clean_text = response.text.encode('ascii', 'replace').decode('ascii')
+                print(f"    [!] Non-JSON response received from GDELT: {clean_text[:150]}")
                 time.sleep(20)
                 continue
                 
@@ -111,7 +120,8 @@ def fetch_gdelt_metadata(query, max_records=150):
             time.sleep(12)  # Gentle delay between queries
             return articles
         except Exception as e:
-            print(f"    [!] GDELT API Attempt {attempt+1} failed: {e}")
+            clean_err = str(e).encode('ascii', 'replace').decode('ascii')
+            print(f"    [!] GDELT API Attempt {attempt+1} failed: {clean_err}")
             time.sleep(10 * (attempt + 1))
     return []
 
@@ -761,7 +771,8 @@ def run_gdelt_scraper():
         for idx, art in enumerate(articles):
             url = art.get("url", "")
             title = art.get("title", "No Title")
-            print(f"    Scraping [{idx+1}/{len(articles)}]: {title[:50]}...")
+            clean_title = title.encode('ascii', 'replace').decode('ascii')
+            print(f"    Scraping [{idx+1}/{len(articles)}]: {clean_title[:50]}...")
             full_text = extract_full_text(url)
             
             # Apply Section 11 Corporate De-identification & Verification
