@@ -1,0 +1,44 @@
+Doc ID: B-GD-050
+Title: Walmart bets bigger on India : MSME export push crosses 115 , 000 businesses [ details inside ] 
+Source Domain: ibtimes.co.in | Publish Date: 20260507T121500Z
+URL: https://www.ibtimes.co.in/walmart-bets-bigger-india-msme-export-push-crosses-115000-businesses-details-inside-901857
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export DGFT
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Walmart is expanding its India sourcing and supplier development efforts as the U.S. retail giant looks to deepen ties with the country's growing manufacturing and export ecosystem amid shifting global supply chains.
+
+At the second edition of the Walmart Growth Summit India 2026 held at Bharat Mandapam in New Delhi, the retailer said it has already sourced more than $40 billion worth of goods from India and trained over 115,000 micro, small and medium enterprises (MSMEs) through its Walmart Vriddhi programme since 2019.
+
+$40 Billion Sourcing Drive Accelerates
+
+The event brought together export-ready businesses, digital-first brands, MSMEs and supply chain partners to explore opportunities in domestic and international markets, highlighting Walmart's broader strategy of positioning India as a key sourcing and manufacturing hub.
+
+"India represents one of the most dynamic opportunities in global commerce today," Walmart President and CEO John Furner said at the summit.
+
+"We've already sourced more than $40 billion in goods from India and are focused on strengthening entrepreneur and supplier capabilities, raising compliance and quality standards, and helping scale manufacturing so more Indian businesses are ready to export," Furner said.
+
+The summit comes as multinational retailers increasingly diversify sourcing bases beyond China and seek to build resilient supply chains across Asia. India has emerged as a strategic market for global companies looking to expand manufacturing partnerships across categories ranging from textiles and food products to home goods and consumer items.
+
+Flipkart Group CEO Kalyan Krishnamurthy said digital commerce platforms were helping small businesses access larger domestic and global markets.
+
+"Through initiatives like Flipkart Samarth and Walmart Vriddhi, we are helping build capabilities, improve market access, and create pathways for businesses to grow both domestically and globally," Krishnamurthy said.
+
+Walmart said its Vriddhi Supplier Development Program plans to support 170,000 MSMEs by 2028, expanding training in digital commerce, compliance, business operations and export readiness.
+
+The company also highlighted growing interest among Indian sellers in cross-border commerce through Walmart Marketplace. According to Walmart, the summit received more than 5,000 registrations, with participants seeking guidance on onboarding, regulatory compliance and international expansion.
+
+Manish Joneja said India's export ambitions were accelerating as more businesses looked beyond the domestic market.
+
+"Walmart Marketplace is proud to partner with businesses and organizations like DPIIT and FIEO to help Indian businesses become export-ready and reach customers around the world," Joneja said.
+
+The summit follows regional events in Jaipur and Coimbatore conducted in partnership with the Directorate General of Foreign Trade (DGFT) and the Federation of Indian Export Organisations (FIEO), with Walmart planning additional outreach programmes in the coming year.
+
+Walmart has steadily expanded its India footprint through sourcing operations, supply-chain investments and its ownership stake in Flipkart, as competition intensifies in the country's fast-growing retail and e-commerce sectors.
+
+================================================================================

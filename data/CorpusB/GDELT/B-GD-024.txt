@@ -1,0 +1,44 @@
+Doc ID: B-GD-024
+Title: India tea exports surge 93 pc since FY2013 - 14 to Rs 8 , 719 crore : Piyush Goyal
+Source Domain: prokerala.com | Publish Date: 20260521T090000Z
+URL: https://www.prokerala.com/news/articles/a1765527.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export tea
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+New Delhi, May 21 : India's tea exports have witnessed a remarkable growth of 93 per cent over the past decade, rising from Rs 4,509 crore in FY2013-14 to Rs 8,719 crore in FY2025-26, Union Commerce and Industry Minister Piyush Goyal said on Thursday.
+
+Highlighting the growing global appeal of Indian tea on the occasion of International Tea Day, Goyal described tea as an emotion and said it remains deeply woven into the country's daily life, culture and traditions.
+
+"Tea is an emotion. And on #InternationalTeaDay, there cannot be a better way to describe it! Across India, tea is more than just a beverage, it is a part of everyday life, conversations and traditions," Goyal said in a post on social media platform X.
+
+"From the hills of Darjeeling to the valleys of Assam and the plantations of the Nilgiris, every region brings its own distinct flavour, aroma & character to a cup of tea!," he added.
+
+The minister said Indian tea has steadily strengthened its presence in international markets over the years, supported by improving quality standards and sustained efforts to promote the country's rich tea heritage globally.
+
+"Over the years, Indian tea has also strengthened its presence across global markets, driven by improving quality standards and the continued efforts of Tea Board Of India to showcase the richness of India's tea heritage to the world," the Union Minister stated.
+
+Meanwhile, last year, Goyal informed that the Indian tea industry in the organised sector provides employment to about 12 lakh workers, and about 58 per cent of those are women.
+
+"Women are leading the growth of India's tea sector. Our nation continues to make a mark globally with its aromatic teas and steady export rise," Goyal posted on X in June 2025.
+
+In FY25, the total volume of tea exported stood at 263 million kg, while total value realised was Rs 7,818 crore (as per DGCIS data).
+
+VP Radhakrishnan to launch LoA for sustainable harnessing of fisheries in high seas
+
+Yogi govt to plant more than 3.83 crore saplings along the banks of 13 major rivers
+
+Sylvester Stallone reflects on 'Rocky': Wasn't just writing about one fighter
+
+Aamir Khan, Mammootty, 'Kantara: A Legend - Chapter 1' nominated at 17th edition of IFFM
+
+Moderate rain likely over TN's Western Ghat districts for next two days: IMD
+
+Riddhima Kapoor Sahni wishes 'her heart' Neetu Kapoor on her 68th birthday with glimpses of lifetime memories
+
+================================================================================

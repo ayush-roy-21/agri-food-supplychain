@@ -1,0 +1,38 @@
+Doc ID: B-GD-002
+Title: Seafood exports up 11 . 2 % in 2025 - 26
+Source Domain: economictimes.indiatimes.com | Publish Date: 20260421T183000Z
+URL: https://economictimes.indiatimes.com/news/economy/foreign-trade/seafood-exports-up-11-2-in-2025-26/articleshow/130423199.cms
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export shrimp
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-seafood-dwpe-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+India’s seafood exports rose 11.2% to $8.28 billion in 2025–26, driven by strong demand from China, the EU and Southeast Asia. Frozen shrimp led earnings. Despite a decline in US shipments, gains in alternative markets offset losses. Export volumes hit 19.32 lakh tonnes, with key ports handling most shipments.
+
+Listen to this article in summarized format
+
+Unlock AI Briefing and Premium Content
+
+How data-fogged MCA annual report fails to mirror India Inc’s health
+
+NSE, Jio mega IPOs: Why size doesn’t matter, valuations do
+
+What will the NSE IPO price be? Unlisted market deals offer clues.
+
+Akasa aims to be a 226-aircraft airline by 2032, IPO in 2-4 years
+
+Indian economy: The confluence case
+
+Stock Radar: Oberoi Realty breaks out of inverse head & shoulder pattern; time to buy?
+
+Choose your reason below and click on the Report button. This will alert our moderators to take action
+
+Your Reason has been Reported to the admin.
+
+Stories you might be interested in
+
+================================================================================

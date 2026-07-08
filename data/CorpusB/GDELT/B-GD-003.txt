@@ -1,0 +1,54 @@
+Doc ID: B-GD-003
+Title: India Seafood Exports Surpass Rs 72 , 000 Crore in FY26
+Source Domain: newkerala.com | Publish Date: 20260422T211500Z
+URL: https://www.newkerala.com/news/a/seafood-exports-surpass-rs-72000-crore-fy26-frozen-255.htm
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export shrimp
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-seafood-dwpe-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+India's seafood exports achieved a historic high of Rs 72,325.82 crore in the last financial year, with volumes reaching 19.32 lakh metric tonnes. Frozen shrimp was the dominant contributor, making up over two-thirds of the total export earnings. While the United States remained the largest destination, exports declined there but were offset by significant growth in markets like China, the EU, and Southeast Asia. The government is implementing measures to modernize the fisheries value chain and further expand exports.
+
+India's seafood exports surged to a record Rs 72,325.82 crore in FY26, with volumes reaching 19.32 lakh metric tonnes, according to provisional data released by the Marine Products Export Development Authority.
+
+Frozen shrimp remained the primary growth driver, contributing Rs 47,973.13 crore ($5.51 billion), accounting for over two-thirds of total export earnings.
+
+Shipments of shrimp grew 4.6 per cent in volume and 6.35 per cent in value, reinforcing its dominance in India's marine products export basket, according to the Ministry of Fisheries, Animal Husbandry and Dairying.
+
+According to an official statement, the US retained its position as the largest export destination, with imports totalling $2.32 billion. However, shipments to the US declined by 19.8 per cent in volume and 14.5 per cent in value, reflecting primarily the impact of reciprocal tariffs.
+
+This decline was offset by robust growth in alternative markets such as China, EU and Southeast Asian countries.
+
+Exports to China, the second-largest destination, rose 22.7 per cent in value and 20.1 per cent in volume.
+
+The European Union posted strong gains, with exports increasing by 37.9 per cent in value and 35.2 per cent in volume.
+
+Southeast Asia also recorded significant expansion, with growth of over 36.1 per cent and 28.2 per cent in value and volume, respectively.
+
+"Exports to Japan grew 6.55 per cent by value, while those to West Asia showed a marginal decline of 0.55 per cent, due to the turmoil in the region during the fag end of the financial year," said the statement.
+
+On the product side, exports of frozen fish, squid, cuttlefish, dried items, and live products showed positive momentum, while chilled products declined.
+
+The export of the surimi, fishmeal and fish oil reported improved performance.
+
+The top five ports - Vizag, JNPT, Kochi, Kolkata and Chennai - accounted for nearly 64 per cent of total export value, highlighting their continued importance in India's seafood export supply chain.
+
+The government has initiated a series of targeted measures aimed at strengthening fisheries and aquaculture, modernising value chains and expanding seafood exports.
+
+While the headline numbers are impressive, the decline in shipments to the US due to tariffs is a concern. It highlights our vulnerability to trade disputes. The government must work harder on securing stable trade agreements to protect this crucial sector and the livelihoods it supports.
+
+Rs. 72,000 crore! That's a massive number. It's good to see Vizag, Kochi, and Chennai ports leading. Hope the benefits are reaching the actual fishing communities along our coasts. Sustainable practices are also key for long-term growth.
+
+Frozen shrimp is the king, no doubt. But interesting to see growth in squid, cuttlefish, and surimi. Shows we are developing value-added products. More focus on this can create better jobs and higher margins. Jai Kisan, Jai Jawan, Jai Machhuaara!
+
+The growth in the EU market by nearly 38% is staggering. This likely reflects adherence to their strict quality and sustainability standards. If Indian seafood can succeed there, it's a strong testament to improved quality control and processing.
+
+As someone from a coastal state, I hope this export boom translates to better prices for local fishermen. Often, the middlemen take the lion's share. The government's measures to modernise value chains must ensure fair compensation reaches the grassroots.
+
+We welcome thoughtful discussions from our readers. Please keep comments respectful and on-topic.
+
+================================================================================

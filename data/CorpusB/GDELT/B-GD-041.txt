@@ -1,0 +1,16 @@
+Doc ID: B-GD-041
+Title: Italy : From  Melodi  camaraderie to strategic deals : Key takeaways from PM Modi Italy visit | India News
+Source Domain: timesofindia.indiatimes.com | Publish Date: 20260521T044500Z
+URL: https://timesofindia.indiatimes.com/india/from-melodi-camaraderie-to-strategic-deals-key-takeaways-from-pm-modis-italy-visit/articleshow/131239209.cms
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export MPEDA
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most."Read More
+
+================================================================================
