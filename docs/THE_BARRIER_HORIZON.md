@@ -1,5 +1,5 @@
 # The Barrier Horizon: Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs
-## Master Research Framework & Empirical Evidence Synthesis (CorpusA)
+## Master Research Framework & Empirical Evidence Synthesis (Corpus A & Corpus B)
 
 ---
 
@@ -9,7 +9,9 @@ Indian agricultural, marine, and value-added food Micro, Small, and Medium Enter
 
 This horizon is defined by the intersection of stringent domestic statutory licensing, escalating sanitary and phytosanitary (SPS) border inspections, zero-tolerance veterinary drug screening, and mandatory environmental sustainability / zero-deforestation traceability mandates. Without substantial institutional support and financial subsidies, small-scale processors and coastal aquaculture suppliers risk systemic exclusion from premium international markets (specifically the European Union and the United States).
 
-**CorpusA** serves as the foundational empirical repository for **The Barrier Horizon** project. By systematically capturing and enriching multi-jurisdictional legal acts, scientific surveillance data, firm-level refusal records, and economic trade statistics across **11 institutional pillars**, CorpusA provides researchers and policymakers with the exact evidentiary basis needed to evaluate and dismantle these supplier hurdles.
+**The Barrier Horizon** bridges top-down statutory frameworks with bottom-up operational friction via a **Dual-Corpus Architecture**:
+- **Corpus A (Institutional & Statutory Intelligence)**: Serves as the foundational legal and institutional repository, capturing and enriching multi-jurisdictional legal acts, scientific surveillance data, firm-level refusal records, and economic trade statistics across **11 institutional pillars**.
+- **Corpus B (Public Discourse & Lived Practitioner Hurdles)**: Captures empirical bottom-up operational friction, media intelligence, and lived compliance hurdles from YouTube practitioner lectures, Reddit trade forums, and live GDELT global news event streams.
 
 ---
 
@@ -18,7 +20,7 @@ This horizon is defined by the intersection of stringent domestic statutory lice
 #### 1. Sanitary and Phytosanitary (SPS) Compliance Hurdles
 MSMEs exporting whole and ground spices (chilli, cumin, black pepper) or aquaculture marine crustaceans (*Litopenaeus vannamei*) face hyper-stringent chemical and microbiological thresholds:
 * **Zero-Tolerance Pathogen & Residue Limits**: While domestic FSSAI and AGMARK standards permit practical commercial tolerances, international regimes such as US FDA Section 801(a)(3) and European Commission Regulation (EC) No 396/2005 enforce strict zero-tolerance or default limit of detection (LOD) thresholds (e.g., 0.01 mg/kg for Ethylene Oxide ETO and chlorpyrifos).
-* **Emergency Border Sampling Intensifications**: Under Regulation (EU) 2019/1793, Indian spices face mandatory 20% physical sampling at EU Border Control Posts (BCPs). Empirical EUMOFA and RASFF data in CorpusA demonstrate that these sampling holds impose a **14-day working capital lock-up per container**, resulting in 8–12% net margin erosion from demurrage and testing fees.
+* **Emergency Border Sampling Intensifications**: Under Regulation (EU) 2019/1793, Indian spices face mandatory 20% physical sampling at EU Border Control Posts (BCPs). Empirical EUMOFA and RASFF data in Corpus A demonstrate that these sampling holds impose a **14-day working capital lock-up per container**, resulting in 8–12% net margin erosion from demurrage and testing fees.
 * **Veterinary Drug Screening**: Marine exporters must maintain rigorous Pre-Harvest Testing (PHT) certification through MPEDA and EIC laboratories to prevent detections of banned nitrofurans (AOZ/AMOZ) and chloramphenicol under US FDA Import Alert 16-129.
 
 #### 2. Zero-Deforestation & Geolocation Traceability Hurdles
@@ -30,15 +32,15 @@ The transition toward green global supply chains introduces complex data and tec
 #### 3. Economic Viability & Compliance Cost Hurdles
 Complying with overlapping multi-jurisdictional mandates imposes severe financial strain on MSMEs:
 * **High Recurring Audit Fees**: Exporters must concurrently finance FSSAI Schedule 4 HACCP audits, EIC consignment inspection fees (Gazette S.O. 1378(E)), third-party GFSI certifications (BRCGS / FSSC 22000), and US FDA biennial DUNS facility registrations under FSMA Section 415.
-* **Institutional Subsidies as Survival Mechanisms**: CorpusA documents how domestic policy mitigates these hurdles via the **MSME Sustainable (ZED) Certification scheme** (providing 80–90% financial subsidies for ISO/HACCP auditing fees) and **National CSR Portal Section 135 investments** directing corporate capital into rural solar cold-chain packhouses and FPO quality assaying laboratories.
+* **Institutional Subsidies as Survival Mechanisms**: Corpus A documents how domestic policy mitigates these hurdles via the **MSME Sustainable (ZED) Certification scheme** (providing 80–90% financial subsidies for ISO/HACCP auditing fees) and **National CSR Portal Section 135 investments** directing corporate capital into rural solar cold-chain packhouses and FPO quality assaying laboratories.
 
 ---
 
-### Evidentiary Mapping Across CorpusA Pillars
+### Evidentiary Mapping Across Corpus A Pillars
 
-The table below illustrates how CorpusA's 11 institutional pillars directly map to and investigate each hurdle across the Barrier Horizon:
+The table below illustrates how Corpus A's 11 institutional pillars directly map to and investigate each hurdle across the Barrier Horizon:
 
-| Hurdle Dimension | Primary CorpusA Pillars | Key Empirical Documents & Datasets | Impact on Indian MSMEs |
+| Hurdle Dimension | Primary Corpus A Pillars | Key Empirical Documents & Datasets | Impact on Indian MSMEs |
 | :--- | :--- | :--- | :--- |
 | **SPS / Chemical MRLs** | Spices Board, EIC, EU DG SANTE, EFSA | `A-EU-007` (Reg 396/2005), `A-EFSA-001`, `A-GAZ-001` (S.O. 497(E)) | Mandatory multi-residue GC-MS/MS testing; risk of RASFF border rejection and entry refusal. |
 | **Microbiological Hygiene** | FSSAI, EIC, US FDA OASIS | `A-FSSAI-001` (Schedule 4 HACCP), `A-FDA-001` (Salmonella Refusal), `A-FDA-004` | Requirement for blast freezing infrastructure (-18°C) and clean packhouse sanitation. |
@@ -49,9 +51,21 @@ The table below illustrates how CorpusA's 11 institutional pillars directly map 
 
 ---
 
+### Evidentiary Mapping Across Corpus B (Discourse & Media Intelligence)
+
+To complement statutory mandates with empirical compliance outcomes, Corpus B triangulates lived practitioner hurdles and global trade friction:
+
+| Platform Domain | Primary Focus | Methodology & Verification | Analytical Signal |
+| :--- | :--- | :--- | :--- |
+| **YouTube Practitioner Discourse (`B-YT-`)** | Compliance walkthroughs, expert lectures, and webinar troubleshooting | 80 dossiers extracted via `youtube_scraper.py`. Enforces automated PII masking (`deidentify_youtube_sanitization.py`) under Section 11 Ethics Protocol. | Lived operational hurdles, third-party audit bottlenecks, and private laboratory testing costs. |
+| **Reddit Exporter Forums (`B-RD-`)** | Grassroots peer-to-peer discussions on export rejections and port delays | Collected from `r/agriculture`, `r/farming`, and `r/india` (`reddit_scraper.py`), featuring offline XML/RSS fallback mechanisms. | Unvarnished community sentiment and real-time operational troubleshooting. |
+| **GDELT Live Trade News (`B-GD-`)** | Global SPS border rejections, MRL alerts, and non-tariff friction | Full-text live scraping of 59 verified articles across 15 Boolean trade queries (`gdelt_pipeline.py`). Subjected to strict Section 10 DQA filtering (`dqa_filter_gdelt.py`) to purge paywall stubs and pharma/geopolitical noise. | Separated into **Clean MSME Exporters (`58 records`)** vs. **Large Listed Comparators (`1 record`)** to eliminate firm-scale sampling bias. |
+
+---
+
 ### Methodological Integrity & DQA Compliance
 
 Every document assembled under **The Barrier Horizon** is verified against strict academic and regulatory rigor:
 1. **Verbatim Primary Text vs. Section 6.1 Summaries**: Binary distinction logged in `master_registry.csv` guaranteeing full transparency where bot-protection necessitated verified orientation summaries.
-2. **6-Dimension DQA Matrix**: Complete 12-point contextual and content evaluation (`A,A,A,A,A,A`) ensuring all records exceed narrative thresholds and provide machine-readable legal signals.
-3. **Traceable Locus Tags**: Concrete linking of every file to specific statutory mechanisms, analytical testing methods, and institutional oversight bodies.
+2. **Strict Section 10 & Section 11 DQA Filtering**: Complete elimination of paywall login stubs, synthetic loops, non-English keyword collisions, and irrelevant pharmaceutical/geopolitical noise.
+3. **Traceable Locus Tags**: Concrete linking of every file to specific statutory mechanisms, analytical testing methods, and institutional oversight bodies across both Corpus A and Corpus B.

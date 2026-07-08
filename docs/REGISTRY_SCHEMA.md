@@ -50,15 +50,19 @@ To maintain absolute empirical rigor and prevent fabricated compliance claims fr
 
 ---
 
-## 2. Auxiliary Audit Logs
+## 3. Auxiliary Audit Logs
 
 ### A. Exceptions Log (`data/exceptions_log.csv`)
-Tracks all encountered web documents, navigation pages, search forms, or dynamic dashboard shells that failed DQA admission thresholds.
-- **Fields**: `exception_id`, `doc_id`, `url`, `rejection_date`, `reason_code`, `remediation_action`
-- **Allowed Reason Codes**:
+Tracks all encountered web documents, navigation pages, search forms, dynamic dashboard shells, or media event stream items that failed DQA admission thresholds across Corpus A and Corpus B.
+- **Fields (Strict 7-Column Standard)**: `doc_id_attempted`, `source_name`, `intended_url_or_query`, `attempt_date`, `reason_inaccessible`, `workaround_tried_resolution`, `notes`
+- **Allowed Reason Codes & Rejection Categories**:
   - `failed-data-quality`: Document length below 300 words, empty interface dropdowns, or dynamic JavaScript shell (`Loading...`).
+  - `Section 10 DQA Rejection: Non-English/Arabic/Asian script keyword-collision artifact`: Article written in non-English or non-ASCII scripts causing false-positive keyword hits.
+  - `Section 10 DQA Rejection: Unusable raw_text paywall/adblock/ETPrime stub or insufficient length`: Article trapped behind subscription gates, cookie wrappers, or under 65 words.
+  - `Section 10 DQA Rejection: Pharma/Geopolitical/Macro noise unrelated to Indian agri-food exports`: Off-topic items covering pharmaceutical firms (`Dabur`, `Lupin`), H-1B visas, defense (`F-35`), or macro markets (`Sensex`, `Nifty`).
+  - `Section 10 DQA Rejection: Query '...' yielded non-agri-food content`: Generic query hits lacking mandatory core food terms (`agri_hits < 1`).
   - `corrupted-pdf-shell`: Server returned HTML redirect page instead of binary PDF payload.
-  - `out-of-scope`: Circular unrelated to agricultural exports or trade compliance.
+  - `access-blocked`: HTTP 429 rate limits or Cloudflare blocking during forum/media scraping.
 
 ### B. Decision Log (`data/decision_log.csv`)
 Records major architectural, methodological, and scoping decisions made during corpus construction.

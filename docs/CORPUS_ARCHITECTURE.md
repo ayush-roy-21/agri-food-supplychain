@@ -117,7 +117,35 @@ CorpusA is organized to provide empirical data across four foundational research
 
 ## 3. Storage Architecture & Redundancy
 
-To prevent accidental data loss during multi-stage processing, CorpusA implements a **triple-redundant directory structure**:
-1. `CorpusA/<Pillar>/`: Primary working document directory for easy inspection.
-2. `data/CorpusA/<Pillar>/`: Mirrored analytical directory containing institutional sub-registries (`*_scrape_registry.json`).
-3. `data/raw/CorpusA/<Pillar>/`: Immutable raw file backup preserving original scraped artifacts.
+To prevent accidental data loss during multi-stage processing, Corpus A and Corpus B implement a **triple-redundant directory structure**:
+1. `CorpusA/<Pillar>/` and `CorpusB/<Domain>/`: Primary working document directory for easy inspection.
+2. `data/CorpusA/<Pillar>/` and `data/CorpusB/<Domain>/`: Mirrored analytical directory containing institutional and discourse sub-registries (`*_scrape_registry.json`, `Corpus_B_Clean_GDELT_Extract.csv`).
+3. `data/raw/CorpusA/<Pillar>/` and `data/raw/CorpusB/<Domain>/`: Immutable raw file backup preserving original scraped artifacts (`Corpus_B_Raw_GDELT_Extract.json`).
+
+---
+
+## 4. Corpus B: Public Discourse, Media & Lived Practitioner Hurdles Architecture
+
+Corpus B captures empirical bottom-up operational friction, lived compliance realities, and non-tariff trade alerts across three specialized platforms:
+
+### 1. YouTube Discourse (`B-YT-`)
+- **Pipeline**: `src/data-collection/youtube_scraper.py` $\rightarrow$ `src/data-processing/deidentify_youtube_sanitization.py` $\rightarrow$ `src/data-processing/dqa_filter_youtube.py`.
+- **Methodology**: Ingests expert practitioner lectures, webinar Q&A, and exporter commentary across 16 thematic MSME compliance queries. Enforces automated PII de-identification and masking to protect speaker privacy under Section 11 Ethics Protocol while preserving technical SPS/TBT hurdles.
+
+### 2. Reddit Discussions (`B-RD-`)
+- **Pipeline**: `src/data-collection/reddit_scraper.py`.
+- **Methodology**: Monitors public trade and agricultural exporter forums (`r/agriculture`, `r/farming`, `r/india`) for community compliance discussions, export rejection troubleshooting, and port inspection delays. Includes XML/RSS read-only fallback mechanisms.
+
+### 3. GDELT Trade Media & SPS Alert Stream (`B-GD-`)
+- **Pipeline**: `src/data-collection/gdelt_pipeline.py` $\rightarrow$ `src/data-processing/dqa_filter_gdelt.py` $\rightarrow$ `src/data-processing/separate_gdelt_tiers.py`.
+- **Empirical Provenance**: Harvests genuine live news events and border inspection reports (`timespan="5y"`) across 15 targeted Boolean trade queries covering Indian agri-food exports (`shrimp`, `spice`, `rice`, `tea`, `mango`, `pesticide`, `aflatoxin`, `ETO`, `salmonella`, `FSSAI`, `APEDA`, `MPEDA`, `MRL`, `import alert`, `border inspection`).
+- **Full-Text Scraping & Section 10 DQA Content Quality Filter**: Uses `newspaper3k` (with `BeautifulSoup` fallback) to extract full substantive article text from live publisher URLs (`economictimes.indiatimes.com`, `livemint.com`, etc.). `dqa_filter_gdelt.py` applies a rigorous multi-stage screen:
+  1. **Syndicated Wire Deduplication**: Removes duplicate/syndicated wire feed items by exact URL and title comparison.
+  2. **Strict Language & Script Gate**: Drops non-English, Arabic, and Asian script keyword-collision artifacts to `exceptions_log.csv`.
+  3. **Paywall / Adblock / ETPrime Stub Exclusion**: Automatically purges login wrappers, ETPrime paywall prompts, and under-length stubs (`words < 65`).
+  4. **Pharma & Geopolitical Noise Elimination**: Unconditionally rejects pharmaceutical (`Dabur`, `Lupin`, `Sun Pharma`, `USFDA official action`, `generic Ozempic`), medical, and geopolitical/market reaction items (`Sensex`, `Nifty`, `war`, `ceasefire`, `visa`, `Adani`).
+  5. **Core Agri-Food & Trade Friction Scoring**: Enforces mandatory presence of core food-specific terms (`spice`, `shrimp`, `seafood`, `rice`, `tea`, `mango`, `pesticide`, `aflatoxin`, `fssai`, `apeda`, `mpeda`, `mrl`, `dwpe`, etc.) and trade friction keywords (`rejection`, `delay`, `alert`, `consignment`, `customs`).
+- **Tier Separation (`separate_gdelt_tiers.py`)**: To prevent sampling bias between small-scale suppliers and industrial giants, the clean GDELT dataset is split into distinct comparative files:
+  - **Clean MSME Exporters Extract**: `Corpus_B_Clean_GDELT_MSMEs_Extract.csv` (`relevance_to_study: MSME-instance`)
+  - **Clean Large Listed Comparators Extract**: `Corpus_B_Clean_GDELT_Large_Listed_Extract.csv` (`enterprise_scale_tier: Tier-1 / Large-Listed`)
+- **Master Registry Integration**: All clean surviving GDELT records are updated into `data/master_registry.csv` with standardized 13-column metadata, while all filtered exclusions are appended to `data/exceptions_log.csv` under a strict 7-column schema (`doc_id_attempted, source_name, intended_url_or_query, attempt_date, reason_inaccessible, workaround_tried_resolution, notes`) for complete academic transparency.
