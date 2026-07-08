@@ -45,7 +45,7 @@ Corpus B systematically captures bottom-up operational friction and compliance r
 | :--- | :--- | :--- | :--- | :--- |
 | **1. YouTube Discourse** | YouTube Data API v3 & Closed Captions | `B-YT-` | Expert Lectures & Practitioner Comments | 80 dedicated dossiers across 16 IEC/MSME compliance queries. Extracts video metadata, lived comment hurdles, and CC transcripts. Automated PII masking. |
 | **2. Reddit Discussions** | Reddit PRAW & Public RSS | `B-RD-` | Exporter & Agri Community Forums | Collects public discussions from target agricultural and trade subreddits. Features read-only XML/RSS fallback for offline/sandbox environments. |
-| **3. GDELT Trade Media** | GDELT Event & News Pipeline | `B-GD-` | Global SPS Alerts & Non-Tariff Barriers | Real-time media intelligence tracking global trade disputes, border refusals, and international regulatory shifts affecting Indian exports. |
+| **3. GDELT Trade Media** | GDELT Event & News Pipeline | `B-GD-` | Global SPS Alerts & Non-Tariff Barriers | Real-time media intelligence (`timespan="5y"`) tracking global trade disputes, border refusals, and SPS regulatory shifts across 15 Boolean queries (`shrimp`, `spice`, `rice`, `tea`, `mango`, `pesticide`, `aflatoxin`, `ETO`, `salmonella`, `FSSAI`, `APEDA`, `MPEDA`, `MRL`, `import alert`, `border inspection`). Live full-text scraping via `newspaper3k`/`BeautifulSoup`, filtered through strict Section 10 DQA screening (`dqa_filter_gdelt.py`), and separated into **Clean MSME Exporters (`58 records`)** vs. **Large Listed Comparators (`1 record`)** (`separate_gdelt_tiers.py`). |
 
 ---
 
@@ -68,11 +68,11 @@ agri-food-project/
 ├── CorpusB/                            # Public discourse, media & practitioner lived hurdles corpus
 │   ├── YouTube/                        # 80 practitioner dossiers (video metadata, comments, transcripts)
 │   ├── Reddit/                         # Public subreddit discussions on export hurdles and compliance
-│   ├── GDELT/                          # Global trade news & SPS alert datasets
+│   ├── GDELT/                          # Global trade news & SPS alert datasets (Clean MSMEs vs Large Listed)
 │   └── ethics_clearance_log.json       # Section 11 Ethics Protocol clearance log
 ├── data/
 │   ├── master_registry.csv             # Single source of truth (13-column standardized schema)
-│   ├── exceptions_log.csv              # Audit trail of rejected stubs, shells, and dynamic placeholders
+│   ├── exceptions_log.csv              # Audit trail of rejected stubs, shells, and non-agri noise (7-column schema)
 │   ├── decision_log.csv                # Academic decision record for inclusion/rejection rationale
 │   ├── CorpusA/                        # Mirrored data directory containing sub-registries (JSON) & files
 │   ├── processed/                      # Filtered, de-identified, and DQA-audited datasets
@@ -105,7 +105,8 @@ agri-food-project/
         ├── ethics_check.py             # Section 11 Ethics Protocol clearance & compliance verification
         ├── deidentify_youtube_sanitization.py # Automated PII de-identification & masking for discourse
         ├── dqa_filter_youtube.py       # DQA filtering & adequacy assessment for YouTube dossiers
-        ├── dqa_filter_gdelt.py         # DQA filtering & noise reduction for GDELT event streams
+        ├── dqa_filter_gdelt.py         # Section 10 DQA Content Quality Filter & noise reduction for GDELT
+        ├── separate_gdelt_tiers.py     # Tier separation module (Clean MSMEs vs Large Listed comparators)
         ├── run_dqa_audit.py            # Automated master DQA audit & verification runner
         └── script.py                   # Auxiliary processing utility
 ```
@@ -158,12 +159,18 @@ python src/data-collection/youtube_scraper.py
 # Execute Reddit PRAW/RSS public discourse scraper
 python src/data-collection/reddit_scraper.py
 
-# Execute GDELT global trade news pipeline
+# Execute GDELT global trade news pipeline (live full-text scraping across 15 queries)
 python src/data-collection/gdelt_pipeline.py
 ```
 
-### Running Data Processing & DQA Audits
+### Running Data Processing, DQA Audits & Tier Separation
 ```bash
+# Execute Section 10 GDELT Content Quality Filter (deduplication & noise removal)
+python src/data-processing/dqa_filter_gdelt.py
+
+# Execute GDELT Tier Separation (Clean MSMEs vs. Large Listed comparators)
+python src/data-processing/separate_gdelt_tiers.py
+
 # Run automated Data Quality Assessment (DQA) audit across datasets
 python src/data-processing/run_dqa_audit.py
 
