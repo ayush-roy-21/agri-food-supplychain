@@ -1,0 +1,36 @@
+Doc ID: B-GD-057
+Title: Boosting exports - The Navhind Times
+Source Domain: navhindtimes.in | Publish Date: 20260612T201500Z
+URL: https://navhindtimes.in/editorial/boosting-exports/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export DGFT
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Goa’s engineering products did well in foreign markets despite turmoil and logistical challenges
+
+Goa engineering exports surpassed expectations in 2025-26, surprising many in the state. According to Engineering Export Promotion Council (EEPC) India, the trade promotion and export facilitation body of the engineering industry, the state’s engineering exports increased from $405.8 million in 2024-25 to $550.6 million, recording a yearly rise of 36 per cent.
+
+In fact, Goa’s performance in exports was the best in the western region of India, pointed out the Department of Commerce, New Delhi, during a recent event. The export feat needs a mention because it is achieved during a year of global turmoil and marked by severe logistical challenges. Global trade is going through turbulence with nations prioritising their own industrial growth over free market efficiency.  Moreover freight rates are at an all-time high.
+
+With a percentage share of less than 5 per cent, the engineering exports are a small part of the total export basket of the state. The exports strangely are not highlighted as much as iron ore exports by the government.
+
+In that sense, Goan engineering exports are a dark horse with not much known of the products exported, the top performers, the upcoming stars, etc. Engineering exports however, remain vital to the local economy as they reveal the technical prowess of the state. A growing export trend indicates a healthy industrial ecosystem and plays an important role in attracting investors.
+
+Goa amazingly has about 80 companies that are members of EEPC-India, which by virtue of membership are doing a certain amount of exports annually. About 60 per cent of EEPC India membership is of MSME exporters, but the recent export surge apparently is driven by a handful of large and medium sized companies. The exports consist of steel coils, electrical equipment, automotive components, and industrial machinery, among others.
+
+It is important for exporting companies in the state to increase the per unit value of their products and tap new markets.  Information gathered suggests that quality is one of the main hurdles for local MSMEs to increase their export sales. However, there are other barriers too. Exporters lack a single window interface for receiving multiple departmental clearances.
+
+Majority of engineering cargo require manual inspections for custom clearances that take place in Mumbai.  Exporters need to send their technical team to Mumbai to reply to custom officials. Small exporters are not influential enough to deal with corrupt inspectors. The difficulties in exporting makes many MSME units avoid foreign markets and turn to domestic sales.
+
+Goa has a long way to go to become a significant player in the country’s engineering exports. The state’s exports, although growing, are the smallest in the western region and make up for just one per cent of the region’s exports of $ 47,462 million.
+
+With entrepreneurs in the state citing no ease of doing business for overseas trade, it is clear that major reforms are needed for our exports to grow in the coming years. Measures that will add life to exports include strengthening of the local export ecosystem through a local office of the Director General of Foreign Trade (DGFT) and setting up of trade promotion organisations.
+
+The government must also give more push for export promotion by a focused campaign that projects engineering products from the state as high-quality, technologically advanced and reliable.   Incentives to export oriented units can also be considered together with dissemination of knowledge on export-import trade laws.
+
+================================================================================

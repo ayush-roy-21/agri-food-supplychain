@@ -1,0 +1,46 @@
+Doc ID: B-GD-007
+Title: FM Sitharaman inaugurates northeast largest organic spice processing unit
+Source Domain: prokerala.com | Publish Date: 20260619T094500Z
+URL: https://www.prokerala.com/news/articles/a1777361.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export spice
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-spices-sps-hurdles
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+New Delhi, June 19 : Finance Minister Nirmala Sitharaman inaugurated the northeast's largest organic spice processing unit at Bhoirymbong in Meghalaya's Ri-Bhoi district on Friday, in the presence of Meghalaya Chief Minister Conrad Sangma and Sikkim Chief Minister P.S. Tamang Golay.
+
+The facility has been established under the Eastern Ri-Bhoi Organic Farmer Producer Company (FPC), a farmer-owned enterprise promoted under the Government of Indiaâ€™s scheme -- Mission Organic Value Chain Development for North Eastern Region (MOVCD-NER).
+
+The facility is the first organically certified spice processing unit in the northeast and is expected to become a landmark institution for the organic agriculture sector in the region. It can process more than 10,000 metric tonnes of high-value organic spices annually, including ginger, turmeric, black pepper and chilli, according to FM Sitharaman.
+
+Eastern Ri-Bhoi Organic FPC has developed infrastructure including collection and aggregation centres, processing facilities, cold storage, vermicompost units, hiring centres and transportation facilities.
+
+The unit is certified under the National Programme for Organic Production (NPOP) and EU Organic Standards, enabling direct access to premium domestic and international organic markets.
+
+The processing facility is expected to directly benefit approximately 5,500 organic farmers across Meghalaya and the northeastern region by enhancing value addition and processing of organic produce, reducing post-harvest losses through modern storage and processing infrastructure and strengthening aggregation and quality control mechanisms, an official statement said.
+
+Besides, it will providing direct linkages with national and international buyers which will fetch better prices for farmers through reduced dependence on intermediaries. It will also create local employment opportunities in processing, packaging and logistics and promote exports of certified organic products from the North East, the statement added.
+
+Meanwhile, the Indiaâ€"European Union Free Trade Agreement (FTA) is expected to significantly enhance export opportunities for Indian spices, with improved market access, regulatory cooperation, and greater trade predictability likely to benefit exporters, farmers, and MSMEs across the value chain, according to the Spices Board India.
+
+The EU remains one of the most high-value and tightly regulated markets for Indian spices, accounting for a substantial share of premium exports.
+
+Officials said the trade agreement, once operationalised, could help Indian exporters navigate non-tariff barriers more efficiently, align compliance standards and improve realisation through value-added products.
+
+Aamir Khan, Mammootty, 'Kantara: A Legend - Chapter 1' nominated at 17th edition of IFFM
+
+Sylvester Stallone reflects on 'Rocky': Wasn't just writing about one fighter
+
+Motorola Unveils Moto g77 Power in India - Packs 7000 mAh Battery, Sony LYTIA 600 Camera
+
+Chief Minister Yogi to launch 'Mukhyamantri Shikshak Cashless Chikitsa Suvidha Yojana' from Varanasi on Wednesday
+
+Yogi govt to plant more than 3.83 crore saplings along the banks of 13 major rivers
+
+Yogi Government adopting advanced technology to curb crime, providing training to officials
+
+================================================================================

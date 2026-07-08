@@ -1,0 +1,34 @@
+Doc ID: B-GD-055
+Title: India Prohibits Sugar Exports Till September Over Supply Concerns
+Source Domain: dailypioneer.com | Publish Date: 20260514T084500Z
+URL: https://dailypioneer.com/news/india-bans-sugar-exports-till-september-due-to-domestic-supply-concerns
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export DGFT
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-basmati-mrl-rejections
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+The Centre has prohibited sugar exports with immediate effect till September 30, or until further orders, amid concerns over domestic supply and rising prices due to lower production.
+
+In a notification issued by the Directorate General of Foreign Trade (DGFT), the government changed the export policy for sugar under specified ITC (HS) codes from “restricted” to “prohibited”. The order applies to raw sugar, white sugar and refined sugar exports.
+
+Officials said the move is aimed at ensuring adequate availability in the domestic market and controlling prices as sugar production is expected to remain below consumption levels for the second consecutive year.
+
+The government, however, clarified that certain categories of exports will remain exempt from the ban. Shipments to the European Union and the United States under CXL and TRQ quotas will continue, along with exports under the Advance Authorisation Scheme (AAS) and government-to-government deals meant for food security purposes.
+
+The notification also allowed shipments already in the export pipeline under specific conditions, including consignments where loading had begun or shipping documentation had been completed before the order came into force.
+
+Concerns over weaker sugarcane yields in key producing regions and fears of El Niño affecting the upcoming monsoon season are believed to have influenced the decision.
+
+India, one of the world’s largest sugar exporters after Brazil, had earlier allowed mills to export 1.59 million metric tonnes of sugar. Reports suggest traders had already contracted around 800,000 tonnes, with over 600,000 tonnes already shipped.
+
+Following the announcement, global sugar prices moved higher, with New York raw sugar futures gaining more than 2 per cent and London white sugar futures rising nearly 3 per cent.
+
+Your ad could be here. Contact us for advertising opportunities.
+
+Get the latest news delivered directly to your inbox.
+
+================================================================================

@@ -1,0 +1,54 @@
+Doc ID: B-GD-046
+Title: India bans sugar exports till Sept 2026 as Centre moves to cool domestic prices , ensure supply
+Source Domain: livemint.com | Publish Date: 20260514T024500Z
+URL: https://www.livemint.com/news/india-bans-sugar-exports-till-sept-2026-as-government-moves-to-cool-domestic-prices-ensure-supply-11778723252332.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export DGFT
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-basmati-mrl-rejections
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+India on Wednesday banned sugar exports with immediate effect until 30 September 2026, or until further orders, according to a notification issued by the Directorate General of Foreign Trade (DGFT) under the Ministry of Commerce and Industry.
+
+The notification, dated 13 May 2026, amends the export policy for sugar from “Restricted” to “Prohibited” under Chapter 17 of the ITC (HS) classification. The order applies to raw sugar, white sugar and refined sugar falling under ITC (HS) codes 1701 14 90 and 1701 99 90.
+
+“The export policy of Sugar (Raw Sugar, White Sugar and Refined Sugar) under ITC (HS) Codes 1701 14 90 and 1701 99 90 is amended from ‘Restricted’ to ‘Prohibited’ with immediate effect till September 30, 2026, or until further orders, whichever is earlier,” the DGFT notification said.
+
+India has banned sugar exports until September 30, 2026, or until further orders, to cool domestic prices and ensure adequate local supply. This move amends the export policy from 'Restricted' to 'Prohibited'.
+
+Yes, exemptions are allowed for sugar exports to the European Union and the United States under CXL and TRQ arrangements. Exports under the Advance Authorisation Scheme and those to meet food security requirements of other countries based on foreign government requests are also exempt.
+
+Consignments already in the export pipeline are exempt. This includes shipments where loading had commenced before the notification, shipping bills were filed and vessels were berthed, or consignments handed over to customs with verifiable records.
+
+If the prohibition is not extended, the export policy for sugar under the relevant HS codes will automatically revert to 'Restricted'.
+
+Higher prices for diesel and fertilizer, key agricultural inputs, have increased the cost of producing sugar globally. This situation is leading to reduced plantings of crops like beet and sugarcane in major producing countries.
+
+The move comes as the government seeks to cool domestic sugar prices and ensure adequate local availability, according to Reuters⁠.
+
+The government has carved out several exemptions from the export ban.
+
+The prohibition will not apply to sugar exports to the European Union and the United States under CXL and Tariff Rate Quota (TRQ) arrangements. Exports under the Advance Authorisation Scheme (AAS) will also continue under existing provisions of the Foreign Trade Policy, 2023.
+
+In addition, the government said exports may still be allowed on the basis of permissions granted by India to other countries to meet their food security requirements and based on requests from foreign governments.
+
+The notification also exempts consignments that are already in the export pipeline. These include shipments where loading of sugar onto vessels had commenced before publication of the notification in the Official Gazette; cases where shipping bills had been filed, and vessels had already berthed or anchored at Indian ports with rotation numbers allocated by port authorities; and consignments already handed over to customs or custodians and registered in electronic systems with verifiable records.
+
+The DGFT clarified that the transitional arrangement provisions under Paragraph 1.05 of the Foreign Trade Policy, 2023, would not apply to this notification.
+
+The government said that if the prohibition is not extended beyond 30 September, the export policy for sugar under the relevant HS codes will automatically revert to “Restricted”.
+
+India, one of the world’s largest sugar producers and exporters, has previously used export controls to manage domestic supplies and contain food inflation. The latest order is expected to tighten availability in the global market while prioritising local consumption.
+
+The notification was issued with the approval of the Minister of Commerce and Industry and signed by DGFT Director General Lav Agarwal.
+
+Stay updated with the latest Trending,  India ,  World and  US news.
+
+Log in to our website to save your bookmarks. It'll just take a moment.
+
+Oops! Looks like you have exceeded the limit to bookmark the image. Remove some to bookmark this image.
+
+================================================================================

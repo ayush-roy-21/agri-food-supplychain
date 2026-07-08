@@ -1,0 +1,66 @@
+Doc ID: B-GD-051
+Title: Big change in gold import rules : After 15 % duty hike , govt caps duty free imports at 100 kg
+Source Domain: businesstoday.in | Publish Date: 20260514T180000Z
+URL: https://www.businesstoday.in/india/story/big-change-in-gold-import-rules-after-15-duty-hike-govt-caps-duty-free-imports-at-100-kg-531593-2026-05-14
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export DGFT
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-basmati-mrl-rejections
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+A day after sharply increasing import duties on precious metals, the government on May 14 capped gold imports under the Advance Authorisation (AA) scheme at 100 kg, tightening norms to prevent possible misuse of the duty-free import facility by jewellery exporters.
+
+The Directorate General of Foreign Trade (DGFT), in a public notice, said the move was aimed at strengthening monitoring and compliance under the scheme, which allows exporters to import raw materials without paying customs duty, provided they are used in products meant for exports.
+
+"AA for import of gold shall be issued, subject to a maximum remissible quantity of 100 kilograms," the DGFT said.
+
+MUST READ | What are India’s HNIs buying now -- equities, gold or alternative assets?
+
+Earlier, there was no quantitative restriction on gold imports under the scheme.
+
+The Advance Authorisation scheme permits duty-free imports of inputs incorporated in export products. Besides raw materials, packaging material, fuel, oil and catalysts consumed during production are also covered under the scheme.
+
+The government has also introduced stricter compliance conditions for applicants seeking authorisation to import gold.
+
+The DGFT said that in the case of first-time applicants, a mandatory physical inspection of the manufacturing facility will be conducted to verify the existence, production capacity and operational status of the unit.
+
+DON't MISS | Should families consider gold insurance for high-value jewellery holdings?
+
+"Any subsequent AA for the import of gold, shall be considered for issuance only upon fulfilment of at least 50% of the export obligation...," it said.
+
+In addition, authorisation holders will now have to submit fortnightly performance reports certified by an independent chartered accountant detailing gold imports and exports undertaken under the scheme.
+
+The concerned regional authority of the DGFT will also be required to submit monthly reports containing details related to issuance of Advance Authorisations.
+
+Sources said the tightening of rules was necessary because there was a strong possibility of the scheme being misused to import large quantities of gold immediately after the import duty hike and benefit from price arbitrage.
+
+"In order to prevent any possibility of misuse of the AA Scheme, these instructions are being issued," sources said.
+
+DO CHECKOUT | 'Gold is a dead asset': PM-EAC member Shamika Ravi explains Modi's appeal
+
+The latest restrictions come a day after the government sharply raised import duties on gold and silver to discourage non-essential imports and contain the swelling import bill amid the ongoing West Asia crisis.
+
+Effective May 13, the import duty on gold and silver was increased to 15% from 6%, while the duty on platinum was raised to 15.4% from 6.4%. Consequential duty changes were also made on products such as gold and silver dore, coins and findings.
+
+The duty revision followed Prime Minister Narendra Modi's recent call for curbs on gold purchases and other austerity measures aimed at reducing avoidable foreign exchange expenditure.
+
+India, the world's second-largest gold consumer after China, imports significant quantities of the precious metal to meet demand from the jewellery sector, resulting in substantial foreign exchange outflows.
+
+Gold and silver imports rose 26.7% year-on-year to $102.5 billion in FY2025-26, with their share in India's total imports increasing to 14% from 11.8% in the previous fiscal.
+
+India's gold imports alone surged over 24% to a record $71.98 billion in 2025-26. However, in volume terms, shipments declined 4.76 per cent to 721.03 tonnes during the year.
+
+DO READ | Can tax changes on gold, foreign investments be India’s next move amid oil shock risks?
+
+The government also significantly raised the effective tax burden on bullion imports through Wednesday's duty hike. Basic customs duty on gold has been doubled to 10%, while the agriculture infrastructure and development cess (AIDC) has been increased fivefold from 1% to 5%, taking the effective import duty on gold and silver to 15%.
+
+Importers additionally have to pay a 3% Integrated GST (IGST), taking the total levy on bullion imports to 18.45% from 9.18% earlier.
+
+The rupee had touched a record low of 95.75 against the US dollar on May 12, before recovering some ground on Wednesday after the government announced the increase in gold import duties.
+
+Business Today brings you the latest news, views and analysis from the world of finance, economy, markets, corporates, startups, tech, and the digital economy. You can find everything from breaking news to deep dives to immersive essays and more on a variety of subjects across all formats - online, magazine, television, data visualisation, et al.
+
+================================================================================

@@ -1,0 +1,70 @@
+Doc ID: B-GD-011
+Title: UK Entrepreneurs Secure New Trade Deals at Great British Pitch India
+Source Domain: ealingtimes.co.uk | Publish Date: 20260619T141500Z
+URL: https://www.ealingtimes.co.uk/news/national/uk-today/26209314.uk-entrepreneurs-secure-new-trade-deals-great-british-pitch-india/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export spice
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Business
+ Food and drink
+ Leisure
+
+Over 40 UK small businesses from food & drink, retail and consumer goods sectors pitched their businesses to a range of Indian buyers at the Great British Pitch India, the first of the flagship Great British Pitch campaign, helping to drive export growth for the UK’s 5.7 million small businesses.
+
+Hosted in central London, small businesses pitched live to Indian buyers as part of the campaign delivered by Small Business Britain and supported by the Department for Business and Trade.
+
+Ahead of their pitches, businesses received tailored coaching, live mentoring and one-to-one support, alongside legal, regulatory and cultural workshops designed to help them become export-ready and prepared to trade with Indian businesses.
+
+A branded Routemaster transports UK entrepreneurs to No.11 Downing following a morning of pitching to India buyers (Image: Small Business Britain)
+
+The event also featured insights from Amy Clarke, UK Export Finance, alongside Board of Trade Advisers Michelle Ovens CBE, Founder and CEO of Small Business Britain, and Paul Lindley OBE, founder of Ella’s Kitchen, as well as Spice Kitchen co-founder and CEO Sanjay Aggarwal, who highlighted the opportunities for UK entrepreneurs to export and grow internationally.
+
+Businesses were then welcomed to a reception at No. 11 Downing Street, hosted by Chancellor Rachel Reeves. Alongside Indian High Commissioner Harjinder Kang and HM Trade Commissioner Kumaran Periasamy, where addresses demonstrated the importance of the UK-India trading relationship and the vital role small businesses play in driving trade and economic growth between the two countries.
+
+The event comes as export ambition among UK small businesses continues to grow. Government data shows just 17% of small businesses currently export their goods or services, and of those trading internationally, only 12% currently export to India. However, new data from Small Business Institute found that 30% plan to increase their exports, highlighting the ambition and opportunity to build on the momentum of the UK–India Free Trade Agreement.
+
+Paul Lindley OBE, CEO and Founder of Ella's Kitchen discussing the confidence exporting globally can give UK small businesses (Image: Small Business Britain)
+
+Trade Minister Chris Bryant said: "The Great British Pitch is a perfect example of the ambition and talent that exists across the UK's small business community, and it couldn't be better timed.
+
+“With our landmark trade deal with India entering into force on 15 July, British businesses will now have the opportunity to access one of the world's fastest-growing markets.
+
+“The deal will boost UK GDP by £4.8bn and cut tariffs worth £400m in the first year alone, and events like this are helping to ensure our small businesses are first in line to seize those benefits.”
+
+Michelle Ovens CBE, CEO and Founder of Small Business Britain said: “Great British Pitch India is a clear demonstration of what happens when we work together, fuelled by the ambition and drive of the UK’s small businesses. Trade between the UK and India is crucial for the continued growth of both countries and, as we saw throughout the event, exporting not only delivers economic benefits for small businesses but also builds confidence and opens the door to new opportunities. From a range of sectors, small businesses have the ability to lead the charge on international trade and build our credibility as an exporting nation.”
+
+Sanjay Aggarwal, Co-founder and CEO at Spice Kitchen discussing the story of starting Spice Kitchen and the benefits of trading with India as a small business (Image: Small Business Britain)
+
+Paul Lindley OBE, Founder of Ella’s Kitchen, said: “International trade is vital not only for our economy, but demonstrating the talent and ambition of the UK’s small business community. It was great to be part of the Great British Pitch India and see firsthand the strength of homegrown talent and international appetite from Indian buyers.”
+
+A number of small businesses reported immediate interest and follow-up conversations with buyers, with early-stage export deals already in motion. The event is expected to lead to several promising UK-Indian partnerships in the coming months. Following the event, all participating businesses will receive ongoing support, including further export training and bespoke matchmaking opportunities with relevant Indian businesses.
+
+Ben Newnum, Managing Director at Nala’s Baby, a non-toxic, natural skincare brand for children, was one of the number of businesses securing deal interest and looking to export to the Indian market. He said:  "We weren’t sure what to expect from the Small Business Britain and Department for Business and Trade event but were staggered by how much value it delivered and how well organised it was. It was our first time engaging and we will be sure to do so again. We’ve made multiple contacts following our pitching session and networking opportunity and following up in the coming days."
+
+Amy Clarke, Head of Division, Short Term Business, at UK Export Finance discusses the financial gains of global export and what support is available for small businesses (Image: Small Business Britain)
+
+Lavinia Davolio, founder of Lavolio Confectionery, a confectionery brand reimagining Italian chocolate, who pitched her business to relevant Indian buyers, added: “India is one of the most sophisticated gifting cultures in the world, so pitching Lavolio there felt less like entering a new market and more like finding people who immediately understood the product. For my innovative confectionery brand that sits somewhere between food, gift and design, that kind of access is rare and potentially transformative.”
+
+Great British Pitch India forms part of the wider Great British Pitch series, which helps small businesses expand internationally through direct access to overseas buyers, trade experts and investors. Later this year, businesses will also have the chance to pitch to the US market through Great British Pitch USA in September, before the flagship Great British Pitch event takes place during International Trade Week. Supported by the Department for Business and Trade, connecting businesses with international buyers, trade experts, and investors in markets across the world.
+
+Data returned from the Piano 'meterActive/meterExpired' callback event.
+
+As a subscriber, you are shown 80% less display advertising when reading our
+                    articles.
+
+Those ads you do see are predominantly from local businesses promoting local
+                        services.
+
+These adverts enable local businesses to get in front of their target audience – the local
+                        community.
+
+It is important that we continue to promote these adverts as our local businesses need
+                    as much support as possible during these challenging times.
+
+================================================================================

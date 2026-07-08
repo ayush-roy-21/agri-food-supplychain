@@ -1,0 +1,21 @@
+Doc ID: B-GD-039
+Title: India retains EU export rights for seafood , honey , eggs and animal casings after September
+Source Domain: aninews.in | Publish Date: 20260608T143000Z
+URL: https://aninews.in/news/business/india-retains-eu-export-rights-for-seafood-honey-eggs-and-animal-casings-after-september20260608190042/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export MPEDA
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-seafood-dwpe-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+ANI |
+ Updated: Jun 08, 2026 19:00  IST
+
+New Delhi [India], June 8 (ANI): India has secured continued access to the European Union for key agri and marine exports, with Brussels confirming that Indian shipments of aquaculture products, honey, eggs and animal casings will remain authorised under the bloc's tightened AMR-linked rules beyond September 2026.According to a press release by The Ministry of Commerce and Industry, the decision prevents a potential disruption to India's $1.59 billion fisheries trade with the EU and gives exporters clarity on compliance requirements under the amended regulatory framework."The European Union has notified an amendment to Regulation (EU) 2021/405 through Commission Implementing Regulation (EU) 2026/1189 in view of growing concerns relating to Antimicrobial Resistance (AMR)," the release said. The revised regulation will come into effect from September 2026 and lays down additional requirements for countries exporting specified animal-origin products to the European Union.
+
+India's inclusion in the list of authorised countries ensures continuity of exports of these products to the European Union market beyond September 2026. This is particularly significant for the fisheries sector, as exports of fish and fishery products from India to the European Union are currently valued at approximately USD 1.59 billion.The development is the result of sustained efforts by the Department of Commerce, Ministry of Commerce & Industry, Government of India, in close coordination with the Export Inspection Council (EIC) and other stakeholders. The Department of Commerce has been actively engaging with the European Commission to address regulatory requirements and market access issues, while the EIC has strengthened India's Official Control System through enhanced inspection, testing and certification mechanisms in line with European Union regulations.The Department of Commerce, along with the Export Inspection Council and other stakeholders, including the Marine Products Export Development Authority (MPEDA), will continue to work closely with EU-approved establishments and regulatory authorities to ensure smooth implementation of the regulatory requirements and maintain high standards of quality and food safety in export products.India's inclusion under the amended European Union regulation is expected to facilitate continued market access for Indian exporters, support trade growth and create new opportunities across the concerned sectors."The Government of India remains committed to promoting exports, strengthening institutional capacities and deepening economic cooperation with key trading partners, including the European Union," the Ministry said in its press release. (ANI)
+
+================================================================================

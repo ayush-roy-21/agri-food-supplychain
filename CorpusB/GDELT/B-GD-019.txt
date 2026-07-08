@@ -1,0 +1,44 @@
+Doc ID: B-GD-019
+Title: Battle over Basmati rice GI for Madhya Pradesh heats up - The HinduBusinessLine
+Source Domain: thehindubusinessline.com | Publish Date: 20260626T050000Z
+URL: https://www.thehindubusinessline.com/economy/agri-business/battle-over-basmati-rice-gi-for-madhya-pradesh-heats-up/article71146815.ece
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export rice
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-basmati-mrl-rejections
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+The battle over expanding the geographical indication (GI) area for Basmati rice by including the areas in Madhya Pradesh has intensified, with the All India Rice Exporters Association (AIREA) formally opposing any expansion of the notified Basmati-growing region. At its general body meeting held earlier this week at Sonipat in Haryana, the association passed a resolution against including new areas for Basmati GI, a move that directly challenges Madhya Pradesh’s long-standing demand for inclusion in the Basmati map.
+
+The resolution is significant because it reflects growing resistance from the trade to Madhya Pradesh’s claim, which has been opposed by traditional Basmati-producing states led by Haryana and Punjab. Trade sources said even some exporters who had earlier expressed support for MP’s inclusion did not object to the resolution, suggesting a broadening consensus within the export industry against expanding the GI area at this stage.
+
+Some of the Basmati exporters of Punjab and Haryana were vocal and wanted to know how the GI issue all of a sudden has cropped up after so many years, sources said. A leading exporter also said that AIREA should highlight how India has been consistently questioning the expansion of area in Pakistan.
+
+The issue of including Madhya Pradesh in the GI area is an emotive issue in the State, first raised by Union Agriculture Minister Shivraj Singh Chouhan, when he was chief minister, as the state government had filed a case in GI registry for its inclusion in the geographical area. Under the GI law, as Basmati rice has already received the GI tag, even if farmers grow Basmati varieties outside the demarcated GI area, those cannot be sold as Basmati, making it difficult to get exported.
+
+Congress leader Digvijaya Singh in March threatened to go on a hunger strike if the state’s farmers do not receive the GI benefits for their Basmati rice. But, Chouhan is on the defensive now and not ready to touch the issue. In April, when Chouhan was asked about Singh’s threat on Basmati GI, he declined to comment saying the matter was sub-judice.
+
+Singh met Commerce Minister Piyush Goyal in May and sought his intervention, terming the previous stand of the Agricultural and Processed Food Products Export Development Authority (APEDA) a “mistake and should be corrected now”, sources said. He is also believed to have suggested that an impartial expert committee be set up to revisit the issue and find out what could be done.
+
+Earlier this week, a senior official of the Commerce Ministry is believed to have held stakeholder consultations with experts and APEDA officials on the issue. Prior to that meeting, APEDA Chairman Abhishek Dev  discussed the GI issue with various stakeholders including legal experts.
+
+Kedar Sirohi, the head of farmer cell of Congress party in Madhya Pradesh, who met Dev last week, said that  APEDA should  first decide  what to do as the agri-export promotion body it should not be a party to interest of any particular state. Sirohi, who was also present when Singh met Goyal, said he has taken up the GI issue with scientists of the Indian Council of Agricultural Research (ICAR).
+
+“Since the GI mandate for Basmati rice is with APEDA, it has to decide if it wants inclusion of Madhya Pradesh or not. Once it agrees, a solution can be found when concerned people discuss the issue,” Sirohi said.
+
+On the other hand, an expert requesting anonymity wondered if India is opposing Pakistan’s move to expand Basmati area at global forum like European Union, how can it “emulate the neighbouring country’s wrong model”. Till any judicial verdict comes, status quo should be maintained, the expert said.
+
+After a prolonged hearing for years, in February 2016, the Chennai-based GI registry issued the GI certificate to APEDA for Basmati rice, under which the recognised area included some districts of Jammu and Kashmir, Himachal Pradesh, Punjab, Haryana, western Uttar Pradesh, Uttarakhand and Delhi. Thereafter the matter went to many courts and finally the Supreme Court referred it to Madras High Court in 2021. Since then, the matter is pending.
+
+businessline on June 16 had reported that two rice exporters’ organisations had urged the Commerce Ministry to reconsider the APEDA’s decision to “arbitrarily” appoint a law firm to handle global cases on basmati geographical indication (GI) and intellectual property rights (IPR). But, APEDA sources had said that the law firm had been engaged after due process of tender by an expert selection panel.
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
+
+We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+Terms & conditions  |  Institutional Subscriber
+
+================================================================================

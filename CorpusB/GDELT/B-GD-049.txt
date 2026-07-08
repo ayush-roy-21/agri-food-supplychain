@@ -1,0 +1,56 @@
+Doc ID: B-GD-049
+Title: Govt imposes limits , stricter monitoring on gold imports
+Source Domain: livemint.com | Publish Date: 20260514T180000Z
+URL: https://www.livemint.com/news/govt-imposes-limits-stricter-monitoring-on-gold-imports-11778770772797.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export DGFT
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-basmati-mrl-rejections
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+The government on Thursday tightened compliance norms for gold imports under the Advance Authorisation scheme, introducing stricter quantity caps, physical verification requirements and periodic reporting obligations amid heightened scrutiny of bullion imports.
+
+In a notification, the Directorate General of Foreign Trade (DGFT) said Advance Authorisation (AA) for import of gold “shall be issued, subject to a maximum permissible quantity limit of 100 kilograms”.
+
+Earlier, there was no limit on gold imports under the Advance Authorisation (AA) scheme—which permits duty-free import of gold for export purposes.
+
+The Directorate General of Foreign Trade (DGFT) has imposed a maximum permissible quantity limit of 100 kilograms for gold imports under the Advance Authorisation scheme. New applicants also face mandatory physical inspection of their manufacturing facilities, and subsequent authorizations require fulfilling at least 50% of export obligations under previous licenses.
+
+The government has tightened norms for gold imports due to concerns that the Advance Authorisation scheme could be misused for price arbitrage, especially after the import duty on gold was increased to 15%. This move aims to curb surging precious metal imports and narrow the trade deficit.
+
+Stricter monitoring includes requiring authorization holders to submit fortnightly performance reports, certified by a chartered accountant, covering gold imports and exports. Regional offices also submit monthly consolidated reports to the DGFT headquarters for centralized oversight.
+
+While silver has higher industrial demand and growth potential, its returns are more volatile, making it riskier than gold for small investors. Silver is best treated as a tactical addition rather than a primary alternative for capital preservation, for which gold offers a safer choice.
+
+A falling gold-silver ratio, such as dropping below 55, indicates that silver is outperforming gold. Historically, ratios closer to 50 suggest stronger silver outperformance, while a ratio above 80 implies silver is relatively undervalued.
+
+According to a government official, the tighter norms were introduced after import duty on gold was increased to 15%, amid concerns that the scheme could be misused for “price arbitrage”.
+
+“There is high probability that the AA scheme may be misused to import large quantities immediately and take price arbitrage,” the official said, requesting not to be named.
+
+The measures include a cap of 100 kg per authorization, mandatory physical inspection of manufacturing facilities for new applicants, a requirement to complete at least 50% export obligation under previous licences before fresh authorizations are issued, and stricter monitoring through fortnightly import-export reports by permit holders and monthly reporting by regional offices.
+
+The government on Wednesday raised import tariffs on gold and silver to 15%, reversing the 2024 duty cuts, as the government moved to curb surging precious metal imports, narrow trade deficit and support the rupee amid mounting external pressures. The finance ministry notified the changes through multiple customs notifications on 12 May. The revised rates came into effect on 13 May. According to notifications, the government has increased the basic customs duty on several categories of gold and silver imports to 10% from 5%, while the Agriculture Infrastructure and Development Cess (AIDC) of 5% continues, taking the total effective import tax to 15%.
+
+The DGFT has made physical inspection mandatory for first-time applicants seeking gold import authorizations. According to the notification, “a mandatory physical inspection of the applicant's manufacturing facility shall be undertaken” by the concerned regional authority to verify the “existence, capacity and operational status” of the facility.
+
+In another key change, exporters seeking subsequent gold import authorizations will now have to meet at least 50% of the export obligation under previous licences before fresh permissions are granted.
+
+“Any subsequent Advance Authorisation for the import of gold shall be considered for issuance only upon fulfilment of at least 50% of the export obligation prescribed under the preceding Advance Authorisations for gold,” the DGFT said.
+
+The government has also tightened monitoring requirements by mandating fortnightly performance reports from authorisation holders, certified by an independent chartered accountant, covering gold imports and exports undertaken under the scheme. Regional authorities will additionally submit monthly consolidated reports to DGFT headquarters for “centralized monitoring and policy oversight,” according to the notification.
+
+The move comes amid growing policy focus on gold imports after India’s bullion import bill surged sharply in recent years, putting pressure on the domestic currency.
+
+Harsh Kumar is a policy reporter at Mint (HT Media Group), where he covers the Ministry of Commerce and Industry along with key departments of the Ministry of Finance, including the Department of Economic Affairs (DEA) and the Department of Financial Services (DFS). With over five years of experience in business and economic journalism, he has developed strong expertise in tracking policy developments and their wider economic impact.<br><br>He has previously worked with Business Standard, Moneycontrol, and Outlook Money, where he reported extensively on banking, financial services, and the broader economy. Over the years, he has built a reputation for delivering accurate, insightful, and impactful stories, supported by a keen eye for detail and a consistent track record of breaking exclusive news.<br><br>An alumnus of Jamia Millia Islamia, Harsh closely follows regulatory changes and key economic trends shaping India’s financial and industrial landscape. His reporting aims to simplify complex policy issues for a wider audience while maintaining depth and credibility.<br><br>Outside of work, he enjoys tracking policy developments, finding scoops, and travelling, reflecting his curiosity about how economic decisions shape everyday life.
+
+Stay updated with the latest Trending,  India ,  World and  US news.
+
+Log in to our website to save your bookmarks. It'll just take a moment.
+
+Oops! Looks like you have exceeded the limit to bookmark the image. Remove some to bookmark this image.
+
+================================================================================

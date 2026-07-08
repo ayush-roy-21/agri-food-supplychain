@@ -1,0 +1,28 @@
+Doc ID: B-GD-052
+Title: 17 banks get govt nod to import bullion
+Source Domain: indianexpress.com | Publish Date: 20260418T011500Z
+URL: https://indianexpress.com/article/business/banking-and-finance/17-banks-get-govt-nod-to-import-bullion-10642518/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export DGFT
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-basmati-mrl-rejections
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+The government Friday authorised 17 banks to import bullion for three years starting April 1, putting an end to the uncertainty caused by the delay in the issuance of this list which is usually released in the first few days of the new financial year.
+
+The delay in the issuance of the list of banks authorised to import gold and silver had “effectively halted gold imports” into the country, Madhavi Arora, Chief Economist at Emkay Global Financial Services, said.
+
+Last year, the list of authorised banks was issued on April 3. That list was for only 2025-26, unlike the one issued on Friday, which is for three years. Reuters reported earlier on Friday that the non-issuance of the list of approved banks had led to more than 5 tonnes of gold and around 8 tonnes of silver being stuck without customs clearance.
+
+In an order dated Friday, the commerce ministry’s Directorate General of Foreign Trade (DGFT) said 15 banks, including public sector lenders like State Bank of India, private ones like HDFC Bank, and foreign ones such as Industrial and Commercial Bank of China were authorised by the Reserve Bank of India to import both gold and silver from April 1 to March 31, 2029.  A further two banks — Union Bank of India and Russia’s Sberbank — have been authorised to import only gold. The list issued on Friday is larger than the one for 2025-26, with Deutsche Bank and Indian Overseas Bank now permitted to import both gold and silver. Last year, Indian Overseas Bank was allowed to import only gold. Meanwhile, the addition of Sberbank to the list for importing only gold is also new. India is the second-largest importer of gold and brought in $72 billion worth of it in 2025-26, 24% higher than in 2024-25. Silver imports in the last fiscal amounted to $12 billion, more than double the $4.8 billion imported the previous year.
+
+A surge in prices of gold and silver led to Indians buying gold and silver heavily in the second half of 2025-26 through routes such as Exchange Traded Funds (ETFs).
+
+The delay in the issuance of the authorisation list comes after the DGFT on April 2 changed the classification of gold, silver, and platinum products to ‘restricted’ from ‘free’, with importers other than those in Special Economic Zones and Export Oriented Units requiring a licence from the government.
+
+Siddharth Upasani is a Deputy Associate Editor with The Indian Express. He reports primarily on data...                     Read More
+
+================================================================================

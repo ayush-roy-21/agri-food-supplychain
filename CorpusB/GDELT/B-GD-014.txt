@@ -1,0 +1,64 @@
+Doc ID: B-GD-014
+Title: Minimum export price on agri items will lift forex coffers
+Source Domain: thehindubusinessline.com | Publish Date: 20260521T031500Z
+URL: https://www.thehindubusinessline.com/opinion/minimum-export-price-on-agri-items-will-lift-forex-coffers/article71003335.ece
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export rice
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-spices-sps-hurdles
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Basmati rice enjoys a premium in the global market 
+																															| Photo Credit:
+											Sanny11
+
+On May 11, Prime Minister Narendra Modi urged Indian citizens to conserve precious foreign exchange in view of the West Asian crisis. Since then, the government has come up with a slew of measures, more than doubling the import duty on precious metals, hiking prices of fossil fuels and imposing curbs on silver imports.
+
+These measures will go a long way in cutting foreign exchange (forex) outgo. However, the government should have looked at increasing forex earnings, particularly on the agricultural commodities export front. Concerned over surging retail prices of sugar, it has banned the export of the commodity.
+
+India’s exports increased by 4.22 per cent to $860.09 billion in the 2025-26 financial year, while imports grew even faster by 6.47 per cent to $970 billion, resulting in a widening of the overall trade deficit.
+
+The government should try to increase the realisation of products in which it enjoys a premium or is among the top exporters of the commodity.
+
+For example, basmati rice enjoys a premium in the global market. However, its unit value realisation declined to $868 a tonne during the April-February period of the 2025-26 fiscal.
+
+It is an 11 per cent decline from the $980 realised in the 2024-25 fiscal. In 2023-24, the unit value realisation was $1,114 a tonne.
+
+The volume of basmati exports was higher in 2025-26 (April-February) compared with the previous fiscal, but the value of shipments was lower by over $650 million.
+
+With the support of the Geographical Indication status, the government should have tried to get better returns.
+
+Exports of basmati have increased from 7.7 lakh tonnes (lt) in 2003-04 to over 60 lt in 2024-25. Yet in real terms, taking into consideration inflation and rising input costs, per unit realisations have been negative.
+
+India enjoys nearly 65 per cent share of the global basmati rice trade. Why has the government not considered fixing a minimum export price (MEP) or levying export duty? At least, it should recover $250 an acre spent on subsidies to provide fertilizers and power used for irrigating the land.
+
+Similarly, the per unit realisation on non-basmati rice during the April-February period dropped by 15 per cent to $393 a tonne. Though exports nearly matched the previous fiscal’s volume, the value was lower by over $1 billion.
+
+In the non-basmati rice segment, India enjoys over a 40 per cent market share in global trade. In the parboiled sector, India almost enjoys a monopoly, with Pakistan and Thailand trailing far behind. Notwithstanding these facts, Indian rice continues to trade at a discount compared to other countries.
+
+Basmati and non-basmati rice exports fetch over $12 billion annually. Shouldn’t the government try to increase it at least by an additional couple of billions without hurting their prospects in the global market?
+
+India should take a leaf out of Malaysia and Indonesia, the largest exporters of palm oil. Both nations impose an export tax on crude palm oil to ensure value addition is done and the commodity is exported as refined and bleached palm oil.
+
+Many African countries use export taxes to encourage domestic processing. For example, Ghana and Côte d’Ivoire impose levies on raw cocoa beans. They have adopted the same measure to encourage raw cashew nut processing. Kenya and Uganda use such measures on raw coffee.
+
+After a long time, demand for guar gum has surged in the global market in view of soaring crude oil prices. With crude oil prices near $100 a barrel, investors are looking to take advantage by looking for higher extraction. However, its per unit value of exports is down by $145 a tonne.
+
+When crude oil prices have soared, shouldn’t the government have acted to milk its best from this export?
+
+Natural honey is another example. The government has cut the MEP when it could have got additional revenue. It is here that the Commerce Ministry’s role assumes significance. As the nodal ministry for exports and imports, its officials should look not only at cutting the forex outgo but also at increasing its income. It should look at various ways of earning more from products in which India enjoys an advantage in the global market.
+
+Apart from rice and other products mentioned above, India can also look at buffalo meat, pulses, processed vegetables, fresh fruits, honey, mango pulp, processed meat, organic products, cashew nuts, spices and poultry products to raise additional forex income.
+
+Chandrasekaran is the author of ‘Basmati Rice: The Natural History Geographical Indication’
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
+
+We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+Terms & conditions  |  Institutional Subscriber
+
+================================================================================

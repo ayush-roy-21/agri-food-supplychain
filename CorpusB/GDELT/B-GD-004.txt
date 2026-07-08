@@ -1,0 +1,34 @@
+Doc ID: B-GD-004
+Title: Red gold from Rajasthan powers rural success story
+Source Domain: news.webindia123.com | Publish Date: 20260420T141500Z
+URL: https://news.webindia123.com/news/Articles/India/20260420/4441519.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export spice
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+For generations, farmers here have been growing these chillies, but today's youth are giving this legacy a fresh upgrade. By combining traditional farming with digital tools, they are transforming agriculture into a profitable venture.Bhola Ram, a young farmer, said, "This farming has supported our family for years. Now, with better returns, we don't need to look for jobs outside."What's changing the game is the use of social media and direct marketing. Farmers now use platforms like WhatsApp and Instagram to showcase their produce.From posting reels to sharing updates, they are connecting directly with customers and getting orders from across India--and even abroad."We upload videos and photos, and orders start coming in. It helps us sell better and also promotes our chillies," Bhola Ram added.The demand for Mathania chillies is rising across the spice industry, hotels, and export markets. Their unique taste and premium quality make them stand out globally.Farmer Himmat Singh said, "The flavour of chillies grown in this region is unmatched. That's why there is demand not just in India, but internationally as well." With better pricing, growing demand, and smart marketing, chilli farming in Mathania is now seen as a startup-like opportunity. Rural youth are stepping in with confidence, turning farms into business hubs.From local fields to global markets, Mathania's Red Gold is proving that with the right mix of tradition, technology and innovation, India's villages can lead the next big growth story. (ANI)
+
+For generations, farmers here have been growing these chillies, but today's youth are giving this legacy a fresh upgrade. By combining traditional farming with digital tools, they are transforming agriculture into a profitable venture.
+
+Bhola Ram, a young farmer, said, "This farming has supported our family for years. Now, with better returns, we don't need to look for jobs outside."
+
+What's changing the game is the use of social media and direct marketing. Farmers now use platforms like WhatsApp and Instagram to showcase their produce.
+
+From posting reels to sharing updates, they are connecting directly with customers and getting orders from across India--and even abroad.
+
+"We upload videos and photos, and orders start coming in. It helps us sell better and also promotes our chillies," Bhola Ram added.
+
+The demand for Mathania chillies is rising across the spice industry, hotels, and export markets. Their unique taste and premium quality make them stand out globally.
+
+Farmer Himmat Singh said, "The flavour of chillies grown in this region is unmatched. That's why there is demand not just in India, but internationally as well."
+
+With better pricing, growing demand, and smart marketing, chilli farming in Mathania is now seen as a startup-like opportunity. Rural youth are stepping in with confidence, turning farms into business hubs.
+
+From local fields to global markets, Mathania's Red Gold is proving that with the right mix of tradition, technology and innovation, India's villages can lead the next big growth story. (ANI)
+
+================================================================================

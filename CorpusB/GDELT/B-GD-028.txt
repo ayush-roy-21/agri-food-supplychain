@@ -1,0 +1,46 @@
+Doc ID: B-GD-028
+Title: India new testing - related rule has brought Nepal tea exports to a standstill
+Source Domain: spotlightnepal.com | Publish Date: 20260520T043000Z
+URL: https://www.spotlightnepal.com/2026/05/20/indias-new-testing-related-rule-has-brought-nepals-tea-exports-standstill/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export tea
+Retrieval Date: 2026-07-08
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+Locus Tag: gdelt-customs-clearance-holds
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+The Indian Tea Development Corporation has enforced a new rule requiring laboratory testing (lab tests) for every truckload of imported tea, causing a complete halt in Nepali tea exports for the past two weeks.
+
+Businesspeople say that this policy tightening by India has pushed Nepal’s tea industry—which earns around NPR 5 to 6 billion in foreign currency annually—into a major crisis.
+
+According to Aditya Parajuli, president of the Nepal Tea Producers Association, India introduced a new “Standard Operating Procedure (SOP)” effective from Baisakh 18. The new provision has increased administrative and financial burdens for Nepali exporters.
+
+“This is the peak season for tea exports. Around 500,000 kilograms of tea are currently ready for export,” said President Parajuli. “However, because of the Indian side’s new and stricter provisions, no trader has dared to send tea to India. Not even a single packet of tea has been exported in the past two weeks.”
+
+Previously, once a Nepali tea factory passed a laboratory test, it could export up to 10 truckloads of tea to India within 15 days using the same certificate. But under the new rule, as soon as tea trucks enter the Panitanki customs point from the Kakarbhitta border, samples from every truck must compulsorily be sent to a laboratory recognized by the Indian government.
+
+A fee of NPR 18,000 must be paid for testing each truck sample, and the report is said to take at least 14 days to arrive. Indian laboratories will upload the report to the online system within 14 days, and if the test fails, the tea will not only be barred from sale in the Indian market or export to third countries, but may also be confiscated under the strict new provision.
+
+“On one hand, imposing expensive and time-consuming testing for every truck is clearly intended to completely obstruct exports,” Parajuli added. “On the other hand, there is a provision to confiscate the tea if the report is unfavorable. If this rule is not amended, the door for Nepali tea exports to India will be permanently closed.”
+
+India has long been the primary market for Nepali tea. Business owners also complain that there is insufficient parking space and infrastructure at the Panitanki customs point to safely hold loaded trucks for 10 to 14 days while awaiting laboratory reports.
+
+The Nepal Tea Producers Association has demanded that the Nepal government immediately begin government-to-government (G2G) dialogue with the Indian side to remove this non-tariff barrier in the tea sector. The association says efforts are underway.
+
+Nepal-produced CTC and orthodox tea are considered popular in the global market for their quality. However, policy barriers in India—the main market—have put the livelihoods of everyone involved, from farmers to large industrialists and hundreds of thousands of dependent workers, at risk.
+
+According to statistics from the National Tea and Coffee Development Board, in fiscal year 2081/82, Nepal produced 26.123 million kilograms of processed tea from tea plantations spread across 20,602 hectares of land. During the same fiscal year, Nepal exported tea worth NPR 4.59 billion.
+
+Across the country, there are 170 large tea estates and 120 small and medium-sized tea gardens. More than 15,000 small farmers are directly involved in tea production, while around 100,000 workers are directly employed from plantations to factories.
+
+VOL. 19, No. 23,June.26, 2026 (Ashad-12,2083) Publisher and Editor: Keshab Prasad Poudel Online Register Number: DOI 584/074-75
+
+VOL. 19, No. 22,June.12, 2026 (Jestha-29,2083) Publisher and Editor: Keshab Prasad Poudel Online Register Number: DOI 584/074-75
+
+VOL. 19, No. 21,May.29, 2026 (Jestha-15,2083) Publisher and Editor: Keshab Prasad Poudel Online Register Number: DOI 584/074-75
+
+VOL. 19, No. 20,May.08, 2026 (Baishak-25,2083) Publisher and Editor: Keshab Prasad Poudel Online Register Number: DOI 584/074-75
+
+================================================================================
