@@ -1,0 +1,1664 @@
+--- PAGE 1 ---
+In response to information provided by the competent authority, any factual error noted in 
+the draft report has been corrected; any clarification appears in the form of a footnote.
+EUROPEAN COMMISSION
+DIRECTORATE-GENERAL FOR HEALTH AND FOOD SAFETY
+Health and food audits and analysis
+DG(SANTE) 2022-7490
+FINAL REPORT OF AN AUDIT
+CARRIED OUT IN
+INDIA
+FROM 07 SEPTEMBER 2022 TO 29 SEPTEMBER 2022
+IN ORDER TO
+EVALUATE THE CONTROL OF RESIDUES AND CONTAMINANTS IN LIVE 
+ANIMALS AND ANIMAL PRODUCTS INCLUDING CONTROLS ON VETERINARY 
+MEDICINAL PRODUCTS
+Ref. Ares(2023)2003092 - 20/03/2023
+
+--- PAGE 2 ---
+I 
+Executive Summary 
+This report describes the outcome of an audit of India, carried out from 7 to 29 September 2022 as 
+part of the European Commission's Directorate -General for Health and Food Safety planned work 
+programme. 
+The objective of the audit was to evaluate the effectiveness of official controls on residues and 
+contaminants in live animals and animal products eligible for export to the European Union and for 
+which India is seeking approval of its residues monitoring plans . The audit assessed the 
+implementation of the residue monitoring plan for the commodities in question and the reliability of 
+the guarantees offered by India in ensuring that the commodities concerned do not contain residues 
+of veterinary medicinal products, pesticides and contaminants exceeding EU maximum limits. It 
+also assessed the authorisation, distribution and use of veterinary medicinal p roducts, given that 
+these areas have an impact on the monitoring of residues.  
+Overall, this report concludes that the residue monitoring plan for aquaculture compl ies with the 
+minimum requirements established in EU legislation and is implemented as planned. The  
+implementation of the residue monitoring plan for milk , for which India is not approved, is 
+weakened by the fact that the sampling and reporting strategy  reduces the likelihood of non-
+compliances for certain substances  being reported. Furthermore, a very high incidence of non-
+compliant results for aflatoxin M1 was noted for that programme.   
+With regard to  follow-up of non- compliant results  in aquaculture , invest igations are undertaken  
+quickly, but in many cases did not  identify the origin of the non- compliance.  The number of non-
+compliant results for residues of substances banned from use in food- producing animals in the EU 
+and in Indian aquaculture, found in both the national residue monitoring plan and in the pre-export 
+testing programme has not decreased in the last three years. In particular, there is a 20% 
+noncompliance rate for such substances in samples taken in  hatcheries and the over -the-counter 
+availability of these substances on the Indian market is likely to contribute to the problem .  The fact 
+that the number of RASFF notifications for EU-banned substances in aquaculture products remains 
+low, is more a reflection of  the effectiveness of the mandatory pre -export testing programme in 
+identifying and preventing the export of non-compliant consignments to the EU.  
+Concerning the laboratory network, there has been clear progress in their analytical performance 
+since the previous Commission audit in 2018.  Notwithstanding this, the  effectiveness of testing in 
+poultry is weakened by shortcomings in method validation as not all of the matrices tested  have 
+been validated to date.   
+With regard to veterinary medicinal products, there are few changes in comparison to the findings 
+of previous Commission audit reports.  Substances that are banned in the EU  for use in food-
+producing animals remain on the market in India as ov er-the-counter medications (albeit not for 
+aquaculture animals).  Whilst there  is a  control system on the distribution and use of veterinary 
+medicinal products, it contains many gaps in comparison to what is required in the EU and does not 
+contribute to the guarantees on the residues status of food of animal origin provided by the various 
+residue testing programmes in place.  
+ 
+The report contains recommendations to the competent authorities of India aimed at rectifying the 
+shortcomings identified and enhancing the implementation of the control measures in place.  
+  
+
+--- PAGE 3 ---
+II 
+TABLE OF CONTENTS 
+1 Introduction .................................................................................................................................... 4 
+2 Objectives of the audit ................................................................................................................... 4 
+3 Legal Basis ..................................................................................................................................... 5 
+4 Background .................................................................................................................................... 5 
+4.1 Country status in relation to EU-approval of residue monitoring plans ................................. 5 
+4.2 Summary of previous Commission audits .............................................................................. 6 
+4.3 Rapid Alert System for Food and Feed (RASFF) notifications .............................................. 6 
+4.4 Production and trade information ............................................................................................ 7 
+5 Findings and Conclusions .............................................................................................................. 7 
+5.1 Residue monitoring ................................................................................................................. 7 
+5.1.1 Competent authorities ...................................................................................................... 7 
+5.1.2 Planning of residue monitoring ....................................................................................... 8 
+5.1.3 Implementation of the residue monitoring plan ............................................................. 10 
+5.1.4 Other residues monitoring programmes ........................................................................ 12 
+5.1.4.1 PHT for aquaculture ............................................................................................... 12 
+5.1.4.2 PET scheme for aquaculture .................................................................................. 13 
+5.1.4.3 Official monitoring in EIC-approved export establishments (EIA monitoring 
+scheme)  ................................................................................................................................ 14  
+5.1.4.4 Establishment own-checks ...................................................................................... 14 
+5.1.5 Follow-up of non-compliant results ............................................................................... 15 
+5.1.5.1 Aquaculture ............................................................................................................ 15 
+5.1.5.2 Milk ......................................................................................................................... 18 
+5.1.5.3 Poultry .................................................................................................................... 19 
+5.1.6 Laboratories ................................................................................................................... 20 
+5.1.6.1 EIA Pilot Test House Mumbai ................................................................................ 23 
+5.1.6.2 EIA Kochi ............................................................................................................... 24 
+5.1.6.3 EIA Chennai ........................................................................................................... 24 
+5.1.6.4 MPEDA Kochi ........................................................................................................ 25 
+5.1.6.5 MPEDA Bhubaneswar ............................................................................................ 25 
+5.2 Veterinary medicinal products .............................................................................................. 26 
+5.2.1 Authorisation, distribution and use of veterinary medicinal products .......................... 26 
+5.2.2 Official controls on distribution and use of veterinary medicinal products .................. 30 
+6 Overall Conclusions ..................................................................................................................... 32 
+7 Closing Meeting ........................................................................................................................... 33 
+8 Recommendations ........................................................................................................................ 33 
+ 
+  
+
+--- PAGE 4 ---
+III 
+ABBREVIATIONS & DEFINITIONS USED IN THIS REPORT 
+Abbreviation  Description  
+AHD 1-aminohydantoin (Marker residue of the nitrofuran drug nitrofurantoin) 
+AMOZ 3-amino-5-morpholinomethyl-2-oxazolidone ( Marker residue of the 
+nitrofuran drug furaltadone) 
+AOZ  3-amino-2-oxazolidinone (Marker residue of the nitrofuran drug 
+furazolidone) 
+CAA  Coastal Aquaculture Authority 
+EC  European Community 
+EIA  Export Inspection Agency 
+EIC  Export Inspection Council 
+ELISA  Enzyme-Linked Immuno-Sorbent Assay 
+EU  European Union 
+Group A, B  Categories of substances listed in Annex I to Council Directive 96/23/EC 
+ISO  International Organisation for Standardisation 
+LC-MS/MS  Liquid Chromatography-(Tandem) Mass Spectrometry 
+ML  Maximum Level 
+MPEDA  Marine Products Export Development Authority 
+MRL  Maximum Residue Limit 
+NABL National Accreditation Board for Calibration and Testing Laboratories 
+PET Pre-Export Testing 
+PHT Pre-Harvest Testing 
+RASFF  Rapid Alert System for Food and Feed 
+SDLA State Drug Licensing Authorities  
+SEM Semicarbazide (Marker residue of the nitrofuran drug nitrofurazone) 
+SFA State Fishery Authority  
+ 
+ 
+ 
+
+--- PAGE 5 ---
+4 
+1 INTRODUCTION 
+The audit took place during the period from 7 to 29 September 2022 and was 
+undertaken as part of the planned work programme of the Directorate -General for 
+Health and Food Safety  and following a request by the Indian competent authority to 
+list additional commodities in the Annex to Commission Decision 2011/163/EU.  
+It covered India´s system of controls on residues and contaminants in live animals and 
+animal products and the effectiveness of official controls on the use of veterinary 
+medicinal products in food-producing animals. The audit team comprised three auditors 
+from the Commission and one expert from a European Union (EU) Member State. 
+This audit was carried out by using a combination of remote meetings (by 
+videoconference) and on-the-spot visits. Opening meetings were held on the 7th and 12th 
+September 2022 with representatives of the Export Inspection Council (EIC), the 
+Export Inspection Agencies (EIAs) from Delhi, Mumbai, Kochi, Kolkata  and Chennai, 
+the Marine Product s Export Development Authority (MPEDA), the Coastal 
+Aquaculture Authority (CAA), the Central Drugs Standard Control Organisation 
+(CDSCO), the Department of Animal Husbandr y and the Food Safety and Standards 
+Authority of India (FSSAI). 
+At these meetings, the objectives of the audit were confirmed, and the control systems 
+were described by the competent authorities. Representatives from the EIC and the 
+central MPEDA accompanied the audit team during the on-the-spot part of the audit. 
+2 OBJECTIVES OF THE AUDIT 
+The objective of the audit was to verify the effectiveness of official controls on residues 
+and contaminants in live animals and animal products eligible for export to the E U and 
+for which India was seeking residue monitoring plan approval (and listing in the Annex 
+to Decision 2011/163/EU (1)). The audit team assessed: 
+• the adherence to the residue monitoring plan s approved by the EU  for 
+aquaculture products; 
+• the guarantees provided by the residue monitoring plans impleme nted for 
+milk and poultry, for which India has sought listing as mentioned above; and 
+• the reliability of the guarantees offered by India  in ensuring that the 
+commodities concerned do not contain residues of veterinary medicinal 
+products, pesticides and contaminants exceeding EU maximum limits. 
+Since the national rules governing t he authorisation, distribution and use of veterinary 
+medicinal products (including those administered via feed) have an impact on the 
+effectiveness of the residue monitoring plans, the control systems in these areas were 
+also included in the audit. 
+  
+ 
+(1) From 15 December 2022, this Decision is repealed and replaced by Annex -I to Regulation (EU) 2021/405. 
+
+--- PAGE 6 ---
+5 
+The following table lists meetings held and the sites visited in order to achieve the audit 
+objective. 
+MEETINGS/VISITS  COMMENTS 
+COMPETENT AUTHORITIES 
+Central 2 
+Opening and closing meetings with representatives of  
+- Export Inspection Council  
+- Export Inspections Agencies from Delhi, Mumbai, Kochi, Kolkata, 
+Chennai and Kochi. 
+- Marine Products Export Development Authority 
+- Coastal Aquaculture Authority  
+- Central Drugs Standard Control Organisation  
+- Department of Animal Husbandry 
+- Food Safety and Standards Authority of India  
+Regional 4 Meetings at the States (Kerala, Odisha, Gujarat, and Tamil Nadu) visited 
+and meetings with local authorities at establishments visited 
+LABORATORIES 7 
+- EIA Pilot Test House laboratory Mumbai (milk residue monitoring 
+plan) 
+- EIA laboratory Chennai (poultry residue monitoring plan) 
+- MPEDA laboratory Kochi (aquaculture residue monitoring plan) 
+- MPEDA laboratory Odisha -Bhubaneswar (aquaculture residue 
+monitoring plan) 
+- EIA laboratory Kochi (aquaculture pre-export testing) 
+- EIA laboratory Chennai (aquaculture pre-export testing) 
+- MPEDA Laboratory Odisha-Bhubaneswar (aquaculture pre-harvest 
+testing) 
+OPERATORS 22 
+1 dairy plant, 2 milk collection centres and 2 dairy farms 
+2 poultry meat establishment and 2 poultry farms 
+3 aquaculture processing plants, 3 aquaculture farms, 2 hatcheries 
+3 veterinary medicines wholesaler/retailers, 2 aquaculture supply shops 
+3 LEGAL BASIS  
+The audit was carried out under the general provisions of EU legislation, and in 
+particular Articles 120, 122 and 150 of Regulation (EU) 2017/625 of the European 
+Parliament and of the Council. 
+Full legal references are provided in Annex  I. Legal acts quoted in this report refer, 
+where applicable, to the last amended version. Relevant provisions of the EU legal acts 
+cited in Annex I are referred to in the individual findings. 
+4 BACKGROUND 
+4.1 COUNTRY STATUS IN RELATION TO EU-APPROVAL OF RESIDUE MONITORING PLANS 
+India is listed in the Annex to Decision 2011/163/EU with approved residue monitoring 
+plans for aquaculture products (finfish and crustaceans), eggs, honey and casings.  
+India has requested to be listed in said  Decision for poultry and milk.  Given India’s 
+listing for dairy products required to undergo a specific risk- mitigating treatment 
+against foot and mouth disease in Annex XVIII to Reg ulation (EU) 2021/404, residue 
+plan approval is required for  the country to be  listed in Reg ulation (EU) 2021/40 5, 
+pursuant to Article 16 thereof.  For poultry, India is neither listed in Annex XIV to 
+Regulation (EU) 2021/404 (animal health – fresh meat) nor in Annex XV to that 
+
+--- PAGE 7 ---
+6 
+Regulation for meat products from poultry.  Thus, residue plan approval for poultry 
+would not in itself, permit exports of either fresh or processed poultry meat to the EU.   
+4.2 SUMMARY OF PREVIOUS COMMISSION AUDITS 
+The most recent audit during which residue controls in India were evaluated was 
+carried out in 2018 (audit reference DG (SANTE) 201 8-6345 MR-Final- hereafter: the 
+2018 audit ( 2)). It concluded that the planning and implementation of residue 
+monitoring for aquaculture products was largely in line with the legal requirements  and 
+supported by a functioning laboratory network and extensive additional pre-harvest 
+testing and pre-export testing programmes which focussed  on a limited range of  
+substances. However, its effectiveness was weakened by a limited scope of analysis for 
+certain pharmacologically active substances available on the market  and weak follow -
+up of non-compliances that often did not identify their origin  and lacked the legal tools 
+to sanction producers.  
+The monitoring plans for milk and poultry were not deemed to provide guarantees 
+equivalent to those foreseen in EU legislation with regard to the number of samples 
+taken, the scope of testing (range of substances tested for) and laboratory performance .  
+These issues militated against listing of either commodity in the Annex to Decision 
+2011/163/EU.  
+With regard to veterinary medicinal product s, it found that labelling had improved 
+relative to previous audits.  In comparison to the EU, prescription requirements  were 
+limited and there was a lack of requirements for the maintenance of treatment records 
+on farms.  The availability of many substances not authorised for use in food-producing 
+animals in the EU was also noted, a long-standing issue.   
+There were four recommendations made, three of which were addressed satisfactorily 
+by the competent authorities . The one recommendation regarding validation of 
+laboratory methods was followed up during this audit. 
+4.3 R
+APID ALERT SYSTEM FOR FOOD AND FEED (RASFF) NOTIFICATIONS 
+Commission Decisio n 2010/381/EU  (3), as last amended, requires that 50% of the 
+aquaculture consignments of Indian origin arriving at EU borders are tested for residues 
+of chloramphenicol, tetracycline, oxytetracycline, chlortetracycline  and metabolites of 
+nitrofurans 3-amino-2-oxazolidinone (AOZ), semicarbazide (SEM), 1-aminohydrantoin 
+(AHD) and 3-amino-5-morpholinomethyl-2-oxazolidone (AMOZ).  The same decision 
+requires that all consignments are accompanied by a laboratory result from the place of 
+origin ( hereafter, the pre -export testing - PET) for the same substances . The data for 
+2020 to 2022 indicate (see below) that without the 100% PET obligation, the number of 
+RASFFs in the EU would have been much higher.  
+  
+ 
+(2) https://ec.europa.eu/food/audits-analysis/audit_reports/details.cfm?rep_id=4055. 
+(3) Commission Decision 2010/381/EU of 8 July 2010 on emergency measures applicable to consignments of 
+aquaculture products imported from India and intended for human consumption (OJ L 174, 8.7.2010, p. 
+51). 
+
+--- PAGE 8 ---
+7 
+ 
+The following table shows the implementation and results from 2020 to 2022: 
+Year No of non-compliant PET results No of non-compliant tests at EU border 
+2020 31(AOZ) - 0.9% of export consignments 4 (AOZ) 
+2021 24 (AOZ) – 0.47% of export 
+consignments 
+3 (2x AOZ, 1 chloramphenicol) 
+2022 (Jan-Aug) 39 (AOZ) – 1.1% of export consignments 0 
+ 
+4.4 PRODUCTION AND TRADE INFORMATION 
+With regard to product s either currently being exported to the EU (aquaculture finfish 
+and crustaceans) or intended for export to the EU (poultry and milk) , India applies a 
+segregated market model whereby only this defined population of animals/products is 
+eligible for the EU market.  It is based on the annual production volume that 
+theoretically could be export ed to the EU  in a given year . In 2021, for aquaculture , it 
+covered 259 hatcheries and 73.872 farms registered for export, plus 393 processing 
+plants approved for exports that produced in 2 021 approximately 851,000 tonnes of 
+crustaceans and 3,290 tonnes of finfish. In 2021 India exported 52,889 tonnes of 
+aquacultured crustaceans and 637 tonnes of finfish to the EU. 
+For milk the model covers one dairy plant  that receives milk from approximately 1,200 
+collection centres and 710,000 farms which produced, 962,314 tonnes of raw milk  in 
+2020/21. 
+For poultry the model covers 4 processing establishments that received poultry from 
+958 farms and produced 77,107 tonnes of poultry meat in 2020/21.  
+5 F
+INDINGS AND CONCLUSIONS 
+5.1 RESIDUE MONITORING 
+5.1.1 Competent authorities 
+1. The central competent authority is the EIC under the Ministry of Commerce and 
+Industry. The EIC and its five regional EIA offices are  responsible for the planning, 
+implementation, and supervision of the residue monitoring plan as well as for the 
+approval, registration and execution of official controls on aquaculture, poultry and 
+dairy production, processing, trading and export establishments , in line with national 
+provisions (4). EIA officials also collect the residue monitoring samples for milk and 
+poultry. 
+ 
+(4) The Export (Qual ity Control and Inspection) Act, 1963, and amendments thereof, for the sound 
+development of the export trade of India through quality control and inspection and for matters connected 
+therewith for: a) aquaculture: Notification No S.O. 497 (E) of 10 March 2011 amended the Export of Fresh, 
+Frozen and Processed Fish & Fishery Products (Quality Control and Inspection and Monitoring) Rules 
+
+--- PAGE 9 ---
+8 
+2. As regards residue monitoring in samples drawn from aquaculture farms and processing 
+establishments several other competent authorities are involved: 
+- MPEDA which is a statutory body under the same Ministry , implements the residue 
+monitoring plan for aquaculture products under the guidance of the EIC. MPEDA’s 
+regional and subregional division offices are responsible for s ampling at processing 
+establishments, aquaculture farms, hatcheries and feed mills. 
+Furthermore, MPEDA, i n line with national legal provisions  (5), has been appointed 
+as one of the designated authorities for the enrolment of farms supplying aquaculture 
+products for export, as well as of hatcheries and feed mills supplying feed to 
+exporting aquaculture farms. MPEDA ´s tasks includ e ensuring that enrolment 
+numbers for farms are unique and not in conflict with any numbering system of other 
+recognised registration authorities (e.g. the CAA  and State Fishery Authorities 
+(SFAs). 
+- The CAA has the responsibility for aquaculture farms and hatcheries in salt and 
+brackish waters in coastal areas (i.e. within two kilometers of the high tide lines of the 
+coast and rivers). Other aquaculture farms (e.g. inland freshwater farms) fall under the 
+responsibility of the individual SFAs. 
+3. All aquaculture farms with a n enrolment  number provided by MPEDA can supply 
+(farmed) finfish or shrimp to EIC -approved establishments  for export to the EU , 
+provided that they request and pass successfully a Pre-Harvest Test (PHT) showing that 
+the products to be harvested do not contain nitrofurans and chloramphenicol. 
+5.1.2 Planning of residue monitoring 
+Findings 
+4. The EIC stated that the residue monitoring plans for aquaculture  finfish and 
+crustaceans, milk and poultry  are based on the EU requirements  (
+6) and the audit team 
+could confirm that the residue monitoring plans largely follow these.  
+5. The planning process for residue monitoring begins early enough to ensure sufficient 
+time for the implementation of the sampling plan for aquaculture from January to  
+December and for milk and poultry from April to March the following year. 
+6. With regard to the 2021 residue monitoring plan, t he planned sample numbers per 
+commodity fulfil the overall minimum requirements indicated in EU legislation (7). For 
+ 
+from 1995; b) milk: S .O. 4031(E) dated 9th November, 2020 notifying Milk and Milk Products for q uality 
+control and inspection prior to export plus S .O. 4032(E) dated 9th November, 2020 called as the Export of 
+Milk and Milk Products (Quality Control, Inspection and Monitoring) Rules, 2020;  and c) poultry: Order 
+No S.O. 1377(E) dated 30.12.2002 notify ing Fresh Poultry Meat and Poultry Meat Products for quality 
+control and inspection prior to export plus Notification No S.O. 1378(E) dated 30.12.2002 called as the 
+Export of Fresh Poultry Meat and Poultry Meat Products (Quality Control and Inspection and Monitoring) 
+Rules, 2002 and amendments thereof. 
+(5) O rder EIC/D(Q/C)/T-1/11-12. 
+(6) Annexes II and IV to Directive 96/23/EC and the Annex to Commission Decision 97/747/EC. 
+(7) Annex IV to Directive 96/23/EC, Article 1 and the Annex to Decision 97/747//EC. 
+
+--- PAGE 10 ---
+9 
+aquaculture, they are based on the national production volume of all of the MPEDA-
+enrolled farms; for milk , on the production capacity of sole EIC-authorised dairy 
+processing establishment and its associated farms and for poultry , on the production 
+capacity of four EIC-approved processing establishments, which receive birds  from 
+those farms which aim to produce for the EU market . Sample numbers are distributed 
+across the different states or regions according to the production volume of the 
+commodity and the species concerned (see chapter 4.4). 
+7. In line with what is expected in the EU  (8) all of the main aquaculture species 
+(crustaceans and finfish) exported to the EU are c overed by the residue monitoring 
+plan. The residue monitoring plan for milk covers bovine milk, and the one for poultry, 
+broilers.   
+8. During the elaboration of th e residue monitoring plans  two factors were taken into 
+account, the production volume and the laboratories` analytical capacity. The audit 
+team was not presented with evidence indicating whether other factors such as the 
+availability or likelihood of use of particular veterinary medicinal product s, or 
+previously non- compliant results for a given analyte , were taken into account in the 
+planning process.  
+9. The scope of testing for the residue monitoring plans for all three commodities includes 
+all of the required substance groups and has been significantly expanded since the 2018 
+audit. Notwithstanding the expansion in scope, some pharmacologically active 
+substances which are authorised and used in practice for the treatment of animals  are 
+not included in the plans. 
+- The scope for a quaculture has been, as agreed bet ween the Commission and the EIC, 
+widened since 2020 for a sub-set of 1% (459 samples) of all samples taken.  The sub -
+set is analysed for an additional 1 8 substances in Group B1 (4 macrolides: 
+erythromycin, tilmicosin, tylosin, spiramycin; 7 beta -lactams: amoxicillin, ampicillin, 
+benzylpenicillin, dicloxacillin, oxcillin, cloxacillin, colistin; 2 aminoglycosides: 
+spectinomycin, neomycin; 2 cephalosporins: cefalexin, cefapirin plus lincomycin, 
+trimethoprim and doxycycline).   
+- The audit team noted that methy ltestosterone (Group A3), which is used in India for 
+sex-differentiation in some finfish species, has not yet been included  in the scope of 
+testing for finfish. (9) 
+ 
+- The scope for poultry has been widened both for Group B1 with regard to macrolides, 
+lincosamines and aminoglycoside s and as well for Group B 2a for which 5 
+anticoccidials (maduramicin, amprolium, salinomycin, monensin, nicarbazin and 
+ 
+(8) Article 1 and Chapter 2 of the Annex to Commission Decision 97/747/EC. 
+(9)  In its response to the draft report the competent authority noted  that methyl testosterone is used in the 
+tilapia hatcheries for the production of all male tilapia.  It is not used in the grow out stages. There is no 
+evidence of its usage in other fin / shell fish species in aquaculture. 
+ 
+
+--- PAGE 11 ---
+10 
+robenidine) have been added.  T oltrazuril, which is authorise d in India for use in 
+poultry, has not yet been added.  
+- The scope for milk has been widened for Group B1 with regard to sulphonamides, 
+beta-lactams and beta-lactam inhibitors such as taxobactam and sulbactam. It does not 
+yet cover marbofloxacin and streptomycin, both of which were seen to be used on the 
+dairy farms by the dairy plant`s  veterinarians met by the audit team. It also does not 
+cover certain substances in Group B2a such as triclabendazol e and closantel which  
+were seen to be used by the State Veterinary services during their annual anti-parasitic 
+treatment campaigns at dairy farms.  The scope of  substances in Group B2e has been 
+widened to include phenazone. 
+Furthermore, the audit team identified substances that are contained in  veterinary 
+medicinal products available on the Indian market, that are authorised use in food -
+producing animals in India, but not in the EU and which are not included in the 
+respective residue monitoring plans. These concerned in Group B1, ceftizoxime and 
+ceftriaxone, both of which are authorised in India for  poultry and bovine  animals plus 
+ofloxacin, perfloxacin and ornidazole (in Group A6) which are authorised in India for 
+bovine animals.  
+Notwithstanding the above, recommendation No 1  of the 2018 audit report has been 
+largely addressed. 
+10. In the 2021 and 2022 residue monitoring plans, the detection limits of the screening and 
+confirmatory methods, as well as action levels for all  analyte/matrix combinations were 
+the same as those applicable in the EU (10). 
+Conclusions on planning of residue monitoring 
+11. For aquaculture for which India has an approved residue monitoring plan and for  
+poultry and milk, for which it is seeking residue monitoring plan approval, t he 
+planning process is timely , sufficient sample numbers are pla nned, and the range of 
+analytes included in the res pective plans is much greater than was the case in the 
+previous audit. Nevertheless, there is room for improvement in terms of the scope of 
+testing, as evidenced by the fact that several substances on the Indian market were  not 
+included in the current resi due monitoring plans and these were seen to be used in the 
+relevant species.  
+5.1.3 Implementation of the residue monitoring plan 
+Findings 
+12. There are clear instructions (11) governing the implementation of the residue monitoring 
+plans for aquaculture, milk and poultry. These are largely harmonised with the relevant 
+ 
+(10) Table 1 of the Annex to Regulation (EU) 37/2010, Article 4 and Annex II to Decision 2002/657/EC or the 
+levels recommended by the European Union Reference Laboratories. 
+(11) India’s residue monitoring plans for: a) poultry meat and poultry meat products, b) milk and c) aquaculture 
+products. 
+
+--- PAGE 12 ---
+11 
+EU requirements  (12). In line with these instructions, sa mpling is unforeseen, spread 
+throughout the year  and covers the main production area s. Furthermore, residue 
+monitoring samples are collected  using adequate sampling material , sealed and 
+transported ensuring their integrity, traceability and legal validity.  
+13. The 2021 residue monitoring plan for aquaculture (including samples at all hatcheries 
+to be analysed for nitrofurans and chloramphenicol) and the 2021/22 plans for milk and 
+poultry were implemented as planned.  
+14. For milk the EIC instruction on how to implement the residue monitoring plan reduces 
+the likelihood of detecting substances included in Group A6 (banned antimicrobials) 
+and Group B1 (antimicrobials)  and in Group B2a (anthelmintics) .  This is due to the 
+fact that the EIC instructed their laboratory to divide the total number of samples in to 7 
+subsets that are each analysed with a multiresidue method, but where only certain 
+substances included in the multi -residue method had to be reported in a given subset . 
+Thus, if a non- compliance had been found for any of the other substances included in 
+the subset´s multiresidue method it would not have been reported as a non -compliance.  
+This is contrary to what would be expected in the EU (13). 
+15. Similar to EU rules, aquaculture s amples to be analysed for Group A were taken at 
+farm/hatchery level at all stages of farming  (14). Milk samples were taken from 
+individual farms when delivered to  milk collection centres  (15) and poultry samples to 
+be analysed for  substances in Group A were taken both at farm and at slaughterhouse 
+level (16). There was a mechanism to  avoid that samples were taken from the same 
+farms, either at farm level or at processing establishment level. At one poultry 
+processing plant visited by the audit team all 9 2 of the farms supplying it (and all of 
+which intend to provide for the EU market, should India be successfully listed in the 
+requisite EU Regulations for animal health, public health and residues)  were eligible to 
+be sampled.  For the second processor visited, 723 out of the 1,937 farms supplying it 
+were deemed to be able to supply to the EU market (as per the caveats above)  and this 
+second processor had specific days on which only poultry from thos e 723 farms would 
+be processed and from which residue monitoring samples were taken.  
+16. The implementation of the aquaculture national residue monitoring plan is  regularly 
+monitored through an on- line data base by MPEDA which notifies all of the MPEDA 
+offices/centres and the EIC about the plan’s implementation status and the non -
+compliant results found . Monthly updates on t he implementation of the poultry and 
+milk residue monitoring plans are reported by the respective EIA offices to the EIC.  
+17. The residue mo nitoring plan for aquaculture specifies  that samples have to be 
+forwarded to the designated laboratory within three days and reach the laboratory after 
+ 
+(12) Annex III to Directive 96/23/EC, Annex II to Regulation (EU) 2021/808. 
+(13) Point 1(a) of Article 5 of Regulation (EU) 2017/625 (read in conjunction with Points 1 and 2 of the Annex 
+III to Directive 96/23/EC and Point 1(B) of Chapter 1 of the Annex to Decision 97/747/EC).  
+(14) Point 1 of Chapter III of the Annex IV to Directive 96/23/EC. 
+(15) Point 3 of the Annex II to Regulation (EU) 2021/808. 
+(16) Chapter 2 of the Annex IV to Directive 96/23/EC. 
+
+--- PAGE 13 ---
+12 
+dispatch within 30 hours . The plans for milk and poultry specify  that samples have to 
+be delivered to the designated EIA laboratory within 48 hours of being taken. 
+Conclusions on the implementation of the residue monitoring plan 
+18. The residue monitoring plans for aquaculture animals , poultry and milk are  
+implemented in a timely manner and in line with planned arrangements.  Nevertheless, 
+the sampling and reporting policy adopted for milk could impair the ability of the 
+competent authority to identify non-compliant samples.  
+5.1.4 Other residues monitoring programmes 
+5.1.4.1 PHT for aquaculture 
+19. National legislation (17) requires that export establishments approved for export to the 
+EU can source aquaculture products only from  enrolled farms (see finding 3)  that 
+participate in the official PHT programme . This programme requires that all 
+aquaculture batches harvested  at farm are sampled and tested prior to harvest for the 
+presence of chloramphenicol and four nitrofuran metabolites . Non-registered farms 
+will, following a successful inspection, then be registered and subsequently will be able 
+to participate in the PHT programme. 
+20. There is a process to ensure traceability of the PHT result to the specific farm and pond. 
+Every pond is enrolled and identified with its  Global Positioning System  co-ordinates 
+that define its exact surface area and location. Each pond is sampled  by MPEDA staff  
+and harvested separately and no aggregate sampl es are allowed. Furthermore, sampling 
+forms have to include all of the required information to ensure traceability to the pond.  
+However, on two farms visited in Odisha , the audit team found inconsistencies in the 
+traceability records concerning stocking and harvesting data and the number of ponds 
+compared to the data in the MPEDA database. In relation to the size of the sample, 
+officials calculate the estimated size of the batch in the pond based on the size of the 
+pond, the stocking density and the average size of the shrimp.  
+21. All samples are then sent to an MPEDA -run network of 15 laboratories performing 
+enzyme-linked immunosorbent assays (ELISA).  The cost of the ELISA tests is paid for 
+by the farmer; MPEDA pays for the cost of any confirmatory tests required. Once the 
+testing is done, the result reports have a validity of 20 days. If the pond is not harvested  
+in that timeframe , sampling and testing needs  to be repeated. When the pond is 
+harvested, the system imposes a 3-month period until the next PHT sampling. 
+22. The three processing plants visited by the audit team had put in place mechanisms to 
+minimise the risk of non -PHT tested product to be included in the batch, such as the 
+crosschecking of amounts received with the production es timated for the pond. All the 
+examples reviewed by the team during the audit of consignments of aquaculture 
+ 
+(17) S.O. 497(E) of 10 March 2011. 
+
+--- PAGE 14 ---
+13 
+products received at the processing plants, exported or subject to PET testing were 
+accompanied by PHT results.  
+23. Since January 2020 until August 2022 there were 7 non-compliant PHT test results 
+recorded by MPEDA.  
+5.1.4.2 PET scheme for aquaculture 
+24. European legislation (18) requires that all consignments of aquaculture products  
+entering the Union from India are accompanied by the result of an analytical test for 
+chloramphenicol, metabolites of nitrofurans , tetracycline, oxytetracycline  and 
+chlortetracycline, carried out at the place of origin. 
+25. To fulfill the above -mentioned requirements, the EIC  has instructions in place which 
+specify that: 
+- a composite sample is to be taken from each exported consignment that can contain 
+products from a maximum of 4 daily production codes from the processing 
+establishment. If the consignment includes products from more than 4 production 
+codes, the n a second composite sample needs to be taken from the additional 
+production codes; 
+- composite samples of each exported consignment  must be representative and 
+include finished product from each code and pond; 
+- the samples must be analysed in an accredited EIA laboratory  using validated 
+methods (see finding 55). Each result of the (composite) PET sample applies to the 
+whole consignment, consisting of a maximum of 4 production codes.  
+26. Between January 2020 and August 2022 there were 94 non -compliant PET test results 
+reported. After a decrease in 2021 the percentage of non- compliant PETs increased in 
+2022 to levels seen in 2020 (see chapter 4.3).  
+27. In the three processing establishments visited by the audit team, PET tests were 
+conducted by the EIA as required. In two cases, which were evaluated by the team and 
+where prohibited substances had been found, the whole consignment had been 
+destroyed and evidence from the rendering facility provided to the audit team.  
+28. With regard to the low number of non -compliances for the PHT (7) compared to the 
+considerably higher number in the PET (94) in the period from January 2020 to August 
+2022, neither the EIC nor MPEDA had realised or could explain the reasons for the 
+anomaly, albeit with different test types being  employed in each programme. If 
+anything, the PHT ELISA should have a higher  false positive rate than the LC/MS/MS 
+confirmatory methods  in the PET programme.  EIC  had not  analysed from where 
+(establishments and states) the PET non-compliances had been found  most frequently 
+to help them improve their understanding of the origin of non- compliant results in the 
+PET.   
+ 
+(18) Decision 2010/381/EU amended by Commission Implementing Decisions (EU) 2012/690 and (EU) 
+2016/1774. 
+
+--- PAGE 15 ---
+14 
+5.1.4.3 Official monitoring in EIC -approved export establishments (EIA monitoring  
+scheme) 
+29. Establishments approved by the EIC for export are inspected by the EIA every one to 
+three months depending on risk. Every six months samples are collected from all such 
+establishments and are tested in an EIC -approved laboratory for the presence of  
+antimicrobials including chloramphenicol, nitrofuran metabolites and tetracyclines. 
+5.1.4.4 Establishment own-checks 
+30. All three aquaculture processing establishments visited during the audit had, as part of 
+their Hazard Analysis Critical Control Points  system, a critical control point related to 
+residues in raw material inputs . One conducted in- house ELISA tests for nitrofurans 
+and had never found any non-compliant results. The other two processers sent samples 
+to an accredited private laboratory for analysis for a range of antimicrobials (covering 
+those banned and authorised in the EU), pesticides and heavy metals. 
+31. The dairy processing establishment visited had two own-check programmes in place for 
+residues. In the first, each batch of raw milk received at the establishment is tested with 
+a commercially available dipstick screening test for an timicrobials which covered 
+certain penicillins, cephalosporins, tetracyclines and sulphonamides  with national 
+maximum residue limits (MRLs ) in line with those applicable in the EU  (19).  Six 
+antimicrobials (including two cephalosporins ceftriaxon e and cefuroxime ), two 
+aminoglycosides ( gentamycin and streptomycin) and two fluoroquinolones  
+(enrofloxacin and marbofloxacin), all of which are on the list of a ntimicrobials for 
+dispensation to dairy cows by the veterinarians of the same dairy processing 
+establishment/cooperative, are not covered by the dipstick screening test .  Neither 
+ceftriaxone nor cefuroxime have a Maximum Residue Limit ( MRL) established in the 
+EU. The audit team was informed that the dipstick test had never been verified (i.e. 
+shown to work) by the laboratory staff in  the dairy processing establishment  and they 
+did not have access to ‘positive control’ samples or analytical st andards. No non-
+compliances had been found from January 2020 to August 2022.  In the second own -
+check programme, one sample was taken every two months from one of the 1,200 
+collection centres belonging to the dairy processing establishment  to be analysed f or 
+aflatoxin M1. Staff from the dairy cooperative informed the audit team, that to date 
+(and in marked contrast to the results found in the national residues plan – see finding 
+48), no non-compliances had been found for this contaminant.  
+32. The two poultry processors visited also operated self -monitoring p rogrammes for 
+residues and sent their samples to an ISO 17025- accredited EIA laboratory. The scope 
+of substances largely mirrored that of the poultry residue monitoring plan . To date no 
+non-compliances have  been found but  there are  instructions to notify the EIA in the 
+event of any non-compliances.  
+ 
+(19) Regulation (EU) No 37/2010 
+
+--- PAGE 16 ---
+15 
+Conclusions on other residue monitoring programmes 
+33. The PHT and PET schemes for aquaculture are implemented as planned by the 
+competent authorities  and they are useful in helping identify non- compliant batches 
+and preventing their certification by the EIC and consequent export to the EU.  
+Nevertheless, the difference in the non- compliance rates between the PHT and PET 
+programmes is hard to explain and has not been investigated by the competent 
+authorities.  The additional testing of the products under establishments’ own-control 
+programmes has the potential to provide further assurances on the compliance of the 
+commodities in question.   
+ 
+5.1.5 Follow-up of non-compliant results 
+Findings 
+5.1.5.1 Aquaculture 
+34. The EIC is responsible for coordinating the follow -up investigations  of RASFF  
+notifications. It calls on the concerned EIA to create an assessment panel comprising of 
+experts from the EIA, MPED A and the Central Institute of Fisheries Technology. The 
+role of the panel is to carry out documentary and on-the-spot verification at the relevant 
+processing establishments and farms.  
+35. The relevant EIA is responsible for coordinating the follow-up of non-compliant results 
+found in the respective residue monitoring plans . After transmitting the alert 
+notification along with the test results through an elect ronic system, a panel is created 
+consisting of the EIA, MPEDA and the concerned  CAA to jointly carry out 
+documentary and on-the-spot verification in the processing establishments and farms, to 
+take follow-up samples and to identify the origin  of the contamination. A joint report is 
+created and the EIAs are to take measures as required with regard to the processing 
+establishments or farms concerned; the CAA does likewise for the hatcheries that fall 
+under its jurisdiction.  
+36. The EIAs are also responsible for follow -up investigation s of PET non-compliant 
+results.  There is no legal requirement for the non- compliant ELISA results in the 
+MPEDA PHT programme to be followed up (20).  
+37. The residue monitoring plan contains documented procedures for the management of 
+non-compliant results  found in the residue monitoring plan and procedures are also 
+described in the EIC executive instruction for aquaculture species  (21). T hese 
+procedures largely address key elements of follow -up of non- compliant results as 
+ 
+(20) In its response to the draft report the c ompetent authority noted that MPEDA on its own, has investigated 
+all seven PHT positive cases to trace the root cause. 
+(21) Chapter 13 in the “National residue control plan for aquaculture products”  and chapter 10.2 of the 
+“Executive instructions for approval and monitoring of fish and fishery products for export”. 
+
+--- PAGE 17 ---
+16 
+expected in the EU  (22) and include measures such as an increase in the frequency of 
+inspections, compulsory residue tests of subsequent consignments, temporary 
+suspension, fines and revocation of the approval in the event of second time violations. 
+38. Based on information available on the EU RASFF portal and provided by the 
+competent authority during the audit, the audit team reviewed  11 cases that occurred 
+from 2019 to 2021. The se concerned the RASFF notifications for nitrofurans ( 8 cases), 
+chloramphenicol ( 2 cases) and dyes (1 case). In all cases follow -up investigations 
+commenced promptly and involved both the processing establishment as well as the 
+farms concerned .  In nine  cases a lack of product traceability was mentioned in the 
+report as the potential reason for the non- compliance and it was speculated that 
+contaminated product s of unknow n origin might have caused the non -compliance. In 
+three cases it was mentioned in the report that farmers had sold to middlemen who 
+might have mixed raw material from other farms , in the product that was then sent to 
+the processing establishment.   
+39. Measures taken in the event  of a RASFF notification, included in most cases the 
+temporary suspension of the processing establishments, increase in the frequency of 
+official controls and the establishments being officially instructed to be more vigilant 
+during their procurement of raw materials. In three cases, letters were sent to: MPEDA 
+requesting it to revoke the  registration of the  farm involved ; the Commission of 
+Fisheries of the state  and the CAA, requesting them to take actions and to the Seafood 
+Exporters Association requesting it to inform its members not to purchase raw materials 
+from the farm concerned. 
+40. With regards to r esidue monitoring plan results, the non-compliance rate for Group A6 
+substances (chloramphenicol and nitrofurans) varied by year and by sampling site type. 
+For samples drawn from aquaculture farms and processing establishments  these were, 
+by year:  2018: 7 cases – 0.37%; 2019: 18 cases  - 0.81%, 2020: 6 cases – 0,29% and 
+2021: 23 cases – 0.9%.  Regarding samples drawn from aquaculture hatcheries : 2018: 
+70 cases – 38%, 2019: 32 cases – 18%, 2020: 44 cases – 20% and 2021: 52 cases –  
+20%).  Also, 2021 was the first year in which all 259 hatcheries were sampled for the 
+presence of substances in Group A6.  With regard to samples of aquaculture feed  
+analysed for chloramphenicol and nitrofurans between 2018 to 2021, there were no 
+non-compliant results in the 13 to 19 samples taken each year.   
+41. The above data demonstrate that, notwithstanding the ban on use of chloramphenicol 
+and nitrofurans  in Indian aquaculture  (
+23) illegal use, particularly at hatchery level 
+remains a sizable problem.  In contrast, there were no non- compliant results for other 
+antimicrobial substances in Group B1 from samples taken between 2018 and 2021 with 
+around 2,500 samples being analysed each year (for a limited scope of substances) and 
+since 2019 approximately 459 samples (1% of all samples) being analysed for an 
+extended scope of substances.  
+ 
+(22) Regulation (EU) 2019/2090. 
+(23) Order S.O. 722 (E) of 10/07/2002. 
+
+--- PAGE 18 ---
+17 
+42. The audit team reviewed  9 examples of follow -up investigations after the detection of 
+residues of EU -banned substances (Group A6) . I nvestigations both at the processing 
+establishments and farms concerned took  place immediately (with a few COVID-
+related exceptions ), and the products or animals were detained, similar to what is 
+required in the EU  (24).  Said investigations included a review of the documentation in 
+the processing establishments such as production traceability records, reports of PHT  
+and PET, reports of in -house pre -purchase testing  etc. and follow -up sampling.  On 
+farms there was a review of the production cycle  logbooks for each pond, the sourcing 
+of larvae, feedingstuffs, disinfectants and other inputs , and f ollow-up samples  from 
+relevant ponds. These actions are similar to what is required in the EU (25). 
+43. Notwithstanding the actions that were taken, the  source of the non- compliance was not 
+identified in any of the 9 cases.  The official reports concluded  that the contamination 
+came from unknown/unidentified inputs. In one case, where a follow-up sample  had 
+been taken from feed, which was  non-compliant for chloramphenicol, no further action 
+had been taken to trace the affected feed back to the distributor or producer of the feed. 
+In a second case the official report highlighted that feed was suspected as a potential  
+source, but this hypothesis was not backed up by any sampling of the feed.  
+44. Dissuasive measures taken by the EIC and EIA at processing establishments in which 
+non-compliant results had been detected under the residues monitoring plan, consisted 
+of the destruction of the affected product, in some cases the temporary suspension of 
+the processing establishment, obligatory testing of five subsequent product ion batches 
+intended for export to the EU  and enhanced monitoring visits  as per  national 
+requirements (26).  At farm level, MPEDA informed the audit team, that no farm during 
+the last three years, from which non- compliant product had originated, had been 
+penalised in any way or had had their MPEDA enrolment suspended or withdrawn .  
+The latter is different to the EU requirements ( 27). At hatchery level, the audit team was 
+informed that in 2021/2022 the registration of 6 crustacean hatcheries, which had repeat 
+non-compliances for banned antimicrobials, had been temporarily suspended.  
+45. According to EIC and MPEDA , the imposition of penalties on aquaculture farms, such 
+as fines being levied or temporary or permanent closure, fall under the responsibility of 
+the States` fishery and coastal aquaculture authorities.  In the past, several states lacked 
+a legal basis to take such measures though the audit team was provided with evidence 
+that two states (Kerala and Andhra -Pradesh) now had such legislation  (
+28) in place 
+which allowed for the imposition of fines and revocation of licenses. Furthermore, in 
+2022, the main aquaculture -producing states had created district and task force  
+committees, mandated to implemented stringent measures to curtail the use of banned 
+ 
+(24)  Point 2 of Article 6 of Regulation (EU) 2019/2090. 
+(25) Point 4 of Article 6 of Regulation (EU) 2019/2090. 
+(26) Chapter 10.2.2 and 16.1.4. of the “Executive instructions for approval and monitoring of fish and fishery 
+products for export. 
+(27) Article 8 of Regulation (EU) 2019/2090. 
+(28) Kerala Fish Seed Act 2014, Kerala Inland Fisheries Aquaculture Act 2010 and Andhra Pradesh State 
+Aquaculture Development Authority Act 2020.  
+
+--- PAGE 19 ---
+18 
+antimicrobials in aquaculture  (29). Committee members  include district fisheries 
+officers, food safety department officers, drug control authority officers, representatives 
+of the revenue department , the police department, MPEDA and various stakeholders. 
+The committees are empowered to conduct checks at aquaculture shops ; manufacturing 
+companies and suppliers of drugs, probiot ics, chemicals, feeds and feed supplements; 
+farms and hatcheries to verify and take action on the possession and use of  
+unauthorised anti microbials in aquac ulture. Controls  can include sampling, label 
+checks, checks on veterinary medicinal products sales etc. Deterrent measures can be 
+imposed such as fines (first offence = 25 ,000 rupees ( €300); second offence 50, 000 
+rupees ( €600) or the revocation of license s. The latter would be similar to what is 
+required in the EU (30). 
+46. With regards to PET non-com pliances for banned substances, the EIAs are required to 
+do a documentary and on-the- spot control at the concerned processing establishment 
+and to verify that it has developed  a plan to avoid the reoccurrence of the non -
+compliance both at processing level and on the farms from which it had received the 
+crustaceans. The EIAs do not conduct  an on -the-spot follow -up investigation on the 
+farms concerned to verify if the measures im posed by the processing establishment 
+have actually been taken by the farmer. They also do not inform either MPEDA about 
+the implicated processing establishments and farms or the Co astal Aquaculture 
+Authorities about the farms.   
+5.1.5.2 Milk 
+47. The EIC and their EIA offices are responsible for the follow -up of non- compliances 
+found in the milk residue monitoring plan. Furthermore, documented procedures for the 
+management of non- compliant results are described in a specific EIC executive 
+instruction for milk (31), that includes key elements as applicable in the EU (32). 
+48. A significant proportion of the residue monitoring samples analysed in the last three 
+years for Group B3d ( aflatoxin M1) were  non-compliant ((2 018/2019: 90 samples and 
+34 non- compliances (3 7%), 2019/2020: 90 samples and 10 non- compliances (11%), 
+2020/2021: 51 samples and 19 non- compliances (37%)) . There were no  residue 
+monitoring plan non-compliances for any other substance group in the last three years, 
+though that might b e due to the fact that instructions were in place that clearly limited 
+the effectiveness of detecting substances included in Group A6 (banned antimicrobials), 
+Group B1 (antimicrobials) and Group B2a (anthelmintics) (see finding 14 and 67). 
+ 
+(29) Andhra Pradesh order G.O. MS. No 2 dated 11.01.2017; Goa order No DF/AQUA/TFC-Antibiotics-
+misuse- 2022-23/2644, dated 03.08.2022; Gujarat resolution No: FDV-132017-GOI-24-T, dated 
+30.08.2022; Karnataka order G.O. AHF E-113 FSFS 2019, dated 28.02.2020; Kerala order G.O.(Rt) No 
+290/2022/F&P, dated 11 May 2022; Maharashtra resolution No: Matsyavi 1122/CR 118/ADF 14, dated 
+15.06.2022; Odisha order No 13871-6/FARD dated 23.11.2017, Tamil Nadu order T.O. (Ms). No 54, dated 
+13.06.2022 and West Bengal order No 1640-FI-999/28/2022, dated 25 July 2022. 
+(30) A rticle 139 of Regulation (EU) 2017/625. 
+(31) General procedure CODE: PG-12/01 "Actions taken in the case of non-compliant foodstuffs". 
+(32) Regulation (EU) 2019/2090. 
+
+--- PAGE 20 ---
+19 
+49. The audit team reviewed nine  aflatoxin M1 results that were found between September 
+2020 and June 2022.  I n all cases the EIA quickly informed the processing 
+establishment to seize the a ffected product, identify the source of the contamination, 
+take corrective measures and requested a report summarising the outcome of actions to 
+the EIA. The o fficial follow-up investigation started promptly (in general within two 
+days) and included measures that were largely equivalent to those foreseen in EU 
+legislation (33) for example:  identification of  the source  of contamination, taking 
+follow-up samples , conducting on- the-spot visits, increasing the frequency of official 
+controls etc.  In two of the nine cases, the official follow-up investigation report did not 
+describe the (final) outcome of the investigation.  The competent authority informed the 
+audit team that new leg islation on animal feed is currently in the process of being  
+developed and will include measures that aim to prevent the contamination of feed with 
+aflatoxin B1.  
+50. The source of contamination was in all cases identified as feed that had been 
+contaminated with aflatoxins. Feeds used at the dairy farms supplying milk to the dairy 
+processing establishments, were largely treated with mycotoxin binders, but data seen 
+by the audit team indicated that these are effective in about 70% of the treated feed. In 
+one case seen by the audit team, follow -up samples taken from 339 batches of feed that 
+had been treated with  the mycotoxin binder revealed that 39 remained non-compliant 
+for aflatoxins after the treatment.  
+5.1.5.3 Poultry 
+51. The EIC and their EIA offices are responsible for the follow -up of non- compliances 
+found in the poultry residue monitoring plan. Furthermore, documented procedures for 
+the management of non-compliant results are described in chapter 10 of the poultry EIC 
+executive instruction and chapter 11 of the residue monitoring plan for poultry, these  
+largely include ke y elements as applicable in the EU  (
+34). There have been no non -
+compliances in poultry residue monitoring plan samples since 2020. 
+ 
+(33) Articles 4 and 5 of Regulation (EU) 2019/2090.  
+(34) Regulation (EU) 2019/2090. 
+
+--- PAGE 21 ---
+20 
+Conclusions on follow-up of non-compliant results 
+52. Documented procedures for the follow-up of non-compliances found under the residue 
+monitoring plans are largely equivalent to those foreseen in the EU and investigations 
+are mostly implemented promptly.  Nevertheless, the follow-up of the aquaculture non-
+compliances for banned  substances and actions taken to prevent recurrence have not 
+been effective as evidenced by the continuing high rate of non- compliant results in 
+samples drawn from hatcheries and in the PET programme.   Similarly, the continuing 
+high incidence of aflatoxin M1 findings in raw milk  suggest that measures to address 
+and mitigate this problem are not particularly effective.   
+5.1.6 Laboratories 
+Findings 
+53. The laboratory network relevant for the scope of the audit consisted of: 
+a) laboratories involved in testing samples under the residue monitoring plans for: 
+- aquaculture: 5 MPEDA laboratories (in Kochi, Bhimavaram, Nellore , Porbandar 
+and Bhubaneswar and one EIA laboratory in Chennai (dioxins only); 
+- milk: the EIA Pilot Test House laboratory in Mumbai; 
+- poultry - the EIA laboratory in Chennai. 
+b)     laboratories responsible for analysis under the PET programme for aquaculture 
+products with regard to tetracycline, oxytetracycline, chlortetracycline  
+chloramphenicol and nitrofuran metabolites: three EIA laboratories (in Chennai, 
+Kochi, Mumbai and Kolkata); 
+c)  laboratories responsible for screening analys es under the PHT programme for 
+shrimp for chloramphenicol and nitrofuran metabolites : 15 MPEDA ELISA 
+laboratories. 
+54. Similar to what is expected in the EU  (35) all laboratories involved in testing residue 
+monitoring samples and the PET programme are ISO/IEC 17025 accredited by the 
+National Accreditation Board for Calibration and Testing Laboratories (NABL) which 
+is a full member of International Laboratory Accreditation Cooperation. All EIA and 
+MPEDA laboratories have a number of residue methods included in their respective 
+scopes of accreditation. Of the 1 5 MPEDA ELISA laboratories involved in the PHT, 4 
+are accredited, each with residues methods listed in their scope of accreditation. 
+55. Similar to the EU requirements (36) and as described in the 2018 audit, all laboratories 
+involved in official residues controls testing must hold an approval from the EIC. 
+Under the EIC approval process, ISO 17025 accreditation audits are conducted as an 
+integrated assessment by the NABL and the EIC in parallel, as des cribed in the NABL 
+document 127 ( 37). For the laboratories visited during the audit, EIA Chennai, EIA 
+Kochi, EIA Mumbai, MPEDA Kochi and MPEDA Bhubaneswar, the integrated 
+ 
+(35) Article 37(4)(e) of Regulation (EU) 2017/625.  
+(36) Article 39(1) of Regulation (EU) 2017/625.   
+(37) https://nabl-india.org/nabl/file_download.php?filename=202011170504-NABL-127-doc.pdf  
+
+--- PAGE 22 ---
+21 
+assessment status was verified by the audit  team and is reflected in each laboratory’ s 
+scope of accreditation with the inclusion of the date of assessment and  the official seal 
+of the EIC on each page of the respective document describing the scope. 
+56. The laboratories visited were: 
+Laboratory Area of testing covered during the visit 
+EIA Mumbai milk – residue monitoring plan 
+EIA Kochi  aquaculture – PET 
+EIA Chennai poultry – residue monitoring plan 
+aquaculture – PET 
+MPEDA Kochi aquaculture – residue monitoring plan 
+MPEDA Bhubaneswar aquaculture – residue monitoring plan 
+aquaculture – PHT 
+ 
+57. Similar to measures required in the EU  (38), in all of the laboratories visited there were 
+procedures and instructions for sample reception and handling and these were adhered 
+to. In the sample reception areas, sample seals, temperature, quantity and sample 
+submission forms are checked, and details recorded with evidence seen of the recording 
+of sample deviations and follow -up communications to flag rejected samples and 
+request additional sampling. Additionally, residue monitoring samples were stored in 
+appropriate and adequately monitored conditions. 
+58. The EIA and MPEDA laboratories use electronic systems such as an in -house 
+laboratory information management system used by the EIA and an electronic tool 
+called “e -National Residue Control Plan”  used by MPEDA to log and track sample 
+analysis in the laboratory. Furthermore, seals for samples drawn under the residue 
+monitoring plans, the PET and the P HT have a unique ID number which is checked  
+against the details recorded on the sample form at the time of reception and sample 
+login at the laboratory. These measures are similar to what is required in the EU with 
+regard to sample traceability (
+39). 
+59. The laboratories visited indicated that they operated an agreed sampl e analysis 
+turnaround time of 10 days (EIA laboratories Mumbai, Kochi, Chennai), 15 or 20 days 
+(MPEDA Bhubaneswar, MPEDA Kochi) from the receipt of the samples. The 
+documents inspected by the audit team indicated that these analysis turnaround times 
+were largely achieved and in the case of the EIA, Mumbai, this was an improvement 
+relative to the 2018 report.  
+60. The storage and management of reference standards was found to be adequate in all of 
+the laboratories visited. Internal standards and matrix -matched c alibration were used 
+routinely for the  Liquid Chromatography-(Tandem) Mass Spectrometry  (LC-MS/MS) 
+methods evaluated. In the case of ELISA for PHT , the test kits used are supplied with 
+ 
+(38) Points 1, 5 and 7 of Annex II to Regulation (EU) 2021/808.  
+(39) Point 3 of Annex II to Regulation (EU) 2021/808. 
+
+--- PAGE 23 ---
+22 
+reference standards. A t the time of the audit, all of the MPEDA ELISA l aboratories 
+were using test kits from the same manufacturer. 
+61. All of the laboratories visited had quality control procedures in place; these included 
+the use of blank samples, reagent blanks, non- compliant controls spiked at appropriate 
+concentrations in matrix, blind control check samples and duplicate samples. The audit 
+team examined the m ethod quality control charts in each laboratory and these were 
+generally found to be adequate for monitoring longer term trends in method 
+performance.  In the case of the EIA laboratory in Chennai however, it was found that 
+while the laboratory had quality control charts in place with data recorded over the past 
+2 years in the examples seen, trends in the control data were not evaluated routinely. 
+The only prescribed control criteria considered by the laboratory were breaches of the 
+calculated chart control limits or recovery levels outside the range of 80 to 120%. 
+Trending patterns of data points were not considered by the laboratory; for example, a 
+certain number of data points above or below the mean or a certain number of data 
+points showing a continuous increase/decrease in recovery. This is not fully in line with 
+ISO 17025 (
+40) standard or EU requirements (41). 
+62. Evidence was provided that all of the laboratories involved in testing under the residues 
+monitoring plan had participated in proficiency testing. This is in line with expectations 
+in the EU (42).  With regard to the laboratories visited, the EIA Chennai laboratory had 
+participated in one proficiency test for poultry since 2018 (lasalocid ( Group B2b)) and 
+the EIA Mumbai laboratory has participated in three proficiency tests for milk since 
+2019 (chloramphenicol (Group A6), sulphonamide s (Group B1) and heavy metals 
+(Group B3c)). The visited l aboratories had recently participated in the following 
+relevant proficiency with satisfactory results: 
+- EIA Mumbai: heavy metals (Group B3c) in milk powder;  
+- EIA Chennai: lasalocid ( Group B2b) in poultry; nitrofurans ( Group A6), quinolones 
+(Group B1) and sulphonamides (Group B1) in shrimp; nitrofurans (Group A6), dyes 
+(Group B3e) and heavy metal (Group B3c) in fish; 
+- EIA Kochi: quinolones ( Group B1), chloramphenicol ( Group A6), nitrofurans 
+(Group A6), tetracyclines (Group B1) in shrimp; nitrofurans (Group A6) in fish;    
+- MPEDA Kochi: tetracyclines ( Group B1), nitrofurans ( Group A6) in shrimp; 
+mycotoxins (Group B3d) in fish; 
+- MPEDA Bhubaneswar: tetracyclines (Group B1), nitrofurans (Group A6) in shrimp; 
+nitrofurans (Group A6) sulphonamides (Group B1), dyes (Group B3e) in fish. 
+63. In those instances where the results of proficiency tests  would be unsatisfactory, all of 
+the laboratories visited had a root cause analysis procedure  in place to identify the 
+cause and implement appropriate corrective actions.   
+64. For testing under the residue monitoring plan, only chemical confirmatory methods are 
+used, and all of the analytical methods reviewed by the audit team had decision limits 
+ 
+(40) Chapter 7.7 of ISO/IEC 17025.  
+(41) Chapter 3 of Annex I to Regulation (EU) 2021/808.   
+(42) Article 38(2) of Regulation (EU) 2017/625 and Article 4 of Regulation (EU) 2021/808.  
+
+--- PAGE 24 ---
+23 
+(CC-alpha) determined in line with the requirements for confirmatory methods , which 
+is similar to what is required in the EU (43).  In the case of the PHT the ELISA methods 
+reviewed by the audit team determined the cut -off level in line with the approach 
+recommend by the European Union Reference Laboratories ( 44). The sensitivity of all 
+of the chemical confirmatory methods checked was seen  to be adequate, as the 
+detection limits of the methods in use w ere lower than or equal to the respective 
+reference points for action (45) (where established) and were lower than EU MRLs (46), 
+EU maximum levels (47) or the European Union Reference Laboratories’ recommended 
+minimum method performance requirements (MMPRs) (48). 
+65. Similar to what is required in the EU  (49), in all of the laboratories visited, where non -
+compliant results are detected, they are reported promptly to the sampling officer and to 
+the relevant authority.   
+5.1.6.1 EIA Pilot Test House Mumbai 
+66. Control of access to the sample reception area and laboratory is in line with the 
+expected requirements (50), which is an improvement versus what was seen during the 
+2018 audit. 
+67. Regarding the laboratory’s approach to analysis , described in Annex 3 to  the residues 
+control plan for milk in India, individual samples are tested on the basis of one of 7 
+“Sets” of substances. Each “Set” covers several compounds from different residue 
+groups/subgroups and several analytical methods must be used to cover all substances 
+in that set.  The chemical confirmatory analytical methods used are mainly  multi-
+residue methods which cover more than one analyte for a particular residues group (i.e., 
+for one analytical procedure  for substances in Group B1, erythromycin A, spiramycin, 
+tilmicosin and tylosin A can be determined in the same analysis run).  Not all of these, 
+even though they can be quantified, are included in the respective set, though, and if a 
+non-compliant result is found for a substance not included in the respective set, it is not 
+reported.  This is contrary to what would be expected in the EU  (51) (see finding 14 and 
+48).  
+68. The audit team assessed the validation files for the following methods in milk: 
+- nitroimidazoles (Group A6) metronidazole and ronidazole by LC-MS/MS;  
+- nitrofuran metabolites (Group A6), AOZ, AMOZ, AHD, SEM by LC-MS/MS; 
+- chloramphenicol (Group A6) by LC-MS/MS; 
+ 
+(43) Point 2.6 of Chapter 2, Annex I to Regulation (EU) 2021/808.    
+(44) CRL guidelines for the validation of screening methods for residues of veterinary medicines 2010. 
+(45) Annex to Commission Regulation (EU) 2019/1871. 
+(46) Annex to Regulation (EU) No 37/2010.   
+(47) Regulation (EC) No 1881/2006, Regulation (EC) No 396/2005.   
+(48) EURL guidance on minimum method performance requirements (MMPRs) for specific pharmacologically 
+active substances in specific animal matrices. 
+(49) Point 7 of Annex II to Regulation (EU) 2021/808 
+(50) Point 6.3.4 of EN ISO/IEC 17025.  
+(51) Points 1 and 2 of Annex III to Directive 96/23/EC and Point 2 of Chapter 1 of the Annex to Decision 
+97/747/EC.  
+
+--- PAGE 25 ---
+24 
+- aflatoxin M1 (Group B3d) by LC-MS/MS; 
+- anthelmintics (Group B2a), ivermectin by LC-MS/MS; 
+- beta-lactams including cephalosporins (Group B1) by LC-MS/MS; 
+- lead (Group B3c) by inductively coupled plasma mass spectrometry. 
+All methods inspected were found to be adequately validated with appropriate 
+validation criteria and concentration ranges applied in line with the EU regulations in 
+force at the time of the validation  (52)(53), although not fully in line with the additional 
+validation criteria laid down in the most recent  EU regulation (54). The laboratory 
+indicated during the audit that it was aware of the latest validation requirements and 
+inclusion in future validations has been flagged. 
+5.1.6.2 EIA Kochi 
+69. The audit team assessed the validation files for the following methods: 
+- chloramphenicol (Group A6) in shrimp and fish by LC-MS/MS; 
+- nitrofuran (Group A6) in shrimp and fish by LC-MS/MS; 
+- tetracyclines (Group B1) in shrimp and fish by LC-MS/MS. 
+All were found to be adequately validated with appropriate validation criter ia and 
+concentration ranges applied in line with the Regulation (EU) 2021/808. 
+5.1.6.3 EIA Chennai 
+70. The method for  beta-agonists in poultry muscle is now validated at appropriate levels 
+with appropriate decision limits, which is an improvement versus the 2018 audit. 
+71. The audit team assessed the validation files for the following methods: 
+- chloramphenicol (Group A6) in poultry muscle by LC-MS/MS;  
+- tetracyclines, quinolones and sulphonamide s (Group B1) in poultry muscle by LC -
+MS/MS;  
+- anticoccidials (Group B2b) in poultry muscle by LC-MS/MS; 
+- chloramphenicol (Group A6) in shrimp and aquaculture feed by LC-MS/MS (PET); 
+- nitrofuran metabolites (Group A6) in shrimp by LC-MS/MS (PET).  
+For finfish muscle and shrimp, the validation reports reviewed,  assessed all of the 
+required criteria at appropriate concentration levels in line with the EU Decision 
+(2002/657/EC) in force at the time of the validation but are not in fully line with the 
+latest EU legislation on method validation, Regulation (EU) 2021/808.  The laboratory 
+indicated that it was  aware of the introduction of the new requirements for method 
+validation in said Regulation.  
+72. For the poultry methods above , the validation reports of  other tissues and matrices  
+included in the residue monitoring plan were requested. These included poultry liver, 
+ 
+(52) Annex I to Commission Decision 2002/657/EC. 
+(53) Annex to Commission Regulation (EC) No 333/2007.  
+(54) Annex I to Regulation (EU) 2021/808.   
+
+--- PAGE 26 ---
+25 
+kidney, fat & skin, body fluid (serum), farm water and feed.  At the time of the visit, no 
+validation had been performed for these other matrices. In this respect there has been no 
+change to what was found during the 2018 audit  and thus Recommendation 3 of that 
+audit report has not been addressed fully.  The use of unvalidated methods for official 
+controls testing is contrary to what would be required in the EU (55). Evidence was seen 
+of the inclusion of a recovery check spiked matrix for non- validated matrices in recent 
+analysis batches for anticoccidials (B2b) in liver.  Whilst this is a sensible approach, 
+there was no documented procedure indicating how the recovery data was applied to 
+mitigate the non-validated status of these matrices and the laboratory had yet to analyse 
+these recovery data with a view to validating matrices other than poultry muscle.  
+73. During the audit, the laboratory proposed to submit data for a two- day mini validation 
+for the outstanding matrices. After the audit, validation results  were submitted to the 
+audit team for tetracyclines, quinolones and sulphonamides (Group B1) in kidney, liver 
+and fat by LC -MS/MS. The files r eceived did not include a comparison of the 
+calculated validation parameters for the new matrices to poultry muscle. Thus the audit 
+team could still not conclude that the method was fit for purpose for matrices other than 
+muscle. No further validation details were received for any of the other laboratory 
+methods in poultry matrices.  
+5.1.6.4 MPEDA Kochi 
+74. The audit team assessed the validation files for the following methods: 
+- nitrofurans and chloramphenicol (Group A6) in shrimp and fish by LC-MS/MS; 
+- malachite green (Group B3e) in shrimp and fish by LC-MS/MS; 
+- tetracyclines, sulphonamides and beta-lactams (Group B1) in shrimp and fish by LC-
+MS/MS. 
+All of these methods were found to be adequately validated with appropriate validation 
+criteria and concentration ranges applied in line with Decision 2002/657/EC which was 
+in force at the time of the validation . H owever, not all methods met the validation 
+requirements laid down in the most recent EU legislation (Regulation (EU) 2021/808).  
+The laboratory indicated that activities have already commenced to meet these more 
+recent EU requirements. 
+5.1.6.5 MPEDA Bhubaneswar 
+75. The audit team assessed the validation files for the following methods: 
+- nitrofurans (Group A6) in shrimp and finfish by LC-MS/MS; 
+- dyes (Group B3e) in shrimp and finfish by LC-MS/MS; 
+- tetracyclines and quinolones (Group B1) in shrimp and finfish by LC-MS/MS; 
+- chloramphenicol (Group A6) screening in shrimp by ELISA (PHT); 
+- nitrofurans (Group A6) screening in shrimp by ELISA (PHT). 
+ 
+(55) Article 3 of Regulation (EU) 2021/808. 
+
+--- PAGE 27 ---
+26 
+In spite of the fact that the laboratory no longer tests finfish (in either the 2021 or 2022 
+residue monitoring plans), t he majority of these methods were found to be adequately 
+validated with appropriate validation criteria and concentration ranges applied in line 
+with the EU Decision (2002/657/EC)  in force at the time of the validation , though not 
+all methods met the validation requirements laid down in Regulation (EU) 2021/808.  
+ 
+Conclusions on laboratories 
+76. Relative to the 2018 audit, improvements have  been made in  the performance 
+of 
+residue testing laboratories, particularly in respect of aquaculture products.  
+Nevertheless, there is still a sizable number of analytical methods for residues in 
+poultry matrices (other than muscle) which have yet to be validated, and in this respect 
+there has been little progress since 2018.   
+5.2 VETERINARY MEDICINAL PRODUCTS 
+5.2.1 Authorisation, distribution and use of veterinary medicinal products  
+77. The manufacture, import, sale and distribution of drugs and drug products are regulated 
+under the Drugs and Cosmetics Act (1940) and Rules (1945) both for human and 
+veterinary medicinal products. It is implemented at national level by the Central Drugs 
+Standard Control Organisation (CDSCO) (under the Directorate -General of Health 
+Services of the Ministry of Health and Family Welfare) an d at state level by their State 
+Drug Licensing Authorities  (SDLA). The CDSCO is responsible, inter alia , for the 
+approval of new drugs (granted for 4 years), based on which the SDLA can approve the 
+manufacturing of the drug in their state with a license validity of 5 years. 
+78. Drug manufacturers and wholesalers for veterinary medicinal products must be 
+authorised ( licensed) similar to what is required in the EU  (56). R etail outlets also 
+require a licence prior to being allowed to sell veterinary medical products. This is done 
+by the SDLA in the state / state region in which they operate  with licenses that are up 
+for renewal every five years. The CDSCO stated that there are ap proximately 600,000 
+registered drug outlets/pharmacies registered in India.  All of the wholesalers and 
+pharmacies visited during the audit had valid licenses. 
+79. Drugs (for veterinary or human use) which include substances that require a 
+prescription by a qualified practitioner (doctor or veterinarian) are listed in schedule H 
+and H1 of the Drugs and Cosmetics Act and Rules. The most recent version of schedule 
+H (31.12. 2016) lists 536 substances , of which only a few are relevant for use in food-
+producing animals. Schedule H1, includes 46 substances which include antimicrobials 
+such as 3rd and 4th generation cephalosporins and some quinolones. 
+80. The list of schedule H substances includes the term “ antibiotics” and lists furthermore 
+several specific anti microbial substances. The competent authority informed the audit 
+ 
+(56) Articles 88 and 99 of Regulation (EU) 2019/6. 
+
+--- PAGE 28 ---
+27 
+team that due to the mentioning of the term “antibiotics”, all drugs containing 
+antimicrobial substance s are prescription drugs.   Nitrofurans and chloramphenicol, 
+banned in the EU for use in food -producing animals, are surprisingly, not included in 
+either Schedule H and H1, and can legally be sold over -the-counter. The presence of 
+nitrofurans on the market was confirmed by the audit team for furazolidone,  
+nitrofurazone and furaltadone in several products  for bovine animals and poultry.   In 
+aquaculture the use of nitrofurans, chl oramphenicol, nitroimidazoles (57) as well as of 
+stilbenes, steroids and dyes (58) is prohibited in India. This is similar to what is foreseen 
+in the EU (59). 
+81. For the prescription -only schedule H and H1 drugs , the pharmacy is  not required to 
+keep a copy of the prescription. F or schedule H drugs , a sales register is required with 
+the name of the prescrib er.  This is different to what is required in the EU  (60). For 
+schedule H1 drugs, the pharmacy needs to keep the name and address of the prescriber, 
+the name of the patien t and the name of the drug and its quantity supplied (61) which is 
+similar to what is required in the EU (62).  
+82. The CDSCO provided the audit team with the list of in India a pproved veterinary 
+medicinal products . This list includes substances that are no t authorised or explicitly 
+prohibited for use in food- producing animals  in the EU  (63) such as d imetridazole, 
+several nitrofurans, cefuroxime, buparvaquone  and tolfenamic acid . The audit team 
+identified that the list was incomplete as it did not include several veterinary medicinal 
+products containing, inter alia, tetracycline, streptomycin, gentamycin, doxycycline, 
+ceftriaxone (not allowed in the EU for food- producing animals), sulfadiazine, 
+penicillin, fenvalerate, bromhexine and cloprostenol, which the audit team saw during 
+their visits.  Furthermore, the list does not mention the approval number of the product, 
+nor in many cases product labelling or leaflet information such as the product name, the 
+target species, nor the information on the required withdrawal periods per commodity, 
+which is different than what is required in the EU (64) 
+83. In two out of three states visited by the audit team, official staff from the respective 
+SDLA provided the audit team with their state´s list of approved veterinary medicinal 
+products. The third state did not do so when requested.  The lists of the two states were 
+largely identical to that of the CDSCO.  SDLA staff therefore have little available 
+information to determine whether a veterinary medicinal product found at a wholesaler, 
+pharmacy or on a far m is approved and if the label information on target species  or 
+withdrawal periods are in line with those of the approval .  This is different to the 
+situation in the EU (65).  
+ 
+(57) Points c and d of Order S.O. 722 (E) of 10/07/2002. 
+(58) Point h of Order S.O. 1227(E) of 23/10/2003. 
+(59) Regulation 37/2010 and Article 11 of Council Directive 96/22/EC. 
+(60) Point 3(f) of Article 103 of Regulation (EU) 2019/6. 
+(61) Point 3.1.g of Article 65 of the Drugs and Cosmetics Act and Rules. 
+(62) Point 3(f) of Article 103 of Regulation (EU) 2019/6. 
+(63) Table 1 and 2 of Regulation (EU) No 37/2010. 
+(64) Articles 55 and 56 of Regulation (EU) 2019/6.  
+(65) Point 32 of Article 4 and Points 1 and 2 of Article 123 of Regulation (EU) 2019/6.   
+
+--- PAGE 29 ---
+28 
+84. Labelling requirements for veterinary medicinal products are laid down in Indian 
+legislation (66) and are largely similar to those required in the EU  (67). Containers of 
+veterinary medicines have to be labelled with the words 'Not for human use; for animal 
+treatment only', shall indicate “ inter alia” the name of the drug, the pharmacologically 
+active substances, the target species, the respective withdrawal period s, the expiry date, 
+the batch number and as specific requirement for India , a symbol depicting the head of 
+a domestic animal.  All of the veterinary medicinal products c hecked by the audit team 
+were correctly labelled. 
+85. The only two substances specifically prohibited for use in all food-producing animals in 
+India are diclofenac since 2008 and colistin since 2019. Further to what was seen in the 
+2018 report, the competent authority informed the audit team that there are no longer 
+any approved veterinary medicinal product s containing diethylstilbestrol for use in 
+cattle, sheep, goats and poultry. This is similar to the situation in the EU (68). 
+86. Certain anti microbials are allowed to be used in aquaculture for therapeutic or 
+zootechnical purposes when authorised by a qualified veterinary surgeon or fishery 
+scientist (69).  These include tetracycline, oxytetracline, trimethoprim and oxolinic acid  
+which are also authorised for use in aquaculture in the EU. The use of other 
+antimicrobials is prohibited in Indian aquaculture. 
+87. Compared to the EU, the audit team noted differences in the pharmacologically act ive 
+substances authorised for different food-producing animal species.  For example, in the 
+EU where there may be a restriction on use (e.g. not for use in lactating animals), this 
+was not the case in India (e.g. for doxycycline, ivermectin and doramectin) .  There 
+were also substances on the market for use in various food- producing animal species 
+for which no MRL has been established for said species in the EU (e.g. cefuroxime, 
+ceftriaxone, ceftizoxime, tazobactam, ofloxacin, pefloxacin, ornidazole, 
+phenylbutazone and paracetamol).   
+88. Different to the approach in the EU (
+70), national manufacturers of veterinary medicinal 
+products indicated on the labelling information (for most of veterinary medicinal 
+products to be used in dairy cows and other species) withdrawal periods which are not 
+based on depletion studies but rather  the withdrawal periods provided for in the EU for 
+off-label use (71). National legislation (72) allows, when the withdrawal period has not 
+been validated, the application of a default withdrawal period of 7 days for milk  and 28 
+days for meat.  At the retailers and wholesalers visited, most of the veterinary medicinal 
+products for food dairy cows and other producing animals i ncluding those containing 
+antimicrobials and anthelmintics had a ‘standard’ withdrawal period of 7 days for milk  
+ 
+(66) Articles 96 and 97 of part IX of the Drugs and Cosmetics Act and Rules 
+(67) Articles 10 and 11 of Regulation (EU) 2019/6. 
+(68)  Article 11 of Council Directive 96/22/EC 
+(69) Point b of Order S.O. 722 (E) of 10/07/2002 read in conjunction with point h of Order S.O. 1227(E) of 
+23/10/2003. 
+(70)  Regulation (EC) No 470/2009. 
+(71) Article 115 of Regulation (EU) 2019/6.  
+(72) Point 3(a) of Article 97 of Part IX of the Drugs and Cosmetics Act and Rules. 
+
+--- PAGE 30 ---
+29 
+and 28 days  for meat.  Even for poultry the withdrawal period was often 28 days  for 
+meat which, if followed would mean  that broilers could not be legally treated after a 
+week of age. 
+89. The competent authority informed the audit team that national legislation does not 
+allow “off-label use”, thus t he use of human medicinal products for food-producing 
+animals or veterinary medical products authorised for species other than the one 
+indicated in the label instructions . However, in two pharmacies  visited by the audit 
+team, human medicines had been prescribed for food- producing animals. In one case 
+this concerned the nitroimidazole tinidazole (not approved in the EU for food-
+producing animals). In another case, a  product containing doxycycline  (even though 
+there are approved veterinary medicinal products containing doxyc ycline). The latter 
+example is different to what is required in the EU (73).  
+90. Similar to the  situation in the EU  (74), national rules  (75) require farmers to keep 
+treatment records  at dairy, poultry and aquaculture farms.  The audit team found that 
+with regards to dairy farms, there was a central electronic treatment record database at 
+the dairy processing establishment visited, which recorded all treatments administered 
+on its affiliated dairy farms by or under the supervision of the  establishment’s 
+veterinarians. The audit team could verify at the processing establishment, the two milk 
+collection centres a nd the two f arms visited, that the recorded information was similar 
+to what is required in the EU  (76). Nevertheless, not all treatments were recorded.  For 
+example the  annual deworming (using albendazole, fenbendazole, triclabendazole or 
+closantel, the latter two of which are not included in the residue monitoring plan ) or 
+ectoparasitic treatment (using cypermethrin and amitraz) campaigns conducted by the 
+state´s veterinary service.  In the two collection centres visited, the audit team 
+established that that milk from dairy cattle had been delivered to the processor within 
+the withdrawal period of the substances used in the deworming campaigns.   
+91. For poultry, the on-farm treatment records on the two poultry farms visited includ ed 
+treatments with neomycin, chlortetracycline and the anti coccidial amprolium. The two 
+processing establishment s visited by the audit team had a process in place which 
+required that treated poultry could not be delivered to the establishment but only sold 
+on the local market after the expiration of a 28 day withdrawal period. The information 
+provided in the on- farm record was largely in line with what would be expected in the 
+EU (
+77).  For aquaculture, there was a register of inputs  on the farm visited but t here 
+had been no treatment s with veterinary medicinal products in recent times. There are 
+also national rules  (78) applicable to aquaculture farms allowed to produce for the EU 
+ 
+(73) Point 1(c) of Article 113 of Regulation (EU) 2019/6. 
+(74) Article 108 of Regulation (EU) 2019/6.  
+(75) Point 7.3 and points 2.3(j), 3.2(b) and 4.2 (d) of the Annex IC to Executive Instructions for Export of Milk 
+and Milk Products (2022); Point II.6 (b) of the Annex IC to the Executive Instructions for Export of Fresh 
+Poultry Meat and Poultry Meat Products (2015) and Appendix C (Traceability record) of the Executive 
+Instructions for Approval and Monitoring of Fish and Fishery Products for Export.  
+(76) Article 108 of Regulation (EU) 2019/6.  
+(77) Article 108 of Regulation (EU) 2019/6.  
+(78) Articles 6(5) and 13 of Notification S.O. 497 (E) dated 10th March 2011 
+
+--- PAGE 31 ---
+30 
+market; they  shall only source feed, or if authorised, medicated feed, from EIC -
+approved and registered feedmills. 
+92. There is no  legislation in place for the labelling of premixes of medicated feeding 
+stuffs, feed additives, medicated feed or feed. Thus, the producer is at liberty to decide 
+what information is provided on labels of such products . The audit team saw at the 
+visited pharmacies nutritional supplements for cattle which included no information on 
+the ingredients.  The EIC informed the audit team that legislation to establish such a 
+system is currently under preparation by the Food Safety and Standards Authority of 
+India.  
+ 
+Conclusions on authorisation, distribution and use of veterinary medicinal products 
+93. While there is a system in place for the authorisation, distribution and use of veterinary 
+medicinal products it differs significantly from that in the EU and practices which are 
+not foreseen in the EU are, consequently, permitted in India, such as “off-label use” of 
+human medicinal products  in food -producing animal species.  Cumulatively these 
+differences detract from whatever guarantees on the residues status of food are 
+afforded by the various residue monitoring plans in place.   
+5.2.2 Official controls on distribution and use of veterinary medicinal products 
+Findings 
+94. According to national legislation (79) the manufacturers and retail outlets for veterinary 
+medicinal products should be inspected regularly which is similar to what is required in 
+the EU (80). The minimum yearly inspection frequency at wholesalers and pharmacies 
+visited by the audit team in three states was complied with by the respective SDLAs.  
+95. Inspections of drug outlets covered the licensing, labelling (species logo, expiry dates,  
+withdrawal periods), storage conditions, and presence of unauthorised s ubstances. The 
+SDLA inspectors also took occasionally samples to check if the content of 
+pharmacologically active substances in the medicinal products is in line with label 
+indications, which is similar to the EU requirements (81). Inspections at pharmacies and 
+wholesalers visited by the audit team were well documented using a template provided 
+for in national legislation  (82) and the SDLA officers promptly informed a licensee in 
+writing of any case of non- compliance identified, which is similar to the EU 
+requirements (83).  
+96. Due to an incomplete CDSCO or SDLA list of approved veterinary medicinal products 
+(see finding 83), SDLA inspectors were not in a position to  verify if a veterinary 
+medicinal product found at a wholesaler, pharmacy or on a farm was  indeed approved 
+ 
+(79) Articles 50, 51 and 52 of Part V of the Drugs and Cosmetics Act and Rules 
+(80) Points 1 and 2 of Article 123 of Regulation (EU) 2019/6. 
+(81) Point 6 of Article 123 of Regulation (EU) 2019/6. 
+(82) Form 35 of Schedule A of the Drugs and Cosmetics Act and Rules 
+(83) Point 2 of Article 123 of Regulation (EU) 2019/6 
+
+--- PAGE 32 ---
+31 
+and if the label information on target species, pharmacologically active substances or 
+withdrawal periods were in line with  the approval. SDLA staff me t by the audit team, 
+stated that they have to trust the labelling information on the veterinary medicinal 
+products, as the existing list of approved veterinary medicinal products was incomplete 
+and as it was not practically feasible to access the Veterinar y Monographs of the Indian 
+Pharmacopoeia for such information.  
+97. In the two wholesalers and two of the three pharmacies visited by the audit team, there 
+was a register of the products sold which contained the information required by national 
+legislation (84). However, given the national requirements for retention of prescriptions 
+(see finding 81), the SDLA inspectors met during the audit stated that it would only be 
+possible to detect a n illegal sale without prescription for a schedule H drug if it took 
+place while the inspectors were present.  Furthermore, the SDLA inspectors stated that 
+they cannot check if the name entered under “prescribing doctor” on the sales receipt is 
+a licensed veterinarian/doctor for schedule H drugs , as the prescriber’s contact details 
+do not need to be kept in a register at the pharmacy.   
+98. With regards to o fficial controls on the use of veterinary medicin al products , SDLA 
+officers met by the audit team stated that they do not conduct official controls on the 
+use of veterinary medicinal products at feed mills  or at farm- level. At aquaculture 
+hatcheries and on aquaculture farms such controls t ake place during the approval of a 
+farm and in the context of any follow-up investigation of residue monitoring plan non-
+compliances.   
+99. As regards dairy farms, the audit team was informed that 1  out of the 710,000 farms 
+supplying the visited dairy processing establ ishment had been subject to such controls 
+when it had been initially approved and at its  quarterly monitoring visit.  Controls on 
+use also ha ve to take place in the context of follow -up investigations of residue 
+monitoring plan non-compliances.  
+100. As regards poultry farms, a  minimum of three poultry farms that are identified by the 
+processing establishment they supply need to be officially monitored each year to 
+verify, inter alia, the use of veterinary medicinal products at the farm. Evidence was 
+provided to the audit team, that such controls took place at  4 out of 723 farms  
+delivering to one of the two processor s visited and 4 out of 92 farms delivering to the 
+second processor visited (see finding 15).  
+101. EIC-approved feed mills producing feed for aquaculture farms registered to produce for 
+export to the EU , have to undergo regular official controls as per national 
+legislation (85). EIC instructions state that after the approval of the feed  mill and two 
+initial monitoring visits at 6 and 12 months after approval, subsequent monitoring visits 
+shall happen yearly. During these visits it is to be checked , inter alia, if traceability and 
+labelling records of feed is proper and if the incorporation of feed additives and 
+premixes, the storage, handl ing and use of medicate d feeding stuff s are done  as 
+ 
+(84) Drugs and Cosmetics Act and Rules 
+(85) Article 11 of S.O. 730 (E) dated 21st August 199 and amended by Notification S.O. 497 (E) dated 10th 
+March 2011  
+
+--- PAGE 33 ---
+32 
+required in the EIC instructions. However, there are no legal requirements for labelling 
+of such products in India  (see finding 92). The EIC informed the audit team that 
+currently no feed mill is approved to produce  medicated feed  for aquaculture farms 
+registered to produce for export to the EU.  
+ 
+Conclusions on official controls on distribution and use of veterinary medicinal products 
+102. Whilst there is a  national control system on the distribution and use of veterinary 
+medicinal products, it has, in comparison with the EU, a number of gaps and omissions 
+and thus, adds little to guarantees on the residues status of food afforded by the various 
+residue monitoring plans in place.   
+ 
+6 OVERALL CONCLUSIONS 
+It is concluded that the residue monitoring plan for aquaculture complies with the minimum 
+requirements established in EU legislation and is implemented as planned. The 
+implementation of the residue monitoring plan for milk, for which India is not approved, is 
+weakened by the fact that the sampling and reporting strategy reduces the likelihood of non-
+compliances for certain substances being reported. Furthermore, a very high incidence of non-
+compliant results for aflatoxin M1 was noted for that programme.   
+With regard to follow -up of non- compliant results in aquaculture, investigations are 
+undertaken quickly, but in many cases did not  identify the origin of the non- compliance.  The 
+number of non-compliant results for residues of substances banned from use in food-producing 
+animals in the EU and in Indian aquaculture, found in both the national residue monitoring 
+plan and in the pre -export testing programme , has not decreased in the last three years. In 
+particular, there is a 20% noncompliance rate for such s ubstances in samples taken in 
+hatcheries, and the over -the-counter availability of these substances on the Indian market is 
+likely to contribute to the problem.  The fact that the number of RASFF notifications for EU -
+banned substances in aquaculture produc ts remains low, is more a reflection of the 
+effectiveness of the mandatory pre-export testing programme in identifying and preventing the 
+export of non-compliant consignments to the EU.  
+Concerning the laboratory network, there has been clear progress in t heir analytical 
+performance since the previous Commission audit in 2018.  Notwithstanding this, the 
+effectiveness of testing in poultry is weakened by shortcomings in method validation as not all 
+of the matrices tested have been validated to date.   
+With regard to veterinary medicinal products, there are few changes in comparison to the 
+findings of previous Commission audit reports.  Substances that are banned in the EU for use 
+in food -producing animals remain on the market in India as over -the-counter medications 
+(albeit not for aquaculture animals).  Whilst there is a control system on the distribution and 
+use of veterinary medicinal products, it contains many gaps in comparison to what is required 
+in the EU and does not contribute to the guarantees on the residues status of food of animal 
+origin provided by the various residue testing programmes in place.  
+ 
+
+--- PAGE 34 ---
+33 
+7 CLOSING MEETING 
+A closing meeting was held on 29 October 2022 with representatives of the central 
+competent authority. At this meeting, the audi t team presented the main findings and 
+preliminary conclusions of the audit. The authorities offered some clarifications and 
+stated that they would take actions to address the shortcomings identified during the 
+audit. 
+8 RECOMMENDATIONS 
+The competent authority is invited to provide details of the actions taken and planned, 
+including deadlines for their completion ('action plan'), aimed at addressing the 
+recommendations set out below, within 25 working days of receipt of this audit report.   
+ 
+No Recommendation 
+1 To ensure that the planning of residue monitoring reflects the range of veterinary 
+medicinal products on the market. 
+Legal basis:  Article 29 (1) of Directive 96/23/EC (read in conjunction with 
+Article 150(2) of Regulation (EU) 2017/625. 
+Recommendation based on conclusion: 11. 
+Associated finding: 9. 
+2 To ensure t hat the testing and reporting arrangements in place for the residue 
+monitoring plan for milk do not exclude the reporting of non-compliant results.   
+Legal basis: Point 1(a) of Article 5 of Regulation (EU) 2017/625 (read in 
+conjunction with Points 1 and 2 of the Annex III to Directive 96/23/EC and Point 
+1(B) of Chapter 1 of the Annex to Decision 97/747/EC). 
+Recommendation based on conclusion: 18. 
+Associated finding: 14 
+3 To ensure that follow -up investigations of non -compliant results  reflect the 
+provisions of applicable EU legislation and are effective in facilitating operators 
+exporting (or wishing to export) to the EU, to comply with the conditions for 
+entry of such animals and goods to the Union.    
+Legal basis: Article 138 of Regul ation (EU) 2017/625 ; Article 4 of Regulation 
+(EU) 2019/2090 
+Recommendation based on conclusion: 52. 
+Associated findings: 38, 40, 43, 44, 46, 48, 49, 50. 
+4 To ensure that all analytical methods used for the residue monitoring programmes 
+are appropriately validated to provide guarantees equivalent to those laid down in 
+EU legislation and, in particular, that method performance characteristics are 
+
+--- PAGE 35 ---
+34 
+established for all matrices tested.  
+Legal basis: Article 3 of Regulation (EU) 2021/808. 
+Recommendation based on conclusion: 76   
+Associated finding: 61, 71, 72 and 73.  
+ 
+The competent authority's response to the recommendations can be found at: 
+http://ec.europa.eu/food/audits-analysis/rep_details_en.cfm?rep_inspection_ref=2022-7490 
+ 
+
+--- PAGE 36 ---
+ANNEX 1 – LEGAL REFERENCES
+Legal Reference Official Journal Title
+Controls by the Commission Services
+Reg. 2017/625 OJ L 95, 7.4.2017, p. 
+1–142
+Regulation (EU) 2017/625 of the European 
+Parliament and of the Council of 15 March 
+2017 on official controls and other official 
+activities performed to ensure the application 
+of food and feed law, rules on animal health 
+and welfare, plant health and plant protection 
+products, amending Regulations (EC) No 
+999/2001, (EC) No 396/2005, (EC) No 
+1069/2009, (EC) No 1107/2009, (EU) No 
+1151/2012, (EU) No 652/2014, (EU) 
+2016/429 and (EU) 2016/2031 of the 
+European Parliament and of the Council, 
+Council Regulations (EC) No 1/2005 and 
+(EC) No 1099/2009 and Council Directives 
+98/58/EC, 1999/74/EC, 2007/43/EC, 
+2008/119/EC and 2008/120/EC, and 
+repealing Regulations (EC) No 854/2004 and 
+(EC) No 882/2004 of the European 
+Parliament and of the Council, Council 
+Directives 89/608/EEC, 89/662/EEC, 
+90/425/EEC, 91/496/EEC, 96/23/EC, 
+96/93/EC and 97/78/EC and Council 
+Decision 92/438/EEC (Official Controls 
+Regulation)Text with EEA relevance.
+Approval of residue monitoring plans submitted by non-EU countries
+Dec. 2011/163/EU OJ L 70, 17.3.2011, 
+p. 40-46
+2011/163/EU: Commission Decision of 
+16 March 2011 on the approval of plans 
+submitted by third countries in accordance 
+with Article 29 of Council Directive 
+96/23/EC
+Reg. 2021/404 OJ L 114, 31.3.2021, 
+p. 1–117
+Commission Implementing Regulation (EU) 
+2021/404 of 24 March 2021 laying down the 
+lists of third countries, territories or zones 
+thereof from which the entry into the Union 
+of animals, germinal products and products 
+of animal origin is permitted in accordance 
+with Regulation (EU) 2016/429 of the 
+European Parliament and the Council
+
+--- PAGE 37 ---
+Reg. 2021/405 OJ L 114, 31.3.2021, 
+p. 118-150
+Commission Implementing Regulation (EU) 
+2021/405 of 31 March 2021 laying down the 
+lists of third countries or regions thereof 
+authorised for the entry into the Union of 
+certain animals and goods intended for 
+human consumption in accordance with 
+Regulation (EU) 2017/625 of the European 
+Parliament and of the Council
+Monitoring of residues and contaminants in food of animal origin and Maximum Residue 
+Limits and Levels
+Dec. 2010/381/EU OJ L 174, 9.7.2010, 
+p. 51-53
+2010/381/EU: Commission Decision of 8 
+July 2010 on emergency measures applicable 
+to consignments of aquaculture products 
+imported from India and intended for human 
+consumption
+Dir. 96/22/EC OJ L 125, 23.5.1996, 
+p. 3-9 
+Council Directive 96/22/EC of 29 April 1996 
+concerning the prohibition on the use in 
+stockfarming of certain substances having a 
+hormonal or thyrostatic action and of beta-
+agonists, and repealing Directives 
+81/602/EEC, 88/146/EEC and 88/299/EEC
+Dir. 96/23/EC OJ L 125, 23.5.1996, 
+p. 10-32
+Council Directive 96/23/EC of 29 April 1996 
+on measures to monitor certain substances 
+and residues thereof in live animals and 
+animal products and repealing Directives 
+85/358/EEC and 86/469/EEC and Decisions 
+89/187/EEC and 91/664/EEC
+Dec. 97/747/EC OJ L 303, 6.11.1997, 
+p. 12-15 
+97/747/EC: Commission Decision of 27 
+October 1997 fixing the levels and 
+frequencies of sampling provided for by 
+Council Directive 96/23/EC for the 
+monitoring of certain substances and residues 
+thereof in certain animal products
+
+--- PAGE 38 ---
+Reg. 2019/2090 OJ L 317, 9.12.2019, 
+p. 28–37
+Commission Delegated Regulation (EU) 
+2019/2090 of 19 June 2019 supplementing 
+Regulation (EU) 2017/625 of the European 
+Parliament and Council regarding cases of 
+suspected or established non-compliance 
+with Union rules applicable to the use or 
+residues of pharmacologically active 
+substances authorised in veterinary medicinal 
+products or as feed additives or with Union 
+rules applicable to the use or residues of 
+prohibited or unauthorised pharmacologically 
+active substances
+Reg. 470/2009 OJ L 152, 16.6.2009, 
+p. 11-22
+Regulation (EC) No 470/2009 of the 
+European Parliament and of the Council of 6 
+May 2009 laying down Community 
+procedures for the establishment of residue 
+limits of pharmacologically active substances 
+in foodstuffs of animal origin, repealing 
+Council Regulation (EEC) No 2377/90 and 
+amending Directive 2001/82/EC of the 
+European Parliament and of the Council and 
+Regulation (EC) No 726/2004 of the 
+European Parliament and of the Council
+Reg. 37/2010 OJ L 15, 20.1.2010, 
+p. 1-72
+Commission Regulation (EU) No 37/2010 of 
+22 December 2009 on pharmacologically 
+active substances and their classification 
+regarding maximum residue limits in 
+foodstuffs of animal origin
+Reg. 2021/808 OJ L 180, 21.5.2021, 
+p. 84–109
+Commission Implementing Regulation (EU) 
+2021/808 of 22 March 2021 on the 
+performance of analytical methods for 
+residues of pharmacologically active 
+substances used in food-producing animals 
+and on the interpretation of results as well as 
+on the methods to be used for sampling and 
+repealing Decisions 2002/657/EC and 
+98/179/EC
+Reg. 396/2005 OJ L 70, 16.3.2005, 
+p. 1-16 
+Regulation (EC) No 396/2005 of the 
+European Parliament and of the Council of 
+23 February 2005 on maximum residue 
+levels of pesticides in or on food and feed of 
+plant and animal origin and amending 
+Council Directive 91/414/EEC
+
+--- PAGE 39 ---
+Reg. 1881/2006 OJ L 364, 
+20.12.2006, p. 5-24
+Commission Regulation (EC) No 1881/2006 
+of 19 December 2006 setting maximum 
+levels for certain contaminants in foodstuffs
+Reg. 333/2007 OJ L 88, 29.3.2007, 
+p. 29-38 
+Commission Regulation (EC) No 333/2007 
+of 28 March 2007 laying down the methods 
+of sampling and analysis for the control of 
+the levels of trace elements and processing 
+contaminants in foodstuffs
+Dec. 2002/657/EC OJ L 221, 17.8.2002, 
+p. 8-36 
+2002/657/EC: Commission Decision of 12 
+August 2002 implementing Council Directive 
+96/23/EC concerning the performance of 
+analytical methods and the interpretation of 
+results
+Reg. 2019/1871 OJ L 289, 8.11.2019, 
+p. 41–46
+Commission Regulation (EU) 2019/1871 of 7 
+November 2019 on reference points for 
+action for non-allowed pharmacologically 
+active substances present in food of animal 
+origin and repealing Decision 2005/34/EC
+Authorisation and use of veterinary medicinal products
+Reg. 2019/6 OJ L 4, 7.1.2019, p. 
+43–167
+Regulation (EU) 2019/6 of the European 
+Parliament and of the Council of 11 
+December 2018 on veterinary medicinal 
+products and repealing Directive 2001/82/EC
