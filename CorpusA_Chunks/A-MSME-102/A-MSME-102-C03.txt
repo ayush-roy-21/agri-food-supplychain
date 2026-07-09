@@ -1,0 +1,188 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C03
+Parent Doc ID: A-MSME-102
+Page Range: Page 21 to Page 28
+Word Range: 2657 - 3931
+Word Count: 1,275
+--------------------
+
+[Page 21]
+21
+Rethinking Clusters for MSME 
+Development
+1.
+India’s cluster policy dates back to 1987 and draws upon ideas of collective efficiency. However, it diverges from global 
+best practices from developed countries such as the United States and the European Union. These regions use cluster 
+mapping as a sophisticated tool for informing policy decisions and promoting cross-border collaborations. 
+There is a need for India to reimagine its cluster development approach; policymakers must redefine clusters . Clusters 
+are not just sectors – they capture the geographic footprint of economic activities, not because they belong to the 
+same statistical classification but because industries are systematically related through local spillovers and linkages. The 
+Indian definition of clusters aligns more closely with the concepts of Collective Efficiency (as proposed by Schmitz) and 
+certain elements of Flexible Specialization (according to Piore and Sabel) A well-structured cluster policy can unlock 
+synergies between SMEs, research institutions, universities, and Institutes for collaborations, forming robust ecosystems. 
+Personalized services to SMEs—such as diagnosing innovation capabilities, mapping out growth roadmaps, and bridging 
+technology gaps—can catalyze productivity gains. By fostering stronger ties between universities and industries, clusters 
+can facilitate knowledge transfer and accelerate the commercialization of research.
+Learnings from Cluster-Level 
+Analysis
+evaluation, and transparent communication would benefit policy formulation and implementation. Strengthening 
+stakeholder participation via MSME-specific forums, refining industrial statistics, and public sharing of policy evaluation 
+data will foster evidence-based decision-making and continuous improvement, ultimately creating a more resilient and 
+competitive MSME ecosystem at the state level.
+Many textile clusters rely heavily on upstream activities like raw material processing.Policymakers can encourage a move 
+toward downstream activities that add higher value—such as designing finished garments or specialized fabric. This 
+pivot could involve partnering with design schools, modernizing capital equipment, and fostering digital supply chain 
+linkages, as highlighted by the Economic Survey 2024’s emphasis on upgrading weaving and processing segments. 
+Notable regions with strong textile specializations include Surat, Ludhiana, and Tiruppur, where reinforcing cluster 
+efficiency can foster economies of scale, streamline production, and improve branding for global markets.
+Cluster-Specific Recommendations2.
+Textile Manufacturing 
+and Apparel
+
+[Page 22]
+22
+Enterprises in chemicals often face skilled labor shortages and complex regulatory requirements. Streamlining product 
+approvals, fostering compliance training, and enabling marketing support can reduce the cost burden on smaller firms. 
+Collaboration with local universities to expand the pool of researchers, engineers, and chemical experts can fill knowledge 
+gaps, while improved marketing and supply chain optimization can help MSMEs move downstream in the value chain.
+Automotive MSMEs typically prioritize tangible assets over R&D and innovation. Encouraging a shift toward intangible 
+investments through tax incentives or grants could help firms develop more sophisticated offerings. Dependence on large 
+players for supply contracts often leaves smaller enterprises with limited bargaining power. By creating platforms that 
+offer direct market linkages and promoting cooperative frameworks in the value chain, MSMEs can enhance technical 
+skills and diversify their client bases. Regions like Gurgaon, Rewari, and Pune already exhibit cluster advantages, and 
+targeted policy support can strengthen their innovation ecosystems.
+Chemical 
+Cluster
+Automotive 
+Cluster
+India’s food processing sector exhibits regional fragmentation, which undercuts its growth potential. Linking farmers 
+with processors is crucial, ensuring a seamless flow of raw materials and fostering value addition. Sensor-based tracking 
+systems combined with cargo insurance, as seen in Malaysia and Thailand, can reduce losses in transit. State-level 
+branding guidance for agricultural products, the creation of specialized food parks, and technology upgradation are also 
+crucial. Strengthening this cluster is particularly urgent in the country’s northeastern and eastern belts, which remain 
+underutilized despite their agricultural diversity.
+Food Processing 
+Cluster
+
+[Page 23]
+23
+
+[Page 24]
+24
+Table of Contents
+
+[Page 25]
+Table of Contents
+Introduction
+Chapter 1: Understanding 
+MSMEs Challenges for Enhancing 
+Competitiveness
+Chapter 2: Competitiveness 
+Framework: MSMEs and the Path to 
+Prosperity
+Chapter 3: Understanding MSMEs 
+competitiveness in India using Clusters
+Cluster Level Analysis
+Chapter 4: Policies for MSMEs in India
+Learnings and Recommendations
+Key Takeaways
+Conclusion
+Bibliography
+24
+34
+58
+64
+76
+90
+111
+112
+114
+50
+
+[Page 26]
+26
+Introduction
+
+[Page 27]
+27
+90%
+50%
+W
+ithin the realm of global economics, micro-, small- and medium-sized enterprises 
+(MSMEs) emerge as the cornerstone of prosperity, embodying the largest and most 
+influential segment across all economies (Storey, Pinch, & Mason, 1991). They constitute 
+a vast majority of businesses worldwide and play a pivotal role in job creation and global 
+economic growth. 
+Despite being the largest business segment globally in terms of numbers, SMEs have 
+been found to participate less in Global Value chains (GVC) than the large enterprises. 
+(Chaisse & Rodríguez-Chiffelle, 2019)
+Participation in Global Value Chains (GVC) refers to the extent to which a nation’s exports 
+are embedded within multi-stage international trade processes. This concept refers to 
+the integration of domestic value added into the exports of other nations, as well as the 
+incorporation of foreign value added into a nation’s exports. The proportion of a nation’s 
+total exports that is comprised of GVC participation provides a quantitative assessment of 
+the extent to which its export sector relies on GVCs. GVC metrics also play a crucial role in 
+assessing the extent to which sectors depend on international manufacturing networks.
+(UNCTAD, 2013).
+GVCs serve as critical facilitators of the international exchange 
+of investment, knowledge, and managerial practices that are 
+in line with global standards, thereby significantly bolstering 
+domestic businesses
+They make up about
+of businesses 
+globally and are 
+responsible for over
+of the total global employment.
+
+[Page 28]
+28
+GVCs are crucial for engaging with the global market, by concentrating on the development 
+of specialised products and specialising in particular segments of the production chain. 
+Furthermore, GVCs serve as critical facilitators of the international exchange of investment, 
+knowledge, and managerial practices that are in line with global standards, thereby 
+significantly bolstering domestic businesses. Gaining access to these globally recognised best 
+practices offers emerging economies unparalleled prospects for growth and the augmentation 
+of their export capabilities. (Mitra, Gupta, & Sanganeria, 2020)  
+However, India remains a fringe player in GVC. 
+India’s impact remains modest, representing only 
+1.5% of global GVC exports or $241 billion as of 2017, with 
+the largest share, about 10%, heading to the United States. Other key destinations 
+include Singapore (6.7%) , the People’s Republic of China(4.6%), and several European 
+countries. Exports to the US are largely in chemicals and metals, while exports to 
+China are predominantly raw materials. In contrast, services such as equipment rental 
+and transportation are the main GVC exports to Singapore. Additionally, India’s exports to 
+the European Union are diverse, ranging from metals to machinery rental services, as well as 
+textiles and electronics being significant GVC exports. (Mitra, Gupta, & Sanganeria, 2020). 
+With approximately 63 million Micro, Small, and Medium Enterprises (MSMEs) operating 
+in India, predominantly within sectors at the forefront of Global Value Chain (GVC) exports, 
+their integration into these chains is very important. However, they encounter a multitude 
+of challenges that hinder their ability to enter or advance within a value chain. MSMEs in 
+developing countries frequently find themselves constrained to lower value-added stages of 
+production due to the prohibitive investment and expertise required for more sophisticated 
+operations, risking functional downgrading or being perpetually confined to less profitable 
+niches. Additionally, while ascending a value chain presents more favorable opportunities for 
+learning and growth, it simultaneously imposes steeper entry barriers. These include stringent 
+quality standards, and the need for speed and adaptability, making it crucial for smaller firms 
+in these nations to align swiftly with the escalating demands. 
+India’s role in the global 
+economy has more than 
+doubled, from a
+contribution to world 
+output in 1990 to
+in 2017.
+1.4%
+3.2%
+India remains 
+a fringe player 
+in GVC. India’s 
+impact remains 
+modest, 
+representing 
+only 1.5% of 
+global GVC 
+exports or $241 
+billion as of 2017, 
+with the largest 
+share, about 10%, 
+heading to the 
+United States.

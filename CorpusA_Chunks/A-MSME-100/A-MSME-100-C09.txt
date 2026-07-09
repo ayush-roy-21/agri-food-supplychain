@@ -1,0 +1,260 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C09
+Parent Doc ID: A-MSME-100
+Page Range: Page 41 to Page 44
+Word Range: 10713 - 12172
+Word Count: 1,460
+--------------------
+
+[Page 41]
+41 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+The cost of credit is considerably high for MSMEs, 
+particularly for micro firms.  The average interest rate 
+for MSMEs is about 12.27%, which is much higher 
+than the current repo rate. 37 Micro firms pay an even 
+higher interest rate, averaging around 12.53% (Figure 
+20). In comparison, the average interest rate for small 
+and medium firms nearly one percent less (at about 
+11.59%). Interestingly, integrated firms, on average, 
+pay a slightly lower rate of interest (12.15%) than non-
+integrated firms (12.38%). 
+Figure 20:
+Distribution of enterprises by the 
+rate of interest on current loan 
+(in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+The majority of firms viewed high interest rates as a 
+significant barrier to obtaining loans.  About 21% of 
+the surveyed enterprises paid around 15% interest on 
+their loans. Nearly 70% of the surveyed enterprises 
+reported high interest rates as the primary concern 
+while applying for loans, followed by payment terms 
+(51%) and the long waiting period for approval (40%). 
+A relatively higher percentage of non-integrated firms 
+reported facing these difficulties than integrated firms. 
+MSMEs, especially non-digitalised ones, struggle 
+to secure collateral-free loans.  Only 23% of the 
+respondents have ever taken such loans, with over 
+50% being e-commerce integrated. Among integrated 
+firms, 51% found their e-commerce presence helpful in 
+raising external finance from banks and non-banking 
+financial corporations (NBFCs), particularly medium- 
+(60%) and small-size enterprises (55%) compared to 
+micro firms (48%). Additionally, Figure 21 illustrates 
+that 30% found e-commerce beneficial for collateral-
+free loans, with medium firms (33%) leading, followed 
+by small (31%) and micro (29%) firms. Thus, along 
+with the digital footprint, firm size plays a key role in 
+accessing formal finance.
+Figure 21:
+Distribution of enterprises 
+reporting that e-commerce 
+presence is useful in raising 
+collateral free loan (in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+0%
+37%
+55%
+6%
+2%
+0% 20% 40% 60% 80%
+<5%
+>5% to <10%
+>10% to <15%
+>15% to <20%
+More than 20%
+ Medium Small MicroOverall
+MSMEs’ Access to Finance
+30% 29% 31% 33%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+Overall Micro Small Medium
+
+[Page 42]
+42 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Using Digital Public Infrastructure to Improve  
+MSMEs’ Access to Finance: The Case of  
+Account Aggregator Framework
+The Account Aggregator (AA) is a data-driven digital public infrastructure that enables secure, 
+consent-based data sharing between financial institutions. This infrastructure is particularly 
+impactful for MSMEs, a segment traditionally constrained by limited access to formal credit due 
+to inadequate financial documentation and collateral-based lending norms. To address these 
+challenges, the AA framework establishes cash-flow-based lending as a viable alternative for 
+MSME lending. Lenders can assess creditworthiness based on actual business cash flows rather 
+than asset-backed guarantees by leveraging real-time transactional data from bank accounts, 
+Goods and Services Tax Network footprints, and other financial records. Additionally, lenders can 
+offer tailored credit products, reduce loan approval times, and lower interest rates for borrowers 
+with healthy cash flow patterns.
+Early use-case data shows that the cumulative unsecured business loans disbursed through 
+AAs are estimated at INR 135.77 billion for more than 115 thousand loans. Loans valuing INR 
+45.25 billion were disbursed to MSMEs in the first half of 2024-25, which translates into INR 7.5 
+billion monthly disbursements. Unsecured business loans to MSMEs account for around 10% of 
+the total loans facilitated by the AA Framework. Initial numbers indicate the AA ecosystem has 
+significantly impacted MSME loans. Large private banks reported a 30% increase in loans to the 
+Priority Sector Lending category, a 25% reduction in customer acquisition costs, and zero fraud 
+related to bank statements in AA-facilitated MSME lending. 
+Going forward, there is a need to expand the reach of such systems, particularly to improve 
+micro-enterprises’ financial access. New, high frequency robust data sources can be leveraged 
+by partnering with the private sector. For instance, data from e-commerce platforms can be 
+integrated into such networks as the financial information provider. By consolidating cash flow 
+and transaction data on MSMEs, e-commerce platforms have the potential to serve as key digital 
+financial intermediaries. This allows creditors to assess MSMEs’ cash flow and risk profiles, 
+enabling the customisation of financial products and pricing. At the same time, public sector 
+banks and non-banking financial corporations can be incentivised to join the network as financial 
+information users. 
+Source: Inputs from Sahamati - - Collective of Account Aggregator Ecosystem, ICRIER-ADBI Policy Brief (2024) and primary survey 
+inputs.
+
+[Page 43]
+43 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Few MSMEs engage in global trade, with medium 
+enterprises having a higher share of export-oriented 
+firms The survey found 16% of the surveyed 
+enterprises export their products, with medium firms 
+(22%) exporting more than small (16%) and micro 
+(15%) firms, highlighting the role of enterprise size in 
+export potential (Figure 22). Handicrafts, apparel, and 
+processed food products have the highest export share 
+among the surveyed categories.
+Figure 22: Distribution of enterprises by the 
+current status of exports (in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+Most firms began exporting post-COVID-19, often 
+after selling in the domestic market at first.  About 
+36% firms started exporting in 2020 and nearly 70% 
+did so after 2014. Only 11% exported in the year they 
+were incorporated, implying that international trade 
+was integral to their business model. Compared to this, 
+about 80% entered international markets two or more 
+years after they were set up, indicating they started 
+tapping export markets for growth.
+E-commerce platforms are the preferred export 
+medium for export-oriented integrated firms, including 
+for micro-enterprises.  While an equal percentage of 
+integrated and non-integrated firms export, about 93% 
+of the export-oriented integrated firms use e-commerce 
+marketplaces to export. However, the percentage 
+exported through e-commerce platforms is small, with 
+about 85% of the firms exporting less than 30% of 
+their total export sales through e-commerce platforms 
+(Figure 23). This is primarily because at this point, a 
+majority of the e-commerce exports are business-to-
+consumer in nature, rather than business-to-business. 
+Figure 23:
+Distribution of integrated 
+enterprises by the percentage 
+of export sales through 
+e-commerce only (in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+The export potential is not fully tapped yet.  Nearly 
+21% of the firms currently not exporting believe their 
+products have untapped export potential. A higher share 
+of firms in the sports goods (31%) and toys segment 
+6. Export Orientation of Enterprises
+16% 15% 16% 22%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Overall  Micro  Small  Medium
+6%
+63%
+15%
+5%
+7%
+4%
+0% 20% 40% 60% 80%
+Up to 10%
+>20-≤30%
+>30-≤40%
+>40-≤50%
+More than 50%
+>10-≤20%
+ Medium Small MicroOverall
+Export Orientation of Enterprises
+
+[Page 44]
+44 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+(24%) reported untapped export potential. Integrated 
+firms (24%) recognise this potential more than non-
+integrated (18%) ones. About 83% of integrated and 
+75% of non-integrated firms expressed a desire to start 
+exporting within the next 2-3 years (Figure 24). 
+Figure 24:
+Distribution of enterprises by 
+the plan to start exporting in 
+next 2-3 years and e-commerce 
+integration (in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+Information gaps and limited access to finance hinder 
+MSMEs’ foray into export markets . Nearly 46% of the 
+enterprises reported a lack of information on potential 
+partners and about 42% reported a lack of information 
+on opportunities and requirements in international 
+markets as the most prominent challenges hindering 
+their export potential. Other factors include non-
+conformity to product standards and a lack of financial 
+resources for export activities. 
+E-commerce linkages can help in addressing some of 
+these issues.  About 38% of the respondents believed 
+that by integrating on e-commerce platforms, they 
+can overcome certain challenges. Of these, about 
+56% pointed out that e-commerce has the potential 
+to improve access to finance, 53% perceived that they 
+can access markets through e-commerce platforms, 
+and 40% perceived that their presence on e-commerce 
+platforms can help improve product quality to meet 
+international standards (Figure 25). 
+Figure 25: Distribution of enterprises by perceived benefits of e-commerce integration in building 
+export potential (in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+83%
+17%
+75%
+25%
+0%
+20%
+40%
+60%
+80%
+100%
+Yes No
+Integrated with Ecommerce
+Not integrated with Ecommerce
+8%
+27%
+29%
+31%
+33%
+34%
+37%
+40%
+53%
+56%
+0% 20% 40% 60%
+Better understanding of regulatory policies
+Better understanding of product packaging requirements
+Improved inventory management skills
+Improved access to information about export markets
+Design improvement
+Improved understanding of product cataloguing
+Better understanding of product standards and
+requirements
+Improved quality of products
+Improved access to markets directly through platforms
+Improved access to ﬁnance
+Export Orientation of Enterprises

@@ -1,0 +1,135 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C06
+Parent Doc ID: A-RES-103
+Page Range: Page 18 to Page 20
+Word Range: 6946 - 8361
+Word Count: 1,416
+--------------------
+
+[Page 18]
+17 
+42. The audit team reviewed  9 examples of follow -up investigations after the detection of 
+residues of EU -banned substances (Group A6) . I nvestigations both at the processing 
+establishments and farms concerned took  place immediately (with a few COVID-
+related exceptions ), and the products or animals were detained, similar to what is 
+required in the EU  (24).  Said investigations included a review of the documentation in 
+the processing establishments such as production traceability records, reports of PHT  
+and PET, reports of in -house pre -purchase testing  etc. and follow -up sampling.  On 
+farms there was a review of the production cycle  logbooks for each pond, the sourcing 
+of larvae, feedingstuffs, disinfectants and other inputs , and f ollow-up samples  from 
+relevant ponds. These actions are similar to what is required in the EU (25). 
+43. Notwithstanding the actions that were taken, the  source of the non- compliance was not 
+identified in any of the 9 cases.  The official reports concluded  that the contamination 
+came from unknown/unidentified inputs. In one case, where a follow-up sample  had 
+been taken from feed, which was  non-compliant for chloramphenicol, no further action 
+had been taken to trace the affected feed back to the distributor or producer of the feed. 
+In a second case the official report highlighted that feed was suspected as a potential  
+source, but this hypothesis was not backed up by any sampling of the feed.  
+44. Dissuasive measures taken by the EIC and EIA at processing establishments in which 
+non-compliant results had been detected under the residues monitoring plan, consisted 
+of the destruction of the affected product, in some cases the temporary suspension of 
+the processing establishment, obligatory testing of five subsequent product ion batches 
+intended for export to the EU  and enhanced monitoring visits  as per  national 
+requirements (26).  At farm level, MPEDA informed the audit team, that no farm during 
+the last three years, from which non- compliant product had originated, had been 
+penalised in any way or had had their MPEDA enrolment suspended or withdrawn .  
+The latter is different to the EU requirements ( 27). At hatchery level, the audit team was 
+informed that in 2021/2022 the registration of 6 crustacean hatcheries, which had repeat 
+non-compliances for banned antimicrobials, had been temporarily suspended.  
+45. According to EIC and MPEDA , the imposition of penalties on aquaculture farms, such 
+as fines being levied or temporary or permanent closure, fall under the responsibility of 
+the States` fishery and coastal aquaculture authorities.  In the past, several states lacked 
+a legal basis to take such measures though the audit team was provided with evidence 
+that two states (Kerala and Andhra -Pradesh) now had such legislation  (
+28) in place 
+which allowed for the imposition of fines and revocation of licenses. Furthermore, in 
+2022, the main aquaculture -producing states had created district and task force  
+committees, mandated to implemented stringent measures to curtail the use of banned 
+ 
+(24)  Point 2 of Article 6 of Regulation (EU) 2019/2090. 
+(25) Point 4 of Article 6 of Regulation (EU) 2019/2090. 
+(26) Chapter 10.2.2 and 16.1.4. of the “Executive instructions for approval and monitoring of fish and fishery 
+products for export. 
+(27) Article 8 of Regulation (EU) 2019/2090. 
+(28) Kerala Fish Seed Act 2014, Kerala Inland Fisheries Aquaculture Act 2010 and Andhra Pradesh State 
+Aquaculture Development Authority Act 2020.
+
+[Page 19]
+18 
+antimicrobials in aquaculture  (29). Committee members  include district fisheries 
+officers, food safety department officers, drug control authority officers, representatives 
+of the revenue department , the police department, MPEDA and various stakeholders. 
+The committees are empowered to conduct checks at aquaculture shops ; manufacturing 
+companies and suppliers of drugs, probiot ics, chemicals, feeds and feed supplements; 
+farms and hatcheries to verify and take action on the possession and use of  
+unauthorised anti microbials in aquac ulture. Controls  can include sampling, label 
+checks, checks on veterinary medicinal products sales etc. Deterrent measures can be 
+imposed such as fines (first offence = 25 ,000 rupees ( €300); second offence 50, 000 
+rupees ( €600) or the revocation of license s. The latter would be similar to what is 
+required in the EU (30). 
+46. With regards to PET non-com pliances for banned substances, the EIAs are required to 
+do a documentary and on-the- spot control at the concerned processing establishment 
+and to verify that it has developed  a plan to avoid the reoccurrence of the non -
+compliance both at processing level and on the farms from which it had received the 
+crustaceans. The EIAs do not conduct  an on -the-spot follow -up investigation on the 
+farms concerned to verify if the measures im posed by the processing establishment 
+have actually been taken by the farmer. They also do not inform either MPEDA about 
+the implicated processing establishments and farms or the Co astal Aquaculture 
+Authorities about the farms.   
+5.1.5.2 Milk 
+47. The EIC and their EIA offices are responsible for the follow -up of non- compliances 
+found in the milk residue monitoring plan. Furthermore, documented procedures for the 
+management of non- compliant results are described in a specific EIC executive 
+instruction for milk (31), that includes key elements as applicable in the EU (32). 
+48. A significant proportion of the residue monitoring samples analysed in the last three 
+years for Group B3d ( aflatoxin M1) were  non-compliant ((2 018/2019: 90 samples and 
+34 non- compliances (3 7%), 2019/2020: 90 samples and 10 non- compliances (11%), 
+2020/2021: 51 samples and 19 non- compliances (37%)) . There were no  residue 
+monitoring plan non-compliances for any other substance group in the last three years, 
+though that might b e due to the fact that instructions were in place that clearly limited 
+the effectiveness of detecting substances included in Group A6 (banned antimicrobials), 
+Group B1 (antimicrobials) and Group B2a (anthelmintics) (see finding 14 and 67). 
+ 
+(29) Andhra Pradesh order G.O. MS. No 2 dated 11.01.2017; Goa order No DF/AQUA/TFC-Antibiotics-
+misuse- 2022-23/2644, dated 03.08.2022; Gujarat resolution No: FDV-132017-GOI-24-T, dated 
+30.08.2022; Karnataka order G.O. AHF E-113 FSFS 2019, dated 28.02.2020; Kerala order G.O.(Rt) No 
+290/2022/F&P, dated 11 May 2022; Maharashtra resolution No: Matsyavi 1122/CR 118/ADF 14, dated 
+15.06.2022; Odisha order No 13871-6/FARD dated 23.11.2017, Tamil Nadu order T.O. (Ms). No 54, dated 
+13.06.2022 and West Bengal order No 1640-FI-999/28/2022, dated 25 July 2022. 
+(30) A rticle 139 of Regulation (EU) 2017/625. 
+(31) General procedure CODE: PG-12/01 "Actions taken in the case of non-compliant foodstuffs". 
+(32) Regulation (EU) 2019/2090.
+
+[Page 20]
+19 
+49. The audit team reviewed nine  aflatoxin M1 results that were found between September 
+2020 and June 2022.  I n all cases the EIA quickly informed the processing 
+establishment to seize the a ffected product, identify the source of the contamination, 
+take corrective measures and requested a report summarising the outcome of actions to 
+the EIA. The o fficial follow-up investigation started promptly (in general within two 
+days) and included measures that were largely equivalent to those foreseen in EU 
+legislation (33) for example:  identification of  the source  of contamination, taking 
+follow-up samples , conducting on- the-spot visits, increasing the frequency of official 
+controls etc.  In two of the nine cases, the official follow-up investigation report did not 
+describe the (final) outcome of the investigation.  The competent authority informed the 
+audit team that new leg islation on animal feed is currently in the process of being  
+developed and will include measures that aim to prevent the contamination of feed with 
+aflatoxin B1.  
+50. The source of contamination was in all cases identified as feed that had been 
+contaminated with aflatoxins. Feeds used at the dairy farms supplying milk to the dairy 
+processing establishments, were largely treated with mycotoxin binders, but data seen 
+by the audit team indicated that these are effective in about 70% of the treated feed. In 
+one case seen by the audit team, follow -up samples taken from 339 batches of feed that 
+had been treated with  the mycotoxin binder revealed that 39 remained non-compliant 
+for aflatoxins after the treatment.  
+5.1.5.3 Poultry 
+51. The EIC and their EIA offices are responsible for the follow -up of non- compliances 
+found in the poultry residue monitoring plan. Furthermore, documented procedures for 
+the management of non-compliant results are described in chapter 10 of the poultry EIC 
+executive instruction and chapter 11 of the residue monitoring plan for poultry, these  
+largely include ke y elements as applicable in the EU  (
+34). There have been no non -
+compliances in poultry residue monitoring plan samples since 2020. 
+ 
+(33) Articles 4 and 5 of Regulation (EU) 2019/2090.  
+(34) Regulation (EU) 2019/2090.

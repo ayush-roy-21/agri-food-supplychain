@@ -1,0 +1,124 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C02
+Parent Doc ID: A-MSME-102
+Page Range: Page 18 to Page 20
+Word Range: 1251 - 2656
+Word Count: 1,406
+--------------------
+
+[Page 18]
+18
+Learnings and Recommendations 
+from National-Level Policies
+Access to Finance1.
+ » One of the foremost learnings at the national level pertains to the crucial role of the Credit Guarantee Fund Trust 
+for Micro and Small Enterprises (CGTMSE) in facilitating credit for MSMEs. However, the Trust currently operates 
+without the desired level of regulatory oversight, leading to challenges in balancing fund availability with the financial 
+discipline required for sustainable growth. Bringing the CGTMSE under a robust regulatory authority could help 
+mitigate these concerns. 
+ » Another important measure is to use CGTMSE to promote women’s entrepreneurship. This could be done by 
+increasing the guaranteed coverage to 100% for businesses led by women founders. Additionally, reducing CGTMSE 
+premium rates can significantly increase its adoption by micro and small enterprises, which often struggle to afford 
+higher premiums. Transparency around premium rates is also essential, and banks should be required to disclose 
+these details on their websites or on the CGTMSE portal. 
+ » Beyond strengthening CGTMSE, Non-Banking Financial Companies (NBFCs) have emerged as a vital source of credit 
+for MSMEs, especially micro-sized enterprises in remote areas. Their quicker lending decisions, niche specialization, 
+and faster services have contributed to NBFCs’ rapid growth in the MSME credit space. However, NBFCs’ borrowing 
+costs from banks are typically high due to collateral requirements and risk premiums, making it challenging for them 
+to offer competitive interest rates to MSMEs. This situation underlines the need for better on-lending structures 
+and the provision of lower-rate wholesale funding to NBFCs. The Standing Committee on Finance (17th Lok Sabha) 
+acknowledged this gap and suggested the Small Industries Development Bank of India (SIDBI) expand its balance 
+sheet to provide more extensive wholesale financing to NBFCs. While the Ministry of Finance has indicated that 
+SIDBI is well-capitalized for its projected growth, the Committee insists on further scaling SIDBI’s role to directly 
+invest in smaller NBFCs, thereby improving their governance, operational capacity, and access to affordable funds. 
+ » Another recommendation involves reinstating earlier norms under Priority Sector Lending (PSL), allowing bank 
+loans extended to NBFCs for further lending to MSMEs to be classified as indirect finance to MSMEs. This would 
+incentivize banks to support NBFCs, especially when combined with credit insurance schemes by IRDAI that could 
+mitigate NBFCs’ risk perceptions and encourage the flow of credit to micro-enterprises. In combination, these 
+reforms aim to strengthen the credit ecosystem for MSMEs and promote financial inclusivity.
+Addressing Skilling Challenges 
+Faced by MSMEs
+2.
+Skilling remains a cornerstone for MSME competitiveness and growth. Present data indicates that a significant percentage 
+of India’s workforce falls under Skill Level 1 (low-skilled) and Skill Level 2 (semi-skilled), with fewer workers at higher skill 
+levels. According to the Periodic Labour Force Survey (PLFS), the proportion of the workforce aged 15 to 59 lacking formal 
+vocational or technical training, while declining, still remains substantial.  To bridge this skills gap, forging partnerships
+
+[Page 19]
+19
+Technological Development in 
+MSMEs
+3.
+Enhancing Supply Chains
+The technological development of MSMEs is closely linked with robust supply chain integration. Improved supply chains 
+can help MSMEs harness global value chains (GVCs), boosting their exports and competitiveness. Although India’s 
+GVC participation has risen over the years, it remains below that of major economies and regional competitors. The 
+government can facilitate process innovation, reduce costs, and improve product management within MSME clusters 
+by prioritising efficient logistics, digital linkages, and smart trade infrastructure. Streamlining supply chains also brings 
+broader benefits, such as stabilizing food prices by reducing bottlenecks in essential commodities. In sectors like 
+textiles and food processing, targeted initiatives—ranging from building electronic linkage platforms to funding trade 
+fairs—can spur innovation and market access. 
+between government bodies, educational institutions, and industries can prove invaluable. These collaborations can 
+create new, dynamic curricula and training modules, including shorter, flexible programs, that meet the evolving 
+needs of MSMEs. To ensure training relevancy, boards or councils mandated with periodically reviewing and updating 
+occupational standards should be formed. Further, cost-sharing or grant-based models to subsidize the costs of 
+training and technology adoption for micro-enterprises can go a long way in encouraging widespread participation. 
+By identifying granular skill demands, states can better align training programs with industrial requirements, thus 
+boosting MSME productivity.
+Artificial Intelligence (AI) holds immense potential for MSMEs, but adoption barriers remain high. Many MSMEs lack 
+familiarity with India’s data protection laws and are unaware of how to ensure data compliance when integrating AI. 
+Government-led awareness campaigns and simplified guidelines on data protection can encourage responsible AI use 
+and reduce the risk of non-compliance. A shortage of qualified AI professionals is another critical hurdle: many MSMEs 
+lack the in-house expertise to evaluate, select, and implement AI solutions. Collaborative platforms connecting MSMEs 
+with academic institutions, AI consultants, and larger tech companies can bridge this skills gap. Affordability is another 
+persistent challenge, especially with AI tools, as computing infrastructure and training costs remain prohibitive for 
+smaller enterprises. Targeted financial assistance—such as grants, subsidies, tax incentives, or low-interest loans—and 
+cloud-based, pay-as-you-go AI solutions can make advanced technologies more accessible. Such interventions would 
+align with the finding that most MSMEs want AI to be both affordable and equitably accessible.
+Enhance Risk Management through Digital and Insurance Solutions
+Integrating AI in MSMEs
+MSMEs benefit greatly from affordable digital risk management solutions, particularly those in sectors with extended 
+supply chains like food processing. Real-time monitoring tools, such as sensor-based tracking, can reduce inventory 
+risks, optimize logistics, and limit damage during transit. Insurance combined with these digital tools adds another 
+layer of protection against operational shocks. Drawing on experiences from countries like Thailand and Malaysia, 
+where combining sensor-based tracking with insurance has proven successful, India could encourage a similar model 
+for its MSMEs. Collaborations between insurance providers and technology firms that offer training, awareness, and 
+affordable insurance packages could greatly enhance MSME resilience.
+
+[Page 20]
+20
+Increasing Institutes for 
+Collaboration (IFCs)
+4.
+Institutions for Collaboration (IFCs), as conceptualized by Porter and Emmons, include both formal and informal actors 
+that foster cluster development. These bodies support R&D, productivity enhancement, and process innovation, all 
+vital to MSMEs that typically struggle with limited resources. India’s Micro and Small Enterprises-Cluster Development 
+Programme (MSE-CDP) has instituted Common Facilitation Centres (CFCs). Still, there is a pressing need to elevate 
+them to align with the standards of robust IFCs.Strengthening existing or emerging IFCs could involve consolidating 
+membership, fostering knowledge networks among universities, private entities, and research institutes, and promoting 
+consistent information sharing. Such collaborative entities can accelerate product development, bridge skill gaps, and 
+ensure that MSMEs have better access to the latest technologies. Additionally, re-examining property rights frameworks 
+is important to build trust among stakeholders, so that proprietary information shared within IFCs remains protected.
+The widespread adoption of state-level MSME policies has fostered a conducive environment for enterprise growth, yet 
+awareness and effective utilization remain limited. States should improve information dissemination through targeted 
+awareness campaigns, ensuring that MSMEs fully understand and access available schemes. Enhanced stakeholder 
+engagement during policy formulation, incorporating direct feedback from MSMEs and industry stakeholders, can 
+tailor support measures to actual needs, addressing critical gaps like inadequate financial and technical support. Not 
+all states have MSME specific policies, states which have those policies it is not updated.  In access to finance, states 
+should reconsider existing interest subsidy schemes that often exclude micro-enterprises due to restrictive turnover 
+requirements. Alternative financing mechanisms—such as cash-flow-based lending, equity financing, factoring, and 
+venture capital—should be explored to meet the unique needs of smaller firms. Expanding structured insurance 
+frameworks beyond isolated examples can offer essential risk mitigation, enabling MSMEs to invest more confidently.
+Market access for MSMEs can be improved by addressing capacity constraints in diversification and scaling. Expanding 
+export incentives to include smaller enterprises and investing in digital marketing and e-commerce training can bridge 
+skills and resource gaps. Partnerships with logistics providers and investments in infrastructure will facilitate seamless 
+supply chains, allowing MSMEs to penetrate broader domestic and global markets. States should design modular, short-
+term, and flexible training programs to bolster skill development, particularly targeting rural micro-enterprises. Free or 
+highly subsidised online or on-site training can reduce opportunity costs and update workforce skills in line with industry 
+advancements. 
+Improving access to technology and infrastructure requires a tiered approach. States should focus on foundational 
+needs such as reliable power, co-working spaces, and shared machinery for micro-units while supporting advanced R&D 
+for medium and larger enterprises. Efforts to reduce infrastructure costs—through renewable energy solutions, shared 
+power facilities, and affordable industrial park rentals—will enhance operational stability. Finally, consistent monitoring, 
+Learnings from the State’s MSME 
+policies

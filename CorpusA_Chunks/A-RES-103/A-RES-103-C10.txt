@@ -1,0 +1,146 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C10
+Parent Doc ID: A-RES-103
+Page Range: Page 30 to Page 32
+Word Range: 12620 - 14209
+Word Count: 1,590
+--------------------
+
+[Page 30]
+29 
+and 28 days  for meat.  Even for poultry the withdrawal period was often 28 days  for 
+meat which, if followed would mean  that broilers could not be legally treated after a 
+week of age. 
+89. The competent authority informed the audit team that national legislation does not 
+allow “off-label use”, thus t he use of human medicinal products for food-producing 
+animals or veterinary medical products authorised for species other than the one 
+indicated in the label instructions . However, in two pharmacies  visited by the audit 
+team, human medicines had been prescribed for food- producing animals. In one case 
+this concerned the nitroimidazole tinidazole (not approved in the EU for food-
+producing animals). In another case, a  product containing doxycycline  (even though 
+there are approved veterinary medicinal products containing doxyc ycline). The latter 
+example is different to what is required in the EU (73).  
+90. Similar to the  situation in the EU  (74), national rules  (75) require farmers to keep 
+treatment records  at dairy, poultry and aquaculture farms.  The audit team found that 
+with regards to dairy farms, there was a central electronic treatment record database at 
+the dairy processing establishment visited, which recorded all treatments administered 
+on its affiliated dairy farms by or under the supervision of the  establishment’s 
+veterinarians. The audit team could verify at the processing establishment, the two milk 
+collection centres a nd the two f arms visited, that the recorded information was similar 
+to what is required in the EU  (76). Nevertheless, not all treatments were recorded.  For 
+example the  annual deworming (using albendazole, fenbendazole, triclabendazole or 
+closantel, the latter two of which are not included in the residue monitoring plan ) or 
+ectoparasitic treatment (using cypermethrin and amitraz) campaigns conducted by the 
+state´s veterinary service.  In the two collection centres visited, the audit team 
+established that that milk from dairy cattle had been delivered to the processor within 
+the withdrawal period of the substances used in the deworming campaigns.   
+91. For poultry, the on-farm treatment records on the two poultry farms visited includ ed 
+treatments with neomycin, chlortetracycline and the anti coccidial amprolium. The two 
+processing establishment s visited by the audit team had a process in place which 
+required that treated poultry could not be delivered to the establishment but only sold 
+on the local market after the expiration of a 28 day withdrawal period. The information 
+provided in the on- farm record was largely in line with what would be expected in the 
+EU (
+77).  For aquaculture, there was a register of inputs  on the farm visited but t here 
+had been no treatment s with veterinary medicinal products in recent times. There are 
+also national rules  (78) applicable to aquaculture farms allowed to produce for the EU 
+ 
+(73) Point 1(c) of Article 113 of Regulation (EU) 2019/6. 
+(74) Article 108 of Regulation (EU) 2019/6.  
+(75) Point 7.3 and points 2.3(j), 3.2(b) and 4.2 (d) of the Annex IC to Executive Instructions for Export of Milk 
+and Milk Products (2022); Point II.6 (b) of the Annex IC to the Executive Instructions for Export of Fresh 
+Poultry Meat and Poultry Meat Products (2015) and Appendix C (Traceability record) of the Executive 
+Instructions for Approval and Monitoring of Fish and Fishery Products for Export.  
+(76) Article 108 of Regulation (EU) 2019/6.  
+(77) Article 108 of Regulation (EU) 2019/6.  
+(78) Articles 6(5) and 13 of Notification S.O. 497 (E) dated 10th March 2011
+
+[Page 31]
+30 
+market; they  shall only source feed, or if authorised, medicated feed, from EIC -
+approved and registered feedmills. 
+92. There is no  legislation in place for the labelling of premixes of medicated feeding 
+stuffs, feed additives, medicated feed or feed. Thus, the producer is at liberty to decide 
+what information is provided on labels of such products . The audit team saw at the 
+visited pharmacies nutritional supplements for cattle which included no information on 
+the ingredients.  The EIC informed the audit team that legislation to establish such a 
+system is currently under preparation by the Food Safety and Standards Authority of 
+India.  
+ 
+Conclusions on authorisation, distribution and use of veterinary medicinal products 
+93. While there is a system in place for the authorisation, distribution and use of veterinary 
+medicinal products it differs significantly from that in the EU and practices which are 
+not foreseen in the EU are, consequently, permitted in India, such as “off-label use” of 
+human medicinal products  in food -producing animal species.  Cumulatively these 
+differences detract from whatever guarantees on the residues status of food are 
+afforded by the various residue monitoring plans in place.   
+5.2.2 Official controls on distribution and use of veterinary medicinal products 
+Findings 
+94. According to national legislation (79) the manufacturers and retail outlets for veterinary 
+medicinal products should be inspected regularly which is similar to what is required in 
+the EU (80). The minimum yearly inspection frequency at wholesalers and pharmacies 
+visited by the audit team in three states was complied with by the respective SDLAs.  
+95. Inspections of drug outlets covered the licensing, labelling (species logo, expiry dates,  
+withdrawal periods), storage conditions, and presence of unauthorised s ubstances. The 
+SDLA inspectors also took occasionally samples to check if the content of 
+pharmacologically active substances in the medicinal products is in line with label 
+indications, which is similar to the EU requirements (81). Inspections at pharmacies and 
+wholesalers visited by the audit team were well documented using a template provided 
+for in national legislation  (82) and the SDLA officers promptly informed a licensee in 
+writing of any case of non- compliance identified, which is similar to the EU 
+requirements (83).  
+96. Due to an incomplete CDSCO or SDLA list of approved veterinary medicinal products 
+(see finding 83), SDLA inspectors were not in a position to  verify if a veterinary 
+medicinal product found at a wholesaler, pharmacy or on a farm was  indeed approved 
+ 
+(79) Articles 50, 51 and 52 of Part V of the Drugs and Cosmetics Act and Rules 
+(80) Points 1 and 2 of Article 123 of Regulation (EU) 2019/6. 
+(81) Point 6 of Article 123 of Regulation (EU) 2019/6. 
+(82) Form 35 of Schedule A of the Drugs and Cosmetics Act and Rules 
+(83) Point 2 of Article 123 of Regulation (EU) 2019/6
+
+[Page 32]
+31 
+and if the label information on target species, pharmacologically active substances or 
+withdrawal periods were in line with  the approval. SDLA staff me t by the audit team, 
+stated that they have to trust the labelling information on the veterinary medicinal 
+products, as the existing list of approved veterinary medicinal products was incomplete 
+and as it was not practically feasible to access the Veterinar y Monographs of the Indian 
+Pharmacopoeia for such information.  
+97. In the two wholesalers and two of the three pharmacies visited by the audit team, there 
+was a register of the products sold which contained the information required by national 
+legislation (84). However, given the national requirements for retention of prescriptions 
+(see finding 81), the SDLA inspectors met during the audit stated that it would only be 
+possible to detect a n illegal sale without prescription for a schedule H drug if it took 
+place while the inspectors were present.  Furthermore, the SDLA inspectors stated that 
+they cannot check if the name entered under “prescribing doctor” on the sales receipt is 
+a licensed veterinarian/doctor for schedule H drugs , as the prescriber’s contact details 
+do not need to be kept in a register at the pharmacy.   
+98. With regards to o fficial controls on the use of veterinary medicin al products , SDLA 
+officers met by the audit team stated that they do not conduct official controls on the 
+use of veterinary medicinal products at feed mills  or at farm- level. At aquaculture 
+hatcheries and on aquaculture farms such controls t ake place during the approval of a 
+farm and in the context of any follow-up investigation of residue monitoring plan non-
+compliances.   
+99. As regards dairy farms, the audit team was informed that 1  out of the 710,000 farms 
+supplying the visited dairy processing establ ishment had been subject to such controls 
+when it had been initially approved and at its  quarterly monitoring visit.  Controls on 
+use also ha ve to take place in the context of follow -up investigations of residue 
+monitoring plan non-compliances.  
+100. As regards poultry farms, a  minimum of three poultry farms that are identified by the 
+processing establishment they supply need to be officially monitored each year to 
+verify, inter alia, the use of veterinary medicinal products at the farm. Evidence was 
+provided to the audit team, that such controls took place at  4 out of 723 farms  
+delivering to one of the two processor s visited and 4 out of 92 farms delivering to the 
+second processor visited (see finding 15).  
+101. EIC-approved feed mills producing feed for aquaculture farms registered to produce for 
+export to the EU , have to undergo regular official controls as per national 
+legislation (85). EIC instructions state that after the approval of the feed  mill and two 
+initial monitoring visits at 6 and 12 months after approval, subsequent monitoring visits 
+shall happen yearly. During these visits it is to be checked , inter alia, if traceability and 
+labelling records of feed is proper and if the incorporation of feed additives and 
+premixes, the storage, handl ing and use of medicate d feeding stuff s are done  as 
+ 
+(84) Drugs and Cosmetics Act and Rules 
+(85) Article 11 of S.O. 730 (E) dated 21st August 199 and amended by Notification S.O. 497 (E) dated 10th 
+March 2011

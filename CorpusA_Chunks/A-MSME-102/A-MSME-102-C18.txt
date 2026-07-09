@@ -1,0 +1,223 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C18
+Parent Doc ID: A-MSME-102
+Page Range: Page 92 to Page 97
+Word Range: 22789 - 24385
+Word Count: 1,597
+--------------------
+
+[Page 92]
+92
+Learnings and 
+Recommendations
+
+[Page 93]
+93
+GVCs serve as critical facilitators of the international exchange 
+of investment, knowledge, and managerial practices that are 
+in line with global standards, thereby significantly bolstering 
+domestic businesses
+Learnings and 
+Recommendations from 
+National-Level Policies
+1.
+A. Access to Finance
+i. Overhauling CGTMSE fund for Growth and Accessibility of MSME Credit
+ii. Scaling up NBFCs
+The Trust managing the CGTMSE fund lacks regulatory authority and oversight in its 
+operations, governance, and access to state-owned funds. The government should 
+bring the Trust under a regulatory authority to balance fund availability with financial 
+discipline and support low-end entrepreneurial activities. Guarantee coverage 
+should be raised to 100% for units led by women promoters to encourage women 
+entrepreneurship. Also, there is a need to reduce CGTMSE premium rates to encourage 
+even more wider adoption by micro and small enterprises. Lowering CGTMSE premium 
+rates will expand access for micro and small enterprises. Also, to enhance transparency, 
+the details of applicable CGTMSE premiums should be disclosed on participating banks’ 
+websites or the CGTMSE portal for every member bank. 
+Non-Banking Financial Companies (NBFCs) are increasingly becoming a preferred 
+source of credit for MSMEs, particularly micro-sized enterprises, due to their ability 
+to reach remote areas, make quicker lending decisions, provide prompt services, and 
+specialise in niche segments. During Q1 of FY24, NBFCs accounted for 14% of MSME 
+credit demand, witnessing the fastest growth at 39%. The time-series graph below 
+shows that while private banks have a large share of originations and continue to grow, 
+NBFCs are growing their share in small and medium segments
+
+[Page 94]
+94
+MSME Loan 
+Disbursement/ 
+Origination by 
+Lender
+Fig. 18
+0%
+0%
+0%
+10%
+10%
+10%
+20%
+20%
+20%
+30%
+30%
+30%
+40%
+80%
+40%
+50%
+50%
+50%
+Jan - 20
+Jan - 20
+Jan - 20
+Jan - 21
+Jan - 21
+Jan - 21
+Jan - 22
+Jan - 22
+Jan - 22
+Jan - 23
+Jan - 23
+Jan - 23
+Micro
+Small
+Medium
+PSB
+Private
+NBFC
+Others
+
+[Page 95]
+95
+However, a major challenge for NBFCs lies in offering credit at competitive interest rates, 
+which typically range between 15-25%, depending on the borrowing costs they face from 
+banks. Assessing the creditworthiness of MSMEs also remains a time-intensive process, 
+requiring significant effort to analyse cash flows and build accurate credit scores. Additionally, 
+banks often lend to NBFCs based on collateral, further driving up borrowing costs and 
+limiting their ability to offer affordable credit. The lack of access to lower-rate funding and 
+inefficiencies in the on-lending process further restrict NBFCs' capacity to meet the MSME 
+sector's credit needs effectively.
+The 46th report of the Standing Committee on Finance (17th Lok Sabha), titled “Strengthening 
+Credit Flows to the MSME Sector”, observed that SIDBI's loan portfolio in FY21 stood at only 
+₹1.56 lakh crore, which was significantly smaller—around one-fourth—of NABARD's ₹6.03 
+lakh crore portfolio during the same period. This highlighted the need for SIDBI to expand its 
+balance sheet to better support the financial institutions serving MSMEs. To address this, the 
+Committee recommended strengthening SIDBI’s equity base, noting that an enhanced capital 
+base would substantially boost SIDBI’s ability to provide wholesale financing to NBFCs catering 
+to the MSME sector.
+While the Ministry of Finance (in the 68th report about “Action taken by the Government on 
+the Observations/Recommendations contained in the Forty-Sixth Report (17th Lok Sabha) 
+on the subject ‘Strengthening Credit Flows to the MSME Sector”) responded that SIDBI 
+is currently well-capitalized to meet its projected growth, the Committee emphasised the 
+importance of further scaling SIDBI’s role as the principal financial institution for MSMEs. 
+Given the challenges NBFCs face in accessing wholesale financing and raising funds at 
+competitive rates, the Committee suggested that SIDBI could play a pivotal role by investing 
+in smaller NBFCs to improve their capacity and corporate governance, thereby transforming 
+them into stronger financial intermediaries.
+To further support the MSME sector, the Committee proposed 
+several measures: loans from banks to NBFCs for on-lending to 
+MSMEs should be classified as indirect finance to MSMEs under 
+Priority Sector Lending, as was the case before 2011. Additionally, 
+the introduction of credit insurance by IRDAI through insurance 
+companies could help mitigate risk perceptions for NBFCs 
+and MFIs, enabling greater credit flow to MSMEs, 
+particularly micro-enterprises. These steps would ensure 
+that SIDBI’s role becomes more impactful and aligned 
+with the needs of the MSME 
+sector.
+This highlighted 
+the need for 
+SIDBI to expand 
+its balance sheet 
+to better support 
+the financial 
+institutions 
+serving MSMEs
+
+[Page 96]
+96
+SOME TAXATION ISSUES OF MSMEs
+The Finance Act 2023 introduced a new rule, Section 43B(h), which requires 
+businesses to pay their MSME suppliers within 45 days to claim tax deductions. This 
+has caused significant concern among MSMEs, as it can disrupt their cash flow and 
+lead to potential financial losses since buyers (of MSMEs’ products) can reorient 
+their sourcing and purchasing preferences to non-MSME sellers. Many industry 
+bodies, such as CAIT and CMAI, have appealed to the  government to reconsider the 
+implementation of this rule, citing its potential negative impact on the MSME sector.
+MSMEs face complex GST compliance requirements, including filing multiple 
+returns (e.g., TCS, ISD, and annual returns) across states. This demands significant 
+administrative effort and technical expertise, which MSMEs often lack. Usually, it’s 
+the proprietor himself managing accounting and book-keeping tasks. 
+Issues relayed to Input Tax Credit: When payments 
+extend payment terms beyond 180 days (sometimes 
+due to specific terms in the agreement), the input 
+tax credit can be reversed. This means working 
+capital blockages for MSMEs and the additional 
+burden of reclaiming ITC upon payment. 
+B. Addressing skilling challenges faced by MSMEs
+The data shows that a significant portion of the workforce is concentrated in Skill Level 1 (low-
+skilled) and Skill Level 2 (semi-skilled) categories, while highly skilled workers (Skill Levels 3 and 
+4) remain limited. At the same time, for example, there have been significant advancements 
+in India’s Biotech Innovation Ecosystem. Over nine years, for example, BIRAC has facilitated 
+the creation and support of 4,800 startups and entrepreneurs and helped establish 95 bio-
+incubators across 21 states/UTs. This has led to the creation of 35000 high-skilled jobs. Such 
+developments call for investments in STEM education, and initiatives like the Skill India Mission 
+should be tailored to the requirements of a fast-evolving job market, emphasising innovation 
+and technological advancements.
+Analysis of PLFS data shows that a substantial proportion of the workforce aged 15 to 59 
+lacks formal vocational or technical training. While the proportion has decreased from 91.9% 
+in 2017-18 to 72.6% in 2022–23, it still indicates a significant gap in formal skill development 
+for a substantial segment of the Indian workforce. Creating partnerships between industries, 
+educational institutions, and the government can help design curriculum and training modules 
+that equip workers with skills relevant to future job markets. Implementing shorter courses, 
+online/hybrid training and on-site training options can accommodate the diverse needs of 
+MSMEs.
+
+[Page 97]
+97
+C. Technological Development in MSMEs
+i. Enhancing Supply Chains
+Enhancing supply chain linkages for the technological development of MSMEs is critical to 
+improving their efficiency, competitiveness, and global participation. Governments play a 
+pivotal role in this process by fostering collaborative initiatives across sectors, strengthening 
+supply chain integration, and addressing key impediments to growth. Here are several reasons 
+why this is essential:
+Efficient supply chains enable MSMEs to integrate into GVCs, facilitating their involvement 
+in international trade. Despite progress, India’s GVC participation (40.3% of gross trade in 
+2022) lags behind not only major economies like the USA (43.7%) and Japan (46.6%) but also 
+regional competitors like South Korea (56.2%) and Malaysia (60%) as per Economic Survey 
+2024. Enhancing supply chain linkages can help bridge this gap, fostering economic growth 
+and global competitiveness. Supply chains act as critical drivers for increasing the Gross Value 
+Addition (GVA) of MSMEs by streamlining operations and reducing inefficiencies. Investments 
+in supply chain technology, such as electronic linkages in the textile industry, can lead to 
+process innovation, better quality control, and improved product management, thus boosting 
+GVA and operational efficiency. Pressure within supply chains significantly impacts prices, 
+especially for essential commodities like food. By addressing bottlenecks and enhancing 
+supply chain efficiency, governments can help stabilize food prices, a crucial factor in ensuring 
+food and nutrition security. Complex supply chains influence competitive export pricing, 
+even within domestic markets. By simplifying procedures, improving trade infrastructure, and 
+facilitating trade measures, MSMEs can offer globally competitive pricing, enhancing their 
+export potential. Targeted government initiatives can unlock sectoral potential. For instance, 
+investments in electronic supply chain infrastructure in textiles and government support for 
+MSMEs in food processing through trade fairs and export promotion programs can drive 
+innovation, quality improvement, and market access. Agriculture and allied sectors, integral to 
+India’s economy, face challenges like climate change and resource sustainability. 
+Occupational standards tailored to MSME needs should be created and regularly updated to 
+ensure relevance and quality. Further, boards or councils which continually review and update 
+training curricula to keep pace with industry changes and technological advancements should 
+be created. 
+To upskill and train, affordable and more accessible cost-sharing models can be explored. 
+These can also be explored by providing grants to micro-enterprises that can offset the costs 
+of training and technology adoption initiatives. They can also include options for training 
+existing and new employees.
+The government in Andhra Pradesh recently proposed an important initiative: a Skill Census. 
+Such an exercise can comprehensively assess current skill levels across the state’s regions and 
+sectors. All states can undertake this activity. This will help map out the exact skills that are 
+deficient and in line with industry demands at a granular level. 
+The government 
+in Andhra 
+Pradesh recently 
+proposed an 
+important 
+initiative: a Skill 
+Census.

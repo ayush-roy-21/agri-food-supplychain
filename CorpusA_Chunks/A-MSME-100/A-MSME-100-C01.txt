@@ -1,0 +1,184 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C01
+Parent Doc ID: A-MSME-100
+Page Range: Page 1 to Page 8
+Word Range: 1 - 1212
+Word Count: 1,212
+--------------------
+
+[Page 1]
+1 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Indian Council for Research on  
+International Economic Relations
+THE ROLE OF DIGITALISATION IN ENTERPRISE DEVELOPMENT
+ANNUAL SURVEY OF MICRO, SMALL 
+AND MEDIUM ENTERPRISES IN INDIA
+TANU M. GOYAL 
+HAVISHAYE PURI 
+RIYA KHANNA
+MARCH 2025
+
+[Page 3]
+3 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+MARCH 2025
+Indian Council for Research on  
+International Economic Relations
+THE ROLE OF DIGITALISATION IN ENTERPRISE DEVELOPMENT
+ANNUAL SURVEY OF MICRO, SMALL 
+AND MEDIUM ENTERPRISES IN INDIA
+
+[Page 4]
+Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India: 
+The Role of Digitalisation in Enterprise Development 
+Tanu M Goyal, Havishaye Puri and Riya Khanna
+ISBN: 978-81-986536-3-5
+Copyright © 2025 by the Indian Council for Research on International Economic Relations (ICRIER) 
+Published by the Indian Council for Research on International Economic Relations (ICRIER) in March 2025
+Recommended citation: Goyal, T.M., Puri, H. & Khanna, R. (2025). Annual Survey of Micro, Small and 
+Medium Enterprises (MSMEs) in India: The Role of Digitalisation in Enterprise Development. Indian Council 
+for Research on International Economic Relations (ICRIER) 
+All Rights Reserved 
+No part of this report shall be reproduced, stored in a retrieval system, or transmitted by any means, 
+electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of 
+the copyright holder(s) and/or publishers. Photographs in this report: All photographs have been digitally 
+procured by ICRIER, with permission from commercial websites selling photographs, official field trips and 
+by courtesy of respective organizations and individuals for the purpose of publishing this report.
+Disclaimer 
+Opinions and recommendations in the report are exclusively of the author(s) and not of any other individual 
+or institution including ICRIER. This report has been prepared in good faith on the basis of information 
+available as on the date of publication. All interactions and transactions with industry sponsors and their 
+representatives have been transparent and conducted in an open, honest and independent manner as 
+enshrined in ICRIER’s Memorandum of Association. ICRIER does not accept any corporate funding that 
+comes with a mandate not aligned to ICRIER’s research agenda. The corporate funding of an ICRIER activity 
+does not, in any way, imply ICRIER’s endorsement of the views of the sponsoring organisation or its products 
+or policies. ICRIER does not conduct research that is focused on any specific product or service provided by 
+the corporate sponsor
+
+[Page 5]
+5 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+TABLE OF  
+CONTENTS
+Preface 7
+Acknowledgments 8
+List of Abbreviations 9
+Key Highlights of the Report 11
+Executive Summary 13
+1. Introduction 17
+2. Survey Framework and Data Collection Process  20
+3. Characteristics of the Sample  25
+4. Leveraging E-commerce Platforms 31
+5. MSMEs’ Access to Finance 39
+6. Export Orientation of Enterprises  43
+7. Challenges and the Way Forward 45
+References 47
+Appendix 50
+
+[Page 6]
+6 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+
+[Page 7]
+7 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+This is the third edition of ICRIER’s annual survey on 
+micro, small, and medium enterprises (MSMEs) in India. 
+The survey aims to assess the impact of digitalisation, 
+particularly e-commerce platforms, on MSMEs’ 
+business growth and development. Using primary 
+survey data, it focuses on understanding how digital 
+adoption influences enterprise expansion and growth 
+prospects in India.
+ICRIER’s MSME surveys were initiated in 2021 in 
+response to the COVID-19 pandemic, which severely 
+impacted the MSME sector. Identifying strategies that 
+could help businesses survive during periods of physical 
+restrictions became crucial. Digitalisation emerged as a 
+key solution, as many firms turned to online platforms 
+to reach markets. Consequently, in 2021, a survey 
+of around 1,500 manufacturing MSMEs, integrated 
+with e-commerce platforms was conducted. An inter-
+temporal assessment compared firms’ post-pandemic 
+performance to pre-pandemic levels, focusing on online 
+sales to evaluate digitalisation’s role in the survival of 
+firms.
+In the second edition (2022-23), the survey expanded 
+into a longitudinal study with a cross-sectional sample, 
+equally divided between e-commerce-integrated 
+and non-integrated firms. This comparison aimed to 
+evaluate how integration impacts business outcomes. 
+Around 2,000 MSMEs were surveyed using purposive 
+sampling and a cluster-based approach to minimise 
+bias. Besides core business performance indicators 
+such as sales, employment, and profit, the study also 
+briefly assessed issues like MSMEs’ access to finance.
+For this edition, 2,365 firms were surveyed in 2024 
+to further compare integrated and non-integrated 
+businesses. While previous surveys have established 
+the key benefits, such as increased sales, higher profit 
+margins, and positive effects on employment, this study 
+also focuses on examining the second-order effects of 
+digitalisation on MSMEs. Specifically, it explores how 
+integration enhances access to finance, international 
+markets (exports), and information—factors that play 
+a crucial role in enterprise growth and development. 
+Importantly, this year’s survey design enables a time 
+series and cross-sectional data analysis.
+The report presents findings based on three main 
+aspects: (a) business performance metrics, including 
+sales, profitability, hiring, and research and development 
+(R&D); (b) access to finance and related challenges; 
+and (c) international market access. These insights 
+help determine whether e-commerce-integrated firms 
+have a higher potential for scaling and enterprise 
+development than non-integrated firms.
+PREFACE
+
+[Page 8]
+8 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+The authors are grateful to the 2,365 enterprises that 
+participated in the field survey across India, and to 
+other stakeholders who participated through in-depth 
+interviews. This study could not have been completed 
+without their responses. 
+The authors would like to express their sincere 
+gratitude to ICRIER’s Director and Chief Executive 
+Deepak Mishra for his continuous guidance and 
+encouragement. His inputs have been extremely useful 
+in lending a meaningful perspective to the findings of 
+the survey. 
+The authors are also thankful to the survey partner 
+Ipsos, particularly Gajanand Periwal and Mitali Singh, 
+for conducting the survey and compiling the results. 
+During this study, the authors interacted with various 
+stakeholders, including policymakers, e-commerce 
+companies, industry associations, representatives from 
+the industry, and academic experts. The authors thank 
+them for sharing their valuable insights, which helped 
+strengthen the analysis. The authors would like to 
+extend their gratitude to Walmart for supporting this 
+timely study. 
+Several experts were consulted while drafting the 
+questionnaire, and their inputs were incorporated. 
+The authors would particularly like to thank Tirumala 
+KV and Renu Lata from the Ministry of Commerce and 
+Industry, and Anil Bhardwaj from Federation of Indian 
+Small and Medium Enterprise for their feedback and 
+inputs. The authors are also grateful to BG Mahesh 
+and his team at Sahamati for sharing data and insights 
+on the Account Aggregator framework. The authors 
+are thankful to Radhicka Kapoor and Shravani Prakash 
+for their comments and feedback. Gratitude extends 
+to Puja Mehra for her detailed review and editorial 
+suggestions, which significantly improved the quality 
+of the work. 
+The authors are also thankful to Harleen Kaur’s finance 
+and operations team, Neha Saini’s administrative team, 
+documentation officer Chhaya Singh, Information 
+Technology manager Rajkumar Shahi, and Anvi 
+Mehta’s communications team for working tirelessly 
+to ensure the research work was uninterrupted and is 
+disseminated in an effective and timely manner.
+The authors are also thankful to the Seema Sethi Design 
+team for their time and effort towards designing this 
+report, Preeti Lourdes John for copy editing and proof 
+reading the report and to Genesis Printers for printing.
+All errors are that of the authors. 
+ACKNOWLEDGEMENTS

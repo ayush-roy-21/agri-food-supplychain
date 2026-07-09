@@ -1,0 +1,225 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MPEDA-004-C07
+Parent Doc ID: A-MPEDA-004
+Page Range: Page 35 to Page 41
+Word Range: 8236 - 9467
+Word Count: 1,232
+--------------------
+
+[Page 35]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+35 
+4.3.2 Heuristics Evaluation Framework for assessment of online 
+portals 
+A heuristic evaluation is a method for identifying design problems in a user interface. 
+To assess usability, Jakob Neilsen’s 10 usability heuristics will be used as a guideline. 
+The guideline heuristics have been outlined below.  
+Table 8: Heuristic Evaluation Framework 
+Heuristic Description Explanation 
+Visibility Show system status and tell 
+what’s happening 
+The interface should always keep 
+users informed about what is going on 
+through appropriate feedback within 
+reasonable time. 
+Freedom Provide good defaults and 
+undo 
+Allow users to leave the unwanted 
+state and have a clearly marked 
+“emergency exit”. 
+Error Prevention Help users avoid making 
+mistakes 
+Eliminate error-prone conditions or 
+check for them. Present users with a 
+confirmation option before they 
+commit to the action. 
+Flexibility Make advanced tasks fluid 
+and efficient 
+Allow users to tailor frequent actions 
+and efficiency of use. 
+Error Recovery Help users recognize, 
+diagnose, and recover from 
+errors 
+Error messages should be expressed 
+in plain language, precisely indicate 
+the problem, and constructively 
+suggest a solution. 
+Mapping Use familiar metaphors and 
+language 
+Speak the users’ language, words, 
+phrases, and concepts 
+Consistency Use the same language and 
+interface throughout 
+Make sure that the user interface is 
+predictable and learnable. 
+Recognition Make information easy to 
+discover 
+Minimize user’s memory load by 
+making objects, actions, and options 
+visible or easily retrievable whenever 
+appropriate. 
+Minimalism Provide only necessary 
+information in an elegant way 
+Every extra unit of information 
+competes with the relevant units of 
+information and diminishes their 
+relative visibility. 
+Help Use proactive and in-place 
+hints to guide users 
+Provide necessary help and 
+documentation. Any such information 
+should be easy to search, focused on 
+the user’s task, list of concrete steps 
+to be carried out and not be too large. 
+Source: Neilsen Norman’s Heuristic Evaluation
+
+[Page 36]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+36 
+For this study, we used the Neilsen Norman Group’s Heuristic Evaluation to assess and 
+report the level of user -friendliness of the web portals offered by MPEDA for the 
+central sector scheme.  
+4.4 Sampling  
+Purposive sampling method was used. The sample was drawn from the list of 
+beneficiaries during the period 2017 -2020 and their geographical distribution. S tates 
+of Andhra Pradesh, Gujarat, Karnataka, Kerala, Maharashtra, and Tamil Nadu  were 
+covered. They are distributed by schemes and programs as tabulated below.  
+Table 9: Sampling frame 
+Scheme Beneficiaries Sample 
+Market promotion - International Fairs 40 10 
+Financial Assistance for Mini Labs 10 5 
+Financial Assistance for Value-Added  98 40 
+Moving towards Certification (MTC) for Primary Production 90 35 
+Other Support Functions – Certificates, Lab services & Training Multiple 20 
+Total 238 110
+
+[Page 37]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+37 
+4.5 Report and data limitations 
+Time lag  between scheme implementation and impact survey conducted causing 
+respondents to rely on recall. To counter this, the study questionnaire included recall 
+cues adopting a storyboard approach.  
+This report focused only on the evaluation of impact of the Central Sector Scheme of 
+MPEDA for the SFC 2017-2020 period. The selection of beneficiaries are also from the 
+same period. Therefore, the impact is restricted and limited to the benefits realised for 
+the said time period alone.
+
+[Page 38]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+38 
+  
+SURVEY DATA 
+ANALYSIS AND 
+FINDINGS 
+CHAPTER 5
+
+[Page 39]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+39 
+5 Survey Data Analysis & Findings 
+This chapter covers the impact evaluation framework, the analysis of different scheme 
+components and the key findings from the responses of 110 sample beneficiaries. The 
+geographical coverage of the respondents includes the states of Andhra Pradesh, 
+Gujarat, Karnataka, Kerala, Maharashtra, and Tamil Nadu. The composition of 
+respondents is exporters, aquaculture farmers, boat owners, and farmer societies.  
+5.1 Impact Evaluation Areas 
+The evaluation of impact of schemes and services have been conducted based on the 
+OECD-DAC’s REESI framework. The respondent beneficiaries provided their feedback 
+on the different schemes, services and trainings represented through these evaluation 
+questions.  
+Table 10: Impact Evaluation Questions based on REESI framework. 
+Dimension Evaluation Questions 
+Relevance 
+Is the 
+intervention 
+doing the 
+right things? 
+• How do you perceive the relevance of the MPEDA scheme 
+components in addressing your speciﬁc needs and objectives?  
+• Did the market promotion activities supported by MPEDA align with 
+your target markets and export goals?  
+• Did the technical assistance and lab services help you export better 
+quality marine products? 
+• Were the species promoted/technology transferred by RGCA as per 
+the need of the sector? 
+Effectiveness 
+How well are 
+resources 
+being used? 
+• How has your participation in MPEDA-supported international fairs or 
+exhibitions helped improve your exports?  
+• How has the ﬁnancial assistance provided by MPEDA for value 
+addition contributed to enhancing the competitiveness of your export 
+products?  
+• What challenges, if any, have you encountered during the application 
+process for export facilitation certiﬁcates, and how has MPEDA 
+supported you in overcoming those challenges? 
+Efficiency • How long did it take to collect the documents required to submit the 
+online application?
+
+[Page 40]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+40 
+Dimension Evaluation Questions 
+Is the 
+intervention 
+achieving its 
+objectives? 
+• What was the time taken for getting the approval for your application? 
+• How much time does it takes for you to get the certiﬁcate after 
+applying? 
+• Whether you received timely technical assistance from RGCA? 
+• What is your opinion about the arrangements for the training? 
+Impact 
+What 
+difference 
+does the 
+intervention 
+make? 
+• How has the assisted infrastructure helped you in product 
+diversiﬁcation and increasing export earnings? 
+• How did the scheme beneﬁt your society/cluster? 
+• Whether the formation of cluster helped in better market access and 
+price realisation? 
+• Was the training useful for you to develop a HACCP plan for your 
+unit? 
+Sustainability 
+How to 
+sustain and 
+scale the 
+beneﬁts of 
+the schemes? 
+• Do you think the online system requires any modiﬁcations? If yes, 
+please mention the same.  
+• Any suggestions to improve the schemes and sub-schemes? 
+• How do you feel the training can be improved further? Any 
+suggestions?
+
+[Page 41]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+41 
+5.2 Impact assessment of the Central Sector Scheme 
+The role of different schemes and programs under the Central Sector Scheme of 
+MPEDA for the SFC 2017-2020 period have been presented along the value chain of 
+the fisheries and aquaculture industry.  
+Figure 6: Position of Central Sector Scheme of MPEDA in the value chain 
+ 
+Source: Athena analysis 
+The feedback from the respondent beneficiaries for respective schemes have been 
+covered in the subsequent sub-sections.  
+5.2.1 Support for high end/ innovative value addition for 
+exports  
+Special emphasis has been given for the promotion of export of value-added products 
+as there is an increasing global demand for value added products in convenient form. 
+The Scheme is aimed to bring in more investment in high end Value Addition and also 
+on establishment of appropriate facilities to export live, chilled, and dried marine 
+products having high unit value.  
+There are various sub-schemes under this scheme that include: 
+• Technology development for Specific Value-Added Products 
+o Technology Upgradation Scheme for Marine Products 
+o Assistance for Infrastructural Development for Value Addition 
+o Assistance for Process Automation and Packaging 
+o Assistance for Large Cold Storage 
+• Assistance for export handling units for Live/Chilled and Dried marine 
+products

@@ -1,0 +1,139 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C08
+Parent Doc ID: A-MSME-102
+Page Range: Page 48 to Page 51
+Word Range: 9478 - 10731
+Word Count: 1,254
+--------------------
+
+[Page 48]
+48
+Inadequate infrastructure is one of the key reasons why MSMEs in India, despite being 
+competitive have failed to establish themselves in the global market. They continue to face 
+bottlenecks due to a lack of adequate transportation facilities like railways, waterways, 
+roadways and airways, high cost of transportation, poor public transport, low/no access to a 
+reliable power supply, poor drainage systems, lack of proper communication channels, lack 
+of appropriate storage facilities, inadequate marketing facilities, lack of funds, and so on. 
+(Prakash, Kumar, & Verma, 2021) (Singh & Paliwal, 2017)
+The Ministry of Micro and Small Enterprises has actively participated in this regard, and there 
+have been various attempts by the government to create infrastructure-focused schemes 
+(such as the Infrastructure Development Programme, Scheme of Fund for Regeneration 
+of Traditional Industries, and so on). In 1998 it established ‘The Integrated Technology 
+Upgradation and Management Programme’ (UPTECH). This policy was revised twice and later 
+renamed “Micro and Small Enterprises – Cluster Development Programme (MSE – CDP)” in 
+2010. The scheme has a cluster-based approach to highlight the needs and requirements 
+of a sector. This scheme aimed to develop market-linked infrastructure development where 
+development facilities and centralised distribution are in collaboration with state governments, 
+setting up exhibition centres and establishing testing centres to tap the international markets. 
+This initiative, which spans across various clusters throughout India, ensures the maintenance 
+of product quality for both domestic production and international export.
+Even though such forward-looking initiatives have been undertaken, the implementation of 
+these policies has been inefficient.  A need for revising policy objectives according to the 
+changing dynamics, accountability and convergence in all tiers of government with respect 
+to the administration and implementation of these policies is crucial. A collaboration between 
+private and public stakeholders for expansion and diversification of resources will make 
+policies holistic in their approach as well as increase their impact on the economy.
+
+[Page 49]
+49
+Policy Environment 
+The “Missing Middle” Problem
+8.
+9.
+Government policies have a significant impact on entrepreneurship, and the right approach 
+depends on factors like attitudes of the population on starting businesses, the workforce, 
+government size and role, the current state of entrepreneurship, and the situation of small and 
+medium-sized businesses (SMEs) (Asghar, Paghaleh, & Khaksar, 2011).
+Over the years various policies, schemes and initiatives such as ECLGS, Startup India, 
+SAMRIDH, Startup India Seed Fund scheme (to SMEs, MSMEs), and Atmanirbhar Bharat along 
+with tax reforms have created a favourable environment and given room for SMEs to scale 
+(Kadaba, Aithal, & Sharma, 2023). While these efforts are contributing to the development of 
+MSMEs, there is limited awareness about the support systems and resources created to assist 
+this sector. Furthermore, enterprises face challenges comprehending and accessing these 
+initiatives. A need for thorough surveys to identify the technical and financial requirements of 
+MSMEs for a better understanding of the ground reality and engagement of larger enterprises 
+with advanced expertise will bolster the growth of MSMEs (Khatri, A Study of the Challenges of 
+the Indian MSME Sector, 2019) . 
+Despite the implementation of several government initiatives, there exist visible deficiencies 
+within this sector that require attention. A crucial measure in bridging these gaps involves 
+conducting impact evaluations of pivotal government programs and formulating policies 
+that target the key variables impacting the growth of MSMEs (Gautam, 2022) . However, a 
+thorough examination reveals a notable deficiency in current research. There is a need for an 
+investigation into the alignment between government policies and the needs and challenges 
+encountered by the MSME sector, along with an evaluation of the effectiveness of these 
+initiatives. his will aid in addressing the intricacies and implementing tailored strategies 
+necessary for resolving the complexities in this sector.
+The “Missing Middle” phenomenon, a term denoting the underrepresentation of medium-sized 
+enterprises in the manufacturing sector, particularly within developing nations, has prompted 
+significant research. Initially highlighted by Dhar and Lydall (1961), this phenomenon was 
+identified through the conspicuous absence of firms employing between 50 to 499 workers 
+within Indian manufacturing employment data. Building upon this foundation, Tybout (2000) 
+observed that not only are small and mid-sized enterprises absent in impoverished nations, 
+but that this absence might be attributed to stringent business regulations. These regulations 
+seemingly favor larger entities, leaving smaller firms to grapple with compliance challenges 
+disproportionate to their limited resources.
+Through an empirical analysis, Krueger (2009) reveals a U-shaped curve characterising 
+the size distribution of manufacturing employment in India, where the smallest firms (6-9
+
+[Page 50]
+50
+workers) were most prevalent, and those employing 50-99 workers were least represented. 
+She argued that excessive regulations intended to protect workers within the organized sector 
+inadvertently stifled small firm growth, as expansion led to prohibitive cost increments. 
+Nagaraj (2018) posits that the industrial labour market in India is characterised by a stark 
+dualism, highlighted by highly efficient, urban-based manufacturing, as opposed to traditional, 
+subsistence-oriented informal employment. Abreha, Cirera, Davies, and Fattal–Jaef (2022) 
+empirically demonstrate in sub-Saharan Africa that medium-sized firms contribute modestly to 
+employment, a situation exacerbated by informal firms and regulatory distortions rather than 
+the size of new entrants. Echoing this, Little (1987) identified a historical bimodal employment 
+distribution resulting from state-led heavy industrialisation favouring large factories and small 
+cottage industries, creating a gap in the middle. This missing middle is more pronounced 
+in India than in other Asian economies, suggesting a unique set of organisational and 
+technological challenges within its manufacturing sector (Hasan & Jandoc, 2010).
+According to the Udyam Registration portal, as of November 2023, out of 3,06,24,320 MSMEs 
+registered, 3,05,60,814 are classified, among which, there are about 97.92% micro, 1.89% small 
+and 0.01 % medium enterprises. 
+Percentage of 
+Micro, Small 
+and Medium 
+of Registered 
+MSMEs
+Fig. 7
+Source: UDYAM 
+Registration 
+Portal (https://
+udyamregistration.
+gov.in/Government-
+India/Ministry-MSME-
+registration.htm)
+Micro Medium
+Small
+97.92%
+1.89% 0.01%
+
+[Page 51]
+51
+Mehrotra and Giri (2019) use integrated data from formal and informal firms in India to 
+analyse enterprise size distribution, particularly in the manufacturing sector, and to identify 
+factors contributing to micro and small firm concentrations. Their findings reveal that over 
+90% of Indian MSMEs are micro-enterprises, employing 40% of the workforce, with a missing 
+presence of small enterprises. The concentration of micro-firms is attributed to factors like 
+low productivity, limited access to finance, and regulatory barriers. Notably, there is a dearth 
+of small and medium-sized enterprises, with a significant proportion falling into the Own 
+Account Enterprises (OAEs) category. Policymakers have largely overlooked these small units, 
+as have the enterprises in the unorganised sector. Their research implies that there is not 
+only a missing middle but a missing small as well. They argue for a new policy framework that 
+addresses specific constraints, advocating for policies that foster growth while creating an 
+enabling environment for MSME development. (Mehrotra & Giri, 2019)
+Globally, the extent of labour regulations tends to rise in correlation with the size of factories 
+and businesses. Due to the substantial costs associated with compliance, these regulations 
+pose a compliance burden and prevent enterprises from organically expanding in size and 
+harnessing economies of scale in production. This gives rise to the “missing middle”.
+The missing middle phenomenon in India is a complex challenge, but it is one that must be 
+addressed through a comprehensive policy framework that takes into account the unique 
+needs of small and medium-sized enterprises. This framework should foster growth, take into 
+account labour and industrial structure, and prioritise bringing these enterprises into the 
+policymaker's frame of reference.
+Policymakers have largely overlooked these small units, as have the 
+enterprises in the unorganised sector. Their research implies that there is 
+not only a missing middle but a missing small as well.

@@ -1,0 +1,231 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-107-C07
+Parent Doc ID: A-RES-107
+Page Range: Page 13 to Page 14
+Word Range: 10729 - 12569
+Word Count: 1,841
+--------------------
+
+[Page 13]
+Marques et al. 1069
+as midﬁelders, buffering problems from tier-2 sewing cells.
+Audit failure was clearly occurring.
+Previous research has emphasised focal ﬁrms’ need to
+embrace coopetition (Benstead et al., 2018) and work through
+ﬁrm associations to improve supply chain transparency (Vil-
+lena, 2018). In our study, both coopetition and a strong asso-
+ciation were in place, but the problem persisted. Given this
+scenario, blockchains would seem to be a promising solution
+to ease the problem (Kshetri, 2018; Saberi et al., 2018). Schol-
+ars have emphasised the potential of blockchain solutions to
+automate ﬂows while substituting for trust and adding trace-
+ability in a frictionless manner. Thus, they are particularly
+capable of reducing transaction costs. In the fashion supply
+network, a blockchain solution could reduce audit costs, as
+digitalisation would provide standardisation and increase the
+frequency of control. However, our intervention exposed the
+need for complex governance that produced unforeseen trans-
+action costs.
+Similar to studies on blockchain use to prevent counter-
+feiting, we identiﬁed blockchain costs related to data security
+(Danese et al., 2021) and trade-offs between implementation
+and transaction costs (Pun et al., 2021). Such implementa-
+tion costs took the form of ‘oracle costs’, that is, third-party
+experts to oversee blockchain smart contracts on a regular
+basis (Murray et al., 2021). Such governance costs would
+thus counterbalance the reduction in local visits, at least in
+the short to medium term. Therefore, while blockchain might
+reduce costs related to local audits, unforeseen governance
+costs/investments could overshadow the expected economy.
+Blockchain governance would only become viable if imple-
+mented on an industry scale, where cooperation could avoid
+overburdening isolated focal ﬁrms. These conclusions led us
+to our ﬁrst proposition:
+P
+ROPOSITION 1. Blockchain can save audit costs, but gover-
+nance costs outweigh such savings without industry scale and
+commitment.
+Questioning why industry-level implementation did not
+occur in a scenario with a strong association led us to shift
+from mode 1 (RQ1) to mode 2 (RQ2) and explore ‘evidence
+for the development of new theories not considered prior to
+the intervention’ (Oliva, 2019, p. 712).
+5.2 Unveiling Decoupling and Organisational
+Misconduct (RQ2)
+Beyond facing cost trade-offs, the intervention was hampered
+by emerging resistance in the form of decoupling. Thus, we
+now address RQ2: Why does decoupling emerge as a reaction
+to supply chain transparency against modern slavery?
+Supplier resistance did not emerge without reason. Suppli-
+ers’ refusal to take part in the intervention was a consequence
+of the focal ﬁrms’ unfair purchasing practices. Such practices
+included, on the one hand, severe delay penalties for suppliers
+and, on the other hand, order instability and cancellations,
+which led to disruptions in production, urgent requests, and
+very limited demand predictability (Chen et al., 2022; Meehan
+and Pinnington, 2021; Muratore and Marques, 2021). Suppli-
+ers thus had to live in a state of permanent tension, complying
+with price pressures and absorbing demand instability while
+accepting workloads and costs from parallel audit schemes.
+Redundancy did not ensure control while overburdening sup-
+pliers. As the focal ﬁrms simultaneously persisted in their
+unfair purchasing practices and tightened audit schemes, the
+suppliers felt doubly pressured. Such hypocrisy enabled the
+focal ﬁrms to outsource the risk, responsibility, and costs of
+modern slavery upstream to suppliers (Glover and Touboulic,
+2020), which in turn led to supplier resistance in the form of
+decoupling.
+Supplier behaviour emerged in the form of means–end
+decoupling. Suppliers found themselves with limited agency
+to respond to focal ﬁrms’ impositions (Carmagnac et al.,
+2022). Since suppliers were economically dependent on focal
+ﬁrms, they responded to increasing audit pressures with
+means–end decoupling in two ways. First, tier-1 suppliers
+acted as buffers to tier-2 suppliers’ non-compliance. Tier-1
+suppliers could not simply cancel tier-2 sewing cells that failed
+to comply, or they would not meet the cost pressures. Instead,
+tier-2 suppliers’ non-compliance was hidden or at least delayed
+from exposure to the focal ﬁrms.
+By outsourcing the burden of modern slavery mitigation
+to suppliers (Meehan and Pinnington, 2021) while simultane-
+ously sustaining price pressures, focal ﬁrms closed their eyes
+to informal sub-contracting and work instability (Soundarara-
+jan et al., 2021), ‘creating a dangerous cascade of unfair pay’
+(Chen et al., 2022, p. 4306). Our second proposition indicates
+the joint effects of unfair purchasing practices and growing
+audit demands:
+P
+ROPOSITION 2. The combination of increasing audit costs
+for suppliers and unfair purchasing practices of focal
+ﬁrms leads to supplier resistance and buffering of non-
+compliant practices which conﬁgures supplier decoupling
+(means–end).
+Unfair purchasing practices seemed to spread across the
+industry. Prior research has suggested that coopetition is a
+driver of transparency (Benstead et al., 2018; Villena, 2018).
+Here, we observed another facet of coopetition: the legiti-
+mation of unfair purchasing practices. To understand such
+dynamics, we resorted to drivers of organisational misconduct.
+Greve et al. (2010) presented a robust review of organisational
+misconduct, stating that ‘misconduct is a behaviour that ﬂour-
+ishes where legal, ethical, and social aspects have blurred lines
+rather than clear limits’ (Greve et al., 2010, p. 36). Recently,
+the OSCM scholarship has employed the lens of misconduct
+to draw attention to practices that are widespread and persis-
+tent, despite their negative consequences for society (Skilton
+and Bernardes, 2022).
+
+[Page 14]
+1070 Production and Operations Management 34(5)
+The ﬁrst driver identiﬁed in this study was coded as ratio-
+nal choice, which emerged when ﬁrms justiﬁed delaying costs
+to prevent misconduct by downplaying their consequences
+(Greve et al., 2010). In our case, focal ﬁrms blamed con-
+sumers’ unwillingness to pay premiums for transparency as
+a reason to delay action: ‘ Have you ever heard the phrase:
+Sweatshop is wrong unless the shoes are cute? ’ Despite their
+share of responsibility, consumers were not heard, consulted,
+or engaged with (Carmagnac et al., 2022). Portraying them as
+greedy and unaware helped justify focal ﬁrms’ inaction rather
+than taking ownership of the responsibility to inform con-
+sumers (Chen et al., 2022). Moreover, focal ﬁrms used alleged
+consumer unwillingness to pay and volatility as arguments for
+passing price pressure and demand instability downstream in
+their supply chains.
+The second identiﬁed driver reﬂected a strain (tension),
+which was observed in the framing of goals as unachiev-
+able (Greve et al., 2010; Wijen, 2014). In our case, focal
+ﬁrms diverted attention from their own practices and blamed
+supplier behaviour. Tier-1 suppliers were framed as the ones
+responsible for negotiating with tier-2 suppliers, as if price
+pressures from the brands to tier-1 suppliers would not trans-
+late to such pressures to tier-2 suppliers. In addition, tier-2
+suppliers were blamed for accepting demand beyond their
+capacity, thereby fragilising the supply chain. The focal ﬁrms
+reasoned that none of these issues were linked to their own
+unfair purchasing practices. If the cause was external to the
+focal ﬁrm, supply chain transparency could be framed as
+unachievable (Doorey, 2011).
+The third identiﬁed driver reﬂected a victimisation culture.
+Culture can permit misconduct by socially weighing victims’
+claims or diverting attention from the original victim (Greve
+et al., 2010). This notion echoes climate change deniers, for
+example, when they downplay the impact of carbon emis-
+sions on society to justify corporate inaction. Modern slavery
+research has suggested that the efﬁciency paradigm supports
+focal ﬁrm victimisation (Caruana et al., 2020). If focal ﬁrms
+could see value in ethical behaviour and transparency, some
+would advance towards supply chain transparency (Stevenson
+and Cole, 2018). However, if they jointly shared a common
+culture of denial, homogeneity would lead to inaction at the
+industry level.
+Together, the drivers of rational choice, goal strain, and
+victimisation culture supported a discourse to absolve unfair
+purchasing practices by blaming the others: consumers, sup-
+pliers, and ﬁerce competition. Note that, on the one hand, the
+competitive side of coopetition led to price pressures, and, on
+the other hand, the cooperative side of coopetition diffused
+misconduct. The highly ambiguous nature of modern slav-
+ery, linked to the lack of transparency, further contributed to
+inaction (Stevenson, 2022). Suppliers were thus left with no
+alternatives. While OSCM research has often considered how
+focal ﬁrms can prevent opportunism by suppliers (Asif, 2020;
+Nath et al., 2020; Villena, 2018; Villena and Gioia, 2018), few
+studies have investigated focal ﬁrm misconduct. Our ﬁndings
+led to a proposition that captures these dynamics:
+P
+ROPOSITION 3. The victimisation of focal ﬁrms and diver-
+sion of attention to consumers (‘unwilling to pay’) and sup-
+pliers (‘not behaving as expected’) conﬁgure the drivers of
+organisational misconduct that are used to justify focal ﬁrms’
+unfair purchasing practices.
+Besides supporting unfair purchasing practices, the identi-
+ﬁed drivers of organisational misconduct also led to focal ﬁrm
+decoupling. While supplier decoupling has been addressed
+recently (Nath et al., 2020), factors related to focal ﬁrm
+behaviour have been overlooked. In particular, focal ﬁrm
+power in the supply chain should lead to higher responsibility,
+not the reverse (Asif, 2020). Such a power imbalance became
+clear in the fashion supply chain, cascading from the brand to
+tier-1 suppliers, then from tier-1 to tier-2 suppliers, and ﬁnally
+to workers at the end of the supply chain, who are exposed to
+modern slavery conditions.
+Our study revealed that focal ﬁrm decoupling took a differ-
+ent form than supplier decoupling. While supplier behaviour
+was characterised by means–end decoupling, decoupling at the
+focal ﬁrms took the shape of a policy–practice gap. The pol-
+icy–practice decoupling reﬂected symbolic adoption. While a
+transparency policy was highlighted in discourse and corpo-
+rate reporting (Meehan and Pinnington, 2021), weak imple-
+mentation led to little or no change in daily routines (Bromley
+and Powell, 2012).
+When the mobile app was developed to allow full sup-
+ply chain transparency, the focal ﬁrms’ responses shifted to
+a stepwise approach. This meant improving the visibility of
+focal ﬁrms to their supply chains without providing trans-
+parency for stakeholders, which has been deﬁned as a ‘secrecy
+strategy’ (Marshall et al., 2016). From a policy perspective,
+transparency was a core value for many focal ﬁrms in the asso-
+ciation. However, their practices involved visibility and control
+without transparency. As such, the failure to comply resulted
+in harsh consequences for the suppliers but no consequences
+for the focal ﬁrms. In other words, without supply chain trans-
+parency, blockchain could be used to control suppliers, but no
+link between supplier non-compliance and brands would be
+made public. Non-compliant suppliers could be excluded from
+the association list, but no speciﬁc links between each brand
+and these non-complaint suppliers would be made. This served
+as a ‘smokescreen’ (Doorey, 2011). Without a clear timeline
+on how and when to progress from visibility to transparency,
+visibility became an end in its own right rather than a means
+to transparency (Asif, 2020).
+By transferring the responsibility for modern slavery to
+supplier practices (Meehan and Pinnington, 2021) and con-
+sumer choices (Chen et al., 2022), focal ﬁrms could divert
+attention to weaker links in the supply chain – a hypocriti-
+cal practice that decouples discourse from practice (Glover
+and Touboulic, 2020). In our fourth proposition, we elabo-
+rate on how focal ﬁrms’ response to transparency pressures
+included buffering their supply chain practices and protecting
+them from exposure/outside inspection (Bromley and Powell,
+2012):

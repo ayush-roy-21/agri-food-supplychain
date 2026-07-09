@@ -1,0 +1,199 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MPEDA-004-C13
+Parent Doc ID: A-MPEDA-004
+Page Range: Page 69 to Page 75
+Word Range: 16222 - 17424
+Word Count: 1,203
+--------------------
+
+[Page 69]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+69 
+ 
+6.2 Scheme-level 
+6.2.1 Demand driven budgetary support to value addition 
+schemes 
+Context • 40 applications worth INR 99 crore  (backlog) were pending due to non-
+availability of funds and change in scheme components. Anticipating fund 
+support from MPEDA, entrepreneurs established the facility utilizing 
+institutional finance.   
+• The process of availing scheme  benefits specifically value addition   
+require significant effort in collecting various documents from local 
+authorities leading to 6 months to 15 months leading to beneficiary 
+missing out on the scheme benefits due to scheme construct and or non-
+availability of funds for disbursement. 
+Action 
+Points 
+• Planning and implementation period scheme may be extended to include 
+the time required for beneficiary preparedness and application process 
+time.   
+o First 12 months (1st year) - market assessment of proposed scheme 
+construct 
+o 12 months to 48 months (3 year) – scheme implementation period 
+o 48 months to 54 months  (6 months) – scheme transition period 
+(cooling period) before migrating to next plan period 
+• Conduct demand assessment  before the planning period  combining the 
+pending applications and expected demand for the scheme based on 
+market feedback. 
+• Appraise and prepare the beneficiaries for the impending change in 
+market demands and scheme construct during cooling period as outlined 
+above. 
+• Create a strategic roadmap to help beneficiaries who applied for the 
+schemes but haven’t received the assistance to transition smoothly into 
+another scheme if available or engage continuously to support them 
+technically. For this, additional fund support may be extended to MPEDA. 
+Advantages: 
+• Accurate estimation of demand off-take for various scheme components 
+with clearly defined outcomes.
+
+[Page 70]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+70 
+• Adaptive scheme implementation approach to accommodate 
+implementation challenges at state level. 
+• Leverage training programs as lead generators for different financial 
+assistance schemes and technical guidance converting training to 
+production line.  
+• Help reduce the mismatch in expectations between beneficiaries and 
+MPEDA   
+Priority High
+
+[Page 71]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+71 
+6.2.2  Delegation of authority for evaluation of scheme 
+proposals to RD 
+Context • During the evaluation period, the scheme related proposals from 
+exporters and farmers move from S ub-Regional Division (SRD) to 
+Regional Division (RD) to HQ through iterative evaluation process 
+leading to multiple review and validation at different levels causing 
+significant duplication of evaluation process. 
+• At present, the e-mpeda portal is only 60% effective in delivering 
+online evaluation process leading to physical movement of 
+documents to HQ, multiple validation, and scrutiny of documents 
+along the administrative chain leading to delay and bandwidth 
+constraint at all levels. 
+Action 
+Points 
+• Modalities of delegation of power to be decided by committee. 
+• Redesign of portal to support online evaluation of proposals 
+submitted by exporters and farmers. 
+• Decentralized document evaluation at zonal level may be 
+established to ensure process compliance before the final decision 
+can be taken at appropriate level. 
+Priority High
+
+[Page 72]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+72 
+6.3 System and Process 
+6.3.1  Augmenting human resources for effective functioning of 
+MPEDA 
+Context • The total sanctioned strength of MPEDA has been revised from 
+420 to 250 combining the Head Office and Field Offices based on 
+the restructuring proposal of the Ministry of Commerce and 
+Industry.  
+• At present, the number of  resources in position is only 181 
+including 11 officials on deputation. The existing staff is not  
+adequate to meet the growth objective of the sector.  
+• There are 66 vacant posts for technical positions in aquaculture, 
+export promotion and quality control. 
+Action 
+Points 
+• Approval to the restructuring proposal of MPEDA and p rioritize 
+recruitment of all the vacant positions for better functioning of the 
+authority to support the sector. 
+• Make capacity building training of internal staff to enable them to 
+take up cross-functional activities. 
+• Training of personnel to focus on increased engagement with 
+stakeholders that will encourage high-end or value-added exports. 
+Advantages: 
+• Building of a resilient team to deliver on the export target for India. 
+• Skilled resources to manage the market demands.  
+Priority High
+
+[Page 73]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+73 
+6.3.2  Adoption of digital and artificial intelligence-based 
+solutions 
+Context • Reduced human resources  is creating a burden in continuous 
+engagement with relevant stakeholders 
+• Existing digital solutions are under -utilized. There is no local 
+language support in the existing e -mpeda portal that is driving 
+engagement with all stakeholders for various schemes. 
+• Social media is also under-utilized for market promotions. 
+Action 
+Points 
+• Redesign the e-mpeda portal to make it user-friendly and inclusive 
+in terms of offering regional or local language support.   
+• Redesign MPEDA’s website  as per Government of India 
+Guidelines for Websites (GIGW) guidelines  to improve user 
+experience and cope up with market demands. 
+• Provide interactive chatbot service to address common queries of 
+stakeholders – schemes, trainings, source for seeds & feeds, etc.  
+• Use e -mpeda portal to display critical input information for 
+different stakeholders as a dashboard to push information 
+automatically. 
+• Use of blockchain technology in MPEDA’s traceability systems to 
+verify details of farm registrations, consignment creation, lab 
+testing, etc.  
+• Build mobile apps for sharing market information  for better 
+marketing, tracking of applications and registrations.  
+• Strengthen and automate data collection in the harbors. 
+• Establish a dedicated team to manage MPEDA’s products and 
+events on social media platforms like Twitter, Facebook, 
+Instagram, etc. 
+Advantages: 
+• Improved and reliability in traceability systems.  
+• Help bridge the gap between supply and demand for export. 
+Areas of digital interventions: 
+• Decision support systems for top management 
+• AI-based chat bot for addressing day -to-day queries from 
+exporters.
+
+[Page 74]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+74 
+• Knowledge management of organizational processes, initiatives , 
+and market level intelligence  
+• Registration of farmers and exporters for continuous engagement.  
+Priority Medium
+
+[Page 75]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+75 
+6.4 Ecosystem Initiatives 
+To improve the efficiency and effectiveness of central sector schemes, the following 
+recommendations are outlined below: 
+6.4.1  NaCSA to facilitate incubation of FPOs for aquaculture 
+farmers  
+Context • NaCSA is working towards making Aquaculture Sustainable activity to 
+improve livelihoods of Coastal villagers, with a “Self Help Group” 
+approach to address market concerns through convergence of various 
+Stakeholders and move towards formation of societies a nd educated 
+them on better management practices (BMP) for safe and sustainable 
+shrimp farming. NaCSA also trained these farmer societies to follow 
+cluster approach in shrimp farming.  
+• While the above process helped farmers from capacity building 
+perspective, the bargaining power of farmers continue to be challenge 
+from supply and demand perspective 
+Action 
+Points 
+• Help farmers to form FPOs to ensure better alignment of supply and 
+demand side and create a self-sustaining model. 
+• At present, around 2773 FPOs are registered under the Central Sector 
+Scheme for Formation and Promotion of 10,000 FPOs by Small Farmers 
+Agri-Business Consortium as on 23-08-202315. 
+Advantages: 
+• Institutional access to finance e.g., Producer Organisation Development 
+Fund 
+• Convergence of central and state schemes and facilitate scaling up of 
+FPOs 
+Priority Medium 
+ 
+ 
+ 
+  
+ 
+15 Source: SFAC, Govt of India

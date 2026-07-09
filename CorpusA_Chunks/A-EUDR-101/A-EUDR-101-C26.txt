@@ -1,0 +1,94 @@
+--- CHUNK HEADER ---
+Chunk ID: A-EUDR-101-C26
+Parent Doc ID: A-EUDR-101
+Page Range: Page 53 to Page 54
+Word Range: 41312 - 42664
+Word Count: 1,353
+--------------------
+
+[Page 53]
+(c) in paragraph 2, the f ollowi ng subparagraph is added:
+‘ The register shall indicate whether third-countr y audit entities as refer red to in the fi rst subparagraph are 
+registere d f or car r ying out the statut or y audit, the assurance of sustainability repor ting, or both.’;
+(12) Ar ticle 24b is amended as f ollo ws:
+(a) paragraph 1 is replaced by the f ollowi ng:
+‘1. Member Stat es shall ensure that, when the statutor y audit is car r ied out by an audit fir m, that audit fi r m 
+designates at least one ke y audit par tner . The audit fi r m shall provi de the ke y audit par tner(s) with suffi cient 
+resources and with personnel that hav e the necessar y compet ence and capabilities to car r y out his, her or its 
+duties appropr iat ely .
+Member State s shall ensure that, when the assurance of sustainability repor ting is car r ied out by an audit fir m, 
+that audit fi r m designates at least one ke y sustainability par tner , who ma y be (one of) the ke y audit par tner(s). 
+The audit fir m shall provide the ke y sustainability par tner(s) with suffi cient resources and with personnel that 
+hav e the necessar y compet ence and capabilities to car r y out his, her or its duties appropr iat ely .
+Secur ing audit and assurance quality , independence and compet ence shall be the main cr iter ia when the audit 
+fi r m selects the ke y audit par tner(s) and, where applicable, the ke y sustainability par tner(s) to be designated.
+The ke y audit par tner(s) shall be actively inv olved in the car r ying-out of the statut or y audit. The ke y sustainability 
+par tner shall be actively inv olved in the car r ying-out of the assurance of sustainability repor ting.’;
+(b) the f ollowi ng paragraph is inser te d:
+‘2a. When car r ying out the assurance of sustainability repor ting, the statutor y auditor shall devot e sufficient 
+time to the enga gement and shall assign suff icient resources to enable him or her to car r y out his or her duties 
+appropr iat ely .’;
+(c) in paragraph 4, points (b) and (c) are replaced by the f ollowi ng:
+‘(b) in the case of an audit fi r m, the name(s) of the ke y audit par tner(s) and, where applicable, the name(s) of the 
+ke y sustainability par tner(s);
+(c) the f ees c harged f or the statut or y audit, the f ees c harged f or the assurance of sustainability repor ting and the 
+f ees charg ed f or other ser vices in an y fi nancial y ear .’;
+(d) the f ollowi ng paragraph is inser te d:
+‘5a. A statutor y auditor or an audit fi r m shall create an assurance file f or each assurance engag ement 
+concer ning sustainability repor ting.
+The statut or y auditor or the audit fir m shall document at least the data recorded pursuant to Ar ticle 22b as 
+regards the assurance of sustainability repor ting.
+The statutor y auditor or the audit fir m shall retain an y other data and documents that are of im por tance in 
+suppor t of the assurance repor t on sustainability repor ting refe r red to in Ar ticle 28a and f or monitori ng 
+compliance with this Directive and other applicable leg al requirements as regards the assurance of sustainability 
+repor ting.
+The assurance file shall be closed no later than 60 da ys af ter the date of signature of the assurance repor t on 
+sustainability repor ting refer red to in Ar ticle 28a.
+Where the same statut or y auditor car r ies out the statut or y audit of annual fi nancial statements and the assurance 
+of sustainability repor ting, the assurance fil e ma y be included in the audit fi le.’;
+EN
+Offi cial Jour nal of the European Uni on 16.12.2022 L 322/67
+
+[Page 54]
+(e) paragraph 6 is replaced by the f ollowi ng:
+‘ The statutor y auditor or the audit fir m shall kee p records of an y complaints made in wr iting about the 
+performa nce of the statutor y audits car r ied out and about the performa nce of assurance enga gements 
+concer ning sustainability repor ting car r ied out.’;
+(13) Ar ticle 25 is replaced by the f ollowing:
+‘ Ar ticle 25
+Audit and assurance fees
+Member States shall ensure that adequate r ules are in place which provid e that f ees f or statut or y audits and the 
+assurance of sustainability repor ting:
+(a) are not inf luenced or det er mined by the provi sion of additional ser vices to the entity that is the subject of the 
+statutor y audit or the assurance of sustainability repor ting; and
+(b) cannot be based on an y f or m of continge ncy .’;
+(14) the f ollo wing Ar ticles are inser te d:
+‘ Ar ticle 25b
+Professiona l ethics, independence, objectivity , conf identiality and prof essional secrecy as regards the 
+assurance of sust ainability repor ting
+The requirements in Ar ticles 21 to 24a as regards the statutor y audit of financia l stat ements shall apply mutatis 
+mutandis to the assurance of sustainability repor ting.
+Ar ticle 25c
+Prohibited non-audit ser vices in cases where the st atut or y audito r car r ies out the assurance of sust ainability 
+repor ting of a public-interest entity
+1. A statutor y auditor or an audit fi r m car r ying out the assurance of sustainability repor ting of a public-interest 
+entity , or any member of the netw ork to which the statut or y auditor or the audit fir m belongs, shall not directly or 
+indirectly provide to the public-interest entity that is the subject of the assurance of sustainability repor ting, to its 
+parent under taking or to its controlled under takings within the U nion the prohibited non-audit ser vices refe r red to 
+in points (b) and (c) and points (e) to (k) of the second subparagraph of Ar ticle 5(1) of Regulation (EU) No 537/2014 
+in:
+(a) the per iod between the beginning of the per iod subject to the assurance of sustainability repor ting and the issuing 
+of the assurance repor t on sustainability repor ting; and
+(b) the fi nancial y ear immediately preceding the per iod refer red to in point (a) of this paragraph in relation to the 
+ser vices refe r red to in point (e) of the second subparagraph of Ar ticle 5(1) of Regulation (EU) No 537/2014.
+2. A statut or y auditor or an audit fi r m car r ying out the assurance of sustainability repor ting of public-interest 
+entities and, where the statut or y auditor or the audit fi r m belongs to a netw ork , an y member of such network, ma y 
+provid e to the public-int erest entity that is the subject of the assurance of sustainability repor ting, to its parent 
+under taking or to its controlled under takings non-audit ser vices other than the prohibit ed non-audit ser vices 
+refer red to in paragraph 1 of this Ar ticle, or if applicable, the prohibited non-audit ser vices refe r red to in the second 
+subparagraph of Ar ticle 5(1) of Regulation (EU) No 537/2014 or ser vices considered by Member States to represent 
+a threat to independence as refer red to in Ar ticle 5(2) of that Regulation, subject to the approval of the audit 
+committee af ter it has properly assessed threats to independence and the safeguards applied in accordance with 
+Ar ticle 22b of this Directive.
+EN
+Offi cial Jour nal of the European Uni on L 322/68 16.12.2022

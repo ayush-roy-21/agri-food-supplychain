@@ -1,0 +1,288 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-106-C03
+Parent Doc ID: A-RES-106
+Page Range: Page 6 to Page 9
+Word Range: 2878 - 4079
+Word Count: 1,202
+--------------------
+
+[Page 6]
+• Negative: when the study recorded a statistically significant decline in the indicator among certified 
+farmers compared to non-certified farmers, or when the authors clearly stated adverse change in the 
+indicator associated with VSS adoption.
+The data extracted from the studies were analysed using descriptive statistical techniques, including 
+frequency distributions, to investigate the main characteristics of our dataset, such as the most common 
+certified commodities and the main SDGs addressed by VSSs. The analysis was conducted using R software 
+(version 2023.06.1 + 524) and visualisations, such as bar charts and tables, were also provided accordingly (R 
+Core Team, 2023 ).
+It should be noted that the vote-counting approach identifies general associations between VSS 
+adoption and SLF indicators but does not establish causality. As several studies relied on self-reported 
+outcomes and cross-sectional designs, attributing direct cause-effect relationships between VSS adop -
+tion and SLF indicators remains challenging. Moreover, heterogeneity in farm characteristics, self- 
+selection into certification, the type of local support services available, and international market 
+conditions may mediate or confound the observed effects on the selected indicators. These limitations 
+highlight the need for more rigorous impact studies to better identify the causal effects of VSS 
+adoption.
+3. Results
+The results of the analysis reflected the broad scope of this research, which covers various value chains 
+across distinct agroecological zones in Vietnam and Ghana. Figure 2 showed the distribution of crop-based 
+food commodities considered in the reviewed publications. Cocoa was the most frequently studied 
+Records iden
+tified from
+:
+Evidensia
+ (n = 49)
+Duplicate rec
+ords remove
+d  
+(n = 1)
+Records remo
+ved for oth
+er 
+r
+e
+as
+on
+s (n = 1)*
+Studies sc
+reened an
+d assesse
+d for 
+eligibili
+ty (n = 47
+)
+Studies ex
+cluded:
+Criterion 1
+ (n = 10)
+Criterion 2
+ (n = 7)
+Criterion 3
+ (n = 4)
+Studies i
+ncluded in the
+ systemic
+ 
+literatur
+e review
+(n = 26)
+I
+d
+e
+n
+t
+i
+f
+i
+c
+a
+t
+i
+o
+n
+S
+c
+r
+e
+e
+n
+i
+n
+g
+I
+n
+c
+l
+u
+d
+e
+d
+Figure 1. Publications selection process based on PRISMA 2020 flow diagram for new systematic reviews. *Books were 
+excluded, with preference given to scientific articles and reports.
+INTERNATIONAL JOURNAL OF AGRICULTURAL SUSTAINABILITY
+ 5
+
+[Page 7]
+Table 3. Main features of the studies included in the analytical assessment.                     
+Reference Country Commodity VSS
+Gender 
+parity
+Labour 
+rights
+Capacity 
+building Yield Costs Income
+Market 
+access
+Value chain 
+integration
+Child  
+labour
+Land  
+access
+Tools & 
+equipment
+Access  
+to credit Biodiversity
+Water 
+management
+Use of  
+agrochemicals
+Addae- 
+Boadu 
+et al. 
+( 2017 )
+Ghana Cocoa RA,UTZ x x
+Akrong 
+et al. 
+( 2023 )
+Ghana Mango GlobalGAP x x x
+Akrong 
+et al. 
+( 2022 )
+Ghana Mango GlobalGAP x x x
+Ankuyi 
+et al. 
+( 2023 )
+Ghana Cocoa RA x x x x x x x x x x
+Bandanaa 
+et al. 
+( 2021 )
+Ghana Cocoa RA x x x x x x x x
+Bennett 
+et al. 
+( 2013 )
+Ghana Cocoa UTZ x x x x x x x x x x x x x
+Brako et al. 
+( 2021a )
+Ghana Cocoa, palm oil RA,UTZ, 
+RSPO
+x x
+Brako et al. 
+( 2021b )
+Ghana Cocoa, palm oil RA,UTZ, 
+RSPO
+x x x x x x x x x
+Doanh 
+et al. 
+( 2018 )
+Vietnam Tea NA x
+Fenger 
+et al. 
+( 2017 )
+Ghana Cocoa RA x x x x x x x x x x x x
+Ho 
+et al. 
+( 2018 )
+Vietnam Coffee 4C,UTZ x x x x x x x x x x
+Hung Ahn 
+et al. 
+( 2019 )
+Vietnam Coffee RA,UTZ x x x x x x x x x x x x
+Iddrisu 
+et al. 
+( 2020 )
+Ghana Cocoa RA,UTZ x x x
+6
+ R. D’ANNOLFO AND F. DEMARIA
+
+[Page 8]
+Table 3. (Continued ) 
+Reference Country Commodity VSS
+Gender 
+parity
+Labour 
+rights
+Capacity 
+building Yield Costs Income
+Market 
+access
+Value chain 
+integration
+Child  
+labour
+Land  
+access
+Tools & 
+equipment
+Access  
+to credit Biodiversity
+Water 
+management
+Use of  
+agrochemicals
+Ingram 
+et al. 
+( 2018 )
+Ghana * Cocoa UTZ x x x x x x
+Kleemann 
+et al. 
+( 2014 )
+Ghana Pineapple GlobalGAP x x x x x x
+Klier and 
+Possinger 
+( 2012 )
+Ghana * Cocoa FI x x x x x x x x x x x
+Mauthofer 
+and 
+Santos 
+( 2022 )
+Ghana * Cocoa FI x x x x x x x x x x x x x
+Nelson 
+et al. 
+( 2013 )
+Ghana Cocoa FI x x x x x x x x x x x x x x
+Oosterveer 
+et al. 
+( 2014 )
+Ghana * Palm oil RSPO x x x
+Rijn 
+et al. 
+( 2016 )
+Ghana * Banana FI x x x x x x x x x x
+Smith 
+( 2010 )
+Ghana * Banana FI x x x x x x x x x
+Stuart 
+et al. 
+( 2018 )
+Vietnam Rice GlobalGAP, 
+VietGAP
+x x x x x x
+Tu 
+et al. 
+( 2019 )
+Vietnam Rice GlobalGAP, 
+VietGAP
+x x x x
+Waarts 
+et al. 
+( 2015 )
+Ghana Cocoa UTZ x x x x x x x x x x x x x x
+Waarts 
+et al. 
+( 2013 )
+Ghana Cocoa UTZ x x x
+Note: The abbreviations used for the VSSs are as follows: 4 C Association (4 C), Fairtrade International (FI), GlobalGAP, Rainforest Alliance (RA), Roundtable on Sustainable Palm Oil (RSPO), UTZ, VietGAP and Not Available 
+(NA). Since 2018, the UTZ certification programme has been part of the Rainforest Alliance (RA).  
+* Seven studies have a wider geographical coverage, encompassing more than one country. 
+INTERNATIONAL JOURNAL OF AGRICULTURAL SUSTAINABILITY
+ 7
+
+[Page 9]
+commodity, appearing in 14 instances, followed by coffee and palm oil, each examined 3 times. Banana, 
+mango and rice were studied 2 times each. Pineapple and tea were examined only once.
+Figure 3 illustrated the distribution of VSSs across the reviewed publications. Among the considered 
+VSSs, UTZ emerged as the most frequently studied, appearing 10 times, followed by RA with 8 instances. FI 
+and GlobalGAP were mentioned in 6 and 5 studies respectively, while 4 C and RSPO appeared 3 times each. 
+Additionally, VietGAP was investigated twice in the studies. Furthermore, only 1 study did not specify the 
+type of certification adopted by farmers.
+Figure 2. Number of crop-based food commodities included in the analysis based on the reviewed studies (frequency). 
+Note: The total number of observations (28) exceeds the total number of considered publications (26), as two studies focus 
+on several agricultural commodities at the same time resulting in their inclusion multiple times in the count.
+Figure 3. Distribution of VSSs across the reviewed studies (frequency). Note: The total number of observations (38) 
+exceeds the total number of considered publications (26), as seven studies focus on various VSSs resulting in their 
+inclusion multiple times in the count. The abbreviations used for the VSSs are as follows: 4 C Association (4 C), Fairtrade 
+International (FI), GlobalGAP, Rainforest Alliance (RA), Roundtable on Sustainable Palm Oil (RSPO), UTZ, VietGAP and Not 
+Available (NA).
+8
+ R. D’ANNOLFO AND F. DEMARIA

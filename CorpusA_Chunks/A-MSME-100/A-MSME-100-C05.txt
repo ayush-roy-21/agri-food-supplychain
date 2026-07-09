@@ -1,0 +1,265 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C05
+Parent Doc ID: A-MSME-100
+Page Range: Page 24 to Page 27
+Word Range: 5429 - 6771
+Word Count: 1,343
+--------------------
+
+[Page 24]
+24 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Tracing the journey of the same firm over the last 
+three years a promising picture emerges, which 
+does not conform to the impression in the public 
+narrative that MSMEs are largely in distress. We 
+find that a substantial share of firms experienced 
+an increase in turnover, profit margins and hiring. 
+The integrated firms among these out-performed 
+the non-integrated ones. It is, however, worth 
+mentioning that only Udyam registered firms were 
+surveyed for this study. 
+Most of the firms reported a growth in their 
+turnover over the last three years, while a miniscule 
+share of firms saw a decline. About 50% of the 
+surveyed enterprises saw an increase in turnover 
+in 2023-24, compared to 2021-22. In comparison, 
+only 2% of the surveyed enterprises saw a decline, 
+while others stayed within the same range. While an 
+equal share of integrated and non-integrated firms 
+saw an increase in the turnover, the absolute level 
+of increase in the size of the turnover was higher 
+for the integrated firms. This is primarily due to the 
+expanded market reach gained through platform 
+integration. Interestingly, the survey revealed that 
+most enterprises joined e-commerce platforms 
+to expand their market reach, and the majority 
+successfully achieved this goal.
+Additionally, nearly 46% of firms experienced an 
+increase in their profit margins in the last two years. 
+More than 50% of the firms that experienced a rise 
+in profits are integrated on e-commerce platforms. 
+Moreover, the absolute margin of increase is higher 
+for integrated enterprises than for non-integrated 
+firms. 
+Notably, around 20% of the surveyed enterprises 
+moved from lower to higher employment ranges 
+- that is - from hiring less than 10 employees to 
+hiring between 10-50 employees, reflecting a clear 
+increase in their overall hiring. A relatively higher 
+percentage of integrated firms reported such a 
+shift, compared to non-integrated ones. During the 
+survey, the authors found that as firms expand their 
+business, they tend to hire more production workers, 
+but on a contractual basis. This is particularly true 
+for firms that are export oriented. When they receive 
+large export orders, they increase the number of 
+production workers on a piece-rate basis. The pilot 
+interactions revealed that in some sectors, like 
+ready-made garments and food processing, these 
+are largely women. Anecdotally, it was reported that 
+on production floors, women are more efficient than 
+men as they take fewer breaks, are more punctual, 
+and work more diligently.
+Pictures of the production floors of two units from pilot interviews conducted in September 2024
+Indian MSMEs: The story of recovery,  
+resilience, and resurgence.
+
+[Page 25]
+25 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Table A1 in the Appendix presents a snapshot of 
+the characteristics of the firm and its owner. It 
+includes information about the owner’s age, gender, 
+and education. It also provides information on the 
+enterprise’s age and whether it operates out of a 
+business or household cluster. 
+Most smaller-sized enterprises are relatively new, 
+while larger firms have been operational longer.  Over 
+50% of the enterprises were established after 2010. 
+Around 12% of medium-sized enterprises have been 
+operating since before 1990, compared to 9% of small-
+sized firms, and 7% of micro-enterprises. 
+Most firms operate within business clusters, with 
+relatively larger-sized firms having a higher presence 
+in these clusters than household clusters. Enumerators 
+noted whether firms operated within a business 
+or household cluster. Enterprise growth prospects 
+improve in business clusters due to better supporting 
+infrastructure. About 78% of all enterprises and 100% 
+of medium-sized firms operated within a business 
+cluster. Consequently, a relatively larger percentage 
+of micro firms (about 28%) were operating within 
+household clusters. 
+Integrated firms are typically owned by younger, more 
+educated individuals than non-integrated ones. Figure 
+3 shows that 61% of integrated firm owners and 57% 
+of non-integrated firm owners are under 35 years old. 
+About 85% of integrated enterprise owners and 81% 
+of non-integrated firm owners hold graduate-level or 
+higher educational qualifications. 
+Figure 3:
+Distribution of enterprises by age of 
+owner and e-commerce integration 
+(in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+A greater percentage of integrated firms have 
+employees in higher employment brackets, and the 
+share of these firms has risen over time.  In general, 
+there has been an increase in the share of firms with 
+a higher number of employees over the years, thereby 
+indicating a growth in hiring in MSMEs. Figure 4 
+illustrates that integrated enterprises increasingly hire 
+more employees than non-integrated ones. In 2021-
+22, 61% of integrated enterprises employed more 
+than 10 workers, compared to 49% of non-integrated 
+enterprises. By 2023-24, this proportion rose to 77% for 
+integrated and 65% for non-integrated enterprises. This 
+indicates that integrated enterprises not only employ a 
+larger workforce but also exhibit a faster pace of hiring 
+compared to their non-integrated counterparts.
+3. Characteristics of the Sample
+ 
+2%
+57%
+35%
+6%
+2%
+59%
+34%
+5%
+2%
+55%
+36%
+7%
+0% 20% 40% 60% 80% 100%
+ 18-24 Years
+ 25-35 Years
+ 36-50 Years
+ Over 50 years
+Not integratedIntegratedOverall
+Characteristics of the Sample
+
+[Page 26]
+26 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Figure 4: Distribution of enterprises by number of employees from 2021-22 to 2023-24 (in %)
+B.  Distribution of Integrated and Non-integrated Firms
+44.78 51.16
+3.71 0.34
+62.22
+5.20 0.51
+29.13
+64.19
+5.83 0.84
+0
+20
+40
+60
+80
+0
+20
+40
+60
+80
+0
+20
+40
+60
+80
+<10 10-50 51-250 >250
+2021-22
+2022-23
+2023-24
+Percent
+No. of Employees
+32.07
+A.  All Enterprises
+39.16
+57.85
+2.38 0.59
+25.59
+69.17
+4.73 0.50
+23.09
+70.28
+5.87 0.75
+50.52 44.33
+5.06 0.09
+38.67
+55.12
+5.68 0.51
+35.26
+58.01
+5.79 0.93
+0
+20
+40
+60
+80
+0
+20
+40
+60
+80
+0
+20
+40
+60
+80
+<10 10-50 51-250 >250 <10 10-50 51-250 >250
+Integrated, 2021-22
+Integrated, 2022-23
+Integrated, 2023-24
+Not Integrated, 2021-22
+Not Integrated, 2022-23
+Not Integrated, 2023-24
+Percent
+No. of Employees
+Source: Authors’ computation of data from ICRIER’s MSME survey
+Characteristics of the Sample
+
+[Page 27]
+27 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+While most firms have more than half of their 
+employees as permanent staff, a relatively higher 
+share of integrated firms has more permanent 
+employees than non-integrated ones.  This is driven 
+by the needs of online operations. About 47% of 
+integrated firms and 42% of non-integrated firms have 
+more than 50% permanent employees. Interestingly, 
+smaller-sized firms (micro and small enterprises) have 
+a relatively higher share of permanent employees, 
+possibly because their total employee base is small. 
+Nearly 70% of the medium-sized enterprises have less 
+than 50% permanent employees, compared to 61% of 
+small enterprises and 52% of micro-enterprises. 
+Surveyed MSMEs have demonstrated a growth 
+trajectory, with a consistent increase in turnover over 
+the last 3 years.  Generally, the proportion of firms in 
+higher turnover ranges has risen over the past three 
+years, demonstrating the growth of MSMEs. The 
+estimated average turnover for the surveyed MSMEs 
+increased by 11.4% from 2022-23 to 2023-24.33 When 
+this is compared to the unincorporated sector firms, it 
+is observed that the surveyed enterprises, all of which 
+are Udyam registered, are doing significantly well. 
+The unincorporated manufacturing establishments 
+reported a fall of 6.7% in their gross value added in 
+2023-24 compared to the previous year.34
+Integrated firms have outperformed non-integrated 
+enterprises. A greater percentage of integrated firms 
+demonstrated growth. As seen in Figure 5 (A and 
+B), in 2021-22, about 25% of integrated enterprises 
+reported a turnover exceeding INR 1 crore, 
+compared to 20% of non-integrated enterprises. By 
+2023-24, this share increased to 38% for integrated 
+enterprises and 25% for non-integrated ones. Thus, 
+over time, there has been a shift toward higher 
+turnover ranges, with a greater proportion of 
+integrated firms reflecting this trend. The estimated 
+average turnover for integrated firms increased by 
+13% between 2022-23 and 2023-24 as compared to 
+8.5% increase for non-integrated firms. Importantly, 
+the share of enterprises with over INR 5 crore 
+turnover increased from 11% in 2021-22 to 13% in 
+2023-24 for integrated category, while it remained 
+constant at 10% for non-integrated firms. 
+Characteristics of the Sample

@@ -1,0 +1,212 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C03
+Parent Doc ID: A-RES-100
+Page Range: Page 12 to Page 19
+Word Range: 2592 - 3888
+Word Count: 1,297
+--------------------
+
+[Page 12]
+METHODOLOGY
+12
+The study’s broad objectives are to map the
+current state of corporate sustainability across
+sectors, with particular emphasis on Scope 3
+emissions. It assesses the efforts invested in
+sustainability initiatives, the confidence
+businesses have in achieving their goals, and the
+integration of sustainability indicators into
+decision-making. In addition, the study seeks to
+identify the pressures, drivers, and barriers
+shaping progress, including SME-specific
+challenges, the role of industry collaborations,
+regulatory impacts, and customer demands. This
+year’s study adds a special focus on the freight
+transportation sector, evaluating expectations for
+the adoption of low-emissions technologies and
+alternative fuels. State of Supply Chain Sustainability 2025
+Drivers of Sustainability 
+in Business Strategy:
+Perceptions, Confidence,
+Regulation, and Geopolitics
+Managing Scope 3:
+Capabilities, Practices, 
+and Challenges Across
+Supply Chains
+Future of sustainable
+freight transportation
+We conducted a survey in 2025 as the latest wave of our multi-year State of Supply Chain Sustainability
+study. The survey captured standardized quantitative data from a broad pool of professionals in supply chain,
+sustainability, operations, procurement, and logistics, enabling comparability with prior waves. Using
+purposive and snowball sampling through professional associations, the MIT Global SCALE Network , partner
+lists, events, and social media, we gathered 1,203 valid responses from 97 countries. Eligibility required
+current employment and familiarity with supply chain or sustainability activities. Participation was voluntary,
+anonymous, and limited to one response per individual. The survey, averaging 45 questions, was offered in
+English, Spanish, French, Simplified Chinese, and Portuguese. It included multiple-choice, open-ended, and
+Likert scale questions (1–5) to capture priorities, practices, perceptions, and challenges related to
+sustainability. In addition to capturing the respondents’ business function, the extent of their involvement in
+sustainability initiatives, and the geographical locations of their companies, the survey questions revolved
+around the following three major themes:
+4
+
+[Page 13]
+Respondents Role
+33.5%
+28.1%
+26.7%
+5%
+Company Size
+Business Sector
+13
+Figure 1: Demographics of the 2025 State of Supply Chain Sustainability Survey
+1,203 RESPONSES 
+97 COUNTRIES
+5 LANGUAGES
+Issue No.06
+Respondent Location
+36% North America
+9% Central & South America
+and the Caribbean
+19% Europe
+10% Africa
+24% Asia
+2% Oceania
+Transportation and Warehousing
+Manufacturing - Other
+Wholesale and Retail
+Technology and Information Services
+Manufacturing - Consumer Goods
+Healthcare and Services
+Manufacturing - Food and Beverages
+Manufacturing - Heavy Industry
+Finance and Insurance
+Other
+Natural Resources - Oil and Gas Extraction
+Manufacturing - Chemicals
+Natural Resources - Agriculture, Forestry, Fishing
+Natural Resources - Mining (Except Oil and Gas)
+Construction
+Utilities
+Accomodation and Food Services
+Natural Resources - Other
+
+[Page 14]
+Globally, over the past few years, many regulations for
+greenhouse gas (GHG) emissions for companies have been
+approved and put in place, and, in some cases, have been
+rolled back after being approved. Whether that is due to
+administration changes or to the lack of clarity on how the
+regulation will be enforced, it makes it hard for companies
+to know what is expected of them. We are interested in
+how these changes affect what businesses decide to do.
+The survey results show that sustainability remains a
+strategic priority for companies across both the U.S. and
+Europe, with 80% of the businesses surveyed believing
+sustainability is important or extremely important for the
+long-term success of their business.
+ 
+THE ROLE OF
+REGULATIONS
+14
+Corporate Sustainability Commitment Persists Despite Policy Changes
+State of Supply Chain Sustainability 2025
+
+[Page 15]
+Despite the U.S. withdrawal from the Paris Agreement, Figure 2 shows that over 70% of businesses report no
+change in their sustainability commitment, with an additional 12% of companies even increasing their efforts.
+Corporate sustainability strategies might operate indep endently of national climate policy shifts, driven by
+factors beyond federal political positions, or they might use the strictest regulation that needs to be met to
+drive their organization's goals.
+In Europe, 60% of businesses responded “Yes” to facing pressure to enhance supply chain sustainability
+compared to 46% in North America, suggesting that the push for sustainability is more significant and
+widespread in the European market (see Figure 3). Further, in Europe, regulation is the primary anchor. The
+Corporate Sustainability Reporting Directive (CSRD), along with the European Sustainability Reporting
+Standards and assurance requirements, is pushing companies to standardize disclosures and improve data
+governance. This regulatory framework directly affects European businesses and indirectly affects non-EU
+multinationals through EU subsidiaries, listings, and value-chain expectations. In the United States, motivation
+more commonly originates with investors and boards/C-suites rather than government regulations, not to
+mention customers from the European market. Multinational companies are requiring their suppliers to meet
+CSRD standards and data collection practices.
+15
+Figure 2. Corporate Sustainability Commitment Remains Stable Despite U.S. Paris Withdrawal
+Issue No.06
+
+[Page 16]
+16
+In addition to regional differences in sustainability drivers, confidence in achieving sustainability goals varies
+slightly across regions. Among companies rep orting high confidence levels ( 4 or 5 on the 5-point scale),
+64.4% of European businesses and 56.7% of North American businesses indicate high confidence.  
+Figure 3. Regional Comparison of Companies Feeling Pressure to Make Sustainable Changes, By Region
+Figure 4. Confidence Levels of Companies in Reaching Their Sustainability Goals,  
+1 being least confident, and 5 being extremely confident, By Region
+State of Supply Chain Sustainability 2025
+Overall, more than half of all surveyed businesses (56.2%) express high confidence in their ability to reach
+sustainability goals, with 35.86% reporting level 4 confidence and 20.34% expressing extremely high
+confidence, suggesting that despite implementation challenges, most companies remain optimistic about
+turning their sustainability commitments into measurable outcomes.
+
+[Page 17]
+17
+Sustainability in Decision-Making: Impact
+of Public Commitments and Stakeholder
+Pressure
+In examining companies that have maintained their
+sustainability commitments since January 2025, we
+focused on how they operate in p
+ractice to assess
+whether their sustainability goals are embedded in
+day-to-day activities. Our research shows that there
+is a notable execution gap between strategic intent
+and daily practice of an organization. Only 39% of the
+businesses reporting unchanged or increased
+commitment since the Trump administration have
+actually integrated sustainability indicators into
+routine operational decision-making.
+Figure 5. From Commitment to Action: Share of Businesses Integrating Sustainability in Daily Decisions
+Issue No.06
+
+[Page 18]
+18
+Interestingly, businesses with publicly stated sustainability goals show significantly higher levels of daily
+sustainability integration compared to those without public commitments. Among companies that have
+made public sustainability pledges, 57.33% frequently or always incorporate sustainability decisions into their
+daily operations, whereas only 13.38% of businesses without public goals achieve this level of integration (see
+Figure 6). We also find that businesses across sectors and
+ regions that have publicly committed to goals and
+face pressure from diverse stakeholders tend to invest more in high-impact sustainability initiatives, including
+renewable energy adoption, product innovation, waste reduction, and circular economy.
+Figure 6. Businesses with Public Goals Show Higher Sustainability Integration Rates
+State of Supply Chain Sustainability 2025
+Businesses with sustainability goals are 74% more likely to invest in initiatives
+that effectively reduce their emissions.
+This suggests that public accountability mechanisms create stronger internal pressures to embed
+sustainability principles into business operations. The findings highlight that external commitments and
+transparency are associated with a more systematic implementation of sustainability practices beyond
+strategic statements.
+
+[Page 19]
+19
+Overall, the findings show that while regulatory volatility
+creates uncertainty, it has not weakened corporate
+sustainability momentum. Companies continue to view
+sustainability as strategically important, often setting
+targets that anticipate or exceed policy requirements.
+Regional differences remain clear; European businesses are
+more directly shaped by regulation, while North American
+organizations lean on investor and board priorities, but in
+both circumstances, public commitments and stakeholder
+pressure drive deeper integration of sustainability into
+business practice. Importantly, businesses that make their
+goals explicit are far more likely to embed them into daily
+decisions and invest in high-impact initiatives,
+underscoring that transparency and effective execution are
+key enablers of meaningful progress.
+57% of companies with
+public sustainability
+pledges embed
+sustainability into daily
+operations, signaling
+that commitments are
+increasingly operational,
+not just aspirational.
+Issue No.06

@@ -1,0 +1,119 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-109-C08
+Parent Doc ID: A-RES-109
+Page Range: Page 22 to Page 23
+Word Range: 10307 - 11739
+Word Count: 1,433
+--------------------
+
+[Page 22]
+3.3.4 Cluster 4: traceability and product quality in the food supply chain . Olsen and Borit
+(2013) defined traceability as the ability to access information related to things that are to be
+considered throughout their whole life cycle using recorded identification. The term
+“Traceability” includes both “tracing” and “tracking” (Dandage et al. , 2017). Tracing is a
+reverse process in which origin is identified in the supply chain, and tracking is a forward
+process where the end users are identified by the location in the supply chain.
+The articles in this cluster are divided into three main sub-themes such as quality and
+safety, sustainability and cost-related issue. Traceability is recognized as a mechanism for
+quality and safety (Manzini et al., 2013), improving sustainability (Giagnocavo et al., 2017;
+Mattevi and Jones, 2016a) and reducing the overall cost (Dandage et al. , 2017) of the food
+product since it reduces the recall ’s probability. Dabbene et al. (2014) identified many issues
+related to traceability of bulk products, fraud prevention, quality and identity preservation
+concerns and food crisis management. For the past few years, many developed and
+developing countries, for instance, Austria, Germany, the UK, etc., have made it mandatory
+to implement food traceability systems (Riviere and Buckley, 2012). However, it is
+surprising that India, the second largest producer of fruits and vegetables in the world
+(Saxena and Gandhi, 2014), does not have any required traceability system (Schroeder and
+Tonsor, 2012).
+In recent years, an increasing effort in the implementation of traceability systems can be
+seen, mainly as a result of a growing concern with food quality and safety issues (Saltini
+et al. , 2013). An optimized and sustainable supply chain necessarily requires taking into
+account the traceability (Germani et al. , 2015). To overcome the food quality and safety
+issues, it is necessary to develop a trusted food traceability system, which can track and
+monitor the complete lifespan of food production (Lin et al. , 2018). Of late, McDonald
+restaurants presented the food traceability system to monitor the item sources from various
+providers of the nation, keeping in mind the end goal to give food security and quality
+(Dandage et al. , 2017). For this, a mobile application called TrackMyMacca ’s was created.
+Through this application, the global positioning system (GPS) provides the location of the
+restaurant, the tracking image on the McDonald ’s packaging is recognized by the software,
+and combining these data along with date and time, the application accesses McDonald ’s
+supply database to get the story of the products. Proper traceability in the food industry is
+required due to the precarious nature of the existing supply chain and to reduce the
+numerous cases of food safety incidents and fraudulence (Dandage et al., 2017). Improving
+sustainability in the SME food sector usually leads to a higher cost. However, by creating
+transparency through the traceability, consumers have to be convinced that often higher
+prices are involved to improve sustainability (Khan et al., 2018). A smart traceability system
+in the SME food sector can be built by the application of modern technologies such as cloud
+computing, GPS, Internet of Things (IoT), Big Data, artificial intelligence (AI), etc., into
+traditional agriculture. Lin et al. (2018) conducted a study on the influence of Blockchain and
+IoT technologies on the agri-food sector and found that these technologies help to build a
+self-organized, open, trusted and ecological smart agriculture system, which includes all
+parties in the system, even if they may not trust each other.
+From the analysis, it is observed that studies on the impact of traceability on
+sustainability and cost of the product need further attention. Developing smart traceability
+system in the SME food sector is a ripe research area. From Table X, it is observed that
+empirical and quantitative models have received much attention. Our results indicate that
+meat and poultry and fruits and vegetables sectors are the most addressed food sector in
+this cluster.
+3.3.5 Cluster 5: asymmetric price transmission system in the supply chain . This cluster
+focussed on the degree to which price changes are transferred along the FSC. Price transmission,
+40
+JAMR
+17,1
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
+
+[Page 23]
+in short, is the process in which upstream prices affect downstream prices. The welfare of
+farmers and food consumers is affected by horizontal and vertical price transmission in the FSC
+(Pokrivcak et al., 2014). Price transmission from producer prices to consumer prices refers to
+vertical price transmission, whereas horizontal price transmission means the interconnection
+among different markets at the same positionin a supply chain. The main causes of asymmetric
+price transmission, as narrated in the literature, are existence of adjustment and menu costs that
+occur due to the re-pricing and the acquisition of an advanced pricing strategy (Meyer and
+Cramon-Taubadel, 2004), market power (Daiet al., 2017; Aysoy et al.,2 0 1 5 ;B a k u c set al., 2014)
+a n dm i s c e l l a n e o u sc a u s e ss u c ha sa s y m m e t r i ci n formation, inventory management and political
+intervention (Meyer and Cramon-Taubadel, 2004), etc. Adjustment cost occurs when there is a
+change in a new pricing strategy or re-pricing,and APT arise if these costs are asymmetric with
+respect to increases or decreases in prices (Simioniet al., 2013). APT is mainly related to market
+distortion like market power of retailers or processors (Pokrivcaket al.,2 0 1 4 ) .G e n e r a l l y ,f o o d
+industries are oligopolistic in nature (Bakucset al., 2014), and the price transmission is influenced
+more by the market power in downstream sectors by decreasing the purchasing prices in the
+upstream sectors.
+Domestic producer prices are associated with the law of one price to world prices,
+whereas the consumer prices depend on both producer prices as well as the efficiency of
+price transmission (Liu et al., 2018). In agricultural and food markets, a hike in the producer
+prices is transferred more rapidly to consumer prices than a producer price decline, which is
+passed through the FSC to consumer prices more slowly and incompletely. Empirical
+studies illustrate that APT is the rule rather than the exception (Rezitis and Pachis, 2018).
+Our results found that empirical modelling is widely used in this cluster.
+3.4 Research implications
+The food industry represents one of the largest manufacturing sectors in the global
+economy. FSC has been coined to depict the activities or operations from production,
+distribution, and consumption so as to keep the safety and quality of various food products
+under efficient and effective modes (Blandon et al. , 2009b). A major portion of the food
+processing and distribution industries participating in the FSC comprises of SMEs.
+Implementing SCM practices to improve the operations in food SMEs is not as easy as in
+bigger counterparts, as there may be lots of complexities and difficulties in analysing the
+operational objectives (Nabhani and Shokri, 2009). Indeed, both academics and practitioners
+pay increasing attention towards the supply chain issues in food SMEs. Despite this
+growing attention, the extant literature has yet to provide any evidence of a systematic
+review of supply chain issues in SME food sector. To address this research gap, we present
+an SLR of supply chain issues in SME food sector on the basis of BC and co-word analysis.
+The findings of this research exhibit the following implications for research, practice, and
+society. The policy makers could use the findings for developing strategies for the
+betterment of SMEs in the FSC, which will provide huge employment opportunities and
+ensure regional balance by taking industrialization to rural and backward areas.
+Our review contributes to the body of FSC literature by reporting the major supply chain
+issues/themes, the current research trends and the different modelling approaches used in
+the SME food industry. We have identified five major themes, of which two themes, namely,
+GHG emission impact of the farm food system and traceability and product quality in the
+FSC, have received increasing attention in recent years. Our findings support the recent
+study (Mattevi and Jones, 2016a) that suggests managers should see “being traceable” as a
+strategic objective as it is “being green”, and it further reports that traceability could follow
+the sustainability development path, due to consumer pressure on traceability. Food
+traceability is one of the main factors in the evaluation of quality assurance systems in the
+41
+Supply chain
+issues in SME
+food sector
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

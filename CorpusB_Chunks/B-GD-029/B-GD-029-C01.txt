@@ -1,0 +1,62 @@
+--- CHUNK HEADER ---
+Chunk ID: B-GD-029-C01
+Parent Doc ID: B-GD-029
+Page Range: N/A (Web Scraped / Text Extract)
+Word Range: 1 - 1009
+Word Count: 1,009
+--------------------
+
+Doc ID: B-GD-029
+Title: Which City is Known As the Turmeric City of India ? 
+Source Domain: jagranjosh.com | Publish Date: 20260429T040000Z
+URL: https://www.jagranjosh.com/general-knowledge/which-city-is-titled-as-the-turmeric-city-of-india-1820008327-1
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export spice
+Retrieval Date: 2026-07-09
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,A,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (3 agri + 3 trade friction terms) | Gran: Overview narrative (1386 words, 0 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (1386 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-spices-sps-hurdles
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+India is known to be the land of spices and every spice in this country belongs to a city. While Kashmir is known for its saffron, black pepper hails from Kerala, India also has a city which is known for its turmeric and it has been titled as the Turmeric City. Let’s find out which city is awarded with this title.
+
+READ| Which Country is Known as the Playground of Europe?
+
+Erode, located in Tamil Nadu, is known as India's Turmeric City. Erode is located near the banks of the river Kaveri and two of its main tributaries which are the Bhavani and Noyyal rivers. That is why, Erode is considered one of the richest and most fertile districts of Tamil Nadu.
+
+The Tamil Nadu Tourism website mentions: “Erode is Tamilnadu's very own city of Turmeric and textiles. The place is a captivating mix of bustling markets, the constant whirr of looms, the beautiful water bodies, temples and dams.”
+
+The title wasn't given to this city overnight. It's been given to it for its decades of cultivation, trade and having one of the largest spice markets in the country.
+
+Turmeric is highly cultivated in Erode district and the Erode turmeric market is officially the second-largest in India after Nizamabad located in Telangana.
+
+The Erode District website mentions: “Erode district is also known for Turmeric for its extensive cultivation and Market. Erode Turmeric Market is second best in India next to Nizamabad.”
+
+Erode district has a total horticultural area of 55,030 ha which includes turmeric as one of the most prominent crops cultivated across the region.
+
+The other known attribute of the turmeric grown in Erode is that it is rich in curcumin which is the compound that makes it yellow and also has many health benefits. So it's no surprise that Erode's turmeric is in demand in India, the US, UK and other Southeast Asian countries.
+
+The TNAU Agritech Portal states that the curcumin content found in Erode’s turmeric is around 3.9%.
+
+And lastly, Erode’s turmeric has been granted Geographical Indication (GI) Tag status by the Government of India which is a seal of approval that confirms that it is turmeric from a particular region of India which is another seal of approval for export.
+
+Erode district came into existence after the bifurcation of Coimbatore district by a Government Order issued on 31st August 1979 and the history of the district dates back to Sangam Age in Kongu Nadu. The Erode District website mentions: “Erode District came into being as a result of the bifurcation of Coimbatore District, through the G.O.Ms.No.1917, Revenue dated 31.08.1979. Bhavani, Erode and Sathyamangalam taluks were included in Coimbatore district which had a composite character, at the beginning of the century.”
+
+Erode district is located between 10°36" and 11°58" North Latitude and 76°49" and 77°58" East Longitude and it is landlocked district with Northern border at Karnataka, Eastern border at the districts of Namakkal and Karur, Southern and Western border at the Coimbatore and Nilgiri districts. The official website of the district mentions: “Erode District lies on the extreme north of Tamil Nadu. It is bounded mostly by Karnataka State and also River Palar covers pretty long distance. To the East lies Namakkal and Karur Districts. Tiruppur District is its immediate neighbour to the South and on the West, it has Coimbatore and Nilgiri Districts, as its boundaries. Thus Erode District is essentially a land-locked area having no sea-cost of its own. Erode District situated at between 10 36” and 11 58” North Latitude and between 76 49” and 77 58” East Longitude.”
+
+It is India's second largest turmeric market where first is Nizamabad as per the Department of Horticulture.
+
+Erode is a district of special significance on the industrial map of Tamil Nadu as it has centuries of long tradition of handloom, carpets and oil-pressing industries.
+
+Erode has the Vellode Bird Sanctuary where it hosts a large swampy area which houses migratory birds like pelicans, darters, teals and pintail ducks and it is best to visit the district between October to March. The Erode District website mentions: “It is at a large lake surrounded with semi-dark bushes near Vellode. This .772 km2 (0.298 sq mi) sanctuary is home to many foreign birds. The sanctuary features thousands of birds coming from various countries, some of which can be easily identified. Some easily found bird species include cormorants, teals, pintail ducks, pelicans, and darters.”
+
+Erode is not just a city in Tamil Nadu. It has built its identity by a single spice. From its Sangam times to being the second largest turmeric market in India, Erode has proved that this title fits it well.
+
+READ| Which Country is Titled As the Emerald of the Equator?
+
+Nikhil is a dedicated digital journalist and communications professional with more than five years of experience, currently working within the General Knowledge section at Jagran Josh. He has established himself as a subject matter expert in Finance, Economy, History, Technology, and Trending News, consistently delivering accurate, engaging, and easy-to-read content for a wide global audience.
+
+Over the course of his career, Nikhil has developed deep expertise in crafting informative listicles, viral trending stories. His editorial portfolio also spans finance, historical research, and technology reporting, making him a versatile and well-rounded content professional. Every piece he produces reflects a strong balance between factual accuracy and reader engagement.

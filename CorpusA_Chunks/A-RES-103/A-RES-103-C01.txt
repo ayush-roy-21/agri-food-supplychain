@@ -1,0 +1,179 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C01
+Parent Doc ID: A-RES-103
+Page Range: Page 1 to Page 5
+Word Range: 1 - 1431
+Word Count: 1,431
+--------------------
+
+[Page 1]
+In response to information provided by the competent authority, any factual error noted in 
+the draft report has been corrected; any clarification appears in the form of a footnote.
+EUROPEAN COMMISSION
+DIRECTORATE-GENERAL FOR HEALTH AND FOOD SAFETY
+Health and food audits and analysis
+DG(SANTE) 2022-7490
+FINAL REPORT OF AN AUDIT
+CARRIED OUT IN
+INDIA
+FROM 07 SEPTEMBER 2022 TO 29 SEPTEMBER 2022
+IN ORDER TO
+EVALUATE THE CONTROL OF RESIDUES AND CONTAMINANTS IN LIVE 
+ANIMALS AND ANIMAL PRODUCTS INCLUDING CONTROLS ON VETERINARY 
+MEDICINAL PRODUCTS
+Ref. Ares(2023)2003092 - 20/03/2023
+
+[Page 2]
+I 
+Executive Summary 
+This report describes the outcome of an audit of India, carried out from 7 to 29 September 2022 as 
+part of the European Commission's Directorate -General for Health and Food Safety planned work 
+programme. 
+The objective of the audit was to evaluate the effectiveness of official controls on residues and 
+contaminants in live animals and animal products eligible for export to the European Union and for 
+which India is seeking approval of its residues monitoring plans . The audit assessed the 
+implementation of the residue monitoring plan for the commodities in question and the reliability of 
+the guarantees offered by India in ensuring that the commodities concerned do not contain residues 
+of veterinary medicinal products, pesticides and contaminants exceeding EU maximum limits. It 
+also assessed the authorisation, distribution and use of veterinary medicinal p roducts, given that 
+these areas have an impact on the monitoring of residues.  
+Overall, this report concludes that the residue monitoring plan for aquaculture compl ies with the 
+minimum requirements established in EU legislation and is implemented as planned. The  
+implementation of the residue monitoring plan for milk , for which India is not approved, is 
+weakened by the fact that the sampling and reporting strategy  reduces the likelihood of non-
+compliances for certain substances  being reported. Furthermore, a very high incidence of non-
+compliant results for aflatoxin M1 was noted for that programme.   
+With regard to  follow-up of non- compliant results  in aquaculture , invest igations are undertaken  
+quickly, but in many cases did not  identify the origin of the non- compliance.  The number of non-
+compliant results for residues of substances banned from use in food- producing animals in the EU 
+and in Indian aquaculture, found in both the national residue monitoring plan and in the pre-export 
+testing programme has not decreased in the last three years. In particular, there is a 20% 
+noncompliance rate for such substances in samples taken in  hatcheries and the over -the-counter 
+availability of these substances on the Indian market is likely to contribute to the problem .  The fact 
+that the number of RASFF notifications for EU-banned substances in aquaculture products remains 
+low, is more a reflection of  the effectiveness of the mandatory pre -export testing programme in 
+identifying and preventing the export of non-compliant consignments to the EU.  
+Concerning the laboratory network, there has been clear progress in their analytical performance 
+since the previous Commission audit in 2018.  Notwithstanding this, the  effectiveness of testing in 
+poultry is weakened by shortcomings in method validation as not all of the matrices tested  have 
+been validated to date.   
+With regard to veterinary medicinal products, there are few changes in comparison to the findings 
+of previous Commission audit reports.  Substances that are banned in the EU  for use in food-
+producing animals remain on the market in India as ov er-the-counter medications (albeit not for 
+aquaculture animals).  Whilst there  is a  control system on the distribution and use of veterinary 
+medicinal products, it contains many gaps in comparison to what is required in the EU and does not 
+contribute to the guarantees on the residues status of food of animal origin provided by the various 
+residue testing programmes in place.  
+ 
+The report contains recommendations to the competent authorities of India aimed at rectifying the 
+shortcomings identified and enhancing the implementation of the control measures in place.
+
+[Page 3]
+II 
+TABLE OF CONTENTS 
+1 Introduction .................................................................................................................................... 4 
+2 Objectives of the audit ................................................................................................................... 4 
+3 Legal Basis ..................................................................................................................................... 5 
+4 Background .................................................................................................................................... 5 
+4.1 Country status in relation to EU-approval of residue monitoring plans ................................. 5 
+4.2 Summary of previous Commission audits .............................................................................. 6 
+4.3 Rapid Alert System for Food and Feed (RASFF) notifications .............................................. 6 
+4.4 Production and trade information ............................................................................................ 7 
+5 Findings and Conclusions .............................................................................................................. 7 
+5.1 Residue monitoring ................................................................................................................. 7 
+5.1.1 Competent authorities ...................................................................................................... 7 
+5.1.2 Planning of residue monitoring ....................................................................................... 8 
+5.1.3 Implementation of the residue monitoring plan ............................................................. 10 
+5.1.4 Other residues monitoring programmes ........................................................................ 12 
+5.1.4.1 PHT for aquaculture ............................................................................................... 12 
+5.1.4.2 PET scheme for aquaculture .................................................................................. 13 
+5.1.4.3 Official monitoring in EIC-approved export establishments (EIA monitoring 
+scheme)  ................................................................................................................................ 14  
+5.1.4.4 Establishment own-checks ...................................................................................... 14 
+5.1.5 Follow-up of non-compliant results ............................................................................... 15 
+5.1.5.1 Aquaculture ............................................................................................................ 15 
+5.1.5.2 Milk ......................................................................................................................... 18 
+5.1.5.3 Poultry .................................................................................................................... 19 
+5.1.6 Laboratories ................................................................................................................... 20 
+5.1.6.1 EIA Pilot Test House Mumbai ................................................................................ 23 
+5.1.6.2 EIA Kochi ............................................................................................................... 24 
+5.1.6.3 EIA Chennai ........................................................................................................... 24 
+5.1.6.4 MPEDA Kochi ........................................................................................................ 25 
+5.1.6.5 MPEDA Bhubaneswar ............................................................................................ 25 
+5.2 Veterinary medicinal products .............................................................................................. 26 
+5.2.1 Authorisation, distribution and use of veterinary medicinal products .......................... 26 
+5.2.2 Official controls on distribution and use of veterinary medicinal products .................. 30 
+6 Overall Conclusions ..................................................................................................................... 32 
+7 Closing Meeting ........................................................................................................................... 33 
+8 Recommendations ........................................................................................................................ 33
+
+[Page 4]
+III 
+ABBREVIATIONS & DEFINITIONS USED IN THIS REPORT 
+Abbreviation  Description  
+AHD 1-aminohydantoin (Marker residue of the nitrofuran drug nitrofurantoin) 
+AMOZ 3-amino-5-morpholinomethyl-2-oxazolidone ( Marker residue of the 
+nitrofuran drug furaltadone) 
+AOZ  3-amino-2-oxazolidinone (Marker residue of the nitrofuran drug 
+furazolidone) 
+CAA  Coastal Aquaculture Authority 
+EC  European Community 
+EIA  Export Inspection Agency 
+EIC  Export Inspection Council 
+ELISA  Enzyme-Linked Immuno-Sorbent Assay 
+EU  European Union 
+Group A, B  Categories of substances listed in Annex I to Council Directive 96/23/EC 
+ISO  International Organisation for Standardisation 
+LC-MS/MS  Liquid Chromatography-(Tandem) Mass Spectrometry 
+ML  Maximum Level 
+MPEDA  Marine Products Export Development Authority 
+MRL  Maximum Residue Limit 
+NABL National Accreditation Board for Calibration and Testing Laboratories 
+PET Pre-Export Testing 
+PHT Pre-Harvest Testing 
+RASFF  Rapid Alert System for Food and Feed 
+SDLA State Drug Licensing Authorities  
+SEM Semicarbazide (Marker residue of the nitrofuran drug nitrofurazone) 
+SFA State Fishery Authority
+
+[Page 5]
+4 
+1 INTRODUCTION 
+The audit took place during the period from 7 to 29 September 2022 and was 
+undertaken as part of the planned work programme of the Directorate -General for 
+Health and Food Safety  and following a request by the Indian competent authority to 
+list additional commodities in the Annex to Commission Decision 2011/163/EU.  
+It covered India´s system of controls on residues and contaminants in live animals and 
+animal products and the effectiveness of official controls on the use of veterinary 
+medicinal products in food-producing animals. The audit team comprised three auditors 
+from the Commission and one expert from a European Union (EU) Member State. 
+This audit was carried out by using a combination of remote meetings (by 
+videoconference) and on-the-spot visits. Opening meetings were held on the 7th and 12th 
+September 2022 with representatives of the Export Inspection Council (EIC), the 
+Export Inspection Agencies (EIAs) from Delhi, Mumbai, Kochi, Kolkata  and Chennai, 
+the Marine Product s Export Development Authority (MPEDA), the Coastal 
+Aquaculture Authority (CAA), the Central Drugs Standard Control Organisation 
+(CDSCO), the Department of Animal Husbandr y and the Food Safety and Standards 
+Authority of India (FSSAI). 
+At these meetings, the objectives of the audit were confirmed, and the control systems 
+were described by the competent authorities. Representatives from the EIC and the 
+central MPEDA accompanied the audit team during the on-the-spot part of the audit. 
+2 OBJECTIVES OF THE AUDIT 
+The objective of the audit was to verify the effectiveness of official controls on residues 
+and contaminants in live animals and animal products eligible for export to the E U and 
+for which India was seeking residue monitoring plan approval (and listing in the Annex 
+to Decision 2011/163/EU (1)). The audit team assessed: 
+• the adherence to the residue monitoring plan s approved by the EU  for 
+aquaculture products; 
+• the guarantees provided by the residue monitoring plans impleme nted for 
+milk and poultry, for which India has sought listing as mentioned above; and 
+• the reliability of the guarantees offered by India  in ensuring that the 
+commodities concerned do not contain residues of veterinary medicinal 
+products, pesticides and contaminants exceeding EU maximum limits. 
+Since the national rules governing t he authorisation, distribution and use of veterinary 
+medicinal products (including those administered via feed) have an impact on the 
+effectiveness of the residue monitoring plans, the control systems in these areas were 
+also included in the audit. 
+  
+ 
+(1) From 15 December 2022, this Decision is repealed and replaced by Annex -I to Regulation (EU) 2021/405.

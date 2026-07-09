@@ -1,0 +1,118 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-109-C09
+Parent Doc ID: A-RES-109
+Page Range: Page 24 to Page 25
+Word Range: 11740 - 12975
+Word Count: 1,236
+--------------------
+
+[Page 24]
+SME sector. A smart traceability system in the SME food sector can be built by the
+application of modern technologies such as IoT, cloud computing, GPS, Big Data, block
+chains, AI, etc., as the findings of Mattevi and Jones (2016b) confirmed that SMEs of the UK
+do not consider technology as a driver to implement traceability, albeit product safety,
+quality and regulations are observed as the main drivers. Several countries have set up the
+specific regulations or policies for food traceability of a broad range of food and animal
+products of both domestic and imported origin. Although traceability of livestock and meat
+products has improved through the harmonization of animal identification systems in many
+countries, systems allowing for the same level of traceability for other food commodities are
+still far from being fully implemented (Charlebois, 2015).
+The FSC contributes 20 – 30 per cent of the GHG emissions in terms of the global
+environmental impact. This is mainly as a result of a large amount of resources required for
+the food production and formation of the food waste in the whole life cycle (Noya et al., 2018).
+However, the consumers ’ awareness of high-quality food products produced in an
+environmentally friendly way has increased considerably in the last decade (Notarnicola
+et al. , 2012). In order to comply with consumers ’ expectations and also improve the
+competitiveness, companies and retailers have developed new strategic approaches for
+sustainable food production and consumption across the whole supply chain. LCA
+methodology has been extensively used as a tool to assess the environmental profile of the
+food products, as shown in Figure 9. The dairy sector has received increasing attention in
+the environmental impact analysis (see Table X). The strong environmental impact of milk
+production has driven researchers to investigate mitigation measures, and several countries
+have tried to respond with initiatives of varying levels of complexities at different stages of
+the supply chain (Torquati et al., 2015). The concept of local food and food miles is gaining
+traction in recent years as a way of eating fresh and high-quality foods and reducing the
+environmental impact. When carbon footprints are exclusively observed, other important
+issues like water usage are neglected. Sustainable practices for water footprint mitigation in
+FSC need further attention.
+4. Conclusion
+This paper presents an SLR and a comprehensive analysis of 1,091 articles in supply chain
+issues in SME food sector from 2002 to 2018. To understand the dynamic evolution, we
+adopted a comparative approach to the analysis of the data, which we divided into two
+roughly equal parts. We used BC combined with co-word analysis to identify the historical
+relations of the research themes that emerged during the periods 2002 – 2014 and 2002– 2018.
+The broader thematic context is obtained for the period 2002 – 2014, whereas the inclusion of
+recent articles (i.e. 2015– 2018) resulted in identifying the emerging research directions out of
+these broader issues. From the results of bibliographic network and co-word analysis on the
+data, we detected five major themes as production and distribution in AFN, relationship,
+safety and standards in FSC, GHG emission impact of farm food system, traceability and
+product quality in FSC and asymmetric price transmission in the FSC. It is identified that
+GHG emission and traceability themes have received increasing attention in recent years. It
+is observed that “SME” is associated with all the four clusters except the asymmetric price
+transmission, indicating the association of this keyword with the corresponding clusters.
+The research articles are further analysed with reference to the research focus, modelling
+approaches used and food sectors addressed. The major food sector addressed in the SME
+FSC is the dairy sector, followed by fruits and vegetables, meat and poultry, seafood sector
+and grain and oil seeds, respectively. The most commonly used modelling techniques are
+empirical methodology/case study, followed by conceptual or qualitative method, and
+review; however, quantitative method needs further attention.
+42
+JAMR
+17,1
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
+
+[Page 25]
+The proposed review has a few limitations. In our study, only the title and abstract of all
+the research articles in each cluster are text mined. Our results and findings may advance if
+the frequent words or phrases used in the entire research article are text mined. As a future
+extension and to avoid the drawbacks, the entire article can be included for the analysis.
+Unpublished works, conference proceedings and doctoral thesis were not included in the
+review. Also, we excluded articles before 2002, even though the number of articles published
+before this time period is very limited.
+References
+Aramyan, L.H. and Kuiper, M. (2009), “Analyzing price transmission in agri-food supply chains: an
+overview”, Measuring Business Excellence , Vol. 13 No. 3, pp. 3-12.
+Auler, D.P., Teixeira, R. and Nardi, V. (2017), “Food safety as a field in supply chain management
+studies: a systematic literature review ”, International Food and Agribusiness Management
+Review, Vol. 20 No. 1, pp. 99-112, available at: https://doi.org/10.22434/IFAMR2016.0003
+Barbara, K. and Wichmann, L.K. (2016), “Article information: social network analysis in supply chain
+management research ”, International Journal of Physical Distribution & Logistics Management ,
+Vol. 46 No. 8, pp. 740-762, available at: https://doi.org/10.1108/09600039710757736
+Bazzani, C. and Canavari, M. (2013), “Alternative agri-food networks and short food supply chains: a
+review of the literature ”, Economia Agro-Alimentare , Vol. 15 No. 2, pp. 11-34.
+Bjurström, P. (2011), “On the use of bibliometrics for domain analysis: a study of the academic field of
+political science in Europe (dissertation) ”, available at: http://urn.kb.se/resolve?urn =urn:nbn:se:
+uu:diva-155192 (accessed 1 December 2018).
+Bonacich, P. (1987), “Power and centrality: a family of measures ”, American Journal of Sociology ,
+Vol. 92 No. 5, pp. 1170-1182, available at: https://link.springer.com/chapter/10.1007/978-3-658-
+21742-6_14
+Bonacich, P. (2007), “Some unique properties of eigenvector centrality ”, Social Networks, Vol. 29 No. 4,
+pp. 555-564, available at: https://doi.org/10.1016/j.socnet.2007.04.002
+Boyack, K.W. and Klavans, R. (2010), “Co-citation analysis, bibliographic coupling, and direct citation:
+which citation approach represents the research front most accurately? ”, Journal of the
+American Society for Information Science and Technology , Vol. 61 No. 12, pp. 2389-2404,
+available at: https://doi.org/10.1002/asi
+Charlebois, S. (2015), “Market performance and food safety compliance for small food businesses: the
+case of fifth town artisan cheese ”, Critical Reviews in Food Science and Nutrition , available at:
+https://doi.org/10.1080/10408398.2013.848423
+Cobo, M.J. and Herrera, F. (2011), “An approach for detecting, quantifying, and visualizing the
+evolution of a research field: a practical application to the fuzzy sets theory field ”, Journal of
+Informetrics, Vol. 5 No. 1, pp. 146-166, available at: https://doi.org/10.1016/j.joi.2010.10.002
+Colicchia, C. and Strozzi, F. (2012), “Supply chain risk management: a new methodology for a
+systematic literature review”, Supply Chain Management: An International Journal, Vol. 17 No. 4,
+pp. 403-418, available at: https://doi.org/10.1108/13598541211246558
+Dabbene, F., Gay, P. and Tortia, C. (2014), “Traceability issues in food supply chain management: a
+review
+”, Biosystems Engineering, Vol. 120, April, pp. 65-80, available at: https://doi.org/10.1016/
+j.biosystemseng.2013.09.006
+Dani, S. and Deep, A. (2010), “Fragile food supply chains: reacting to risks ”, International Journal
+of Logistics Research and Applications , Vol. 13 No. 5, pp. 395-410, available at:
+https://doi.org/10.1080/13675567.2015.1065802
+Denyer, D. and Tranfield, D. (2009), “Producing a systematic review”, in Buchanan, D.A. and Bryman, A.
+(Eds), The Sage Handbook of Organizational Research Methods , Sage Publications, London,
+pp. 671-689.
+43
+Supply chain
+issues in SME
+food sector
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

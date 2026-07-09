@@ -1,0 +1,238 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C06
+Parent Doc ID: A-MSME-102
+Page Range: Page 40 to Page 44
+Word Range: 6587 - 8248
+Word Count: 1,662
+--------------------
+
+[Page 40]
+40
+provides Unique Registration Numbers (URN) and Udyam Assist Certificates (UAC). URN is 
+crucial for MSMEs to access priority sector lending. However, several of the estimated 6.34 
+crore MSMEs, mainly Informal Micro Enterprises (IMEs), remain unregistered due to various 
+barriers. To help IMEs formalize, an ‘Assist Methodology’ is proposed. Designated Agencies 
+(DAs) like banks, NBFCs, and MFIs will assist IMEs in registration. The central URN will play 
+a key role in MSME formalization, making Udyam-registered IMEs eligible for priority sector 
+loans and facilitating digitalization  (MSME Formalisation project, 2023). Along with this, GST 
+has eased tax compliance and influenced formalization. However, stringent labour laws, tax 
+burden, complex regulations and extensive costs as a result of formalization acts as deterrents 
+for the formalization of MSMEs
+Adoption of an all-of-economy approach that addresses a multitude of challenges faced by 
+enterprises at all levels- from reasons to stay unregistered and issues after formalization to 
+assessing the degree of formalization necessary in an economy is vital.
+
+[Page 41]
+41
+Access to Finance2.
+Released by RBI, Statements I and II set out data on the sectoral deployment of bank 
+credit collected from 41 select scheduled commercial banks, accounting for about 95% of 
+the total non-food credit deployed by all scheduled commercial banks.
+A compilation of data from these statements for the latest month, which is September, in 
+conjunction with older data released by RBI for the same months in the past four years, shows 
+that the credit share of 
+14%
+in September 
+2020 to 20%
+in September 
+2024
+Micro and Small enterprises has consistently increased, rising from
+to
+While the growth is slower compared to micro and small enterprises, the share of medium 
+enterprises has gradually increased from 4% in September 2020 to 9% in September 2024. 
+This reflects a positive trend for MSMEs in terms of bank credit deployment. Efforts by 
+financial institutions and governments to enhance credit flow to these sectors have been 
+successful. 
+Change in share of 
+Sectoral Deployment 
+of bank credit in the 
+across industries
+Fig. 4
+Sep,2020
+Mar,2021
+Sep,2021
+Mar,2022
+Sep,2022
+Mar,2023
+Sep,2023
+Mar,2024
+Sep,2024
+0%
+20%
+40%
+60%
+80%
+100%
+Source: RBI Sectoral 
+Deployment of Bank 
+Credit – September 
+2024, September 2023, 
+and September 2022
+Micro and Small
+Medium
+Large
+14
+82
+4 5 6 7 8 8 8 8 9
+15
+81
+16
+78
+17
+76
+18
+74
+19
+73
+19
+73
+20
+72
+20
+71
+CAGR of the Sectoral 
+Deployment of Bank 
+Credit
+Fig. 5
+Industry Micro and Small Medium Large
+Source: RBI Sectoral 
+Deployment of Bank Credit – 
+September 2024, September 
+2023, and September 2022
+Sep 2020 to Sep 2024
+Mar 2021 to Mar 2024
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+7.64%
+7.15%
+29.08%
+4.11%
+7.57%
+18.80%
+29.93%
+3.54%
+
+[Page 42]
+42
+Additionally, credit growth in the Micro and Small and Medium Segments from September 
+2020 to September 2024, at a CAGR of 17.15% and 29.08%, respectively, was much higher 
+than the industrial average of 7.64%.
+However, even with these metrics of rising credit availability to MSMEs, there has been high 
+incidence of credit gap in the sector. The perception of SMEs as high-risk and commercially 
+unviable entities has resulted in limited SMEs receiving formal financial assistance (Ambrose, 
+2012). Indian banks, in particular, are hesitant to finance small enterprises due to reasons such 
+as the inability to provide collateral, high levels of nonperforming assets, high transaction 
+costs, and difficulties in verifying the creditworthiness of applicants (Prasad, 2006). Along with 
+this, the financial services that banks offer are often insufficient to meet the needs of early-
+stage SMEs in India (Banerjee, 2006).
+₹80 Lakh crores
+FY21 MSME credit
+Total MSME demand of debt ₹69.3 lakh crore as of FY 17
+Formal sources of ₹10.9 lakh crore
+Increased to
+Informal sources/Credit Gap MSME 
+demand of ₹58.4lakh crores
+The credit gap is met 
+through informal sources
+Source: IFC Report on Financing India’s MSME Nov 2018; Industry Report on Small Business Loans in India, Five-Star Business Finance and 
+CRISIL, November 2021 
+In fiscal 2017, only 16% of the Rs 69.3 trillion MSME credit demand was met through formal 
+financing, leaving a credit gap of Rs 58.4 trillion, primarily filled by informal sources with 
+interest rates of 30% to 60%. The gap widened further due to the 2020 economic slowdown 
+and the COVID-19 pandemic. Despite relief from schemes like ECLGS, by fiscal 2021, only 19% 
+of the Rs99 lakh crore credit demand was formally met, with CRISIL estimating the credit gap 
+to have grown to Rs80 lakh crore.
+Accessing external finance from sources other than banks is costly, limited, and poses a 
+challenge to SMEs despite being essential for long-term growth and goals (Biswas, 2014). 
+Due to constraints in accessing bank credit, MSMEs are forced to employ alternative sources 
+of finance. While accessing finance from formal institutions, MSMEs face several barriers, 
+including the need for collateral or guarantees, inflexible policies, high lending rates, lengthy 
+procedures, entrepreneurs' limited financial knowledge of available schemes, high service fees 
+and complex regulatory frameworks (Singh & Wasdani, 2016) , (Ambrose, 2012)). This restricted 
+access to financial resources hampers the growth and survival prospects of Indian MSMEs. 
+Barriers have also been examined in the context of gender (Irwin & Scott, 2010), firm size, the
+
+[Page 43]
+43
+length of lending relationships, and the use of overdraft credit (Bebczuk, 2004). The Reserve 
+Bank of India (2005) has identified several issues in financing SMEs, including inadequate 
+access to finance for small firms due to a lack of financial information and non-formal business 
+practices, limited access to private equity, venture capital, and secondary market instruments, 
+fragmented markets for inputs and vulnerability of products to market fluctuations, limited 
+access to technology and product innovations, lack of awareness of global best practices, and 
+significant delays in settlement of dues and payment of bills by large-scale buyers. A reduction 
+in the cost of credit, time barriers and documentation is necessary to ease the procurement of 
+finance (Grant Thornton, FICCI, 2011)
+Some of the reasons for the low financial inclusion of SMEs are no effective management tool 
+in place, lack of knowledge of banking guidelines, and ineffective mechanisms to weigh the 
+creditworthiness of the company (Subramanian & Nehru, 2012). To increase access to finance, 
+confidence in the abilities of MSMEs and remedial measures for investors is necessary.
+To increase access to finance, confidence in the abilities of MSMEs and 
+remedial measures for investors is necessary.
+Skill Gap3.
+Between 2014 and 2022, the number of skilled employees in medium, small, and large 
+enterprises witnessed significant growth, with increases of 19.94%, 20%, and 12.72%, 
+respectively, as reported in the World Bank Enterprise Survey data. 
+Large enterprises Medium enterprises Small enterprises 
+19.94%12.72% 20%
+Nonetheless, the increase in skilled labour is relatively modest compared to the development 
+pace seen in the past decade. A significant mismatch exists between the quantity and 
+calibre of available skills and the skills needed. This discrepancy is highlighted by the Global 
+Innovation Index ranking (WIPO, 2023), revealing a 3.9 percentage point decline in knowledge-
+intensive hiring from the already modest 12.96% recorded in 2022. This continues to hinder 
+the development of MSMEs.
+
+[Page 44]
+44
+A 2009 study by NCAER on India’s Textile and Clothing sector found that there is a massive 
+gap between the availability of skilled labour and the needs of the industry. It recommends 
+industry-specific skill development and revisions in labour law to overcome these barriers. 
+They point out that a highly skilled labour pool is required to move towards value products, 
+which is required for the development of the industry through innovation and R&D. MSMEs 
+are also unable to hire skilled labourers on the managerial level due to the informal nature of 
+the industry and better employment opportunities available for such skilled workers due to 
+the informal nature of the industry and better employment opportunities available for such 
+skilled workers (Khatri, 2019). The scarcity of skilled labour is a significant obstacle for MSMEs, 
+hindering their capacity to innovate, enhance production standards, and scale their operations. 
+These are essential steps for establishing a strong foothold in Global Value Chains.
+The diversity and scattered structure of MSMEs call for focused skill development 
+programs. Cluster-based targeting of skills training, developing sector-specific occupational 
+standards, exploring cost-sharing models for skills training of existing employees, and clearly 
+understanding the needs of unregistered MSMEs will help bridge the skill gap and enhance 
+SMEs’ competitiveness (Sinha & Pental, 2017).
+Technology and Innovation4.
+Given the significance of the MSME sector, it is crucial to ensure the competitive position of 
+Indian SMEs, both on the national and international stages, with technology and innovation 
+serving as pivotal factors. Research has highlighted the importance of investing in Research 
+and Development (R&D) activities, improving quality control processes, and fostering 
+innovation ecosystems to enhance MSME competitiveness (C, 2013); (Kanerva, Arundel, 
+& Rene). Moreover, the ability to adapt and incorporate emerging technologies, such as 
+digitalization and automation, is increasingly vital for competitiveness (OECD, 2019). On the 
+Innovation front, India holds the 40th position among 132 economies in the 2023 Global 
+Innovation Index by WIPO (PIB Delhi, 2023), assessing innovation through 80 indicators. Indian 
+manufacturing relies heavily on labour-intensive activities, hindering their potential in GVCs. 
+Despite improvements since 2015, India’s innovation performance needs enhancement, 
+especially within MSMEs, to boost competitiveness. 
+Research highlights the challenges faced by small and medium-sized enterprises (SMEs) in 
+India regarding technology and innovation. Patchouri & Sharma (2016) found that smaller 
+firms often rely on domestic sources for technology, with only a small fraction sourcing 
+from abroad or collaborators. Singh (2019) identified several issues impeding technology 
+innovation implementation in Northern India’s small firms, such as inadequate human 
+resource management, difficulty in acquiring affordable raw materials, and unreliable power 
+supply. Unlike their counterparts in developed economies, these factors limit SMEs’ access 
+to international technology and innovation. In the Philippines, Ceuto et al. (2022) explored 
+the drivers and barriers to digital innovation among MSMEs, citing a lack of digital skills, 
+digital market challenges, and insufficient internet infrastructure as significant hurdles. 
+The diversity 
+and scattered 
+structure of 
+MSMEs call for 
+focused skill 
+development 
+programs.

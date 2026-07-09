@@ -1,0 +1,226 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-102-C02
+Parent Doc ID: A-RES-102
+Page Range: Page 5 to Page 7
+Word Range: 2014 - 3491
+Word Count: 1,478
+--------------------
+
+[Page 5]
+Table 1 
+The impact and application of DT in agri-food system. 
+Agri-food system Impact of DT Component of DT Application of DT in agri-food References
+Production Enhance efficiency, productivity, sustainability, and 
+transparency
+Smartphone applications, precision 
+agriculture
+Irrigation, fertilization, and harvesting of crops [6,23,24]
+Remotely monitoring, tracking, and managing the 
+performance of machineries
+Global Navigation Satellite 
+System (GNSS)
+Crop’s health and yield, livestock [25]
+Remotely monitoring, prediction, and decision-making 
+processes related to the crop’s health and livestock
+IoT, sensors, drones, data analytics and 
+machine learning algorithms
+Soil moisture, and pest infestations [26]
+Processing Enhance productivity, reduce waste, enhance food safety, 
+increase traceability and sustainable
+IoT, sensors, actuators, and connected 
+machineries, robots, and automation 
+systems
+Process optimization, anomalies detection [6]
+Resilient and adaptive to changing market demands Big Data, advanced analytics, and AI Sorting, packing, and quality control [7,27]
+Reducing labor costs, enhancing speed and accuracy, and 
+minimizing the risk of accidents
+Robots and automation systems, AI, 
+sensors
+Sorting, packing, and quality control [28]
+Distribution and 
+consumption
+Improve efficiency, transparency, and sustainability IoT, AI, blockchain, data analytics, and 
+mobile applications
+Supply chain management [27]
+Real-time monitoring, tracking food products during 
+transport, ensuring food safety and quality
+Blockchain, IA, sensors Inventory management and transportation 
+routing
+[7]
+Prevent foodborne illnesses, reduce the risk of recalls, and 
+build consumer trust in the quality and safety of food products
+IoT, sensors Supply chain management [29]
+Predict demand, optimize logistics, identifying inefficiencies, 
+and automating tasks, facilitate personalized marketing and 
+direct-to-consumer sales
+Online marketplaces and delivery 
+platforms, AI algorithms
+Supply chain management, Personalized 
+recommendations, and targeted advertising
+[30]
+Food disposal/reusing Optimize waste management, enhancing sustainability and 
+efficiency
+IoT, sensors Waste management [6]
+Optimize processes and predict future waste, aiding efficient 
+resource allocation
+Advanced analytics and machine learning Waste generation, disposal/reuse flows [31]
+Facilitating surplus food redistribution and reducing waste Digital platforms Stakeholders’ connection [32]
+Ensures traceability, transparency, and tracking food origins Blockchain, mobile apps, and web tools Waste management [33]
+Enhancing efficiency and recycled material quality Robotic systems Waste facilities automate sorting, recycling, 
+and composting
+[34]
+DIGITRANS Vahdanjoo, Sørensen and Nørremark 5
+www.sciencedirect.com Current Opinion in Food Science 2025, 63:101287
+
+[Page 6]
+secure, transparent, and efficient transactions without 
+relying on intermediaries), but geopolitical pro -
+tectionism can impose data localization laws, impacting 
+cloud-based and data-sharing solutions. Conversely, 
+geopolitical collaborations offer opportunities for 
+knowledge exchange and technology transfer, fostering 
+sectoral innovation. The sector’s growth is also tied to e- 
+commerce, the online trading model that aligns it with 
+global economic and political trends.
+In the digitally transforming agri-food sector, securing 
+data is vital, especially with rising geopolitical tensions 
+heightening cyber threats. Robust cybersecurity is cru -
+cial to protect sensitive data and critical infrastructure 
+against these threats [37] . Blockchain technology is 
+particularly beneficial, enhancing traceability and redu -
+cing fraud in cross-border e-commerce and food supply 
+chains [38] . Keeping hardware and software updated is 
+essential for cybersecurity. With increased awareness 
+and stricter data protection regulations, including man -
+datory breach notifications and higher fines, the sector is 
+expected to align its digital transformation with these 
+cybersecurity demands. Companies need to navigate 
+these regulations while ensuring data security and 
+privacy compliance. However, failing to adopt cyberse -
+curity practices to the agri-food sector’s unique structure 
+and complexities could lead to vulnerabilities, risking 
+food supply chain disruptions. As reliance on DT grows 
+in agriculture, cybersecurity risks underscore the need 
+for significant investment in cybersecurity research and 
+development to safeguard the food and feed supply.
+Challenges of digital transformation in agri- 
+food systems
+One of the primary barriers to successful digital trans -
+formation is the concern over data privacy and security. 
+Both public and private organizations regularly en -
+counter difficulties in guaranteeing the security and 
+privacy of data shared during digital transformation in -
+itiatives [39] . This can result in a lack of trust among 
+stakeholders and impede collaboration. Establishing 
+trust among stakeholders is essential for the effective 
+implementation of digital transformation [40] . Issues 
+such as a lack of transparency in data exchange processes 
+and governance can create obstacles to collaboration and 
+impede progress. Additionally, power dynamics within 
+supply chains can pose a significant barrier to successful 
+digital transformation efforts [41] . Companies may en -
+counter resistance from suppliers or partners who are 
+reluctant to embrace new technologies or processes.
+The digital divide is yet another obstacle to transfor -
+mation, referring to the gap between those with access to 
+DTs and those without [42] . This discrepancy can 
+hinder digital transformation, as organizations may 
+struggle to engage with stakeholders who lack digital 
+literacy or essential technological infrastructure. Ad -
+ditionally, inadequate technology infrastructure can im -
+pede digital transformation efforts, especially in regions 
+with limited connectivity or outdated systems.
+Organizations may face challenges implementing new 
+technologies or processes without the necessary infra -
+structure in place [43] . Integrating various systems and 
+technologies can also be complex, particularly when sys -
+tems are not compatible. This lack of interoperability can 
+create barriers to data exchange and collaboration be -
+tween organizations. Inconsistent data formats and stan -
+dards can further impede the exchange of information, 
+resulting in inefficiencies and errors. Achieving data in -
+teroperability is crucial for successful digital transforma -
+tion initiatives [44] . Organizations operating across 
+borders must navigate a complex regulatory environment, 
+characterized by varying data protection and privacy laws 
+in different countries [45] . A deeper engagement with 
+governance and policy aspects, including interoperability, 
+regulations, and compliance, is obvious for ensuring effi -
+ciency, legal certainty, and sustainable growth.
+The digitalization of the agri-food system faces key aca -
+demic challenges. These include designing IT systems with 
+a clear purpose, specifying accurate data requirements, uti -
+lizing big data analytics, developing digital twins, and en -
+suring data interoperability and standardization. Moreover, 
+there is a lack of reference and ground truth data for vali -
+dating sensor data and enhancing AI capabilities in agri -
+culture. The nature of diversified and circular agri-food 
+systems further complicates these challenges, requiring in -
+novative and adaptable digital solutions.
+Digitalization requires an interdisciplinary approach, 
+combining expertise from data science, computer sci -
+ence, system engineering (including AI, Machine 
+Learning, and Big Data), and communication technolo -
+gies. Additionally, it demands insights from social sci -
+ences, economics, business, and organizational studies to 
+understand its broader impacts. Knowledge in produc -
+tion and operations management, along with biological 
+science and domain-specific expertise, is crucial. 
+Importantly, digitalization must be evaluated at a system 
+level, not just at the device level, to ensure holistic and 
+sustainable integration across various domains.
+Digital transformation of agri-food systems requires a 
+systemic approach to digitalization that looks beyond in -
+dividual technologies to explore interconnected techno -
+logical systems, such as IoT and sensor networks, and 
+data ecosystems, as well as how they interact with agri -
+cultural, ecological, economic, and regulatory systems. 
+This requires integration across user-level digitalization, 
+farm-level digitalization, agri-food chain digitalization, 
+and policy-level digitalization. This multilevel integration 
+must ensure a comprehensive digital transformation, 
+6 Innovations in Food Science 
+www.sciencedirect.com Current Opinion in Food Science 2025, 63:101287
+
+[Page 7]
+addressing the complexities of the agri-food sector for 
+more efficient, sustainable, and resilient food systems.
+Given the complex challenges within the agri-food value 
+chain, particularly in areas such as real-time replanning 
+and optimization, it is evident that DT still faces ob -
+stacles in efficiently processing vast amounts of data, 
+adapting to dynamic conditions, and providing action -
+able solutions promptly. Interoperability and standardi -
+zation of data formats also pose significant hurdles, as 
+data from various sources often differ in structure and 
+frequency, making cohesive integration a daunting task.
+Moreover, optimization algorithms, particularly those 
+leveraging AI and machine learning, can be computa -
+tionally intensive, adding another layer of complexity to 
+the digitalization of agriculture. Data transfer limitations 
+also present a critical issue, especially in large-scale 
+systems, amplifying the complexity and flow of data 
+within the agri-food system.
+Coordinating multiple interconnected entities in real- 
+time, such as vehicles, machinery, and personnel, further 
+compounds the challenges of synchronization and deci -
+sion-making. Additionally, developing user-friendly in -
+terfaces for decision-making tools remains a crucial 
+concern, especially in human-in-the-loop systems where 
+operators rely on clear, understandable data outputs for 
+quick decision-making.
+The traceability of products within the agri-food system, 
+aided by blockchain technology, is another critical issue 
+that has not been fully realized due to infrastructure 
+limitations and cost constraints. Furthermore, issues 
+surrounding data ownership, regulations, and policies in 
+data spaces present ongoing challenges that must be 
+addressed in order to fully unlock the potential of DT in 
+the agricultural sector.
+Based on Figure 3 , it can be concluded that the value 
+chain of a circular agri-food system is intricate, involving 
+Figure 3  
+Current Opinion in Food Science
+Overview of digital transformation in agri-food system.
+DIGITRANS Vahdanjoo, Sørensen and Nørremark 7
+www.sciencedirect.com Current Opinion in Food Science 2025, 63 :101287

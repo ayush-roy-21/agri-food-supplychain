@@ -1,0 +1,142 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C19
+Parent Doc ID: A-MSME-102
+Page Range: Page 98 to Page 100
+Word Range: 24386 - 25647
+Word Count: 1,262
+--------------------
+
+[Page 98]
+98
+Enhancing supply chain infrastructure in agriculture, horticulture, and food processing can 
+help unlock employment potential, sustain food security, and support adaptation efforts in the 
+face of geopolitical and technological threats to manufacturing and services.
+ii. Enhance Risk Management through Digital and Insurance Solutions
+iii. Integrating AI in MSMEs
+Indian MSMEs must be introduced to affordable, digital risk management solutions that 
+help businesses track supply chains, monitor inventory, and manage logistics in real time. 
+Technologies such as sensor-based tracking for goods or automation tools for inventory 
+management can reduce operational risks. It will require developing tailored insurance 
+products that combine traditional risk transfer with innovative digital tools (e.g., IoT -based 
+risk monitoring) for MSMEs to be encouraged to adopt insurance solutions that protect them 
+against economic shocks, such as pandemics or natural disasters. For beverages and food-
+related value chains in Malaysia and Thailand, insurance combined with sensor-based cargo 
+tracking devices has proved to be an important and holistic resilience solution to reduce the 
+risk of damage to property and goods in transit states a report about MSME resilience in 
+Thailand and Malaysia by United Nations Development Programme (UNDP). These solutions 
+not only mitigate risks but also address them and help to build further customised solutions, 
+especially for distribution partners or aggregators. Further, MSMEs must be educated on 
+the importance of digital tools and insurance for business continuity and growth. Insurance 
+providers and tech firms can partner to offer training and affordable packages to enhance 
+MSMEs’ resilience.
+Integrating Artificial Intelligence (AI) into MSMEs presents multiple challenges that hinder 
+widespread adoption, as per a joint study by Nasscom and Meta . Many MSMEs struggle to 
+understand and comply with India’s data protection laws. This lack of awareness makes it 
+difficult for businesses to manage data responsibly and comply with legal requirements. Also, 
+MSMEs need better guidance on complying with legal frameworks while integrating 
+AI. Lack of clear understanding of the legal landscape can result in unintentional 
+non-compliance. MSMEs should receive accessible, simplified guides and training 
+programs on data protection 
+laws. The government and 
+industry bodies can create 
+awareness campaigns 
+and offer workshops 
+to help 
+businesses
+
+[Page 99]
+99
+iv. Increase Institute for Collaborations (IFCs)
+As defined by Porter and Emmons in (Institutions for Collaboration : Overview . Background 
+note, January 2003), IFCs encompass both formal and informal actors that actively promote 
+the establishment and growth of clusters among involved stakeholders.  IFCs serve as 
+instrumental entities in cluster development, contributing significantly to product research 
+and development (R&D). Their influence extends beyond product development, encompassing 
+the enhancement of productivity, fostering innovation, and optimising processes through 
+innovative methodologies. The proximity of IFCs to any cluster is paramount, as it substantially 
+contributes to its overall productivity and innovative capacity.
+For MSMEs, forging connections with IFCs proves particularly beneficial, providing them with 
+opportunities to upgrade their technology. Given the inherent constraints of limited resources 
+and capabilities faced by MSMEs, IFCs emerge as invaluable partners in undertaking essential 
+research and innovation endeavours. In the Indian context, the Micro and Small Enterprises-
+Cluster Development Programme (MSE-CDP) has incorporated Common Facilitation Centres 
+(CFCs). These CFCs are designed to furnish shared infrastructural facilities to MSMEs. 
+However, a compelling need exists to elevate the sophistication of these CFCs to align them 
+with the high standards set by IFCs. Strengthening IFCs demands a strategic approach 
+involving membership consolidation and expansion.
+understand how to safeguard data and build compliant operations. Governments and industry 
+associations should provide targeted guidance, including mentorship programs and resources 
+that demystify the legal aspects of AI adoption. A dedicated legal compliance resource centre 
+can help MSMEs navigate the complexities of data protection and other AI-related regulations.
+An important aspect is the lack of availability of expertise on AI with MSMEs. In the study, 74% 
+of MSMEs acknowledge AI’s potential but lack the in-house expertise to identify and integrate 
+suitable AI tools into their workflows. 72% of MSMEs reported difficulty accessing the training 
+needed to upskill their workforce for AI implementation. The absence of trained staff makes 
+understanding complex algorithms and data science methodologies difficult. A collaborative 
+space for MSMEs with academic institutions, startups, and AI consultants can help to bridge 
+the skills gap. Governments and private players should create affordable, accessible training 
+platforms focused on AI and digital skills. Industry partnerships can help create training 
+programs tailored to the specific needs of MSMEs, offering both online courses and hands-on 
+workshops to build the AI expertise required for successful implementation.
+59% of MSMEs face financial limitations that hinder their ability to invest in AI technologies, 
+which include high costs of AI tools, compute infrastructure, and training. Additionally, 91% 
+of MSMEs believe AI should be democratically available and affordable. For example, MSMEs 
+could be provided financial support, such as subsidies, grants, or low-interest loans, to help 
+them invest in AI. Public-private collaborations can offer affordable AI solutions, including 
+cloud-based models that reduce upfront costs. Further, offering tax incentives or special 
+funding programs for MSMEs adopting AI technologies can ease financial constraints.
+IFCs serve as 
+instrumental 
+entities in cluster 
+development, 
+contributing 
+significantly to 
+product research 
+and development 
+(R&D).
+
+[Page 100]
+100
+Some technological solutions to enhance credit flow of 
+MSMEs under development:
+GST SAHAY is a digital lending platform that aims to 
+provide MSMEs with easy and quick access to credit. 
+It leverages the power of technology and the vast 
+amount of data generated by the Goods and Services 
+Tax (GST) system to assess the creditworthiness of 
+MSMEs. GST SAHAY aims to address the challenges 
+MSMEs face in accessing credit, particularly those 
+that lack traditional collateral.
+GST SAHAY utilises the GST invoices generated by MSMEs as 
+collateral to assess their creditworthiness. This means that MSMEs can access 
+credit based on their business transactions rather than traditional collateral like 
+property. The platform is entirely digital, making it easy for MSMEs to apply for and 
+receive loans. The use of technology and the integration with the GSTN (Goods and 
+Services Tax Network) allow for faster loan processing and disbursement. Integrating 
+GSTN with the Account Aggregator (AA) framework is crucial in making GST SAHAY a 
+reality. This integration will allow seamless access to financial data, making the credit 
+assessment process even more efficient and transparent.
+The Ministry of MSME is actively working to transform the UDYAM Portal into a 
+comprehensive one-stop solution for MSMEs. This involves integrating the portal 
+with other relevant platforms, collaborating with SIDBI to develop the Udyam Assist 
+Platform, and utilizing the Digilocker platform for secure document storage.
+The Ministry launched the Udyam Assist Portal (UAP) on January 11, 2023, to further 
+extend support to the informal sector. This portal aims to facilitate the onboarding 
+of Informal Micro Enterprises (IMEs), enabling them to access the benefits of 
+Priority Sector Lending. The UAP empowers IMEs to tap 
+into various financial and non-financial support schemes 
+by simplifying the registration process and providing a 
+digital platform.
+GST SAHAY App
+UDYAM Portal and Udyam Assist Portal (UAP)
+Source: 68th report of Standing Committee on Finance (2023-24) “Action taken 
+by the Government on the Observations/Recommendations contained in the 
+Forty-Sixth Report (17th Lok Sabha) on the subject ‘Strengthening Credit Flows to 
+the MSME Sector”.
+To achieve this, initiatives should foster collaboration and knowledge networks among 
+universities, research institutes, and private entities. Such collaborative efforts will facilitate 
+seamless R&D and knowledge exchange, thereby enhancing the overall capabilities of IFCs 
+and, consequently, the clusters they support. Furthermore, it is imperative to establish forums 
+for the timely sharing of industry information. A thorough review of the property rights 
+framework is essential to mitigate the risks associated with companies divulging trade details 
+through IFCs to other industry players.

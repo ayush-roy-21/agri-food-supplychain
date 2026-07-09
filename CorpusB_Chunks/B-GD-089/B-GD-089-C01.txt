@@ -1,0 +1,164 @@
+--- CHUNK HEADER ---
+Chunk ID: B-GD-089-C01
+Parent Doc ID: B-GD-089
+Page Range: N/A (Web Scraped / Text Extract)
+Word Range: 1 - 1003
+Word Count: 1,003
+--------------------
+
+Doc ID: B-GD-089
+Title: Certificate of Origin Goes Digital : DGFT 2026 Amendment to FTP
+Source Domain: india-briefing.com | Publish Date: 20260411T123000Z
+URL: https://www.india-briefing.com/news/dgft-certificate-of-origin-amendments-ftp-hbp-2023-44018.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export MPEDA
+Retrieval Date: 2026-07-09
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,A,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (3 agri + 8 trade friction terms) | Gran: Substantive depth (1292 words, 2 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (1292 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-spices-sps-hurdles
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+The Directorate General of Foreign Trade (DGFT) has introduced important amendments to the Foreign Trade Policy (FTP) 2023 and the Handbook of Procedures (HBP) 2023. These changes, announced via gazette notifications, primarily focus on strengthening the framework for issuance, verification, and digitalization of the Certificate of Origin (CoO).
+
+A CoO is an official document that certifies the country where goods are manufactured. It plays a critical role in international trade by enabling importing countries to determine applicable tariffs and regulatory treatment.
+
+CoOs are broadly classified into:
+
+The amendments to Para 2.90 of HBP 2023 introduce a fully digital and standardized mechanism for CoO issuance:
+
+Only agencies listed in Appendices 2B, 2C, 2D, and 2E are permitted to issue CoO.
+
+List of Agencies Authorized to issue Certificate of Origin [Preferential]
+
+Global System of Trade Preferences (GSTP)
+
+Export Inspection Council (EIC)-for all goods
+
+Marine Products Export Development Authority (MPEDA) -for Marine products
+
+Tobacco Board for Tobacco products
+
+Textile Committee- Textile and made-ups
+
+ASEAN-India Free Trade Agreement (ASEAN-India FTA)
+
+Textile Committee- Textile and made-ups
+
+India-Malaysia Comprehensive Economic Cooperation Agreement
+
+Textile Committee- Textile and made-ups
+
+South Asia Free Trade Area (SAFTA)
+
+Textile Committee- Textile and made-ups
+
+India-Chile Preferential Trading Agreement (India-Chile PTA)
+
+Textile committee- Textile and made-ups
+
+India-Singapore Comprehensive Economic Cooperation Agreement (CECA)
+
+Textile Committee- Textile and made-ups
+
+India – UAE Comprehensive Economic Partnership Agreement (CEPA)
+
+EIC and Export Inspection Agencies- All products
+
+MPEDA and regional offices—Marine products
+
+Development Commissioner, Handicraft and regional offices- – Handicraft
+
+Spices Board- Spices and Cashew nuts
+
+Coir Board – Coir and Coir products
+
+Textile Committee and regional offices – Textiles and Clothing
+
+Central Silk Board and regional offices – Silk products
+
+MEPZ SEZ – All products by units in Madras SEZ and EOUs located within the jurisdiction.
+
+Kandla SEZ – All products manufactured by units in Kandla and Surat SEZs and EOUs located within the respective jurisdiction
+
+SEEPZ SEZ – All products manufactured by units in SEEPZ SEZ and EOUs located within the respective jurisdiction
+
+Cochin SEZ – All products manufactured by units in Cochin SEZ and EOUs located within the respective jurisdiction
+
+NOIDA SEZ – All products manufactured by units in Noida SEZ and EOUs located within the respective jurisdiction
+
+Vishakhapatnam SEZ – All products manufactured by units in Vishakhapatnam SEZ and EOUs located within the respective jurisdiction
+
+Falta SEZ – All products manufactured by units in Falta SEZ and EOUs located within the respective jurisdiction
+
+DGFT and regional offices – All products
+
+Tobacco Board- Tobacco and tobacco products
+
+India-Australia Economic Cooperation and Trade Agreement (ECTA)
+
+EIC and Export Inspection Agencies – All products
+
+MPEDA and regional offices—Marine products
+
+Development Commissioner, Handicraft, and regional offices -Handicraft
+
+Spices Board- Spices and Cashew nuts
+
+Coir Board- Coir and Coir products
+
+Textile Committee and regional offices- Textiles and Clothing
+
+Central Silk Board and regional offices- Silk products
+
+MEPZ SEZ – All products by Units in Madras SEZ and EOUs located within the jurisdiction.
+
+Kandla SEZ- All products manufactured by units in Kandla and Surat SEZs and EOUs located within the respective jurisdiction
+
+SEEPZ SEZ- All products manufactured by units in SEEPZ SEZ and EOUs located within the respective jurisdiction.
+
+Cochin SEZ-All products manufactured by units in Cochin SEZ and EOUs located within the respective jurisdiction
+
+NOIDA SEZ-All products manufactured by units in Noida SEZ and EOUs located within the respective jurisdiction
+
+Vishakhapatnam SEZ- All products manufactured by units in Vishakhapatnam SEZ and EOUs located within the respective jurisdiction
+
+Falta SEZ-All products manufactured by units in Falta SEZ and EOUs located within the respective jurisdiction
+
+DGFT and regional offices- all products.
+
+Tobacco Board -Tobacco and tobacco products
+
+India-European Free Trade Association – Trade and Economic Partnership Agreement (India-EFTA TΕΡΑ)
+
+EIC and Export Inspection Agencies
+
+Central Silk Board and regional offices
+
+Coir Board Development Commissioner
+
+Handicraft and regional offices
+
+Textile Committee and regional offices
+
+Source: Foreign Trade Policy, procedures documents/appendices.
+
+For a complete list of authorized agencies allowed to issue preferential and non-preferential CoOs, check out the DGFT portal; click here: www.dgft.gov.in/CP.
+
+All applications and issuance of CoOs must now be carried out exclusively through the DGFT-designated electronic platform or any other platform notified in the future.
+
+Manual issuance of CoOs or issuance outside the prescribed digital platform is not permitted. Non-compliance may result in revocation of authorization for the issuing agency.
+
+This shift ensures greater transparency, traceability, and efficiency by mandating a fully digital workflow for CoO issuance.
+
+In a separate gazette notification dated April 7, 2026, the DGFT introduced amendments to Para 2.62 of the FTP 2023, reaffirming its regulatory control over the issuance of CoO.
+
+The revised provision clarifies that only DGFT-authorized agencies are permitted to issue CoOs, and such agencies must strictly adhere to prescribed procedures and operational guidelines. This is intended to ensure standardization and consistency in certification practices across jurisdictions.
+
+Additionally, exporters are now mandated to declare identical invoice numbers in both the CoO and the shipping bill. This alignment facilitates automated cross-verification by customs systems, thereby reducing documentation mismatches and enhancing the integrity and efficiency of export processing.
+
+The Approved Exporter Scheme, which enables self-certification of origin, continues without any regulatory changes.
+
+Under the scheme, eligibility is restricted to manufacturer-exporters holding a valid Status Holder recognition. Qualified exporters are permitted to self-certify the origin of goods, thereby facilitating access to preferential tariff concessions under applicable trade agreements, including FTAs, PTAs, CECAs, and CEPAs.

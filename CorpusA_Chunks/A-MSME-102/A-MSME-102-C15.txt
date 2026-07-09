@@ -1,0 +1,189 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C15
+Parent Doc ID: A-MSME-102
+Page Range: Page 81 to Page 84
+Word Range: 18907 - 20170
+Word Count: 1,264
+--------------------
+
+[Page 81]
+81
+Examination 
+of Key 
+policies 
+designed 
+to assist 
+MSMEs
+Credit Guarantees Trust 
+for MSMEs 
+1.
+Financial inclusion for MSMEs is imperative for economic growth. However, the persistent 
+credit gap excludes them from India’s formal financial institutions. A significant reason for the 
+limited access to bank financing in this industry is the banks’ perception of high risk when 
+lending to micro and small enterprises (MSEs). The challenge of providing collateral, especially 
+for very small businesses seeking small loans and first-generation entrepreneurs, makes it 
+harder for them to access finance for their enterprise. (Ministry of Micro, Small & Medium 
+Enterprises)
+In response, the Ministry of Micro, Small, and Medium Enterprises, in collaboration with the 
+Small Industries Development Bank of India (SIDBI), established the Credit Guarantee Fund 
+Trust for Micro and Small Enterprises (CGTMSE) in 2000. The main objective was to offer 
+a collateral-free guarantee for loans and advances, which include term loans and working 
+capital assistance, provided by lending institutions to both new and existing Micro and Small 
+Enterprises. Additionally, lending institutions are required to pay guarantee fees, annual 
+service fees, and other charges as determined by the Government of India and SIDBI (About 
+CGTMSE, 2023).
+Credit Guarantee Scheme for Banks (CGS-I): 
+Credit Guarantee Scheme for NBFCs (CGS-II): 
+Credit Guarantee Scheme for Subordinate Debt (CGSSD): 
+Credit Guarantee Scheme for PM SVANidhi (CGS-PMS): 
+Credit Guarantee Scheme for Co-Lending (CGSCL): 
+The scheme provides credit guarantees of up to ₹5 crore for unsecured loans to MSMEs. This 
+includes special benefits for certain groups, such as women, SC/ST entrepreneurs, and those 
+in aspirational districts. A ‘Hybrid Security Model’ is available for partially collateralised loans.
+It was launched in 2017 to help NBFCs provide easier access to credit 
+for MSMEs. 
+The Scheme, launched in June 2020, provided credit to stressed MSMEs. It ended on March 
+31, 2023. The aim was to help MSME promoters infuse funds into their businesses through 
+equity, quasi-equity, or sub-debt.
+This scheme was launched to help street vendors affected by the COVID-19 pandemic. It 
+provided working capital loans and encouraged them to formalise their businesses and adopt 
+digital payments.
+The RBI introduced the co-lending model, which aims to improve credit access for 
+underserved sectors. It combines the lower cost of funds from banks with the wider reach of 
+NBFCs. The CGTMSE launched the CGSCL in February 2022 to further support this model, 
+providing guarantee coverage for loans extended jointly by banks and NBFCs.
+CGTMSE has five schemes under its umbrella:
+
+[Page 82]
+82
+In the last five years, from 2018-19 to 2022-23, the number of approved guarantees has 
+increased significantly, with 2022-23 reaching 11,65,786 approvals, a substantial rise from 
+4,35,520 in 2018-19 at a CAGR of 27.91%. The guarantee amount has shown consistent 
+growth, especially a sharp rise in 2022-23 to ₹1,06,474 crore, almost doubling the previous 
+year's amount of ₹55,218 crore. The dip observed in the above graph in 2020-21 can be 
+attributed to the Covid-19 pandemic. The sharp increase starting 2021-22 perhaps resulted 
+from the launch of PM SVANidhi Scheme.
+Additionally, the CGTMSE’s average loan size peaked in 2022-23 at ₹8,98,801, the highest in 
+the last five years, rising from ₹6,92,689 in 2018-19 at a CAGR of 6.73%.
+Approved 
+Guarantees 
+and Amount by 
+CGTMSE
+Average size of 
+Loans approved 
+by CGTMSE
+Fig. 16
+Fig. 17
+₹ 0.00
+0
+₹ 1,00,000
+200000
+₹ 2,00,000
+400000
+₹ 3,00,000
+600000
+₹ 4,00,000
+800000
+₹ 5,00,000
+1000000
+₹ 6,00,000
+1200000
+₹ 7,00,000
+1400000
+₹ 8,00,000
+₹ 9,00,000
+₹ 10,00,000
+2018-19
+2018-19
+2019-20
+2019-20
+2020-21
+2020-21
+2021-22
+2021-22
+2022-23
+2022-23
+
+[Page 83]
+83
+Issues in the Scheme
+This concern remained in the committee’s 68th report about “Action taken by the Government 
+on the Observations/Recommendations contained in the Forty-Sixth Report (17th Lok Sabha) 
+on the subject ‘Strengthening Credit Flows to the MSME Sector”.
+The CGTMSE, operating as a registered trust, relies on a 4:1 ratio of contributions from the 
+Government of India and SIDBI to its corpus fund. Member Lending Institutions (MLIs) must 
+register and form a formal agreement with CGTMSE to access guarantees for MSE credit. MLIs 
+include commercial banks that enter into an agreement CGTMSE and can apply guarantee 
+cover in respect of eligible credit facility sanctioned to any eligible borrower11. However, 
+procedural inefficiencies are evident.
+These issues affect both the institutions and the MSMEs they serve. Institutions struggle with 
+a lack of regulatory support and procedural consistency, leading to resource misallocation. 
+Operational challenges include accountability lapses, delayed settlements, and a slow claim 
+process. 
+“Strengthening Credit Flows to the MSME Sector”, it was highlighted
+In the 46th report of the Standing Committee on Finance (17th Lok Sabha) titled
+that only a few MSME enterprises are 
+managing to get collateral-free loans under 
+the Government schemes, with majority being 
+compelled to furnish adequate collateral even 
+after being eligible for collateral-free loans. As 
+more than 99 percent of the MSMEs belong 
+to the micro sector they typically have no 
+collateral to offer to banks.
+11     https://www.cgtmse.in/Home/VS/94
+
+[Page 84]
+84
+For MSMEs, the burden of high guarantee fees on top of already significant interest 
+rates makes accessing the scheme costly. Recognising these challenges, experts have 
+recommended increasing the guarantee cover, absorbing guarantee fees, streamlining 
+procedures, and offering truly collateral-free loans under certain conditions. Responding to 
+this, a restructured CGTMSE scheme was introduced in April 2023, with a notable ₹9,000 
+crore boost from the Union Budget FY 2023-24 to guarantee an additional ₹2 lakh crore for 
+MSEs. The scheme’s updates include halving the guarantee fees for loans up to ₹1 crore 
+and reducing the minimum fee to 0.37% annually. The guarantee cap has been raised from 
+₹2 crore to ₹5 crore, and the threshold for claim settlements without legal action has been 
+increased to ₹10 lakh. ((Mund, 2020) (Anu & Lakshmisree, 2013; Anu & Lakshmisree, 2013)).
+MSMEs also face NPA challenges, as RBI’s classification criteria (principal or interest payment 
+remained overdue for 90 days) doesn’t align with the sector’s working capital cycle. Extending 
+the classification period to 180 days, which takes into consideration the enterprise’s payment 
+abilities and allows restructuring without downgrading accounts, can provide breathing space 
+for MSMEs12 .
+For CGTMSE to effectively address credit access challenges, a comprehensive policy 
+framework with robust checks and balances is essential, enabling both borrowers and lenders 
+to fully utilise the credit system.
+Key Takeaways from other countries
+In many developing nations in Asia and the Pacific, the credit system is mainly centred 
+around banks, with nonbank financial institutions playing a minor role. The lack of credit 
+infrastructure, such as credit and collateral registries, contributes to information imbalances 
+that hinder credit access (Asian Development Bank, 2022).
+In Asia’s developing countries, the primary institutional credit mechanism is Credit Guarantee 
+Schemes (CGSs), which have effectively addressed information imbalances and expanded 
+credit access for SMEs. These schemes share the default risk with financial institutions, 
+allowing SMEs to navigate traditional credit assessments and institutional preferences.
+When comparing India’s CGTMSE with similar schemes in other countries like Korea’s KODIT, 
+Japan’s JFC, Malaysia’s CGCM, and Indonesia’s PUJKI, it’s evident that India’s CGTMSE has 
+a smaller corpus or fund size. This smaller corpus has also increased at a slow pace and 
+selective provision of services by the Indian CGS.  Some of these schemes have evolved 
+into credit information bureaus, providing SMEs with reliable risk assessments, along with 
+provision of services that facilitate access to finance and ensure efficient operations with 
+strong risk management practices. In contrast, CGTMSE lacks additional support services for 
+MSMEs and has limited direct interaction with them. (Asian Development Bank, 2022)
+In Asia’s 
+developing 
+countries, 
+the primary 
+institutional 
+credit 
+mechanism 
+is Credit 
+Guarantee 
+Schemes 
+(CGSs), which 
+have effectively 
+addressed 
+information 
+imbalances and 
+expanded credit 
+access for 
+SMEs.

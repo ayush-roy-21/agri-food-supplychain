@@ -1,0 +1,137 @@
+--- CHUNK HEADER ---
+Chunk ID: A-CSR-101-C10
+Parent Doc ID: A-CSR-101
+Page Range: Page 14
+Word Range: 14444 - 15691
+Word Count: 1,248
+--------------------
+
+[Page 14]
+Previous studies have demonstrated that actors tend to focus on 
+developing collaborations that assist them in advancing their strategic 
+goals ( Shiu et al., 2023 ); for example by developing dyadic relationships 
+with individual actors such as certifiers ( Castka et al., 2015 ). Organi -
+zations operating in such institutional environments thus primarily seek 
+to maintain their autonomy ( Drees and Heugens, 2013 ). In the context of 
+modern slavery, the autonomy is, in part, preserved by membership in a 
+particular institutional domain (i.e., contracts-focused domain). Our 
+study has extended understanding of the contracts-focused and 
+conditions-focused domains (i.e. Simpson et al., 2021 ), establishing the 
+conditions under which actors are more likely to leverage monitoring 
+technologies and develop mutual dependencies commensurate with 
+relevant strategic goals. We also identified micro- and macro-levels of 
+collaboration as well as collaborations within and between the domains 
+(see Table 5 ).
+The common perspective of RDT is to focus on the performance of the 
+dependent (focal) organization, as earlier reviews and meta-analyses 
+have widely observed ( Drees and Heugens, 2013 ; Hillman et al., 2009 ; 
+Ozturk, 2021 ). Our study of collaboration and technology extends the 
+focus of RDT to a multi-actor context, while providing theoretical con -
+tributions to the mutual dependence perspective of RDT. RDT’s mutual 
+dependence perspective has often been used in contexts where “firm 
+autonomy (fear of dependency) is no longer the key goal of firms in 
+acquiring external resources” ( Shiu et al., 2023 ). Meta-organizations or 
+other forms of decentralized multi-actor networks tend to focus on 
+persuasion to commit others to exchange resources rather than using 
+power ( Shiu et al., 2023 ). Few actors alone are unlikely to possess all of 
+the resources needed to identify modern slavery, demonstrating the 
+need to acquire important resources held by others ( Pfeffer and Salancik, 
+1978 ).
+5.3. Practical implications
+This study provides implications for a range of actor groups such as 
+managers at firms, as well as for auditors, other service providers (i.e., 
+organizations providing audit platforms), NGOs, and policymakers. For 
+example, managers should seek applications of context-appropriate 
+technology to identify modern slavery throughout their supply chains, 
+noting that success will be contingent on obtaining resources held by a 
+wide range of actors. This will require creating connections and transi -
+tions across the micro- and macro-levels of collaboration. Moreover, 
+collaborations supporting (and supported by) technology could help 
+reduce the ‘psychological distance’ of modern slavery. For example, 
+psychological distance can be reduced with access to timely, high ve -
+racity information that “help bring events of persons perceptually 
+‘closer’ to a decision-maker” ( Simpson et al., 2021 ). Worker voice 
+technologies, for instance, can enable real-time data on labor conditions 
+that help bring the experiences of workers that are typically far removed 
+spatially and socially from managers, policymakers, or customers.
+Beyond managers, there are many related implications for auditors 
+and other service providers. While using monitoring technology is not 
+about replacing human auditors, there are many ways it can impact how 
+auditors perform their jobs. Auditor training, for example, must reflect 
+the greater range of potential sources of evidence provided through 
+technological applications ( Castka and Searcy, 2023 ). Moreover, the 
+boundary spanning activities across the conditions- and 
+contracts-focused domains enabled by collaboration, technology, and 
+other resources could provide a key differentiator in the services offered 
+by different auditors ( Cossio and McNeill, 2021 ).
+There are also several related implications for other actors, including 
+governments and NGOs. Governments, for example, should continue to 
+enact legislation focused on modern slavery in supply chains, while 
+being mindful that legislation alone will not identify it. Governments 
+can take additional action, such as establishing trusted hotlines and 
+supporting technological investments (such as through tax incentives) 
+intended to identify modern slavery. Different NGOs will clearly have 
+different areas of focus and hold different resources, but examples could 
+include focusing on enabling local access to communities, standardizing 
+data collection protocols, providing trusted platforms for data exchange, 
+and developing hotspot identification capabilities. Critically, all actors 
+must recognize the challenges of identifying modern slavery working on 
+their own, and that this goal is best achieved by explicitly recognizing 
+mutual dependencies and actively working with others to build 
+collaborations.
+5.4. Limitations and future research
+Building on RDT, this research illuminated the interdependencies 
+between actors and resources through original empirical evidence 
+gathered in a modern slavery context. However, our study also had 
+limitations, which provides insight into several potential areas for future 
+research.
+Our study used experts from multiple settings and the results should 
+be seen as an aggregated framework of the shared experiences of these 
+actors. Our results thus describe the circumstances under which multi- 
+actor collaborations typically leverage monitoring technologies to ach -
+ieve their strategic goals. The conceptual framework is explicitly pre -
+sented as a building block for future work. Additionally, we did not 
+attempt to identify any ‘weight’ that should be allocated against each of 
+the four key contingencies we identified. Further research on the relative 
+importance of different contingencies in different contexts (e.g., in terms 
+of sector/region/types of supply chains/types of technologies) would be 
+valuable. Locational differences, for example, are an important dimen -
+sion that shape resource dependencies in unique ways including, for 
+example, rates of corruption, historical or political ties, and the level of 
+trade dependence between countries ( Jiang, H. et al., 2023 ). This means 
+some variance in both the nature and effectiveness of collaboration 
+across modern slavery contexts is likely given different country-specific 
+dependencies. Research that explores such nuances will further our 
+understanding of this important area.
+Our study focused on identifying modern slavery. This, however, is 
+only the start of efforts to address modern slavery in supply chains. 
+Future research should focus on how modern slavery can be reduced and 
+eliminated following its identification. The role of collaboration in 
+facilitating the remediation of modern slavery is underexplored. While 
+eliminating modern slavery in practice will likely require many key 
+actors working together ( McLaren et al., 2024 ), further underlining the 
+applicability of RDT’s mutual dependency perspective, it is also likely to 
+require a strong understanding of power imbalance in the supply chain. 
+Our study did not address the power imbalance perspective of RDT, but 
+it could be an additional approach for considering actions to eliminate 
+modern slavery. In particular, future studies can explore the circum -
+stances under which actors are coerced into particular domain mem -
+bership and whether such coercive mechanisms would change the 
+dynamics of multi-actor collaboration, i.e., in general or specifically in 
+terms of the choice of technologies adopted.
+Finally, case studies on real-world applications of monitoring tech -
+nologies in a modern slavery context are needed. This could include on- 
+the-ground investigations of the benefits and challenges of using tech -
+nology in different modern slavery settings. This would also provide 
+further opportunity to study the contingencies in leveraging monitoring 
+technologies through multi-actor collaboration, as well as an opportu -
+nity to study how collaborations evolve over time.
+6. Conclusion
+One of the reasons modern slavery persists is that it can be very 
+difficult to identify in practice. Modern slavery is often embedded deep 
+in supply chains far from public scrutiny. This creates a “psychological 
+distance” between consumers, people experiencing modern slavery, and 
+supply chain managers. Given its illegality in most jurisdictions, the 
+prevalence of modern slavery in global supply chains is often actively 
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+14
