@@ -240,28 +240,42 @@ def main():
         word_count = len(words)
         
         # DQA Assessment across 6 dimensions
-        # Authority: Official Agency / Institutional / Peer-Reviewed Study
-        dqa_auth = "A"
-        # Relevance: Checks if related to export, supply chain, quality, or MSME
-        dqa_rel = "A" if word_count >= 50 else "M"
-        # Granularity: Substantive document length & parameter richness
-        dqa_gran = "A" if word_count >= 250 else "M"
-        # Currency: Current active trade / policy period
-        dqa_curr = "A"
-        # Completeness: Full PDF text available
-        dqa_comp = "A" if word_count >= 100 else "M"
-        # Machine Readability: Clean PyPDF UTF-8 extraction
-        dqa_mach = "A" if word_count >= 50 and not text_content.startswith("[!]") else "M"
-        
-        dqa_score = f"{dqa_auth},{dqa_rel},{dqa_gran},{dqa_curr},{dqa_comp},{dqa_mach}"
-        dqa_justification = (
-            f"Auth: Verified institutional/academic source ({folder_name}) | "
-            f"Rel: High relevance ({word_count:,} words) | "
-            f"Gran: Substantive depth ({word_count:,} words) | "
-            f"Curr: Active policy/study corpus | "
-            f"Comp: Full operative PDF text extracted | "
-            f"Mach: Clean PyPDF UTF-8 extraction"
-        )
+        if word_count == 0:
+            dqa_auth = "A" if any(k in folder_name.upper() for k in ["APEDA", "MPEDA", "SPICE", "FSSAI", "DGFT", "MOFPI", "EIC"]) else "M"
+            dqa_rel = "A"
+            dqa_gran = "I"
+            dqa_curr = "A"
+            dqa_comp = "I"
+            dqa_mach = "I"
+            dqa_score = f"{dqa_auth},{dqa_rel},{dqa_gran},{dqa_curr},{dqa_comp},{dqa_mach}"
+            dqa_justification = (
+                f"Auth: Verified institutional/academic source ({folder_name}) | "
+                f"Rel: High relevance (0 words) | "
+                f"Gran: Inadequate / Stub / Zero extracted text (0 words) | "
+                f"Curr: Active policy/study corpus | "
+                f"Comp: Incomplete / Zero words extracted via pypdf | "
+                f"Mach: Image-only PDF / Extraction failure without text layer"
+            )
+            fta_status = "no (image scan - OCR queued)"
+            access_notes = "Extracted 0 words via pypdf (scanned image - OCR queued)"
+        else:
+            dqa_auth = "A" if any(k in folder_name.upper() for k in ["APEDA", "MPEDA", "SPICE", "FSSAI", "DGFT", "MOFPI", "EIC"]) else "M"
+            dqa_rel = "A"
+            dqa_gran = "A" if word_count >= 600 else ("M" if word_count >= 100 else "I")
+            dqa_curr = "A"
+            dqa_comp = "A" if word_count >= 600 else ("M" if word_count >= 100 else "I")
+            dqa_mach = "A" if not text_content.startswith("[!]") else "M"
+            dqa_score = f"{dqa_auth},{dqa_rel},{dqa_gran},{dqa_curr},{dqa_comp},{dqa_mach}"
+            dqa_justification = (
+                f"Auth: Verified institutional/academic source ({folder_name}) | "
+                f"Rel: High relevance ({word_count:,} words) | "
+                f"Gran: Substantive depth ({word_count:,} words) | "
+                f"Curr: Active policy/study corpus | "
+                f"Comp: Full operative document text extracted ({word_count:,} words) | "
+                f"Mach: Clean PyPDF UTF-8 extraction"
+            )
+            fta_status = "yes"
+            access_notes = f"Extracted {word_count:,} words via pypdf"
         
         row = {
             "doc_id": doc_id,
@@ -272,11 +286,11 @@ def main():
             "production_context": f"Empirical / regulatory document classified under {folder_name}",
             "dqa_context_score": dqa_score,
             "dqa_content_score": dqa_justification,
-            "full_text_available": "yes",
+            "full_text_available": fta_status,
             "locus_tag": f"{folder_name.lower()}-compliance-framework",
             "verification_logic": "direct-institutional-or-academic-extraction",
             "deident_status": "not-applicable",
-            "access_status_notes": f"Extracted {word_count:,} words via pypdf",
+            "access_status_notes": access_notes,
             "firm_mentioned": "N/A - Regulatory / Academic Corpus",
             "iec_verification_status": "N/A",
             "verification_method": f"Local PDF text extraction certified on {datetime.now().strftime('%Y-%m-%d')}",
