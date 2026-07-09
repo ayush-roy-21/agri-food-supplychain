@@ -33,19 +33,21 @@ To safeguard corpus integrity, all scrapers enforce **magic header verification*
 
 ## 3. Data Quality Assessment (DQA) Framework
 
-Every document admitted to CorpusA undergoes evaluation across **six quality dimensions**, scored on a standardized scale: **A (Adequate)**, **M (Marginal)**, or **I (Inadequate)**.
+Every document admitted to Corpus A and Corpus B undergoes empirical, multi-dimensional evaluation across **six quality dimensions (`Auth,Rel,Gran,Curr,Comp,Mach`)** rather than uniform rubber-stamping (`A,A,A,A,A,A`).
 
-### The 6 DQA Dimensions:
-1. **Authority (Auth)**: Source legitimacy (Statutory regulatory body vs. third-party news).
-2. **Relevance (Rel)**: Direct alignment with export certification, SPS inspection, or traceability.
-3. **Granularity (Gran)**: Substantive depth (Detailed technical parameters/SOPs vs. high-level overviews).
-4. **Currency (Curr)**: Temporal validity (Active policy frameworks or post-2020 circulars).
-5. **Completeness (Comp)**: Document integrity (Full operative text vs. truncated fragments or login forms).
-6. **Machine Readability (Mach)**: Computational accessibility (Clean UTF-8 text or OCR-searchable PDF vs. scanned image PDFs).
+### The 6 Empirical DQA Dimensions:
+1. **Authority (Auth)**: Source legitimacy (`A`: Tier-1 Primary Statutory / Institutional body vs `M`: Tier-2 Academic / Industry / Media study).
+2. **Relevance (Rel)**: Direct alignment with agri-food/marine MSME export compliance (`A`: High domain relevance vs `M`: Moderate/Macro MSME competitiveness survey).
+3. **Granularity (Gran)**: Substantive depth evaluated by exact word count (`A`: Substantive depth $\ge 600$ words or complete structured registry profile vs `M`: Overview/derived summary $100-599$ words vs `I`: Stub or zero extracted text $< 100$ words).
+4. **Currency (Curr)**: Temporal applicability (`A`: Active policy window $2024-2026$ vs `M`: Prior background reference period $2018-2023$).
+5. **Completeness (Comp)**: Document integrity (`A`: Complete operative text extracted $\ge 600$ words vs `M`: Summary orientation excerpt vs `I`: Incomplete / zero words extracted via pypdf).
+6. **Machine Readability (Mach)**: Computational accessibility (`A`: Clean UTF-8 text layer vs `M`: Multi-column PDF with table noise vs `I`: Image-only PDF / extraction failure without text layer).
 
-### Minimum Threshold for Corpus Admittance:
-- Documents scoring **`A,A,A,A,A,A`** are admitted as primary analytical records.
-- Documents scoring below **300 words** in narrative length or representing empty search forms / dynamic dashboard shells (`Loading...`) are rejected as **Inadequate** and moved to `exceptions_log.csv` with reason codes (`failed-data-quality`).
+### Scanned Image PDF & Zero-Word Extraction Protocol:
+When local `pypdf` extraction encounters scanned/image PDFs without a digital OCR text layer (`word_count == 0`), the pipeline explicitly prevents false full-text registration:
+- Skips writing empty `.txt` files on disk.
+- Sets `"full_text_available": "no (image scan - OCR queued)"` inside `master_registry.csv` to ensure downstream `BERTopic` topic modeling pipelines cleanly ignore empty documents.
+- Assigns exact `I` (Inadequate) grades across Granularity, Completeness, and Machine-Readability (`A,A,I,A,I,I` or `M,A,I,A,I,I`) and logs the item to `exceptions_log.csv`.
 
 ---
 
@@ -77,7 +79,7 @@ For global news articles and SPS border alert extraction (`gdelt_pipeline.py`), 
 2. **Strict English & ASCII Script Gate**: Rejects all non-English, Arabic, or Asian script articles where keyword collisions (e.g., matching the word `"shrimp"` inside a non-English text) create false positives.
 3. **Paywall / Adblock / ETPrime Stub Exclusion**: Eliminates login wrappers, subscription walls (`"subscribe to read"`, `"enable cookies"`), ETPrime stubs, and any article with under `65 words`.
 4. **Unconditional Pharma / Geopolitical / Macro Rejection**: Applies strict exclusion lists (`pharma_and_macro_noise`) to unconditionally drop Indian pharmaceutical news (`Dabur`, `Lupin`, `Sun Pharma`, `USFDA official action`, `generic Ozempic`), visa/immigration policies (`H-1B`), and political/market movements (`Sensex`, `Nifty`, `ceasefire`, `missile`, `Adani`).
-5. **Core Agri-Food Relevance & Trade Friction Gate**: For generic or broad queries (`"rejection"`, `"FDA"`, `"customs"`, `"EUDR"`), requires at least `1 mandatory core food term` (`spice`, `shrimp`, `seafood`, `rice`, `tea`, `mango`, `pesticide`, `aflatoxin`, `fssai`, `apeda`, `mpeda`, `mrl`, `dwpe`, etc.) and explicit trade friction terms (`rejection`, `delay`, `consignment`, `import alert`).
+5. **Core Agri-Food Relevance & Trade Friction Gate (Word-Boundary Regex Matching)**: For generic or broad queries (`"rejection"`, `"FDA"`, `"customs"`, `"EUDR"`), requires at least `1 mandatory core food term` (`\b(spice|spices|shrimp|seafood|rice|tea|mango|honey|pesticide|aflatoxin|fssai|apeda|mpeda|mrl|dwpe|salmonella|etylene oxide)\b`) and explicit trade friction terms (`\b(rejection|rejected|delay|consignment|import alert|ban|banned|detained)\b`). Crucially, keyword matching uses **word-boundary regular expressions (`\bkw\b`)** rather than plain Python substring containment (`kw in text`) to prevent off-topic false positives (such as `"tea"` matching inside *steadily* or *team*, `"rice"` matching inside *prices*, or `"port"` matching inside *reports*).
 
 ### 3. Tier Separation Protocol (`separate_gdelt_tiers.py`)
 To prevent sampling bias where large industrial conglomerates skew MSME trade friction analysis, surviving GDELT records are automatically split into two distinct analytical tiers based on entity recognition (`entity_allowlist.py`):
@@ -88,3 +90,18 @@ To prevent sampling bias where large industrial conglomerates skew MSME trade fr
 Every single rejected record across Corpus A and Corpus B is logged into `data/exceptions_log.csv` under a strict **7-column schema alignment**:
 `[doc_id_attempted, source_name, intended_url_or_query, attempt_date, reason_inaccessible, workaround_tried_resolution, notes]`
 This ensures complete auditability, downstream CSV parser stability, and exact 1-to-1 arithmetic reconciliation between raw input pools and final surviving datasets.
+
+---
+
+## 6. Core Data-Processing Pipeline Script Inventory (`src/data-processing/`)
+
+All one-off, file-specific fix scripts and temporary simulation tools have been purged from the repository to maintain clean modular architecture. The production pipeline consists exclusively of the following **8 standardized reusable modules**:
+
+1. **`chunk_documents.py`**: Standardized page-boundary (`--- PAGE N ---`) chunking pipeline with exact parent DQA inheritance and minimum chunk size filtering.
+2. **`extract_and_classify_corpus_a.py`**: Core PDF text extraction, sequential registration (`A-PREFIX-NNN`), and 6-dimension empirical DQA scoring pipeline for Corpus A.
+3. **`dqa_filter_gdelt.py`**: GDELT news quality, paywall/syndication rejection, and word-boundary regex relevance filtering engine.
+4. **`dqa_filter_youtube.py`**: YouTube transcript DQA evaluation, synthetic repetition loop detection, and filtering engine.
+5. **`deidentify_youtube_sanitization.py`**: PII de-identification and masking engine for video transcripts and public practitioner comments.
+6. **`separate_gdelt_tiers.py`**: Automated stratification script separating verified large listed enterprises from MSME exporter populations.
+7. **`run_dqa_audit.py`**: Comprehensive cross-corpus audit script verifying scoring distributions and producing verification reports.
+8. **`ethics_check.py`**: Automated privacy boundaries check confirming ethical compliance prior to data release.

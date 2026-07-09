@@ -144,8 +144,31 @@ Corpus B captures empirical bottom-up operational friction, lived compliance rea
   2. **Strict Language & Script Gate**: Drops non-English, Arabic, and Asian script keyword-collision artifacts to `exceptions_log.csv`.
   3. **Paywall / Adblock / ETPrime Stub Exclusion**: Automatically purges login wrappers, ETPrime paywall prompts, and under-length stubs (`words < 65`).
   4. **Pharma & Geopolitical Noise Elimination**: Unconditionally rejects pharmaceutical (`Dabur`, `Lupin`, `Sun Pharma`, `USFDA official action`, `generic Ozempic`), medical, and geopolitical/market reaction items (`Sensex`, `Nifty`, `war`, `ceasefire`, `visa`, `Adani`).
-  5. **Core Agri-Food & Trade Friction Scoring**: Enforces mandatory presence of core food-specific terms (`spice`, `shrimp`, `seafood`, `rice`, `tea`, `mango`, `pesticide`, `aflatoxin`, `fssai`, `apeda`, `mpeda`, `mrl`, `dwpe`, etc.) and trade friction keywords (`rejection`, `delay`, `alert`, `consignment`, `customs`).
+  5. **Core Agri-Food & Trade Friction Scoring (Word-Boundary Regex)**: Enforces mandatory presence of core food-specific terms (`\b(spice|shrimp|rice|tea|mango|aflatoxin|fssai|apeda|mpeda|mrl|dwpe|etylene oxide)\b`) and trade friction keywords (`\b(rejection|delay|alert|consignment|customs|banned)\b`). Keyword matching strictly uses **word-boundary regular expressions (`\bkw\b`)** rather than plain substring containment (`kw in text`) to prevent short-token false positives (`"tea"` inside *team*, `"rice"` inside *prices*).
 - **Tier Separation (`separate_gdelt_tiers.py`)**: To prevent sampling bias between small-scale suppliers and industrial giants, the clean GDELT dataset is split into distinct comparative files:
   - **Clean MSME Exporters Extract**: `Corpus_B_Clean_GDELT_MSMEs_Extract.csv` (`relevance_to_study: MSME-instance`)
   - **Clean Large Listed Comparators Extract**: `Corpus_B_Clean_GDELT_Large_Listed_Extract.csv` (`enterprise_scale_tier: Tier-1 / Large-Listed`)
-- **Master Registry Integration**: All clean surviving GDELT records are updated into `data/master_registry.csv` with standardized 13-column metadata, while all filtered exclusions are appended to `data/exceptions_log.csv` under a strict 7-column schema (`doc_id_attempted, source_name, intended_url_or_query, attempt_date, reason_inaccessible, workaround_tried_resolution, notes`) for complete academic transparency.
+- **Master Registry Integration**: All clean surviving GDELT records are updated into `data/master_registry.csv` with standardized 19-column metadata, while all filtered exclusions are appended to `data/exceptions_log.csv` under a strict 7-column schema (`doc_id_attempted, source_name, intended_url_or_query, attempt_date, reason_inaccessible, workaround_tried_resolution, notes`) for complete academic transparency.
+
+---
+
+## 5. Document Chunking & Traceability Architecture (`CorpusA_Chunks/`)
+
+To prepare multi-page statutory regulations and research monographs (`Corpus A`) for downstream topic modeling (`BERTopic`) and retrieval-augmented analysis while preserving rigorous manual verification pathways, the project implements a **Page-Bound Traceable Chunking Design (`chunk_documents.py`)**:
+
+### 1. Folder per Source Document
+Each multi-page document receives its own dedicated subdirectory under `CorpusA_Chunks/<parent_doc_id>/` and `data/CorpusA_Chunks/<parent_doc_id>/` (`CorpusA_Chunks/A-MPEDA-004/`).
+
+### 2. Traceable Chunk Naming (`A-MPEDA-004-C01.txt`)
+The parent document ID (`A-MPEDA-004`) is baked directly into every individual chunk filename (`A-MPEDA-004-C01.txt`, `A-MPEDA-004-C02.txt`). When chunks are flattened into a single list of documents inside a `BERTopic` dataframe or vector store, their ID immediately discloses their parent institutional origin (`A-MPEDA-004` -> MPEDA Pre-Harvest Test Manual).
+
+### 3. Page-Marker Based Boundaries (`--- PAGE N ---`)
+Instead of blindly slicing arbitrary word counts that split sentences across page breaks, the chunker leverages physical PDF page dividers (`--- PAGE N ---`) generated during `pypdf` extraction. Each chunk groups a small, contiguous range of pages (target `350 - 550 words`), recording exact boundaries (`page_range: p.12-14`, `word_range: w.4500-5020`). When verifying model output manually, researchers can open the original PDF directly to the exact page range (`pages 12–14`).
+
+### 4. Exclusion of Single-Chunk Documents
+Documents short enough (`< 600 words`) to fit within a single chunk (`A-APEDA-002`, `A-SPICE-008`, `A-GAZ-001`) are explicitly excluded from the separate `CorpusA_Chunks/` tree. Storing a 1-to-1 chunk copy of a short document adds no analytical granularity and creates redundant duplicates. For short documents, the full text file in `CorpusA/` serves directly as the single modeling unit.
+
+### 5. Chunk Manifest & Parent DQA Inheritance (`data/chunk_manifest.csv`)
+All **311 derived chunks** across the 24 multi-page parent documents are indexed inside `data/chunk_manifest.csv` under a strict 10-column tracking schema:
+`[chunk_id, parent_doc_id, corpus_tier, page_range, word_range, word_count, chunk_path, parent_dqa_score, parent_locus_tag, parent_verification_logic]`
+Crucially, every chunk inherits the exact **empirical multi-dimensional `parent_dqa_score`** (`M,A,A,A,A,A`, `A,A,A,A,A,A`, `M,A,A,M,A,A`, etc.) computed for its parent document, ensuring that downstream modeling tools can weigh or filter chunks based on rigorous source authority and temporal currency.

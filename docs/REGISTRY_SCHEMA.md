@@ -17,9 +17,9 @@ The master registry strictly follows a **19-column relational schema**. Scraper 
 | **4** | `url` | String | Direct source web link or API endpoint from which document was fetched. | `https://indianspices.com/...` |
 | **5** | `retrieval_date_and_format`| String | Composite string combining ISO date (`YYYY-MM-DD`), file format (`pdf`/`html`/`csv`/`txt`), and language. | `2026-07-03 / html / English` |
 | **6** | `title_or_description` | String | Formal document title prefixed by its production context or Section 6.1 disclosure. | `Statutory spices export circular: Mandatory Testing for Salmonella...` |
-| **7** | `dqa_score` | String | Comma-separated 6-dimension DQA score (Auth, Rel, Gran, Curr, Comp, Mach). | `A,A,A,A,A,A` |
-| **8** | `dqa_justification` | String | Brief rationale or duplicate score representation verifying adequacy. | `A,A,A,A,A,A` |
-| **9** | `full_text_available` | String | Verifies whether primary full text is stored locally (`yes`/`no`/`derived-summary (Section 6.1)`). | `yes` or `derived-summary (Section 6.1)` |
+| **7** | `dqa_score` | String | Comma-separated 6-dimension DQA grade (`Auth,Rel,Gran,Curr,Comp,Mach`) assigned via empirical document evaluation rather than uniform rubber-stamping. | `A,A,M,A,M,A`, `M,A,A,A,A,A`, `A,A,I,A,I,I` |
+| **8** | `dqa_justification` | String | Detailed dimension-by-dimension rationale explaining exact authority tiers, word count granularity/depth, temporal currency window, completeness, and machine-readability. | `Auth: Tier-1 Primary Statutory... | Rel: High domain relevance... | Gran: Substantive depth (2,140 words)...` |
+| **9** | `full_text_available` | String | Verifies whether primary full text is stored locally (`yes`, `yes (de-identified)`, `yes (structured csv)`, `derived-summary (Section 6.1)`, `no (queued)`, or `no (image scan - OCR queued)`). | `yes`, `no (image scan - OCR queued)` |
 | **10** | `commodity_scope` | String | Standardized domain tag indicating covered product category. | `spices`, `marine`, `processed-foods`, `sustainability-eudr` |
 | **11** | `target_market` | String | Destination export market or international jurisdiction. | `all`, `USA`, `EU`, `UK`, `Japan` |
 | **12** | `translation_needed` | String | Indicates whether English translation was required (`required`/`not-required`). | `not-required` |
@@ -57,6 +57,9 @@ Tracks all encountered web documents, navigation pages, search forms, dynamic da
 - **Fields (Strict 7-Column Standard)**: `doc_id_attempted`, `source_name`, `intended_url_or_query`, `attempt_date`, `reason_inaccessible`, `workaround_tried_resolution`, `notes`
 - **Allowed Reason Codes & Rejection Categories**:
   - `failed-data-quality`: Document length below 300 words, empty interface dropdowns, or dynamic JavaScript shell (`Loading...`).
+  - `Extraction failure / Zero words extracted via pypdf: Scanned image PDF without digital text layer`: Scanned PDF requiring OCR (`A-APEDA-100..102`, `RCAC-001..003`, `A-MPEDA-003`, `A-SPICE-003..004`), marked as `full_text_available: no (image scan - OCR queued)` to prevent BERTopic from ingesting empty text strings.
+  - `Off-topic statutory/regulatory document removed`: Out-of-scope domestic regulations (e.g., `A-INDIA-003` Drugs & Cosmetics Rules) physically purged and logged.
+  - `PII / Internal notice removed from research corpus`: Non-research internal governance notices with real personal phone/email contact info (e.g., `A-MPEDA-002` Women's Cell notice) physically deleted and logged.
   - `Section 10 DQA Rejection: Non-English/Arabic/Asian script keyword-collision artifact`: Article written in non-English or non-ASCII scripts causing false-positive keyword hits.
   - `Section 10 DQA Rejection: Unusable raw_text paywall/adblock/ETPrime stub or insufficient length`: Article trapped behind subscription gates, cookie wrappers, or under 65 words.
   - `Section 10 DQA Rejection: Pharma/Geopolitical/Macro noise unrelated to Indian agri-food exports`: Off-topic items covering pharmaceutical firms (`Dabur`, `Lupin`), H-1B visas, defense (`F-35`), or macro markets (`Sensex`, `Nifty`).
