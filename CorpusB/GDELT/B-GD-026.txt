@@ -1,44 +1,50 @@
 Doc ID: B-GD-026
-Title: Tata Consumer sees strong traction in growth businesses - The HinduBusinessLine
-Source Domain: thehindubusinessline.com | Publish Date: 20260511T180000Z
-URL: https://www.thehindubusinessline.com/incoming/tata-consumer-sees-strong-traction-in-growth-businesses/article70965627.ece
+Title: Colorado Wins Nearly Two Dozen Awards at World Beer Cup
+Source Domain: westword.com | Publish Date: 20260424T214500Z
+URL: https://www.westword.com/food-drink/colorado-awards-world-beer-cup-2026-040876421-40876421/
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export tea
-Retrieval Date: 2026-07-08
+Targeted Query: India export spice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,M,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: Adequate/Marginal trade relevance (1 agri + 3 trade friction terms) | Gran: Overview narrative (703 words, 0 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (703 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
 Locus Tag: gdelt-msme-trade-friction
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Sunil D’Souza, MD, CEO, Tata Consumer
-																															| Photo Credit:
-											Amit Vijay Mohile _12460
+Colorado’s craft brewers had another strong showing at the annual World Beer Cup awards on April 22 during the Craft Brewers Conference in Philadelphia, with nineteen breweries collecting a total of 23 medals.
 
-Tata Consumer Products is seeing sustained momentum in its growth businesses even as urban discretionary demand remains uneven, with the company sharpening focus on profitability-led expansion and premium categories, Sunil D’Souza, MD & CEO, Tata Consumer, said.
+Colorado brewers grabbed both gold and silver medals in the most crowded category, West Coast-style IPA, which had 293 entries. Cannonball Creek Brewing in Golden took gold for its Project Alpha 81, while Crystal Springs Brewing Company in Louisville took silver for Mosaic Madness.
 
-The company recently approved a capital investment of up to ₹160 crore to set up a new 2,000  tonne instant tea manufacturing facility in India, signalling a stronger push into higher-value beverage formats and export opportunities.
+“Colorado continues to showcase why we are the state of craft beer,” says Colorado Brewers Guild executive director Shawnee Adelson. “Taking both silver and gold in West Coast-Style IPA, the most competitive category in the competition, is a testament to our brewers’ skill and creativity.”
 
-Speaking after the company’s Q4FY26 results, D’Souza said growth businesses now contribute nearly a third of the India portfolio, reflecting Tata Consumer’s gradual shift beyond its traditional tea-and-salt identity.
+The state’s medal leader was River North Brewery for the second year in a row. They earned a gold in the coffee beer category for Squirrels Just Want to Have Fun and silvers for Espresso Hello Darkness in coffee stout or porter and Pumpkin Spice J. Marie, a pumpkin/squash or pumpkin spice beer.
 
-“Tea continues to remain a very strong category for us, but newer categories and growth businesses are becoming increasingly important drivers of the portfolio,” he said.
+Here is another newsletter you might like:
 
-On the new instant tea facility, D’Souza said the investment is aimed at strengthening the company’s position in value-added tea formats amid rising global demand for ready-to-drink and convenience-led beverage solutions.
+A number of breweries and specific beers continued to assert themselves year after year. The Post earned its third straight medal for East County Fine Malt Liquor, in the other strong beer category, while Verboten Brewing stretched its winning streak to five years. Verboten also saw its barley wine, Grow Old With You, take its fourth straight medal, tying a previous winner from Glenwood Canyon Brewing for the most-awarded Colorado beer at the World Beer Cup.
 
-The comments come at a time when the company is also recalibrating expansion at Tata Starbucks amid softer urban discretionary spending trends and rising competitive intensity in premium cafés.
+“With nine beers earning World Beer Cup medals for at least the second time, it’s clear that Colorado doesn’t just make world-class beer — we make it consistently,” Adelson says.
 
-D’Souza said discretionary consumption continues to remain uneven across certain urban pockets, impacting traffic growth in premium café formats.
+Six breweries also bagged their first WBC medal: Crystal Springs, Hideaway Park Brewery, Liquid Mechanics Brewing, Lone Tree Brewing, Los Dos Potrillos, and Peculier Ales.
 
-“We are calibrating expansion based on store economics and long-term viability,” he said, adding that the company has rationalised a few underperforming Starbucks stores as part of normal portfolio optimisation rather than chasing aggressive expansion.
+The World Beer Cup dates back to 1996, when the Brewers Association created it to celebrate the art and science of brewing for an international field. The 2026 WBC included more than 8,100 beers from 1,644 breweries in fifty countries competing in 113 style categories.
 
-He added that categories linked to convenience, health and premiumisation continue to see relatively stronger traction despite broader consumption pressures.
+Gold Medal Winners:• River North Brewery: Squirrels Just Want to Have Fun (Coffee Beer)• Bull & Bush Brewery: Ghoul Fuel-Rum Diaries Edition (Wood and Barrel-Aged Beer)• Ska Brewing: True Blonde (English-Style Pale Ale)• Cannonball Creek Brewing Co: Project Alpha 81 (West Coast-Style India Pale Ale )
 
-Tata Consumer has been expanding aggressively across packaged foods, ready-to-drink beverages and health-focused products through acquisitions such as Capital Foods and Organic India, while also scaling innovation-led launches across channels including quick commerce
+Silver Medal Winners:• River North Brewery: Pumpkin Spice J. Marie (Pumpkin/Squash or Pumpkin Spice Beer)• River North Brewery: Espresso Hello Darkness (Coffee Stout or Porter)• Bull & Bush Brewery: Kauai Pie (Dessert or Pastry Beer)• Odell Brewing Company: Friek (Fruited American-Style Sour Ale)• Peculiar: Barenbrau Bock (German-Style Bock or Maibock)• Hideaway Park Brewery: Little Mac (Australian-Style Pale Ale)• Verboten Brewing: Grow Old With You (Barley Wine-Style Ale)• Westbound & Down – Westbound Mill: Trade Deficit (Export Stout)• Telluride Brewing: Face Down Brown (American-Style Brown Ale)• Cannonball Creek Brewing Co: Mindbender (American-Style Strong Pale Ale)• Crystal Springs Brewing Co: Mosaic Madness (West Coast-Style India Pale Ale)
 
-Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
+Bronze Medal Winners:• Los Dos Potrillos Cerveceria: Agua Fresca (Fruit Beer)• Liquid Mechanics Brewing Company: El Poblano Borracho (Chili Beer)• The Empourium Brewing Company: Animals Strikes Curious Poses (Honey Beer)• The Post Brewing Co: East County Fine Malt Liquor (Other Strong Beer)• Ratio Beerworks: Dear You (American-Belgo-Style Ale)• Stodgy Brewing Company: Gin Barrel Sour Red (American-Style Sour or Wood & Barrel Aged Sour Beer)• Lone Tree Brewing Company: Mexican Lager (Mexican-Style Pale Lager)• 12Degree Brewing: Cactus Juice (Berliner-Style Weisse)
 
-We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+The full awards list can be found at WorldBeerCup.org.
 
-Terms & conditions  |  Institutional Subscriber
+No paywall. Always accessible. We’re always watching out for you and our community — but we need your help to keep us going strong. Help keep Westword free and in print every week.
+
+Select how much you'd like to contribute
+
+Gabe Toth, M.Sc. is an accomplished distiller, brewer and industry writer focusing on the beer and spirits worlds. He holds brewing and distilling certificates from the Institute for Brewing and Distilling, a master’s degree from the Rochester Institute of Technology, where his graduate studies centered on supply chain localization and sustainability, and a bachelor’s degree in journalism from CSU-Pueblo.
+
+Notice of Collection | Terms | Privacy
 
 ================================================================================

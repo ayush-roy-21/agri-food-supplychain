@@ -1,0 +1,44 @@
+Doc ID: B-GD-072
+Title: India 1st - ever sea shipment of value - added millet heads for New Zealand
+Source Domain: prokerala.com | Publish Date: 20260604T133000Z
+URL: https://www.prokerala.com/news/articles/a1771343.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export APEDA
+Retrieval Date: 2026-07-09
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,M,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: Adequate/Marginal trade relevance (1 agri + 4 trade friction terms) | Gran: Substantive depth (451 words, 4 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (451 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+New Delhi, June 4 : In a significant boost to India's food exports, the Agricultural and Processed Food Products Export Development Authority (APEDA) has facilitated the dispatching of first-ever sea shipment of ready-to-cook millet foods from Karnataka to New Zealand, according to an official statement issued on Thursday.
+
+The export consignment, comprising one metric tonne of value-added millet-based products, was shipped by Infini Agrotek LLP, Bengaluru on Wednesday. The shipment reflects the growing global demand for innovative millet-based products derived from India's traditional grains and underscores the expanding opportunities for value-added agricultural exports from the country, the statement said.
+
+The exporter had actively participated in APEDA-supported trade promotion events, including 'World Food India 2025', 'Indus Food 2025' and 'Gulfood 2026'. Participation in these exhibitions enabled the company to connect with international buyers, expand its customer base and strengthen its presence in global markets. The export order from New Zealand is the outcome of sustained market outreach and business networking facilitated through APEDA's trade promotion initiatives, the statement said.
+
+The shipment was virtually flagged off by APEDA chairman Abhishek Dev. Congratulating the company on this achievement, he appreciated its efforts in developing innovative millet-based products and successfully expanding into international markets.
+
+During the interaction, the exporter was encouraged to leverage APEDA's export promotion initiatives and continue participating in trade fairs and exhibitions to further expand market reach and explore new business opportunities.
+
+The export of botanical-infused millet functional foods highlights the growing potential of India's value-added agricultural products and is expected to benefit millet-growing farmers through enhanced demand and improved market access. Such initiatives contribute to strengthening India's agri-export ecosystem while generating opportunities across the millet value chain, the statement said.
+
+The successful shipment demonstrates the increasing global acceptance of innovative millet-based products and reinforces the growing potential of India's millet sector in international markets.
+
+Millets have emerged as an important component of India's agricultural export basket owing to their nutritional benefits, climate resilience and rising consumer demand across global markets. The development and export of value-added millet products are creating new opportunities for farmers, food processors and exporters while contributing to the diversification and expansion of India's agri-food exports, the statement added.
+
+Yogi Government adopting advanced technology to curb crime, providing training to officials
+
+Motorola Unveils Moto g77 Power in India - Packs 7000 mAh Battery, Sony LYTIA 600 Camera
+
+Yogi govt to plant more than 3.83 crore saplings along the banks of 13 major rivers
+
+Aamir Khan, Mammootty, 'Kantara: A Legend - Chapter 1' nominated at 17th edition of IFFM
+
+Chief Minister Yogi to launch 'Mukhyamantri Shikshak Cashless Chikitsa Suvidha Yojana' from Varanasi on Wednesday
+
+Nitin Gadkari to inspect Delhi-Mumbai Expressway in Kota today with Om Birla, CM Bhajanlal Sharma
+
+================================================================================

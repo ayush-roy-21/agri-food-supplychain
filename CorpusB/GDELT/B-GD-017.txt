@@ -1,42 +1,52 @@
 Doc ID: B-GD-017
-Title: Cambodia expanding rice markets , eyes Iraq – phnompenhpost . com
-Source Domain: phnompenhpost.com | Publish Date: 20260508T231500Z
-URL: https://phnompenhpost.com/national/cambodia-expanding-rice-markets-eyes-iraq/
+Title: AYUSHEXCIL , Spices Board sign pact to boost Ayush exports
+Source Domain: prokerala.com | Publish Date: 20260525T163000Z
+URL: https://www.prokerala.com/news/articles/a1767304.html
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export rice
-Retrieval Date: 2026-07-08
+Targeted Query: India export spice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-basmati-mrl-rejections
+DQA 6-Dimension Score: M,A,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (2 agri + 3 trade friction terms) | Gran: Overview narrative (454 words, 1 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (454 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-spices-sps-hurdles
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-In addition to China and the EU, the Kingdom’s largest rice markets, countries such as Indonesia, the Philippines and Iraq are also emerging as potential and target markets for Cambodian rice, according to a senior official at the Ministry of Agriculture, Forestry and Fisheries.
+New Delhi, May 25 : AYUSHEXCIL and the Spices Board of India on Monday signed a Memorandum of Understanding (MoU) to strengthen India's global leadership in traditional wellness and natural products.
 
-Citing the Statista website, a global data forum on statistics, ministry secretary of state Yang Saing Koma said on December 3 that the largest global rice importers are China, the Philippines, the EU, Iraq, Nigeria and Indonesia, with Vietnam in the seventh slot.
+The collaboration aims to promote global cooperation in Ayush products and medicinal spices by strengthening export promotion, quality assurance, standardisation, research, innovation, and international market development for functional foods, nutraceuticals, herbal extracts, and value-added Ayurvedic and spice-based products, according to an official statement.
 
-He added that among these markets, Cambodia has already captured some in China and Europe, while Indonesia and the Philippines are potential markets where the country has been gradually starting to export.
+Under the partnership, both organisations will work together on branding initiatives, traceability frameworks, scientific validation, capacity building, Codex engagement, and joint participation in international trade fairs and promotional activities.
 
-“We are currently marketing in the Philippines and Indonesia, and Iraq could be our market in the future. India is the world’s largest exporter of rice, followed by Thailand, and Vietnam in third rank, while Cambodia is currently eighth and has the potential to move up to the fifth-largest in the future,” he stated.
+The initiative is expected to create new opportunities for exporters, farmers, MSMEs, startups, women entrepreneurs, and stakeholders across the Ayush and spices sectors, thereby enhancing India's export growth and global visibility in the wellness economy, the statement said.
 
-“Vietnam ranks seventh in rice imports, while it also ranks third in terms of rice exports. This country is also the largest importer of rice from Cambodia, importing between three to four million tonnes a year,” he added.
+The MoU was signed by Dr Anurag Sharma, Chairman, AYUSHEXCIL, and M. S. Manivannan, Secretary, Spices Board of India, in the presence of Union Minister of State for Ayush Prataprao Jadhav.
 
-Saing Koma noted that in order to achieve the goal of exporting one million tonnes of rice per year and become the fifth-largest exporter of the commodity in the future, the ministry has been implementing important policies, especially the fifth and sixth priority policies launched by the government on November 20.
+The minister described the agreement between AYUSHEXCIL and the Spices Board of India as a "visionary and forward-looking partnership".
 
-The policies, parts of the new government’s Pentagonal Strategy-Phase I, aim to promote agribusiness production, find markets and maintain the balance of prices through financing programmes, deploying officials in communes and developing modern agricultural communities.
+Highlighting India's rich heritage, Jadhav noted that Ayurveda and Indian spices have for centuries symbolised preventive healthcare, balanced living, and natural wellness knowledge.
 
-“We are enhancing incentives for farmers to cultivate fragrant rice using genetically pure seeds. This variety of rice is in high demand by local mills. The production of this cultivar for export provides a more favourable and stable price compared to other dry season varieties,” he explained.
+He expressed satisfaction with the collaboration's focus on critical areas such as quality enhancement, traceability, scientific validation, innovation, export promotion, and the development of international markets.
 
-“The utilisation of pure seeds, combined with the correct application of principles and techniques in field management, also contributes to achieving high yields,” he added.
+He also highlighted the proposed "Spice and Heal" initiative, noting that it could become a powerful branding campaign positioning India as a global leader in holistic health and natural healing solutions.
 
-Chan Sokheang, president of the Cambodia Rice Federation (CRF) – the Kingdom’s apex rice industry body – also noted that CRF has consistently supported the ministry in implementing the policies set by the government, particularly the agricultural strategy, which is crucial for the rice sector.
+Emphasising the government's commitment to empowering MSMEs, startups, women entrepreneurs, farmers, and young innovators, the minister said the initiative aligns closely with the vision of Prime Minister Narendra Modi for Atmanirbhar Bharat, Vocal for Local, Make in India, and Heal in India.
 
-“CRF has continually assisted the government in promoting the successful export of rice to international markets. We have sought overseas markets by participating in exhibitions in other countries and have strived to find export partners for new markets, as we want the world to know and taste Cambodia’s delicious rice,” he said.
+He added that Prime Minister Narendra Modi has consistently recognised India's traditional knowledge systems and wellness heritage as important pillars of the country's global identity and economic progress.
 
-As of the beginning of November this year, rice cultivation covered more than 3.6 million hectares and produced 6.2 million tonnes, with an anticipated total yearly yield of more than 6.3 million tonnes by year’s end, according to a report from the ministry.
+The minister expressed confidence in the partnership's long-term impact, saying the MoU would open new avenues for export growth, employment generation, rural development, farmer empowerment, and international collaboration.
 
-During the same period, agricultural exports remained high at more than 6.2 million tonnes, valued at over $3.5 billion, to 74 destination countries. The Kingdom achieved more than 520,000 tonnes of exported rice worth over $458 million, including exports to Indonesia, a new destination.
+Aamir Khan, Mammootty, 'Kantara: A Legend - Chapter 1' nominated at 17th edition of IFFM
 
-Type above and press Enter to search. Press Esc to cancel.
+Sylvester Stallone reflects on 'Rocky': Wasn't just writing about one fighter
+
+Motorola Unveils Moto g77 Power in India - Packs 7000 mAh Battery, Sony LYTIA 600 Camera
+
+Chief Minister Yogi to launch 'Mukhyamantri Shikshak Cashless Chikitsa Suvidha Yojana' from Varanasi on Wednesday
+
+Yogi govt to plant more than 3.83 crore saplings along the banks of 13 major rivers
+
+Yogi Government adopting advanced technology to curb crime, providing training to officials
 
 ================================================================================

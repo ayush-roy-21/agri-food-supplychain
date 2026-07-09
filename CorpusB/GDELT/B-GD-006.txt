@@ -1,16 +1,50 @@
 Doc ID: B-GD-006
-Title: Lakadong turmeric : The story of India  Golden Spice  from Meghalaya that reached the global stage with G7 gift
-Source Domain: timesofindia.indiatimes.com | Publish Date: 20260623T071500Z
-URL: https://timesofindia.indiatimes.com/etimes/trending/lakadong-turmeric-the-story-of-indias-golden-spice-from-meghalaya-that-reached-the-global-stage-with-g7-gift/articleshow/131927720.cms
+Title: India eyes USD 30 billion seafood export target within next 5 years : Piyush Goyal
+Source Domain: news.webindia123.com | Publish Date: 20260605T233000Z
+URL: https://news.webindia123.com/news/Articles/Business/20260605/4459024.html
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export spice
-Retrieval Date: 2026-07-08
+Targeted Query: India export shrimp
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-msme-trade-friction
+DQA 6-Dimension Score: M,A,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (4 agri + 3 trade friction terms) | Gran: Substantive depth (1199 words, 3 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (1199 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-seafood-dwpe-alerts
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-The TOI Lifestyle Desk is a dynamic team of dedicated journalists who, with unwavering passion and commitment, sift through the pulse of the nation to curate a vibrant tapestry of lifestyle news for The Times of India readers. At the TOI Lifestyle Desk, we go beyond the obvious, delving into the extraordinary. Consider us your lifestyle companion, providing a daily dose of inspiration and information. Whether you're seeking the latest fashion trends, travel escapades, culinary delights, or wellness tips, the TOI Lifestyle Desk is your one-stop destination for an enriching lifestyle experience.Read More
+Speaking at a national workshop on seafood exports in Visakhapatnam, Goyal said the ambitious target is achievable but only if the sector sharpens its focus on production quality and value-added goods rather than raw commodities."Take India's fish across the world. Reduce import of raw shrimp and export value-added goods and build brands," he urged industry stakeholders.Goyal also pointed to India's recently finalised nine free trade agreements with developed nations as a major tailwind, saying the deals would unlock greater market access for exporters in the coming years.N Chandrababu Naidu, Chief Minister of Andhra Pradesh, highlighted that the 'Blue Economy' will be a key driver of future economic growth, with the fisheries sector playing a transformative role.He underscored Andhra Pradesh's leadership in fisheries production and exports and expressed confidence that India can significantly scale up its global market share through value addition, innovation, and stronger export ecosystems.Emphasising quality, sustainability, traceability, and circular economy practices, he called for a collaborative approach involving all stakeholders to build a globally competitive and trusted Indian seafood brand, while assuring full support from the State to promote investment, infrastructure, and a robust aquaculture ecosystem.Union Minister of Fisheries, Animal Husbandry Rajiv Ranjan Singh echoed the call for higher ambition, saying India must grow its share of global fisheries exports and boost value addition to benefit both large exporters and small fishermen alike.Singh flagged a particular need for export infrastructure in inland states, which currently contribute a smaller share to overall exports. He also highlighted India's resilience in the face of steep US tariffs of 55.8 per cent, noting that exporters successfully pivoted to grow shipments to the EU, Japan, China and Southeast Asia.In a significant announcement, Singh confirmed that the National Fisheries Board will soon open a regional office in Andhra Pradesh -- India's largest fish and seafood producing state, which accounts for 66 per cent of national shrimp exports and recorded aquaculture production of 55.39 lakh tonnes in 2025-26.He further announced that under the Pradhan Mantri Matsya Sampada Yojana (PMMSY), the Government of India has approved the development of a Smart and Integrated Fishing Harbour at Kakinada, Andhra Pradesh, at an outlay of Rs 72.42 crore with central assistance of Rs 43.45 crore, incorporating modern infrastructure and smart technologies to enhance efficiency and service delivery.India's marine product exports hit a record Rs 73,890 crore (USD 8.45 billion) in 2025-26, with shipment volumes reaching 19.72 lakh metric tonnes. The sector has set a longer-term domestic target of crossing Rs 1 lakh crore in exports.Frozen shrimp remained the top export product, with the US and China continuing as the principal buyer nations.Civil Aviation Minister Kinjarapu Rammohan Naidu added a logistics dimension to the discussion, announcing plans to more than double India's airports from the current count to over 350, with a focus on expanding dedicated cargo facilities.Naidu proposed adopting a One Airport, One Product model - inspired by the One District One Product framework - to build specialised export hubs. He also called for cutting processing times at cargo terminals to speed up perishable export consignments.Chirag Paswan, Minister of Food Processing Industries, emphasised that seafood exports are of critical importance for India and the entire fisheries value chain, appreciating the efforts of stakeholders in sustaining growth despite challenges.He highlighted the need to shift from "volume to value" and "produce to product", with a strong focus on value addition and development of global markets alongside domestic markets. Noting the vast untapped potential of the fisheries sector, he underscored opportunities in ready-to-eat and ready-to-cook segments, which are witnessing growing global demand. (ANI)
+
+Speaking at a national workshop on seafood exports in Visakhapatnam, Goyal said the ambitious target is achievable but only if the sector sharpens its focus on production quality and value-added goods rather than raw commodities.
+
+"Take India's fish across the world. Reduce import of raw shrimp and export value-added goods and build brands," he urged industry stakeholders.
+
+Goyal also pointed to India's recently finalised nine free trade agreements with developed nations as a major tailwind, saying the deals would unlock greater market access for exporters in the coming years.
+
+N Chandrababu Naidu, Chief Minister of Andhra Pradesh, highlighted that the 'Blue Economy' will be a key driver of future economic growth, with the fisheries sector playing a transformative role.
+
+He underscored Andhra Pradesh's leadership in fisheries production and exports and expressed confidence that India can significantly scale up its global market share through value addition, innovation, and stronger export ecosystems.
+
+Emphasising quality, sustainability, traceability, and circular economy practices, he called for a collaborative approach involving all stakeholders to build a globally competitive and trusted Indian seafood brand, while assuring full support from the State to promote investment, infrastructure, and a robust aquaculture ecosystem.
+
+Union Minister of Fisheries, Animal Husbandry Rajiv Ranjan Singh echoed the call for higher ambition, saying India must grow its share of global fisheries exports and boost value addition to benefit both large exporters and small fishermen alike.
+
+Singh flagged a particular need for export infrastructure in inland states, which currently contribute a smaller share to overall exports. He also highlighted India's resilience in the face of steep US tariffs of 55.8 per cent, noting that exporters successfully pivoted to grow shipments to the EU, Japan, China and Southeast Asia.
+
+In a significant announcement, Singh confirmed that the National Fisheries Board will soon open a regional office in Andhra Pradesh -- India's largest fish and seafood producing state, which accounts for 66 per cent of national shrimp exports and recorded aquaculture production of 55.39 lakh tonnes in 2025-26.
+
+He further announced that under the Pradhan Mantri Matsya Sampada Yojana (PMMSY), the Government of India has approved the development of a Smart and Integrated Fishing Harbour at Kakinada, Andhra Pradesh, at an outlay of Rs 72.42 crore with central assistance of Rs 43.45 crore, incorporating modern infrastructure and smart technologies to enhance efficiency and service delivery.
+
+India's marine product exports hit a record Rs 73,890 crore (USD 8.45 billion) in 2025-26, with shipment volumes reaching 19.72 lakh metric tonnes. The sector has set a longer-term domestic target of crossing Rs 1 lakh crore in exports.
+
+Frozen shrimp remained the top export product, with the US and China continuing as the principal buyer nations.
+
+Civil Aviation Minister Kinjarapu Rammohan Naidu added a logistics dimension to the discussion, announcing plans to more than double India's airports from the current count to over 350, with a focus on expanding dedicated cargo facilities.
+
+Naidu proposed adopting a One Airport, One Product model - inspired by the One District One Product framework - to build specialised export hubs. He also called for cutting processing times at cargo terminals to speed up perishable export consignments.
+
+Chirag Paswan, Minister of Food Processing Industries, emphasised that seafood exports are of critical importance for India and the entire fisheries value chain, appreciating the efforts of stakeholders in sustaining growth despite challenges.
+
+He highlighted the need to shift from "volume to value" and "produce to product", with a strong focus on value addition and development of global markets alongside domestic markets. Noting the vast untapped potential of the fisheries sector, he underscored opportunities in ready-to-eat and ready-to-cook segments, which are witnessing growing global demand. (ANI)
 
 ================================================================================

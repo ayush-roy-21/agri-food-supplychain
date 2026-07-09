@@ -1,24 +1,134 @@
 Doc ID: B-GD-020
-Title:   India Pavillion  shines at Summer Fancy Food Show 2026
-Source Domain: newsindiatimes.com | Publish Date: 20260629T034500Z
-URL: https://newsindiatimes.com/india-pavillion-shines-at-summer-fancy-food-show-2026/
+Title: State - Wise List of Famous Spices in India
+Source Domain: jagranjosh.com | Publish Date: 20260617T070000Z
+URL: https://www.jagranjosh.com/general-knowledge/statewise-list-of-famous-spices-in-india-1820009871-1
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export rice
-Retrieval Date: 2026-07-08
+Targeted Query: India export spice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-basmati-mrl-rejections
+DQA 6-Dimension Score: M,A,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (4 agri + 3 trade friction terms) | Gran: Overview narrative (1512 words, 0 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (1512 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-spices-sps-hurdles
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-India’s Consul General in New York Binaya Srikanta Pradhan inaugurated the India Pavilion at the Summer Fancy Food Show held at the Jacob K. Javits Convention Center in New York City. The event was scheduled for 3 days, June 28-30, 2026.
+India is known as the “Land of Spices” across the globe due to its wide range of aromatic and flavourful spices. Indian spices have played a significant role in cooking, trade, medicine and culture for centuries. India is a land of diverse spices that are produced in different regions depending on climate, soil and geography. And every state has its own special spice identity. Kerala is famous for its black pepper and cardamom, while Kashmir is world-famous for its saffron. Here is the complete list of famous spices of different parts of India state wise.
 
-The event was jointly organized by APEDA (Agricultural and Processed Food Products Export Development Authority) which is part of India’s Department of Commerce, the India Trade Promotion Organization, ITPO, and the All India Rice Exporters Association AIREA.
+Kerala is known as the “Spice Garden of India” for its long history of spice cultivation. The state is especially famous for black pepper, often called the “King of Spices” and the “Queen of Spices” for cardamom. The climate of the Western Ghats is ideal for growing these spices. Spices of Kerala were highly valued in international trade and attracted traders from different parts of the world.
 
-Also present at the inauguration was Dr. Abhishek Dev, Chairman APEDA, Dr. Neeraj Kharwal, MD ITPO, renowned Chef Vikas Khanna and more than 70 Indian exhibitors.
+Jammu and Kashmir is known for producing some of the best saffron in the world, popularly called as Kashmiri Kesar. It is mainly grown in the Pampore region which is known as the Saffron Bowl of India. Kashmiri saffron is valued for its deep colour, pungent aroma and quality. It also gained a Geographical Indication (GI) tag which recognises its unique origin and characteristics.
 
-Consul General Pradhan met and shared insights with each exhibitor to strengthen their business in the US market, an X.com post from the Indian Consulate said.
+Andhra Pradesh is one of the most famous chilli producing regions of India. The state is famous for its hot and spicy red chillies, especially Guntur chilli, which is famous across the world. Guntur in Andhra Pradesh is one of the largest chilli markets in the world. These chillies are widely used in Indian cooking and are exported all over the world.
 
-He also engaged with the exporters of various agriculture and food items like Basmati rice and ready to eat food products and applauded their efforts to bring Indian taste in New York, a cuisine that is in high demand in the US.
+Telangana is famous for producing turmeric and chillies. The warm climate of the State is favourable for spice cultivation and turmeric cultivated here is prized for its colour and quality. Turmeric is an integral part of Indian traditions, food, and Ayurveda for centuries.
+
+Rajasthan is one of the important cumin producers in India. The state’s dry climate and sandy soil offer conducive conditions for growing cumin. Indian cumin is used widely as a flavouring spice and is exported to international markets.
+
+Gujarat is known for production of spices like cumin, fennel etc. The state has got agricultural conditions very suitable for the growth of these aromatic spices. Gujarat has a significant role in the spice production and export industry in India.
+
+Tamil Nadu is famous for spices like black pepper, turmeric and chilli. The state's hill regions and favourable climate are favourable for spice farming. For long Tamil Nadu has been known for its spice cultivation and traditional agriculture.
+
+Karnataka is one of the major spice producing states in India especially black pepper and cardamom. These crops grow well in Western Ghats area. The state also produces other spices such as chilli and turmeric.
+
+Maharashtra is known for its turmeric and the turmeric grown in places like Sangli. Sangli turmeric is well known for its quality and has a good market in national and international markets. Turmeric farming is a big part of the state’s agriculture.
+
+Odisha is familiar with ginger and turmeric. The climate of the State is varied and spices are grown in many of the rural areas. These spices are a major source of income for farmers and are widely used in Indian cooking.
+
+Assam is famous for spices such as ginger and black pepper. The state’s humid climate and fertile soil help to grow aromatic crops. Assam is an important spice-producing area of Northeast India due to its agricultural diversity.
+
+West Bengal is very famous for mustard production. Mustard oil Mustard oil is a cooking oil made from mustard seeds . It is used in eastern and northern India . Due to its agricultural heritage, mustard has become an important part of the state’s food culture.
+
+Chilli, coriander are grown in Uttar Pradesh. The fertile plains and agricultural conditions allow of large-scale farming. Coriander is a common ingredient in Indian kitchens for its aroma and flavour.
+
+India is the second largest producer of garlic and coriander after China. The state possesses the suitable land and climate for the cultivation of spices. These spices are used widely in cooking, food processing industries.
+
+Spices like cardamom and chilli are grown in suitable hill areas of Himachal Pradesh. The mountain environment and the cool climate allow the cultivation of some varieties of spices.
+
+Goa is famous for its kokum and local varieties of chillies. Kokum is extensively used in traditional and Goan cuisine. The state’s coastal climate enables the cultivation of unique spices of the region.
+
+India Is the Largest Producer of Spices
+
+India is one of the largest producers and exporters of spices in the world and is offering a wide variety of spices in the global markets.
+
+Black Pepper Was Once More Valuable Than Gold
+
+Black pepper was historically so valuable that it was sometimes used as currency in some areas, owing to its importance as a trading commodity.
+
+Saffron Is One of the Most Expensive Spices
+
+Kashmiri saffron is one of the costliest spices in the world because of its limited production and laborious harvesting process.
+
+Spices Played a Major Role in History
+
+The desire for Indian spices influenced the trade routes of the past and led to the Europeans seeking sea routes to India.
+
+India Has Hundreds of Spice Varieties
+
+India is known for its spices from the common spices like turmeric and cumin to rare varieties that are grown in various parts of the country.
+
+Jasreet Kaur is a journalist with over 3 years of experience in digital media and news content creation. She specializes in covering Trending News, including major National and International developments, with a focus on delivering accurate, engaging, and reader-friendly stories. Prior to this, she worked with Zee News as a Content Writer, where she gained extensive experience in news reporting and content strategy. Driven by curiosity, credibility, and a passion for impactful journalism, Jasreet aims to contribute to informed public discourse while supporting positive growth in organizations, society, and the world.
+
+Who Was the First Female Referee in FIFA World Cup History?
+
+PM Modi became the first Indian Prime Minister to address the Indonesian Parliament
+
+SIR 2026 Voter List: How To Check Your Haryana SIR Status Online From The Official CEO Website
+
+Which Is the Deepest River in India?
+
+Get here current GK and GK quiz questions in English and Hindi for India, World, Sports and Competitive exam preparation. Download the Jagran Josh Current Affairs App.
+
+RE-NEET OMR Sheet 2026 at neet.nta.nic.in (Shortly) LIVE: Release Date, Direct Link, How to Download
+
+CBSE Class 10 Second Board Result 2026 LIVE Soon: Release Date, How to Check Final Marksheet at cbse.gov.in,
+
+UPTET Answer Key 2026 LIVE: Download Paper 1 and 2 Response Sheet PDF at upessc.up.gov.in- Link Active Soon
+
+AIBE 21 Answer Key 2026 LIVE at allindiabarexamination (Expected Today): Release Time, How to Download
+
+RPSC 2nd Grade Admit Card​ 2026 Live: Download Senior Teacher Hall Ticket PDF at rpsc.rajasthan.gov.in- Link Active Shortly
+
+Mumbai Rains Today Live: Schools Colleges Closed, Orange Alert, Check Latest Weather and Traffic Updates
+
+BPSC APO Admit Card 2026: बिहार एपीओ एडमिट कार्ड bpsc.bihar.gov.in पर कल, यहां मिलेगा Direct Link
+
+UP DElEd Admission 2026: यूपी डीएलएड एडमिशन की आज अंतिम तिथि, इस लिंक से करें आवेदन
+
+RE-NEET OMR Sheet 2026 at neet.nta.nic.in (Shortly) LIVE: Release Date, Direct Link, How to Download
+
+BPSC APO Admit Card 2026 Releasing Tomorrow,  Download Prosecution Officer Hall Ticket PDF And Latest Update Here
+
+CBSE Class 10 Second Board Result 2026 LIVE Soon: Release Date, How to Check Final Marksheet at cbse.gov.in,
+
+BPSC Stenographer Answer Key 2026: बीपीएससी स्टेनोग्राफर उत्तर कुंजी bpsc.bihar.gov.in जारी, PDF डाउनलोड करें
+
+JoSAA Round 3 Opening and Closing Rank 2026: Category-wise Cutoffs for IIT Madras
+
+TNPSC CTSE Diploma ITI Notification 2026 Released for 839 Posts - Check Apply Online Date, Eligibility and More
+
+Indian Army SSC Tech Recruitment 2026 Notification OUT: Apply Online for 381 Vacancies at joinindianarmy.nic.in
+
+AMU Admission 2026 Through CUET UG: First Firm List Expected Soon at amucontrollerexams.com
+
+JNVST 2026 Class 6 Registration Begins: Check Eligibility, Application Last Date
+
+BPSC Stenographer Answer Key 2026 Released at bpsc.bihar.gov.in: Download Response Sheet PDF - Objection Link Here
+
+UPTET Answer Key 2026 LIVE: Download Paper 1 and 2 Response Sheet PDF at upessc.up.gov.in- Link Active Soon
+
+पाकिस्तान के एकमात्र नागरिक, जिन्हें मिला था ‘भारत रत्न’, पढ़ें नाम और वजह
+
+AIBE 21 Answer Key 2026 LIVE at allindiabarexamination (Expected Today): Release Time, How to Download
+
+NTA Extend NEET UG 2026 Fee Refund Window Till July 14; Check Official Notice, Process Here
+
+UGC Guidelines for Divyangjan Students: Key Changes to Make Higher Education More Inclusive - More Details Here
+
+RPSC 2nd Grade Admit Card​ 2026 Live: Download Senior Teacher Hall Ticket PDF at rpsc.rajasthan.gov.in- Link Active Shortly
+
+Madurai Kamaraj University Result 2026 Released For April Exams: Download UG and PG Marksheet PDF at mkuniversity.ac.in
+
+UPTET Answer Key 2026: जारी होने वाली है यूपीटीईटी उत्तर कुंजी? यहां मिलेगा पेपर 1 और पेपर 2 आंसर की PDF लिंक
 
 ================================================================================

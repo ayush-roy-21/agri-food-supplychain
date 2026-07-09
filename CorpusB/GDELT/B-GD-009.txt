@@ -1,46 +1,50 @@
 Doc ID: B-GD-009
-Title: How to make a good quick chicken curry
-Source Domain: theage.com.au | Publish Date: 20260514T201500Z
-URL: https://www.theage.com.au/goodfood/tips-and-advice/this-ingredient-will-change-the-way-you-make-a-quick-chicken-curry-forever-20260327-p5zj72.html
+Title: Warming waters , falling yields : Climate change and the future of India shrimp industry
+Source Domain: thehindubusinessline.com | Publish Date: 20260503T064500Z
+URL: https://www.thehindubusinessline.com/economy/agri-business/warming-waters-falling-yields-climate-change-and-the-future-of-indias-shrimp-industry/article70932872.ece
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export spice
-Retrieval Date: 2026-07-08
+Targeted Query: India export shrimp
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-spices-sps-hurdles
+DQA 6-Dimension Score: A,A,M,A,A,A
+DQA Justification: Auth: Tier-1 established financial/trade media domain | Rel: High relevance (3 agri + 3 trade friction terms) | Gran: Overview narrative (896 words, 1 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (896 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-seafood-dwpe-alerts
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Chicken is Australia’s most cooked meat. And chicken curry is India’s best-loved export. Put the two together and you get a meal good enough to bring back the family dinner.
+India’s shrimp industry has long anchored the country’s marine export economy.  However, beneath this outward strength lies a production system increasingly shaped by climate stress. What was once treated as a long-term environmental risk has already become embedded in daily farming realities across coastal regions such as Andhra Pradesh, Odisha, Tamil Nadu and Gujarat. Shrimp farming cycles are now being interrupted by changing water conditions, unpredictable weather patterns and rising biological stress, forcing farmers to recalibrate practices that were once stable and predictable.
 
-Across India’s regions, the iterations are vast. But no matter the variation – from Kashmir’s kokur rogan josh to Tamil Nadu’s Chicken Chettinad – what they all have in common is a dedicated approach to maximising deliciousness.
+Water temperature has emerged as a defining constraint in shrimp farming, with even slight deviations from the optimal range disrupting biological performance. As temperatures rise, metabolic activity increases without translating into growth, placing sustained physiological stress on shrimp. This weakens immunity and heightens vulnerability to diseases such as Early Mortality Syndrome and White Spot Syndrome Virus. These outbreaks are now more frequent during peak summer months, leading to recurring crop losses and uneven yields across farming clusters.
 
-Here are some quick tips to take your chicken curry efforts from ho-hum to wow-yum.
+At the same time, extreme weather events are compounding this stress. Cyclones, floods and erratic rainfall are disrupting production cycles and damaging farm infrastructure. Sudden drops in salinity affect feed absorption and survival rates, while physical damage to ponds and power systems can result in complete stock loss. Larger farms are investing in mitigation measures, but smaller operators face higher mortality and limited recovery capacity. The result is a widening resilience gap, with climate volatility steadily reshaping both cost structures and risk perception in the sector.
 
-Forget skinless and boneless. The chicken “curry cut” is the cut-to-order gold standard among Indian butchers. The curry cut means chopping the chicken into pieces, keeping the skin and bone intact. So a leg might be cut into three horizontally, while the thigh might be quartered.
+Salinity stability sits at the core of shrimp health, yet it is becoming harder to maintain across farming regions. Shifting rainfall patterns, combined with seawater intrusion in certain coastal belts, are creating unstable pond conditions. As salinity fluctuates, feed conversion efficiency declines and growth cycles extend beyond expected harvest timelines. Mortality risk increases in parallel, forcing farmers to intervene more aggressively.
 
-The best recipes from Australia's leading chefs straight to your inbox.
+These interventions come at a cost. Aeration systems, water exchange cycles and chemical treatments are being used more frequently to stabilise conditions. The result is a steady escalation in input costs. In many cases, production expenses are rising faster than farm gate prices, compressing margins across the value chain. The pressure is most visible among small and mid-scale farmers who have limited access to credit and risk hedging mechanisms, making them more exposed to cost shocks.
 
-The reason for the curry cut is twofold. One, it eliminates waste: the whole chicken is chopped up for use. And two, you’re getting maximum flavour and cooking convenience: the pieces are small enough to cook quickly, and with the skin and the bone retained, all the texture and taste of the bird funnels into the dish.
+India’s global strength in shrimp exports is also shaping its vulnerability profile. The US remains the largest importer at 311,948 tonnes in FY 2024–25, followed by China at 136,164 tonnes and the European Union at 99,310 tonnes. This concentration of demand in a limited set of markets creates sensitivity to both pricing shifts and supply-side disruptions.
 
-Introducing your own butcher to the “curry cut” means your curry is off to a much better start. If you’re a supermarket meat buyer, invest in a heavy cleaver and keep your fingers out of blade range.
+Over the past five years, exports to the United States have shown volatility, moving from 272,041 tonnes in 2020–21 to 311,948 tonnes in 2024–25. While demand remains strong, supply consistency is increasingly influenced by climate-linked production variability. This directly affects India’s pricing power in global markets, where stability of supply often determines negotiating strength more than absolute volume.
 
-Use mustard oil once, and I can guarantee it will be the start of a life-long love affair with this, the king of Indian fats. Mustard oil is made from pressed mustard seeds. Once impossible to find in Australia, it’s since become a regular on major supermarket shelves right by the pickles and the pappadum. Mustard oil’s superpower is that its intense wasabi-like aroma penetrates the chicken meat, while its heavy viscosity ensures any spice used will really stick.
+Despite mounting challenges, adaptation is gradually taking root. Recirculating aquaculture systems and biofloc technology are being adopted to reduce dependence on external environmental conditions. These systems allow greater control over water quality and reduce exposure to temperature and salinity fluctuations, improving survival rates and disease resistance.
 
-I use mustard oil for every chicken dish I make, from cacciatore to my dad’s famous Kashmiri chicken curry. Start your curry with two tablespoons of mustard oil for 700 grams of chicken, browning the meat on high heat until the outside is a little caramelised. Add your spices, then the tomato or coconut milk base, and step into a new world of flavour.
+In select regions, climate-controlled pond systems are also being introduced. These enable farmers to regulate temperature and maintain salinity stability, offering a buffer against external variability. However, adoption remains uneven due to high setup costs and limited access to financing. On the biological front, research into disease-resistant shrimp strains is advancing, with a focus on improving resilience without compromising growth efficiency.
 
-Yes, it’s possible. This is a combination of stir-fry and high-heat cooking, Indian-style. Start with the curry cut, mustard oil and a heavy-based wok or pot. Add a few tablespoons of mustard oil and set to very high heat. Once it reaches smoking point, toss in your chicken pieces with some salt and a little whole spice – a cinnamon stick, a few bay leaves and some cloves, if you have them handy.
+The scale of climate stress is now pointing to clear policy gaps. Coastal aquaculture requires stronger adaptation frameworks that integrate infrastructure resilience, water management and early warning systems. Cyclone and extreme rainfall alerts need deeper integration into farming cycles so that operational decisions can be made in advance rather than reactively.
 
-Continue to cook over high heat for a few minutes before adding 1 teaspoon of chilli powder stirred through 3 to 4 tablespoons of water, deglazing the vessel and taking a little heat out of the cook.
+Insurance mechanisms also require restructuring. Current models are largely designed around production loss rather than climate variability, leaving many farmers underinsured. This gap becomes critical during repeated climate shocks, where cumulative losses are not adequately captured in compensation structures.
 
-Toss in some diced tomato, add the masala (see below), and cook for a minute or two, until the aroma develops and the spices are no longer raw. Return your browned curry-cut chicken to the pan and cook for 20 minutes or until cookedthrough. You can finish the dish by stirring through some fresh spinach or cooked peas. Serve with white rice.
+Long-term resilience in India’s shrimp industry will depend on structural diversification and operational recalibration. Export concentration in a few large markets increases exposure to both climate-linked supply fluctuations and global price volatility. Expanding into emerging markets can help distribute demand risk more evenly.
 
-In this context, masala means a collection of spices used together. With a recipe like this, where time and convenience are factors, there’s no need to stage the spicing. Everything can go in at once, at the beginning of the cook. The key is to heat the mustard oil, then toss in chopped tomatoes, yoghurt or coconut milk as a curry base before adding the spices – the liquid addition protects them from burning in the oil.
+At the same time, value addition offers a viable path for margin improvement. Processed and semi-processed shrimp products reduce dependence on raw commodity pricing cycles and can strengthen India’s positioning in the global seafood trade. Ultimately, the sector’s definition of productivity is beginning to shift. Output volume will remain important, but stability under climate stress is emerging as the more decisive measure of sustainability.
 
-Combine the spices in a katori or small bowl and keep it within reach by the stovetop so you can add it to the pan once you’ve browned the chicken.
+The author is Chairman, CLFMA of India
 
-You have reached your maximum number of saved items.
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
 
-Remove items from your saved list to add more.
+We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+Terms & conditions  |  Institutional Subscriber
 
 ================================================================================

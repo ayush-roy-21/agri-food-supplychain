@@ -1,48 +1,23 @@
 Doc ID: B-GD-005
-Title: India taps Oman to rescue $11 . 8 billion food exports to West Asia
-Source Domain: thehindubusinessline.com | Publish Date: 20260517T193000Z
-URL: https://www.thehindubusinessline.com/economy/india-eyes-oman-reroute-to-rescue-118-billion-food-exports-to-west-asia/article70990277.ece
+Title: India seafood exports hit record Rs 72 , 000 crore in FY26 ; Frozen shrimp leads growth
+Source Domain: aninews.in | Publish Date: 20260422T034500Z
+URL: https://aninews.in/news/business/indias-seafood-exports-hit-record-rs-72000-crore-in-fy26-frozen-shrimp-leads-growth20260421221052/
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export spice
-Retrieval Date: 2026-07-08
+Targeted Query: India export shrimp
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-basmati-mrl-rejections
+DQA 6-Dimension Score: M,A,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (4 agri + 4 trade friction terms) | Gran: Substantive depth (287 words, 3 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (287 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-seafood-dwpe-alerts
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Oman is emerging as an effective option in India’s rerouting strategy
+ANI |
+ Updated: Apr 21, 2026 22:10  IST
 
-Amid the prolonged conflict rattling West Asia, India is looking to Oman for continuation of its vital trade in essential foods — such as rice, meat, poultry, dairy, fruits and vegetables — with the broader region by routing shipments through Omani ports and land routes, avoiding high-risk maritime zones.
+New Delhi [India], April 21 (ANI): India's marine exports surged to an all-time high of ₹72,325.82 crore (USD 8.28 billion) in FY 2025-26, with total export volumes reaching 19.32 lakh metric tonnes, according to provisional data released by the Marine Products Export Development Authority (MPEDA) on Tuesday.Frozen shrimp remained the key driver of growth, contributing ₹47,973.13 crore (USD 5.51 billion), accounting for more than two-thirds of total export earnings. Shrimp exports recorded a 4.6 per cent increase in volume and a 6.35 per cent rise in value.The United States continued to be the largest importer of Indian seafood at USD 2.32 billion. However, exports to the US declined by 19.8 per cent in volume and 14.5 per cent in value, largely due to reciprocal tariff impacts.
 
-“With the Strait of Hormuz in a state of inactivity effectively blocking India’s traditional trade arteries with West Asia, New Delhi is actively exploring logistical alternatives to continue its agricultural sector exports to West Asia, estimated at about $11.8 billion annually. Oman is emerging as an effective option in India’s rerouting strategy,” a source tracking the matter told businessline.
-
-Last week, the Agricultural and Processed Food Products Export Development Authority (APEDA) held discussions with a visiting Omani high level trade delegation,  to hammer out the operational mechanics of securing the alternative pathway.
-
-“Oman has ports such as Sohar and Salahlah and land bridges that provide connectivity to Saudi Arabia and other GCC countries. Already some of our agriculture exports are going through this route to various markets in West Asia. But costs are high, especially land transport costs,” a source tracking the matter told businessline.
-
-West Asia conflict hits India’s seafood exports to Gulf nations
-
-In addition to discussions on use of the ports and land bridges to send shipments, Indian exporters also discussed ways in which costs might be brought down for land transportation in Oman as it put additional pressure on them, an industry source noted.
-
-Gulf crisis threatens one-fifth of India’s farm exports: GTRI report
-
-“Oman’s advantage is geographical. Unlike most Gulf countries, much of Oman’s coastline lies outside the Strait of Hormuz, directly on the Arabian Sea and Gulf of Oman. Major ports such as Port of Salalah and Port of Duqm remained accessible even as traffic through Hormuz faced disruption. The crisis has shown that Oman can serve as an alternative trade and energy corridor for India when shipping through the Strait becomes risky or unstable,” according to Ajay Srivastava from Global Trade and Research Initiative (GTRI).
-
-The India-Oman FTA, likely to be implemented on June 1 (according to Commerce Minister Piyush Goyal), is also set to give a boost to bilateral and regional trade.
-
-India’s exports to West Asia suffered sharp contractions in March and April 2026, primarily due to severe shipping disruptions and a blockade at the Strait of Hormuz. Commerce Secretary Rajesh Agrawal said  that India’s exports to West Asian countries fell by more than 28 per cent year-on-year to $4.16 billion in April  while imports from the region dropped 31.64 per cent to $10.47 billion.
-
-Agricultural  produce is a major export item from India with West Asia accounting for 21.8 per cent of total  agricultural exports in FY26 with shipments valued at $11.8 billion. “Rice exports face major exposure, with $4.43 billion exported to West Asia, accounting for 36.7 per cent of India’s global rice exports,” per an analysis done by GTRI.
-
-Spice exports are closely tied to Gulf demand, with 70.5 per cent of nutmeg, mace and cardamom exports going to the region. Additionally, about 98.9 per cent of sheep and goat meat and 97.4 per cent of fresh beef exports shipped to West Asia.
-
-Dairy and beverages also rely heavily on Gulf markets, including 58.1 per cent of butter exports and 81 per cent of beer exports, according to GTRI.
-
-Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
-
-We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
-
-Terms & conditions  |  Institutional Subscriber
+The downturn in US demand was offset by strong growth in other markets. Exports to China rose by 22.7 per cent in value and 20.1 per cent in volume, while shipments to the European Union grew by 37.9 per cent in value and 35.2 per cent in volume. Southeast Asian markets also registered significant gains, with growth of over 36 per cent in value.Exports to Japan increased by 6.55 per cent in value, whereas shipments to West Asia saw a marginal decline of 0.55 per cent amid regional instability toward the end of the financial year.Among product categories, frozen fish, squid, cuttlefish, dried items, and live products recorded positive growth, while chilled products witnessed a decline. Surimi, fishmeal, and fish oil exports also improved.In terms of logistics, five major ports--Visakhapatnam, JNPT, Kochi, Kolkata, and Chennai--accounted for nearly 64 per cent of total export value, underlining their importance in India's seafood export ecosystem. (ANI)
 
 ================================================================================

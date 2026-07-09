@@ -1,56 +1,48 @@
 Doc ID: B-GD-031
-Title: Flying off the shelves : Why Indian mangoes are taking over global markets
-Source Domain: businesstoday.in | Publish Date: 20260526T044500Z
-URL: https://www.businesstoday.in/india/story/flying-off-the-shelves-why-indian-mangoes-are-taking-over-global-markets-533248-2026-05-26
+Title: How to make a good quick chicken curry
+Source Domain: theage.com.au | Publish Date: 20260514T201500Z
+URL: https://www.theage.com.au/goodfood/tips-and-advice/this-ingredient-will-change-the-way-you-make-a-quick-chicken-curry-forever-20260327-p5zj72.html
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export APEDA
-Retrieval Date: 2026-07-08
+Targeted Query: India export spice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-basmati-mrl-rejections
+DQA 6-Dimension Score: M,A,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (3 agri + 2 trade friction terms) | Gran: Overview narrative (673 words, 0 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (673 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-spices-sps-hurdles
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Indian mangoes are once again dominating fruit shelves across global markets, with rising exports, premium pricing and growing demand from the Indian diaspora as well as foreign consumers developing a taste for the “king of fruits”. From the Gulf to Europe, Singapore and the United States, Indian mango varieties are increasingly being marketed as premium seasonal produce, turning the humble mango into a major agricultural export success story.
+Chicken is Australia’s most cooked meat. And chicken curry is India’s best-loved export. Put the two together and you get a meal good enough to bring back the family dinner.
 
-India remains the world’s largest mango producer, contributing nearly half of global mango production. While domestic consumption absorbs a large chunk of the harvest, exports have steadily climbed in recent years as logistics, irradiation facilities and cold-chain networks improve.
+Across India’s regions, the iterations are vast. But no matter the variation – from Kashmir’s kokur rogan josh to Tamil Nadu’s Chicken Chettinad – what they all have in common is a dedicated approach to maximising deliciousness.
 
-According to data from the Agricultural and Processed Food Products Export Development Authority (APEDA), India exported nearly 29,938 metric tonnes of fresh mangoes in FY 2024-25, generating around $56.5 million in export revenue.
+Here are some quick tips to take your chicken curry efforts from ho-hum to wow-yum.
 
-The United Arab Emirates continues to be the largest overseas market for Indian mangoes. APEDA said India exported more than 12,000 metric tonnes of mangoes worth nearly $20 million to the UAE in 2024 alone, underlining the fruit’s strong demand in Gulf nations.
+Forget skinless and boneless. The chicken “curry cut” is the cut-to-order gold standard among Indian butchers. The curry cut means chopping the chicken into pieces, keeping the skin and bone intact. So a leg might be cut into three horizontally, while the thigh might be quartered.
 
-Guys, #indianmango fever has landed in Singapore. Mangoes from all states of India are flying off the shelves. Thanks to @protosphinx for sharing the story with us. HC Wong#mango #mangoexport @AgriGoI #fruit pic.twitter.com/vQWkjR5jN4
+The best recipes from Australia's leading chefs straight to your inbox.
 
-Beyond the Gulf, demand has expanded sharply in countries such as the US, UK, Qatar, Kuwait and Singapore. APEDA identifies the UAE, US, UK, Kuwait and Qatar among the top destinations for Indian mango exports.
+The reason for the curry cut is twofold. One, it eliminates waste: the whole chicken is chopped up for use. And two, you’re getting maximum flavour and cooking convenience: the pieces are small enough to cook quickly, and with the skin and the bone retained, all the texture and taste of the bird funnels into the dish.
 
-The growing popularity is being fuelled by multiple factors — rising global interest in exotic fruits, the expanding Indian diaspora, aggressive branding campaigns by Indian missions abroad, and better air cargo connectivity that allows fresh mangoes to reach international markets faster.
+Introducing your own butcher to the “curry cut” means your curry is off to a much better start. If you’re a supermarket meat buyer, invest in a heavy cleaver and keep your fingers out of blade range.
 
-A recent social media post by the Singapore High Commission in India captured this enthusiasm. The post noted that mangoes from various Indian states were “flying off the shelves” in Singapore, reflecting how Indian mangoes have become a seasonal attraction in the Southeast Asian nation.
+Use mustard oil once, and I can guarantee it will be the start of a life-long love affair with this, the king of Indian fats. Mustard oil is made from pressed mustard seeds. Once impossible to find in Australia, it’s since become a regular on major supermarket shelves right by the pickles and the pappadum. Mustard oil’s superpower is that its intense wasabi-like aroma penetrates the chicken meat, while its heavy viscosity ensures any spice used will really stick.
 
-India exports a wide range of mango varieties depending on regional tastes and pricing. The most internationally recognised remains the Alphonso mango from Maharashtra, often marketed as the “King of Mangoes” for its rich aroma and creamy texture.
+I use mustard oil for every chicken dish I make, from cacciatore to my dad’s famous Kashmiri chicken curry. Start your curry with two tablespoons of mustard oil for 700 grams of chicken, browning the meat on high heat until the outside is a little caramelised. Add your spices, then the tomato or coconut milk base, and step into a new world of flavour.
 
-Indian Mango Magic @ Seattle!
-1st day, 1st show: all Kesar Mangoes sold out within hours!
-Please do watch:@AmbVMKwatra @IndianEmbassyUS @MEAIndia @APEDADOC @DoC_GoI @mygovindia @ANI @DDNewslive @airnewsalerts @PTI_News pic.twitter.com/GCgmgBSoeq
+Yes, it’s possible. This is a combination of stir-fry and high-heat cooking, Indian-style. Start with the curry cut, mustard oil and a heavy-based wok or pot. Add a few tablespoons of mustard oil and set to very high heat. Once it reaches smoking point, toss in your chicken pieces with some salt and a little whole spice – a cinnamon stick, a few bay leaves and some cloves, if you have them handy.
 
-But exporters say global buyers are increasingly diversifying their preferences. Kesar mangoes from Gujarat, Totapuri from South India, and North Indian varieties such as Langra and Chausa are finding larger overseas audiences.
+Continue to cook over high heat for a few minutes before adding 1 teaspoon of chilli powder stirred through 3 to 4 tablespoons of water, deglazing the vessel and taking a little heat out of the cook.
 
-APEDA’s market assessments indicate that cheaper varieties such as Kesar are gaining traction because they are significantly more affordable than premium Alphonso mangoes, making them attractive in price-sensitive international markets.
+Toss in some diced tomato, add the masala (see below), and cook for a minute or two, until the aroma develops and the spices are no longer raw. Return your browned curry-cut chicken to the pan and cook for 20 minutes or until cookedthrough. You can finish the dish by stirring through some fresh spinach or cooked peas. Serve with white rice.
 
-Premium GI-tagged mangoes are also being promoted aggressively abroad. In July 2025, APEDA organised “Indian Mango Mania 2025” in Abu Dhabi, showcasing several premium and geographically-indicated mango varieties to global consumers.
+In this context, masala means a collection of spices used together. With a recipe like this, where time and convenience are factors, there’s no need to stage the spicing. Everything can go in at once, at the beginning of the cook. The key is to heat the mustard oil, then toss in chopped tomatoes, yoghurt or coconut milk as a curry base before adding the spices – the liquid addition protects them from burning in the oil.
 
-India’s mango export ecosystem has evolved rapidly over the past decade. Exporters are investing in improved packaging, ripening infrastructure and compliance with strict phytosanitary standards required by Western countries.
+Combine the spices in a katori or small bowl and keep it within reach by the stovetop so you can add it to the pan once you’ve browned the chicken.
 
-Industry studies suggest the export value chain now involves a sophisticated network of farmers, aggregators, irradiation centres, freight operators and overseas retailers.
+You have reached your maximum number of saved items.
 
-Government-backed export promotion has also played a major role. APEDA and Indian embassies abroad have increased promotional campaigns, food festivals and retail tie-ups to position Indian mangoes as premium produce in foreign supermarkets.
-
-HE @AmbGVSrinivas inaugurated the 23rd edition of the Mango Mania festival at Lulu Hypermarket in Muscat yesterday. This year, the annual event showcased over 50 premium mango varieties from India, alongside selections from across the globe. In addition to fresh fruit, the… pic.twitter.com/it7ijRisan
-
-India’s broader fresh fruit and vegetable exports crossed $1.8 billion in FY 2024-25, with mangoes remaining among the flagship fruit exports from the country.
-
-Despite booming demand, exporters still face challenges including short harvesting windows, high air freight costs and strict import regulations in some countries.
-
-Competition from other mango-exporting nations such as Mexico, Brazil, Thailand and Peru is also intensifying. Global projections suggest mango exports worldwide are expected to keep growing over the next few years as international consumption rises.
+Remove items from your saved list to add more.
 
 ================================================================================

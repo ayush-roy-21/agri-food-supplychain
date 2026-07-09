@@ -1,44 +1,44 @@
 Doc ID: B-GD-013
-Title: China suspends import licences of 3 Indian rice export firms
-Source Domain: thehindubusinessline.com | Publish Date: 20260417T171500Z
-URL: https://www.thehindubusinessline.com/economy/agri-business/china-suspends-import-licences-of-3-indian-rice-export-firms/article70874603.ece
+Title: India Seafood Exports Record ₹72 , 000 Crore FY26
+Source Domain: newkerala.com | Publish Date: 20260421T171500Z
+URL: https://www.newkerala.com/news/a/indias-seafood-exports-hit-record-rs-72000-crore-572.htm
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export rice
-Retrieval Date: 2026-07-08
+Targeted Query: India export shrimp
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-basmati-mrl-rejections
+DQA 6-Dimension Score: M,A,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (3 agri + 3 trade friction terms) | Gran: Substantive depth (538 words, 3 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (538 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-seafood-dwpe-alerts
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Sources added that the effective date of the Chinese customs department’s new order was determined based on the timing of the initial consignment rejections
-																															| Photo Credit:
-											SRINATH M
+India's seafood exports achieved a historic high of ₹72,325.82 crore in the 2025-26 financial year. Frozen shrimp was the primary growth driver, making up more than two-thirds of the total export earnings. While exports to the United States declined, significant growth in markets like China and the European Union compensated for the shortfall. Major ports like Visakhapatnam and JNPT handled nearly two-thirds of the export value, highlighting their critical role.
 
-About a month after rejecting consignments from three Indian rice exporters due to traces of genetically modified organisms (GMOs), China has cancelled the import licenses of these companies, effective April 17, according to sources. The Indian Embassy in China communicated the matter to APEDA, India’s official agricultural export promotion body, which subsequently informed the affected companies.
+India's marine exports surged to an all-time high of ₹72,325.82 crore in FY 2025-26, with total export volumes reaching 19.32 lakh metric tonnes, according to provisional data released by the Marine Products Export Development Authority on Tuesday.
 
-The companies involved are NM FoodImpex Pvt. Ltd., Shriram Food Industry Ltd, and Sponge Enterprises Pvt Ltd. Industry sources said the government may take reciprocal steps if China continues with the suspension, as the ground on which the decision was taken was not legally valid.
+Frozen shrimp remained the key driver of growth, contributing ₹47,973.13 crore (USD 5.51 billion), accounting for more than two-thirds of total export earnings. Shrimp exports recorded a 4.6 per cent increase in volume and a 6.35 per cent rise in value.
 
-The affected companies have reportedly approached the Commerce Minister Piyush Goyal as well as APEDA to take up the matter with the Chinese on a priority basis, the sources said.
+The United States continued to be the largest importer of Indian seafood at USD 2.32 billion. However, exports to the US declined by 19.8 per cent in volume and 14.5 per cent in value, largely due to reciprocal tariff impacts.
 
-Sources added that the effective date of the Chinese customs department’s new order was determined based on the timing of the initial consignment rejections
+The downturn in US demand was offset by strong growth in other markets. Exports to China rose by 22.7 per cent in value and 20.1 per cent in volume, while shipments to the European Union grew by 37.9 per cent in value and 35.2 per cent in volume. Southeast Asian markets also registered significant gains, with growth of over 36 per cent in value.
 
-businessline had reported in March on incidents of rejection of Indian non-Basmati rice consignments by China, citing traces of GMO, even though  the non-Basmati rice was tested by China Certification & Inspection Group (CCIC), a state-owned company. Besides, India is yet to permit the commercial cultivation of GM crops, other than cotton.
+Exports to Japan increased by 6.55 per cent in value, whereas shipments to West Asia saw a marginal decline of 0.55 per cent amid regional instability toward the end of the financial year.
 
-The affected companies had taken up the matter with India’s agri export promotion body APEDA as well as the Indian Council of Agricultural Research (ICAR).
+Among product categories, frozen fish, squid, cuttlefish, dried items, and live products recorded positive growth, while chilled products witnessed a decline. Surimi, fishmeal, and fish oil exports also improved.
 
-Industry sources said that China grows GM rice, and in 2006, the European Union had flagged the issue of GM contamination in Chinese rice.
+In terms of logistics, five major ports--Visakhapatnam, JNPT, Kochi, Kolkata, and Chennai--accounted for nearly 64 per cent of total export value, underlining their importance in India's seafood export ecosystem.
 
-India had exported 180,805 tonnes worth $79.43 million of non-Basmati rice to China in 2024-25, and during April-January of the current fiscal, it was already higher at 186,013 tonnes, though in value terms it was lower at $ 65.59 million. As China had restrictions on Indian rice through non-tariff barriers, the export was very low till 2019-20, only 567 tonnes in 2019-20, but it surged to 331,571 tonnes in 2020-21 after it removed those curbs.
+Great numbers, but I hope this growth is sustainable and the fishermen are getting their fair share. Sometimes these record exports don't translate to better prices for the actual producers at the village level.
 
-In 2025-26, China’s rice imports are estimated to rise to 3.1 mt from 2.3 mt in 2024-25, USDA data show. Its exports are also pegged to increase to 1.9 mt from 1.2 mt and production to 146.3 mt from 145.3 mt, the data show.
+Visakhapatnam and Kochi ports leading the way! This is a big boost for coastal states and employment. The focus should now be on quality control and branding so 'Indian Seafood' becomes a global premium label.
 
-When China allowed Indian rice imports, initially its own team had recognised 16 mills in India, but later on it accepted India’s official recognition and recognised over 100 rice mills to export rice, trade sources said.
+Interesting data. The shift from the US to China/EU is significant. While the growth is impressive, the decline in the US market due to tariffs is a concern. We need strong trade diplomacy to protect these key industries.
 
-Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
+More than 72,000 crore! That's huge. But as a consumer, I wonder if this export focus affects the availability and price of good quality fish and prawns in our own local markets? Sometimes the best catch gets exported.
 
-We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+The growth in Surimi and fishmeal is a good sign of value addition within the industry. We're not just exporting raw materials anymore. Hope the government continues to support the sector with better infrastructure and cold chains.
 
-Terms & conditions  |  Institutional Subscriber
+We welcome thoughtful discussions from our readers. Please keep comments respectful and on-topic.
 
 ================================================================================

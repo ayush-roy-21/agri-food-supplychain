@@ -1,64 +1,23 @@
 Doc ID: B-GD-014
-Title: Minimum export price on agri items will lift forex coffers
-Source Domain: thehindubusinessline.com | Publish Date: 20260521T031500Z
-URL: https://www.thehindubusinessline.com/opinion/minimum-export-price-on-agri-items-will-lift-forex-coffers/article71003335.ece
+Title: National workshop discusses value addition , sustainability and market access to boost seafood exports
+Source Domain: aninews.in | Publish Date: 20260609T090000Z
+URL: https://aninews.in/news/business/national-workshop-discusses-value-addition-sustainability-and-market-access-to-boost-seafood-exports20260609133208/
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export rice
-Retrieval Date: 2026-07-08
+Targeted Query: India export shrimp
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-spices-sps-hurdles
+DQA 6-Dimension Score: M,A,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (5 agri + 3 trade friction terms) | Gran: Substantive depth (373 words, 2 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (373 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-seafood-dwpe-alerts
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Basmati rice enjoys a premium in the global market 
-																															| Photo Credit:
-											Sanny11
+ANI |
+ Updated: Jun 09, 2026 13:32  IST
 
-On May 11, Prime Minister Narendra Modi urged Indian citizens to conserve precious foreign exchange in view of the West Asian crisis. Since then, the government has come up with a slew of measures, more than doubling the import duty on precious metals, hiking prices of fossil fuels and imposing curbs on silver imports.
+New Delhi [India], June 9 (ANI): A two-day National Workshop on Seafood Exports held in Visakhapatnam focused on measures to enhance India's seafood exports through value addition, sustainability, improved market access, innovation and infrastructure development.The workshop, organised by the Department of Commerce in collaboration with the Department of Fisheries and the Ministry of Food Processing Industries (MoFPI) on June 5-6, brought together policymakers, industry representatives, exporters, processors, researchers, startups and aquaculture farmers to deliberate on strengthening the seafood export ecosystem.Addressing the inaugural session, Union Commerce and Industry Minister Piyush Goyal said India's marine products exports have increased by nearly 70 per cent in value terms over the last decade and noted that the country currently accounts for around 4 per cent of global seafood trade. He called upon stakeholders to work collectively towards achieving seafood exports of USD 30 billion within the next five years through value addition, branding, quality enhancement, sustainability and diversification of export markets.
 
-These measures will go a long way in cutting foreign exchange (forex) outgo. However, the government should have looked at increasing forex earnings, particularly on the agricultural commodities export front. Concerned over surging retail prices of sugar, it has banned the export of the commodity.
-
-India’s exports increased by 4.22 per cent to $860.09 billion in the 2025-26 financial year, while imports grew even faster by 6.47 per cent to $970 billion, resulting in a widening of the overall trade deficit.
-
-The government should try to increase the realisation of products in which it enjoys a premium or is among the top exporters of the commodity.
-
-For example, basmati rice enjoys a premium in the global market. However, its unit value realisation declined to $868 a tonne during the April-February period of the 2025-26 fiscal.
-
-It is an 11 per cent decline from the $980 realised in the 2024-25 fiscal. In 2023-24, the unit value realisation was $1,114 a tonne.
-
-The volume of basmati exports was higher in 2025-26 (April-February) compared with the previous fiscal, but the value of shipments was lower by over $650 million.
-
-With the support of the Geographical Indication status, the government should have tried to get better returns.
-
-Exports of basmati have increased from 7.7 lakh tonnes (lt) in 2003-04 to over 60 lt in 2024-25. Yet in real terms, taking into consideration inflation and rising input costs, per unit realisations have been negative.
-
-India enjoys nearly 65 per cent share of the global basmati rice trade. Why has the government not considered fixing a minimum export price (MEP) or levying export duty? At least, it should recover $250 an acre spent on subsidies to provide fertilizers and power used for irrigating the land.
-
-Similarly, the per unit realisation on non-basmati rice during the April-February period dropped by 15 per cent to $393 a tonne. Though exports nearly matched the previous fiscal’s volume, the value was lower by over $1 billion.
-
-In the non-basmati rice segment, India enjoys over a 40 per cent market share in global trade. In the parboiled sector, India almost enjoys a monopoly, with Pakistan and Thailand trailing far behind. Notwithstanding these facts, Indian rice continues to trade at a discount compared to other countries.
-
-Basmati and non-basmati rice exports fetch over $12 billion annually. Shouldn’t the government try to increase it at least by an additional couple of billions without hurting their prospects in the global market?
-
-India should take a leaf out of Malaysia and Indonesia, the largest exporters of palm oil. Both nations impose an export tax on crude palm oil to ensure value addition is done and the commodity is exported as refined and bleached palm oil.
-
-Many African countries use export taxes to encourage domestic processing. For example, Ghana and Côte d’Ivoire impose levies on raw cocoa beans. They have adopted the same measure to encourage raw cashew nut processing. Kenya and Uganda use such measures on raw coffee.
-
-After a long time, demand for guar gum has surged in the global market in view of soaring crude oil prices. With crude oil prices near $100 a barrel, investors are looking to take advantage by looking for higher extraction. However, its per unit value of exports is down by $145 a tonne.
-
-When crude oil prices have soared, shouldn’t the government have acted to milk its best from this export?
-
-Natural honey is another example. The government has cut the MEP when it could have got additional revenue. It is here that the Commerce Ministry’s role assumes significance. As the nodal ministry for exports and imports, its officials should look not only at cutting the forex outgo but also at increasing its income. It should look at various ways of earning more from products in which India enjoys an advantage in the global market.
-
-Apart from rice and other products mentioned above, India can also look at buffalo meat, pulses, processed vegetables, fresh fruits, honey, mango pulp, processed meat, organic products, cashew nuts, spices and poultry products to raise additional forex income.
-
-Chandrasekaran is the author of ‘Basmati Rice: The Natural History Geographical Indication’
-
-Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
-
-We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
-
-Terms & conditions  |  Institutional Subscriber
+Goyal also stressed the need to increase the share of value-added seafood products, including ready-to-eat and ready-to-cook offerings, and encouraged exporters to leverage market access opportunities arising from India's recently concluded Free Trade Agreements covering 38 countries.Union Minister of Food Processing Industries Chirag Paswan highlighted the potential for value addition in the seafood sector and stressed the need to move from "volume to value" and "produce to product" through greater focus on processing, branding, technology adoption and market diversification.Union Minister for Fisheries, Animal Husbandry and Dairying Rajiv Ranjan Singh said fish production in India increased from 95.8 lakh tonnes in 2012-13 to nearly 198 lakh tonnes in 2024-25. He added that India's seafood exports reached approximately Rs 73,890 crore (USD 8.46 billion), with frozen shrimp continuing to be the country's leading seafood export item.During interactive and technical sessions, stakeholders discussed challenges related to disease management, rising input costs, logistics, cold-chain development, certification, traceability and sustainability standards. Discussions also focused on export promotion, deep-sea fisheries, diversification of export opportunities and the potential for a Production Linked Incentive (PLI) framework for the seafood sector.The workshop concluded with a shared commitment to strengthen sustainability, traceability, value addition, export infrastructure and market access to enhance India's global competitiveness in seafood exports. (ANI)
 
 ================================================================================

@@ -1,54 +1,40 @@
 Doc ID: B-GD-056
-Title: Assam Exports First Legally Approved Agarwood Shipment to Saudi Arabia , UAE
-Source Domain: dailypioneer.com | Publish Date: 20260515T040000Z
-URL: https://dailypioneer.com/news/saudi-uae-receive-export-consignment-valued-at-rs-2-35-crore-from-assam
+Title: India tea exports surge 93 % to ₹8 , 719 crore in FY26 : Piyush Goyal hails global demand
+Source Domain: thehindubusinessline.com | Publish Date: 20260521T143000Z
+URL: https://www.thehindubusinessline.com/news/indias-tea-exports-surge-93-to-8719-crore-in-fy26-piyush-goyal-hails-global-demand/article71005908.ece
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export DGFT
-Retrieval Date: 2026-07-08
+Targeted Query: India export tea
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: A,M,M,A,A,A
+DQA Justification: Auth: Tier-1 established financial/trade media domain | Rel: Adequate/Marginal trade relevance (1 agri + 2 trade friction terms) | Gran: Overview narrative (487 words, 1 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (487 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
 Locus Tag: gdelt-msme-trade-friction
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Assam has marked a significant milestone in its agro-forest economy with the first legally approved export of agarwood chips to Saudi Arabia and the United Arab Emirates, opening a new chapter for an industry with vast global demand and strong revenue potential.
+India's tea export sector recorded a substantial 93 per cent growth, reaching a valuation of ₹8,719 crore during the 2025-26 fiscal year compared to ₹4,509 crore in 2013-14. This increase highlights the strengthening presence of Indian tea varieties across international markets.
 
-The consignment, comprising 100 kg of agarwood chips to Saudi Arabia and 12 kg to the UAE, was dispatched from the cargo terminal of Lokpriya Gopinath Bordoloi International Airport on Wednesday. The shipment was valued at Rs 2.35 crore.
+On the occasion of International Tea Day today, Union Minister for Commerce and Industry Piyush Goyal shared the country's financial milestone on social media platform "X", detailing the country's diverse tea-producing regions and their unique market characteristics.
 
-First export with full regulatory approval
+"Tea is an emotion. And on #InternationalTeaDay, there cannot be a better way to describe it! Across India, tea is more than just a beverage, it is a part of everyday life, conversations & traditions," Minister Goyal stated on X. In a thread of tweets, Goyal showcased India's diverse tea varieties shaped by its region by sharing infographics for each.
 
-The consignment was exported after securing all statutory clearances, including a CITES permit and a restricted export licence from the Directorate General of Foreign Trade (DGFT). The shipment was flagged off by Founder Chairman, MJI Group and Chairman, All Assam Agarwood Planters & Traders Association Dr Jehirul Islam, who described the event as a historic breakthrough for Assam’s indigenous agarwood sector.” This achievement is the result of years of research, policy advocacy, farmer engagement, plantation development, processing innovation and international compliance efforts,” Dr Islam said.
+"In this thread, explore some of India's diverse tea varieties, each shaped by its region, unique taste & the legacy it carries," Goyal added.
 
-Premium product in global demand
+The growth in export revenue aligns with a broader recognition of India's regional tea varieties, many of which carry Geographical Indication (GI) tags that protect their distinct regional profiles. Production spans across traditional hubs and expanding cultivation areas, including specific regions like Dooars-Terai, which produces a heavy-flavoured tea grown amidst rich flora and fauna.
 
-Agarwood, also known as Oud, is one of the world’s most valuable aromatic raw materials and is widely used in luxury perfumes, incense, cosmetics and traditional products across the Gulf, Europe and Southeast Asia.
+Cultivation has also extended to states such as Tripura, Bihar, Karnataka, Arunachal Pradesh, Uttarakhand, Manipur, Mizoram, Meghalaya, and Nagaland."From the hills of Darjeeling to the valleys of Assam and the plantations of the Nilgiris, every region brings its own distinct flavour, aroma & character to a cup of tea!" Goyal stated.
 
-Assam-grown agarwood is highly valued for its superior quality, rich aroma and high oil content, giving the state a strong advantage in international markets. Industry stakeholders believe organised exports can generate substantial opportunities for farmers, nursery owners, distillation units, traders and small enterprises across Assam and the wider Northeast.
+The infographics showed that global expansion relies heavily on these regional characteristics. Darjeeling tea remains recognized for its delicate 'muscatel' flavour, fine aroma, and exquisite bouquet, while Assam tea maintains its market position through its full-bodied, strong, and malty character featuring a brownish coppery brightness.
 
-Policy support boosts organised trade
+"Over the years, Indian tea has also strengthened its presence across global markets, driven by improving quality standards & the continued efforts of @TeaBoardOfIndia to showcase the richness of India's tea heritage to the world," Goyal added.
 
-Dr Islam credited the Government of Assam and Government of India for facilitating the export and thanked Assam Chief Minister Himanta Biswa Sarma for supporting the implementation of the Assam Agarwood Promotion Policy, 2020.
+In Southern India, Nilgiri tea contributes to the export basket with its characteristically fragrant, aromatic profile featuring high tones of delicate floral notes. Similarly, Kangra valley in the north produces distinct black and green teas. Sikkim tea offeres a light, flowery, golden yellow, and delicate flavour profile to international buyers.
 
-The policy was introduced to legalise and regulate cultivation, processing and export of agarwood while creating a transparent and farmer-friendly ecosystem.
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
 
-Move expected to curb illegal trade
+We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
 
-According to Dr Islam, the policy framework will help curb the illegal movement of agarwood, which for years, deprived local growers and entrepreneurs of fair returns. He said regulated exports would enable producers in Assam to directly access global buyers instead of depending on informal channels and intermediaries. Industry can generate Rs 50,000 crore annually.
-
-Dr Islam said the Agarwood industry has the potential to generate up to Rs 50,000 crore in annual revenue for Assam if cultivation, processing and exports are scaled up in an organised manner.
-
-He said the sector could emerge as one of the state’s leading foreign exchange earners, driven by rising international demand for agarwood chips, oud oil, perfumes and other value-added aromatic products.
-
-Experts believe the organised agarwood sector could transform Assam’s rural economy and become one of Northeast India’s most significant export industries.
-
-Beyond raw chip exports, the sector offers considerable scope for value-added manufacturing, including oud oil, perfumes, bakhoor, incense products, cosmetic ingredients and aromatherapy products.
-
-Expansion of plantations and processing facilities is expected to generate employment opportunities for rural youth and strengthen Assam’s agro-based industries.
-
-MJI Group and MJI Aromatics Pvt Ltd plan to expand plantations, establish advanced processing facilities, build a global brand for Assam oud and train farmers to meet international standards. Industry leaders say the successful export positions Assam to emerge as a global hub for agarwood, oud and fragrance products, transforming a traditional forest resource into a modern export-driven industry.
-
-Your ad could be here. Contact us for advertising opportunities.
-
-Get the latest news delivered directly to your inbox.
+Terms & conditions  |  Institutional Subscriber
 
 ================================================================================

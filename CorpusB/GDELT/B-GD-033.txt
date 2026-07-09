@@ -1,21 +1,72 @@
 Doc ID: B-GD-033
-Title: Govt facilitates shipment of Banganapalle mangoes to Singapore , Farmers earn twice of domestic price
-Source Domain: aninews.in | Publish Date: 20260625T091500Z
-URL: https://aninews.in/news/business/govt-facilitates-shipment-of-banganapalle-mangoes-to-singapore-farmers-earn-twice-of-domestic-price20260625132103/
+Title: UK Entrepreneurs Secure New Trade Deals at Great British Pitch India
+Source Domain: ealingtimes.co.uk | Publish Date: 20260619T141500Z
+URL: https://www.ealingtimes.co.uk/news/national/uk-today/26209314.uk-entrepreneurs-secure-new-trade-deals-great-british-pitch-india/
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export APEDA
-Retrieval Date: 2026-07-08
+Targeted Query: India export spice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-basmati-mrl-rejections
+DQA 6-Dimension Score: M,M,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: Adequate/Marginal trade relevance (1 agri + 2 trade friction terms) | Gran: Overview narrative (1054 words, 1 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (1054 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-msme-trade-friction
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-ANI |
- Updated: Jun 25, 2026 13:21  IST
+Business
+ Food and drink
+ Leisure
 
-New Delhi [India], June 25 (ANI): The Agricultural and Processed Food Products Export Development Authority (APEDA), under the Ministry of Commerce and Industry, has facilitated the first commercial sea shipment of premium Banganapalle mangoes from India to Singapore, marking a significant step in promoting cost-effective and sustainable exports of Indian horticultural produce.According to an official statement issued by the Ministry of Commerce and Industry on Thursday, the consignment comprised 5 metric tonnes (MT) of Banganapalle mangoes exported by M/s Osum Food Solutions LLP. The shipment was dispatched on June 11, 2026, and arrived in Singapore on June 24, 2026.The ministry said, "the Agricultural and Processed Food Products Export Development Authority (APEDA), under the Ministry of Commerce & Industry, in collaboration with the ICAR-Central Institute for Subtropical Horticulture (CISH), Lucknow, has successfully facilitated the first commercial sea shipment of premium Banganapalle mangoes from India to Singapore".The ministry said the initiative is aimed at expanding market access for premium Indian mangoes while promoting sea freight as a viable export option.The mangoes were sourced from Good Agricultural Practices (GAP)-certified orchards in Andhra Pradesh and were processed and packed at an APEDA-recognised packhouse in Karnataka. The entire consignment was handled in accordance with the quality and phytosanitary requirements prescribed by Singapore.
+Over 40 UK small businesses from food & drink, retail and consumer goods sectors pitched their businesses to a range of Indian buyers at the Great British Pitch India, the first of the flagship Great British Pitch campaign, helping to drive export growth for the UK’s 5.7 million small businesses.
 
-Upon arrival, Singapore-based importer EC-Links Pte Ltd reported excellent fruit quality. The importer appreciated the mangoes for their sweetness, uniform ripening, shelf life and overall phytosanitary condition.The ministry noted that the consignment successfully met all import requirements, demonstrating the effectiveness of scientific post-harvest management practices and cold-chain logistics during sea transportation.The export also resulted in higher returns for farmers. While domestic market prices for the variety ranged between Rs 25 and Rs 26 per kilogram, the export consignment realised approximately Rs 50 per kilogram, nearly doubling farm-gate returns and creating additional value for growers.According to the statement, the successful shipment highlights the growing potential of sea freight as a cost-effective, environmentally sustainable and commercially scalable mode of transport for fresh fruits.Supported by cold-chain infrastructure, scientific handling practices and efficient logistics management, maritime transport can help strengthen the competitiveness of Indian horticultural exports in global markets.Banganapalle is one of India's most popular mango varieties and is known for its golden-yellow colour, pleasant aroma, fibreless pulp and rich sweetness. The variety enjoys strong demand in international markets and offers significant potential for further growth in exports.The ministry said APEDA has been actively promoting sea freight for fresh fruit and vegetable exports through market development initiatives, infrastructure support and capacity-building measures. (ANI)
+Hosted in central London, small businesses pitched live to Indian buyers as part of the campaign delivered by Small Business Britain and supported by the Department for Business and Trade.
+
+Ahead of their pitches, businesses received tailored coaching, live mentoring and one-to-one support, alongside legal, regulatory and cultural workshops designed to help them become export-ready and prepared to trade with Indian businesses.
+
+A branded Routemaster transports UK entrepreneurs to No.11 Downing following a morning of pitching to India buyers (Image: Small Business Britain)
+
+The event also featured insights from Amy Clarke, UK Export Finance, alongside Board of Trade Advisers Michelle Ovens CBE, Founder and CEO of Small Business Britain, and Paul Lindley OBE, founder of Ella’s Kitchen, as well as Spice Kitchen co-founder and CEO Sanjay Aggarwal, who highlighted the opportunities for UK entrepreneurs to export and grow internationally.
+
+Businesses were then welcomed to a reception at No. 11 Downing Street, hosted by Chancellor Rachel Reeves. Alongside Indian High Commissioner Harjinder Kang and HM Trade Commissioner Kumaran Periasamy, where addresses demonstrated the importance of the UK-India trading relationship and the vital role small businesses play in driving trade and economic growth between the two countries.
+
+The event comes as export ambition among UK small businesses continues to grow. Government data shows just 17% of small businesses currently export their goods or services, and of those trading internationally, only 12% currently export to India. However, new data from Small Business Institute found that 30% plan to increase their exports, highlighting the ambition and opportunity to build on the momentum of the UK–India Free Trade Agreement.
+
+Paul Lindley OBE, CEO and Founder of Ella's Kitchen discussing the confidence exporting globally can give UK small businesses (Image: Small Business Britain)
+
+Trade Minister Chris Bryant said: "The Great British Pitch is a perfect example of the ambition and talent that exists across the UK's small business community, and it couldn't be better timed.
+
+“With our landmark trade deal with India entering into force on 15 July, British businesses will now have the opportunity to access one of the world's fastest-growing markets.
+
+“The deal will boost UK GDP by £4.8bn and cut tariffs worth £400m in the first year alone, and events like this are helping to ensure our small businesses are first in line to seize those benefits.”
+
+Michelle Ovens CBE, CEO and Founder of Small Business Britain said: “Great British Pitch India is a clear demonstration of what happens when we work together, fuelled by the ambition and drive of the UK’s small businesses. Trade between the UK and India is crucial for the continued growth of both countries and, as we saw throughout the event, exporting not only delivers economic benefits for small businesses but also builds confidence and opens the door to new opportunities. From a range of sectors, small businesses have the ability to lead the charge on international trade and build our credibility as an exporting nation.”
+
+Sanjay Aggarwal, Co-founder and CEO at Spice Kitchen discussing the story of starting Spice Kitchen and the benefits of trading with India as a small business (Image: Small Business Britain)
+
+Paul Lindley OBE, Founder of Ella’s Kitchen, said: “International trade is vital not only for our economy, but demonstrating the talent and ambition of the UK’s small business community. It was great to be part of the Great British Pitch India and see firsthand the strength of homegrown talent and international appetite from Indian buyers.”
+
+A number of small businesses reported immediate interest and follow-up conversations with buyers, with early-stage export deals already in motion. The event is expected to lead to several promising UK-Indian partnerships in the coming months. Following the event, all participating businesses will receive ongoing support, including further export training and bespoke matchmaking opportunities with relevant Indian businesses.
+
+Ben Newnum, Managing Director at Nala’s Baby, a non-toxic, natural skincare brand for children, was one of the number of businesses securing deal interest and looking to export to the Indian market. He said:  "We weren’t sure what to expect from the Small Business Britain and Department for Business and Trade event but were staggered by how much value it delivered and how well organised it was. It was our first time engaging and we will be sure to do so again. We’ve made multiple contacts following our pitching session and networking opportunity and following up in the coming days."
+
+Amy Clarke, Head of Division, Short Term Business, at UK Export Finance discusses the financial gains of global export and what support is available for small businesses (Image: Small Business Britain)
+
+Lavinia Davolio, founder of Lavolio Confectionery, a confectionery brand reimagining Italian chocolate, who pitched her business to relevant Indian buyers, added: “India is one of the most sophisticated gifting cultures in the world, so pitching Lavolio there felt less like entering a new market and more like finding people who immediately understood the product. For my innovative confectionery brand that sits somewhere between food, gift and design, that kind of access is rare and potentially transformative.”
+
+Great British Pitch India forms part of the wider Great British Pitch series, which helps small businesses expand internationally through direct access to overseas buyers, trade experts and investors. Later this year, businesses will also have the chance to pitch to the US market through Great British Pitch USA in September, before the flagship Great British Pitch event takes place during International Trade Week. Supported by the Department for Business and Trade, connecting businesses with international buyers, trade experts, and investors in markets across the world.
+
+Data returned from the Piano 'meterActive/meterExpired' callback event.
+
+As a subscriber, you are shown 80% less display advertising when reading our
+                    articles.
+
+Those ads you do see are predominantly from local businesses promoting local
+                        services.
+
+These adverts enable local businesses to get in front of their target audience – the local
+                        community.
+
+It is important that we continue to promote these adverts as our local businesses need
+                    as much support as possible during these challenging times.
 
 ================================================================================

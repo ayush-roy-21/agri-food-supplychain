@@ -1,21 +1,48 @@
 Doc ID: B-GD-045
-Title: Department of Commerce holds Chintan Shivir on seafood opportunities under India - EFTA TEPA
-Source Domain: aninews.in | Publish Date: 20260707T034500Z
-URL: https://aninews.in/news/business/department-of-commerce-holds-chintan-shivir-on-seafood-opportunities-under-india-efta-tepa20260706212613/
+Title: India Records Highest - Ever Foodgrain Output
+Source Domain: indiawest.com | Publish Date: 20260410T184500Z
+URL: https://indiawest.com/india-records-highest-ever-foodgrain-output/
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export DGFT
-Retrieval Date: 2026-07-08
+Targeted Query: India export rice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-dgft-icegate-glitches
+DQA 6-Dimension Score: M,M,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: Adequate/Marginal trade relevance (2 agri + 1 trade friction terms) | Gran: Overview narrative (420 words, 1 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (420 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-basmati-mrl-rejections
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-ANI |
- Updated: Jul 06, 2026 21:26  IST
+NEW DELHI- India recorded an unprecedented foodgrain output of 357.73 million metric tons in the agricultural year 2024-25, marking an increase of 25.43 million metric tons over the preceding year, reflecting sustained gains in productivity, improved input management, and strengthened institutional support to farmers, an official factsheet said.
 
-New Delhi [India], July 6 (ANI): The Department of Commerce organised a Chintan Shivir on 'Opportunities for the Seafood Sector under the India-European Free Trade Association (EFTA) Trade and Economic Partnership Agreement (TEPA)' last week and stakeholders discussed investment opportunities, export facilitation and market access for seafood exports under TEPA. TEPA is India's first trade agreement with the four EFTA countries -- Iceland, Liechtenstein, Norway and Switzerland. Collectively, the EFTA economies have a combined GDP of about USD 1.79 trillion and are major players in merchandise and services trade. It is also India's first operational trade arrangement with a European economic bloc, complementing ongoing engagements with the EU and the UK.  The agreement aims to facilitate USD 100 billion in investments into India and support the creation of one million direct jobs. It also opens avenues for technology transfer, joint ventures and collaboration with niche firms from EFTA countries. For coastal states like Tamil Nadu, it is expected to significantly expand export opportunities for fishermen and seafood stakeholders.
+India ranks as the world’s second-largest producer of both rice and wheat, with output reaching 150.18 million tons of rice and 117.94 million tons of wheat during the agricultural year 2024-25.
 
-The agreement offers substantial tariff benefits for Indian exporters. Iceland has eliminated its 55 per cent import duty on feed, including fish feed. Switzerland has cut duty on fats and oils of fish, other than liver oil, from 18.05 per cent to zero. Norway has removed its 13.16 per cent duty on feed, including fish and mp feed, bringing it to zero. These concessions are expected to improve market access and competitiveness for Indian seafood products in EFTA markets.The session was attended by Joint Secretary, Department of Commerce,  Mohit Yadav, along with representatives from Invest India, DGFT Regional Office Chennai, Export Inspection Council (EIC) and FIEO. Leading seafood exporters and businesses targeting EFTA markets also participated, a release said. Yadav gave an overview of TEPA and highlighted trade and investment opportunities for Indian businesses. Invest India made a presentation on emerging investment opportunities across the seafood value chain. DGFT outlined export promotion and facilitation schemes to improve ease of doing business. EIC and FIEO shared inputs on regulatory requirements, quality standards and strategies to leverage TEPA benefits.A key highlight was an interactive open-house where exporters engaged directly with officials on market access, compliance with international regulations, and ways to strengthen exports to EFTA.The Chintan Shivir concluded with a commitment from government and industry to work together to maximise benefits from TEPA, leverage tariff concessions, and expand India's seafood exports in EFTA markets. (ANI)
+Rice production is primarily concentrated in states such as Uttar Pradesh, Telangana, and West Bengal. At the same time, Uttar Pradesh, Madhya Pradesh, and Punjab constitute the leading wheat-producing regions, reflecting the geographic concentration of cereal production within the country.
+
+The increase was primarily driven by higher production of rice, wheat, maize, and coarse cereals including millets, designated as Shree Anna.
+
+Meanwhile, agricultural exports have grown steadily in recent years. Agricultural export earnings increased from $34.5 billion in FY20 to $51.1 billion in FY25, reflecting a CAGR of 8.2 per cent. In FY25, agri-food exports, including processed food products, amounted to $49.43 billion, accounting for about 11.2 per cent of total exports.
+
+Notably, the share of processed food exports has also risen consistently, from 14.9 per cent in FY18 to 20.4 per cent in FY25, indicating a progressive shift toward higher value addition within the agricultural export basket, according to the official statement.
+
+The fact-sheet said that horticulture has simultaneously emerged as a major driver of agricultural transformation and value addition. Total horticulture production reached 362.08 million tons in 2024-25, indicating a structural shift towards high-value crops.
+
+According to the second advance estimates, production increased from 280.70 million tons in 2013-14 to 367.72 million tons in 2024-25.
+
+This output comprises approximately 114.51 million tons of fruits, 219.67 million tons of vegetables, and 33.54 million tons from other horticultural crops.
+
+The gradual scaling of both foodgrain and horticultural production underscores India’s strengthening domestic agricultural base and its growing prominence in global agri-food systems, according to the fact-sheet. (IANS)
+
+Despite high production and productivity
+Due to hard work of farmers and peasants
+Govt is not helping g them by writing off their
+Agricultural loans or waiving interest on borrowed
+Loans but they are happily waiving loans and interest on loans borrowed by coteries
+By merging two nationalized banks
+Accounts of merged and loan balances are
+Disappearing in the account books
+What kind of crony capitalism in the country
+
+Save my name, email, and website in this browser for the next time I comment.
 
 ================================================================================

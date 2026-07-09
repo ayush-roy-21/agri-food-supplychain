@@ -1,30 +1,23 @@
 Doc ID: B-GD-018
-Title: Pick of BL commodities - May 3 , 2026 - The HinduBusinessLine
-Source Domain: thehindubusinessline.com | Publish Date: 20260503T064500Z
-URL: https://www.thehindubusinessline.com/economy/agri-business/pick-of-bl-commodities-may-3-2026/article70933021.ece
+Title: Shyam Dhani Industries Limited Unveils 4 - Pronged Growth Strategy ; Aims to Achieve ₹300 Cr Turnover Over the Next Three Years
+Source Domain: aninews.in | Publish Date: 20260624T091500Z
+URL: https://aninews.in/news/business/shyam-dhani-industries-limited-unveils-4-pronged-growth-strategy-aims-to-achieve-8377300-cr-turnover-over-the-next-three-years20260624134341/
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export rice
-Retrieval Date: 2026-07-08
+Targeted Query: India export spice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-basmati-mrl-rejections
+DQA 6-Dimension Score: M,A,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (2 agri + 2 trade friction terms) | Gran: Overview narrative (709 words, 0 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (709 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-spices-sps-hurdles
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-1. India Meteorological Department (IMD) on Friday said that most of the global models forecast the emergence of El Niño during India’s monsoon season and may last at least until January 2026. Latest assessments indicate that beneath the surface of the equatorial eastern Pacific, cradle of El Niño, a powerful event may be taking shape, one that could surpass the intensity of the 2023 event and rival the formidable episode of 2015.
+ANI |
+ Updated: Jun 24, 2026 13:43  IST
 
-2. India’s agri export promotion body APEDA has received communication from the Environment Ministry and the Indian Council of Agricultural Research (ICAR) that genetically modified (GM) rice is not allowed for cultivation, making the country free from GMO risk while exporting the cereal. This will now help it tackle China, which rejected rice shipments for alleged GMO presence in them.
+PNNJaipur (Rajasthan) [India], June 24: Shyam Dhani Industries Limited (NSE - SHYAMDHANI), one of Rajasthan's largest and most recognized spice brands, specializing in premium-quality IPM and ETO-free spices, has announced an ambitious growth roadmap to achieve a business turnover of ₹300 Cr over the next three years. The Company, known for its 'Shyam' brand offering 163+ varieties of spices across General Trade, Modern Trade, Quick Commerce, Export, Private Label, and HoReCa segments, is targeting an annual growth rate of 25-30%, building on FY26 turnover of ₹146.22 Cr, representing a growth of 17%.Key Highlights- FY26 turnover: ₹146.22 Cr, registering 17% year-on-year growth - Target turnover: ₹300 Cr within the next three years - Expected annual growth rate: 25-30% - Brand Ambassador: Film actress Preity G. Zinta - Four-pronged growth strategy: Expansion of Kirana and multi-brand retail network, strengthening e-commerce presence, and increasing exports to China, the Middle East, and Europe - Modern spice processing plant in Jaipur equipped with cool-grinding technology, operational since March 2025- Adoption of Integrated Pest Management (IPM) practices to enhance spice quality and support traditional farming among farmers
 
-3. The Indian government procured 23.25 million tonnes (mt) of wheat for its buffer stocks as of April 30, 2026, down from 25.63 mt a year ago. This was mainly due to purchases in Madhya Pradesh being low.
-
-4. Investment demand for gold in India overtook jewellery consumption for the first time ever in the March quarter of 2026, as consumers deferred their jewellery purchases due to volatile prices.
-
-5. Investments in physically-backed gold exchange-traded funds (ETFs) turned negative last week, after rising for two consecutive weeks, data from the World Gold Council (WGC) showed.
-
-Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
-
-We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
-
-Terms & conditions  |  Institutional Subscriber
+Strategic Significance:Shyam Dhani Industries Limited growth strategy is centered on strengthening its retail and e-commerce footprint domestically, while simultaneously scaling up its export presence across key international markets. The Company's focus on rising consumer demand for healthy and high-quality spices has driven significant investment in modern manufacturing infrastructure, including a state-of-the-art spice processing plant powered by cool grinding technology that helps preserve the herbal value of each spice.The Company's adoption of Integrated Pest Management practices further reinforces its commitment to sustainable and quality-driven sourcing. By encouraging farmers to follow traditional farming methods that avoid restricted pesticides, the Company aims to consistently deliver superior quality products, positioning itself well to capture the growing health-conscious consumer base both in India and abroad.Commenting on the Company's expansion strategy, Mr. Vithal Agarwal, Whole-Time Director of Shyam Dhani Industries Limited said, "We have formulated a four-pronged strategy to accelerate our growth. This includes expanding our Kirana and multi-brand retail network across the country, strengthening our base in the e-commerce market, and increasing our exports to countries including China, the Middle East, and Europe.Today's consumers are more aware and are actively seeking healthy and quality spices. To meet this demand, we have set up a modern spice processing plant in Jaipur with cool grinding technology that helps retain the herbal value of every spice. We have also adopted Integrated Pest Management practices, encouraging our farmers to follow traditional farming methods free of restricted pesticides, which significantly enhances the quality of our spices. These initiatives are central to our ability to sustain rapid growth and deliver long-term value to all our stakeholders."About Shyam Dhani Industries LimitedShyam Dhani Industries Limited, established on October 19, 2010, in Jaipur, Rajasthan, is a fast-growing spice manufacturing company committed to delivering high-quality products across India. The Company transitioned from a private limited entity to a public limited company on October 8, 2024, marking a key milestone in its growth journey. Another significant milestone was achieved in December 2025, when the Company was listed on the National Stock Exchange of India (NSE), further strengthening its growth trajectory, enhancing its market presence, and reinforcing its commitment to creating long-term value for stakeholders.The company operates a modern manufacturing facility in Manpura road, Jatawali, Near Delhi Bypass, Tehsil Chomu, Jaipur, Rajasthan, supported by a registered office that also houses its packaging unit and research & development department in the Vishwakarma Industrial Area, Jaipur. It specializes in producing over 163 varieties of spices, sourcing raw materials directly from mandis and suppliers across the country to ensure quality and consistency.Its diverse product portfolio includes ground spices, blended spices, whole spices, and essential grocery items. With a strong presence across more than 10 Indian states, its products are widely available through leading retail chains. The company has also expanded its footprint internationally, catering to markets such as UAE, Oman, Nepal, Saudi Arabia, Mongolia. For FY26, the company has reported Total Income of ₹ 146.22 Cr, EBITDA of ₹ 16.95 Cr & PAT of ₹8.54 Cr.(ADVERTORIAL DISCLAIMER: The above press release has been provided by PNN. ANI will not be responsible in any way for the content of the same.)
 
 ================================================================================

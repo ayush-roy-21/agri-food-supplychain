@@ -1,40 +1,48 @@
 Doc ID: B-GD-030
-Title: FTAs , agri - start - ups and FPOs to drive next phase of farm export growth : APEDA chief
-Source Domain: thehindubusinessline.com | Publish Date: 20260617T101500Z
-URL: https://www.thehindubusinessline.com/economy/agri-business/ftas-agri-start-ups-and-fpos-to-drive-next-phase-of-farm-export-growth-apeda-chief/article71112115.ece
+Title: FM Sitharaman inaugurates northeast largest organic spice processing unit
+Source Domain: prokerala.com | Publish Date: 20260619T094500Z
+URL: https://www.prokerala.com/news/articles/a1777361.html
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export APEDA
-Retrieval Date: 2026-07-08
+Targeted Query: India export spice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-horticulture-sps-controls
+DQA 6-Dimension Score: M,A,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (4 agri + 3 trade friction terms) | Gran: Substantive depth (452 words, 3 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (452 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-spices-sps-hurdles
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-APEDA chief says the agreements would place Indian exporters on a level playing field with competitors in the UK and EU markets, particularly benefiting processed food products as tariff lines are liberalised.
+New Delhi, June 19 : Finance Minister Nirmala Sitharaman inaugurated the northeast's largest organic spice processing unit at Bhoirymbong in Meghalaya's Ri-Bhoi district on Friday, in the presence of Meghalaya Chief Minister Conrad Sangma and Sikkim Chief Minister P.S. Tamang Golay.
 
-The Agricultural and Processed Food Products Export Development Authority (APEDA) is banking on upcoming free trade agreements (FTAs), agri-start-ups and farmer producer organisations (FPOs) to drive the next phase of growth in India's agricultural exports, APEDA Chairman Abhishek Dev said.
+The facility has been established under the Eastern Ri-Bhoi Organic Farmer Producer Company (FPC), a farmer-owned enterprise promoted under the Government of Indiaâ€™s scheme -- Mission Organic Value Chain Development for North Eastern Region (MOVCD-NER).
 
-In an interview with ANI, Dev described the recently concluded FTAs with the UK and the European Union as potential "game changers" for India's agricultural exporters.
+The facility is the first organically certified spice processing unit in the northeast and is expected to become a landmark institution for the organic agriculture sector in the region. It can process more than 10,000 metric tonnes of high-value organic spices annually, including ginger, turmeric, black pepper and chilli, according to FM Sitharaman.
 
-He said the agreements would place Indian exporters on a level playing field with competitors in the UK and EU markets, particularly benefiting processed food products as tariff lines are liberalised.
+Eastern Ri-Bhoi Organic FPC has developed infrastructure including collection and aggregation centres, processing facilities, cold storage, vermicompost units, hiring centres and transportation facilities.
 
-According to Dev, APEDA's regional offices are actively educating exporters on rules-of-origin compliance to ensure they can avail themselves of the benefits offered under the FTAs.
+The unit is certified under the National Programme for Organic Production (NPOP) and EU Organic Standards, enabling direct access to premium domestic and international organic markets.
 
-Apart from trade agreements, APEDA is focusing on strengthening the agricultural export ecosystem through innovation and greater farmer participation.
+The processing facility is expected to directly benefit approximately 5,500 organic farmers across Meghalaya and the northeastern region by enhancing value addition and processing of organic produce, reducing post-harvest losses through modern storage and processing infrastructure and strengthening aggregation and quality control mechanisms, an official statement said.
 
-Highlighting the success of APEDA's Bharti programme for agri-start-ups, Dev said more than 100 start-ups were supported in its first edition. Eight of these start-ups will be showcased at an event at Bharat Mandapam in New Delhi.
+Besides, it will providing direct linkages with national and international buyers which will fetch better prices for farmers through reduced dependence on intermediaries. It will also create local employment opportunities in processing, packaging and logistics and promote exports of certified organic products from the North East, the statement added.
 
-He also underlined efforts to integrate FPOs into export value chains. APEDA currently has around 1,400 FPO members and aims to increase the number to nearly 3,000 this year. A dedicated FPO export promotion programme is also expected to be launched within the next two to three months.
+Meanwhile, the Indiaâ€"European Union Free Trade Agreement (FTA) is expected to significantly enhance export opportunities for Indian spices, with improved market access, regulatory cooperation, and greater trade predictability likely to benefit exporters, farmers, and MSMEs across the value chain, according to the Spices Board India.
 
-Dev said agricultural exports currently account for around 12 per cent of India's total merchandise exports and expressed confidence that the share would increase further in the coming years.
+The EU remains one of the most high-value and tightly regulated markets for Indian spices, accounting for a substantial share of premium exports.
 
-He also highlighted efforts to source exportable produce from untapped regions, including the Northeast and landlocked states.  As examples, he cited recent exports of litchi and Amrapali mangoes from Jharkhand, which he said reflected APEDA's efforts to diversify both India's export geography and product basket.
+Officials said the trade agreement, once operationalised, could help Indian exporters navigate non-tariff barriers more efficiently, align compliance standards and improve realisation through value-added products.
 
-Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
+Aamir Khan, Mammootty, 'Kantara: A Legend - Chapter 1' nominated at 17th edition of IFFM
 
-We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+Sylvester Stallone reflects on 'Rocky': Wasn't just writing about one fighter
 
-Terms & conditions  |  Institutional Subscriber
+Motorola Unveils Moto g77 Power in India - Packs 7000 mAh Battery, Sony LYTIA 600 Camera
+
+Chief Minister Yogi to launch 'Mukhyamantri Shikshak Cashless Chikitsa Suvidha Yojana' from Varanasi on Wednesday
+
+Yogi govt to plant more than 3.83 crore saplings along the banks of 13 major rivers
+
+Yogi Government adopting advanced technology to curb crime, providing training to officials
 
 ================================================================================

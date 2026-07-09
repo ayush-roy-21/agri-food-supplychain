@@ -1,0 +1,40 @@
+Doc ID: B-GD-082
+Title: Ladakhi apricots get global push with 1000 MT export deal
+Source Domain: tribuneindia.com | Publish Date: 20260416T233000Z
+URL: https://www.tribuneindia.com/news/j-k/ladakhi-apricots-get-global-push-with-1000-mt-export-deal/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export APEDA
+Retrieval Date: 2026-07-09
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,A,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (3 agri + 3 trade friction terms) | Gran: Overview narrative (420 words, 1 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (420 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-horticulture-sps-controls
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+A Ladakh administration spokesperson said that following a strong push by Lieutenant Governor Vinai Kumar Saxena for promoting branding and export of Ladakh’s GI-tagged “Raktsey Karpo” apricot variety, as well as the region-specific “Halman” variety, the MoU marks a historic first for the region.
+
+“This export volume is a quantum jump from just 1,500 kg of apricots exported over the last two years,” the spokesperson said.
+
+Saxena on Wednesday held a meeting with representatives of Lulu Retail and Agricultural and Processed Food Products Export Development Authority (APEDA) to finalise export potential.
+
+The MoU was signed through the APEDA and the Ministry of Food Processing Industries (MoFPI), Government of India. It was signed by Bhupesh Chaudhary, Secretary, Horticulture, UT Administration, and Salim MA, Group Director – Global Operations, Lulu Retail, in the presence of the Lieutenant Governor.
+
+Officials said Lulu Retail will procure at least 1,000 MT of apricots from farmers in Ladakh this season and handle processing, packaging, and international marketing while maintaining Ladakh’s identity.
+
+Currently, farmers face challenges in sorting, cleaning, packaging, and marketing apricots using traditional methods, often leading to heavy losses.
+
+“With the MoU in place, farmers will hand over their orchards at harvest time to the exporter, who will take care of plucking, sorting, processing, packaging, transportation, and marketing in international markets,” the spokesperson said.
+
+The Lieutenant Governor said this would ensure minimal losses and fair pricing for farmers.
+
+“The unique apricots of Ladakh are an agricultural heritage of the region. The MoU aims to tap the immense yet underutilised potential of apricot cultivation, ensuring better pricing for farmers while strengthening Ladakh’s national and international recognition,” Saxena said during a national workshop on “Enhancing Apricot Cultivation and Value Chain in Ladakh.”
+
+Calling the MoU “historic,” he said it would open international export channels and directly benefit farmers. He added that efforts are also underway to market Ladakhi apples abroad.
+
+The Tribune, now published from Chandigarh, started publication on February 2, 1881, in Lahore (now in Pakistan). It was started by Sardar Dyal Singh Majithia, a public-spirited philanthropist, and is run by a trust comprising five eminent persons as trustees.The Tribune, the largest selling English daily in North India, publishes news and views without any bias or prejudice of any kind. Restraint and moderation, rather than agitational language and partisanship, are the hallmarks of the newspaper. It is an independent newspaper in the real sense of the term.The Tribune has two sister publications, Punjabi Tribune (in Punjabi) and Dainik Tribune (in Hindi).
+
+Remembering Sardar Dyal Singh Majithia
+
+================================================================================
