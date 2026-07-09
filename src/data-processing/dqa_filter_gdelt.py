@@ -33,6 +33,131 @@ def compute_text_fingerprint(text):
     words = re.findall(r'\w+', text.lower())[:300]
     return " ".join(words)
 
+def check_word_boundary(keyword, text):
+    """Checks if keyword exists in text as a distinct word or multi-word phrase matching word boundaries."""
+    if not keyword or not text:
+        return False
+    pattern = r'\b' + re.escape(keyword.lower()) + r'\b'
+    return bool(re.search(pattern, text.lower()))
+
+def count_boundary_hits(keywords, text):
+    """Counts how many keywords match in text using word-boundary regex."""
+    if not text:
+        return 0
+    text_lower = text.lower()
+    return sum(1 for kw in keywords if re.search(r'\b' + re.escape(kw.lower()) + r'\b', text_lower))
+
+TRADE_FRICTION_KEYWORDS = [
+    "msme", "exporter", "export", "iec", "dgft", "icegate", "rcmc", "apeda",
+    "spices board", "mpeda", "eic", "fssai", "rodtep", "customs", "shipping bill",
+    "rejection", "delay", "alert", "fda", "rasff", "eudr", "deforestation",
+    "sps", "mrl", "pesticide", "ethylene oxide", "salmonella", "consignment",
+    "shrimp", "spice", "basmati", "mango", "tea", "coffee", "seafood", "port"
+]
+
+MACRO_OP_ED_KEYWORDS = [
+    "gdp growth", "fiscal deficit", "stock market rally", "mutual fund",
+    "election rally", "monetary policy", "repo rate", "sensex", "nifty",
+    "geopolitical tensions in middle east", "global oil prices surge"
+]
+
+AGRI_FOOD_CORE = [
+    "spice", "shrimp", "seafood", "rice", "tea", "mango", "pesticide",
+    "aflatoxin", "fssai", "apeda", "mpeda", "spices board", "mrl", "dwpe",
+    "salmonella", "residue", "eto", "ethylene oxide", "aquaculture",
+    "basmati", "chilli", "turmeric", "horticulture", "marine products",
+    "food processing", "food safety", "import alert", "border inspection"
+]
+
+PHARMA_AND_MACRO_NOISE = [
+    "pharma", "pharmaceutical", "drug", "medtech", "hospital", "ceasefire",
+    "missile", "military", "gaza", "israel", "iran", "trump", "biden", "war",
+    "sensex", "nifty", "stock market", "dabur", "usfda official action",
+    "ozempic", "fertility", "pregnancy", "h-1b", "visa", "adani", "indictment",
+    "kheer bhawani", "cow protection", "indo-pacific", "f-35", "fmcg", "upsc",
+    "mutual fund", "repo rate", "gdp growth", "fiscal deficit"
+]
+
+PAYWALL_STUB_PHRASES = [
+    "enable cookies", "subscribe to read", "subscriber only",
+    "reached your limit of free articles", "already a subscriber",
+    "please log in to read", "to read full story", "adblocker",
+    "cookies to continue", "access to this article requires",
+    "etprime", "trial offer expiring", "login using your et prime",
+    "worry not. you're just a step away",
+    "about the news desk", "toi business desk is a vigilant and dedicated team",
+    "by continuing, i accept the t&c and agree to receive communication on whatsapp",
+    "you don't have any active subscription",
+    "author is an assistant editor",
+    "read more at:"
+]
+
+def evaluate_document_dqa(item, combined_text, words):
+    """
+    Evaluates the 6 DQA dimensions (Auth, Rel, Gran, Curr, Comp, Mach) per document rubric.
+    Returns (dqa_score, dqa_justification).
+    """
+    domain = item.get("source_domain", "").lower()
+    pub_date = str(item.get("publish_date", ""))
+    
+    # 1. Authority (Auth)
+    tier1_domains = [
+        "economictimes.indiatimes.com", "business-standard.com", "thehindubusinessline.com",
+        "financialexpress.com", "timesofindia.indiatimes.com", "thehindu.com", "moneycontrol.com",
+        "livemint.com", "reuters.com", "bloomberg.com", "ndtv.com"
+    ]
+    if any(td in domain for td in tier1_domains):
+        auth_score = "A"
+        auth_just = "Tier-1 established financial/trade media domain"
+    else:
+        auth_score = "M"
+        auth_just = "Secondary/regional media or trade aggregator"
+        
+    # 2. Relevance (Rel)
+    agri_hits = count_boundary_hits(AGRI_FOOD_CORE, combined_text)
+    friction_hits = count_boundary_hits(TRADE_FRICTION_KEYWORDS, combined_text)
+    if agri_hits >= 2 and friction_hits >= 2:
+        rel_score = "A"
+        rel_just = f"High relevance ({agri_hits} agri + {friction_hits} trade friction terms)"
+    else:
+        rel_score = "M"
+        rel_just = f"Adequate/Marginal trade relevance ({agri_hits} agri + {friction_hits} trade friction terms)"
+        
+    # 3. Granularity (Gran)
+    word_count = len(words)
+    reg_terms = ["fssai", "apeda", "dgft", "iec", "fda", "rasff", "eudr", "mrl", "pesticide", "consignment", "crore", "million", "tonnes", "tariff", "duty", "shipment"]
+    reg_hits = count_boundary_hits(reg_terms, combined_text)
+    if word_count >= 250 and reg_hits >= 2:
+        gran_score = "A"
+        gran_just = f"Substantive depth ({word_count} words, {reg_hits} regulatory/quantitative parameters)"
+    else:
+        gran_score = "M"
+        gran_just = f"Overview narrative ({word_count} words, {reg_hits} regulatory specifics)"
+        
+    # 4. Currency (Curr)
+    if any(yr in pub_date for yr in ["2023", "2024", "2025", "2026"]):
+        curr_score = "A"
+        curr_just = f"Recent active trade period ({pub_date[:4] if len(pub_date)>=4 else pub_date})"
+    else:
+        curr_score = "M"
+        curr_just = f"Ambiguous/prior publication date ({pub_date})"
+        
+    # 5. Completeness (Comp)
+    if word_count >= 150:
+        comp_score = "A"
+        comp_just = f"Full operative article text ({word_count} words)"
+    else:
+        comp_score = "M"
+        comp_just = f"Concise article excerpt ({word_count} words)"
+        
+    # 6. Machine Readability (Mach)
+    mach_score = "A"
+    mach_just = "Clean UTF-8 newspaper3k full-text extraction"
+    
+    score_str = f"{auth_score},{rel_score},{gran_score},{curr_score},{comp_score},{mach_score}"
+    just_str = f"Auth: {auth_just} | Rel: {rel_just} | Gran: {gran_just} | Curr: {curr_just} | Comp: {comp_just} | Mach: {mach_just}"
+    return score_str, just_str
+
 def execute_section_10_cleaning(raw_corpus):
     """
     Executes Section 10 Cleaning & Preprocessing:
@@ -74,47 +199,6 @@ def execute_section_10_cleaning(raw_corpus):
     clean_corpus = []
     rejected_count = 0
     
-    trade_friction_keywords = [
-        "msme", "exporter", "export", "iec", "dgft", "icegate", "rcmc", "apeda",
-        "spices board", "mpeda", "eic", "fssai", "rodtep", "customs", "shipping bill",
-        "rejection", "delay", "alert", "fda", "rasff", "eudr", "deforestation",
-        "sps", "mrl", "pesticide", "ethylene oxide", "salmonella", "consignment",
-        "shrimp", "spice", "basmati", "mango", "tea", "coffee", "seafood", "port"
-    ]
-    
-    macro_op_ed_keywords = [
-        "gdp growth", "fiscal deficit", "stock market rally", "mutual fund",
-        "election rally", "monetary policy", "repo rate", "sensex", "nifty",
-        "geopolitical tensions in middle east", "global oil prices surge"
-    ]
-    
-    # Core Agri-Food & Trade Friction mandatory terms (strictly food-specific)
-    agri_food_core = [
-        "spice", "shrimp", "seafood", "rice", "tea", "mango", "pesticide",
-        "aflatoxin", "fssai", "apeda", "mpeda", "spices board", "mrl", "dwpe",
-        "salmonella", "residue", "eto", "ethylene oxide", "aquaculture",
-        "basmati", "chilli", "turmeric", "horticulture", "marine products",
-        "food processing", "food safety", "import alert", "border inspection"
-    ]
-    
-    pharma_and_macro_noise = [
-        "pharma", "pharmaceutical", "drug", "medtech", "hospital", "ceasefire",
-        "missile", "military", "gaza", "israel", "iran", "trump", "biden", "war",
-        "sensex", "nifty", "stock market", "dabur", "usfda official action",
-        "ozempic", "fertility", "pregnancy", "h-1b", "visa", "adani", "indictment",
-        "kheer bhawani", "cow protection", "indo-pacific", "f-35", "fmcg", "upsc",
-        "mutual fund", "repo rate", "gdp growth", "fiscal deficit"
-    ]
-    
-    paywall_stub_phrases = [
-        "enable cookies", "subscribe to read", "subscriber only",
-        "reached your limit of free articles", "already a subscriber",
-        "please log in to read", "to read full story", "adblocker",
-        "cookies to continue", "access to this article requires",
-        "etprime", "trial offer expiring", "login using your et prime",
-        "worry not. you're just a step away"
-    ]
-    
     project_root = Path(__file__).resolve().parent.parent.parent
     exceptions_log_path = project_root / "data" / "exceptions_log.csv"
     rejection_rows = []
@@ -148,25 +232,25 @@ def execute_section_10_cleaning(raw_corpus):
             log_rejection("Section 10 DQA Rejection: Non-English/Arabic/Asian script keyword-collision artifact")
             continue
             
-        # 2. Reject paywall/adblock/ETPrime stubs
-        if len(words) < 65 or any(stub in combined for stub in paywall_stub_phrases) or "thehindu.com" in domain or "freshplaza.com" in domain:
+        # 2. Reject paywall/adblock/ETPrime stubs & generic news desk boilerplate
+        if len(words) < 65 or any(stub in combined for stub in PAYWALL_STUB_PHRASES) or "thehindu.com" in domain or "freshplaza.com" in domain:
             log_rejection("Section 10 DQA Rejection: Unusable raw_text paywall/adblock/ETPrime stub or insufficient length")
             continue
             
-        # 3. Unconditional Rejection for Pharma / Geopolitical / Market / Visa noise
-        if any(pn in combined for pn in pharma_and_macro_noise):
+        # 3. Unconditional Rejection for Pharma / Geopolitical / Market / Visa noise (using word boundaries where appropriate)
+        if any(check_word_boundary(pn, combined) for pn in PHARMA_AND_MACRO_NOISE):
             log_rejection("Section 10 DQA Rejection: Pharma/Geopolitical/Macro noise unrelated to Indian agri-food exports")
             continue
             
-        # 4. For "rejection" and "FDA" queries specifically, enforce strict agri-food core relevance
-        agri_hits = sum(1 for ak in agri_food_core if ak in combined)
+        # 4. For "rejection" and "FDA" queries specifically, enforce strict agri-food core relevance using word-boundary matching
+        agri_hits = count_boundary_hits(AGRI_FOOD_CORE, combined)
         if ("rejection" in query.lower() or "fda" in query.lower() or "customs" in query.lower() or "eudr" in query.lower()) and agri_hits < 1:
             log_rejection(f"Section 10 DQA Rejection: Query '{query}' yielded non-agri-food content (agri_hits={agri_hits})")
             continue
             
-        # 5. General trade friction & depth scoring
-        has_macro = any(mk in combined for mk in macro_op_ed_keywords)
-        friction_hits = sum(1 for fk in trade_friction_keywords if fk in combined)
+        # 5. General trade friction & depth scoring using exact word-boundary regex matching
+        has_macro = any(check_word_boundary(mk, combined) for mk in MACRO_OP_ED_KEYWORDS)
+        friction_hits = count_boundary_hits(TRADE_FRICTION_KEYWORDS, combined)
         
         if has_macro and friction_hits < 3:
             log_rejection("Section 10 DQA Rejection: Broad macroeconomic op-ed lacking specific MSME trade/regulatory friction")
@@ -282,11 +366,16 @@ def run_gdelt_dqa_filter():
         text = item.get("raw_text", "")
         
         combined_text = (title + " " + text).lower()
+        words = text.split()
         locus = "gdelt-msme-trade-friction"
         for kw, tag in locus_tag_map.items():
-            if kw in combined_text:
+            if check_word_boundary(kw, combined_text):
                 locus = tag
                 break
+                
+        dqa_score, dqa_justification = evaluate_document_dqa(
+            item, combined_text, words
+        )
                 
         # Save TXT Dossier
         for out_dir in output_dirs:
@@ -306,6 +395,8 @@ def run_gdelt_dqa_filter():
                     f.write(f"Targeted Query: {q_used}\n")
                     f.write(f"Retrieval Date: {now_str}\n")
                     f.write(f"Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)\n")
+                    f.write(f"DQA 6-Dimension Score: {dqa_score}\n")
+                    f.write(f"DQA Justification: {dqa_justification}\n")
                     f.write(f"Locus Tag: {locus}\n\n")
                     f.write("="*80 + "\n\n")
                     f.write(f"FULL SUBSTANTIVE ARTICLE TEXT:\n{text}\n\n")
@@ -320,8 +411,8 @@ def run_gdelt_dqa_filter():
             url,                                                                    # 4: url
             f"{now_str} / json,csv,txt / English",                                  # 5: retrieval_date_and_format
             f"Corpus B media & trade news report: '{title}' (Section 10 DQA passed; newspaper3k full-text extracted; deduplicated)", # 6: title_or_description
-            "A,A,A,A,A,A",                                                          # 7: dqa_score
-            "A,A,A,A,A,A",                                                          # 8: dqa_justification
+            dqa_score,                                                              # 7: dqa_score
+            dqa_justification,                                                      # 8: dqa_justification
             "yes",                                                                  # 9: full_text_available
             locus,                                                                  # 10: commodity_scope / locus_tag
             "media-signaling-and-border-rejections (external trade friction)",       # 11: target_market / verification_logic
