@@ -1,0 +1,62 @@
+Doc ID: B-GD-068
+Title: Nepali tea exports disrupted twice in two weeks due to India quality testing
+Source Domain: kathmandupost.com | Publish Date: 20260604T144500Z
+URL: https://kathmandupost.com/money/2026/06/04/nepali-tea-exports-disrupted-twice-in-two-weeks-due-to-india-quality-testing
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export tea
+Retrieval Date: 2026-07-09
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,A,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (3 agri + 6 trade friction terms) | Gran: Substantive depth (789 words, 4 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (789 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-dgft-icegate-glitches
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Just two weeks after India relaxed testing requirements for Nepali tea exports, fresh hurdles have emerged as Indian authorities have again begun mandatory sampling and laboratory testing of tea purchased from Nepal, prompting Indian buyers to suspend purchases and disrupting exports once more.
+
+According to Nepali tea exporters, Indian traders have become reluctant to buy tea from Nepal after the Tea Board of India started collecting samples from buyers' warehouses and requiring laboratory clearance before the tea can be sold in the Indian market.
+
+"It has been four to five days since Indian traders stopped buying tea from Nepali suppliers," said Shiva Kumar Gupta, senior vice-president of the Nepal Tea Planters Association. "The Tea Board has started collecting samples from buyers' warehouses and has allowed sales only after laboratory approval."
+
+The renewed testing requirement has created uncertainty among Indian importers, who fear they could be forced to discard consignments if test results fail to meet standards.
+
+Gupta said the impact has so far been limited mainly to orthodox tea exports, as production of crush, tear and curl (CTC) tea has already fallen sharply this season.
+
+"CTC tea production has declined by around 50 percent because of lower availability of green leaves in tea gardens," he said. "Orthodox tea production has not been affected, and most of the tea being exported to India is orthodox."
+
+Nepal's tea sector has already been under pressure. Tea production declined by 25 to 30 percent in the last fiscal year due to looper pest infestation, while rising production costs have encouraged many farmers to switch to alternative crops.
+
+The Tea Board of India had initially introduced a mandatory testing regime for all imported tea consignments, including those from Nepal, effective May 1, citing the need to strengthen quality control and curb adulteration.
+
+Under the Standard Operating Procedure (SOP), every imported tea consignment was required to undergo sampling and laboratory testing. Indian importers were also required to submit detailed shipment information through the Tea Council portal and pay a testing fee of INR 11,120 plus applicable GST for each sample. Instant tea and ready-to-drink tea were exempted from the requirement.
+
+The move had severely disrupted Nepal's tea exports, prompting diplomatic engagement between Kathmandu and New Delhi.
+
+On May 20, India revised the SOP following consultations between officials of the two countries. Acting on instructions from India's Ministry of Commerce and Industry, the Tea Board of India exempted imported tea intended for domestic consumption from mandatory laboratory testing, while retaining the requirement for tea imported for re-export.
+
+Indian customs authorities and the Food Safety and Standards Authority of India (FSSAI) were, however, allowed to continue random sampling under their risk management systems.
+
+The relaxation had brought relief to Nepali producers and exporters, many of whom depend heavily on the Indian market.
+
+Officials say the latest development appears to have effectively reinstated testing requirements, although no formal notification has yet been received in Nepal.
+
+An official at the Nepal Tea and Coffee Development Board said the board had also learned that Indian authorities were conducting mandatory laboratory tests on tea imported from Nepal but had not received any official communication regarding the measure.
+
+The renewed obstruction comes barely two weeks after the easing of restrictions and has reignited concerns among tea producers over market access.
+
+Nepal exports nearly 90 percent of its orthodox tea to India, making the country highly dependent on its southern neighbour. Only a small share reaches third-country markets.
+
+Nepal produces around 7,838 tonnes of orthodox tea annually. Exports to third countries account for only 11.4 percent of total orthodox tea exports. Organic certified orthodox tea has performed relatively better, with 21.63 percent of production reaching overseas markets.
+
+Tea exports have already been on a downward trend this fiscal year. According to the Trade and Export Promotion Centre, Nepal exported 11,393 tonnes of tea worth Rs3.35 billion during the first 10 months of the current fiscal year until mid-May, down from 14,030 tonnes worth Rs3.97 billion during the same period last year.
+
+In the last fiscal year, Nepal exported 15,598 tonnes of tea valued at Rs4.59 billion.
+
+The recurring testing issue has become a major concern for Nepali exporters despite recent progress in bilateral recognition of food testing certificates.
+
+In April last year, India's food safety authority recognised certificates issued by Nepal's National Food and Feed Reference Laboratory for eight products, including juice, jam, pickles and instant noodles. Nepal has been seeking similar recognition for tea and other export products, but the sector continues to face periodic quality-related restrictions and testing requirements from India.
+
+Krishana Prasain is a business reporter for The Kathmandu Post covering markets. Before joining The Kathmandu Post in 2018, she spent 3 years in New Business Age magazine covering business.
+
+================================================================================

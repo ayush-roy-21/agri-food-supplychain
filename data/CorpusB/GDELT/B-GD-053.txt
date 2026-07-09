@@ -1,46 +1,26 @@
 Doc ID: B-GD-053
-Title: Govt prohibits sugar exports till September for domestic availability
-Source Domain: prokerala.com | Publish Date: 20260514T050000Z
-URL: https://www.prokerala.com/news/articles/a1762601.html
+Title:   India Pavillion  shines at Summer Fancy Food Show 2026
+Source Domain: newsindiatimes.com | Publish Date: 20260629T034500Z
+URL: https://newsindiatimes.com/india-pavillion-shines-at-summer-fancy-food-show-2026/
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export DGFT
-Retrieval Date: 2026-07-08
+Targeted Query: India export rice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,A,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (3 agri + 3 trade friction terms) | Gran: Overview narrative (172 words, 1 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (172 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
 Locus Tag: gdelt-basmati-mrl-rejections
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-New Delhi, May 14 : India -- the world's second-largest sugar producer -- has prohibited exports till September 30, 2026 or until further orders in a move aimed at ensuring domestic availability and containing local prices amid concerns over lower production.
+India’s Consul General in New York Binaya Srikanta Pradhan inaugurated the India Pavilion at the Summer Fancy Food Show held at the Jacob K. Javits Convention Center in New York City. The event was scheduled for 3 days, June 28-30, 2026.
 
-New Delhi, May 14 (IANS) India -- the worldâ€™s second-largest sugar producer -- has prohibited exports till September 30, 2026 or until further orders in a move aimed at ensuring domestic availability and containing local prices amid concerns over lower production.
+The event was jointly organized by APEDA (Agricultural and Processed Food Products Export Development Authority) which is part of India’s Department of Commerce, the India Trade Promotion Organization, ITPO, and the All India Rice Exporters Association AIREA.
 
-The Directorate General of Foreign Trade (DGFT) -- under the Ministry of Commerce and Industry -- has issued a notification amending the export policy for sugar.
+Also present at the inauguration was Dr. Abhishek Dev, Chairman APEDA, Dr. Neeraj Kharwal, MD ITPO, renowned Chef Vikas Khanna and more than 70 Indian exhibitors.
 
-According to the notification, the export status of raw sugar, white sugar and refined sugar has been changed from â€˜Restrictedâ€™ to â€˜Prohibitedâ€™.
+Consul General Pradhan met and shared insights with each exhibitor to strengthen their business in the US market, an X.com post from the Indian Consulate said.
 
-The government said the ban would remain in force till September 30, 2026 or until further orders, whichever is earlier.
-
-However, exports to the European Union and the United States under CXL and Tariff Rate Quota (TRQ) arrangements will continue as per prescribed procedures under relevant public notices, the government said.
-
-The government further clarified that sugar exports under the Advance Authorisation Scheme (AAS) would continue to be governed by the provisions of the Foreign Trade Policy (FTP), 2023, and the Handbook of Procedures, 2023.
-
-India, among the worldâ€™s biggest sugar exporters after Brazil, had earlier allowed mills to export around 1.59 million metric tonnes of sugar on expectations that production would exceed domestic demand.
-
-The export curbs are expected to support global raw and white sugar prices, while potentially opening export opportunities for rival producers such as Brazil and Thailand in Asian and African markets.
-
-Separately, a recently released report highlighted that sugarcane output rose around 10 per cent year-on-year, supporting the sugar and ethanol ecosystem, although gains remained uneven and were largely limited to mills with integrated ethanol capacity.
-
-No infighting in state unit, differences will be sorted out: Punjab's Cong in-charge(IANS Exclusive)
-
-Yogi Government adopting advanced technology to curb crime, providing training to officials
-
-Pawan Kalyan expresses shock over death of young fan whose last wish he recently fulfilled
-
-Ex-Nepalese Dy PM, former Home Minister convicted in fake Bhutanese refugee scam
-
-Chief Minister Yogi to launch 'Mukhyamantri Shikshak Cashless Chikitsa Suvidha Yojana' from Varanasi on Wednesday
-
-BJP to convert historic north Kolkata office into Syama Prasad Mookerjee museum
+He also engaged with the exporters of various agriculture and food items like Basmati rice and ready to eat food products and applauded their efforts to bring Indian taste in New York, a cuisine that is in high demand in the US.
 
 ================================================================================

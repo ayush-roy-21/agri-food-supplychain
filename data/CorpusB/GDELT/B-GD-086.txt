@@ -1,0 +1,52 @@
+Doc ID: B-GD-086
+Title: Indonesia introduces new quota system for peanut imports - The HinduBusinessLine
+Source Domain: thehindubusinessline.com | Publish Date: 20260428T043000Z
+URL: https://www.thehindubusinessline.com/economy/agri-business/indonesia-introduces-new-quota-system-for-peanut-imports/article70913710.ece
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export APEDA
+Retrieval Date: 2026-07-09
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: A,A,A,A,A,A
+DQA Justification: Auth: Tier-1 established financial/trade media domain | Rel: High relevance (2 agri + 3 trade friction terms) | Gran: Substantive depth (612 words, 3 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (612 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Indonesia has come up with a quota system for peanut (groundnut) imports that could impact Indian exports as it has tightened quality norms.
+
+Jakarta came up with a Ministerial Regulation during the weekend, which permits loading of non-quota peanuts until May 7.
+
+“Usually, the trade gets 90 days to prepare for such changes. But this Regulation has given only 14 days for the preparation,” said a trading source from Singapore, who did not wish to be identified.
+
+The new regulation has been introduced to help improve the domestic production of agricultural produce such as peanuts. However, the most difficult part of this regulation is that exporters to Indonesia have to get a global Good Agricultural Practices (GAP) certification.
+
+“Getting such a certification takes 3 to 6 months. It is not easy to obtain,” said the source.
+
+This will mean that no peanut exports will be possible over the next 3-6 months. “This will lead to a sharp increase in prices, maybe 60-80 per cent and even double. No country will be able to meet this requirement,” said the source.
+
+Though this quota applies to all countries, India, as the largest exporter to Indonesia, could be badly affected, said a South India-based trader.
+
+The Singapore source said this nullifies the efforts of the Agricultural and Processed Food Products Export Development Authority (APEDA) to export peanuts to Indonesia.
+
+“This is because the new regulation applies to all. The new quota regime will apply to peanut kernels as well as peanut in shell,” said the source, adding that it does not apply to roasted peanuts. However, imports of roasted peanuts into Indonesia will not need a specific factory licence.
+
+This would be another stiff hurdle that will force peanut imports into Jakarta to face headwinds.
+
+Indonesia suspended groundnut imports from September 2 last year for non-compliance with quality standards, particularly due to high aflatoxin levels. Exporters, however, disputed Jakarta’s delayed process in notifying the presence of aflatoxins in their groundnut shipments. Exporters said there were a couple of issues with Indonesia’s handling of the groundnut import issue from India. Indian exporters alleged that they find problems with Indonesia’s testing standards, which they say do not conform to standards defined by the World Trade Organisation (WTO).
+
+But Indian exports resumed in November after Indonesian authorities carried out inspections in facilities across the country. After the visit, Indonesia came up with norms such as geo-tagging. It also tightened norms for aflatoxin. The maximum limit for aflatoxin was fixed at 15 parts per billion (ppb), which exporters said would be tough to meet.
+
+The procedures were stiff, and Jakarta reduced the list of exporters to about 75. This led to some shippers losing interest in exporting peanuts to Indonesia.
+
+Indonesia imported a third of India’s groundnut shipments over the past few years. In 2024-25, it imported 2.77 lakh tonnes of peanuts valued at $280 million, of the total 7.46 lakh tonnes valued at $795 million shipped out by India.
+
+During the April-February period of 2025-26, Jakarta purchased 1.54 lakh tonnes of peanuts valued at $161.52 million. India’s peanut exports during the period were 6.34 lakh tonnes, valued at $655.54 million.
+
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
+
+We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+
+Terms & conditions  |  Institutional Subscriber
+
+================================================================================

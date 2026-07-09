@@ -1,103 +1,48 @@
 Doc ID: B-GD-058
-Title: Mandatory QCO Exemption Extended to SEZ Units and Developers
-Source Domain: india-briefing.com | Publish Date: 20260609T133000Z
-URL: https://www.india-briefing.com/news/india-qco-exemption-sez-imports-ftp-2023-amendment-45518.html
+Title: 1st shipment of flavoured iced tea sent from Bhopal to Switzerland : Piyush Goyal
+Source Domain: prokerala.com | Publish Date: 20260523T061500Z
+URL: https://www.prokerala.com/news/articles/a1766305.html
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export DGFT
-Retrieval Date: 2026-07-08
+Targeted Query: India export tea
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,A,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (2 agri + 2 trade friction terms) | Gran: Substantive depth (415 words, 2 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (415 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
 Locus Tag: gdelt-msme-trade-friction
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-India has expanded QCO exemptions for SEZ imports. The latest FTP framework allows units and developers in SEZs to import a wider range of goods without mandatory BIS compliance at the import stage.
+New Delhi, May 23 : Commerce and Industry Minister Piyush Goyal said on Saturday that the first export shipment of flavoured iced tea premix has been sent from Bhopal to Switzerland.
 
-The Directorate General of Foreign Trade (DGFT) has amended the Foreign Trade Policy (FTP) 2023 to clarify the applicability of mandatory Quality Control Orders (QCOs) issued under the Bureau of Indian Standards (BIS) Act, 2016, to imports made by units and developers operating in Special Economic Zones (SEZs).
+The minister stated that "it is clear proof that India's MSMEs are now establishing a strong identity on global standards of quality and taste".
 
-Through Notification No. 20/2026-27 dated June 3, 2026, the central government revised Paragraph 2.03A(iii) of the FTP 2023. This latest amendment broadens the exemption from mandatory QCO compliance for imports undertaken by SEZ units and developers. It also brings the FTP framework into closer alignment with the provisions of the SEZ Act, 2005, and the SEZ Rules, 2006.
+"This new achievement for Madhya Pradesh's food processing sector, with the support of @APEDADOC, will give a new direction to innovation, value addition, and export-based growth," the minister posted on X.
 
-QCOs are mandatory product quality regulations issued by various ministries and departments under the BIS Act, 2016. Products covered by QCOs must conform to prescribed Indian standards. In addition, applicants must obtain BIS certification before they can be manufactured, imported, sold, or distributed in India.
+Earlier, the minister informed that India's tea exports have witnessed a remarkable growth of 93 per cent over the past decade, rising from Rs 4,509 crore in FY2013-14 to Rs 8,719 crore in FY2025-26.
 
-To facilitate exports and support export-oriented business models, the FTP provides exemptions from mandatory QCO compliance for imports made under specified export promotion schemes.
+Highlighting the growing global appeal of Indian tea on the occasion of International Tea Day, Goyal described tea as an emotion and said it remains deeply woven into the country's daily life, culture and traditions.
 
-Paragraph 2.03A of the FTP contains provisions covering:
+"Tea is an emotion. And on #InternationalTeaDay, there cannot be a better way to describe it! Across India, tea is more than just a beverage, it is a part of everyday life, conversations and traditions," Goyal said in a post on social media platform X.
 
-These exemptions recognize that certain imported goods are intended for export production or approved activities within designated economic zones and are therefore subject to a different regulatory treatment than products entering the domestic market.
+"From the hills of Darjeeling to the valleys of Assam and the plantations of the Nilgiris, every region brings its own distinct flavour, aroma & character to a cup of tea!," he added.
 
-Before the June 2026 amendment, SEZ units in India could import inputs required for export production without complying with mandatory QCO requirements. However, the provision applied within a relatively narrow framework and imposed several restrictions on the use of imported goods.
+The minister said Indian tea has steadily strengthened its presence in international markets over the years, supported by improving quality standards and sustained efforts to promote the country's rich tea heritage globally.
 
-The exemption primarily covered inputs used to manufacture export products. SEZ units had to physically export the finished products manufactured from such inputs, and they could not clear either the imported inputs or the resulting products into India’s Domestic Tariff Area (DTA). At the time of import, SEZ units also had to submit an undertaking to the concerned Development Commissioner confirming compliance with these conditions.
+"Over the years, Indian tea has also strengthened its presence across global markets, driven by improving quality standards and the continued efforts of Tea Board Of India to showcase the richness of India's tea heritage to the world," the Union Minister stated.
 
-Although the provision supported export activities, it did not explicitly cover several categories of goods that businesses routinely use in SEZ operations, including capital equipment, machinery, spare parts, and operational consumables. As a result, businesses often faced uncertainty regarding the extent of the available exemption.
+-- The story has been published from a wire feed without any modifications to the text
 
-CLICK HERE: A Guide to India’s Special Economic Zones
+VP Radhakrishnan to launch LoA for sustainable harnessing of fisheries in high seas
 
-The revised Paragraph 2.03A(iii) expands the QCO exemption available to SEZ units and developers.
+Ram Mandir built with the support of Ram devotees is not being tolerated by SP and Congress: CM Yogi
 
-Under the amended framework, SEZ units and SEZ developers can import all permissible goods required for authorized operations without complying with mandatory QCO requirements at the time of import. The revised provision extends the exemption to a broader range of goods.
+Yogi Government adopting advanced technology to curb crime, providing training to officials
 
-Inputs required for export production
+Yogi govt to plant more than 3.83 crore saplings along the banks of 13 major rivers
 
-All permissible goods required for authorized operations
+Riddhima Kapoor Sahni wishes 'her heart' Neetu Kapoor on her 68th birthday with glimpses of lifetime memories
 
-Components, consumables, spare parts and capital goods
-
-Clearance prohibited under FTP wording
-
-Movements subject to QCO, BIS, and other applicable laws
-
-Aligned with SEZ Act and SEZ Rules
-
-Another important change is the explicit inclusion of SEZ developers as eligible beneficiaries. While the earlier provision referred only to SEZ units, the revised framework extends the exemption to both SEZ units and SEZ developers importing goods required for authorized operations within the zone.
-
-While the amendment expands the scope of eligible imports, it continues to maintain important compliance safeguards.
-
-SEZ units and developers must use imported goods exclusively for authorized operations within the SEZ in accordance with the SEZ Act and the SEZ Rules. At the time of importation, the importer must submit an undertaking to the concerned Development Commissioner confirming that it will use the imported goods in compliance with applicable legal requirements.
-
-The amendment also clearly defines the treatment of goods that move into the domestic market. If an SEZ unit transfers, removes, or clears imported goods, or products manufactured or processed from those goods, into the DTA, the business must comply with all applicable QCOs, BIS certification requirements, and any other laws or regulations in force at the time of clearance.
-
-Paragraph 2.03A of the FTP also grants QCO exemptions for imports made under the Advance Authorization and EOU schemes. However, these exemptions operate under a more restrictive framework than the revised SEZ provisions.
-
-Under the AA scheme, businesses can import inputs without complying with QCO requirements only when they use those inputs to manufacture products for export under the same authorization. The authorization holder must satisfy the pre-import condition and obtain a specific endorsement for the exemption on the authorization. If imported materials remain unutilized, the business generally cannot transfer them into the domestic market. Instead, it must re-export, destroy, or otherwise regularize those materials in accordance with FTP requirements.
-
-Similarly, EOUs can import inputs required for export production without complying with QCO requirements. However, they must use those imports for export-oriented manufacturing, and they generally cannot clear either the imported inputs or products manufactured from those inputs into the domestic market without meeting applicable regulatory requirements.
-
-The amendment is likely to reduce compliance burdens by removing uncertainty surrounding the import of operational goods and capital equipment. This is expected to benefit SEZ-based manufacturers, service providers, logistics operators, infrastructure developers, and technology companies.
-
-SEZ businesses can now import a wider range of goods without obtaining BIS certification at the import stage, provided they use those goods for authorized operations within the zone. This flexibility can improve the following:
-
-At the same time, businesses should establish robust internal controls to monitor the movement, utilization, and eventual disposition of imported goods. Any transfer of imported goods, or products derived from those goods, into the DTA may trigger QCO compliance obligations, BIS certification requirements, and related regulatory obligations at the time of clearance.’
-
-TO KNOW MORE, CLICK HERE: Import-Export Procedures in India: 2026 Edition
-
-The amendment to Paragraph 2.03A(iii) of the FTP 2023 represents an important clarification of India’s regulatory framework governing SEZ imports. Extending QCO exemptions to all permissible goods required for authorized SEZ operations can enhance operational flexibility for SEZ units and developers while maintaining appropriate regulatory safeguards.
-
-Nevertheless, the exemption remains conditional on the use of imported goods within the SEZ. Businesses should therefore maintain strong compliance processes and carefully manage the movement of imported goods, particularly when they intend to transfer such goods into the DTA, where full QCO, BIS, and other regulatory requirements will continue to apply.
-
-India Briefing is one of five regional publications under the Asia Briefing brand. It is supported by Dezan Shira & Associates, a pan-Asia, multi-disciplinary professional services firm that assists foreign investors throughout Asia, including through offices in Delhi, Mumbai, and Bengaluru in India. Dezan Shira & Associates also maintains offices or has alliance partners assisting foreign investors in China, Hong Kong SAR, Vietnam, Indonesia, Singapore, Malaysia, Mongolia, Dubai (UAE), Japan, South Korea, Nepal, The Philippines, Sri Lanka, Thailand, Italy, Germany, Bangladesh, Australia, United States, and United Kingdom and Ireland.
-
-For a complimentary subscription to India Briefing’s content products, please click here. For support with establishing a business in India or for assistance in analyzing and entering markets, please contact the firm at india@dezshira.com or visit our website at www.dezshira.com.
-
-Meet the firm behind our content. Visit their website to see how their services can help your business succeed.
-
-Our free webinars are packed full of useful information for doing business in India.
-
-Subscribing grants you this, plus free access to our articles and magazines.
-
-Reach out to our local experts.
-
-Subscribe to receive weekly India Briefing news updates, 
-              our latest doing business publications, and access to our Asia archives.
-
-Get expert support for Asia market entry
-
-Download our India Doing Business guide
-
-Subscribe now to receive our weekly India Edition newsletter. Its free with no strings attached.
-
-Not convinced? Click here to see our last week's issue.
-
-Type keyword to begin searching...
+Aamir Khan, Mammootty, 'Kantara: A Legend - Chapter 1' nominated at 17th edition of IFFM
 
 ================================================================================

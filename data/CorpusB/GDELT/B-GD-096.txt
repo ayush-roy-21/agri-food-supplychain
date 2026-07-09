@@ -1,0 +1,44 @@
+Doc ID: B-GD-096
+Title: India - US ties strengthens tech , economy sectors
+Source Domain: ibcworldnews.com | Publish Date: 20260521T143000Z
+URL: https://ibcworldnews.com/2026/05/21/india-us-ties-strengthens-tech-economy-sectors/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export FSSAI
+Retrieval Date: 2026-07-09
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,M,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: Adequate/Marginal trade relevance (1 agri + 3 trade friction terms) | Gran: Overview narrative (407 words, 1 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (407 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+India and the United States are emerging as natural partners across multiple strategic sectors, including technology innovation, defence manufacturing, digital infrastructure, quantum computing, and medical devices, according to Commerce and Industry Minister Piyush Goyal.
+
+Speaking at the annual leadership summit of the American Chamber of Commerce in New Delhi, Goyal said the relationship between the two countries is built on mutual trust, shared economic interests, and strong complementarity rather than competition.
+
+He emphasized that both economies reinforce each other’s strengths, making the partnership uniquely powerful in the global economic landscape.
+
+The Minister noted that American companies have committed investments worth over $60 billion in India over the past six months. Major technology firms such as Amazon and Google are among those expanding data centre infrastructure in the country, reflecting India’s growing importance in global digital ecosystems.
+
+Goyal highlighted that India offers global companies a combination of scale, skilled talent, and market opportunity driven by a population of 1.4 billion people, rising incomes, and an expanding middle class. He said India has consistently maintained respect for intellectual property rights and provides a trusted framework for global businesses seeking reliable partners.
+
+He further stated that the two countries are not direct competitors in most sectors, but instead complement each other, allowing for stronger collaboration in building resilient and trusted global supply chains.
+
+The government is also focusing on strengthening the role of micro, small and medium enterprises (MSMEs) in international trade. Initiatives involving the MSME Ministry and the Department for Promotion of Industry and Internal Trade aim to improve technology adoption and skill development.
+
+An upcoming Export Promotion Mission will help MSMEs obtain globally recognised certifications to integrate into global supply chains. Institutions such as the Export Inspection Council, Bureau of Indian Standards, and FSSAI are working to build stronger testing and quality infrastructure across India.
+
+Goyal also noted India’s economic resilience, with growth forecasts revised upward despite global geopolitical tensions, reinforcing confidence in India’s long-term growth outlook.
+
+India-US deepen tech economic partnershipInvestments surge in data infrastructureMSMEs boost global supply chain accessTrust and complementarity drive cooperation growthIndia strengthens long term economic outlook
+
+Save my name, email, and website in this browser for the next time I comment.
+
+Founded in 2014, IBC delivers unbiased, timely news across Karnataka through print, web portals, and magazines, combining professionalism and speed to meet the needs of modern, digitally connected audiences.
+
+Contact us: info@ibcworldnews.com
+
+© 2025 IBC World News Pvt. Ltd. All rights reserved.
+
+================================================================================

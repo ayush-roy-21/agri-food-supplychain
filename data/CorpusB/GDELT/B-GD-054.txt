@@ -1,80 +1,48 @@
 Doc ID: B-GD-054
-Title: Walmart India Sourcing Hits $40 Billion , Driving Global Export Growth
-Source Domain: rediff.com | Publish Date: 20260508T103000Z
-URL: https://www.rediff.com/business/report/walmarts-india-sourcing-hits-40-billion-driving-global-export-growth/20260508.htm
+Title: Odisha : BJD MP Sasmit Patra urges Centre to set up mega food park in undivided Koraput
+Source Domain: prokerala.com | Publish Date: 20260529T173000Z
+URL: https://www.prokerala.com/news/articles/a1769050.html
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export DGFT
-Retrieval Date: 2026-07-08
+Targeted Query: India export rice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-msme-trade-friction
+DQA 6-Dimension Score: M,A,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (2 agri + 2 trade friction terms) | Gran: Overview narrative (507 words, 1 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (507 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-basmati-mrl-rejections
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Walmart has significantly boosted its sourcing from India, exceeding $40 billion, as the retail giant actively works to enhance supplier capabilities, elevate compliance standards, and empower Indian manufacturers to scale their exports globally.
+Bhubaneswar, May 29 : Senior Biju Janata Dal (BJD) leader and Rajya Sabha MP Sasmit Patra on Friday wrote to the Union Minister for Food Processing Industries Chirag Paswan, urging the establishment of a national mega food park in the undivided Koraput region, comprising Koraput, Rayagada, Nabarangpur and Malkangiri districts of Odisha.
 
-Retail giant Walmart said India has become one of its fastest-growing sourcing hubs globally, with the retailer having procured more than $40 billion worth of goods from the country as it works to expand supplier capabilities, improve compliance standards and help Indian manufacturers scale exports worldwide.
+In his letter, Patra drew the attention of the Union Minister towards the immense untapped food-processing, tribal livelihood, and agro-industrial potential of the undivided Koraput region of the state.
 
-"India represents one of the most dynamic opportunities in global commerce today," said John Furner, president and CEO, Walmart Inc, during his visit to India.
+He added that this region represents one of India's most extraordinary yet underleveraged agricultural and civilisational landscapes -- home to nationally recognised millet ecosystems, tribal agriculture traditions, GI-tagged products, organic farming potential, indigenous food systems, and globally emerging products such as Koraput Coffee and Koraput Kalajeera Rice.
 
-"We’ve already sourced more than $40 billion in goods from India and are focused on strengthening entrepreneur and supplier capabilities, raising compliance and quality standards, and helping scale manufacturing so more Indian businesses are ready to export.
+"Yet despite these extraordinary strengths, the region still lacks a large integrated food-processing and value-addition ecosystem capable of transforming agricultural excellence into sustainable prosperity, rural industrialisation, export-linked growth, and tribal economic empowerment," Patra said.
 
-"This work is expanding economic opportunity and connecting innovative businesses in India with customers around the world."
+Highlighting the vision of former Chief Minister Naveen Patnaik, the BJD MP also added that tribal agriculture, millet cultivation, indigenous food systems, women-led rural enterprises, and farmer-centric value addition must become instruments of long-term economic transformation and social empowerment in Odisha's aspirational regions.
 
-Furner, who became Walmart’s CEO on February 1, succeeding Doug McMillon, visited the offices of Flipkart and PhonePe in Bengaluru this week during his three-day India trip.
+The region today possesses the credibility, institutional ecosystem, farmer participation, and agricultural identity necessary to evolve into a nationally significant millet and tribal agro-processing hub.
 
-He also met Prime Minister Narendra Modi on Thursday.
+Patra also highlighted the growing global recognition of Koraput Coffee, and the GI status accorded to Koraput Kalajeera Rice, saying that these developments have opened up significant economic opportunities for farmers in the region.
 
-His visit comes as Walmart-backed Flipkart and PhonePe prepare for public listings in India.
+The Rajya Sabha MP also added that without integrated food-processing infrastructure, cold-chain systems, value-addition facilities, branding support, export-oriented packaging ecosystems, testing and certification infrastructure, and farmer-linked processing industries, the region risks remaining confined to primary production while the real economic value continues to migrate elsewhere.
 
-"It was his first visit to India, where he met with the business teams and appreciated the speed, execution and focus with which they are democratising commerce in the country," said a person familiar with the matter.
+He urged the Union Ministry to consider establishing a National Millet, Tribal Agro-Processing and GI Products Mega Food Park for the undivided Koraput region under the PM Kisan Sampada Yojana framework, along with a dedicated Koraput Coffee Processing, Branding and Export Centre within the proposed mega food park ecosystem.
 
-"He was particularly excited about how the team is building and scaling the business."
+Patra also sought the establishment of a Kalajeera Rice value-addition, packaging and export facility, integrated food-testing, certification, packaging, branding and export infrastructure for tribal and GI-tagged products, integration of women self-help groups, Farmer Producer Organisations and tribal producer collectives into the proposed processing ecosystem, and expansion of cold-chain, warehousing and agro-logistics infrastructure across the undivided Koraput region.
 
-In a town hall at Flipkart, Furner said the US retailer remains bullish on India’s fast-growing quick-commerce market, as the model gains traction globally and Walmart’s own businesses in China and the US accelerate investments in rapid delivery.
+VP Radhakrishnan to launch LoA for sustainable harnessing of fisheries in high seas
 
-Walmart hosted the second edition of the Walmart Growth Summit – India 2026 at Bharat Mandapam, New Delhi.
+Ram Mandir built with the support of Ram devotees is not being tolerated by SP and Congress: CM Yogi
 
-The event convened export-ready businesses, MSMEs, digital-first brands and supply chain partners to explore growth opportunities across domestic and international markets.
+Yogi Government adopting advanced technology to curb crime, providing training to officials
 
-Since the 1990s, Walmart said it has built deep supplier partnerships across India, helping develop long-term export capabilities and contributing to the country’s emergence as a key global manufacturing hub.
+Yogi govt to plant more than 3.83 crore saplings along the banks of 13 major rivers
 
-Building on over $40 billion worth of goods already sourced from India, and supporting the growth of more than 115,000 entrepreneurs through Walmart Vriddhi, the summit highlighted Walmart’s continued commitment to strengthening India’s export ecosystem and enabling more businesses to reach global markets.
+Riddhima Kapoor Sahni wishes 'her heart' Neetu Kapoor on her 68th birthday with glimpses of lifetime memories
 
-Walmart and Flipkart leaders reinforced the growing role of Indian businesses in global supply chains and the importance of deepening local partnerships and capacity-building efforts.
-
-The summit follows regional Growth Summit events in Jaipur and Coimbatore, held in collaboration with the Directorate General of Foreign Trade (DGFT), Government of India, and Federation of Indian Export Organisations (FIEO), strengthening outreach in key MSME clusters, with more such summits planned in the coming year.
-
-In a significant milestone for MSME development in India, Walmart’s Vriddhi Supplier Development Programme announced that it has trained more than 115,000 MSMEs across the country since its launch in 2019, equipping them with digital capabilities, critical business skills and access to new markets.
-
-With plans to support a total of 170,000 MSMEs by 2028, the programme continues to strengthen the pipeline of MSMEs with ambitions to export to new markets.
-
-Kalyan Krishnamurthy, Group CEO, Flipkart Group, said: "At Flipkart Group, we have seen firsthand how technology and digital commerce can unlock opportunities for millions of small businesses, entrepreneurs, artisans and local communities across India.
-
-"Through initiatives like Flipkart Samarth and Walmart Vriddhi, we are helping build capabilities, improve market access and create pathways for businesses to grow both domestically and globally.
-
-"Our focus continues to be on building an inclusive and empowering commerce ecosystem for India."
-
-A key highlight of the summit was the dedicated Resource Centre, where participants received one-on-one guidance on how to onboard on to the Walmart Marketplace, understand regulatory requirements and scale cross-border operations.
-
-The event drew more than 5,000 registrations, with sellers expressing strong interest in onboarding on to the Walmart Marketplace to reach customers in the US and beyond.
-
-Manish Joneja, senior vice-president, Walmart Marketplace, said: "India’s global commerce ambitions are accelerating, and Walmart Marketplace is proud to partner with businesses and organisations like DPIIT and FIEO to help Indian businesses become export-ready and reach customers around the world."
-
-'Economy May Take 2 To 3 Months To Return To Normal'
-
-Gulf Crisis: How India Avoided Economic Turmoil
-
-'India is among StanChart's top 5 wealth markets globally'
-
-When Will India Produce A Trillion-Dollar Company?
-
-UPI Money Transfer, Bill Payments, etc
-
-Kheema Kebab Pulao: 30-Min Recipe
-
-6 Chocolate Festivals Worth Travelling To
-
-Should You Buy The Nothing Phone (4b)?
+Aamir Khan, Mammootty, 'Kantara: A Legend - Chapter 1' nominated at 17th edition of IFFM
 
 ================================================================================

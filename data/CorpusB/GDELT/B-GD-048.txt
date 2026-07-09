@@ -1,46 +1,44 @@
 Doc ID: B-GD-048
-Title: India bans sugar exports till Sept 30 ; exemptions for EU , US quotas
-Source Domain: tribuneindia.com | Publish Date: 20260514T054500Z
-URL: https://www.tribuneindia.com/news/india/india-bans-sugar-exports-till-sept-30-exemptions-for-eu-us-quotas/
+Title: Vietnam rice export prices fall as Philippines pauses rice imports
+Source Domain: interaksyon.philstar.com | Publish Date: 20260619T031500Z
+URL: https://interaksyon.philstar.com/politics-issues/2026/06/19/315211/vietnam-rice-export-prices-fall-as-philippines-pauses-rice-imports/
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export DGFT
-Retrieval Date: 2026-07-08
+Targeted Query: India export rice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,M,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: Adequate/Marginal trade relevance (1 agri + 1 trade friction terms) | Gran: Overview narrative (366 words, 0 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (366 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
 Locus Tag: gdelt-basmati-mrl-rejections
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-India has banned the export of sugar till September 30 this year with immediate effect, a move which would help enhance domestic availability and contain prices.
+Vietnamese rice export prices slipped this week as a pause in imports by the Philippines weighed on the market, while Indian rates edged higher.
 
-Earlier the exports were under a restricted category, under which a licence was required for the outbound shipments.
+Vietnam’s 5% broken rice RI-VNBKN5-P1 was offered at $405-$415 per metric ton on Thursday, compared with $415-$420 a week ago.
 
-“The export policy of Sugar (Raw Sugar, White Sugar and Refined Sugar)... is amended from 'Restricted' to 'Prohibited' with immediate effect till September 30, 2026, or until further orders, whichever is earlier,” the Directorate General of Foreign Trade (DGFT)  said in a notification dated May 13.
+“Demand is weak, with the largest buyer, Philippines, suspending rice imports from Vietnam in June,” a trader based in Ho Chi Minh City said.
 
-This order, however, does not apply to sugar being exported to the European Union and the US under the CXL and Tariff Rate Quota (TRQ) arrangement, respectively.
+“We heard they will resume imports of Vietnamese rice in July, but with volume capped at around 200,000 tons.”
 
-The arrangements allow exporters to ship specified quantities of sugar to these destinations at significantly reduced or zero customs duties.
+Meanwhile, India’s 5% broken parboiled variety RI-INBKN5-P1 was quoted at $337-$342 per ton this week, up from 335-$340 last week.
 
-The DGFT's order is also not applicable to the shipments under the advance authorisation scheme, government-to-government exports and consignments already in the physical export pipeline.
+Indian 5% broken white rice was priced at $343-$349 per ton.
 
-For the 2025-26 sugar marketing year (October to September), the Food Ministry initially allowed 15 lakh tonnes in exports, then opened an additional 5,00,000-tonnes pool, of which only 87,587 tonnes were approved.
+“Exporters are raising prices to reflect the recent appreciation of the rupee. Despite that, demand from African countries remains strong as Indian rice is cheaper than rival origins,” a Kolkata based dealer said.
 
-So, nearly 16 lakh tonnes of sugar export were allowed.
+India’s rice stocks in government warehouses rose 15% from a year ago to a record high for the start of June, data showed on Tuesday.
 
-The food ministry and sugar mills were expecting 7.5-8 lakh tonnes of shipments in the entire 2025-26 marketing year.
+Thailand’s 5% broken rice RI-THBKN5-P1 was quoted at $460-$480 per metric tone, up from last week’s $450-$475, traders in Bangkok said.
 
-India's sugar production rose 7.32 per cent to 27.52 million tonnes till April in the 2025-26 marketing season, driven by higher output in Maharashtra and Karnataka, according to industry body ISMA.
+A trader said demand from Malaysia and the Philippines remained steady and that prices were expected to rise further. On the supply front, farmers were at the planting stage, and El Nino was expected to affect output later this year, the trader added.
 
-ISMA projected total production for the 2025-26 marketing season at 29.3 million tonnes after ethanol diversion, up from 26.12 million tonnes recorded in 2024-25.
+Another Bangkok-based trader said that exporters were buying only what was necessary due to high prices and the strong Thai baht. Prices are now in the hands of millers, the trader said, adding that there are concerns over El Nino’s impact on the August-September off-season crop.
 
-Banning exports of a commodity helps in preventing a rise in prices, amid inflation concerns and uncertainty caused by the West Asia conflict.
+Elsewhere, domestic rice prices remained elevated in Bangladesh as government procurement from local markets progressed slowly.
 
-In October 2022, India imposed export restriction on sugar and then it was extended from time to time.
+Farmers and traders said heavy pre-monsoon rains that damaged more than 200,000 metric tons of rice had reduced market supplies, making farmers reluctant to sell at government-fixed procurement prices and contributing to the sluggish pace of procurement.
 
-The world's second-largest sugar producer keeps exports under government control through quotas distributed proportionally among mills.
-
-The Tribune, now published from Chandigarh, started publication on February 2, 1881, in Lahore (now in Pakistan). It was started by Sardar Dyal Singh Majithia, a public-spirited philanthropist, and is run by a trust comprising five eminent persons as trustees.The Tribune, the largest selling English daily in North India, publishes news and views without any bias or prejudice of any kind. Restraint and moderation, rather than agitational language and partisanship, are the hallmarks of the newspaper. It is an independent newspaper in the real sense of the term.The Tribune has two sister publications, Punjabi Tribune (in Punjabi) and Dainik Tribune (in Hindi).
-
-Remembering Sardar Dyal Singh Majithia
+—Reporting by Vu Khanh in Hanoi, Rajendra Jadhav in Mumbai, Chayut Setboonsarng in Bangkok, Ruma Paul in Dhaka and Ashitha Shivaprasad in Bengaluru; Editing by Tasim Zahid
 
 ================================================================================

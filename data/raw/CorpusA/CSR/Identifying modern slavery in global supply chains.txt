@@ -1,0 +1,2122 @@
+--- PAGE 1 ---
+Identifying modern slavery in global supply chains: Leveraging monitoring 
+technologies through multi-actor collaboration
+Cory Searcy
+a , *
+, Pavel Castka
+b
+, Grant Michelson
+c
+, Xiaoli Zhao
+b
+a
+Toronto Metropolitan University, Toronto, Canada
+b
+Xi ’ an Jiaotong - Liverpool University, Suzhou, China
+c
+Macquarie University, Sydney, Australia
+ARTICLE INFO
+Keywords:
+Modern slavery
+Technology
+Collaboration
+Supply chains
+Resource dependence theory
+ABSTRACT
+Monitoring technologies (e.g., worker voice technologies, remote sensors, satellite images) provide additional 
+opportunities to improve the identification of modern slavery in supply chains. New collaborations among 
+different actors are required to enable these technological capabilities. Yet little is understood about how 
+collaboration between actors such as employers, certification and auditing bodies, non-governmental organi -
+zations (NGOs), and other vested intermediaries leverage monitoring technologies to identify modern slavery in 
+global supply chains. Based on a qualitative inquiry of 32 interviews with leading actors in identifying modern 
+slavery, we build upon two domains in the literature: the contracts domain and the conditions domain. Drawing 
+on resource dependence theory (RDT), we show that valued resources (finance, access, skills, technology, and 
+legitimacy) are held by various interdependent collaborators. We further show that identifying modern slavery 
+can be enhanced through leveraging monitoring technologies embedded in collaborations, yet key contingencies 
+(modern slavery posture, collaboration scope, cross-boundary interactions, and contextual embeddedness) 
+facilitate (or inhibit) such an outcome. The paper offers an empirically grounded understanding of collaboration 
+mechanisms to detect modern slavery in global supply chains.
+1. Introduction
+Many companies have increased their efforts to identify modern 
+slavery, supported by the growth of modern slavery and due diligence 
+legislation around the world. However, the illegal nature of modern 
+slavery, the difficulty of recognizing it in practice, and debates about the 
+effectiveness of existing initiatives suggest legislation alone is insuffi -
+cient ( Stevenson and Cole, 2018 ). Modern slavery is a contested term, 
+but it fundamentally concerns the “ severe exploitation of other people 
+for personal or commercial gain ” .
+1
+Severe exploitation remains all too 
+common, with millions of people facing controls and limits on their 
+freedom, harsh working conditions, and physical and emotional abuse. 
+The International Labour Organization (ILO) estimates that as many as 
+50 million people remain in modern slavery around the world ( ILO, 
+2022 , p. 2).
+Efforts to eliminate modern slavery in supply chains are increasingly 
+being met by multi-actor collaborations ( Benstead et al., 2018 , 2021 ). 
+While there can be differences between supply chains, these can involve 
+collaborations between employers, certification and auditing bodies, 
+non-governmental organizations (NGOs), and other vested in -
+termediaries. However, the results are often poor, and even organiza -
+tions that explicitly focus on addressing modern slavery find it 
+challenging to tackle. For example, the chocolate company Tony ’ s 
+Chocolonely has long been committed to eliminating child labour, 
+forced labour, and human trafficking in its cocoa supply chain, yet it 
+acknowledges the sector remains “ full of human rights violations ” .
+2
+The 
+experience of Tony ’ s Chocolonely underlines the need for collaboration 
+where all key actors take responsibility for eliminating abuses in the 
+supply chain ( Pannekoek et al., 2023 ). Innovative approaches recog -
+nizing the need for enhanced collaboration are urgently required to 
+This article is part of a special issue entitled: Digitization for Purchasing and Supply published in Journal of Purchasing and Supply Management.
+* Corresponding author.
+E-mail addresses: cory.searcy@torontomu.ca (C. Searcy), Pavel.Castka@xjtlu.edu.cn (P. Castka), grant.michelson@mq.edu.au (G. Michelson), Lilly.Zhao@xjtlu. 
+edu.cn (X. Zhao). 
+1
+https://www.antislavery.org/slavery-today/modern-slavery/ .
+2
+https://us.tonyschocolonely.com/pages/our-promise#sectionid-2 .
+Contents lists available at ScienceDirect
+Journal of Purchasing and Supply Management
+journal homep age: www. elsevier.com/ locate/purs up
+https://doi.org/10.1016/j.pursup.2025.101059
+Received 17 March 2024; Received in revised form 21 July 2025; Accepted 3 August 2025  
+Journal of Purchasing & Supply Management 32 (2026) 101059 
+Available online 6 August 2025 
+1478-4092/© 2025 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by- 
+nc-nd/4.0/ ). 
+
+--- PAGE 2 ---
+identify modern slavery in global supply chains.
+There is a growing body of research demonstrating that technologies 
+can help identify modern slavery in supply chains. Technologies dis -
+cussed in a modern slavery context typically focus on those that enable 
+monitoring of organizational practices and/or traceability of products 
+rather than technologies assisting in direct operational processes. Ex -
+amples include technologies enabling traceability ( McGrath et al., 
+2021 ), blockchain technologies ( Christ and Helliar, 2021 ), worker voice 
+technologies ( Berg et al., 2020 ; Taylor and Shih, 2019 ), or satellite im -
+aging technologies ( Kougkoulos et al., 2021 ). We label these technolo -
+gies as “monitoring” technologies which can improve data collection, 
+data exchange, and data analytics to improve the identification of 
+modern slavery ( Cossio and McNeill, 2021 ). This paper explores how 
+multi-actor collaborations leverage monitoring technologies to enhance 
+the likelihood of identifying modern slavery. Solutions grounded in 
+collaborative approaches to modern slavery offer considerable promise 
+( Benstead et al., 2021 ), but little is currently understood about when, 
+why, and how these collaborations occur and, critically, how monitoring 
+technologies are leveraged through multi-actor collaborations to iden -
+tify modern slavery.
+Our study is grounded in two perspectives. First, we build on pre -
+vious literature in modern slavery with a focus on two domains within it: 
+the contracts-focused domain and the conditions-focused domain ( Simpson 
+et al., 2021 ). Each domain exhibits unique characteristics that impact 
+the choice of both collaborators and monitoring technologies. Second, 
+our study utilizes resource dependence theory (RDT). RDT is a highly 
+influential theory ( Hillman et al., 2009 ; Ozturk, 2021 ) that seeks to 
+understand control between firms from two perspectives: power 
+imbalance and mutual dependence (Shiu et al., 2023). In this study, we 
+draw on the mutual dependence perspective. The mutual dependence 
+perspective can be used to explain when and why different organizations 
+collaborate with each other to identify modern slavery. Such motiva -
+tions might include strengthening organizational power, autonomy and 
+societal acceptance, or legitimacy ( Drees and Heugens, 2013 ). Impor -
+tantly, the mutual dependence perspective recognizes that important 
+and necessary resources are held by different collaborators and that 
+there are interdependencies between those collaborators and the re -
+sources they control ( Pfeffer and Salancik, 1978 ). We do not focus on the 
+power imbalance perspective. While it may be argued that mutual 
+dependence and power imbalance are connected, our primary interest is 
+explaining collaboration rather than competition, as may be implied 
+through attention given to power imbalance. While RDT is typically 
+concerned with explaining firm survival rather than addressing or 
+eliminating injustice, it also provides a lens on the critical role resources 
+play in addressing potential reputational and financial risk. Such risks 
+can harm firm well-being and, indirectly, their long-term survival, if 
+injustices, like modern slavery, are found. With research showing that 
+firms can financially benefit if they have a track record of addressing 
+modern slavery risk ( Cousins et al. ) , identifying modern slavery through 
+collaborative means can be an important step towards risk mitigation 
+and firm success.
+Building on the above, our research question is: How can multi-actor 
+collaborations leverage monitoring technologies to identify modern slavery in 
+global supply chains? While there are a range of actors that are potentially 
+relevant in the context of modern slavery including unions, consumers 
+and investors ( McLaren et al., 2024 ), we focus particularly on collabo -
+rations between employers, certification and auditing bodies, NGOs, and 
+other vested intermediaries. Consistent with RDT, we assume that or -
+ganizations pursue collaborations to address gaps in their capabilities 
+and/or capacity. This underscores that organizations require resources 
+(e.g., data, access, legitimacy, and technology) to facilitate their oper -
+ation, reduce uncertainties and risk, and ultimately ensure their sur -
+vival. Since few organizations are self-sufficient and leveraging 
+monitoring technologies to identify modern slavery can require unique 
+competencies, they must collaborate with other organizations to meet 
+capability gaps.
+To address our research question, we adopt a qualitative approach. 
+We conducted 32 interviews with different organizations involved in 
+addressing modern slavery, inclusive of NGOs, business brands, auditing 
+firms, individual auditors, technology providers, and regulatory bodies. 
+All respondents had extensive experience in the domain of modern 
+slavery (such as lawyers, managers, activists, purchasing managers, 
+governmental officials), in different regions of the world. The re -
+spondents had considerable experience in multi-actor collaboration and 
+in the use of technologies in the context of modern slavery and covered a 
+wide range of industries. Building on previous studies on modern slavery 
+and drawing on RDT to frame and interpret our findings, we demon -
+strate that leveraging monitoring technologies in multi-actor collabo -
+ration to identify modern slavery is facilitated (or inhibited) by four key 
+contingencies: modern slavery posture, collaboration scope, cross- 
+boundary interactions, and contextual embeddedness.
+2. Conceptual and theoretical background
+2.1. Modern slavery and supply chains
+Modern slavery is often manifest through indicators such as forced 
+work under threat or harm to the worker, owner/employer control (e.g., 
+retention of identity documents or passports), restrictions on freedom of 
+movement, financial mistreatment (e.g., withholding of wages, under -
+payment), and a general dehumanization and commoditization 
+( Caruana et al., 2020 ; Crane, 2013 , p. 53). While different economic and 
+institutional conditions can precipitate modern slavery ( Moussa et al., 
+2022 ), there are important capabilities that firms might utilize to insu -
+late, sustain, and profit from such conditions ( Crane, 2013 ). Indeed, it 
+has been argued there are multiple business models that can perpetuate 
+modern slavery, including models grounded in risk reduction, asset 
+leveraging, evading legal minimums, and workers as consumers ( Crane 
+et al., 2022 ). Responsibility for the presence of modern slavery rests, at 
+least partly, with firm managers and it is within complex organizational 
+supply chains where such exploitative practices might be most apparent 
+and yet most hidden ( Gold et al., 2015 ; LeBaron, 2021 ; New, 2015 ; 
+Shilling et al., 2021 ; Stringer and Michailova, 2018 ).
+Legislative developments aimed at eliminating modern slavery 
+across numerous jurisdictions along with NGO vigilance have increased 
+scrutiny and reputational risk in global supply chains ( Nolan and Bott, 
+2018 ; Raj-Reichert, 2020 ). Among the growing examples are the recent 
+Uyghur Forced Labour Prevention Act in the United States and the 
+Supply Chain Management Act as part of due diligence legislation in 
+Germany. While there is debate about the effectiveness of some of these 
+laws, they do raise modern slavery’s public profile ( Islam and Van Sta -
+den, 2022 ). Moreover, discovery of modern slavery can heighten 
+investor concerns around risk and negatively impact the market value of 
+the affected organization ( Nunes, 2018 ) suggesting that greater trans -
+parency in supply chains is beneficial ( Kraft and Zheng, 2021 ). Despite 
+these advantages, research has indicated that modern slavery is a 
+“psychologically distant” or remote idea for many firms ( Simpson et al., 
+2021 ).
+Two domains have been identified to help structure efforts to reduce 
+“psychological distance” from modern slavery ( Simpson et al., 2021 ): 
+the contracts-focused domain and the conditions-focused domain. The 
+contracts-focused domain focuses predominantly on confirming the 
+absence of modern slavery (Ibid). This domain is audit centric, with an 
+emphasis on comparing performance relative to a reference point. In 
+contrast, the conditions-focused domain is driven by the context in 
+which modern slavery occurs and focuses predominantly on identifying 
+the presence of modern slavery (Ibid). This domain is typically investi -
+gative in nature, with the mindset being to find, disclose, and remediate 
+modern slavery in supply chains. However, even when modern slavery is 
+found, firms might act defensively regarding the uneven or ambiguous 
+public disclosure of the effectiveness of their actions against modern 
+slavery ( Meehan and Pinnington, 2021 ; Schaper and Pollach, 2021 ; 
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+2 
+
+--- PAGE 3 ---
+Stevenson and Cole, 2018 ), or there can be inaction and the failure to 
+acknowledge its occurrence ( Stevenson, 2022 ).
+The contracts- and conditions-focused domains provide a granular 
+understanding of how to identify modern slavery, recognizing how 
+different approaches can lead to different outcomes. However, much like 
+firms can simultaneously adopt symbolic and substantive practices to 
+address non-financial issues such as quality or sustainability issues 
+( Prajogo et al., 2021 ), they can also simultaneously adopt approaches 
+that fall within and bridge the contracts- or conditions-focused domains. 
+Little is currently understood, however, about how the two domains 
+co-exist and how activities within each domain interact. This is impor -
+tant given the need to understand how different collaborations can 
+leverage different monitoring technologies within and across the two 
+domains to identify modern slavery.
+2.2. Collaboration to identify modern slavery
+Collaboration occurs when “two or more independent companies 
+work jointly to plan and execute supply chain operations with greater 
+success than when acting in isolation” ( Simatupang and Sridharan, 
+2002 ). Given such a broad definition, it is clear that multiple forms of 
+collaborations exist in global supply chains, from strategic alliances to 
+more arms-length collaborations ( Hayes et al., 2005 ). Moreover, col -
+laborations are driven by context: there is no single best way or blue -
+print on how different actors collaborate. Fundamentally, collaborations 
+are pursued to increase success of involved actors in achieving their 
+objectives. These could include, for example, instrumental objectives 
+focused on identifying modern slavery to prevent firm reputational 
+damage. Collaboration can also be altruistic in nature, recognizing the 
+moral obligation to remedy severe worker exploitation ( Pannekoek 
+et al., 2023 ).
+The main types of supply chain collaboration strategies are hori -
+zontal and vertical integration ( Barratt, 2004 ). Horizontal collaboration 
+occurs when two or more competing or unrelated firms (at the same 
+level of the supply chain) cooperate to share resources, such as 
+manufacturing capacity. Horizontal collaboration has been examined in 
+response to modern slavery and requires relational capital and effective 
+governance mechanisms to succeed ( Benstead et al., 2018 ). Vertical 
+collaboration occurs at different levels of the supply chain – with cus -
+tomers, internally (across functions), service providers, and with sup -
+pliers ( Barratt, 2004 ). Collaborations between different producers, 
+distributors and other actors enables a more contextualized approach in 
+supply chains ( Caputo and Mininno, 1996 ), arguably providing more 
+scope to strengthen labour standards and conditions ( LeBaron, 2021 ).
+Collaboration is an area of increasing focus in sustainable supply 
+chain research including the need for cross disciplinary scholarship 
+( Kach et al., 2025 ), but social concerns, such as extreme labour condi -
+tions, have rarely been studied in this context ( Geng et al., 2017 ). Much 
+of the limited research that exists focuses on relationships between 
+buyers and suppliers, suppliers for a common buyer ( Touboulic and 
+Walker, 2015 ), or buyers with common suppliers ( Nidumolu et al., 
+2014 ). Collaborative practices to identify modern slavery are critical, as 
+they do not just impact source firms but can enhance the capabilities of 
+other actors to reduce modern slavery risks, such as suppliers ( Emberson 
+et al., 2022 ). Suppliers may adapt their vertical and horizontal re -
+lationships to reduce the risk of modern slavery through strategies such 
+as horizontal systemization, vertical systemization, horizontal trans -
+formation, and vertical differentiation ( Emberson et al., 2022 ). The 
+implication is that collaboration recognizes and promotes agency among 
+the different actors to enact a range of complementary and mutually 
+beneficial outcomes for all.
+Collaborations beyond supplier and buyer relationships, particularly 
+in a modern slavery context, can involve direct interventions, awareness 
+campaigns, or government advocacy for policy changes, among others. 
+Collaboration to combat modern slavery typically starts by building 
+coalitions where firms, NGOs, and government agencies mobilize 
+around a common goal ( Gutierrez-Huerter et al., 2023 ). Many initiatives 
+focus on raising awareness to help prevent exploitation ( Bales, 2012 ), or 
+on training and capacity building. Corporations, NGOs, and govern -
+ments often work together to train law enforcement, immigration offi -
+cials, and social service providers on human trafficking issues ( Raineri 
+and Strazzari, 2022 ). Collaboration on supplier audits is another form of 
+collaboration. Based on a study of 35 brands, an NGO, and a trade body, 
+Benstead et al. (2018) investigated how horizontal collaboration can 
+enable responses to modern slavery legislation in the textiles and fashion 
+industry. Fransen and LeBaron (2019) examined the role of the “Big 
+Four” audit firms in services connected to transnational labor gover -
+nance. Drawing on a case study linked to modern slavery, they found 
+that auditing firms “engage in a variety of informal and covert influ -
+encing practices”, such as in promoting incremental improvements to 
+soft-law labor governance and serving as civil society’s independent 
+watchdog ( Fransen and LeBaron, 2019 , p. 260). Gold et al. (2015) also 
+highlighted the need for multi-actor approaches to address modern 
+slavery.
+2.3. Using technology to identify modern slavery in supply chains
+Technology can be broadly defined as “the practical application of 
+knowledge especially in a particular area” or “a manner of accom -
+plishing a task especially using technical processes, methods, or 
+knowledge”, among many other possible formulations.
+3
+In this paper, 
+we focus specifically on monitoring technologies. Monitoring technol -
+ogies can be classified as a form of “indirect” technologies. Unlike direct 
+technologies (i.e., technologies that enable transformation of inputs into 
+outputs, such as trucks, flexible manufacturing systems or material 
+processing technologies), indirect technologies focus on controlling and 
+coordinating direct processes. Technology has been used to support 
+broader social compliance audits, with a recent Gartner report providing 
+a set of categories to structure thinking about its potential application 
+( Cossio and McNeill, 2021 ).
+Table 1 groups monitoring technologies into three main categories: 
+technologies enabling data collection, data exchange, and data ana -
+lytics. First, monitoring technologies can be used for data collection, 
+either on-site or in a specific geographic area. For example, landlines 
+and video cameras are frequently used at the facility-level. Data 
+collection can be enabled by the use of satellite imaging in a broader 
+geographic area ( Reid and Castka, 2023 ). Second, monitoring technol -
+ogies can be used for data exchange. Technologies can be used to ensure 
+interoperability between actors, which is important for any form of 
+collaboration ( Herding and Fischer, 2015 ). At a facility, for example, 
+smart phones might be used by auditors to upload data in shareable 
+formats to apps connected to broader audit platforms ( Castka and 
+Searcy, 2023 ). Blockchain can then provide an unalterable ledger to 
+provide confidence on product provenance throughout a supply chain. 
+Third, monitoring technologies can be used to help draw conclusions 
+about the data collected through data analytics. For example, algorthims 
+could be developed to predict modern slavery hotspots. Research on the 
+specific use of technologies to identify modern slavery has started to 
+emerge, including the use of technology to improve product traceability 
+( McGrath et al., 2021 ), using blockchain ( Christ and Helliar, 2021 ), 
+applying worker voice technologies ( Berg et al., 2020 ; Taylor and Shih, 
+2019 ), and applying satellite imaging ( Kougkoulos et al., 2021 ). More 
+broadly, institutional pressures have been shown to encourage digital 
+technology adoption by firms seeking to alleviate modern slavery risks 
+( Jiang et al., 2023 ).
+Technology is being increasingly incorporated to facilitate collabo -
+rations between different actors and optimize the use and allocation of 
+resources ( Castka and Searcy, 2023 ). These collaborations are usually 
+initiated by a focal actor needing resources to accomplish their 
+3
+https://www.merriam-webster.com/dictionary/technology .
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+3 
+
+--- PAGE 4 ---
+objective, but there are several potential barriers to collaboration that 
+seek to leverage technology. Different technologies used by suppliers 
+throughout a supply chain can be an important barrier to collaboration, 
+but many potentially “ intractable ” barriers are rooted in people issues, 
+such as “ culture, trust, aversion to change, and willingness to collabo -
+rate ” ( Fawcett et al., 2008 ). Overcoming these barriers is essential to 
+successfully leverage monitoring technologies in multi-actor collabora -
+tions. For example, in a modern slavery context, an auditing firm may 
+collaborate with NGOs for access to genuine employee perspectives or 
+local communities ( Taylor and Shih, 2019 ). Technologies play a role in 
+addressing collaborative challenges that exist between these actors. For 
+instance, actors involved in supplier auditing are exposed to legitimacy 
+risks due to poor timeliness and veracity in supplier auditing ( Castka 
+et al., 2020 ). Data collection can be enabled through the use of mobile 
+apps ( Locke, 2013 ), which allow for faster data exchange. Mobile apps 
+and other technologies also permit the collection of greater amounts of 
+data – in part mitigating bias ( Solymosi and Bowers, 2018 ). Machine 
+learning and artificial intelligence (AI) can be used to identify patterns 
+of trafficking and slavery in large datasets, making it easier to identify 
+at-risk areas or at-risk individuals ( Land and Barry, 2021 ). Technology 
+could thus help NGOs, firms, and regulatory agencies to share pertinent 
+data and work together more effectively.
+Technology, however, is not a panacea. There is potentially a dark 
+side to the use of monitoring technology, such as strengthening the 
+ability to control employees through surveillance or serving as a cover 
+for minimal or no performance improvement ( Mol, 2010 ). Research is 
+also emerging on the potential dissatisfaction in adopting supply chain 
+technologies, such as blockchain, the Internet of Things (IoT), and 
+artificial intelligence (AI) ( Sodhi et al., 2022 ). As Sodhi et al. (2022 , p. 
+2517) explain, the perceived benefits “ depend on the interaction be -
+tween technology and the users, not on the technology alone ” . This point 
+is supported by Marques et al. (2024) , who demonstrated that, while 
+blockchain is often promoted as a solution to supply chain transparency 
+problems, this can be substantially undermined by a lack of trust be -
+tween supply chain partners. Blockchain can also introduce additional 
+unanticipated costs and risks ( Murray et al., 2021 ). Technology can thus 
+create “ inflated expectations ” ( Sodhi et al., 2022 ) in supply chain 
+management, including in the ability to identify modern slavery. Suc -
+cessfully leveraging monitoring technology to identify modern slavery is 
+therefore contingent on multi-actor collaborations grounded in trust, a 
+genuine willingness to collaborate, and a recognition of its limitations.
+2.4. Theoretical underpinnings
+There are many actors (e.g., businesses, service providers, NGOs, 
+auditors, employees, etc.) as identified by McLaren et al. (2024) , and 
+monitoring technologies (e.g., blockchain, remote sensing and satellites, 
+worker voice applications, etc.) that may be necessary to identify 
+modern slavery. While institutional theory and global value chain the -
+ory are the most frequently used theories in modern slavery and supply 
+chains research ( Strand et al., 2024 , p. 6), we pursue a different line of 
+inquiry. We draw on resource dependence theory (RDT) as a lens for our 
+study. RDT understands control between firms from two perspectives: 
+power imbalance and mutual dependence ( Shiu et al., 2023 ). While 
+power imbalances exist within supply chains and can impact the ability 
+to identify modern slavery, we regard this perspective as highly suited to 
+accounting for competitive situations. Our focus in this study is on the 
+mutual dependence perspective and its ability to explain multi-actor 
+collaboration. Previous research has shown that mutual dependence 
+has a positive impact on collaborative performance ( Casciaro and Pis -
+korski, 2005 ; Shiu et al., 2023 ). Therefore, consistent with Shiu et al. 
+(2023 , p. 2), we adopt the view that “ a firm needs to devote time and 
+resources towards coordinating other firms in order to obtain resources 
+for its strategic goals ” . The mutual dependence perspective underpins 
+our theoretical approach, since it emphasizes the need for multiple ac -
+tors, often spread across multiple jurisdictions, to work together to 
+identify modern slavery.
+RDT is primarily concerned with understanding and explaining firm 
+survival. RDT argues that for an organization to survive, it must acquire 
+valued and necessary resources, but that these resources are often held 
+by others ( Pfeffer and Salancik, 1978 ). This creates uncertainty for or -
+ganizations, precipitating them to manage their environmental uncer -
+tainty and resource acquisition in different ways. Resources can be 
+tangible or intangible assets that are viewed as organizational strengths 
+( Wernerfelt, 1984 ). Resources could be direct, such as labour and raw 
+materials, or they could be indirect, such as favourable legislation. Re -
+sources could also be considered from the perspective of substantive 
+resources, such as cash flow and technology, or symbolic resources, such 
+as legitimacy and reputation ( Meyer and Rowan, 1977 ). Different or -
+ganizations hold and control different resources and, to mitigate risks 
+and survive, organizations must interact with other entities which 
+control them ( Scott and Davis, 2015 ).
+Organizations are conceptualized as open systems embedded in a 
+network of interdependencies with other organizations ( Pfeffer and 
+Salancik, 1978 ). The interdependence with other organizations lies in 
+the availability of different (valued) resources and demand for them. For 
+example, service providers require clients to use the technology they are 
+selling to help identify modern slavery. NGOs require resources to fund 
+their social objectives but also appreciate that firms value the legitimacy 
+they can provide ( Michelson and Wray-Bliss, 2024 ). RDT helps explain 
+which actors (and why) help provide valued resources – including 
+monitoring technologies – at particular points in time (the when). 
+Moreover, collaboration shows how different dependencies in modern 
+slavery are managed. If we consider that modern slavery can threaten 
+firms, specifically by exacerbating reputational and financial risk, the 
+use of monitoring technology can either illuminate or conceal modern 
+slavery practices ( Marques et al., 2024 ). It can therefore subsequently 
+Table 1 
+Illustrative examples of using technology to identify modern slavery in supply 
+chains.
+Category Illustrative examples of monitoring technologies and their use
+Data 
+collection
+• Supply chain mapping technologies: platforms and tools that help 
+companies visualize their supply chains based on data gathered 
+on supplier locations, relationships, and product flows.
+• Worker voice technologies and hotlines: facilitate direct reporting 
+from workers on abuse, exploitation, and unsafe working 
+conditions by collecting real-time data.
+• Auditing technologies: use of digital platforms to manage audit 
+data, including worker interviews, facility inspections, and 
+document reviews.
+• Satellite monitoring and remote sensing: collection of imagery 
+and sensor-based data related to deforestation, illegal mining, and 
+other activities that may be linked to modern slavery.
+• Open data and publicly available resources: gathering data from 
+government reports, NGO databases, social media, and news 
+articles to identify risk factors.
+Data 
+exchange
+• Blockchain technology: facilitates secure and transparent data 
+exchange between different actors in the supply chain; allows for 
+tracking products from origin to consumer and verifying claims 
+related to ethical sourcing.
+• Supplier ethical data exchange: enables companies to share 
+responsible sourcing data with their suppliers and customers (e.g., 
+Sedex).
+• Cloud-based platforms: allows companies to share information 
+about suppliers, audit results, and other relevant data with 
+stakeholders, potentially in real-time.
+Data 
+analytics
+• Big Data and AI-powered analytics: assemble large datasets from 
+various sources (e.g., supply chain mapping, audits, worker re -
+ports, news articles, etc.) to analyze data and identify high-risk 
+suppliers or regions based on various indicators.
+• Natural Language Processing: use of NLP to analyze text data (e. 
+g., news articles, social media posts) to identify potential cases of 
+modern slavery.
+• Geospatial analysis: analyze geographical data to identify areas 
+with high concentrations of vulnerable populations or industries 
+known for forced/exploited workers.
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+4 
+
+--- PAGE 5 ---
+shape how collaborations occur – with whom, when, and why. The ca -
+pacity of organizations seeking to identify modern slavery therefore 
+depends on the available resources. We posit that such resources can be 
+acquired and subsequently deployed through collaborative means, and 
+is one important step towards risk mitigation and firm survival.
+Some scholars have contended that RDT has confounded the separate 
+dimensions of power imbalance or differentials between organizations 
+and the idea of mutual dependence on each other in the construct of 
+interdependence ( Casciaro and Piskorski, 2005 ). That is, organizations 
+may leverage their extant power to increase their influence on others 
+over time, thereby reducing their dependency (Shen et al., 2022). There 
+is some merit to this claim, but as explained earlier our focus is primarily 
+on mutual dependence. Nonetheless, we note that organizations with 
+more power than others need not exercise or impose this power, espe -
+cially when seeking legitimacy or societal acceptance around the issue of 
+modern slavery. Organizations can build trust over time, especially 
+when there are asymmetries in power and other resources between ac -
+tors that collaborate ( Gulati and Sytch, 2007 ; Mosch et al., 2021 ). A 
+meta-analysis of previous studies that have used RDT confirms this 
+tendency by showing if organizations are primarily interested in 
+improving their legitimacy, they create interorganizational collabora -
+tions that create visible linkages with other reputable organizations; if 
+organizations are primarily motivated to improve their autonomy, they 
+create collaborations with other organizations that preserve their flexi -
+bility (see Drees and Heugens, 2013 ). Moreoever, as Shiu et al. (2023 , p. 
+9) have explained, “firms should not only manage their mutual de -
+pendencies but also consider how their actions may affect indirect 
+interfirm relationships beyond the direct mutual dependence itself”.
+It is important to acknowledge that dependence within a RDT 
+framework is sometimes considered undesirable ( Ozturk, 2021 , p. 547). 
+However, there are certain costs with maintaining independence and 
+autonomy when different organizational actors try to identify modern 
+slavery. We argue that collaborations are fundamentally connected to 
+purposes grounded in RDT. Collaborations ultimately come down to 
+accessing valued resources held by others. In a modern slavery context, 
+these resources can include financing, access, skills, and legitimacy. 
+Each resource has a unique role in the process of identifying modern 
+slavery. For example, skills (to perform auditing and investigation) are 
+critical to identify modern slavery. Actors can (potentially) optimize the 
+use of these skills (i.e., auditing skills, analytics skills, etc.) through 
+collaboration and thus improve the likelihood of identifying modern 
+slavery. Critics might contend that this may perpetuate an instrumental, 
+rather than ethical, approach to the identification of modern slavery. 
+However, the meta-analysis of RDT by Drees and Heugens (2013) con -
+firms that the theory can also account for firm actions that are motivated 
+by meeting societal norms and expectations as opposed to only 
+addressing financial performance (survival). In this context, technolo -
+gies can further leverage other resources. For example, monitoring 
+technologies can support auditors on the ground (e.g., wearable com -
+puters, apps for data collection) or can facilitate access to a larger pool of 
+vulnerable respondents (e.g., through worker voice technologies). A 
+representative overview of resources and their role in identifying mod -
+ern slavery is shown in Table 2 .
+The necessity of managing interorganizational relations is particu -
+larly salient in global supply chains ( Mosch et al., 2021 ) given the 
+prevalence of power and dependence noted above. Collaboration can 
+bring together the resources that help firms achieve their strategic goals 
+( Shiu et al., 2023 ), in this case identifying modern slavery. While col -
+laborations and resources can change over time, the ability to identify 
+modern slavery is grounded in mutual dependence. This is particularly 
+salient in situations where formal authority is unlikely to be sufficient to 
+address a highly complex problem. Identifying modern slavery requires 
+substantial social capital, including the need for collective action to 
+build trust, legitimacy, and capacity in difficult environments. The 
+literature shows that mutual dependencies are more likely to emerge 
+when firms cannot rely on formal authority and must build social capital 
+( Shiu et al., 2023 ).
+3. Methods
+3.1. Research approach
+Studies of modern slavery in supply chains remain in their embryonic 
+stage and often struggle to secure access to robust and representative 
+data. Modern slavery is also difficult to measure directly and it is often 
+manifested through proxy indicators requiring significant judgment.
+Our research question focused on how multi-actor collaborations can 
+leverage monitoring technologies to identify modern slavery. We are not 
+focused on any particular monitoring technology (such as worker voice 
+technologies or blockchain which was the objective of Jiang et al., 
+2023 ); our aim is to explore how collaboration between actors such as 
+employers, certification and auditing bodies, NGOs, and other vested 
+intermediaries might leverage these technologies to support identifying 
+modern slavery in global supply chains. Our point of departure is that 
+the research is best addressed by those with direct experience in iden -
+tifying modern slavery. Our approach was guided, therefore, by gath -
+ering detailed insights from experts in the field through a qualitative 
+study.
+3.2. Data sources and data collection
+We approached experts that held leading roles in institutions with 
+Table 2 
+Illustrative examples of resources for identifying modern slavery.
+Resource Importance of the 
+resource for 
+identifying modern 
+slavery
+The potential of 
+collaboration to 
+leverage the 
+resource
+The potential of 
+technology to 
+leverage the resource
+Financing Resourcing of 
+audits and 
+investigations is 
+critical
+Collaborations can 
+optimize allocation 
+of financial 
+resources to 
+operationalize 
+audits and 
+investigations to 
+identify modern 
+slavery
+Technologies can 
+provide tools to 
+increase efficiency of 
+audits (i.e., audit 
+platforms utilize data 
+in multiple audits and 
+address the issue of 
+duplication of audits)
+Access Access to local 
+environments is 
+critical for 
+identifying modern 
+slavery
+Collaborations can 
+provide access to 
+local environments 
+(e.g., access to local 
+informants) to 
+improve the 
+potential for 
+identifying modern 
+slavery
+Technologies 
+facilitate access to 
+respondents in 
+locations (e.g., 
+hotlines) and/or 
+allow scaling up 
+communication with 
+local respondents (e. 
+g., worker voice 
+technologies)
+Skills Auditing and 
+investigative skills 
+are an essential 
+mechanism for 
+identifying modern 
+slavery
+Collaborations can 
+optimize the use of 
+unique skills 
+possessed by each 
+actor (e.g., auditing 
+skills, analytics 
+skills, etc.) to 
+improve the 
+potential for the 
+identification of 
+modern slavery
+Technologies provide 
+support for actors to 
+utilize their skills (e. 
+g., auditors use 
+wearable computers 
+or use apps for data 
+collection) and/or 
+facilitate access to 
+local data (e.g., data 
+platforms can use 
+analytics to 
+determine hotspots)
+Legitimacy Audits and 
+investigations need 
+to be perceived as 
+legitimate
+Collaborations can 
+increase legitimacy 
+of audits and 
+investigations
+Technologies can 
+improve veracity and 
+timeliness of audits 
+and, hence, 
+potentially 
+strengthen the 
+legitimacy of audits 
+and investigations
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+5 
+
+--- PAGE 6 ---
+global outreach. For example, we spoke with purchasing directors 
+directly involved in developing approaches to identify modern slavery in 
+their complex supply chains. We also targeted experienced NGO di -
+rectors who have overseen projects with numerous collaborators, 
+including corporations, their suppliers, and other NGOs. We recruited 
+senior experts responsible for overseeing certifications bodies and their 
+activities. These individuals have access to numerous audit reports, data 
+on grievances, and non-compliance, which provides them with unique 
+insight into the problem. Overall, we recruited individuals directly 
+involved in identifying modern slavery, particularly through using 
+monitoring technology leveraged through collaborations.
+While Table 3 lists the experts ’ role at the time of the study, many 
+had progressive experience in a variety of roles directly related to our 
+research question. For instance, while there were a large number of 
+Table 3 
+List of participants and interview details (n = 32).
+Actor Group Role Outreach in global supply chains Years with the 
+organization
+# of 
+interviews
+Code
+NGOs Co-director Co-leading a coalition of 30 plus organizations 12 years 2 MS1, 
+MS5
+Co-director Co-leading a coalition of 30 plus organizations 11 years 2 MS2, 
+MS4
+Program Director A knowledge platform addressing cross-boundary interactions; 
+working mainly with financial services, apparel & footwear, 
+hospitality providers and retailers
+4 years 1 MS6
+Director A leader in technology adoption to monitor human trafficking 7 years 1 MS11
+Sustainability Director Provides research, training, consulting, and policy advocacy across a 
+variety of sectors globally in over 70 countries
+2 years 1 MS14
+Managing Director A global NGO focusing on anti-trafficking projects concentrated in 
+technology, financial crimes, and regulatory frameworks
+11 years 1 MS21
+Chief Impact Officer A global NGO operating across three continents in the conditions- 
+domain
+6 years 1 MS22
+Chief Technical Advisor An agency bringing together governments, employers and workers 
+addressing cross-boundary interactions
+10 years 1 MS25
+Senior Advisor Focusing of seafood industry; leads collaborative projects across the 
+Asia Pacific region
+3 years 1 MS30
+Technical and Projects 
+advisor
+A global actor providing education, advocacy and third-party 
+assurances in the seafood sector
+18 years 1 MS32
+Firms Director of Sustainability A global multinational company from the food industry with an 
+extensive network of partners across both domains
+5 years 1 MS10
+Sustainability Director A global omni-channel retailer overseeing modern slavery in supply 
+chains of global fashion brands
+4 years 1 MS15
+Sustainability Officer A global omni-channel retailer overseeing modern slavery in supply 
+chains of global fashion brands
+3 years 1 MS16
+Group Ethical Sourcing 
+Manager
+A global food retailer overseeing modern slavery in food supply 
+chains
+3 years 1 MS19
+Senior Human Rights 
+Manager
+A global food retailer overseeing modern slavery in food supply 
+chains
+5 years 1 MS20
+Service provider – 
+accreditation, certification 
+body
+President & CEO Providing governance over auditors ’ competence; a global outreach 
+with insights into auditors ’ competence and compliance
+6 years 1 MS9
+Founder and Director Primarily an auditing firm assisting clients to develop compliance 
+mechanisms
+3 years 1 MS8
+Social Project Manager A global governing body with insights into the performance of leading 
+certifiers across 70 plus countries
+1 year 1 MS13
+Strategic Development 
+Director
+Leader of a team of global assessors that oversee a network of actors 
+operating in various industries across 70 + countries
+14 years 1 MS17
+Manager A global actor providing education, advocacy, and third-party 
+assurances in the seafood sector
+5 years 1 MS31
+Freelance Auditor An auditor with extensive experience with a global governance body, 
+currently working as an auditor and auditor rights advocate
+15 years 1 MS18
+Service provider - 
+technologies
+Head of Social Research 
+& UK Operations
+A data platform provider working with multiple supply chain actors 
+that share data and insights
+4 years 1 MS12
+Director of Programs A multi-channel mobile platform for engaging actors and measuring 
+risks; working with energy, mining, agribusiness, and others
+8 years 2 MS3, 
+MS7
+Senior Sustainability 
+Expert
+A data platform provider working with multiple supply chain actors 
+that share data and insights
+3 years 1 MS23
+Service provider – 
+consultancy, training & 
+research
+Vice President Asia 
+Pacific
+Provides research, training, consulting, and policy advocacy across a 
+variety of sectors globally
+9 years 1 MS24
+Senior Program Director Provides research, training, consulting, and policy advocacy across a 
+variety of sectors globally in over 70 countries
+17 years 1 MS26
+Executive Director and 
+Founder
+Focuses on loopholes in domestic and international legal regimes to 
+hold companies accountable for abuses in their global supply chains
+6 years 1 MS27
+Senior Advisor A group of 70 plus organizations providing research, advisory and 
+training services focusing on global health, economic development, 
+and gender
+6 years 1 MS28
+Executive Director A director of a research centre leading research in modern slavery 
+(with previous experience with a global regulatory body)
+3 years 1 MS29
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+6 
+
+--- PAGE 7 ---
+directors in our sample, those roles were often preceded by on-the- 
+ground experience in auditing, consultation, and advocacy on modern 
+slavery. Importantly, our respondents were also involved in oversight of 
+a large number of actors and across a wide variety of sectors (e.g., 
+agriculture, seafood, manufacturing). While these respondents were not 
+able to share any confidential data with us, their experience positions 
+them well to answer broader questions about collaborations and tech -
+nology adoption. We believe this to be a strength of our data – our ex -
+perts had experiences across the different roles and organizations 
+involved in modern slavery. Therefore, while we have categorized the 
+respondents by five actor groups in Table 3 , this is based on their roles at 
+the time of the study. Many of the respondents could have been cate -
+gorized into other groups at different points in their careers.
+The main source of data for this study were 32 semi-structured in -
+terviews conducted between August and December 2021. A recent 
+report by Gartner provided background on actors involved in modern 
+slavery ( Cossio and McNeill, 2021 ). Initially, we developed a list of 10 
+global NGOs and initiated our interviews with them. We aimed to cap -
+ture a variety of perspectives and were guided by referrals from them to 
+increase and diversify our pool of respondents. As noted, all of the ex -
+perts were deeply involved in modern slavery and had served in many 
+roles to help address it, such as managing supply chains, technology 
+providers, advocacy groups, victim support, and leading multi-actor 
+initiatives.
+The interviews lasted an hour each on average and were conducted 
+over Zoom. All interviews were recorded and transcribed verbatim. 
+During the interviews, we were guided by a set of open-ended questions. 
+We probed the respondents if needed – keeping the research question in 
+mind. For example, we asked “Can you highlight some innovative 
+practices that help detect modern slavery in firm’s supply chains?”, “Is 
+there any opportunity for ongoing use of technologies in firm audits?”, 
+and “What are some of the technologies that you use to help give you 
+visibility and assurance in the company supply chain?” We followed-up 
+with probing questions such as “How do you triangulate the data?”, 
+“How have different technologies helped provide greater visibility and 
+transparency from your organization’s perspective?”, and “Do worker 
+voice technologies lead to the identification of modern slavery?” We also 
+explicitly asked all respondents about the roles played by the different 
+actors in identifying modern slavery.
+3.3. Data analysis
+Broadly, we started the analysis with our research question. We also 
+grounded our analysis in the literature and theory. As shown in Table 4 , 
+we observed the existence of two domains identified in the literature 
+( Gold et al., 2015 ; Simpson et al., 2021 ), i.e., the contracts- and 
+conditions-focused domains. Consequently, in the analysis, we focused 
+on the differences in how organizations cooperate in these domains and 
+how ‘domain membership’ shapes the collaboration. As discussed earlier 
+in the paper, we were also guided by RDT, with an emphasis on mutual 
+dependencies.
+We then performed two key rounds of data analysis. The data anal -
+ysis followed procedures that are commonly adopted in qualitative 
+research, including best practice for using quotes to present claims 
+( Rockmann and Vough, 2024 ). We did not have any a priori coding 
+scheme and “let the data speak” ( Huxham and Vangen, 2000 ). Whilst 
+performing the first round of scanning through the data we focused on 
+developing broader understanding of (a) what collaborations organiza -
+tions pursue and why; (b) how technologies are used in collaborations; 
+and (c) how the unique context affects the collaborations and use of 
+monitoring technologies to identify modern slavery. After performing 
+the first inspection of the data, we identified high-level patterns linked 
+to those three questions (see Table 4 ). We compared our findings (the 
+authors conducted the coding independently) and, as shown in Table 4 , 
+grouped the patterns into preliminary themes. In the second round of 
+analysis, we focused on establishing the linkages between the 
+preliminary themes and the outcome of identifying modern slavery. As 
+part of this process, we identified four key contingencies. The contin -
+gencies formed the basis for the conceptual framework outlined in 
+Section 5.1 .
+4. Findings
+This section presents the results of our data analysis. Building on the 
+data analysis procedures described in Section 3 , we present the findings 
+Table 4 
+Overview of data analysis.
+Points of departure Preliminary themes Contingencies
+Research Question 
+How can multi-actor 
+collaborations leverage 
+monitoring 
+technologies to identify 
+modern slavery in 
+global supply chains? 
+Theoretical 
+underpinnings 
+There are two domains 
+of modern slavery: 
+contracts- and 
+conditions-focused. 
+RDT’s mutual 
+dependence perspective 
+helps explain when and 
+why different 
+organizations 
+collaborate with each 
+other. 
+There are inter- 
+dependencies between 
+collaborations and the 
+use of monitoring 
+technologies to identify 
+modern slavery.
+Collaboration 
+motivation The 
+motivations to 
+collaborate underpin 
+expectations on how 
+modern slavery activities 
+are organized, including 
+which actors are 
+engaged.
+Modern slavery posture 
+This is characterized by 
+the contracts- and 
+conditions- focused 
+domains.
+Modern slavery 
+domains The two 
+domains of modern 
+slavery (i.e., contracts- 
+and conditions-focused 
+domains) each have their 
+own modus operandi, 
+which impacts 
+approaches to 
+identifying modern 
+slavery.
+Collaboration modes 
+There are two levels of 
+collaborations to identify 
+modern slavery across 
+the two domains: micro- 
+and macro-levels.
+Collaboration scope 
+This is characterized by 
+micro- and macro-level 
+collaborations.
+Trust building Trust is a 
+foundation of close 
+collaboration (e.g., data 
+collection, exchange, 
+and analytics) within 
+and across the two levels.
+Boundary spanning 
+activities The two 
+domains and levels are 
+co-existing and 
+connected; they do not 
+operate in isolation.
+Cross-boundary 
+interactions This is 
+characterized by 
+collaborations between 
+different motivation 
+postures and different 
+collaboration scopes.Activity alignment To 
+leverage technology 
+through collaborations, 
+actors must recognize 
+mutual dependencies in 
+aligning their activities.
+Resource access 
+Identifying modern 
+slavery in different 
+contexts requires access 
+to different 
+combinations of 
+resources held by 
+different actors.
+Contextual 
+embeddedness This is 
+characterized by tailored 
+approaches to identifying 
+modern slavery grounded 
+in collaborations between 
+key actors.
+Context matching 
+Resources, including 
+technologies, must be 
+matched to the unique 
+context and 
+collaborations in any 
+supply chain, 
+considering potential 
+adverse effects.
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+7 
+
+--- PAGE 8 ---
+around our four key contingencies, focusing on how they facilitate (or 
+inhibit) identifying modern slavery by leveraging monitoring technol -
+ogies through multi-actor collaboration. Collectively, the findings pro -
+vide a basis for directly answering our research question.
+4.1. Modern slavery posture
+Modern slavery posture refers to the reason why an organization 
+pursues collaboration. There are many reasons why various actors in 
+supply chains do not want modern slavery to be found. For example, it 
+can be highly profitable for those exploiting others. However, they could 
+also be severely punished if it is located, such as reputational risk for a 
+firm, or criminal liability for an individual. Motivation is thus impactful 
+in determining the modern slavery posture of any given actor – a firm, 
+auditing body or NGO. This is illustrated by the following quote: 
+“In terms of how difficult is it to find, it is. It depends on whether 
+you’re looking for it and it depends on whether you want to find it.” 
+MS4
+The contracts- and conditions-focused domains provide contrasting 
+environments in which modern slavery is identified. We note that many 
+interviewees indicated the existence of these domains, though the ter -
+minology used to describe them varied. For example: 
+“I think those are kind of the two camps that I’ve noticed. One kind 
+tends to be used to cater to corporations’ risk-based approach and 
+then the NGOs tend to come in for more continuous improvement 
+approach. Or not necessarily always NGOs, they could be consul -
+tancies, they could be social enterprises, but I think there’s a bit more 
+potentially, a more holistic approach to looking at the root cause 
+rather than a compliance-based approach.” MS7
+In the contracts-focused domain, firms seek collaborations and 
+secure resources predominantly to acquire compliance with standards 
+and other reference points. In fact, respondents frequently referred to 
+this domain as the “compliance-domain” in the interviews. Firms are 
+increasingly pushed to address modern slavery through audits, certifi -
+cations, and other compliance mechanisms and look for actors that can 
+provide such services. We also heard many comments about audits 
+focused on confirming the absence of modern slavery, in many cases as a 
+mechanism to avoid trouble. To illustrate, 
+“I think that the compliance-based approach is very familiar to 
+companies. So, I think many of them still seek social audits as from a 
+compliance-based perspective and a risk mitigation, risk minimiza -
+tion perspective. But there is definitely a trend now and a lot of 
+spotlight on companies that move away from trouble, some suppliers 
+or regions or commodities, rather than actually working with the 
+supply chain to improve it.” MS7
+The contracts domain is thus characterized by actors whose primary 
+interest is in confirming the absence of modern slavery in their supply 
+chains, not necessarily identifying (and remediating) it. Moreover, this 
+domain is dominated by firms and service providers. Although other 
+actors might get involved (e.g., an NGO might assist with data collec -
+tion), this involvement tends to be limited or reduced to symbolic col -
+laborations. Notably, and consistent with RDT, the firms and service 
+providers have significant control and discretion over the allocation of 
+resources and their use. For example, the audits (and related data) have 
+a commercial value, which is protected and leveraged for the benefit of 
+participating actors (i.e., a certificate demonstrates absence of modern 
+slavery). Actors in the contracts-focused domain are primarily con -
+cerned with improvements of the audit process, such as cost-cutting or 
+audit integration.
+In the conditions-focused domain, actors are interested in identifying 
+the presence of modern slavery (and then working to remediate it). This 
+domain is dominated by NGOs, labour unions, and other actors whose 
+raison d’etre is different from firms seeking compliance and 
+certification. These actors also employ different mechanisms to identify 
+modern slavery: there is less focus on audits and more focus on inves -
+tigative work and working with local communities as the following 
+quote illustrates: 
+“NGOs are going to identify [modern slavery] better, but also it’s not 
+just sort of putting a red dot on a map to say there is forced labour 
+there. An NGO is going to do a better job of working with a local 
+community and identifying what the appropriate remedy is. Because, 
+in the end what’s going to prevent forced labour in a particular in -
+dustry or what’s going to stop existing forced labour or what’s going 
+to remedy forced labour is kind of context specific.” MS27
+Recognizing the two modern slavery domains has important rami -
+fications for selecting collaborating partners since each domain has 
+different aims and approaches to identifying modern slavery. From a 
+RDT perspective, for instance, it means that actors seek to secure 
+different resources and align (or naturally drift toward) a domain that 
+provides such resources and which allows the actors control over the 
+allocation of resources for their intended purpose. An example might be 
+a firm that seeks to legitimize practices in their supply chains (but not 
+necessarily improve these practices), is likely to collaborate with actors 
+that provide such service. Consequently, the selection and adaptation of 
+technologies also serves as a tool to leverage the legitimization of supply 
+chain practices. For example, worker voice technologies (WVT) can be 
+used to actively conceal labour issues by careful selection of participants 
+or through persecution of whistle blowers. Hotlines can be similarly 
+used to monitor the workforce and identify workers the company may 
+view as problematic. Conversely, technologies supporting more genuine 
+motivations can have the opposite effect.
+The adoption of specific monitoring technologies is driven by the 
+objectives of the collaboration. For example, an organization may seek 
+improvements to its data collection process to achieve greater audit 
+efficiency – a typical approach for actors operating in the contracts 
+focused domain. Actors involved in audits can benefit from the digita -
+lization of the audit process enabled by various technologies (e.g., data 
+collection platforms; phone-based apps, etc.). As the following quote 
+illustrates, this can enhance audit efficiency: 
+“I think technology in the audit process, I mean certainly one thing 
+that’s helped is for the auditors to be able to answer the questions. On 
+their audit protocol for them to be able to go through and answer 
+those questions you know kind of in real time. And you know just 
+save them time and energy and also as soon as you’re writing a piece 
+of paper and transferring it. […] The fact that the reports get auto -
+matically uploaded to [audit platform X] or [audit platform Y] or 
+whomever I think that’s also really helpful …” MS9
+4.2. Collaboration scope
+We found two principal modes of collaborations: micro-level collab -
+orations enable identifying modern slavery at a facility level, whilst 
+macro-level collaborations enable the same at a regional or national level. 
+In both domains, collaborations to secure resources and capabilities 
+emerge at these two levels. In the contracts-focused domain, collabo -
+rations emerge to enhance the efficiency of compliance mechanisms, 
+such as audits. In the conditions-focused domain, the focus was on 
+mobilizing communities to identify modern slavery (see Table 5 ). Cross 
+boundary collaboration is also possible, as we explore in Section 4.3 .
+Collaborations engaged in by each actor depends on the modern 
+slavery posture. For example, audits performed at individual facilities 
+could be used for multiple purposes – an activity typical for the 
+contracts-focused domain. This is a focus of so-called audit platforms – 
+data collection and exchange mechanisms, which are developed to 
+enable an exchange of insights gained through an audit at one facility to 
+inform further insights for various supply chain actors, who use the same 
+facility. If actors collaborate across the micro- and macro-levels, audit 
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+8 
+
+--- PAGE 9 ---
+results and other data can be shared to explicitly serve the interests of 
+multiple actors. This means that audit requirements can reflect the needs 
+of multiple actors; an integrated audit can therefore cover areas that 
+would normally require multiple audits, thus contributing to audit 
+optimization. The connection between the modern slavery posture, se -
+lection of a collaborator, and choice of monitoring technology is high -
+lighted by the following quote: 
+“So, where we’ve partnered with people, like [software platform], 
+….. They had a very similar mindset to us. We set up us originally 
+because we recognized that there were so many different platforms, 
+so many different certifications, everything like that. And then sup -
+pliers are just exhausted because they’re having to answer every -
+thing separately, I mean that’s a full-time job for a few people.” MS12
+The collaborations in the conditions-focused domain tend to involve 
+multiple actors who collaborate for a ‘greater good’. These collabora -
+tions, which underscore mutual dependencies in building capacity and 
+social capital in service of the larger goal of identifying modern slavery, 
+can also occur at both the micro- and macro-levels. At a micro-level, 
+these collaborations aim to interlink local and other actors. To provide 
+one example that was raised serveral times in our interviews, an NGO 
+may work with local communities to gain on-the-ground insights on the 
+labour conditions of workers. At a macro-level, the actors collaborate to 
+identify modern slavery in a particular location, but also work together 
+to collect insights across regions and identify hotspots of modern 
+slavery. If hotspots are identified in a particular area, the insights can be 
+used for local actors to follow-up and investigate. Importantly, these 
+insights are rarely developed by any one actor on their own, further 
+underscoring mutual dependencies. 
+“The technology has enabled not only to facilitate expedited opera -
+tion of the hotline, but also [to] connect the resources through these 
+different platforms of Salesforce and volunteers and do this heat 
+map, where the situation and geospatial location, etc., […] We 
+analyze all these different sorts of information that we’re gathering 
+from the interaction with survivors of trafficking to sort of identify 
+certain trends, when [the] same addresses and information about 
+trafficking comes [up] over and over so, then we can eventually 
+develop customized packages for law enforcement about information 
+about traffickers, never about victims because [of] confidentiality.” 
+MS11
+The collaborations across micro- and macro-levels enable exchange 
+of insights and data for mutual benefit. Technology can enable the ex -
+change of insights (such as data or results of analytics). Whilst the free 
+flow of data is essential for collaborations, the flow of data is often 
+difficult to achieve. To start with, standardization of data collection is 
+critical, and this will be based on the need to coordinate and collaborate 
+with many actors. Many respondents explained that the lack of data 
+format standards and standardized data collection processes hampered 
+effective data exchange between actors: 
+“So one of the kind of main criticisms of the social audit world is lack 
+of standardization in the questions that are being asked and the data 
+that’s being collected. […] It’s really, really hard then to kind of 
+amalgamate that data together and make comparisons if everybody’s 
+looking at different things at different times …” MS6
+In part, the exchange of data is influenced by a willingness of indi -
+vidual actors to collaborate. This willingness is often grounded in the 
+trust, or lack thereof, between potential collaborators. For example, 
+complicated agreements over who owns the data may prevent collabo -
+ration. An illustration is whether service providers of worker voice 
+technologies (WVT) own the collected data. Depending on any partic -
+ular agreement, they may collaborate on projects where they are in 
+control of the data or outsource their technology to actors who own (yet 
+not further share) the data.
+Other monitoring technological solutions may have fewer pro -
+prietary restrictions. For example, satellites are increasingly being used 
+to monitor large geographic areas (e.g., forests, shrimp farms, food 
+processing facilities). While not necessarily definitive, this type of data 
+can highlight potential risks requiring further investigation, mindful of 
+the cost of acquiring this data. The benefit of using it is that local actors 
+could be alerted to verify any concerns, as the following explains: 
+“We have a couple of projects where we’re looking at using satellite 
+imagery of monitoring forests. […] There’s some kind of the satellite 
+spots deforestation, a quick survey goes out to a group of, you know, 
+at local community members asking them, hey, what’s going on? Can 
+you find out? That kind of triangulation of data I think is kind of the 
+future of integrating these technologies together because if we’re all 
+collecting information in silos and not sharing, we’re not really 
+leveraging.” MS7
+Technology can also enable firms to push data collection deep into 
+their supply chains, including well beyond the first tier. This requires 
+technological interoperability, but it also requires trust throughout the 
+chain on how the data will be collected and used, particularly given the 
+sensitivities around an issue like modern slavery. Financial and infor -
+mational resources must thus be supported by trust, legitimacy, and an 
+understanding of local contexts. In cases where trust-building is at an 
+early stage, monitoring technology can enable anonymous reporting, 
+which could compromise identification of issues at the micro-level, but 
+might enable improved analytics at the macro-level – as illustrated by 
+the following quote: 
+“So it’s the lower tiers where most of the risk is because the funding 
+and the work isn’t getting down that far. But if I was a tier one 
+supplier and I don’t want to be cut out with the supply chain, how do 
+I share that information with my brands at all? I think that allowing 
+anonymous reporting is important so that you can at least find the 
+risks and then figure out where to go for those suppliers that are 
+particularly edgy about working with the suppliers to capacity 
+building […] But then letting the suppliers have hold of that data, 
+you know in our system if it’s multi tier. The tier one supplier gets to 
+crunch all of the data and run analytics on their suppliers, and it 
+trickles down the chain. They can look at what’s going on with the 
+Table 5 
+Collaborations for identifying modern slavery.
+Contracts-focused domain Conditions-focused domain
+Micro-level 
+collaborations
+Collaborations to enable 
+audits at facilities
+Collaborations to interlink 
+local communities and 
+workers
+PRIMARY FOCUS: To ensure 
+compliance against a standard
+PRIMARY FOCUS: To mobilize 
+(and give voice to) local 
+communities to assist in 
+revealing modern slavery
+USE OF TECHNOLOGIES: 
+Monitoring technologies 
+enable data collection for 
+auditing purposes (e.g., 
+sensors)
+USE OF TECHNOLOGIES: 
+Monitoring technologies 
+enable data collection from 
+underrepresented 
+communities (e.g., worker 
+voice technologies)
+Macro-level 
+collaborations
+Collaborations to enable 
+supply chain audits
+Collaborations to interlink 
+local communities across 
+regions and countries
+PRIMARY FOCUS: To ensure 
+efficiencies in supplier 
+auditing confirming the 
+absence of modern slavery
+PRIMARY FOCUS: To ensure 
+effectiveness of community 
+mobilization in sharing 
+insights across the region or 
+country to assist in 
+identification of modern 
+slavery
+USE OF TECHNOLOGIES: 
+Firms can enhance data 
+collection with data exchange 
+technologies (e.g., cloud- 
+based applications)
+USE OF TECHNOLOGIES: 
+Firms can use macro level data 
+and analytics for identifying 
+hot spots (e.g., satellites)
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+9 
+
+--- PAGE 10 ---
+people they’re working with and set corrective actions and help to 
+improve things. So, I think it’s more about having agency and 
+ownership of projects to enable suppliers to feel confident in 
+participating.” MS12
+Data collection is ultimately underpinned by trust and is only as 
+effective if it is transparent and empowers workers to safely share their 
+views. In the absence of such conditions, workers may not participate or 
+may provide biased feedback, thus undermining efforts to identify 
+modern slavery. 
+“If you’re collecting people’s data and you are collecting very sen -
+sitive information about the labour conditions, you’re asking them to 
+make complaints or you are recording grievances that they’ve raised, 
+if that information gets into the wrong hands, gets into the hands of 
+the very people that are abusing these people or you know, gets into 
+the wrong hands in any other way, that can then create a risk for that 
+person, and this is one of, this is one of the kind of big reasons why 
+some worker voice apps really struggled to, to take off because 
+workers are nervous to, to use them […] That risk may even be 
+further perpetuated if you’re talking about ethnic minorities, 
+migrant workers, or even kind of illegal migrants, who don’t want to 
+be identified …” MS6
+Without confidence their data is protected, workers may not report 
+on issues such as if they are regularly paid on-time, if they paid a 
+recruitment fee, or if they retain access to their personal identification 
+documents.
+4.3. Cross-boundary interactions
+Notwithstanding the distinctions between the domains, the con -
+tracts- and conditions-focused domains are neither disconnected nor 
+operate in isolation. The domains are co-existing, and both can 
+contribute to identifying modern slavery in supply chains over time. We 
+found several indications that collaborations emerge across these 
+seemingly separate domains, particularly when the collaborations 
+emphasize identifying modern slavery, rather than focusing on 
+achieving aims congruent with their domains (e.g., legitimization of 
+modern slavery initiatives through auditing and certification as 
+observed in the contracts-focused domain).
+We found evidence that cross-boundary interactions can leverage 
+domain-specific resources and provide unique opportunities for collab -
+orations for actors from each domain. For example, for firms a collab -
+oration with NGOs or other actors from the conditions-domain can lead 
+to increased effectiveness of audits – arguably leading to increased 
+legitimacy. Facility audits are good examples of such collaboration as 
+they can have serious limitations. In many cases, audits are limited to 
+the grounds or specific activities of a facility (typical in a contracts- 
+focused approach), but may benefit from exploring linkages to 
+external resources held by the broader community and seek insights 
+from multiple sources of data (typical in a conditions-focused approach). 
+Facility audits are usually announced well in advance, meaning a facility 
+manager can ‘set’ the scene. If the managers/owners purposefully 
+conceal evidence, it could be extremely difficult for an auditor to 
+identify modern slavery. For example: 
+“We found by very, very conservative estimates that a third of 
+migrant workers were enforced labour. Whereas we found that au -
+dits found that less than 1 % of workers were forced labour. I think 
+that the difference there is once audits are on site; they’re pre- 
+announced, there may be worker coaching.” MS26
+These are serious vulnerabilities, but the effectiveness of audits im -
+proves through collaboration with actors having expertise and resources 
+within the conditions-focused domain. Such actors (e.g., local NGOs or 
+communities) may not necessarily be aware of the specific compliance 
+mechanisms an auditor follows. However, they can provide broader 
+insights into the working conditions at a facility that can inform an 
+auditor about ‘hidden’ problems. Such collaborations provide access to 
+critical resources, such as ‘informal’ channels and first-hand data, that is 
+typically difficult to obtain. They also highlight the unique resources 
+different actors possess and the mutual dependencies in high veracity 
+audits.
+Boundary spanning activities can help an auditor to focus on matters 
+that are important, but not necessarily directly observable. However, 
+boundary spanning activities require a clear mandate and resources 
+from a firm or the auditing organization to enable auditors to engage in 
+them. We found that some firms engage in these activities, yet there are 
+still several conditions, such as the modern slavery posture of the firm 
+and the experience of the auditor. As one interviewee explained: 
+“Experienced auditors are typically OK. They will check the back -
+ground, we will get the information from the previous audit or what 
+is happening, a Google search in the area, see if there is any issue 
+with that particular facility, then he will go in. [An] inexperienced 
+auditor will jump into the facility [unprepared] and he will say that 
+‘everything is okay’.” MS18
+Cross-boundary interactions, however, must be supported by a 
+greater range of resources than activities confined to one domain alone. 
+For example, auditors conducting a boundary-spanning audit will 
+require a wider set of skills, knowledge, and experience to gather, 
+analyze, and interpret the broader types of evidence provided in each 
+domain. Gathering boundary-spanning evidence will, in turn, require 
+increased financing to support the broader scope of activities, access to 
+people in a wider range of contexts (e.g., facilities, communities), and 
+the legitimacy that enables such access. Finding auditors with the ability 
+to conduct boundary spanning audits can be challenging, however, and 
+points to the need for new forms of auditor training. As one expert 
+remarked: 
+“There are social compliance auditors out there and they’re trained 
+to look for social non-compliance. But a lot of the auditors who are 
+out there might have a technical background. […] They can see if 
+there’s live wires or slippery falls and things like that. That’s phys -
+ical; that’s tangible; but forced labour indicators are non-tangible. 
+They find it incredibly hard to detect and the interview techniques 
+that you need to use to detect these things when you go out and 
+actually speak with management and workers are so different from 
+what they’re used to. […] Building capacity [is] a really long and 
+slow process and incredibly frustrating.” MS25
+We also found examples of firms operating in both domains. For 
+example, a large seafood firm engaged in a contracts-focused approach 
+through social compliance auditing, but also hired local NGOs to 
+investigate labour hiring practices and observe the well-being of 
+workers (especially migrant workers), indicating a conditions-focused 
+approach. Sharing the results from one approach potentially benefits 
+the other. Other actors, such as NGOs, can operate in either domain, but 
+can also explicitly focus on facilitating knowledge transfer from one 
+domain to another.
+Collaborating across boundaries also has ramifications for how ac -
+tors leverage monitoring technologies to improve the likelihood of 
+identifying modern slavery. Here, data analytics provides great promise 
+in identifying modern slavery, though its use in that context remains in 
+the early stages. For data analytics to work well, however, it depends on 
+the data collection and data exchange and their integration into the data 
+analytics process. Data analytics is not only about crunching data; it is 
+about using and exchanging the results between actors to facilitate the 
+flow of information. This underscores the importance of aligning ac -
+tivities across collaborators and domains. As one respondent asserted: 
+“Technology has a role to play, but for us is more like how you 
+implement flows of information with workers and about the workers 
+both ways. So then, it’s about transparency […] but you first need to 
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+10 
+
+--- PAGE 11 ---
+create that environment where flows of information come and go for 
+them all the time.” MS11
+As part of this process with clear mutual dependencies, boundary 
+spanning activities play an important role. For example, in the context of 
+WVT, collecting the data outside of the workplace, such as with the help 
+of a trusted local NGO, illustrates how collaboration among diverse 
+actors can improve the likelihood of identifying modern slavery. 
+Building a database can then provide a basis for a data analytics program 
+to indicate potential hotspots. As one respondent explained, 
+“[A platform] doesn’t give you a definitive “this person is in modern 
+slavery” but rather it presents you with, okay, these are the various 
+risk factors here. […] This person doesn’t have access to their ID 
+documents. They weren’t paid on time last month. They did pay a 
+recruitment fee to get this job and then you’re able to build up a bit of 
+a picture and you as an auditor or a frontline responder can say, hey, 
+I think there might be a modern slavery situation here.” MS6
+The analytics are only as good as the input data, and collaboration is 
+therefore a key enabler of data analytics. Actors collaborate to secure 
+access to valuable resources, whether they are technological or admin -
+istrative, to identify modern slavery. Critically, as the evidence 
+demonstrated, these resources can be held by different actors from both 
+domains. Technology providers, for example, may either hold or can 
+facilitate access to key worker response data. However, it may only be 
+possible to collect this data by drawing on the resources of other critical 
+actors, such as contextually embedded NGOs holding local knowledge, 
+access, and trust. Data collection, data exchange, and data analytics are 
+therefore all grounded in mutual dependencies requiring good-faith 
+collaborations focused on aligning key activities.
+4.4. Contextual embeddedness
+Context is also important for identifying modern slavery as different 
+approaches will be more applicable in different situations. One partici -
+pant went so far as to suggest that identifying modern slavery in practice 
+means “you’re trying to figure it out on a case by case basis” (MS27), 
+while another noted that you must put what you know “within the 
+context of that universe” (MS23). Recognizing the context is critical and 
+a failure to do so hampers the ability to identify modern slavery. For 
+example, an often-cited example focused on auditor skills as one 
+participant explained: 
+"It’s been quite interesting to see the difference in approach and 
+sometimes the auditors are lacking that nuance and really kind of the 
+reality of context on the ground to put some of the information to 
+analyze it against that." MS7
+Resource access is one of the keys to tailoring approaches to identify 
+modern slavery to the specific context of any one supply chain. Resource 
+access is often underpinned through collaborations. For example, one 
+key resource is physical access to local environments. Physical access 
+must also be supported by the resources needed to identify modern 
+slavery once on-site, such as language skills, perceptions of legitimacy, 
+and technology. As our collected evidence made clear, understanding 
+the context (in a facility or, more broadly, in a geographical location) 
+assists collaborating actors in developing their strategies for identifying 
+modern slavery. The following quote illustrates the importance of con -
+textually embedded NGOs in providing access to resources required in 
+many contexts, such as local translators and, more importantly, local 
+networks and worker trust: 
+“You know what we draw NGOs for? We draw on them for an advice 
+that is localized in the different regions we work and who to align 
+with if we have a case to remediate or there is a victim. So really 
+leaned on people who have some expertise on the ground where we 
+source from through our supply chain, who understand the real is -
+sues in our supply chain.” MS15
+Building on the point above, the need to understand the cultural and 
+linguistic context of the workers was repeatedly emphasized. Collabo -
+rations are critical in providing an understanding of the needed context. 
+One expert explained the potential roles of NGOs in doing so: 
+“One is that for solving a problem you need to understand the 
+problem, so if you need to create a works and providing the infor -
+mation doing research on understanding the context, so what is not 
+working, why is not working is the first step so certainly NGOs could 
+play a pivotal role on that providing background context and per -
+spectives.” MS14
+Understanding the broader community context in which modern 
+slavery occurs is also essential. Auditors can reach out to local com -
+munities (i.e., not only the workers themselves) with the help of local 
+NGOs. This can be for the purpose of connecting with the broader 
+community, but also for providing an additional layer of safety for the 
+auditor. Improved safety, for example, could potentially be enabled 
+through wearable technologies, such as having an on-the-ground com -
+munity actor monitoring the location of the auditor while they were on- 
+site. One participant explained the importance of connecting to the 
+broader community: 
+“I think, which has also been innovative, is really attempting to the 
+extent possible to interview workers in their communities rather 
+than at their workplaces or in areas outside of their workplaces. So 
+you know, on Sundays workers that work six days a week, they might 
+go to the market for a couple of hours, so we are able to interview 
+them there, sort of offsite at worker housing.” MS26
+Contextual embeddedness also means matching the monitoring 
+technologies with the environment. Sophisticated technologies are not 
+necessarily needed; basic technologies (such as mobile phones, cameras, 
+or hotlines) can also be effective and appropriate in different situations. 
+Technological solutions often need to be agile and suitable for the low- 
+technology environments in which modern slavery often flourishes. 
+Moreover, sophisticated and basic monitoring technologies can be used 
+together to increase the likelihood of identifying modern slavery. This is 
+illustrated in the following quote: 
+“So, in certain factories, workers have high levels of literacy and 
+access to smartphones, an app-based, text-based grievance mecha -
+nism might work great […] In the coffee sector with funding from 
+[redacted] on a needs assessment [we] found that the vast majority 
+of workers didn’t have a smartphone, didn’t have Internet access, 
+very low levels of the literacy, [and were] non-Spanish speakers. In 
+that case, we actually determined that the lowest tech solution was 
+the most appropriate that workers prefer. We also asked about their 
+preferences, they preferred face to face interaction. Telephone calls 
+also played apart and community radio and announcements, for 
+example, but realizing that context, a high tech solution really wasn’t 
+going to be appropriate to workers needs and technology access.” 
+MS26
+Any approach to identifying modern slavery must be mindful of the 
+potential adverse effects in different contexts. One risk in some envi -
+ronments is that there can be a dark side to technology. For example, 
+some interviewees noted that the technology might be used to exert 
+control over workers. There are also many challenges in implementing 
+technologies in practice, such as ensuring poor data are not codified, 
+interoperability, data security, and the high cost of mobile data, to name 
+just a few of the illustrations provided by respondents. These challenges 
+can vary between supply chains, so it is important to be mindful of 
+unique situational contingencies. Yet, all of the experts also agreed that 
+monitoring technologies can play an important role in the process of 
+identifying modern slavery if it is leveraged through collaborations be -
+tween key actors in the system.
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+11 
+
+--- PAGE 12 ---
+5. Discussion
+Our study provides several contributions, including further evidence 
+on the existence of the contracts- and conditions-focused domains, as 
+well as extending understanding of those domains with evidence of 
+micro- and macro-levels of collaborations and boundary spanning col -
+laborations. Importantly, our study also identified four key contin -
+gencies facilitating or inhibiting the identification of modern slavery by 
+leveraging monitoring technologies through collaborations. In this sec -
+tion, we discuss a conceptual framework grounded in our analysis and 
+discuss the contribution of our work to the literature.
+5.1. Conceptual framework
+Our findings provide the foundation for developing a conceptual 
+framework for leveraging technology through collaboration to identify 
+modern slavery ( Fig. 1 ). Our framework explains how multi-actor col -
+laborations can leverage monitoring technologies to identify modern 
+slavery – facilitated (or inhibited) by four key contingencies (i.e., 
+modern slavery posture, collaboration scope, cross-boundary in -
+teractions, and contextual embeddedness).
+As shown in Fig. 1 , the framework recognizes the contracts-focused 
+and conditions-focused domains. In the contracts-focused domain, 
+multiple actors develop collaborations and exchange resources to 
+further their strategic goal of confirming the absence of modern slavery. 
+The collaborations and resources required to confirm the absence of 
+modern slavery are based in the modern slavery posture of the actors. 
+The collaboration scope can, therefore, vary from one supply chain to 
+another, potentially addressing collaborations at the micro- and macro- 
+levels. Grounded in RDT, these collaborations will be focused on 
+ensuring the necessary resources are available to confirm the absence of 
+modern slavery. In other words, the actors seek collaborations that 
+address resource needs congruent with their strategic goals. As actors ’ 
+motivation to identify modern slavery increases, collaborations have the 
+potential to broaden in scope at the micro- and macro-levels to ensure 
+that the needed resources are available to address those needs. This 
+exchange of resources includes technological solutions, such as worker 
+voice technologies, hotlines, or exchange of data through auditing 
+platforms. The contracts-focused domain, therefore, demonstrates the 
+linkage between modern slavery posture, collaboration scope, and effi -
+ciently leveraging monitoring technologies through collaboration to 
+confirm the absence of modern slavery in a supply chain.
+The conditions-focused domain has the strategic goal of confirming 
+the presence (where it exists) of modern slavery. This domain also 
+originates from modern slavery posture, which is grounded in an actor ’ s 
+purposeful decision to explicitly identify modern slavery. Recognizing 
+modern slavery posture as a starting point for both domains underscores 
+the potential for cross-boundary interactions. The framework, therefore, 
+recognizes that the contracts- and conditions-focused domains are co- 
+existing and can both contribute to identifying modern slavery. The 
+framework also recognizes that collaborations can bring mutually 
+dependent resources (such as trusted local informants) to bear through 
+both domains, as well as across the micro- and macro-levels. Moreover, 
+the conditions-focused domain requires that cross-boundary collabora -
+tion is tailored to the unique supply chain context. Identifying the 
+presence of modern slavery, particularly in cases where it is concealed, 
+requires an approach specifically applicable to the context of the unique 
+circumstances of that supply chain. These tailored approaches can 
+include monitoring technologies leveraged through multi-actor collab -
+oration. Starting from modern slavery posture, this domain therefore 
+demonstrates the linkage between cross-boundary interactions, 
+contextual embeddedness and effectively leveraging monitoring tech -
+nologies through collaboration to confirm the presence of modern 
+slavery (where it exists) in supply chains.
+5.2. Contributions to the literature and theory
+Our study supports the literature showing that collaborations are 
+driven by a pursuit of strategic goals through recognizing and devel -
+oping mutual dependencies (e.g., Berkowitz et al., 2020 ; Kretschmer 
+et al., 2022 ). In the modern slavery literature, this pursuit is commen -
+surate with identifying modern slavery in the contracts-focused and 
+conditions-focused domains ( Simpson et al., 2021 ), with the former 
+associated with confirming the absence of modern slavery, and the latter 
+associated with confirming the presence of modern slavery. Our study 
+also shows that RDT is a valuable outcomes focused approach (see Oli -
+veira et al., 2022 ), which helps to explain the advantage provided by 
+collaboration among different key actors to identify modern slavery. 
+Technology adoption in collaborations is also influenced by the strategic 
+goals of collaborating actors. Consequently, collaborations based around 
+technologies can advance positive outcomes, such as increased veracity 
+and timeliness of monitoring activities in supply chains ( Castka et al., 
+2020 ; Reid and Castka, 2023 ), but also potentially lead to concealment 
+and legitimization of illegal or unethical activities, such as increased 
+control over the workforce ( Mol, 2010 ). While previous studies have 
+alluded to some aspects of collaboration in the context of modern 
+slavery ( Gold et al., 2015 ) or investigated the adoption of technological 
+solutions in this context ( Marques et al., 2024 ), this research widens our 
+understanding about strategic actions of actors through collaborations, 
+with a specific focus on monitoring technologies (see Table 6 ).
+At a more nuanced level, we expand the literature by demonstrating 
+how four key contingencies (i.e., modern slavery posture, collaboration 
+scope, cross-boundary interactions, and contextual embeddedness) 
+facilitate (or inhibit) leveraging monitoring technologies embedded in 
+collaborations. First, our evidence reveals that the posture taken by 
+different actors will shape why collaborations occur and the type of 
+Fig. 1. Conceptual framework for leveraging monitoring technology through collaboration to identify modern slavery.
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+12 
+
+--- PAGE 13 ---
+technologies most likely to be adopted. The desire to either show the 
+absence (contracts-focused domain) or presence (conditions-focused 
+domain) of modern slavery in supply chains is an important contingency 
+in the nature of multi-actor collaborations. Specifically, our study shows 
+that different actors will engage in collaborations for the purpose of 
+acquiring different valued or needed resources to satisfy either domain. 
+In turn, this will influence actors’ assessment, and subsequent use, of 
+different monitoring technologies.
+Second, there are implications for the scope of collaborations and 
+whether this occurs at the micro- or macro-level. While both are 
+important, the former focuses on the facility level with the latter 
+addressing the regional and/or national levels. As monitoring technol -
+ogies are resource intensive (i.e., satellite imagery and its analytics is not 
+a core competence of many actors) and not central to many firms’ raison 
+d’etre (i.e., monitoring of working conditions is not a primary focus of 
+labour intensive supply chains unlike, for instance, quality management 
+and focus on efficiency of supply chain operations), actors seek collab -
+orations to gain benefits from technologically driven solutions across 
+both levels. While the pursuit of increased collaboration scope is often 
+driven by the intrinsic motivation of different actors, it is notable that 
+actors holding unique competencies at the micro- and/or macro-level 
+play increasingly important roles in identifying modern slavery. Argu -
+ably, the extended scope of collaborations is driven by competencies 
+that are enhanced by technologies. It may be argued that prior to the 
+digitalization of processes in supply chain audits and the more ascendant 
+role played by big data and AI analytics, there was comparatively less 
+reason to develop such collaborations.
+Further, our research supports earlier studies ( Fawcett et al., 2008 ; 
+Sodhi et al., 2022 ; Marques et al., 2024 ) arguing that social capital, such 
+as trust and willingness to collaborate, are essential to applying tech -
+nologies in a supply chain context, in our case to identify modern 
+slavery. However, we also demonstrate that actors develop social capital 
+to advance their organization centric benefits (contracts-focused 
+domain), but also for a ‘greater good’ (conditions-focused domain). Our 
+theoretical contribution here is to show that RDT can be usefully 
+adopted to focus on other motivations of actors besides financial per -
+formance (or firm survival). Such mutual dependencies can also help 
+fulfil societal norms and expectations around the identification of 
+modern slavery in global supply chains. We contend that RDT is a useful 
+line of inquiry in modern slavery and supply chain research; it offers 
+scholars a different explanatory framework in addition to theory more 
+commonly used such as institutional theory and global value chain 
+theory ( Strand et al., 2024 , p. 6).
+Third, as actors explore more ambitious goals through developing 
+cross-boundary interactions (such as data exchange and its multipurpose 
+utilization), long term relationships, along with trust and enhanced ca -
+pabilities, become a more central focus in collaborations. Such de -
+velopments can further leverage the potential of technologies for data 
+collection, exchange, and analytics. Our argument, and consistent with 
+RDT, is that engagement with each of these features (i.e., data collection, 
+exchange, and analytics) will depend on what purposes they individu -
+ally and collectively serve in meeting different actors’ resource needs.
+Fourth, the need to acquire and manage important resource de -
+pendencies also enables collaborations of actors from contrasting do -
+mains, as well as facilitates contextual embeddedness. The extant 
+literature often identifies contrasting domains, such as symbolic versus 
+substantial domains mentioned earlier ( Prajogo et al., 2021 ), but rarely 
+theorizes how the contrasting domains interact. We demonstrate that 
+resource dependencies allow for collaborations across domains but must 
+remain mindful of different settings. This argument urges some caution 
+in assuming that the identification of modern slavery through moni -
+toring technology in multi-actor collaborations will be the same across 
+different contexts. The success or otherwise will depend on aligning 
+suitable monitoring technologies to the specific environment, the needs 
+of different actors including their modern slavery posture, as well as the 
+scope of the collaboration.
+Table 6 
+Summary of findings.
+Contingencies
+Modern slavery posture Collaboration Scope Cross Boundary Interactions Contextual Embeddedness
+Use of 
+technologies
+Selected technologies reflect the modern slavery posture (i.e., technologies 
+in the contracts-focused domain are intended to confirm the absence of 
+modern slavery, while technologies in the conditions-focused domain are 
+intended to identify it).
+Increased scope of collaboration broadens the use of 
+technologies – characterized by a shift from predominant 
+use of technologies for data collection to data exchange and 
+analysis
+Cross boundary interactions can 
+facilitate a shift in the use of 
+technologies to serve different ends
+Contextual embeddedness facilitates 
+the veracity in the use of technologies, 
+primarily for data collection
+Resource 
+dependencies
+Securing needed resources to establish and/or maintain capabilities 
+aligned within the modern slavery posture
+Securing needed resources to develop capabilities within 
+the modern slavery posture
+Securing needed resources to 
+repurpose the modern slavery 
+posture
+Securing needed resources to deepen 
+capabilities
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+13 
+
+--- PAGE 14 ---
+Previous studies have demonstrated that actors tend to focus on 
+developing collaborations that assist them in advancing their strategic 
+goals ( Shiu et al., 2023 ); for example by developing dyadic relationships 
+with individual actors such as certifiers ( Castka et al., 2015 ). Organi -
+zations operating in such institutional environments thus primarily seek 
+to maintain their autonomy ( Drees and Heugens, 2013 ). In the context of 
+modern slavery, the autonomy is, in part, preserved by membership in a 
+particular institutional domain (i.e., contracts-focused domain). Our 
+study has extended understanding of the contracts-focused and 
+conditions-focused domains (i.e. Simpson et al., 2021 ), establishing the 
+conditions under which actors are more likely to leverage monitoring 
+technologies and develop mutual dependencies commensurate with 
+relevant strategic goals. We also identified micro- and macro-levels of 
+collaboration as well as collaborations within and between the domains 
+(see Table 5 ).
+The common perspective of RDT is to focus on the performance of the 
+dependent (focal) organization, as earlier reviews and meta-analyses 
+have widely observed ( Drees and Heugens, 2013 ; Hillman et al., 2009 ; 
+Ozturk, 2021 ). Our study of collaboration and technology extends the 
+focus of RDT to a multi-actor context, while providing theoretical con -
+tributions to the mutual dependence perspective of RDT. RDT’s mutual 
+dependence perspective has often been used in contexts where “firm 
+autonomy (fear of dependency) is no longer the key goal of firms in 
+acquiring external resources” ( Shiu et al., 2023 ). Meta-organizations or 
+other forms of decentralized multi-actor networks tend to focus on 
+persuasion to commit others to exchange resources rather than using 
+power ( Shiu et al., 2023 ). Few actors alone are unlikely to possess all of 
+the resources needed to identify modern slavery, demonstrating the 
+need to acquire important resources held by others ( Pfeffer and Salancik, 
+1978 ).
+5.3. Practical implications
+This study provides implications for a range of actor groups such as 
+managers at firms, as well as for auditors, other service providers (i.e., 
+organizations providing audit platforms), NGOs, and policymakers. For 
+example, managers should seek applications of context-appropriate 
+technology to identify modern slavery throughout their supply chains, 
+noting that success will be contingent on obtaining resources held by a 
+wide range of actors. This will require creating connections and transi -
+tions across the micro- and macro-levels of collaboration. Moreover, 
+collaborations supporting (and supported by) technology could help 
+reduce the ‘psychological distance’ of modern slavery. For example, 
+psychological distance can be reduced with access to timely, high ve -
+racity information that “help bring events of persons perceptually 
+‘closer’ to a decision-maker” ( Simpson et al., 2021 ). Worker voice 
+technologies, for instance, can enable real-time data on labor conditions 
+that help bring the experiences of workers that are typically far removed 
+spatially and socially from managers, policymakers, or customers.
+Beyond managers, there are many related implications for auditors 
+and other service providers. While using monitoring technology is not 
+about replacing human auditors, there are many ways it can impact how 
+auditors perform their jobs. Auditor training, for example, must reflect 
+the greater range of potential sources of evidence provided through 
+technological applications ( Castka and Searcy, 2023 ). Moreover, the 
+boundary spanning activities across the conditions- and 
+contracts-focused domains enabled by collaboration, technology, and 
+other resources could provide a key differentiator in the services offered 
+by different auditors ( Cossio and McNeill, 2021 ).
+There are also several related implications for other actors, including 
+governments and NGOs. Governments, for example, should continue to 
+enact legislation focused on modern slavery in supply chains, while 
+being mindful that legislation alone will not identify it. Governments 
+can take additional action, such as establishing trusted hotlines and 
+supporting technological investments (such as through tax incentives) 
+intended to identify modern slavery. Different NGOs will clearly have 
+different areas of focus and hold different resources, but examples could 
+include focusing on enabling local access to communities, standardizing 
+data collection protocols, providing trusted platforms for data exchange, 
+and developing hotspot identification capabilities. Critically, all actors 
+must recognize the challenges of identifying modern slavery working on 
+their own, and that this goal is best achieved by explicitly recognizing 
+mutual dependencies and actively working with others to build 
+collaborations.
+5.4. Limitations and future research
+Building on RDT, this research illuminated the interdependencies 
+between actors and resources through original empirical evidence 
+gathered in a modern slavery context. However, our study also had 
+limitations, which provides insight into several potential areas for future 
+research.
+Our study used experts from multiple settings and the results should 
+be seen as an aggregated framework of the shared experiences of these 
+actors. Our results thus describe the circumstances under which multi- 
+actor collaborations typically leverage monitoring technologies to ach -
+ieve their strategic goals. The conceptual framework is explicitly pre -
+sented as a building block for future work. Additionally, we did not 
+attempt to identify any ‘weight’ that should be allocated against each of 
+the four key contingencies we identified. Further research on the relative 
+importance of different contingencies in different contexts (e.g., in terms 
+of sector/region/types of supply chains/types of technologies) would be 
+valuable. Locational differences, for example, are an important dimen -
+sion that shape resource dependencies in unique ways including, for 
+example, rates of corruption, historical or political ties, and the level of 
+trade dependence between countries ( Jiang, H. et al., 2023 ). This means 
+some variance in both the nature and effectiveness of collaboration 
+across modern slavery contexts is likely given different country-specific 
+dependencies. Research that explores such nuances will further our 
+understanding of this important area.
+Our study focused on identifying modern slavery. This, however, is 
+only the start of efforts to address modern slavery in supply chains. 
+Future research should focus on how modern slavery can be reduced and 
+eliminated following its identification. The role of collaboration in 
+facilitating the remediation of modern slavery is underexplored. While 
+eliminating modern slavery in practice will likely require many key 
+actors working together ( McLaren et al., 2024 ), further underlining the 
+applicability of RDT’s mutual dependency perspective, it is also likely to 
+require a strong understanding of power imbalance in the supply chain. 
+Our study did not address the power imbalance perspective of RDT, but 
+it could be an additional approach for considering actions to eliminate 
+modern slavery. In particular, future studies can explore the circum -
+stances under which actors are coerced into particular domain mem -
+bership and whether such coercive mechanisms would change the 
+dynamics of multi-actor collaboration, i.e., in general or specifically in 
+terms of the choice of technologies adopted.
+Finally, case studies on real-world applications of monitoring tech -
+nologies in a modern slavery context are needed. This could include on- 
+the-ground investigations of the benefits and challenges of using tech -
+nology in different modern slavery settings. This would also provide 
+further opportunity to study the contingencies in leveraging monitoring 
+technologies through multi-actor collaboration, as well as an opportu -
+nity to study how collaborations evolve over time.
+6. Conclusion
+One of the reasons modern slavery persists is that it can be very 
+difficult to identify in practice. Modern slavery is often embedded deep 
+in supply chains far from public scrutiny. This creates a “psychological 
+distance” between consumers, people experiencing modern slavery, and 
+supply chain managers. Given its illegality in most jurisdictions, the 
+prevalence of modern slavery in global supply chains is often actively 
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+14 
+
+--- PAGE 15 ---
+concealed. Even in cases where modern slavery is actively sought-out, it 
+can be difficult to recognize. Technology is increasingly being used in 
+supply chain management, and research on the use of technology in a 
+modern slavery context is rapidly expanding (i.e., Kougkoulos et al., 
+2021 ; Christ and Helliar, 2021 ; Marques et al., 2024 ).
+This study explored how multi-actor collaborations can leverage 
+monitoring technologies to identify modern slavery in global supply 
+chains. Modern slavery posture, collaboration scope, cross-boundary 
+interactions, and contextual embeddedness individually or combined, 
+can leverage (or inhibit) the likelihood of identifying modern slavery. 
+These contingencies, which explicitly address our research question, 
+represent four key contingencies in leveraging monitoring technologies 
+through multi-actor collaboration, though their salience and impact can 
+vary between supply chains. As demonstrated in an original conceptual 
+framework, these themes are interconnected and can leverage moni -
+toring technology through multi-actor collaborations to identify modern 
+slavery through the contracts-focused and conditions-focused domains. 
+While technology is not a panacea, we conclude that it can help identify 
+modern slavery if it is supported by collaboration between employers, 
+certification and auditing bodies, NGOs, and other vested intermediaries 
+holding the financing, access, skills, and legitimacy to successfully apply 
+it.
+CRediT authorship contribution statement
+Cory Searcy: Writing – review & editing, Writing – original draft, 
+Methodology, Investigation, Formal analysis, Data curation, Conceptu -
+alization. Pavel Castka: Writing – review & editing, Writing – original 
+draft, Methodology, Investigation, Formal analysis, Data curation, 
+Conceptualization. Grant Michelson: Writing – review & editing, 
+Writing – original draft, Methodology, Investigation, Formal analysis, 
+Data curation, Conceptualization. Xiaoli Zhao: Writing – review & 
+editing, Project administration, Investigation, Formal analysis, Data 
+curation.
+Declaration of competing interest
+None.
+Acknowledgement
+The authors would like to thank Miriam Wilhelm for her comments 
+on an earlier version of the paper.
+Data availability
+The data that has been used is confidential.
+References
+Bales, K., 2012. Disposable People: New Slavery in the Global Economy. University of 
+California Press .
+Barratt, M., 2004. Understanding the meaning of collaboration in the supply chain. 
+Supply Chain Manag.: Int. J. 9, 30–42 .
+Benstead, A.V., Hendry, L.C., Stevenson, M., 2018. Horizontal collaboration in response 
+to modern slavery legislation: an action research project. Int. J. Oper. Prod. Manag. 
+38, 2286–2312 .
+Benstead, A.V., Hendry, L.C., Stevenson, M., 2021. Detecting and remediating modern 
+slavery in supply chains: a targeted audit approach. Prod. Plann. Control 32, 
+1136–1157 .
+Berg, L., Farbenblum, B., Kintominas, A., 2020. Addressing exploitation in supply chains: 
+is technology a game changer for worker voice? Anti-Traffick. Rev. 14, 47–66 .
+Berkowitz, H., Crowder, L.B., Brooks, C.M., 2020. Organizational perspectives on 
+sustainable ocean governance: a multi-stakeholder, meta-organization model of 
+collective action. Mar. Pol. 118, 104026 .
+Caputo, M., Mininno, V., 1996. Internal, vertical and horizontal logistics integration in 
+Italian grocery distribution. Int. J. Phys. Distrib. Logist. Manag. 26, 64–90 .
+Caruana, R., Crane, A., Gold, S., LeBaron, G., 2020. Modern slavery in business: the sad 
+and sorry state of a non-field. Bus. Soc. 60, 251–287 .
+Casciaro, T., Piskorski, M.J., 2005. Power imbalance, mutual dependence, and constraint 
+absorption: a closer look at resource dependence theory. Adm. Sci. Q. 50, 167–199 .
+Castka, P., Prajogo, D., Young, A.C.L., Sohal, A., 2015. Understanding firms’ selection of 
+their ISO 9000 third-party certifiers. Int. J. Prod. Econ. 162, 125–133 .
+Castka, P., Searcy, C., 2023. Audits and COVID-19: a paradigm shift in the making. Bus. 
+Horiz. 66, 5–11 .
+Castka, P., Searcy, C., Mohr, J., 2020. Technology-enhanced auditing: improving veracity 
+and timeliness in social and environmental audits of supply chains. J. Clean. Prod. 
+258, 120773 .
+Christ, K.L., Helliar, C., 2021. Blockchain technology and modern slavery: reducing 
+deceptive recruitment in migrant worker populations. J. Bus. Res. 131, 112–120 .
+Cossio, M., McNeill, W., 2021. Market guide for supplier sustainability applications. 
+Gartner Res.
+Cousins, P., Dutordoir, M., Lawson, B., Neto, J.Q., Shareholder wealth effects of modern 
+slavery regulation. Manag. Sci. 66, 5265-5289. .
+Crane, A., 2013. Modern slavery as a management practice: exploring the conditions and 
+capabilities for human exploitation. Acad. Manag. Rev. 38, 49–69 .
+Crane, A., LeBaron, G., Phung, K., Behbahani, L., Allain, J., 2022. Confronting the 
+business models of modern slavery. J. Manag. Inq. 31, 264–285 .
+Drees, J.M., Heugens, P.P., 2013. Synthesizing and extending resource dependence 
+theory: a meta-analysis. J. Manag. 39, 1666–1698 .
+Emberson, C., Pinheiro, S.M., Trautrims, A., 2022. Adaptations to first-tier suppliers’ 
+relational anti-slavery capabilities. Supply Chain Manag.: Int. J. 27, 575–593 .
+Fawcett, S.E., Magnan, G.M., McCarter, M.W., 2008. Benefits, barriers, and bridges to 
+effective supply chain management. Supply Chain Manag.: Int. J. 13, 35–48 .
+Fransen, L., LeBaron, G., 2019. Big audit firms as regulatory intermediaries in 
+transnational labor governance. Regulat. Govern. 13 (2), 260–279 .
+Geng, R., Mansouri, S.A., Aktas, E., 2017. The relationship between green supply chain 
+management and performance: a meta-analysis of empirical evidences in Asian 
+emerging economies. Int. J. Prod. Econ. 183, 245–258 .
+Gold, S., Trautrims, A., Trodd, Z., 2015. Modern slavery challenges to supply chain 
+management. Supply Chain Manag.: Int. J. 20, 485–494 .
+Gulati, R., Sytch, M., 2007. Dependence asymmetry and joint dependence in 
+interorganizational relationships: effects of embeddedness on a manufacturer’s 
+performance in procurement relationships. Adm. Sci. Q. 52, 32–69 .
+Gutierrez-Huerter, O.G., Gold, S., Trautrims, A., 2023. Change in rhetoric but not in 
+action? Framing of the ethical issue of modern slavery in a UK sector at high risk of 
+labor exploitation. J. Bus. Ethics 182, 35–58 .
+Hayes, R., Pisano, G., Upton, D., Wheelwright, S., 2005. Operations, strategy, and 
+technology. Pursuing the Competitive Edge. Wiley, NJ . 
+Herding, W., Fischer, S., 2015. Smart data: an exploration of technology innovations for 
+sustainability standards systems. ISEAL Alliance. London . 
+Hillman, A.J., Withers, M.C., Collins, B.J., 2009. Resource dependence theory: a review. 
+J. Manag. 35, 1404–1427 .
+Huxham, C., Vangen, S., 2000. Leadership in the shaping and implementation of 
+collaboration agendas: how things happen in a (not quite) joined-up world. Acad. 
+Manag. J. 43 (6), 1159–1175 .
+ILO, 2022. Global Estimates of Modern Slavery: Forced Labour and Forced Marriage. 
+International Labour Organization, Geneva . 
+Islam, M.A., Van Staden, C.J., 2022. Modern slavery disclosure regulation and global 
+supply chains: insights from stakeholder narratives on the UK modern slavery act. 
+J. Bus. Ethics 180, 455–479 .
+Jiang, H., Luo, Y., Xia, J., Hitt, M., Shen, J., 2023. Resource dependence theory in 
+international business: progress and prospects. Glob. Strateg. J. 13, 3–57 .
+Jiang, M., Chen, L., Blome, C., Jia, F., 2023. Digital technology adoption for modern 
+slavery risk mitigation in supply chains: an institutional perspective. Technol. 
+Forecast. Soc. Change 192, 122595 .
+Kach, A.P., Bhakoo, V., McGaughey, F., Boersma, M., Nolan, J., Marshall Lichtman, S., 
+2025. Humanizing supply chains: turning the spotlight towards remediation in 
+modern slavery scholarship. J. Purch. Supply Manag. 31 (1), 100991 .
+Kougkoulos, I., Cakir, M.S., Kunz, N., Boyd, D.S., Trautrims, A., Hatzinikolaou, K., 
+Gold, S., 2021. A multi-method approach to prioritize locations of labor exploitation 
+for ground-based interventions. Prod. Oper. Manag. 30 (12), 4396–4411 .
+Kraft, T., Zheng, Y., 2021. How supply chain transparency boosts business value. MIT 
+Sloan Manag. Rev. 63, 34–40 .
+Kretschmer, T., Leiponen, A., Schilling, M., Vasudeva, G., 2022. Platform ecosystems as 
+meta-organizations: implications for platform strategies. Strateg. Manag. J. 43, 
+405–424 .
+Land, M.K., Barry, J., 2021. Technology and economic and social rights. Oxford 
+Handbook of Economic and Social Rights. Oxford University Press, UK . 
+LeBaron, G., 2021. The role of supply chains in the global business of forced labour. 
+J. Supply Chain Manag. 57, 29–42 .
+Locke, R.M., 2013. The Promise and Limits of Private Power: Promoting Labor Standards 
+in a Global Economy. Cambridge University Press, UK . 
+Marques, L., Morais, D., Terra, A., 2024. More than meets the eye: misconduct and 
+decoupling against blockchain for supply chain transparency. Prod. Oper. Manag. 34 
+(5), 1057–1075 .
+McLaren, E., Salampasis, D., Busulwa, R., Baldegger, R.J., Wild, P., 2024. Key 
+stakeholders and their roles in modern slavery monitoring, detection and disclosure: 
+a systematic literature review. Sustain. Account. Manag. Policy J. 15, 1310–1337 .
+McGrath, P., McCarthy, L., Marshall, D., Rehme, J., 2021. Tools and technologies of 
+transparency in sustainable global supply chains. Calif. Manag. Rev. 64, 67–89 .
+Meehan, J., Pinnington, B.D., 2021. Modern slavery in supply chains: insights through 
+strategic ambiguity. Int. J. Oper. Prod. Manag. 41, 77–101 .
+Meyer, J.W., Rowan, B., 1977. Institutionalized organizations: formal structure as myth 
+and ceremony. Am. J. Sociol. 83, 340–363 .
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+15 
+
+--- PAGE 16 ---
+Michelson, G., Wray-Bliss, E., 2024. Overcoming evil with good: the role of NGOs in 
+combating modern slavery. In: Krambia Kapardis, M., Clark, C., Warria, A., Dion, M. 
+(Eds.), The Palgrave Handbook on Modern Slavery, pp. 663 – 677 .
+Mol, A.P., 2010. The future of transparency: power, pitfalls and promises. Glob. Environ. 
+Polit. 10, 132 – 143 .
+Mosch, P., Schweikl, S., Obermaier, R., 2021. Trapped in the supply chain? Digital 
+servitization strategies and power relations in the case of an industrial technology 
+supplier. Int. J. Prod. Econ. 236, 108141 .
+Moussa, T., Allam, A., Elmarzouky, M., 2022. Global modern slavery and sustainable 
+development goals: does institutional environment quality matter? Bus. Strat. 
+Environ. 31, 2230 – 2244 .
+Murray, A., Kuban, S., Josefy, M., Anderson, J., 2021. Contracting in the smart era: the 
+implications of blockchain and decentralized autonomous organizations for 
+contracting and corporate governance. Acad. Manag. Perspect. 35, 622 – 641 .
+New, S.J., 2015. Modern slavery and the supply chain: the limits of corporate social 
+responsibility? Supply Chain Manag.: Int. J. 20, 697 – 707 .
+Nidumolu, R., Ellison, J., Whalen, J., Billman, E., 2014. The collaboration imperative. 
+Harv. Bus. Rev. 92, 76 – 84 .
+Nolan, J., Bott, G., 2018. Global supply chains and human rights: spotlight on forced 
+labour and modern slavery practices. Aust. J. Hum. Right 24, 44 – 69 .
+Nunes, M.F., 2018. Supply chain contamination: an exploratory approach on the 
+collateral effects of negative corporate events. Eur. Manag. J. 36, 573 – 587 .
+Oliveira, F., Kakabadse, N., Khan, N., 2022. Board engagement with digital technologies: 
+a resource dependence framework. J. Bus. Res. 139, 804 – 818 .
+Ozturk, O., 2021. Bibliometric review of resource dependence theory literature: an 
+overview. Manag. Rev. Quart. 71, 525 – 552 .
+Pannekoek, F., Breugewm, T., Van Wassenhove, L.N., 2023. How Tony ’ s chocolonely 
+created a purpose-driven (and profitable) supply chain. Harv. Bus. Rev. (online 
+article, 11 September) . 
+Pfeffer, J., Salancik, G., 1978. The External Control of Organizations: A Resource 
+Dependence Perspective. Harper & Row, NY . 
+Prajogo, D., Castka, P., Searcy, C., 2021. Paymasters and assurance providers: exploring 
+firms ’ discrection in selecting non-financial auditors. J. Bus. Ethics 173, 795 – 811 .
+Raineri, L., Strazzari, F., 2022. Drug smuggling and the stability of fragile states: the 
+diverging trajectories of Mali and niger. J. Interv. Statebuilding 16, 222 – 239 .
+Raj-Reichert, G., 2020. The powers of a social auditor in a global production network: the 
+case of Verit ´e and the exposure of forced labour in the electronics industry. J. Econ. 
+Geogr. 20, 653 – 678 .
+Reid, J., Castka, P., 2023. The impact of remote sensing on monitoring and reporting - 
+the case of conformance systems. J. Clean. Prod. 393, 136331 .
+Rockmann, K.W., Vough, H.C., 2024. Using quotes to present claims: practices for the 
+writing stages of qualitative research. Organ. Res. Methods 27, 621 – 649 .
+Schaper, S., Pollach, I., 2021. Modern slavery statements: from regulation to substantive 
+supply chain reporting. J. Clean. Prod. 313, 127872 .
+Scott, W.R., Davis, G., 2015. Organizations and Organizing: Rational, Natural and Open 
+Systems Perspectives. Routledge, NY . 
+Shilling, H.J., Wiedmann, T., Malik, A., 2021. Modern slavery footprints in global supply 
+chains. J. Ind. Ecol. 25, 1518 – 1528 .
+Shiu, J.-M., Dallas, M.P., Huang, H.-H., 2023. A friend of a friend? Informal authority, 
+social capital, and networks in telecommunications standard-setting organizations. 
+Technol. Forecast. Soc. Change 189, 122346 .
+Simatupang, T.M., Sridharan, R., 2002. The collaborative supply chain. Int. J. Logist. 
+Manag. 13, 15 – 30 .
+Simpson, D., Segrave, M., Quarshie, A., Kach, A., Handfield, R., Panas, G., Moore, H., 
+2021. The role of psychological distance in organizational responses to modern 
+slavery risk in supply chains. J. Oper. Manag. 67, 926 – 963 .
+Sodhi, M.S., Seyedghorban, Z., Tahernejad, H., Samson, D., 2022. Why emerging supply 
+chain technologies initially disappoint: blockchain, IoT, and AI. Prod. Oper. Manag. 
+31, 2517 – 2537 .
+Solymosi, R., Bowers, K., 2018. The Role of Innovative Data Collection Methods in 
+Advancing Criminological Understanding. The Oxford Handbook of Environmental 
+Criminology, pp. 210 – 237 .
+Stevenson, M., 2022. Hidden in plain sight: the bystander effect and the mobilisation of 
+modern slavery whistleblowing. Supply Chain Manag.: Int. J. 27, 128 – 139 .
+Stevenson, M., Cole, R., 2018. Modern slavery in supply chains: a secondary data analysis 
+of detection, remediation and disclosure. Supply Chain Manag.: Int. J. 23, 81 – 99 .
+Strand, V., Lotfi, M., Flynn, A., Walker, H., 2024. A systematic literature review of 
+modern slavery in supply chain management: state of the art, framework 
+development and research opportunities. J. Clean. Prod. 435, 140301 .
+Stringer, C., Michailova, S., 2018. Why modern slavery thrives in multinational 
+corporations ’ global value chains. Multinatl. Bus. Rev. 26, 194 – 206 .
+Taylor, L.R., Shih, E., 2019. Worker feedback technologies and combatting modern 
+slavery in global supply chains. J. British Acad. 7 (Suppl. issue 1), 131 – 165 .
+Touboulic, A., Walker, H., 2015. Theories in sustainable supply chain management: a 
+structured literature review. Int. J. Phys. Distrib. Logist. Manag. 45, 16 – 42 .
+Wernerfelt, B., 1984. A resource-based view of the firm. Strateg. Manag. J. 5, 171 – 180 .
+Cory Searcy is a professor of industrial engineering at Toronto Metropolitan University 
+(TMU). He currently serves as the Assistant Vice-President, International at TMU, as well 
+as a corporate sustainability section editor at the Journal of Business Ethics .
+Pavel Castka is a professor of supply chain management and sustainability at Xi ’ an Jiao -
+tong- Liverpool University (XJTLU), China. He currently serves as Associate Dean for 
+Professional Engagement at International Business School Suzhou (IBSS) as well as com -
+mittee member at TC176, International Organization for Standardization (ISO).
+Grant Michelson is a professor of management at Macquarie Business School, Sydney, 
+Australia. His interests include corporate social responsibility and employee experiences of 
+contemporary workplaces.
+Xiaoli Zhao is an assistant professor of strategic management at Xi ’ an Jiaotong-Liverpool 
+University (XJTLU), China. Her interests include strategic aspects of networks providing 
+plant-based dietary alternatives, wisdom leadership and international joint venture 
+management.
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+16 

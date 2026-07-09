@@ -1,0 +1,4561 @@
+--- PAGE 1 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+1 
+ 
+
+
+--- PAGE 2 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+2 
+ 
+ 
+Report 
+ 
+ 
+ 
+ 
+EVALUATION & IMPACT ASSESSMENT OF THE 
+CENTRAL SECTOR SCHEME OF MARINE PRODUCTS 
+EXPORT DEVELOPMENT AUTHORITY 
+for SFC 2017-2020  
+
+--- PAGE 3 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+3 
+ 
+Table of Contents 
+1 Executive Summary ....................................................................................................... 10 
+2 Introduction .................................................................................................................... 19 
+2.1 Marine Products Industry ................................ ................................ ............... 19 
+2.1.1 Production ..................................................................................................................................19 
+2.1.2 Consumption pattern of fish ....................................................................................................20 
+2.1.3 Global Value Chain of marine products ..................................................................................21 
+2.1.4 Trade flow ..................................................................................................................................22 
+2.2 Export Preparedness ................................ ................................ ....................... 25 
+3 Project Background ....................................................................................................... 28 
+3.1 Marine Products Export Development Authority................................ .......... 28 
+4 Approach and Methodology ........................................................................................ 33 
+4.1 Scope of the Project ................................ ................................ ....................... 33 
+4.2 Study Objectives ................................ ................................ .............................  33 
+4.3 Methodology ................................ ................................ ................................ ... 33 
+4.3.1 Impact Evaluation Framework for MPEDA Scheme .............................................................33 
+4.3.2 Heuristics Evaluation Framework for assessment of online portals ..................................35 
+4.4 Sampling ................................ ................................ ................................ .......... 36 
+4.5 Report and data limitations ................................ ................................ ............ 37 
+5 Survey Data Analysis & Findings ................................................................................. 39 
+5.1 Impact Evaluation Areas ................................ ................................ ................. 39 
+5.2 Impact assessment of the Central Sector Scheme ................................ ......... 41 
+5.2.1 Support for high end/ innovative value addition for exports ..............................................41 
+5.2.2 Market Promotion .....................................................................................................................43 
+5.2.3 Quality Assurance .....................................................................................................................45 
+5.2.4 Training & Capacity building ....................................................................................................49 
+5.2.5 Certification for export traceability of wild caught & farmed products. ............................54 
+5.2.6 Export oriented aquaculture technology incubation ............................................................57 
+5.3 Problems/Hurdles in the implementation of the Scheme .............................  59 
+5.4 Analysis of user friendliness of online portal ................................ ................. 60 
+5.5 Key takeaways ................................ ................................ ................................  61 
+6 Recommendations ......................................................................................................... 64 
+6.1 Strategic ................................ ................................ ................................ .......... 64 
+6.1.1 Establish a Technical Project Management Office (TPMO) ................................................64 
+6.1.2 Establish a Marine Sector Skill Council...................................................................................66 
+6.1.3 MPEDA as Unified Authority for Export Facilitation............................................................67 
+6.2 Scheme-level ................................ ................................ ................................ ... 69 
+
+--- PAGE 4 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+4 
+6.2.1 Demand driven budgetary support to value addition schemes ..........................................69 
+6.2.2 Delegation of authority for evaluation of scheme proposals to RD ...................................71 
+6.3 System and Process ................................ ................................ ........................ 72 
+6.3.1 Augmenting human resources for effective functioning of MPEDA .................................72 
+6.3.2 Adoption of digital and artificial intelligence-based solutions ............................................73 
+6.4 Ecosystem Initiatives ................................ ................................ ...................... 75 
+6.4.1 NaCSA to facilitate incubation of FPOs for aquaculture farmers .......................................75 
+6.4.2 Tie-up with Credit Guarantee Trust for Micro and Small Enterprises ...............................76 
+6.4.3 Augment revenue through fee-based data and research support ......................................77 
+6.4.4 Expansion of Market Promotion Activities ............................................................................78 
+7 Conclusion....................................................................................................................... 80 
+8 Appendices ..................................................................................................................... 82 
+8.1 Appendix A: Respondent beneficiaries ................................ .......................... 82 
+8.2 Appendix B: Details of Visit ................................ ................................ ............ 82 
+8.3 Appendix C: Details of human resources & vacancies in MPEDA ................. 84 
+8.4 Appendix D: Questionnaire ................................ ................................ ............ 85 
+ 
+  
+
+--- PAGE 5 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+5 
+List of Tables 
+Table 1: Potential of Fisheries Resources in the Indian Exclusive Economic Zone (EEZ)
+.................................................................................................................................................. 20 
+Table 2: Comparison between top exporting nations in fisheries (2010-20); B-billion23 
+Table 3: Indian Export and Import by Value (in USD million) in 2011-22...................... 24 
+Table 4: Volume of marine products exports handled by Indian ports (2016-20) in MT.
+.................................................................................................................................................. 24 
+Table 5: Description of components of MPEDA Central Sector Scheme ...................... 30 
+Table 6: Budget Outlay for MPEDA Scheme (2017-20) in Rs. Crore ............................. 31 
+Table 7: OECD-DAC Impact Evaluation Framework ........................................................ 34 
+Table 8: Heuristic Evaluation Framework .......................................................................... 35 
+Table 9: Sampling frame ....................................................................................................... 36 
+Table 10: Impact Evaluation Questions based on REESI framework. ............................ 39 
+Table 11: Distribution of financial assistance for value-added products (2017-2020) 42 
+Table 12: Participation in select training programs organised by MPEDA in 2017-
+2020 ........................................................................................................................................ 49 
+Table 13: Training programs conducted by NETFISH (2017-2020) ............................... 51 
+Table 14: Distribution of seeds for species diversification by RGCA since inception of 
+the projects ............................................................................................................................. 58 
+ 
+ 
+  
+
+--- PAGE 6 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+6 
+List of Figures 
+Figure 1: Representation of Global Value Chain for fisheries and aquaculture ............ 21 
+Figure 2: Export-Import of Fisheries and Aquaculture (2011-20) by value (in USD 
+billions) .................................................................................................................................... 23 
+Figure 3: Export regions for Indian marine products (2022) - Value in USD ................. 25 
+Figure 4: Export Preparedness Index - Overall performance of coastal states of India 
+(2022) ...................................................................................................................................... 26 
+Figure 5: Components and Sub-components of MPEDA Central Sector Scheme ....... 30 
+Figure 6: Position of Central Sector Scheme of MPEDA in the value chain ................. 41 
+Figure 7: Application workflow to avail financial assistance for support for Value-
+Added Products ..................................................................................................................... 42 
+Figure 8: Distribution of Co-Exhibitors in International Seafood Fairs (2017-2019) ... 45 
+Figure 9: Approval process for application for financial assistance for mini labs ......... 46 
+Figure 10: Distribution of beneficiaries and average assistance received for SFC 
+2017-2020 ............................................................................................................................. 46 
+Figure 11: Samples tested under NRCP during 2017-2020 at different sources. ........ 48 
+Figure 12: State-wise distributions of PHT certificates issued (2017-2020) ................ 48 
+Figure 13: Trend in export rejections for Indian seafood in the USA, EU, and Japan 
+markets (2017-2020) ............................................................................................................ 49 
+Figure 14: Application process flow to avail financial assistance for moving towards 
+sustainability and certification. ............................................................................................ 54 
+Figure 15: Distribution of Export Facilitation Certificates (2017-2020) ........................ 56 
+Figure 16: Key focus areas of RGCA................................................................................... 58 
+Figure 17: Geographical distribution of respondents (exporters and aquaculture 
+farmers) ................................................................................................................................... 82 
+  
+
+--- PAGE 7 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+7 
+List of Abbreviations 
+ 
+EU   European Union  
+BMP   Better Management Practices  
+CIFT   Central Institute of Fisheries Technology  
+DGFT    Director General of Foreign Trade 
+EIC   Export Inspection Council 
+GVA   Gross Value Added  
+HACCP    Hazard Analysis and Critical Control Point 
+MPEDA   Marine Products Export Development Authority  
+NaCSA   National Centre for Sustainable Aquaculture 
+NETFISH   
+Network for Fish Quality Management and Sustainable 
+Fishing  
+NIPHATT   
+National Institute for Fisheries Pre-Harvest Testing and 
+Training 
+OECD-DAC   
+Organization for Economic Cooperation and 
+Development - Development Assistance Committee 
+REESI   
+Relevance, Efficiency, Effectiveness, Sustainability and 
+Impact 
+RGCA   Rajiv Gandhi Centre for Aquaculture 
+SEAI   Seafood Exporters Association of India  
+   
+
+--- PAGE 8 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Disclaimer 
+This report is prepared based on data provided to us. While due care has been taken during the 
+compilation of this report to ensure that the information is accurate to the best of Athena Infonomics 
+and MPEDA knowledge and belief, the content is not to be construed in any manner whatsoever as a 
+substitute for independent advice and decision. Athena Infonomics and MPEDA neither recommend nor 
+endorse any specific products or services that may have been mentioned in this report and nor do they 
+assume any liability or responsibility for the outcome of decisions taken as a result of any reliance placed 
+in this report. Neither Athena Infonomics nor MPEDA shall be liable for any direct or indirect damages 
+that may arise due to any act or omission on the part of the user due to any reliance placed or guidance 
+taken from any portion of this report. 
+  
+
+--- PAGE 9 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+9 
+  
+EXECUTIVE 
+SUMMARY 
+CHAPTER 1 
+
+--- PAGE 10 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+10 
+1 Executive Summary 
+The Marine Products Export Development Authority (MPEDA) was set up by an act of 
+Parliament during 1972. The erstwhile Marine Products Export Promotion Council 
+established by the Government of India in September 1961 was converged in to 
+MPEDA on 24th August 1972. MPEDA is given the mandate to promote the marine 
+products industry with special reference to exports from the country. It is envisaged 
+that this organization would take all actions to develop and augment the resources 
+required for promoting the exports of “all varieties of fishery products known 
+commercially as shrimp, prawn, lobster, crab, fish, shell -fish, other aquatic animals or 
+plants or part thereof and any other products which the authority may, by notification 
+in the Gazette of India, declare to be marine products for the purposes of (the) Act”. 
+The Act empowers MPEDA to regulate exports of marine products and take all 
+measures required for ensuring sustained, quality seafood exports from the country. 
+MPEDA is given the authority to prescribe for itself any matters which the future might 
+require for protecting and augmenting the seafood exports from the country. It is also 
+empowered to carry out inspection of marine products, its raw material, fixing 
+standards, specifications, and training as well as take all necessary steps for marketing 
+the seafood overseas. 
+MPEDA mandated Athena Infonomics to undertake an evaluation and impact 
+assessment of the Central Sector Scheme of MPEDA for the SFC period 2017 -2020. 
+The objective of study is to highlight the impact made by MPEDA through its central 
+sector scheme and various training programs and support services such as QC and 
+ELISA laboratories, and exp ort facilitation certificates for the Exporters and 
+Aquaculture farmers. To assess MPEDA Central Sector Scheme, a comprehensive 
+approach utilizing the Organisation for Eco nomic Co -operation and Development 
+(OECD) REESI  Framework (Relevance, Efficiency, Effectiveness, Sustainability, and 
+Impact) was employed. The study involved mixed methods, gathering feedback from 
+key stakeholders in the marine export ecosystem. To assess the user -friendliness of 
+their e-mpeda portal, Heuristic Evaluation framework was used. Various dimensions of 
+user-friendliness including Visibility, Flexibility, Consistency, Freedom, Mapping, Error 
+Prevention, Error Recovery, Recognition, Minimalism, and Help. 
+MPEDA organises various activities and initiatives along the value chain of the fisheries 
+and aquaculture industry. Under the central sector scheme for the SFC 2017 -20 
+period, MPEDA implemented schemes related to promotion of value addition products, 
+moving towards certification for primary production , establishment of minilabs for 
+exporters, training of farmers and promotion of latest technology for species 
+diversification. The various components of this central sector scheme have been 
+aligned along the value chain as described below. 
+
+--- PAGE 11 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+11 
+ 
+ 
+The specific details of the scheme and its impact are outlined below: 
+Value Addition: 
+India’s share in global trade of value-added products export is only 2.5% i.e., USD 0.86 
+million. India’s competitors in global seafood trade, China, Vietnam, Thailand etc. are 
+forerunners in the trade of value -added marine products1. Special emphasis has been 
+given for the promotion of export of value -added products as there is an increasing 
+global demand for value added products in convenient form. The Scheme is aimed to 
+bring in more investment in high end Value Addition and also on establishment of 
+appropriate facilities to export live, chilled, and dried marine products having high unit 
+value.  
+Financial assistance was offered to exporters to procure large cold storage and 
+machineries for process automation and packaging, upgrade technology, and develop 
+infrastructure to export value -added products. For the  evaluation period 2017-20, 
+there were 156 beneficiaries spread across the nine coastal states. Beneficiaries found 
+the assistance very helpful and that it was crucial to pace up the volume of exports for 
+their organisation. 83% of the respondents found the scheme ‘excellent’. 
+Market Promotion: 
+As part of market promotion activities, MPEDA has undertaken significant endeavours 
+to participate in the international seafood fairs  and buyer-sellers meet etc.  MPEDA 
+also offers their inputs on issues affecting market access of Indian marine products like 
+Trade policy, Sanitary and Phytosanitary measures, or Technical Barriers to Trade, and 
+Antidumping Duty. During the 2017-2020 period, MPEDA facilitated 14 international 
+fairs with 150 co-exhibitors.  
+ 
+1 MPEDA 
+
+
+--- PAGE 12 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+12 
+The beneficiaries who are newly established and small -scale exporters found the 
+international fairs to be beneficial in access new buyers as they got a chance to display 
+their products and engage with buyers directly. The large and experienced exporters 
+found these fairs useful for networking. They preferred Buyer -Seller Meets over 
+International fairs to engage with buyers more effectively. 
+Export traceability and sustainability: 
+The financial assistance for moving towards sustainability and certification is aimed to 
+help acquire certification standards and infrastructure/equipment for the production 
+of quality seafood from aquaculture Farms/Hatchery/Feed mills/ornamental fish 
+breeding units/ rearing farms/ export holding facilities. For the SFC 2017-2020 period, 
+total of 90 beneficiaries were benefited through this scheme.  
+Market-related challenges highlighted by the respondents include lower market price 
+for their crop, increasing input costs (feed and electricity) and lack of regulation on feed 
+mills. However, they found the scheme very helpful and the MPEDA officials very  
+supportive and engaging.  
+MPEDA enables traceability through its export facilitation certificates. For the sea 
+caught species, Catch certificate is issued and the type of certificate is categorised 
+based on the export market such as EU or Non -EU. With regard to shrimp exports to 
+the USA, DS -2031 certificate is issued to declare that the shrimps were caught in a 
+manner not harmful to the turtles or were harvested from aquaculture. ICCAT is a 
+specialised certificate for Tuna species. All respondents found it easy to apply for 
+export facilitation certificates. They got the certificate within 24 hours. They found the 
+MPEDA officials to be supportive.  
+Technology Incubation in Aquaculture: 
+The technology developed by Rajiv Gandhi Centre for Aquaculture (RGCA) is in 
+commercial mode and the deliverable will be extended to the needy farmers & 
+entrepreneurs in India. RGCA is seen as Aquaculture Technology Incubation Centre of 
+MPEDA. The species promoted include seabass, mudcrab, GIFT, and artemia. 
+Beneficiaries of the demonstration programs found it useful to understand the scope 
+and market for these species. 
+Quality Assurance: 
+To meet the food safety and quality standards and ensure consumer protection, 
+stringent hygiene measures have been adopted at the national, regional, and 
+international levels, based on the Codex Code of Practice for Fish and Fishery Products 
+(Codex Aliment arius Commission, 2016) and its guidance to countries on practical 
+
+--- PAGE 13 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+13 
+aspects of implementing good hygiene practices and the Hazard Analysis Critical 
+Control Point (HACCP) food safety management system. 
+The financial assistance to set up Mini Labs allows for establishment of laboratory for 
+microbial and chemical parameters of fishery products intended for export purpose in 
+approved processing plant/ handling center testing of fishery products. The main 
+objective of the scheme is to enable in -house testing of t he export consignments at 
+the processing plant level. 60% of the respondents reported to have better control over 
+quality and realised significant cost saving on account of this scheme . All the 
+respondents reported that the assistance for mini labs was useful.  
+To monitor the control over the residues of unauthorized substances and 
+environmental contaminants in ﬁsh & ﬁshery products, MPEDA has established ﬁve 
+Quality Control (QC) Laboratories and ELISA Screening laboratories to support the 
+farming community in en suring the quality and traceability of the shrimp crops they 
+have produced for export supply. MPEDA operates 1 4 ELISA labs across India. An 
+average of 11,000 samples were tested annually during 2017 -2020. QC labs tested a 
+total of 25,591 samples during the same period. Respondents who availed MPEDA lab 
+services found the services to be reliable and the persons at lab to be responsive and 
+prompt in informing the test results.  
+Training and Skill Development: 
+Between 2017 and 2020, v arious training and skill development programs were 
+organised by the Aquaculture division of MPEDA in which about 30,292 beneficiaries 
+participated. While all the respondents found the training useful and relevant, follow -
+up with them regarding the adoption of practices remains a challenge. It would be 
+effective to have a targeted approach to different training programs to then move to a 
+scalable model.  
+ 
+Impact and Recommendations 
+In conclusion, the study highlights MPEDA’s instrumental role in expanding India's 
+marine exports ecosystem through well -structured policies, infrastructure expansion, 
+robust institutional building, ecosystem creation, innovative approaches, and 
+remarkable impact at the beneficiary level. The achievements outlined in this study 
+advocate for continued support and recognition of MPEDA’s efforts, and the 
+recommendations further strengthen its strategic direction, program efficiency, and 
+overall positive impact on marine products development in India. The key impact of the 
+schemes is outlined below: 
+
+--- PAGE 14 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+14 
+REESI 
+Dimensions 
+Impact Findings 
+ 
+• Financial Assistance Schemes were aligned with the 
+beneficiary needs, market demands and global value chain 
+of fisheries and aquaculture. 
+• 100% of respondents have reported that the scheme was 
+crucial for development in marine products exports. 
+ 
+• The e -mpeda portal has a score of 60% on user -
+friendliness assessed based on heuristic evaluation which 
+leads to sub -optimal performance and lower adoption of 
+online system for application processing.   
+• Only 30 -35% respondents found the online application 
+(for financial assistance) easy to use. 
+• About 50% of the respondents found the assistance 
+amount adequate while remaining expect a higher subsidy 
+amount. 
+• 100% of respondents found that participation as co -
+exhibitors offered improved engagement with the 
+international market. 40% were able to access new buyers.  
+• 100% of respondents found the MPEDA officials 
+supportive and responsive. 
+ 
+• Respondents of financial assistance scheme have reported 
+an increase in productivity and turnover. Monitoring 
+beyond the obligation period to capture the long -term 
+impact is not available. 
+• 100% of respondents have reported that online portal 
+provided a faster turnaround (less than one day) for export 
+facilitation certificates. 
+• 20% of beneficiaries reported an increase in exports after 
+attending international fairs 
+• 100% of beneficiaries found prospective buyers while 
+participating in the international fairs 
+• Less than 10% of the respondents utilised MPEDA lab 
+services on need basis. Beneficiaries found the MPEDA lab 
+testing services reliable and timely. 
+• Adoption of value -added products or processes after 
+MPEDA training was low due to multiple factors like high 
+cost of investment in production line & lack of adequate 
+Relevance
+Efficiency
+Effectiveness
+
+
+--- PAGE 15 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+15 
+REESI 
+Dimensions 
+Impact Findings 
+support in transferring learning of training into production 
+line. 
+• 100% of respondents found mini lab set up with MPEDA's 
+financial assistance useful. 
+• Respondents reported a limited price realization as 
+envisaged as part of cluster formations by NaCSA. 
+• 100% of the respondents found the training material and 
+quality of trainers adequate and relevant.  
+• Online portal is transactional and does not allow for 
+continuous engagement of beneficiaries. 
+ 
+• Respondents of financial assistance scheme for value -
+added products and mini labs continue to use the 
+infrastructure for furthering exports. 
+• Training programs helped create awareness, but the rate 
+of adoption is slow due to cost-benefit reasons.  
+• Portal for availing export facilitation certificates was 
+reported to be useful and user -friendly leading to higher 
+adoption rate.  
+• Farming clusters were unable to leverage the complete 
+benefits due to low bargaining power. 
+• Technical documentation for all modules of e -mpeda 
+portal not available. Change requests and updates done 
+over email does not allow monitoring and learning of the 
+portal utilisation.  
+• Awareness about the schemes and services of MPEDA is 
+person-driven and nature of benefit realised.  
+• Limited brand building of MPEDA  
+ 
+The suggested recommendations build on stakeholders’ feedback and structure around 
+broad dimensions for the Marine Products Export Development Authority (MPEDA) to 
+enhance its impact and effectiveness. The recommendations have been structured on 
+three levels – Strategic, System and Process level and Scheme-level.   
+Establish a Technical Project Management Office (TPMO): MPEDA should transform 
+from the role of administrator of financial benefits to a techno-commercial agency for 
+better engagement with stakeholders. TPMO would work on mission mode and be 
+cross-functional with clearly defined outcomes aligned to organizational goals and 
+functional goals.  
+Sustainability
+
+
+--- PAGE 16 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+16 
+Establish a Marine Sector Skill Council: As per Handbook of Fisheries Statistics 2022, 
+fisheries and aquaculture sector supports about 2.8 crore fishers – 2.3 inland; 49 lakh 
+marine. There are 1,515 registered exporters with MPEDA , 613 processing centres; 
+271 handling centres; 787 storage facilities (as per MPEDA Annual Report 2019-20) in 
+Marine export industry required varying degrees of skill requirement. Th is will help 
+address the need for a formal institutional structure to focus on skill development of  
+the entire skill pyramid of the marine industry.  To enable industrywide skill 
+development, MPEDA to establish a Marine Sector Skill Council (MSSC) in consultation 
+with MSDE.  This will help in standardisation of skilling across the value chain, build 
+world class skilling program, incubate futuristic ski lling model, attract investment, and 
+generate employment opportunities. 
+MPEDA to be designated as Unified Authority for Export Certification – To reduce 
+lead time and improve ease of doing business  in issuing of Sanitary Import Permit, 
+Specific Pathogen Free Certificate, NOC from Customs & DGFT for Advance 
+authorisation, the Ministry of Commerce and Industry may consider nominating 
+MPEDA  as an authorized agency for single window clearance for import of  raw 
+material for reprocessing and export of value -added seafood products , and may be 
+delegated power as a single agency for collection of sample and testing for clearance 
+marine product consignments for import of  raw material for reprocessing and expo rt.  
+Though MPEDA was formed in 1972, the powers to certify fish & fishery products for 
+export is still vested with EIC, which deals with multiple commodities. Assigning fish 
+and fishery product certification for exports to MPEDA will help the industry and 
+significantly improve the ease of doing business by offering a single window service to 
+the stakeholders and facilitating import of raw material for reprocessing will increase 
+India’s share in global value addition.  
+Delegation of authority to evaluate proposals: To reduce the duplication of efforts for 
+evaluation of proposals at the Head office and field offices, MPEDA to review the 
+current delegation of power for various levels. This will allow for quick decision-making 
+in evaluation of proposals. Further, the e -mpeda portal needs to be redesigned to 
+accommodate for these chan ges for faster processing of applications and proposals 
+online itself.  
+Demand driven budgetary support to various initiatives: MPEDA to devise a demand 
+driven budgetary support system to capture various opportunities in the marine value 
+chain. To enable significant impact of the system post disbursement, MPEDA may 
+consider institutionalising agile/adaptive planning cycle based on the nature of the 
+scheme, lead-time required to create an impact, number of beneficiaries to be targeted,  
+and economic size required to create an impact. Also, a strategic roadmap needs to be 
+created to facilitate/migrate beneficiaries who applied for the schemes but haven’t 
+received the assistance to transition smoothly into another scheme if available or 
+engage continuously to support them technically. 
+
+--- PAGE 17 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+17 
+Proactive Market Promotion and Engagement: To keep up with the competition in the 
+international markets, MPEDA enables participation of exporters in the International 
+Seafood Fairs each year and organizes buyer -seller meets to help exporters expand 
+their market and buyers. In addition, small export ers (export value less than USD 20 
+million) receive financial assistance from MPEDA to participate in these fairs as co -
+exhibitors. To augment this initiative,  MPEDA may consider segmenting beneficiary 
+based on their needs and undertake segment specific market promotion activities such 
+as buyer – seller meet in destination markets  (virtual and in -person), reverse buyer -
+seller meets in India  for experienced marine exporters, enhanced fair participation for 
+new exporters, and diversification of international fair participation to new emerging 
+markets and deepening in existing markets by participating in regional food fairs.   
+Adoption of digital and artificial intelligence-based solutions: With the reduced human 
+resources as a reality, it becomes imperative to adopt intelligent digital solutions such 
+as chatbot, decision-support system, blockchain and such tools to share information 
+and communications regarding various initiatives of MPEDA. Redesign the MPEDA 
+website and e-mpeda portal according to GIGW guideline to improve user experience 
+of various stakeholders. 
+Transformation of societies as FPOs: The National Centre for Sustainable Aquaculture 
+(NaCSA) can help the aquaculture farmer societies form as Farmer Producer 
+Organisations (FPOs) to help access institutional finance and insurance and get better 
+market access and price for their crops. This is cr itical as 90% of the Indian shrimp 
+farmers belong to small -scale or marginal category with operational holdings of less 
+than two hectare per individual. Further, tying up with Credit Guarantee Trust Fund 
+for Micro and Small Enterprises (CGTMSE) for farmers would help avail collateral-free 
+loans.  
+Augmenting human resources requirement in technical roles : The total sanctioned 
+strength of MPEDA has been revised from 420 to 250 combining the Head Office and 
+Field Offices. Out of this, the present resource in position is only 181 including 11 
+officials on deputation. The existing staff is not be adequate to meet the growth 
+objective of the sector. In this context, it is important to recalibrate human resources 
+requirement in line with the sector requirements  and build their capacity to take up 
+cross-functional roles while having a holistic view of the export ecosystem. 
+Other recommendations include providing local language support in both online and 
+physical application forms, leveraging the collective experience of MPEDA, a fee-based 
+research service and market intelligence support can be offered to exporters, investors, 
+etc. and focus on building quality branding and logo. 
+These recommendations highlight the potential areas where MPEDA can further 
+enhance its operations and its impact on marine export development.  
+
+--- PAGE 18 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+18 
+  
+INTRODUCTION 
+CHAPTER 2 
+
+--- PAGE 19 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+19 
+2 Introduction 
+2.1 Marine Products Industry 
+The importance of utilizing fisheries and aquaculture resources responsibly is widely 
+recognized and prioritized after the adoption of the Code of Conduct for Responsible 
+Fisheries (the Code; FAO, 1995) . This is also aligned with the United Nations 
+Sustainable Development Goals (UN -SDGs), particularly Goal 14, to conserve and 
+sustainably use the oceans, seas, and marine resources.  
+Global fish and aquaculture production is estimated to reach over 200 million tonnes 
+by 2030. It is estimated to have reached about 179 million tonnes in 2018 with a total 
+first sale value estimated at USD  401 billion, of which 82  million tonnes, valued at 
+USD 250 billion, came from aquaculture production. Aquaculture 2 accounted for 46% 
+of the total production and 52% of fish for human consumption. Top producers include 
+China, India, Vietnam, and Bangladesh. In 2018, an estimated 59.51  million people 
+were engaged in the primary sector of fisheries and aquaculture, 14% of them women. 
+In total, about 20.53 million people were employed in aquaculture and 38.98 million in 
+fisheries3.  
+The FAO global marine capture database includes catches for more than 1,700 species 
+(including “not elsewhere included” categories), of which finfish represent about 85 % 
+of total marine capture production. Tunas, cephalopods, shrimps, and lobsters are the 
+four most valuable groups.  
+2.1.1  Production 
+The production in temperate areas continue to remain stable at between 37.5  million 
+tonnes and 39.6 million tonnes per year. In tropical areas, an increasing trend in catches 
+have been observed in the Pacific Ocean and Indian Ocean. In the Indian Ocean, 
+catches have been  increasing steadily, particularly in the Eastern Indian Ocean, with 
+catches of small pelagics, large pelagics (tunas and billfish), and shrimps driving most of 
+the increase. In the Western Central Pacific, tuna and tuna -like species accounted for 
+most of the increase in catches while other main species, it continues to remain stable.  
+Global production in inland waters have increased steadily year on year, reaching over 
+12 million tonnes in 2018. The share of inland waters in the total for global captures 
+also increased from 8% in the late 1990s to 12.5% in 2018. Four major species groups 
+ 
+2 Aquaculture includes aquatic animals, aquatic algae and ornamental seashells and pearls. 
+3 State of World Fisheries and Aquaculture Report 2020, FAO 
+
+--- PAGE 20 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+20 
+account for about 85% of total inland water catches which includes carps and tilapias. 
+China is the largest producer followed by India, Bangladesh, Myanmar, and Cambodia.  
+Indian marine fisheries potential is estimated at 5.31 million tons as against present 
+production of 4.17 million tons during 2018 -19 (harnessing nearly 78% of the 
+estimated potential). The estimate of potential yield of conventional resources along 
+the mainland & Island ecosystems of India is 5.31 million tonnes and non-conventional 
+resources is 1.847 million tonnes; thus, totalling to 7.158 million tonnes4. 
+Table 1: Potential of Fisheries Resources in the Indian Exclusive Economic Zone (EEZ) 
+A. Conventional resource Quantity in million 
+tonnes 
+Demersal resources (mainland) 2.30 
+Pelagic resources (mainland) 2.63 
+Lakshadweep (excluding oceanic resources) 0.01 
+Andaman & Nicobar (excluding oceanic resources) 0.04 
+Oceanic (for entire EEZ) 0.23 
+Others 0.09 
+Sub Total 5.31 
+B. Non-Conventional resources: (Additional Potential)  
+Deep sea Myctophids 1.00 
+Oceanic Squids 0.63 
+Jelly fish 0.20 
+Marine Macro Algae 0.02 
+Sub Total 1.85 
+Resources Grand Total: 7.16 
+Source: Fishery Survey of India (Report of the working group for revalidating the potential yield of 
+Fishery Resources in the Indian EEZ), 2018 
+2.1.2  Consumption pattern of fish 
+Human consumption of fish has increased from 71.8 million tonnes (1965) to 156.4 
+million tonnes (2018) and per capita consumption has increased from 13.4 kg to 20.5 
+kg. In 2018, about 88% of the 179 million tonnes of total fish production was utilized 
+for direct human consumption, while the remaining 12 % (or about 22  million tonnes) 
+was used for non -food purposes. There are four methods of utilization for human 
+consumption – live, fresh, or chilled, frozen, preserved, or prepared and cured.  
+In 2018, live, fresh, or chilled fish still represented the largest share of fish utilized for 
+direct human consumption (44%) and was often the most preferred and highly priced 
+form of fish. It was followed by frozen (35 %), prepared and preserved fish (11 %) and 
+ 
+4 Handbook of Fisheries Statistics 2022, Government of India 
+
+--- PAGE 21 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+21 
+cured10 (10 %). Freezing represents the main method of preserving fish for food, 
+accounting for 62 % of all processed fish for human consumption (i.e., excluding live, 
+fresh, or chilled fish)5. 
+The share of fish utilized for reduction into fishmeal and fish oil is highest in Latin 
+America, followed by Asia and Europe. About two -thirds of the fish production used 
+for human consumption is used in frozen and prepared and preserved forms in Europe 
+and North America. In Asia, a large amount of production is sold live or fresh to 
+consumers. The proportion of global fish consumption by Japan, USA and Europe has 
+declined to 17% (2018) from 47% (1967) while the share of Asia increased from 48% 
+(1961) to 17%.  
+2.1.3  Global Value Chain of marine products 
+Fisheries and Aquaculture contributes to the value-added in the final demand of other 
+industries.  
+Figure 1: Representation of Global Value Chain for fisheries and aquaculture 
+ 
+ 
+5 Handbook of Fisheries Statistics 2022, Government of India 
+
+
+--- PAGE 22 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+22 
+ 
+Source: Athena analysis 
+Note: The value chain is highly interactive and is not always linear in operation. 
+As fish is a highly perishable food, particular care is required at harvesting and all along 
+the supply chain in order to preserve fish quality and nutritional attributes, and to avoid 
+contamination, loss and waste. In recent decades, the fish sector has b ecome more 
+complex and dynamic, with developments driven by high demand from the retail 
+industry, species diversification, outsourcing of processing, and stronger supply 
+linkages between producers, processors, and retailers. Expansion of supermarket 
+chains and large retailers worldwide has increased their role as key players in 
+influencing market access requirements and standards.  
+Major improvements in processing as well as in refrigeration, ice -making and 
+transportation have enabled distribution of fish over long distances, across borders and 
+in a greater variety of product forms. In more developed economies, fish processing 
+has diversified particularly into high-value-added products, such as ready-to-eat meals 
+apart from frozen fish.  
+2.1.4  Trade flow 
+Fish and fishery products remain some of the most traded food commodities in the 
+world. It has increased from 34.9 million tonnes in 1980s to 67.1 million tonnes in 
+2018. In value, it has increased from USD 67 billion to USD 164.1 billion for the same 
+period. The share of exports in total production increased from 34.3% to 37.6%. This 
+constitutes almost 11% of the export value of agricultural products (excluding forest 
+products) and about 1% of the value of total merchandise trade. Figure 2 shows that in 
+most part of the last decade, the world has been a net exporter except during 2019 
+and 2020.  
+
+
+--- PAGE 23 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+23 
+Figure 2: Export-Import of Fisheries and Aquaculture (2011-20) by value (in USD billions) 
+ 
+Source: UN Comtrade; HS Codes as per FAO  
+Overall, from 1976 to 2020, the value of global fish exports increased from 
+USD 7.8 billion to peak at USD  152 billion and a peak in 2018 at USD 166 billion. 
+Exports of fish and fish products represent about 11 % of the export value of 
+agricultural products (excluding forest products). Major importing nations include USA, 
+China, Japan, Korea, and European Union (EU).  
+Table 2: Comparison between top exporting nations in fisheries (2010-20); B-billion 
+Exporting 
+Nations 
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 
+China $18 B $19 B $20 B $22 B $20 B $21 B $21 B $22 B $21 B $19 B 
+Norway $9 B $9 B $10 B $11 B $9 B $11 B $11 B $12 B $12 B $11 B 
+Viet Nam $6 B $6 B $7 B $8 B $7 B $7 B $9 B $9 B $9 B $9 B 
+India $3 B $3 B $5 B $6 B $5 B $6 B $7 B $7 B $7 B $6 B 
+Chile $5 B $4 B $5 B $6 B $5 B $5 B $6 B $7 B $7 B $6 B 
+USA $7 B $6 B $7 B $7 B $7 B $7 B $7 B $7 B $7 B $6 B 
+Thailand $8 B $8 B $7 B $7 B $6 B $6 B $6 B $6 B $6 B $6 B 
+Total $135 
+B 
+$134 
+B 
+$144 
+B 
+$152 
+B 
+$136 
+B 
+$144 
+B 
+$156 
+B 
+$166 
+B 
+$162 
+B 
+$152 
+B 
+Source: UN Comtrade; HS Codes as per FAO 
+The expansion of supply chain has been propelled by increased trade liberalization and 
+facilitated by advances in food processing and transportation technologies. For 
+instance, Africa is a net importer in volume terms but a net exporter in terms of value, 
+reflecting the higher unit value of exports, which are destined primarily for developed 
+country markets, particularly Europe.  
+However, the average value (in 2018) of imports of fish and fish products by developing 
+countries was USD 1.6 per kilogram (live weight equivalent), while the corresponding 
+$135 B
+$134 B
+$144 B
+$152 B
+$136 B
+$144 B
+$156 B
+$166 B
+$162 B
+$152 B
+$136 B
+$135 B
+$139 B
+$147 B
+$133 B
+$140 B
+$151 B
+$166 B
+$165 B
+$155 B
+2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Export Import
+
+--- PAGE 24 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+24 
+figure for developed countries was USD 3.4 per kilogram. An important factor driving 
+down the unit value of developing country imports is the extent of processing and re -
+export activities in these regions. Hence, there is a lot of interregional trade flows  
+which are not sufficiently captured in the present official statistics.  
+India is a net exporter of fisheries and aquaculture products. It has recorded an average 
+growth of 8% in exports in the last decade (2011-20). While the value of import is much 
+lower than export, there has been an increasing trend in imports since 2017. D uring 
+2017 and 2020, exports show a declining trend. However, in 2021 and 2022, it has 
+recovered and surpassed the pre-pandemic levels.  
+Table 3: Indian Export and Import by Value (in USD million) in 2011-22 
+Year Export Import 
+2011 $3,391.7 $127.0 
+2012 $3,430.4 $86.6 
+2013 $4,874.3 $61.1 
+2014 $5,638.7 $75.7 
+2015 $4,896.3 $92.5 
+2016 $5,560.3 $105.4 
+2017 $7,188.9 $100.9 
+2018 $6,944.7 $144.6 
+2019 $6,865.5 $167.9 
+2020 $5,829.9 $212.5 
+2021 $7,561.4 $215.2 
+2022 $7,979.8 $253.3 
+Source: UN Comtrade, HS Codes as per FAO 
+Of the 83 ports that enable export of marine products, 12 ports handle nearly 99% of 
+the volume in the last five years (2016 -20). In other words, 7% of the ports handle 
+nearly 80% of the export volume. 
+Table 4: Volume of marine products exports handled by Indian ports (2016-20) in MT. 
+S. No. Ports 2016-17 2017-18 2018-19 2019-20 2020-21 
+1 Pipavav 2,32,391 3,06,181 2,93,835 2,57,402 1,85,817 
+2 Vishakhapatnam 1,59,973 2,00,779 2,21,374 2,41,783 2,16,457 
+3 Kochi 1,55,989 1,76,090 1,80,457 1,46,038 1,43,552 
+4 J N P 1,49,914 1,77,752 1,58,213 1,34,766 1,04,605 
+5 Mangalore/ICD 1,26,405 1,44,235 1,41,980 95,757 1,05,278 
+6 Kolkata 1,04,691 98,861 1,16,167 1,28,150 1,16,419 
+7 Krishnapatnam 62,049 86,420 86,248 97,708 64,230 
+8 Chennai 37,305 48,442 55,296 51,539 68,973 
+9 Tuticorin 42,026 51,684 55,251 57,159 47,299 
+
+--- PAGE 25 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+25 
+S. No. Ports 2016-17 2017-18 2018-19 2019-20 2020-21 
+10 Goa 43,199 50,571 37,938 14,699 8,241 
+11 Ennore 8,212 14,198 18,205 26,174 31,421 
+12 Mundra 3,918 5,476 8,889 19,431 39,243 
+  Total Quantity 
+(83 ports) 11,34,948 13,77,244 13,92,559 12,89,651 11,49,510 
+Source: Data received from Statistics Section, MPEDA on 14 Aug 2023 
+Figure 3: Export regions for Indian marine products (2022) - Value in USD 
+ 
+Source: Ministry of Commerce and Industry Dashboard 
+Link: https://dashboard.commerce.gov.in/commercedashboard.aspx  
+2.2 Export Preparedness 
+NITI Aayog’s Export Preparedness Index (EPI) assesses the performance of the States 
+and UTs across  four pillars  – Policy, Business Ecosystem, Export Ecosystem, and 
+Export Performance. Each pillar is composed of sub -pillars, which in turn capture a 
+state’s performance using relevant indicators6. 
+• Policy Pillar  evaluates states and UTs’ performance based on its adoption of 
+export-related policy ecosystem at a state and district level as well as the 
+institutional framework surrounding the ecosystem. 
+ 
+6 Export Preparedness Index (EPI) Report, 2022. (n.d.). 
+https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1939423 
+
+
+--- PAGE 26 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+26 
+• Business Ecosystem  assesses the prevailing business environment in a 
+state/UT, along with the extent of business -supportive infrastructure, and a 
+state/UTs’ transport connectivity. 
+• Export Ecosystem  focuses on the export -related infrastructure in a state/UT 
+along with the trade support provided to the exporters, and the prevalence of 
+Research and Development in the state/UT to foster innovation. 
+• Export Performance is an output-based indicator which gauges the growth of a 
+state’s export over the previous year and analyses its export concentration and 
+footprint on the global markets. 
+Figure 4: Export Preparedness Index - Overall performance of coastal states of India (2022) 
+ 
+Source: Export Preparedness Index Report 2022, NITI Aayog 
+The coastal states of India serve as a hub for international trade for India. According to 
+the NITI Aayog’s Export Preparedness Index, all coastal states except Kerala have 
+performed better than the national average. Indian fisheries and aquaculture thrive  in 
+the Indian coastal states. Given the importance of Indian fisheries  to the Indian 
+economy, the role of MPEDA and the impact of its schemes has been detailed out in 
+subsequent chapters.  
+80.89 78.20 76.36 73.22
+59.27 58.84
+53.57 51.58
+46.56 44.03
+
+--- PAGE 27 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+27 
+  
+PROJECT 
+BACKGROUND 
+CHAPTER 3 
+
+--- PAGE 28 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+28 
+3 Project Background 
+India is the 2 nd largest aquaculture and 4 th largest fish exporting nation in the world. 
+Fisheries and aquaculture sector provides livelihood to about 28 million fishers and fish 
+farmers at the primary level and twice the number along the value chain. India shares 
+8% to the global production and contributing 1.1% to India’s Gross Value Added (GVA) 
+and 6.72% (2020-21) to the agricultural GVA.  
+Fisheries sector in India has grown with an average annual growth rate of 10.34% 
+during the year from 2014-15 to 2020-21. The fish production in India has registered 
+an average annual growth of 7.53% from 2014 -15 to 2020-21. The export of marine 
+products stood at 1 .29 million metric tons and valued at INR 46,662.85 crore ( USD 
+6.67 billion) during 2019-20.7  
+India exports frozen shrimps, fish, cuttlefish, squids and dried items and live, and chilled 
+items. Frozen shrimps constitute 75% of export by value and 53% of export by quantity 
+USA and China are the top importers of Indian seafood8.  
+Under the PM Matsya Sampada Yojana (PMMSY), one of the outcomes targeted by the 
+National Fisheries Development Board (NFDB) is the doubling of export earnings from 
+INR 46,589 crore (2018 -19) to INR 1,00,000 crore by 2024 -25. This is aimed to be 
+achieved th rough species diversification, value -addition, infrastructure creation and 
+modernization, end -to-end traceability, brand promotion, certification, etc. in 
+association with Marine Products Export Development Authority (MPEDA). 
+3.1 Marine Products Export Development Authority  
+MPEDA was set up by an act of Parliament in 1972. The Act empowers MPEDA to 
+regulate exports of marine products and take all measures required for ensuring 
+sustained, quality seafood exports from the country. MPEDA as the nodal agency for 
+the holistic deve lopment of the seafood industry in India focuses mainly on Market 
+Promotion, Capture Fisheries, Culture Fisheries, Processing Infrastructure & Value 
+addition, Quality Control, Research and Development. Based on the recommendations 
+of MPEDA, Government of I ndia notified new standards for fishing vessels, storage 
+premises, processing plants, and conveyances.   
+Roles & Responsibilities 
+• Registration of infrastructural facilities for seafood export trade. 
+• Collection and dissemination of trade information. 
+ 
+7 Handbook of Fisheries Statistics 2020, Government of India 
+8 Handbook of Fisheries Statistics 2022, Government of India 
+
+--- PAGE 29 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+29 
+• Promotion of Indian marine products in overseas markets. 
+• Implementation of schemes vital to the industry by extending assistance for 
+infrastructure development for better preservation and modernized processing 
+following quality regime. 
+• Promotion of aquaculture for augmenting export production through hatchery 
+development, new farm development, diversification of species and up 
+gradation of technology 
+• Promotion of deep-sea fishing projects through test fishing, joint ventures, and 
+up gradation & installation of equipment to increase the efficiency of fishing. 
+• Market promotional activities and publicity. 
+• To carry out inspection of marine products, its raw material, fixing standards 
+and specifications, training, regulating as well as to take all necessary steps for 
+maintaining the quality of seafood that are marketed overseas. 
+• Impart trainings to fishermen, fish processing workers, aquaculture farmers 
+and other stake holders in the respective fields related to fisheries, promotion 
+of modernization of fishing harbours. 
+• Conduct research and development for the aquaculture of aquatic species 
+having export potential through Rajiv Gandhi Centre for Aquaculture (RGCA). 
+• Conduct extension and awareness activities, trainings etc. through Network 
+for Fish Quality Management and Sustainable Fishing (NETFISH) & National 
+Centre for Sustainable Aquaculture (NaCSA). 
+• To prescribe for itself any matters required for protecting and augmenting the 
+seafood exports from the country in the future. 
+The central sector scheme of MPEDA is presented below. It has various sub -
+components to address different needs of various stakeholders in this ecosystem. It 
+offers financial assistance, training programs, technical assistance, and laboratory 
+services. It also offers other support services such as trade promotions, export 
+facilitation certificates and registration of stakeholders and export units.  
+  
+
+--- PAGE 30 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+30 
+ 
+ 
+Source: MPEDA 
+ 
+Table 5: Description of components of MPEDA Central Sector Scheme 
+Component Objective 
+Market Promotion  
+Promotion of Indian seafood in overseas markets through various 
+promotional campaigns utilizing trade promotion offices, and 
+digital media, including advertisements, participation in trade 
+fairs, trade delegations, market studies, buyer-seller meets etc.  
+Support for high end/ 
+innovative value addition 
+for exports  
+Assist export processing units on expenses related to 
+certification, infrastructure upgradation/ modifications and 
+encourage value addition in the sector.  
+Certification for export 
+traceability of wild 
+caught & products 
+farmed  
+Carry out sector-specific export promotion activities viz. 
+providing export facilitation certificates to comply with the 
+import market regulations concerned. Forming clusters of small-
+scale and marginal farmers for sustainable and quality shrimp 
+production.  
+Export oriented 
+aquaculture technology 
+incubation  
+Development of incubation centers for aquaculture such as 
+farming through cage culture, pen culture etc.  
+MPEDA SCHEME
+Market 
+Promotion
+Brand  
+Promotion of 
+MPEDA Quality  
+Logo Products
+Publicity and 
+Trade Promotion
+Registration, 
+Statistics and 
+Information 
+Technology
+Trade Promotion 
+Office (New 
+Delhi/New 
+York/Tokyo)
+Market access 
+studies, Trade 
+delegations, 
+BSMs
+Support for High 
+end/Innovative 
+value addition for 
+exports
+Technology 
+development for 
+specific value 
+added products 
+Assistance for export 
+handling units for 
+live/chilled and dried 
+marine products
+Certification for  
+export 
+traceability of 
+wild caught & 
+farmed products
+Assistance for 
+certification of  
+product value chain in 
+seafood 
+Export oriented 
+Aquaculture 
+Technology 
+Incubation
+Quality 
+Assurance
+Quality Control 
+Labs
+Quality System 
+Management
+Establishment
+Figure 5: Components and Sub-components of MPEDA Central Sector Scheme 
+
+--- PAGE 31 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+31 
+Component Objective 
+Quality Assurance  
+Improve the quality of marine products exported, through the 
+creation of infrastructure testing infrastructure and providing 
+testing services to the sector.  
+Source: RFP for this study, Document: SFC MPEDA Final V14 12-09-17 
+Budget Outlay for MPEDA Scheme 
+Standing Finance Committee approved Rs. 480 crore for the Implementation of the 
+‘Marine Products Export Development Scheme’ by MPEDA for the Medium -Term 
+Framework Plan (2017-18 to 2019-20). 
+Table 6: Budget Outlay for MPEDA Scheme (2017-20) in Rs. Crore 
+S No. Name of the Sub-scheme / 
+Component 2017-18 2018-
+19 
+2019-
+20 TOTAL 
+A Market Promotion 18.59 22.93 26.51 68.03 
+A1 Brand Promotion of MPEDA Quality 
+Logo Products 1.25 1.25 1.50 4.00 
+A2 Publicity and Trade Promotion 10.60 14.25 16.68 41.53 
+A3 Registration, Statistics, and 
+Information Technology 1.24 1.38 1.70 4.32 
+A4 Trade Promotion Office (New Delhi / 
+New York / Tokyo) 3.00 3.30 3.63 9.93 
+A5 
+Market access studies through in 
+house and external experts, Trade 
+delegations, Buyer Seller meets  
+2.50 2.75 3.00 8.25 
+ 
+B 
+Support for High End/Innovative 
+Value Addition for Exports 23.83 29.24 36.81 89.88 
+B1 Technology development for specific 
+value-added products. 22.00 26.88 34.00 82.88 
+B2 
+Assistance for the export handling 
+units for Live, Chilled and Dried 
+marine products. 
+1.83 2.36 2.81 7.00 
+C Certification for Export Traceability 
+of Wild Caught & Farmed Products 12.99 15.85 18.80 47.64 
+C1 Assistance for certification of product 
+value chain in seafood 12.99 15.85 18.80 47.64 
+D Export Oriented Aquaculture 
+Technology Incubation    25.82 27.25 33.28 86.35 
+E Quality Assurance 35.31 30.70 30.79 96.80 
+E1 Quality Control labs  32.25 26.37 27.18 85.80 
+E2 Quality System Management 3.06 4.33 3.61 11.01 
+  Total 116.54 125.97 146.19 388.70 
+F Establishment  29.21 29.71 32.38 91.30 
+
+--- PAGE 32 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+32 
+S No. Name of the Sub-scheme / 
+Component 2017-18 2018-
+19 
+2019-
+20 TOTAL 
+ Grand Total 145.75 155.68 178.57 480.00 
+ 
+ 
+Central scheme representation (value chain and where each sub -components lie)  
+ 
+  
+APPROACH AND 
+METHODLOGY 
+CHAPTER 4 
+
+--- PAGE 33 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+33 
+4 Approach and Methodology 
+4.1 Scope of the Project 
+The scope of work required conducting an evaluation & impact evaluation of the central 
+sector scheme of the MPEDA for the SFC period 2017 - 2020. 
+4.2 Study Objectives  
+To understand the effectiveness and impact of the scheme, the study: 
+• Identiﬁed the problems/hurdles in the implementation of scheme.  
+• Assessed the effectiveness of the scheme.  
+• Identiﬁed the area of difficulty in the implementation of scheme through the 
+beneﬁciary’s perspective.  
+• Analysed the outcomes of the international fair participation through 
+participant feedback.  
+• Assessed the ease of applying for the scheme by the beneﬁciary, time period 
+from submission of the application and release of assistance/certiﬁcate, 
+efficiency of the online portal, and ease of providing documents and the 
+beneﬁciary satisfaction.  
+• Evaluated the need and effectiveness of trainings & capacity building.  
+• Evaluated the impact of the assistance on the promotion of marine products 
+export.  
+• Provided recommendations for improvement of the scheme.  
+ 
+4.3 Methodology  
+4.3.1 Impact Evaluation Framework for MPEDA Scheme 
+The OECD DAC Network on Development Evaluation (EvalNet)9 has defined six 
+evaluation criteria – relevance, coherence, effectiveness, efficiency, impact, and 
+sustainability.  
+ 
+9 OECD. (2023). Evaluation Criteria - OECD. Www.oecd.org. 
+https://www.oecd.org/dac/evaluation/daccriteriaforevaluatingdevelopmentassistance.htm 
+
+--- PAGE 34 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+34 
+Table 7: OECD-DAC Impact Evaluation Framework 
+Criteria Question Definition 
+Relevance Is the intervention doing the 
+right things? 
+The extent to which the intervention 
+objectives and design respond to 
+beneficiaries, global, country, and 
+partner/institution needs, policies, and 
+priorities, and continue to do so if 
+circumstances change. 
+Efficiency How well are resources 
+being used? 
+The extent to which the intervention 
+delivers, or is likely to deliver, results in 
+an economic and timely way. 
+Effectiveness Is the intervention achieving 
+its objectives? 
+The extent to which the intervention 
+achieved, or is expected to achieve, its 
+objectives, and its results, including any 
+differential results across groups. 
+Impact What difference does the 
+intervention make? 
+The extent to which the intervention has 
+generated or is expected to generate 
+significant positive or negative, intended, 
+or unintended, higher-level effects. 
+Sustainability Will the benefits last? The extent to which the net benefits of 
+the intervention continue or are likely to 
+continue. 
+Coherence How well does the 
+intervention fit? 
+The compatibility of the intervention 
+with other interventions in a country, 
+sector, or institution. 
+This framework has been applied to the MPEDA Scheme to assess the impact of its 
+various components on different stakeholders in the marine products value chain.  
+ 
+ 
+  
+
+--- PAGE 35 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+35 
+4.3.2 Heuristics Evaluation Framework for assessment of online 
+portals 
+A heuristic evaluation is a method for identifying design problems in a user interface. 
+To assess usability, Jakob Neilsen’s 10 usability heuristics will be used as a guideline. 
+The guideline heuristics have been outlined below.  
+Table 8: Heuristic Evaluation Framework 
+Heuristic Description Explanation 
+Visibility Show system status and tell 
+what’s happening 
+The interface should always keep 
+users informed about what is going on 
+through appropriate feedback within 
+reasonable time. 
+Freedom Provide good defaults and 
+undo 
+Allow users to leave the unwanted 
+state and have a clearly marked 
+“emergency exit”. 
+Error Prevention Help users avoid making 
+mistakes 
+Eliminate error-prone conditions or 
+check for them. Present users with a 
+confirmation option before they 
+commit to the action. 
+Flexibility Make advanced tasks fluid 
+and efficient 
+Allow users to tailor frequent actions 
+and efficiency of use. 
+Error Recovery Help users recognize, 
+diagnose, and recover from 
+errors 
+Error messages should be expressed 
+in plain language, precisely indicate 
+the problem, and constructively 
+suggest a solution. 
+Mapping Use familiar metaphors and 
+language 
+Speak the users’ language, words, 
+phrases, and concepts 
+Consistency Use the same language and 
+interface throughout 
+Make sure that the user interface is 
+predictable and learnable. 
+Recognition Make information easy to 
+discover 
+Minimize user’s memory load by 
+making objects, actions, and options 
+visible or easily retrievable whenever 
+appropriate. 
+Minimalism Provide only necessary 
+information in an elegant way 
+Every extra unit of information 
+competes with the relevant units of 
+information and diminishes their 
+relative visibility. 
+Help Use proactive and in-place 
+hints to guide users 
+Provide necessary help and 
+documentation. Any such information 
+should be easy to search, focused on 
+the user’s task, list of concrete steps 
+to be carried out and not be too large. 
+Source: Neilsen Norman’s Heuristic Evaluation 
+
+--- PAGE 36 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+36 
+For this study, we used the Neilsen Norman Group’s Heuristic Evaluation to assess and 
+report the level of user -friendliness of the web portals offered by MPEDA for the 
+central sector scheme.  
+4.4 Sampling  
+Purposive sampling method was used. The sample was drawn from the list of 
+beneficiaries during the period 2017 -2020 and their geographical distribution. S tates 
+of Andhra Pradesh, Gujarat, Karnataka, Kerala, Maharashtra, and Tamil Nadu  were 
+covered. They are distributed by schemes and programs as tabulated below.  
+Table 9: Sampling frame 
+Scheme Beneficiaries Sample 
+Market promotion - International Fairs 40 10 
+Financial Assistance for Mini Labs 10 5 
+Financial Assistance for Value-Added  98 40 
+Moving towards Certification (MTC) for Primary Production 90 35 
+Other Support Functions – Certificates, Lab services & Training Multiple 20 
+Total 238 110 
+ 
+  
+
+--- PAGE 37 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+37 
+4.5 Report and data limitations 
+Time lag  between scheme implementation and impact survey conducted causing 
+respondents to rely on recall. To counter this, the study questionnaire included recall 
+cues adopting a storyboard approach.  
+This report focused only on the evaluation of impact of the Central Sector Scheme of 
+MPEDA for the SFC 2017-2020 period. The selection of beneficiaries are also from the 
+same period. Therefore, the impact is restricted and limited to the benefits realised for 
+the said time period alone.   
+
+--- PAGE 38 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+38 
+  
+SURVEY DATA 
+ANALYSIS AND 
+FINDINGS 
+CHAPTER 5 
+
+--- PAGE 39 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+39 
+5 Survey Data Analysis & Findings 
+This chapter covers the impact evaluation framework, the analysis of different scheme 
+components and the key findings from the responses of 110 sample beneficiaries. The 
+geographical coverage of the respondents includes the states of Andhra Pradesh, 
+Gujarat, Karnataka, Kerala, Maharashtra, and Tamil Nadu. The composition of 
+respondents is exporters, aquaculture farmers, boat owners, and farmer societies.  
+5.1 Impact Evaluation Areas 
+The evaluation of impact of schemes and services have been conducted based on the 
+OECD-DAC’s REESI framework. The respondent beneficiaries provided their feedback 
+on the different schemes, services and trainings represented through these evaluation 
+questions.  
+Table 10: Impact Evaluation Questions based on REESI framework. 
+Dimension Evaluation Questions 
+Relevance 
+Is the 
+intervention 
+doing the 
+right things? 
+• How do you perceive the relevance of the MPEDA scheme 
+components in addressing your speciﬁc needs and objectives?  
+• Did the market promotion activities supported by MPEDA align with 
+your target markets and export goals?  
+• Did the technical assistance and lab services help you export better 
+quality marine products? 
+• Were the species promoted/technology transferred by RGCA as per 
+the need of the sector? 
+Effectiveness 
+How well are 
+resources 
+being used? 
+• How has your participation in MPEDA-supported international fairs or 
+exhibitions helped improve your exports?  
+• How has the ﬁnancial assistance provided by MPEDA for value 
+addition contributed to enhancing the competitiveness of your export 
+products?  
+• What challenges, if any, have you encountered during the application 
+process for export facilitation certiﬁcates, and how has MPEDA 
+supported you in overcoming those challenges? 
+Efficiency • How long did it take to collect the documents required to submit the 
+online application? 
+
+--- PAGE 40 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+40 
+Dimension Evaluation Questions 
+Is the 
+intervention 
+achieving its 
+objectives? 
+• What was the time taken for getting the approval for your application? 
+• How much time does it takes for you to get the certiﬁcate after 
+applying? 
+• Whether you received timely technical assistance from RGCA? 
+• What is your opinion about the arrangements for the training? 
+Impact 
+What 
+difference 
+does the 
+intervention 
+make? 
+• How has the assisted infrastructure helped you in product 
+diversiﬁcation and increasing export earnings? 
+• How did the scheme beneﬁt your society/cluster? 
+• Whether the formation of cluster helped in better market access and 
+price realisation? 
+• Was the training useful for you to develop a HACCP plan for your 
+unit? 
+Sustainability 
+How to 
+sustain and 
+scale the 
+beneﬁts of 
+the schemes? 
+• Do you think the online system requires any modiﬁcations? If yes, 
+please mention the same.  
+• Any suggestions to improve the schemes and sub-schemes? 
+• How do you feel the training can be improved further? Any 
+suggestions? 
+ 
+  
+
+--- PAGE 41 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+41 
+5.2 Impact assessment of the Central Sector Scheme 
+The role of different schemes and programs under the Central Sector Scheme of 
+MPEDA for the SFC 2017-2020 period have been presented along the value chain of 
+the fisheries and aquaculture industry.  
+Figure 6: Position of Central Sector Scheme of MPEDA in the value chain 
+ 
+Source: Athena analysis 
+The feedback from the respondent beneficiaries for respective schemes have been 
+covered in the subsequent sub-sections.  
+5.2.1 Support for high end/ innovative value addition for 
+exports  
+Special emphasis has been given for the promotion of export of value-added products 
+as there is an increasing global demand for value added products in convenient form. 
+The Scheme is aimed to bring in more investment in high end Value Addition and also 
+on establishment of appropriate facilities to export live, chilled, and dried marine 
+products having high unit value.  
+There are various sub-schemes under this scheme that include: 
+• Technology development for Specific Value-Added Products 
+o Technology Upgradation Scheme for Marine Products 
+o Assistance for Infrastructural Development for Value Addition 
+o Assistance for Process Automation and Packaging 
+o Assistance for Large Cold Storage 
+• Assistance for export handling units for Live/Chilled and Dried marine 
+products 
+
+
+--- PAGE 42 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+42 
+57% of beneficiaries received 75% of the assistance and they belonged to three states 
+– Andhra Pradesh, Kerala, and Karnataka.  
+Table 11: Distribution of financial assistance for value-added products (2017-2020) 
+  2017-18 2018-19 2019-20 Total 
+  
+No. of 
+beneficia
+ries 
+Financi
+al 
+assistan
+ce (in 
+INR 
+lakh) 
+No. of 
+beneficia
+ries 
+Financi
+al 
+assistan
+ce (in 
+INR 
+lakh) 
+No. of 
+beneficia
+ries 
+Financi
+al 
+assistan
+ce (in 
+INR 
+lakh) 
+No. of 
+beneficia
+ries 
+Financi
+al 
+assistan
+ce (in 
+INR 
+lakh) 
+Andhra 
+Pradesh 9 478.5 14 960.28 3 158.3 17 1118.5
+8 
+Goa 3 169.66 0 0 1 38.66 1 38.66 
+Gujarat 12 108.46 5 75.71 7 91.91 12 167.62 
+Karnatak
+a 4 182.33 1 1.89 3 148.43 4 150.32 
+Kerala 15 165 10 611.73 1 43.45 11 655.18 
+Maharas
+htra 9 388.02 8 109.41 2 496.05 10 605.46 
+Odisha 2 12.26 2 8.33 1 150 3 158.33 
+Tamil 
+Nadu 32 184.36 2 69.44 2 95.38 4 164.82 
+West 
+Bengal 3 114.29 1 1.5 4 142.89 5 144.39 
+Source: Data received from Development section, MPEDA on 09 Aug 2023.  
+Document: State-wise Assistance Details from 2013-14 to 2022-23 
+Figure 7: Application workflow to avail financial assistance for support for Value-Added Products 
+ 
+Source: Scheme document received from Development section, MPEDA on 09 Aug 2023 
+Document: TDSV Scheme(2) 
+Advance Approval 
+application
+MPEDA-registered 
+handling centre or 
+processing plant
+Value Addition -
+Quotation for
+• Equipment or 
+Machinery
+• Infrastructure 
+upgradation
+• Technology
+• Cold Storage
+50% of the admissible cost 
+incurred subject to a maximum 
+financial assistance (as per 
+sub-component budget) 
+whichever is less.
+Physical 
+verification
+Field office 
+uploads 
+geotagged 
+photo HO for 
+Advance 
+approval
+Final Approval 
+application
+Physical 
+verification
+Field office uploads 
+geotagged photo, 
+certified invoices & 
+recommendation
+Collection of 
+bond, Aadhaar-
+linked bank 
+account details
+Chairman 
+for Final 
+approval
+Release of 
+Assistance
+Scrutiny at Head 
+Office level
+Advance 
+Approval letter 
+issued
+Upon completion of 
+construction/installation
+Subsidy 
+Committee
+
+--- PAGE 43 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+43 
+The financial assistance scheme was reported to be very useful during the primary 
+survey. Their only source of awareness about the scheme and scheme -related 
+information was MPEDA.  
+Business Profile of the respondents was such that 66% of them exported single 
+segment, fishes or shrimps alone. Their average annual export ranged from INR 30 to 
+600 crore. 88% of the respondents operated in diversified markets with a focus on USA 
+and EU.  
+Only 53% of the respondents filled the 
+application online. MPEDA officials were 
+supportive in the filling up of application and 
+clarifying doubts that came along the way. 
+However, they faced challenges in uploading 
+documents facing network and server error s 
+apart from low file size limit.  
+83% of the respondents found the scheme ‘excellent’. 50% of them found the 
+assistance amount to be ‘adequate’. 27% of respondents used the Advance Approval 
+letter to purchase products faster or secure bank loan.  
+In terms of documentation, respondents found securing the CE certificate and pollution 
+control board certificate to be particularly difficult.   
+Other challenges highlighted by some of the beneficiaries  in increasing the value and 
+volume of value-added exports include the higher lead time in securing import permit 
+and clearances of raw materials, involvement of multiple agencies such as EIC, Customs 
+and FSSAI in issuing clearance and cost of testing the samples of imported items. This 
+reduces the opportunity for exporters to import raw materials for further processing 
+for exports. 
+5.2.2  Market Promotion 
+To keep up with the competition in the international markets, MPEDA enables 
+participation of exporters in the International Seafood Fairs each year and organizes 
+buyer-seller meets to help exporters expand their market and buyers. In addition, small 
+exporters (export value less than USD 20 million) receive financial assistance from 
+MPEDA to participate in these fairs as co-exhibitors.  
+ 
+“New IQF machine helped 
+improve productivity by 
+25% and allowed faster 
+freezing as well.” 
+
+--- PAGE 44 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+44 
+ 
+Intended outcomes of such participation 
+(I) Connect with new buyers and markets. 
+(II) Trade enquiries  
+Efficiency: 80% of the respondents found the support extended by MPEDA in enabling 
+participation in the fairs as satisfactory.  
+Effectiveness: 40% of the respondents reported that they were able to access new 
+buyers from the trade enquiries. 30% of the respondents did not find the enquiries 
+useful. This was primarily attributed to two reasons – exporters had a strong market 
+connect already and the email response rate is much lower than direct engagement 
+with buyers. Newly established exporters especially those attending for the first time 
+may require more handholding support in presenting their products in the stall.  
+Some of the unintended benefits reported 
+were faster visa approvals, support in 
+consolidation of samples for display.  
+In contrast, 60% of the respondents expect 
+MPEDA’s support in providing information on new markets. 30% of the respondents 
+feel a more continuous engagement of MPEDA and the exporters would be helpful.  
+Impact: Around 20% of the respondents reported an increase in exports after engaging 
+with buyers from the international fairs. One exporter reported an export value of INR 
+55 crore while another exporter reported a 2-3% increase in exports.  
+Relevance and Sustainability: Between 2017 and 2019, there were a total of 150 co -
+exhibitors in the 14 fairs organised. Of them, 96 (64%) were unique exporters. Many 
+exporters participate in multiple fairs in the same year and over the years as well. While 
+the participation may be voluntary, it is important to encourage more unique 
+participation.   
+Request for 
+participation
+MPEDA shares a 
+calendar of events 
+with all exporters
+Based on slot availability & 
+payment status, confirmation is 
+shared to exporter
+Eligible exporters apply for 
+financial assistance to 
+participate as co-exhibitor
+“Stalls act as great pull 
+factor for sales.” 
+- Exporter 
+
+--- PAGE 45 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+45 
+Figure 8: Distribution of Co-Exhibitors in International Seafood Fairs (2017-2019) 
+ 
+Source: Data received from Newsletter desk, MPEDA on 16 Aug 2023 
+Note: No international fairs happened in 2020 due to COVID pandemic. Virtual events were organized. 
+5.2.3  Quality Assurance  
+To meet the food safety and quality standards and ensure consumer protection, 
+stringent hygiene measures have been adopted at the national, regional, and 
+international levels, based on the Codex Code of Practice for Fish and Fishery Products 
+(Codex Alimentarius Commission, 2016) and its guidance to countries on practical  
+aspects of implementing good hygiene practices and the Hazard Analysis Critical 
+Control Point (HACCP) food safety management system. 
+5.2.3.1  Financial Assistance for setting up of Mini Labs 
+The scheme provides financial assistance for establishment of laboratory for microbial 
+and chemical parameters of fishery products intended for export purpose in approved 
+processing plant/ handling centre testing of fishery products.  
+The main objective of the scheme is to enable in -house testing of the export 
+consignments at the processing plant level. It is a mandatory requirement for approval 
+of the unit as it also helps in verification of the effectiveness of HACCP implementation 
+of the processing establishment. 
+21
+2
+6
+3 3
+10
+6
+19
+13
+5
+12
+25
+18
+7
+Seafood Expo Global,
+Brussels
+Hong Kong International
+Food Expo
+Japan International Seafood
+and Technology Expo
+WorldFood, Moscow
+Busan, International Seafood
+& Fisheries Expo
+China Seafood & Fisheries
+Expo
+Seafood Expo North
+America, Boston
+Seafood Expo Global,
+Brussels
+Japan International Seafood
+and Technology Expo
+SEAFEX, Dubai
+China Seafood & Fisheries
+Expo
+Seafood Expo Global,
+Brussels
+China Seafood & Fisheries
+Expo
+Japan International Seafood
+and Technology Expo
+2017 2018 2019
+
+--- PAGE 46 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+46 
+Figure 9: Approval process for application for financial assistance for mini labs 
+ 
+Source: Financial Assistance for Mini Labs scheme document, MPEDA 
+Subsidy Committee consists of Joint Director (Quality Control) or Joint Director 
+(Marketing) as the Chairman and one member each from Central Institute of Fisheries 
+Technology (CIFT), National Institute for Fisheries Pre -Harvest Testing and Training 
+(NIPHATT) and Seafood Exporters Association of India (SEAI). 
+Applications are processed based on ‘first come first serve’ basis. The approval process 
+is as described  in Figure 9Figure 9. The final approval is provided based on the 
+Chairman’s approval considering the recommendations of the Subsidy committee and 
+availability of funds in that year’s budget. During SFC 2017 -2020 period, an average 
+of 2 applications were approved.  
+Figure 10: Distribution of beneficiaries and average assistance received for SFC 2017-2020 
+ 
+Source: MPEDA 
+Advance Approval 
+application
+MPEDA-registered 
+handling centre or 
+processing plant
+Mini Lab -
+Quotation for
+• Equipment
+• Glassware
+• Media
+• Chemicals
+• Furniture
+• Miscellaneous
+50% of the admissible cost 
+incurred subject to a maximum
+financial assistance of Rs. 
+5,00,000/- whichever is less.
+Physical 
+verification
+Field office 
+uploads 
+geotagged 
+photo HO for 
+Advance 
+approval
+Final Approval 
+application
+Physical 
+verification
+Field office uploads 
+geotagged photo, 
+certified invoices & 
+recommendation
+Collection of 
+bond, Aadhaar-
+linked bank 
+account details
+Chairman 
+for Final 
+approval
+Release of 
+Assistance
+Subsidy 
+Committee
+Advance 
+Approval letter 
+issued
+Scrutiny at Head 
+Office level
+₹131,185.33 ₹148,480.67
+₹366,420.00 ₹387,662.50
+3 3
+2 2
+2017-18 2018-19 2019-20 2020-21
+Average Assistance Number of beneficiaries
+
+--- PAGE 47 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+47 
+The application for advance approval can be filled as a physical application or on e -
+mpeda portal using the beneficiary login. 60% of the respondents filled the physical 
+application form while 40% filled it online.  
+Respondents found the application form easy to understand and fill. They found the 
+officials in the MPEDA field office to be supportive throughout the process.  
+On an average, the respondents reported that the time elapsed between advance 
+approval and final approval range between four and six months.  
+100% of the respondents reported that the assistance for mini labs was useful. Only 
+20% of the respondents felt an assistance of 60-70% would be more sufficient.  
+The in-house laboratories carry out routine microbial and chemical analysis of fish and 
+fishery products so as to ensure process controls and production of safe and quality 
+seafood intended for exports. In the primary survey, the beneficiaries reported tha t 
+they tested at least 2000 samples per day.  
+60% of the respondents reported to have 
+better control over quality. 20% of the 
+respondents reported they could get the test 
+results faster . Lower costs of testing were 
+realised because private labs tend to charge fee 
+based on number of parameters. 
+Only concern raised by the respondents was with regard to the media and chemicals 
+as they formed part of recurring costs and felt that some assistance to help them 
+properly dispose the unused chemicals would be very useful.  
+5.2.3.2  Quality Control and ELISA labs 
+To monitor the control over the residues of unauthorized substances and 
+environmental contaminants in ﬁsh & ﬁshery products, MPEDA has established ﬁve 
+Quality Control (QC) Laboratories in five locations across India to provide advanced 
+and state-of-the-art testing facilities to the stakeholders. The National Residue Control 
+Plan (NRCP) is a statutory requirement to be implemented by the countries for 
+exporting to EU countries. The conceptualisation, planning and implementation of 
+NRCP is undertaken by the MPEDA QC labs.  
+25,591 samples were tested during the 2017 to 2020 period. Majority of the samples 
+were tested from either farm or processing plant as seen in Figure 11. 
+“We have reduced lab-
+related expenses by 40% 
+after setting up mini lab.” 
+
+--- PAGE 48 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+48 
+Figure 11: Samples tested under NRCP during 2017-2020 at different sources. 
+ 
+Source: Data shared by QC Section, MPEDA on 14 Aug 2023 
+ELISA Screening laboratories in coastal states support the farming community in 
+ensuring the quality and traceability of the shrimp crops they have produced for export 
+supply. The cultured or farmed shrimps are tested for antibiotics residue before they 
+are harvested. The test result is issued in the form of Pre -Harvest Test certificates. 
+MPEDA operates 1 4 ELISA labs across India. An average of 11,000 samples were 
+tested annually during 2017-2020.  
+Figure 12: State-wise distributions of PHT certificates issued (2017-2020) 
+ 
+Source: Data shared by QC Section, MPEDA on 14 Aug 2023 
+3508
+21 135
+1740
+3768
+13 184
+1809
+4517
+13 174
+2219
+4848
+19 218
+2405
+Farm
+Feed Mill
+Hatchery
+Processing plant
+Farm
+Feed Mill
+Hatchery
+Processing plant
+Farm
+Feed Mill
+Hatchery
+Processing plant
+Farm
+Feed Mill
+Hatchery
+Processing plant
+2017 2018 2019 2020
+7679
+1430
+789
+1193
+652
+6271
+962
+1366
+1138
+961
+7143
+1379
+1226
+1127
+1034
+Andhra Pradesh Odisha West Bengal Gujarat Tamil Nadu
+2017-18 2018-19 2019-20
+
+--- PAGE 49 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+49 
+Most respondents were aware of the MPEDA lab 
+services but typically opted services of the 
+private labs. They found private labs relatively 
+cheaper and more accessible than MPEDA labs. 
+Respondents who availed MPEDA lab services 
+found the services to be reliable and the persons 
+at lab to be responsive and prompt in informing the test results.  
+The outcome of adhering to high quality standards of exported products is reflected in 
+the form of low rejections at the international markets. 70% of the rejections from the 
+USA were on account of residues of banned antibiotics, salmonella and filthy. 80%  of 
+the rejections from the European Union were on account of residues of banned 
+antibiotics, cadmium, and poor temperature control. Rejection from Japan was only for 
+residues of banned antibiotics. 
+Figure 13: Trend in export rejections for Indian seafood in the USA, EU, and Japan markets (2017-2020) 
+ 
+Source: Data shared by QC Section, MPEDA on 11 Aug 2023 
+5.2.4  Training & Capacity building 
+Various training programmes have been organised by MPEDA and the three societies, 
+NETFISH, RGCA and NaCSA. They have been summarised for the SFC period, 2017-
+20 in Table 12. 
+Table 12: Participation in select training programs organised by MPEDA in 2017-2020 
+S. No. Name of Training  No. of participants 
+(2017-20) Organised by 
+1 HACCP 405 MPEDA-QC 
+2 Value-Added 472 MPEDA-Development 
+39
+7
+47
+37
+5
+52
+11
+5
+30
+13
+5
+71
+EU Japan USA EU Japan USA EU Japan USA EU Japan USA
+2017 2018 2019 2020
+“Whenever we need very 
+reliable testing, we go to 
+MPEDA labs.” 
+
+--- PAGE 50 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+50 
+S. No. Name of Training  No. of participants 
+(2017-20) Organised by 
+3 Training & Skill 
+development 30,292 MPEDA-Aqua 
+4 Training  1,36,958 NETFISH 
+5 Trainings/Meetings 66,630 NaCSA 
+6 Training 1,528 RGCA 
+Source: MPEDA Annual Reports 2017-2020; RGCA website10 
+• 100% of respondents who participated in HACCP & Value -add training found 
+the programs useful and trainer to be very knowledgeable.   
+• Local language support was crucial in the positive experience of Value -added 
+training. 
+• 100% respondents found the trainings useful and for HACCP, they were able to 
+make their own manual.  
+• Most exporters have not adopted value -added production line due to cost of 
+establishment, limited knowledge of transferring learnings from training to 
+production line.   
+• Encourage the foreign expert to stay for longer duration to enable transfer of 
+learning.  
+• Demonstration training helped respondents realise scope for species 
+diversification. However, the adoption remains a challenge as the  number of 
+beneficiaries are high and difficult to monitor utility. Moreover, seed availability 
+to cater to the demand is presently not commercially available.  
+Network for Fish Quality Management and Sustainable Fishing (NETFISH) is a society 
+formed as an extension arm of MPEDA. NETFISH functions for improving the quality 
+of fishery products exported from the country and the sustainability of fishery 
+resources as well. NETFISH achieves this goal through grass root level capacity building 
+activities among fishermen, boat crew, harbour workers, fisherwomen, pre-processing 
+and processing workers, technicians, other fishery stakeholders etc. on fish quality 
+management, conservation of fish resources and sustainable fishing. Since inception, 
+NETFISH has successfully conducted more than 27,500 extension programmes whole 
+through the country. 
+ 
+10 https://v2.rgca.co.in/f_trainprog.php 
+
+--- PAGE 51 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+51 
+Table 13: Training programs conducted by NETFISH (2017-2020) 
+# Type of 
+programme 
+2017-
+18 
+2018-19 2019-2020 
+Total 
+No. of 
+program
+mes 
+Total 
+No: of 
+Benefici
+aries 
+Total 
+No. of 
+progra
+mmes 
+Total 
+No: of 
+Benefici
+aries 
+Total 
+No. of 
+progra
+mmes 
+Total 
+No: of 
+Benefici
+aries 
+1 Square mesh 
+popularization/Qu
+ality/Conservation 
+programme at 
+harbours/landing 
+centres 
+636 18564 
+    
+2 Fish Quality 
+Management/Con
+servation 
+  
+604 17449 
+  
+3 Harbour/Landing 
+Centre/Fishermen 
+Village Training 
+Programmes 
+    
+701 20167 
+4 Square mesh 
+fabrication training 
+28 753 48 2174 
+  
+5 Onboard training 178 2334 136 1771 162 2022 
+6 Pre-processing 
+centre training 
+151 4258 112 3300 
+  
+7 Processing centre 
+training 
+47 1386 40 1222 
+  
+8 Pre-
+processing/Proces
+sing Centre 
+Training 
+Programmes 
+    
+101 2991 
+9 Dry fish training 233 6829 185 5425 106 3090 
+10 VHSE programme 18 759 19 794 
+  
+
+--- PAGE 52 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+52 
+# Type of 
+programme 
+2017-
+18 
+2018-19 2019-2020 
+Total 
+No. of 
+program
+mes 
+Total 
+No: of 
+Benefici
+aries 
+Total 
+No. of 
+progra
+mmes 
+Total 
+No: of 
+Benefici
+aries 
+Total 
+No. of 
+progra
+mmes 
+Total 
+No: of 
+Benefici
+aries 
+11 Value addition of 
+fishery products 
+44 1125 39 1063 
+  
+12 Skill Development 
+Training 
+Programmes 
+(Square Mesh 
+Fabrication, Value 
+Addition, Tuna 
+Long Lining etc.) 
+    
+46 899 
+13 Other livelihood 
+development 
+programme 
+7 255 
+    
+14 Exposure visits 4 69 2 30 
+  
+15 GPS Handling/Eco 
+sounder training 
+33 971 27 785 
+  
+16 Tuna Processing 
+training 
+12 263 14 240 
+  
+17 Cleanup 
+programme 
+21 1207 31 2162 
+  
+18 School programme 21 1608 39 2956 
+  
+19 Cuttle Fish 
+Conservation 
+programme 
+1 11 
+    
+20 Sea club 
+programme 
+3 129 5 195 
+  
+21 Sea safety 
+programme 
+8 344 53 1881 44 1622 
+22 Other Special 
+programmes 
+158 13473 35 3153 134 7229 
+
+--- PAGE 53 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+53 
+# Type of 
+programme 
+2017-
+18 
+2018-19 2019-2020 
+Total 
+No. of 
+program
+mes 
+Total 
+No: of 
+Benefici
+aries 
+Total 
+No. of 
+progra
+mmes 
+Total 
+No: of 
+Benefici
+aries 
+Total 
+No. of 
+progra
+mmes 
+Total 
+No: of 
+Benefici
+aries 
+including Street 
+Play, Exhibition 
+etc. 
+ 
+Grand Total 1603 54338 1389 44600 1294 38020 
+Source: Data extracted from NETFISH Annual Reports 2017-2020 
+Quality related training at the source for marine fisheries is offered by NETFISH. While 
+the fishers and people working at the harbour appreciate the training, the cost of 
+adopting all the appropriate behaviour is reported to be high.  
+In a study conducted on value chain management practices of fresh fish in Coastal 
+Andhra Pradesh11 revealed that the most significant contributors to final price of the 
+produce are grading, packaging, and branding. This is followed by icing, removal of 
+slime and weighing. The study also highlighted that sorting adds lesser value to the final 
+price. Hence, adoption of practices and behaviour are determined by the incremental 
+value realised as a consequence. Further, the ecosystem determines the pace at which 
+desired practices get adopted.  
+5.2.4.1  Assessment of need and effectiveness of training and capacity 
+building 
+Overall, the scale of training (number of participants targeted) is inversely proportional 
+to the effectiveness of the training. Wherever the training and capacity building 
+programs were targeted with smaller number of beneficiaries, the effectiveness was 
+greater which was indicated the beneficiaries’ ability to recall specific information and 
+learnings from the programs. While there is explicit need for such training, these 
+programs have to be adjusted to accommodate the stakeholder needs and provide 
+better handholding support to adopt the learning of these programs.  
+  
+ 
+11 Kotni, V V Devi Prasad. (2016). Value Chain Management in Marine Fisheries: A Case Study of 
+Andhra Pradesh. International Journal of Managing Value and Supply Chains. 7. 09-19. 
+10.5121/ijmvsc.2016.7202. 
+
+--- PAGE 54 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+54 
+5.2.5 Certification for export traceability of wild caught & 
+farmed products.  
+Fish farming allows greater control over production processes than do capture 
+fisheries, and it is more conducive to vertical and horizontal integration in production 
+and supply chains. As a result, aquaculture has expanded fish availability to regions and 
+countries with otherwise limited or no access to the cultured species, often at cheaper 
+prices, leading to improved nutrition and food security. The expansion in aquaculture 
+production is due to species such as shrimps, salmon, bivalves, tilapia, carp, and catfish.  
+5.2.5.1 Financial Assistance for Moving towards certification 
+The financial assistance for moving towards sustainability and certification is aimed to 
+help acquire certification standards and infrastructure/equipment for the production 
+of quality seafood from aquaculture Farms/Hatchery/Feed mills/ ornamental fish 
+breeding units/ rearing farms/ export holding facilities. 
+This scheme envisages capacity building of aquafarmers, small farmers in particular, to 
+achieve the certification standards and facilitate them to get National Certification 
+(SHAPHARI) or a Third-Party Certification thereby paving way for getting easy market 
+access and earning better prices for their produce. 
+Figure 14: Application process flow to avail financial assistance for moving towards sustainability and certification. 
+ 
+Source: Interpretation of the Scheme Guidelines for Assistance for Certification of primary production, 
+MPEDA-Aquaculture section 
+For the SFC 2017-2020 period, the average financial assistance provided was INR 2.9 
+lakh. For 90 beneficiaries, total financial assistance disbursed was INR 2.69 crore.  
+Advance Approval 
+application
+MPEDA-registered/enrolled
+• Aqua farm or Aqua Farmers Society, or 
+hatchery or nursery or feed mill.
+• Ornamental fish rearing farm, breeding 
+units, fish producer companies, 
+aquarium plant culturing units, export 
+holding centres, mini feed mills
+MTC-
+Quotation for
+• biosecurity 
+infrastructure
+• Any other 
+eligible item
+• Supporting 
+documents 
+requested 
+50% of the admissible cost 
+incurred subject to a maximum 
+financial assistance of Rs. 5 
+lakh per unit, whichever is less.
+Physical 
+verification
+Field office 
+uploads 
+geotagged 
+photo HO for 
+Advance 
+approval
+Final Approval 
+application
+Physical 
+verification
+Field office uploads 
+geotagged photo, 
+certified invoices & 
+recommendation
+Collection of 
+bond, Aadhaar-
+linked bank 
+account details
+Chairman 
+for Final 
+approval
+Release of 
+Assistance
+Advance 
+Approval letter 
+issued
+Upon completion of 
+construction/installation
+Export-oriented species:
+P.monodon, L.vannamei, P.indicus, P.merguiensis, 
+Scampi, GIFT Tilapia, Asian Sea bass, Mangrove 
+(Mud) crab, Pangasius, Cobia, Grouper, Pompano
+Scrutiny at Head 
+Office level
+Subsidy 
+Committee
+
+--- PAGE 55 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+55 
+100% of the respondents have chosen L.vannamei as the crop of choice. The median 
+farm size is 5.5 acres.  
+Respondents from Raigad, Maharashtra reported a unique challenge of not having local 
+hatcheries and feed mill to support production. They usually source it from Andhra 
+Pradesh and Tamil Nadu.  
+86% of the respondents filled a physical application form and almost always took help 
+of friends, family members and MPEDA officials to fill the form.  
+The time to purchase and install the required biosecurity infrastructure took between 
+6 months and 2 years before the respondents applied for final approval to receive the 
+assistance.  
+45% of the respondents felt that an increase in the subsidy amount would be helpful 
+as the cost of establishing the farm is between six and seven lakh rupees. MPEDA 
+officials have also made representation to increase the eligible amount under the Kisan 
+Credit Card from the regular INR 3 lakh that other agriculture farmers can avail for.  
+A unique challenge for the farmers from the SC/ST category is the insufficient access 
+to formal credit. As a result, they are unable to fully utilise the 75% financial assistance 
+and the advance approval letter to help purchase the required infrastructure for their 
+farms.  
+Impact: Only 9% of the respondents reported to have sold their produce directly to the 
+exporter. Remaining 81% sold it to agents but were not sure which market their 
+produce was being exported to. Also, they faced other challenges such as water quality 
+issues, power shortages and increasing input costs (mainly feed and labour).  
+Market-related challenges highlighted by the respondents include lower market price 
+for their crop, and increasing input costs (feed and electricity).  
+5.2.5.2  Export Traceability 
+Around 78% of the fishery products traded worldwide are destined to international 
+markets, so it is necessary to ensure that they do not come from fisheries that 
+compromise the sustainability of resources and ecosystems, nor from illegal, 
+unreported, or regulated (IUU) sources. Hence, traceability becomes a very useful tool 
+to combat these practices and ensure the legitimate origin of the products.  
+According to World Wildlife Fund, traceability throughout the entire production chain 
+helps: 
+• Ensure traceable products to the point of origin from legal catches from 
+regulated fisheries reports. 
+
+--- PAGE 56 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+56 
+• Combat illegal trade in fishery products and other illicit activities that could be 
+taking place. 
+• Fulfil the legal requirements of fishing activity, market demands and 
+international sustainable fishing standards. 
+• Improve fishing regulations through better information of the supply chain and 
+a greater transparency in the sea. 
+MPEDA enables traceability through its export facilitation certificates. For the sea 
+caught species, Catch certificate is issued and the type of certificate is categorised 
+based on the export market such as EU or Non -EU. With regard to shrimp exports to 
+the USA, DS -2031 certificate is issued to declare that the shrimps were caught in a 
+manner not harmful to the turtles or were harvested from aquaculture. ICCAT is a 
+specialised certificate for Tuna species. These certificates are the most sought after by 
+the exporters which is also an indication of the direction of trade for India.   
+Presently, for facilitating traceability of aquaculture products, MPEDA is implementing 
+hatchery/farm enrolment with pond-wise geographical data. 
+Figure 15: Distribution of Export Facilitation Certificates (2017-2020) 
+ 
+Source: MPEDA Annual Reports (2017-18, 2018-19 and 2019-20) 
+All respondents found it easy to apply for export facilitation certificates. They got the 
+certificate within 24 hours. They found the MPEDA officials to be supportive. 
+Exporters experience delay in getting certificates from E xport Inspection Council, EIC 
+(Health certificate). 18% of the respondents found accessing the certificates over the 
+weekend difficult. 
+20670
+31
+15108
+767 49
+9882
+730
+16900
+1038 127
+9051
+358
+19454
+976 124
+Catch-EU Catch Non-EU DS-2031 (USA) ICCAT Certificate of
+Origin
+2017-18 2018-19 2019-20
+
+--- PAGE 57 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+57 
+5.2.5.3  Farming clusters 
+More than 90% of Indian shrimp farmers belong to small -scale or marginal category 
+with operational holdings of less than two hectare per individual. National Centre for 
+Sustainable Aquaculture (NaCSA) was established by MPEDA as an outreach 
+organization for uplifting the livelihood of small-scale shrimp farmers by helping them 
+form societies and educating them about the better management practices (BMP) for 
+safe and sustainable shrimp farming. Respondents found the MPEDA and NaCSA 
+officials to be supportive and engaging. They also found the trainings offered to them 
+useful.  
+Farming clusters aimed for the members to be able to reduce the production cost 
+through efficient use of resources, avoiding unwanted chemicals and antibacterial 
+agents, and sharing of expenses for developing infrastructure such as deepening of 
+canals, seed testing, transportation of inputs, lab, electricity etc. Respondents informed 
+that they were not able to procure seeds and feeds from a single entity to bargain for 
+a better price.  
+Societies facilitate access to institutional finance and insurance. It is a source for linking 
+the farmers with processors and exporters for better market access and price. 
+However, the benefits of getting better market price or improved market access have  
+not been fully realised as all the respondents informed that the market price is 
+determined by the agents or exporters who come to procure their shrimps.  
+Societies formed by farmers belonging to Scheduled Castes reported that they were 
+unable to access institutional credit timely and hence, were unable to fully utilise the 
+benefits of the financial assistance scheme within the advance approval period. 
+5.2.6 Export oriented aquaculture technology incubation  
+Rajiv Gandhi Centre for Aquaculture (RGCA) is a Research & Development arm of 
+MPEDA for diversified aquaculture. The technology developed by RGCA is in 
+commercial mode and the deliverable will be extended to the needy farmers & 
+entrepreneurs in India and a broad under Technology Transfer agreement. RGCA is 
+seen as Aquaculture Technology Incubation Centre of MPEDA to promote aquaculture 
+of commercial species for export purposes.  
+
+--- PAGE 58 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+58 
+Figure 16: Key focus areas of RGCA 
+ 
+Source: RGCA Activities document shared on 11 Aug 2023 
+Below table summarises the quantum of seeds distributed for the species promoted 
+under species diversification project 
+Table 14: Distribution of seeds for species diversification by RGCA since inception of the projects 
+Species Particulars Quantity 
+Seabass Total number of seed supplied (from 
+2000) 
+25.8 million 
+No. of beneficiaries 3007 
+Area promoted 4251 Ha (0.5/m2) 
+Mudcrab Total number of crab-instar/crablets 
+supplied 
+9.2 million 
+No. of beneficiaries 1049 
+Area promoted 1803 Ha 
+GIFT Total number of seed/brood-fry 
+supplied 
+All male seed: 43.65 million 
+  Brood-fry: 51,728 nos. 
+No. of beneficiaries 531 
+Area promoted 1778.5 Ha 
+Artemia Artemia biomass & Cyst supplied Biomass: 7834 Kg 
+  Cysts: 2,762 Tins 
+No. of beneficiaries 569 
+Source: RGCA Activities document shared on 11 Aug 2023 
+
+
+--- PAGE 59 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+59 
+Respondents have purchased seeds of GIFT Tilapia, Pearlspot, Mudcrab and Seabass. 
+The demand for Mudcrab seeds in the east coast is higher than the present supply. 
+Main challenges in commercial adoption include timely availability and sufficient 
+quantity of seeds for culture and relatively lower market price compared to shrimps. 
+Respondents wanted more technical guidance from RCGA for commercial adoption.  
+RGCA has also signed MoU with state Governments and private entrepreneurs on 
+transfer of technology for establishment of hatcheries for diversified species. 
+5.3 Problems/Hurdles in the implementation of the 
+Scheme 
+Common challenges found in the implementation of the scheme are related to securing 
+supporting documents, processing time of application and engagement frequency with 
+the beneficiaries.  
+• Delay in allocating funds for disbursement to beneficiaries for the SFC period.   
+• Documents to be sourced from multiple departments from the state 
+government and local body which delays the collection of documents to be 
+submitted for availing financial assistance.  
+• New exporters require more hand holding in terms of presenting the required 
+documents and invoices in the prescribed formats. For some of them this has 
+led to lapsing of the extended period of the advance approval. They also require 
+support in being referr ed to reliable buyers to avoid changes in the quotation 
+post receipt of advance approval.  
+• Large number of documents to be verified especially for financial assistance 
+causing delay in processing applications with limited manpower at the Head 
+office and field offices.  
+• Online portal is not user-friendly to help officials verify and validate documents 
+and invoices.  
+• Application forms are not in local or regional language making applicants 
+dependent on MPEDA officials to clarify and complete the application.  
+• Lack of a monitoring and decision-making tool for the MPEDA officials to track 
+the progress of scheme disbursals and other performance metrics or 
+deliverables.  
+• The structure of MPEDA is functionally organized into administrative sections, 
+there is limited formal flow of information and data among the sections leading 
+to the schemes and programs being implemented as a standalone activity. 
+ 
+  
+
+--- PAGE 60 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+60 
+5.4 Analysis of user friendliness of online portal 
+Based on heuristic evaluation framework, e -mpeda portal was assessed for its user -
+friendliness.  
+ 
+
+
+--- PAGE 61 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+61 
+Portal related Issues reported by beneficiaries: 
+• Network issues 
+• Server issues 
+• File size limit to upload not sufficient.  
+New feature requests from beneficiaries 
+• Dashboard view  
+• Eligible schemes and programs to be alerted on the portal itself. 
+• MPEDA wallet facility so that money can be deposited in bulk and consumed 
+as per need and avoiding the hassle of OTP for each transaction.  
+• Improve browser compatibility. 
+5.5 Key takeaways 
+The key takeaways from the beneficiary survey have been summarised below as: 
+ 
+• Financial Assistance Schemes were aligned with the 
+beneficiary needs, market demands and global value chain 
+of fisheries and aquaculture. 
+• 100% of respondents have reported that the scheme was 
+crucial for development in marine products exports. 
+ 
+• The e-mpeda portal has a score of 60% on user-
+friendliness assessed based on heuristic evaluation which 
+leads to sub-optimal performance. 
+• Only 30-35% respondents found the online application 
+easy to use. 
+• About 50% of the respondents found the assistance 
+amount adequate. 
+• 70% of the respondents who participated in international 
+fairs found support extended by MPEDA adequate. 
+• 100% of respondents found the MPEDA officials 
+supportive and responsive. 
+ 
+• Respondents of financial assistance scheme have 
+reported an increase in productivity and turnover. 
+Monitoring beyond the obligation period to capture the 
+long-term impact is not available. 
+Relevance
+Efficiency
+Effectiveness
+
+
+--- PAGE 62 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+62 
+• 100% of respondents have reported that online portal 
+provided a faster turnaround (less than one day) for 
+export facilitation certificates. 
+• 20% of beneficiaries reported an increase in exports after 
+attending international fairs. 
+• 100% of beneficiaries found prospective buyers while 
+participating in the international fairs. 
+• Less than 5% of the respondents utilised MPEDA lab 
+services on need basis. Beneficiaries found the MPEDA 
+lab testing services reliable and timely. 
+• Low conversion of beneficiaries adopting value-added 
+products or processes after MPEDA training due to 
+multiple factors 
+• 100% of respondents found mini lab set up with 
+MPEDA's financial assistance useful. 
+• Respondents reported a limited price realization due to 
+cluster formation. 
+• 100% of the respondents found the training material and 
+quality of trainers adequate and relevant.  
+• Online portal is transactional and does not allow for 
+continuous engagement of beneficiaries. 
+ 
+• Respondents of financial assistance scheme for value-
+added products and mini labs continue to use the 
+infrastructure for furthering exports. 
+• Training programs helped create awareness, but the rate 
+of adoption is slow due to cost-benefit reasons.  
+• Portal for availing export facilitation certificates was 
+reported to be useful and user-friendly leading to higher 
+adoption rate.  
+• Farming clusters were unable to leverage the complete 
+benefits due to low bargaining power. 
+• Technical documentation for all modules of e-mpeda 
+portal not available. Change requests and updates done 
+over email does not allow monitoring and learning of the 
+portal utilisation.  
+• Awareness about the schemes and services of MPEDA is 
+person-driven and nature of benefit realised. 
+ 
+  
+Sustainability
+
+
+--- PAGE 63 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+63 
+  
+RECOMMENDATIONS 
+CHAPTER 6 
+
+--- PAGE 64 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+64 
+6 Recommendations 
+The recommendations have been structured on four levels – (1) Strategic; (2) System 
+and Process; (3) Scheme-level and (4) Ecosystem Initiatives.  
+6.1 Strategic 
+6.1.1 Establish a Technical Project Management Office (TPMO) 
+Context • The structure of MPEDA is functionally organized into  
+administrative sections, there is limited formal flow of information 
+and data among the sections leading to the schemes and programs 
+being implemented as a standalone activity.  
+• From beneficiary perspective, the role of MPEDA is seen as 
+administrator of financial benefits than technical agency leading to 
+reduced stickiness with beneficiaries and may lead to 
+marginalization of MPEDA role in the future. 
+Action 
+Points 
+• Establish cross-functional Technical Project Management Office  
+(TPMO) to ensure alignment of goals  
+• Rebranding of MPEDA as techno -commercial agency from 
+beneficiary perspective 
+• TPMO will operate on Mission Mode with clearly defined 
+outcomes linking organisational goals with functional goals - 
+Balanced score card.  
+• Build evidence-based outcome templates. 
+• Design and develop impact dashboard. 
+Technical PMO will support the top management in:  
+▪ Prioritization of projects and ideas 
+▪ Distribution of strategic information 
+▪ Strategic alignment of projects and ideas 
+▪ Cost-benefit analyses of projects and ideas 
+▪ Check for achieved strategic contribution 
+
+--- PAGE 65 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+65 
+ 
+Priority High 
+ 
+  
+
+
+--- PAGE 66 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+66 
+ 
+6.1.2  Establish a Marine Sector Skill Council  
+Context • There is no formal institutional structure to focus on skill 
+development of the entire skill pyramid of the marine industry. 
+• Fisheries and aquaculture support about 2.8  crore fishers – 2.3 
+crore inland fishers and 49 lakh marine fishers12. There are 1,515 
+exporters registered with MPEDA. There are  613 processing 
+plants; 271 handling centres; 787 storage facilities 13 in Marine 
+export industry required varying degrees of skill requirement. 
+Action 
+Points 
+• Establish Marine Export Sector Skill Council in association with 
+NSDC. 
+• Act as nodal agency for certification and accreditation for 
+vocational training program  in marine and aquaculture sector  on 
+export related activities. 
+• Develop functional and occupational mapping, prepare National 
+Occupational Standards  (NOS) and Qualification Packs,  Roll-out 
+RPL and Short -term training program in association with training 
+partners. 
+• Converge all the current training initiatives of MPEDA under the 
+Marine Sector Skill Council 
+Advantages: 
+• Build a self -sustaining training ecosystem in marine products 
+export sector. 
+• Convergence of existing MPEDA training programme under the 
+Marine Sector Skill Council (MSSC) 
+• Develop market driven training programs  for exporters on value 
+addition, market regulations etc. 
+• Increased access to training program for fishers through PMKVY 
+RPL programs 
+• Access to funding through donors, CSR and PMKVY schemes, 
+which is a major constraint right now due to reduced budgetary 
+support.  
+Priority High 
+ 
+12 Handbook on Fisheries Statistics 2020, Government of India 
+13 MPEDA Annual Report 2019-20 
+
+--- PAGE 67 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+67 
+ 
+6.1.3  MPEDA as Unified Authority for Export Facilitation  
+Context World seafood trade is to the tune of USD 190 billion14, of which 
+trade of value-added products under Harmonised System (HS) Code 
+Chapter 16 is worth USD 34.6 million. India’s share in global trade of 
+value-added products export is only 2.5% i.e., USD 0.86 million. 
+India’s competitors in global seafood trade, China, Vietnam, Thailand 
+etc are forerunners in the trade of value-added marine products. As 
+against India’s miniscule share of 2.5%, China, the hub for 
+reprocessing and value addition industry in the world holds share of 
+28.5 % of global value-added marine products trade under Chapter 
+16, followed by Thailand at 11.01% and Vietnam at 8.24%.  
+In the context of Indian seafood industry, owing to issues related to 
+non-availability of sufficient raw material, Indian processors are 
+currently able to be utiliz e only 25 -30% of the installed capacity, 
+which is tuned to the peak harvest season.  
+Given this background, India can be positioned as global hub for value 
+addition. To unlock this opportunity, several process related 
+bottlenecks needs to be addressed such as: 
+1. Lead time in issuing Sanitary Import Permit (SIP) and  Specific 
+Pathogen Free (SPF)  certificate and involvement of multiple 
+agencies in the clearance process 
+a. The major seafood importing countries like US, EU, and 
+Japan are not insisting/issuing SPF certificate for import 
+and export of seafood consignment. 
+b. Notified ports in India does not have the laboratory 
+facilities for testing the World Organisation for Animal 
+Health (WOAH), listed pathogens and chemicals in the 
+imported fishery products.   The samples taken by 
+FSSAI/AQCS are sent to the outside designated 
+laboratory for testing.  Once FSSAI/AQCS issues a No-
+Objection Certificate (NOC), EIA takes the sample again 
+& tests all the parameters. The consignment is allowed 
+to be processed only after the sample passes the EIA 
+test. 
+ 
+14 Source: MPEDA 
+
+--- PAGE 68 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+68 
+2. Lead-time in issuance of NOC from Customs & DGFT for 
+Advance Authorization 
+a. The lead -time ranges from 15 to 25 days in advance 
+authorization 
+MPEDA was formed in 1972. However, the powers to certify fish & 
+fishery products for export is still vested with EIC, which deals with 
+multiple commodities. This requires exporters to interface with more 
+than one entity for export facilitation.  
+Action 
+Points 
+▪ MPEDA may be designated as an authorized agency for single 
+window clearance for import of raw material for re processing and 
+export of value-added seafood products. MPEDA would facilitate 
+export of fish and fishery in line with the regulatory functions of 
+APEDA & Spices Board. 
+▪ MPEDA may be delegated power as a single agency for collection 
+of sample and testing for clearance for import of  marine product 
+raw material for  reprocessing and export to  reduce lead-time in 
+getting NOC from FSSAI and EIC 
+▪ Include import of marine products for value addition and export 
+under Foreign Trade Policy as a chapter to provide exclusive focus 
+on marine products.   
+▪ Leverage the Manufacturing and Other Operations in Warehouse 
+(MOOWR) scheme for import of raw materials to reduce delay 
+clearing customs. 
+Advantages: 
+▪ Ease of doing business for marine exporters 
+▪ Increased value addition of imported raw materials 
+▪ Single point of control for import and export of marine products 
+▪ Assigning fish and fishery product certification for exports to 
+MPEDA will help the industry and significantly improve the ease 
+of doing business by offering a single window service to the 
+stakeholders. 
+Priority High 
+ 
+ 
+  
+
+--- PAGE 69 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+69 
+ 
+6.2 Scheme-level 
+6.2.1 Demand driven budgetary support to value addition 
+schemes 
+Context • 40 applications worth INR 99 crore  (backlog) were pending due to non-
+availability of funds and change in scheme components. Anticipating fund 
+support from MPEDA, entrepreneurs established the facility utilizing 
+institutional finance.   
+• The process of availing scheme  benefits specifically value addition   
+require significant effort in collecting various documents from local 
+authorities leading to 6 months to 15 months leading to beneficiary 
+missing out on the scheme benefits due to scheme construct and or non-
+availability of funds for disbursement. 
+Action 
+Points 
+• Planning and implementation period scheme may be extended to include 
+the time required for beneficiary preparedness and application process 
+time.   
+o First 12 months (1st year) - market assessment of proposed scheme 
+construct 
+o 12 months to 48 months (3 year) – scheme implementation period 
+o 48 months to 54 months  (6 months) – scheme transition period 
+(cooling period) before migrating to next plan period 
+• Conduct demand assessment  before the planning period  combining the 
+pending applications and expected demand for the scheme based on 
+market feedback. 
+• Appraise and prepare the beneficiaries for the impending change in 
+market demands and scheme construct during cooling period as outlined 
+above. 
+• Create a strategic roadmap to help beneficiaries who applied for the 
+schemes but haven’t received the assistance to transition smoothly into 
+another scheme if available or engage continuously to support them 
+technically. For this, additional fund support may be extended to MPEDA. 
+Advantages: 
+• Accurate estimation of demand off-take for various scheme components 
+with clearly defined outcomes. 
+
+--- PAGE 70 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+70 
+• Adaptive scheme implementation approach to accommodate 
+implementation challenges at state level. 
+• Leverage training programs as lead generators for different financial 
+assistance schemes and technical guidance converting training to 
+production line.  
+• Help reduce the mismatch in expectations between beneficiaries and 
+MPEDA   
+Priority High 
+ 
+  
+
+--- PAGE 71 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+71 
+6.2.2  Delegation of authority for evaluation of scheme 
+proposals to RD 
+Context • During the evaluation period, the scheme related proposals from 
+exporters and farmers move from S ub-Regional Division (SRD) to 
+Regional Division (RD) to HQ through iterative evaluation process 
+leading to multiple review and validation at different levels causing 
+significant duplication of evaluation process. 
+• At present, the e-mpeda portal is only 60% effective in delivering 
+online evaluation process leading to physical movement of 
+documents to HQ, multiple validation, and scrutiny of documents 
+along the administrative chain leading to delay and bandwidth 
+constraint at all levels. 
+Action 
+Points 
+• Modalities of delegation of power to be decided by committee. 
+• Redesign of portal to support online evaluation of proposals 
+submitted by exporters and farmers. 
+• Decentralized document evaluation at zonal level may be 
+established to ensure process compliance before the final decision 
+can be taken at appropriate level. 
+Priority High 
+ 
+  
+
+--- PAGE 72 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+72 
+6.3 System and Process 
+6.3.1  Augmenting human resources for effective functioning of 
+MPEDA 
+Context • The total sanctioned strength of MPEDA has been revised from 
+420 to 250 combining the Head Office and Field Offices based on 
+the restructuring proposal of the Ministry of Commerce and 
+Industry.  
+• At present, the number of  resources in position is only 181 
+including 11 officials on deputation. The existing staff is not  
+adequate to meet the growth objective of the sector.  
+• There are 66 vacant posts for technical positions in aquaculture, 
+export promotion and quality control. 
+Action 
+Points 
+• Approval to the restructuring proposal of MPEDA and p rioritize 
+recruitment of all the vacant positions for better functioning of the 
+authority to support the sector. 
+• Make capacity building training of internal staff to enable them to 
+take up cross-functional activities. 
+• Training of personnel to focus on increased engagement with 
+stakeholders that will encourage high-end or value-added exports. 
+Advantages: 
+• Building of a resilient team to deliver on the export target for India. 
+• Skilled resources to manage the market demands.  
+Priority High 
+ 
+ 
+  
+
+--- PAGE 73 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+73 
+6.3.2  Adoption of digital and artificial intelligence-based 
+solutions 
+Context • Reduced human resources  is creating a burden in continuous 
+engagement with relevant stakeholders 
+• Existing digital solutions are under -utilized. There is no local 
+language support in the existing e -mpeda portal that is driving 
+engagement with all stakeholders for various schemes. 
+• Social media is also under-utilized for market promotions. 
+Action 
+Points 
+• Redesign the e-mpeda portal to make it user-friendly and inclusive 
+in terms of offering regional or local language support.   
+• Redesign MPEDA’s website  as per Government of India 
+Guidelines for Websites (GIGW) guidelines  to improve user 
+experience and cope up with market demands. 
+• Provide interactive chatbot service to address common queries of 
+stakeholders – schemes, trainings, source for seeds & feeds, etc.  
+• Use e -mpeda portal to display critical input information for 
+different stakeholders as a dashboard to push information 
+automatically. 
+• Use of blockchain technology in MPEDA’s traceability systems to 
+verify details of farm registrations, consignment creation, lab 
+testing, etc.  
+• Build mobile apps for sharing market information  for better 
+marketing, tracking of applications and registrations.  
+• Strengthen and automate data collection in the harbors. 
+• Establish a dedicated team to manage MPEDA’s products and 
+events on social media platforms like Twitter, Facebook, 
+Instagram, etc. 
+Advantages: 
+• Improved and reliability in traceability systems.  
+• Help bridge the gap between supply and demand for export. 
+Areas of digital interventions: 
+• Decision support systems for top management 
+• AI-based chat bot for addressing day -to-day queries from 
+exporters. 
+
+--- PAGE 74 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+74 
+• Knowledge management of organizational processes, initiatives , 
+and market level intelligence  
+• Registration of farmers and exporters for continuous engagement.  
+Priority Medium 
+ 
+  
+
+--- PAGE 75 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+75 
+6.4 Ecosystem Initiatives 
+To improve the efficiency and effectiveness of central sector schemes, the following 
+recommendations are outlined below: 
+6.4.1  NaCSA to facilitate incubation of FPOs for aquaculture 
+farmers  
+Context • NaCSA is working towards making Aquaculture Sustainable activity to 
+improve livelihoods of Coastal villagers, with a “Self Help Group” 
+approach to address market concerns through convergence of various 
+Stakeholders and move towards formation of societies a nd educated 
+them on better management practices (BMP) for safe and sustainable 
+shrimp farming. NaCSA also trained these farmer societies to follow 
+cluster approach in shrimp farming.  
+• While the above process helped farmers from capacity building 
+perspective, the bargaining power of farmers continue to be challenge 
+from supply and demand perspective 
+Action 
+Points 
+• Help farmers to form FPOs to ensure better alignment of supply and 
+demand side and create a self-sustaining model. 
+• At present, around 2773 FPOs are registered under the Central Sector 
+Scheme for Formation and Promotion of 10,000 FPOs by Small Farmers 
+Agri-Business Consortium as on 23-08-202315. 
+Advantages: 
+• Institutional access to finance e.g., Producer Organisation Development 
+Fund 
+• Convergence of central and state schemes and facilitate scaling up of 
+FPOs 
+Priority Medium 
+ 
+ 
+ 
+  
+ 
+15 Source: SFAC, Govt of India 
+
+--- PAGE 76 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+76 
+6.4.2 Tie-up with Credit Guarantee Trust for Micro and Small 
+Enterprises 
+Context • The beneficiaries have expressed satisfaction with MPEDA schemes 
+construct. Their limited access to credit constrains the beneficiaries from 
+availing the schemes in large -scale leaving the assigned funds under -
+utilized. 
+Action 
+Points 
+• To address last mile credit delivery, MPEDA may consider tie-up with 
+CGTMSE for collateral free loan through eligible financial institutions. 
+o At present, the credit guarantee covers up to a loan amount Rs. 2 
+crore.  
+o Up to Rs. 1 crore, maximum credit guarantee cover available is 
+85% of project loan with ceiling of Rs. 85 lakh.  
+o Above Rs.1 crore and up to Rs. 2 crore, credit guarantee cover 
+available is 75% of project loan with a maximum ceiling of Rs. 
+1.50 crores  
+o For project loan of more than Rs. 2 crore, credit guarantee cover 
+will be limited maximum up to Rs. 2 crore only.  
+• The eligible projects under the CGTMSE include – Agricultural input and 
+output services, infrastructure development, value addition, seed 
+production, seed bank and processing units etc., 
+Priority Medium 
+ 
+  
+
+--- PAGE 77 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+77 
+6.4.3  Augment revenue through fee-based data and research 
+support 
+Context • MPEDA has 3 major divisions viz Aquaculture, Quality Control & 
+Marketing, apart from this, MPEDA has functioning three Societies viz (i) 
+Rajiv Gandhi Centre for Aquaculture (RGCA), the research and 
+development arm of MPEDA (ii) Network for Fish Quality Management 
+and Sustainable Fishing (NETFISH), the extension arm of MPEDA stands 
+for improving the quality of fishery products exported from the country 
+and the sustainability of fishery resources as well and (iii) National Centre 
+for Sustainable Aquaculture (NaCSA) which provide technical support to 
+the primary aquaculture societies ad build capacity among small farmers 
+to produce quality shrimps in a sustainable manner. 
+• Over the years, MPEDA has built a strong  technical and market 
+intelligence knowledge on the marine export development value chain .  
+The data, information and best practices can be leveraged for  offering 
+value added services to marine exporter.  
+Action 
+Points 
+• Establish technical consulting  and research  wing to provide support to 
+marine exporters in the area of process  automation, market intelligence 
+and trade related reports. 
+Priority Medium 
+ 
+ 
+  
+
+--- PAGE 78 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+78 
+6.4.4  Expansion of Market Promotion Activities 
+Context • MPEDA participates in international fairs along with exporters as co -
+exhibitors. Usually, Indian participation is prominent in 4 major and 4 
+minor fairs each year. New international fairs targeted include Global 
+Fishery Forum and Seafood Expo in Russia, and Vietfish in Vietnam. 
+• Buyer Seller Meets are also organised to help expand the market and 
+buyer space for Indian marine products.  
+• Since 2013 -14, Indian seafood products were exported to 27 new 
+markets. Indian exporters are lagging behind Vietnam and Thailand in the 
+value-added products segment in the existing markets.  
+• It is important to build a new strategy to not only expand Indian presence 
+in the existing markets but also venture into new markets in order to 
+achieve the INR 1 lakh crore target for 2024-25.  
+Action 
+Points 
+• Segment the nature of engagement with exporters into two – (1) 
+Exposure and (2) Expansion. Exposure based engagement would be for 
+newly established and small exporters to have a visibility in the 
+international market and Expansion based engagement would be for 
+experienced and large exporters to broaden their marketing horizon.   
+• Expand Buyer-Seller Meets into Virtual Buyer-Seller meets, and Reverse 
+Buyer-Seller meets (by bringing potential buyers to India to engage with 
+Indian exporters).  
+• When participating in international fairs, strategize on displaying those 
+products that aligns to greater demand in targeted markets. MPEDA can 
+liaison and ensure follow-up engagement with potential buyers and Indian 
+exporters identified during these fairs.  
+Priority Medium 
+ 
+ 
+ 
+
+--- PAGE 79 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+79 
+  
+CONCLUSION  
+CHAPTER 7 
+
+--- PAGE 80 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+80 
+7 Conclusion  
+The MPEDA Central Sector Scheme has played an important role in facilitating marine 
+exports from India. In other words, the scheme acts as an avenue to increase value 
+addition, facilitate market promotion for exporters, establish quality standards, 
+incubate aquaculture technology for species diversification, facilitate capacity building 
+of aquaculture farmers and exporters,  and help in export traceability of wild caught & 
+farmed products. The study proposes nu mber of initiatives for improving scheme 
+relevance, efficiency, effectiveness, sustainability and its impact.  The path of 
+implementation would however call for some bold and pragmatic approach to ensure 
+effective implementation. Given this background, the scheme has thus acted as a 
+catalyst and impacted beneficiaries through various initiatives.   
+
+--- PAGE 81 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+81 
+ 
+  
+APPENDICES 
+CHAPTER 8 
+
+--- PAGE 82 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+82 
+8 Appendices 
+8.1 Appendix A: Respondent beneficiaries  
+Figure 17: Geographical distribution of respondents (exporters and aquaculture farmers) 
+ 
+Source: Primary survey 
+8.2 Appendix B: Details of Visit 
+ 
+# Designation/Section 
+1 Head Office, Kochi 
+- The Chairman 
+- The Director  
+- Secretary 
+- Jt Director (QC) 
+- Jt. Director (Mktg) 
+- Joint Director (Training) 
+- Dy. Director (MS) 
+- Dy. Director (DEV) 
+- Chief Accounts Officer 
+- Systems Analyst (Retd) 
+10
+4
+7
+6
+14
+18
+8
+2
+5
+10
+11
+5
+9
+1
+Kochi
+Chennai
+Tuticorin
+Nagapattinam
+Vijayawada
+Bhimavaram
+Vishakapatnam
+Bangalore
+Mangalore
+Yadigir
+Mumbai
+Raigad
+Veraval
+Porbandar
+Kerala Tamil Nadu Andhra Pradesh Karnataka Maharashtra Gujarat
+
+--- PAGE 83 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+83 
+# Designation/Section 
+- Dy. Director (Lab) 
+- Dy. Director (QC) 
+- Dy. Director (Aqua) 
+- Deputy Director (Admn.) 
+- Dy Director (Pers) 
+- Asst. Director (Coord & Regn) 
+- Asst. Director (Stat.) 
+- Asst. Director (MS) 
+- CEO (NETFISH) 
+- Market Promotions 
+- RGCA 
+2 RD Kochi 
+- Dy. Director  
+- State Coordinator, Kochi – 
+NETFISH 
+3 RD Vijayawada 
+- Jt. Director 
+- State Coordinator, NETFISH 
+4 SRD Bhimavaram 
+- Asst Director 
+- NETFISH 
+- NaCSA 
+- QC lab 
+5 SRD Vishakapatnam 
+- Dy. Director 
+- NETFISH 
+- CIFT 
+- NIPHATT 
+6 RD Mangalore 
+- Asst Director 
+
+--- PAGE 84 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+84 
+# Designation/Section 
+7 RD Mumbai 
+- Dy. Director  
+- NETFISH 
+8 RD Chennai 
+- Dy. Director 
+- Asst Director 
+9 SRD Nagapattinam 
+- Dy. Director 
+10 SRD Tuticorin 
+- Dy. Director 
+11 SRD Veraval 
+- Dy. Director 
+ 
+8.3 Appendix C: Details of human resources & vacancies 
+in MPEDA 
+The details of posts and vacancies in MPEDA based on the restructuring proposal 
+with the Ministry of Commerce and Industry has been detailed below.  
+Group Present 
+Sanction 
+Proposed As 
+per Restructure 
+Agreed 
+As per 
+Restructure 
+Total (MIP 
+including 
+deputation) 
+Vacancy 
+As per 
+restructure 
+A 87 81 81 59 22 
+B 133 124 86 55* 33 
+C 200 45 45 67* 9 
+Total 420 250 212** 181 64 
+* Including supernumerary posts 
+**Excluding 38 new posts creation 
+Source: Data received from Personnel Section, MPEDA on 05 Oct 2023 
+ 
+  
+
+--- PAGE 85 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+85 
+8.4 Appendix D: Questionnaire 
+Exporters 
+A. Instruction to the interviewer 
+• The interviewer must start with his/her introduction and the nature of the work 
+done by the organization. 
+• Orient the respondent about the consent for the interview and share the correct 
+estimated time required for this discussion and then initiate the discussion guided 
+by the questionnaire. 
+• In the case of qualitative data collection, it is not necessary to follow the guide in 
+sequential order; the discussion can be guided basis answers from the respondent, 
+ensuring the areas of inquiry are covered overall. However, in the case of structured 
+questions of quantitative questionnaires, the given order of questions is to be 
+followed. To adopt this method, please read the guide properly and understand the 
+sections and questions very clearly. Practice as much as possible before collecting 
+data. 
+• This research questionnaire (both quantitative and qualitative) will cover the 
+beneficiaries identified by the MEPDA field offices (Regional Division or Sub -
+Regional Division) only. 
+• Please ensure that the interview is held within the premises of the MPEDA field 
+office (Regional Division or Sub-Regional Division). 
+• In case beneficiaries are not available on the day of visit of team, the questionnaire 
+may be administered through virtual meeting or over a call. 
+B. Introduction and Consent for the Interview 
+Hello Sir/Madam! My name is ---------------- and I am working as a researcher with Athena 
+Infonomics India Pvt. Ltd.  
+As you would be aware, the Central Sector Scheme of Marine Products Export Development 
+Authority (MPEDA) a flagship initiative of the Government of India to promote exports of 
+marine products in the country. MPEDA offers various schemes like financial assi stance to 
+support high-end or value-added products, financial assistance to move towards certification 
+for primary production, financial assistance to set up Mini Labs, Training through different 
+divisions and societies, Laboratory services, Certifications  for traceability and Assistance for 
+technology incubation.  
+For a systematic and comprehensive review, MPEDA has engaged Athena Infonomics India 
+Pvt. Ltd.to assess the Central Sector Scheme of MPEDA. The objective of the assessment is to 
+(i) Evaluate the performance/effectiveness of the scheme; (ii) Assess the impact of the scheme; 
+(iii) Identify the challenges in the implementation of the scheme; (iv) Evaluate the need and 
+effectiveness of trainings; (v) Assess the ease of applying to the scheme and (vi) User -
+friendliness of the online portal of MPEDA. 
+
+--- PAGE 86 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+86 
+The selection of beneficiaries is random, and you have been selected for this interview as your 
+role has been important in the implementation of this scheme and your experience would be 
+relevant to strengthening the scheme and organization.  
+You may feel free to ask me any questions related to the study. Thank you for your support. 
+Now we can start our discussion.  
+ 
+Beneficiary: MPEDA-Registered Processing or Handling Units for Exports 
+S No. Particulars Response 
+1.  Name of interviewer  
+ 
+2.  Date of interview (DD/MM/YY)  
+ 
+3.  Permission for interview granted.  (1) Yes 
+(2) No 
+4.  The place of Interview  (1) Within the premise of Field Office 
+(2) Other/community  
+5.  Respondent Name   
+6.  Name of Handling Centre  
+7.  Address of Handling Centre  
+ 
+8.  District name  
+ 
+9.  State name  
+ 
+ 
+Business Profile 
+S No. Particulars Response 
+1.  For how many years have you been in the 
+business of marine products? 
+ 
+2.  Are you a ﬁrst-generation entrepreneur? (1) Yes 
+(2) No 
+3.  In which year did you start this Handling 
+Centre/Processing Unit? 
+ 
+4.  Number of Processing Plants  
+5.  What marine products do you export?  
+6.  Which is your export market? (You may select 
+more than one option) 
+❑ USA 
+❑ EU 
+❑ Japan 
+❑ Other: ______ 
+ 
+
+--- PAGE 87 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+87 
+Are you a beneficiary of  
+❑ Financial Assistance to support for Value Added Products 
+❑ Participant in International Seafood Fairs or Buyer-Seller Meets 
+❑ Financial Assistance for Mini Labs 
+❑ HACCP Training 
+❑ Value-Add Training 
+❑ Availed Export Facilitation Certificates 
+❑ Availed QC services of MPEDA 
+Scheme: Financial Assistance to support high end or innovative value addition 
+The scope of the Scheme is to help with Existing Units who wish to switch over their 
+production to Specific Value -Added Products and also to new entrepreneurs venturing into 
+the seafood trade for the production and exports of VAPs. Machinery and equipment’s for the 
+production of cooked/blanched products, AFD products, Surimi based products etc. for Value 
+Addition, machinery such as IQF with Cooking line, Glazing, Blanching, Boiler, Vacuum packing, 
+battering and breading line, advance packing equipment’s etc. will be considered for assistance.  
+S No. Particulars Response 
+1.  When did you receive Advance Approval?  MM/YYYY 
+2.  When did you receive Final Approval? MM/YYYY 
+Awareness 
+S No. Particulars Response 
+1.  How did you come to know about the 
+scheme? 
+(1) Friends 
+(2) Newspaper/Advertisement 
+(3) Fishing/Aquaculture Society 
+(4) Local Associations.  Name_______ 
+(5) Banks 
+(6) Consultants 
+(7) Other: _______ 
+2.  How did you access the scheme 
+information? 
+(1) Through MPEDA Head Office 
+(2) Through MPEDA RD Office 
+(3) Through MPEDA SRD Office 
+(4) Online 
+(5) Friends/Community 
+Ease of Application 
+S No. Particulars Response 
+1.  How did you ﬁll out your application? (1) Physical Application Form 
+(2) Online Application 
+2.  Did you ﬁnd the online application 
+process for ﬁnancial assistance user-
+friendly? 
+(1) Yes 
+(2) No 
+3.  Who ﬁlled out your application? (1) Myself 
+(2) Family/Friends 
+(3) MPEDA officials 
+
+--- PAGE 88 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+88 
+S No. Particulars Response 
+(4) Consultants - Individual or Firm……… 
+(5) Others: ____ 
+4.  Were the details requested in the 
+application form easy to understand? 
+(1) Yes 
+(2) No 
+5.  If No was selected, what was the 
+challenge? 
+Text 
+6.  How many days did it take for you to 
+complete your application? 
+ 
+7.  Which document(s) were the most 
+difficult to collect? 
+ 
+8.  Who helped you clarify at different 
+stages of the application process? 
+(1) Friends/Family 
+(2) MPEDA Officials 
+(3) Others: ____ 
+Outcome 
+S No. Particulars Response 
+1.  What is the export value (year-on-year) since 
+the receipt of assistance from MPEDA? 
+(Mention in INR) 
+❑ 2019: _____ 
+❑ 2020: _____ 
+❑ 2021: _____ 
+❑ 2022: _____ 
+2.  For what purpose did you utilize the assistance 
+from MPEDA?   
+❑ Value-Added Products 
+❑ Equipment & Machinery 
+❑ Infrastructure modiﬁcation 
+3.  How critical was the assistance in the export 
+activities of your unit?  
+(1) I would not have exported 
+without this assistance. 
+(2) I had an alternate plan in place if 
+I had not received approval. If 
+so, please indicate ____________ 
+4.  Have you implemented high-end or innovative 
+value addition processes 
+(1) Yes 
+(2) No 
+(3) In process 
+ 
+Satisfaction 
+S No. Particulars Response 
+1.  On a scale of 1-5, how would you rate your 
+experience with this scheme?  
+Experience includes application process, 
+interaction with officials, updates, and ﬁnancial 
+assistance. 
+(1) Bad 
+(2) Needs Improvement 
+(3) Average 
+(4) Good 
+(5) Excellent 
+2.  Was the ﬁnancial assistance sufficient for your 
+business needs?  
+(1) Yes 
+(2) No 
+3.  If No was selected, how much assistance would 
+you think be sufficient? Why? 
+T ext 
+
+--- PAGE 89 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+89 
+S No. Particulars Response 
+4.  How useful was the Advance Approval Letter? (1) Helped me secure bank loan 
+(2) Helped me purchase necessary 
+products faster 
+(3) No utility 
+(4) Others: ____ 
+5.  Which aspect of the Scheme would you improve 
+this scheme? 
+(1) Ease of ﬁlling up application 
+(2) Tracking of application status 
+(3) MPEDA’s support or guidance 
+for queries related to 
+supporting documents  
+(4) Increase in assistance amount 
+(5) Others: ______ 
+6.  Are you accessing any other scheme for marine 
+products exports? 
+(1) Yes 
+(2) No 
+7.  If (1) Yes was selected, name the scheme and 
+purpose. 
+Name of scheme: _____ 
+Purpose: _____ 
+Export Facilitation Certificates for export traceability 
+To facilitate exports, MPEDA issues export facilitation certificates to exporters to help them 
+ship their consignment to export markets such as European Union, United States, Chile and 
+others. Such certificates include Catch Certificate, DS -2031 certificat e, ICCAT certificate, 
+Certificate of Legal Origin and Certificate of Origin.  
+S No. Particulars Response 
+1.  What marine products do you 
+export? 
+ 
+ 
+2.  Which export certiﬁcate did you 
+apply for?  
+Select whichever is applicable. 
+❑ Catch Certiﬁcate – EU 
+❑ Catch Certiﬁcate – Non-EU 
+❑ DS-2031 
+❑ ICCAT 
+❑ Certiﬁcate of Legal Origin 
+❑ Certiﬁcate of Origin 
+❑ Others: _____ 
+ 
+3.  Was there any difficulty in applying 
+online for the export facilitation 
+certiﬁcates? 
+(1) Yes 
+(2) No 
+3A If (1) Yes was selected, what 
+difficulty did you face? 
+T ext 
+4.  How much time does it take for you 
+to get the certiﬁcate after applying?  
+Mention in number of hours 
+ 
+5.  How often do you apply for export 
+certiﬁcate? 
+(1) Monthly 
+(2) Quarterly 
+
+--- PAGE 90 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+90 
+S No. Particulars Response 
+(3) Any other: ____ 
+6.  Was the officer dealing with your 
+application helpful and 
+understanding? 
+(1) Yes 
+(2) No 
+6A If (2) No was selected, what difficulty 
+did you face? 
+T ext 
+7 Have you received their export 
+facilitation certiﬁcates within the 
+stipulated time? 
+(1) Yes 
+(2) No 
+8 How satisﬁed were you with the 
+quality of service? 
+ 
+(1) Very satisﬁed 
+(2) Satisﬁed 
+(3) Can be improved 
+Please state your reason_____________ 
+9 Did you experience improved 
+market acceptance and access due 
+to export facilitation certiﬁcates? 
+(1) Yes 
+(2) No 
+ 
+Market Promotion  
+MPEDA organizes participation of India in the major International Seafood Fairs and 
+encourages participation of Indian seafood exporters. It helps Indian exporters showcase 
+their products and interact with potential overseas buyers. Trade queries are also received 
+from these fairs.  
+S No. Particulars Response 
+1.  Name of interviewer  
+ 
+2.  Date of interview (DD/MM/YY)  
+ 
+3.  Permission for interview granted.  (3) Yes 
+(4) No 
+4.  The place of Interview  (3) Within the premise of Field Office 
+(4) Other/community  
+5.  Respondent Name   
+6.  District name  
+ 
+7.  State name  
+ 
+ 
+Awareness 
+S No. Particulars Response 
+1.  Have you attended any International 
+Seafood Fairs? 
+(1) Yes 
+(2) No 
+
+--- PAGE 91 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+91 
+S No. Particulars Response 
+2.  If (1) Yes was selected, who organized your 
+participation in the Fair? 
+(1) MPEDA 
+(2) Self 
+(3) Friends/Community 
+(4) Others: ____ 
+3.  If (2) No was selected, why did you not 
+participate? 
+(1) Expensive to participate 
+(2) Not useful 
+(3) Others: ____ 
+4.  How did you come to know about the 
+International Fairs? 
+(1) Friends 
+(2) MPEDA 
+(3) Other exporters (indicate the 
+name)_______________ 
+(4) Newspaper/Advertisement 
+(5) Fishing/Aquaculture Society 
+(6) Associations 
+(7) Consultants 
+(8) Other: _______ 
+5.  How did you enrol for the Fair? (1) Through MPEDA Head Office 
+(2) Through MPEDA RD Office 
+(3) Through MPEDA SRD Office 
+(4) Online 
+(5) Others: ____ 
+6.  Did you have access to the trade queries or 
+market leads from the International Fairs? 
+(1) Yes 
+(2) No 
+7.  If (1) Yes was selected, how useful were the 
+queries/leads? 
+(1) Got access to new buyers  
+(2) Got access to new market 
+(3) Others: ___ 
+8.  If (2) No was selected, what was the 
+challenge in accessing the information? 
+(1) Did not know that information 
+was available 
+(2) No assistance received on how 
+to proceed further 
+(3) Others: _____ 
+9.  Have you got any market lead/orders 
+obtained through the fair 
+(1) Yes 
+(2) No  
+If Yes, Elaborate on the market lead 
+Export market:   
+Product:   
+Export Value 
+10.  Did you increase exports as a result of 
+attending international fairs 
+(1) Yes 
+(2) No 
+11.  Have you secured long -term contracts or 
+partnerships through fair participation 
+(1) Yes 
+(2) No 
+If yes, please elaborate_____________ 
+12.  Are the fairs being participated in through 
+MPEDA adequate? 
+(3) Yes 
+(4) No 
+
+--- PAGE 92 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+92 
+S No. Particulars Response 
+13.  If (2) No was selected, what other support 
+do you require? 
+T ext 
+14.  How many times have you participated in 
+the international seafood fairs? 
+T ext 
+15.  Would you recommend international 
+seafoods to others? 
+(1) Yes 
+(2) No 
+ 
+Scheme: Training and Capacity Building 
+S No. Particulars Response 
+1.  Which training program did you 
+participate? 
+(1) Value-Addition 
+(2) HACCP 
+2.  How satisﬁed were you with the 
+quality of training? 
+ 
+Quality of training refers to trainer’s ability 
+to engage with the audience, training 
+environment and hands-on sessions. 
+(4) Very satisﬁed 
+(5) Satisﬁed 
+(6) Can be improved 
+3.  If (3) Can be improved was 
+selected, 
+Please elaborate what 
+improvements you wish to see. 
+(1) Engage with audience better 
+(2) Use of local language 
+(3) Training center facilities 
+(4) More hands-on training 
+(5) Others: _____ 
+4.  Which aspects of the training 
+material you were satisﬁed with? 
+ 
+Select all that apply 
+❑ Very relevant content 
+❑ Provided in local language 
+❑ Easy and concise to read 
+❑ Could apply to my work directly 
+5.  How would you rate the 
+knowledge level of the trainer? 
+(1) Very knowledgeable – provided 
+practical & relevant information & 
+market-speciﬁc info, etc.  
+(2) Good – helped learn something useful 
+(3) Average 
+6.  What kind of trainer you are 
+looking for? 
+(1) Indian experts  
+(2) Foreign experts  
+7.  What other value-added products 
+you would like to train your 
+workforce on? 
+ 
+8.  Was the training useful for you to 
+develop a HACCP plan for your 
+unit? 
+(1) Yes 
+(2) No 
+9.  If (2) No was selected, 
+What more information was 
+required? 
+ 
+
+--- PAGE 93 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+93 
+10.  Did you get an updated 
+knowledge of the regulatory 
+requirements of major markets? 
+(1) Yes 
+(2) No 
+11.  If (2) No was selected, 
+What information you think was 
+missing? 
+ 
+ 
+Scheme: Financial Assistance for Mini Labs 
+The scheme is for providing financial assistance for the establishment of laboratory for 
+microbial and chemical parameters of fishery products intended for export purpose in 
+approved processing plant/ handling centre testing of fishery products.  
+S No. Particulars Response 
+1.  When did you receive Advance Approval?  MM/YYYY 
+2.  When did you receive Final Approval? MM/YYYY 
+Awareness 
+S No. Particulars Response 
+1.  How did you come to know about the scheme? (1) Friends 
+(2) Newspaper/Advertisement 
+(3) MPEDA 
+(4) Fishing/Aquaculture Society 
+(5) Associations 
+(6) Banks 
+(7) Consultants 
+(8) Other: _______ 
+2.  How did you access the scheme information? (1) Through MPEDA Head Office 
+(2) Through MPEDA RD Office 
+(3) Through MPEDA SRD Office 
+(4) Online 
+(5) Friends/Community 
+Ease of Application 
+S No. Particulars Response 
+1.  How did you ﬁll out your application? (1) Physical Application Form 
+(2) Online Application 
+2.  Who ﬁlled out your application? (1) Myself 
+(2) Family/Friends 
+(3) MPEDA officials 
+(4) Others: ____ 
+3.  Were the details requested in the application 
+form easy to understand? 
+(1) Yes 
+(2) No 
+4.  If No was selected, what was the challenge? Text 
+5.  How many days did it take for you to complete 
+your application? 
+ 
+
+--- PAGE 94 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+94 
+6.  Which document(s) were the most difficult to 
+collect? 
+ 
+7.  Who helped you clarify at different stages of the 
+application process? 
+(1) Friends/Family 
+(2) MPEDA Officials 
+(3) Others: ____ 
+ 
+Outcome 
+S No. Particulars Response 
+1.  How many samples have been tested since 
+availing assistance? 
+ 
+2.  For what purpose did you utilize the assistance 
+from MPEDA?   
+❑ Equipment  
+❑ Media  
+❑ Chemicals  
+❑ Glassware  
+❑ Furniture  
+❑ Miscellaneous 
+3.  How critical was the assistance in the export 
+activities of your unit?  
+(1) It reduced my dependency on 
+external labs. 
+(2) Helped me with HACCP 
+compliance. 
+(3) No impact.  
+Satisfaction 
+S No. Particulars Response 
+1.  On a scale of 1-5, how would you rate your 
+experience with this scheme?  
+Experience includes application process, 
+interaction with officials, updates, and ﬁnancial 
+assistance. 
+(1) Bad 
+(2) Needs Improvement 
+(3) Average 
+(4) Good 
+(5) Excellent 
+2.  Was the ﬁnancial assistance sufficient for your 
+business needs?  
+(1) Yes 
+(2) No 
+3.  If No was selected, how much assistance would 
+you think be sufficient? 
+T ext 
+4.  How useful was the Advance Approval Letter? (1) Helped me secure bank loan 
+(2) Helped me purchase necessary 
+products faster 
+(3) No utility 
+(4) Others: ____ 
+5.  Which aspect of the Scheme would you improve 
+this scheme? 
+(1) Ease of ﬁlling up application 
+(2) Tracking of application status 
+(3) MPEDA’s support or guidance 
+for queries related to 
+supporting documents  
+
+--- PAGE 95 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+95 
+(4) Increase in assistance amount 
+(5) Others: ______ 
+6.  Are you accessing any other scheme for marine 
+products exports? 
+(1) Yes 
+(2) No 
+7.  If (1) Yes was selected, name the scheme and 
+purpose. 
+Name of scheme: _____ 
+Purpose: _____ 
+ 
+Aquaculture Farmers 
+Are you a beneficiary of  
+❑ Financial Assistance to Move Towards Certification 
+❑ Training for Aquaculture & Skill Development 
+❑ Lab services 
+❑ Technology incubation 
+ 
+Scheme: Financial Assistance under Certiﬁcation of primary production  
+The Scheme aims to provide financial assistance for acquiring certification standards and 
+infrastructure/equipment to produce quality seafood from aquaculture farms or hatcheries or 
+feed mills or ornamental fish breeding units or rearing farms or export holding facilities. There 
+are three sub-schemes: (1) Moving Towards Sustainability and Certification; (2) Second Party 
+Certification and (3) Third Party Certification.  
+Beneficiary: Aquaculture farmers 
+S No. Particulars Response 
+1.  Name of interviewer  
+ 
+2.  Date of interview (DD/MM/YY)  
+ 
+3.  Permission for interview granted.  (1) Yes 
+(2) No 
+4.  The place of Interview  (1) Within the premise of Field Office 
+(2) Other/community  
+5.  Respondent Name   
+6.  District name  
+ 
+7.  State name  
+ 
+Business Profile  
+
+--- PAGE 96 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+96 
+S No. Particulars Response 
+1.  For how many years have you been in the 
+business of aquaculture? 
+ 
+2.  Are you a ﬁrst-generation entrepreneur? (1) Yes 
+(2) No 
+3.  In which year did you start this farm?  
+4.  What is the size of your farm? 
+Mention in acres 
+ 
+5.  Which species of shrimp do you culture? (1) Black Tiger Shrimp 
+(2) L. Vannamei 
+(3) Scampi 
+(4) Others: _____ 
+6.  Which is your preferred export market?  
+You may select more than one option 
+❑ USA 
+❑ EU 
+❑ Japan 
+❑ Other: ______ 
+7.  Have you improved market access and price 
+realization due to cluster formation? 
+(1) Yes 
+(2) No 
+8.  Where do you source seeds for your farm? (1) Own hatchery 
+(2) Nearby hatchery 
+(3) Imported 
+9.  Where do you source feeds for your farm? (1) Own feed mill 
+(2) Nearby feed mill 
+(3) Imported 
+ 
+S No. Particulars Response 
+1. When did you receive Advance Approval?  MM/YYYY 
+2. When did you receive Final Approval? MM/YYYY 
+Awareness 
+S No. Particulars Response 
+1.  How did you come to know about the 
+scheme? 
+(1) Friends 
+(2) MPEDA 
+(3) Newspaper/Advertisement 
+(4) Fishing/Aquaculture Society 
+(5) Associations 
+(6) Banks 
+(7) Consultants – Individual/Firm-
+------------------ (indicate the 
+name) 
+(8) Other: _______ 
+2.  How did you access the scheme 
+information? 
+(1) Through MPEDA Head Office 
+(2) Through MPEDA RD Office 
+(3) Through MPEDA SRD Office 
+
+--- PAGE 97 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+97 
+(4) Online 
+(5) Friends/Community 
+Ease of Application 
+S No. Particulars Response 
+1.  How did you ﬁll out your application? (1) Physical Application Form 
+(2) Online Application 
+2.  Who ﬁlled out your application? (1) Myself 
+(2) Family/Friends 
+(3) MPEDA officials 
+(4) Others: ____ 
+3.  Were the details requested in the 
+application form easy to understand? 
+(1) Yes 
+(2) No 
+4.  If No was selected, what was the challenge? Text 
+5.  How many days did it take for you to 
+complete your application?  
+ 
+6.  Which document(s) were the most difficult 
+to collect? 
+ 
+7.  Who helped you clarify at different stages 
+of the application process? 
+(1) Friends/Family 
+(2) MPEDA Officials 
+(3) Others: ____ 
+Outcome 
+S No. Particulars Response 
+1.  Do you export shrimps do you export? (1) Yes 
+(2) No 
+ If (2) No was selected, what challenges did 
+you face? 
+ 
+2.  What is the export value (year-on-year) 
+since the receipt of assistance from 
+MPEDA? (Mention in INR) 
+❑ 2019: _____ 
+❑ 2020: _____ 
+❑ 2021: _____ 
+❑ 2022: _____ 
+3.  For what purpose did you utilize the 
+assistance from MPEDA?   
+❑ Crab fencing 
+❑ Bird fencing 
+❑ Hand dip and Foot dip 
+❑ Sludge pump 
+❑ Aerators/Blowers 
+❑ Others 
+4.  Have you availed any of these assistances? 
+Select all that apply 
+❑ Technical Assistance on 
+Better Management Practices 
+❑ Training and capacity building 
+for adoption of sustainable 
+practices 
+❑ None 
+
+--- PAGE 98 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+98 
+5.  How critical was the assistance in the 
+export activities of your unit?  
+1. I would not have exported 
+without this assistance. 
+2. I had an alternate plan in 
+place if I had not received 
+approval.  
+ 
+ 
+S No. Particulars Response 
+1.  On a scale of 1-5, how would you rate your 
+experience with this scheme?  
+Experience includes application process, 
+interaction with officials, updates, and 
+ﬁnancial assistance. 
+(1) Bad 
+(2) Needs Improvement 
+(3) Average 
+(4) Good 
+(5) Excellent 
+2.  How often officials' visits to their farms? text 
+3.  Are you happy with support extended by 
+the local officials? 
+(1) Yes 
+(2) No 
+(3) Needs improvement 
+Please elaborate your 
+experience: 
+4.  Was the ﬁnancial assistance sufficient for 
+your business needs?  
+(4) Yes 
+(5) No 
+2A  If No was selected, how much assistance 
+would you think be sufficient? 
+Text 
+5.  How useful was the Advance Approval 
+Letter? 
+(1) Helped me secure bank loan 
+(2) Helped me purchase 
+necessary products faster 
+(3) No utility 
+(4) Others: ____ 
+6.  Which aspect of the Scheme would you 
+improve this scheme? 
+(1) Ease of ﬁlling up application 
+(2) Tracking of application status 
+(3) MPEDA’s support or 
+guidance for queries related 
+to supporting documents  
+(4) Increase in assistance amount 
+(5) Others: ______ 
+7.  Are you accessing any other scheme for 
+your farm or for exports? 
+(1) Yes 
+(2) No 
+5A If (1) Yes was selected, name the scheme 
+and purpose. 
+Name of scheme: _____ 
+Purpose: _____ 
+ 
+ 
+ 
+
+--- PAGE 99 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+99 
+Scheme: Technology Incubation for Aquaculture 
+S No. Particulars Response 
+1.  What technology did you receive 
+from RGCA? 
+ 
+Select all that apply 
+❑ GIFT seeds   
+❑ Pearlspot/Etroplus Seeds   
+❑ Seabass Seeds   
+❑ Pompano  
+❑ P. monodon 
+❑ Fingerlings (FinFish) 
+❑ Crablets/crab-instar 
+❑ Artemia biomass & Cyst 
+2.  Were the species 
+promoted/technology transferred 
+by RGCA as per the need of the 
+sector? 
+• Yes 
+• No 
+3.  If (2) No was selected, which 
+species/technology you think 
+should be included? 
+T ext 
+4.  Did the technology transfer help 
+diversify your aquaculture 
+practice? 
+1. Yes 
+2. No 
+5.  Did you receive timely technical 
+assistance from RGCA? 
+(1) Yes 
+(2) No 
+6.  If (2) No was selected, what was 
+the concern? 
+T ext 
+7.  What technical assistance did you 
+receive from RGCA? 
+❑ Hatchery technology 
+❑ Laboratory services 
+❑ Establishment/operation of Aquatic 
+Quarantine Facility 
+❑ Technology for production through 
+Pre- and Post-Nursery stages 
+❑ Others: _____ 
+8.  Were you satisﬁed with the 
+technical assistance offered? 
+(1) Very satisﬁed 
+(2) Satisﬁed 
+(3) Can be improved 
+9.  If (3) Can be improved was 
+selected, what can be improved? 
+T ext 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 100 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+100 
+Scheme: Services by MPEDA QC & ELISA labs 
+S No. Particulars Response 
+1.  Which lab services of MPEDA did 
+you take up? 
+(1) ELISA Lab for Pre-Harvest Tests 
+(2) QC Lab – Microbiology test 
+(3) QC Lab – Chemical Test for ﬁsh and 
+ﬁsh products 
+(4) QC Lab – Chemical Test for water 
+(5) QC Lab – Special package for 
+aquaculture farm and hatcheries 
+2.  How often do you take the 
+services of MPEDA labs? 
+(1) Weekly 
+(2) Monthly 
+(3) Quarterly 
+(4) Any other: _____  
+3.  Have you used laboratory services 
+apart from those offered by 
+MPEDA? 
+(1) Yes 
+(2) No 
+4.  If (1) Yes was selected,  
+Please provide the name of the 
+Laboratory. 
+T ext 
+5.  Which aspects of MPEDA labs do 
+you like?  
+(1) Responsive staff 
+(2) Prompt update on test request and 
+results 
+(3) Reliable service – sample collection 
+(4) Informed about non-compliant 
+samples 
+(5) Affordable Prices 
+(6) Quick resolution of queries 
+(7) Latest equipment 
+(8) Others: ____ 
+6.  Were there any delays in giving 
+the test results? 
+(1) Yes 
+(2) No 
+7.  If (1) Yes was selected,  
+Please mention the extent of 
+delay in number of days. 
+ 
+8.  Which aspects of MPEDA labs you 
+think would require improvement 
+in comparison to other accredited 
+labs? 
+❑ Staff 
+❑ Promptness of test updates 
+❑ Sample collection 
+❑ Testing fee 
+❑ Resolution of queries 
+❑ Service reliability 
+❑ Information on non-compliant 
+samples 
+❑ Equipment 
+❑ Others: _____ 
+ 
+
+--- PAGE 101 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+101 
+NaCSA  
+A. Instruction to the interviewer 
+The interviewer must start with his/her introduction and organization work. Secure the 
+consent of the respondents to participate in the Focus Group Discussion (FGD) and share the 
+correct estimated time required for this discussion and then start a question -answer session 
+with the help of this questionnaire/guide. 
+B. Introduction and Consent for the Interview 
+Hello Sir/Madam! My name is ---------------- and I am working as a researcher with Athena 
+Infonomics India Pvt. Ltd. 
+As you would be aware, the Central Sector Scheme of Marine Products Export Development 
+Authority (MPEDA) a flagship initiative of the Government of India to promote exports of 
+marine products in the country. MPEDA offers various schemes like financial assi stance to 
+support high-end or value-added products, financial assistance to move towards certification 
+for primary production, financial assistance to set up Mini Labs, Training through different 
+divisions and societies, Laboratory services, Certifications  for traceability and Assistance for 
+technology incubation.  
+For a systematic and comprehensive review, MPEDA has engaged Athena Infonomics India 
+Pvt. Ltd., New Delhi to assess the Central Sector Scheme of MPEDA for the SFC period, 2017-
+2020. The objective of the assessment is to (i) Evaluate the performance/effecti veness of the 
+scheme; (ii) Assess the impact of the scheme; (iii) Identify the challenges in the implementation 
+of the scheme; (iv) Evaluate the need and effectiveness of trainings; (v) Assess the ease of 
+applying to the scheme and (vi) User-friendliness of the online portal of MPEDA. 
+S No. Particulars Response 
+1.  Name of interviewer  
+ 
+2.  Date of interview  DD/MM/YYYY 
+ 
+3.  Permission for interview granted.  (1) Yes 
+(2) No 
+ The place of Interview  (1) Within the premise of Field Office 
+(2) Other/community  
+4.  Respondent Name   
+5.  District name  
+ 
+6.  State name  
+ 
+ 
+ 
+ 
+
+--- PAGE 102 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+102 
+Business Profile  
+S No. Particulars Response 
+1.  For how many years have you been in the 
+business of aquaculture? 
+ 
+2.  Are you a ﬁrst-generation entrepreneur? (3) Yes 
+(4) No 
+3.  In which year did you start this farm?  
+4.  What is the size of your farm? 
+ 
+Mention in acres 
+ 
+5.  Which species of shrimp do you culture? (5) Black Tiger Shrimp 
+(6) L. Vannamei 
+(7) Scampi 
+(8) Others: _____ 
+6.  Which is your preferred export market?  
+ 
+Select all that apply 
+❑ USA 
+❑ EU 
+❑ Japan 
+❑ Other: ______ 
+7.  Where do you source seeds for your farm? (4) Own hatchery 
+(5) Nearby hatchery 
+(6) Imported 
+8.  Where do you source feeds for your farm? (4) Own feed mill 
+(5) Nearby feed mill 
+(6) Imported 
+ 
+ 
+S No. Particulars Response 
+1.  How did you come to know about 
+NaCSA? 
+(1) Friends 
+(2) Newspaper/Advertisement 
+(3) Fishing/Aquaculture Society 
+(4) Associations 
+(5) Banks 
+(6) Consultants 
+(7) Others: _____ 
+2.  What assistance have you 
+received from NaCSA in 
+improving your farming activities? 
+ 
+Select all that apply 
+❑ Facilitated access to MPEDA ﬁnancial 
+assistance schemes 
+❑ Technical support 
+❑ Assistance in farm enrollment with 
+MPEDA 
+❑ Capacity building or training programs 
+❑ Market information 
+❑ Access to institutional ﬁnance and 
+insurance 
+
+--- PAGE 103 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+103 
+S No. Particulars Response 
+❑ Facilitated linkage with Processors and 
+Exporters 
+❑ Helped obtain licenses from the Coastal 
+Aquaculture Authority (CAA) 
+❑ Others: _____ 
+3.  What according to you are the 
+beneﬁts of being part of the 
+cluster? 
+❑ Better Prices for input materials 
+❑ Better market price for produce 
+❑ Better access to markets 
+❑ Others: _____ 
+❑ No beneﬁts 
+4.  How frequently do the NaCSA 
+officials visit your farm? 
+(1) Weekly  
+(2) Monthly  
+(3) Quarterly  
+(4) Half-yearly  
+(5) Annually  
+(6) Any other: _____ 
+5.  What kind of support do you 
+expect from NaCSA? 
+ 
+ 
+Discussion Guide - Head Office/RD 
+Introduction and Consent for the Interview 
+Hello Sir/Madam! My name is ---------------- and I am working as a researcher with Athena 
+Infonomics India Pvt. Ltd. 
+As you would be aware, the Central Sector Scheme of Marine Products Export Development 
+Authority (MPEDA) a flagship initiative of the Government of India to promote exports of 
+marine products in the country. MPEDA offers various schemes like financial assi stance to 
+support high-end or value-added products, financial assistance to move towards certification 
+for primary production, financial assistance to set up Mini Labs, Training through different 
+divisions and societies, Laboratory services, Certifications  for traceability and Assistance for 
+technology incubation.  
+For a systematic and comprehensive review, MPEDA has engaged Athena Infonomics India 
+Pvt. Ltd., New Delhi to assess the Central Sector Scheme of MPEDA for the SFC period, 2017-
+2020. The objective of the assessment is to (i) Evaluate the performance/effecti veness of the 
+scheme; (ii) Assess the impact of the scheme; (iii) Identify the challenges in the implementation 
+of the scheme; (iv) Evaluate the need and effectiveness of trainings; (v) Assess the ease of 
+applying to the scheme and (vi) User-friendliness of the online portal of MPEDA.  
+Development Section 
+S No. Particulars Response 
+
+--- PAGE 104 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+104 
+1.  Name of interviewer  
+2.  Date of interview  DD/MM/YYYY 
+3.  Permission for interview granted.  (1) Yes 
+(2) No 
+4.  Respondent Name   
+5.  Designation  
+6.  District name  
+7.  State name  
+ 
+1. Please outline the process from application to final disbursement.? 
+2. How do you budget for the scheme?  
+3. How has the uptake of the financial assistance scheme for value-added have been?  
+4. Where do you face most challenges? (Prompt: Scheme awareness, documentation, etc.) 
+5. How long does it usually take to process applications related to financial assistance 
+schemes – advance approval and final approval?  
+6. How many applications do you get annually for each scheme?   
+7. How is the uptake of online application? If the interviewee says there are challenges 
+related to online application, probe further. 
+8. What challenges do you face with online applications?  
+9. How have you overcome some of these challenges?  
+10. What suggestions for improvements with regard to the schemes do you think would 
+help?  
+11. What are the expectations of beneficiaries regarding the schemes and services offered by 
+MPEDA? How do you manage the expectations? 
+12. How often do you interact with beneficiaries post disbursement? 
+13. What were the main concerns expressed by beneficiaries? (Either during your interaction 
+or other modes? 
+14. How do you address those concerns? Individual or regular meetings? If there are regular 
+meetings, how often do you conduct such meetings? 
+15. How do you assess the impact of the scheme? 
+ 
+ 
+ 
+
+--- PAGE 105 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+105 
+Aquaculture Section 
+S No. Particulars Response 
+1.  Name of interviewer  
+2.  Date of interview  DD/MM/YYYY 
+3.  Permission for interview granted.  (1) Yes 
+(2) No 
+4.  Respondent Name   
+5.  Designation  
+6.  District name  
+7.  State name  
+ 
+1. What is the process from application to final disbursement? 
+2. How do you budget for the scheme?  
+3. How has the uptake of the financial assistance scheme under Certification of primary 
+production been?  
+4. Where do you face most challenges faced by beneficiaries? (Prompt: Scheme 
+awareness, documentation, etc.) 
+5. How long does it usually take to process applications?  
+6. How many applications do you get annually for each scheme?   
+7. How is the uptake of online application? If the interviewee says there are challenges 
+related to online application, probe further. 
+8. What challenges do you face with online applications?  
+9. How have you overcome some of these challenges?  
+10. What suggestions for improvements with regard to the schemes do you think would 
+help?  
+11. What are the expectations of beneficiaries regarding the schemes and services 
+offered by MPEDA? How do you manage the expectations? 
+12. How often do you interact with beneficiaries post disbursement? 
+13. What were the main concerns expressed by beneficiaries? (Either during your 
+interaction or other modes? 
+14. How do you address those concerns? Individual or regular meetings? If there are 
+regular meetings, how often do you conduct such meetings? 
+15. How do you assess the impact of the scheme? 
+ 
+ 
+  
+
+--- PAGE 106 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+106 
+Market Promotion 
+S No. Particulars Response 
+1.  Name of interviewer  
+2.  Date of interview  DD/MM/YYYY 
+3.  Permission for interview granted.  (1) Yes 
+(2) No 
+4.  Respondent Name   
+5.  Designation  
+6.  District name  
+7.  State name  
+ 
+1. What are the key market promotion activities undertaken by your section? 
+2. How do you budget for the market promotion?  
+3. How do you engage exporters as part of market promotion?  
+4. Where do you face most challenges from beneficiaries perspectives? (Prompt: 
+Scheme awareness, documentation, etc.) 
+5. What are the major queries from exporters w.r.to market promotion? 
+6. How often do you interact with exporters for market promotion initiatives? 
+7. What  are your suggestions for market promotion improvements?  
+8. How do you assess the impact of market promotion? 
+  
+
+--- PAGE 107 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+107 
+RGCA 
+S No. Particulars Response 
+1.  Name of interviewer  
+2.  Date of interview  DD/MM/YYYY 
+3.  Permission for interview granted.  (1) Yes 
+(2) No 
+4.  Respondent Name   
+5.  Designation  
+6.  District name  
+7.  State name  
+ 
+1. What is the mandate of RGCA? 
+2. What is the process for various activities of RGCA? (Problem statement to solution, to 
+deployment etc.? 
+3. How do you go about budgeting for various activities of RGCA?  
+4. What are your development plans for the future? 
+5. How do you engage beneficiaries as part of your mandate?  
+6. Where do you face most challenges from market and beneficiaries perspectives?  
+7. What are the major queries from beneficiaries w.r.to RGCA initiatives? 
+8. How often do you interact with beneficiaries for RGCA? 
+9. What  are your suggestions for scaling up your programs and activities? (Financial and 
+non-financial) 
+10. How do you assess the impact of RGCA?    
+11. Have you carried out any RGCA specific impact assessment? 
+  
+
+--- PAGE 108 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+108 
+Mini Labs 
+S No. Particulars Response 
+1.  Name of interviewer  
+2.  Date of interview  DD/MM/YYYY 
+3.  Permission for interview granted.  (1) Yes 
+(2) No 
+4.  Respondent Name   
+5.  Designation  
+6.  District name  
+7.  State name  
+ 
+1. What is the process for establishing mini labs? 
+2. How do you budget for the scheme?  
+3. How critical is the mini lab in promoting the exports? 
+4. Where do you face most challenges in implementing the schemes? 
+5. How long does it usually take to process applications related to mini labs?  
+6. How is the uptake of online application? If the interviewee says there are challenges 
+related to online application, probe further. 
+7. What challenges do you face with online applications?  
+8. How have you overcome some of these challenges?  
+9. What suggestions for improvements with regard to the schemes do you think would 
+help?  
+10. What are the expectations of beneficiaries regarding these schemes and services offered 
+by MPEDA?  
+11. How often do you interact with beneficiaries post disbursement? 
+12. What were the main concerns expressed by beneficiaries? (Either during your interaction 
+or other modes of interactions? 
+13. How do you address those concerns? Individual or regular meetings? If there are regular 
+meetings, how often do you conduct such meetings? 
+14. How do you assess the impact of the scheme? 
+  
+
+--- PAGE 109 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+109 
+QC & ELISA Labs 
+S No. Particulars Response 
+1.  Name of interviewer  
+2.  Date of interview  DD/MM/YYYY 
+3.  Permission for interview granted.  (3) Yes 
+(4) No 
+4.  Respondent Name   
+5.  Designation  
+6.  District name  
+7.  State name  
+ 
+1. What is the mandate of QC & ELISA section? 
+2. How are the services offered by QC & ELISA Labs?  
+3. How critical is the QC & ELISA labs in promoting the exports? 
+4. What is the beneficiary acceptance of QC & ELISA certificate ? 
+5. Where do you face most challenges faced by QC & ELISA labs in implementing the 
+schemes? 
+6. How have you overcome some of these challenges?  
+7. How do you compete with private labs? In terms of infrastructure, pricing, market 
+acceptance? 
+8. How do you compare your labs with private labs?  
+9. What suggestions for improvements with regard to the QC & ELISA do you think 
+would help?  
+10. How do you address the rejection of consignment at destination markets? 
+11. What are the expectations of beneficiaries regarding QC & ELISA?  
+12. How often do you interact with beneficiaries to understand QC & ELISA related 
+services? 
+13. What were the main concerns expressed by beneficiaries? (Either during your 
+interaction or other modes of interactions? 
+14. How do you address those concerns? Individual or regular meetings? If there are 
+regular meetings, how often do you conduct such meetings? 
+15. How do you assess the impact of the QC & ELISA labs? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 110 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+110 
+Training and Capacity Building 
+S No. Particulars Response 
+1.  Name of interviewer  
+2.  Date of interview  DD/MM/YYYY 
+3.  Section Name  
+4.  Permission for interview granted.  (1) Yes 
+(2) No 
+5.  Respondent Name   
+6.  Designation  
+7.  District name  
+8.  State name  
+ 
+1. What are the key training and capacity building initiatives of your section? 
+2. What is the process for administrating training and capacity building? – mobilization to 
+conduct of training program? 
+3. How do you budget for the scheme?  
+4. What percentage of beneficiaries are covered under the training and capacity building? – 
+Potential vis-v-vis Actual coverage? 
+5. How critical is the training and capacity building in promoting the exports? 
+6. How do you go about identifying and structuring the coverage for various training 
+programs? 
+7. Have you done any skill gap analysis of beneficiaries for the respective training programs? 
+8. What kind of systems are available to track – pre – and post – training feedback? 
+9. How often do you update the content for the programs? 
+10. How many trainers do you have? (In-house and external) 
+11. Have you looked at RPL initiatives of central govt programs? 
+12. Where do you face most challenges in implementing the training programs? 
+13. How have you overcome some of these challenges?  
+14. What suggestions for improvements with regard to the training and capacity building?  
+15. What are the expectations of beneficiaries in training and capacity building?  
+16. What were the main concerns expressed by beneficiaries? (Either during your interaction 
+or other modes of interactions? 
+17. How do you address those concerns? Individual or regular meetings? If there are regular 
+meetings, how often do you conduct such meetings? 
+18. How do you assess the impact of your training and capacity building scheme? 
+ 
+ 
+  
+
+--- PAGE 111 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+111 
+NETFISH 
+S No. Particulars Response 
+1.  Name of interviewer  
+2.  Date of interview  DD/MM/YYYY 
+3.  Section Name  
+4.  Permission for interview granted.  (3) Yes 
+(4) No 
+5.  Respondent Name   
+6.  Designation  
+7.  District name  
+8.  State name  
+ 
+1. What is the mandate of NETFISH? 
+2. How do you go about budgeting for various activities of NETFISH?  
+3. What are your development plans for the future? 
+4. What percentage of beneficiaries are covered under your programs? – Potential vis-v-vis 
+Actual coverage 
+5. How do you engage beneficiaries as part of your mandate?  
+6. Where do you face most challenges from market and beneficiaries perspectives?  
+7. What are the major queries from beneficiaries w.r.to NETFISH initiatives? 
+8. How often do you interact with beneficiaries for NETFISH? 
+9. What are your suggestions for scaling up your programs and activities? (Financial and 
+non-financial) 
+10. How do you assess the impact of NETFISH?    
+11. Have you carried out any NETFISH specific impact assessment earlier? If yes, have you 
+incorporated the suggestions of the impact assessment? 
+12. What are the challenges in implementing/scaling-up your programs? 
+ 
+  
+
+--- PAGE 112 ---
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+112 
+ 
+ 
+ 
+ 
+HEAD OFFICE 
+The Marine Products Export Development Authority, 
+MPEDA House, 
+P.B.No.4272, 
+Panampilly Avenue, 
+Panampilly Nagar P.O, 
+Kochi – 682 036, 
+KERALA – INDIA 
+The Marine Products Export Development Authority (MPEDA) was set up by an act of Parliament during 1972. The erstwhile 
+Marine Products Export Promotion Council established by the Government of India in September 1961 was converged in to 
+MPEDA on 24th August 1972. MPEDA is given the mandate to promote the marine products industry with special reference to 
+exports from the country. It is envisaged that this organization would take all actions to develop and augment the resources required 
+for promoting the exports of “all varieties of fishery products known commercially as shrimp, prawn, lobster, crab, fish, shell-fish, 
+other aquatic animals or plants or part thereof and any other products which the authority may, by notification in the Gazette of 
+India, declare to be marine products for the purposes of (the) Act”. The Act empowers MPEDA to regulate exports of marine 
+products and take all measures required for ensuring sustained, quality seafood exports from the country. MPEDA is given the 
+authority to prescribe for itself any matters which the future might require for protecting and augmenting the seafood exports from 
+the country. It is also empowered to carry out inspection of marine products, its raw material, fixing standards, specifications, and 
+training as well as take all necessary steps for marketing the seafood overseas. 
+www.mpeda.gov.in 
+CONTACT US 
+Phone: 
++91 484 2311901, +91 484 2311854, +91 484 2311803, +91 484 2313415, 
++91 484 2314468, +91 484 2315065 
+ 
+Fax: 
++91 484 2313361 
+ 
+E-mail: ho[at]mpeda[dot]gov[dot]in 

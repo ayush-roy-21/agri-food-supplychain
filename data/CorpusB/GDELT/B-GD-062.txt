@@ -1,0 +1,40 @@
+Doc ID: B-GD-062
+Title: Huge export opportunities for food , beverages in Singapore mkt : TPCI
+Source Domain: economictimes.indiatimes.com | Publish Date: 20260422T073000Z
+URL: https://economictimes.indiatimes.com/small-biz/trade/exports/insights/huge-export-opportunities-for-food-beverages-in-singapore-mkt-tpci/articleshow/130433165.cms
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export tea
+Retrieval Date: 2026-07-09
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: A,M,M,A,A,A
+DQA Justification: Auth: Tier-1 established financial/trade media domain | Rel: Adequate/Marginal trade relevance (1 agri + 3 trade friction terms) | Gran: Overview narrative (163 words, 1 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (163 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Over 100 Indian companies are showcasing products at the FHA fair, aiming to increase India's low 2.6% share of Singapore's F&B imports. This strategic hub offers access to the wider ASEAN market, with success in Singapore paving the way for regional expansion.
+
+Listen to this article in summarized format
+
+Unlock AI Briefing and Premium Content
+
+Why is the price of silver falling? The answer: It has cousins. Part 2 – The maternal cousin
+
+Why deficit rain hits fertiliser, pesticide and seed companies at different speeds
+
+How data-fogged MCA annual report fails to mirror India Inc’s health
+
+NSE, Jio mega IPOs: Why size doesn’t matter, valuations do
+
+What will the NSE IPO price be? Unlisted market deals offer clues.
+
+Akasa aims to be a 226-aircraft airline by 2032, IPO in 2-4 years
+
+Choose your reason below and click on the Report button. This will alert our moderators to take action
+
+Your Reason has been Reported to the admin.
+
+Stories you might be interested in
+
+================================================================================

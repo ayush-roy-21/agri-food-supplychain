@@ -1,36 +1,64 @@
 Doc ID: B-GD-057
-Title: Boosting exports - The Navhind Times
-Source Domain: navhindtimes.in | Publish Date: 20260612T201500Z
-URL: https://navhindtimes.in/editorial/boosting-exports/
+Title: Why An Indian Plantation Labour Dispute Landed At The ILO
+Source Domain: businessworld.in | Publish Date: 20260503T161500Z
+URL: https://www.businessworld.in/article/why-an-indian-plantation-labour-dispute-landed-at-the-ilo-605187
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export DGFT
-Retrieval Date: 2026-07-08
+Targeted Query: India export tea
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,M,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: Adequate/Marginal trade relevance (1 agri + 2 trade friction terms) | Gran: Overview narrative (1342 words, 1 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (1342 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
 Locus Tag: gdelt-msme-trade-friction
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Goa’s engineering products did well in foreign markets despite turmoil and logistical challenges
+On International Labour Day, the Paschim Banga Cha Majoor Samity (PBCMS), West Bengal tea workers’ union, has escalated a long-running labour dispute beyond India’s borders by filing a formal representation before the International Labour Organisation (ILO), alleging systemic violations of labour rights in the tea plantation sector and a failure of both state and Union authorities to enforce existing laws and international obligations.
 
-Goa engineering exports surpassed expectations in 2025-26, surprising many in the state. According to Engineering Export Promotion Council (EEPC) India, the trade promotion and export facilitation body of the engineering industry, the state’s engineering exports increased from $405.8 million in 2024-25 to $550.6 million, recording a yearly rise of 36 per cent.
+The ILO is a United Nations (UN) agency that sets international labour standards and reviews complaints related to issues such as wages, working conditions, forced labour, discrimination, and freedom of association. By taking the matter to the ILO, the union is seeking international scrutiny of what it describes as systemic enforcement gaps and inadequate protection of workers’ rights in the plantation sector
 
-In fact, Goa’s performance in exports was the best in the western region of India, pointed out the Department of Commerce, New Delhi, during a recent event. The export feat needs a mention because it is achieved during a year of global turmoil and marked by severe logistical challenges. Global trade is going through turbulence with nations prioritising their own industrial growth over free market efficiency.  Moreover freight rates are at an all-time high.
+By invoking Article 24 of the ILO Constitution, the union argued that domestic legal and administrative remedies have failed to correct what it calls a “structural breakdown of governance” in plantations, ranging from unpaid wages and statutory dues to weak enforcement of labour inspections and intimidation of trade union members.
 
-With a percentage share of less than 5 per cent, the engineering exports are a small part of the total export basket of the state. The exports strangely are not highlighted as much as iron ore exports by the government.
+Tea plantation workers in India continue to face persistent challenges related to low wages, weak enforcement of welfare provisions, and inadequate access to housing and healthcare, particularly in Assam, West Bengal, and the Nilgiris region.
 
-In that sense, Goan engineering exports are a dark horse with not much known of the products exported, the top performers, the upcoming stars, etc. Engineering exports however, remain vital to the local economy as they reveal the technical prowess of the state. A growing export trend indicates a healthy industrial ecosystem and plays an important role in attracting investors.
+A 2025 report by the ILO highlighted that informal and plantation-based workers in South Asia remain disproportionately exposed to wage insecurity and limited social protection coverage, while a 2025 analysis by the Observer Research Foundation noted that plantation labour systems in India continue to show “structural dependence” on employers for essential services despite expanded legal frameworks.
 
-Goa amazingly has about 80 companies that are members of EEPC-India, which by virtue of membership are doing a certain amount of exports annually. About 60 per cent of EEPC India membership is of MSME exporters, but the recent export surge apparently is driven by a handful of large and medium sized companies. The exports consist of steel coils, electrical equipment, automotive components, and industrial machinery, among others.
+Notably, the timing is notable. Even as the labour complaint moves to an international forum, tea planters in Darjeeling are warning of a commercial LPG shortage during the crucial first flush season, while national data pointed to rising tea export earnings in 2025, aided largely by currency movements. Together, these strands place fresh attention on how labour governance, production risks and export economics intersect in one of India’s oldest export industries.
 
-It is important for exporting companies in the state to increase the per unit value of their products and tap new markets.  Information gathered suggests that quality is one of the main hurdles for local MSMEs to increase their export sales. However, there are other barriers too. Exporters lack a single window interface for receiving multiple departmental clearances.
+What The Union Has Alleged In Its RepresentationAccording to the PBCMS statement, the complaint centres on the “continued non-payment of wages and statutory dues, including provident fund and gratuity, to thousands of tea plantation workers”, allegedly in defiance of law and court directions. The union contended that the union government has not exercised its statutory powers under the Tea Act, 1953, while state authorities have failed to notify and enforce a statutory minimum wage for plantation workers, despite the sector being a scheduled employment sector.
 
-Majority of engineering cargo require manual inspections for custom clearances that take place in Mumbai.  Exporters need to send their technical team to Mumbai to reply to custom officials. Small exporters are not influential enough to deal with corrupt inspectors. The difficulties in exporting makes many MSME units avoid foreign markets and turn to domestic sales.
+This, the union argued, has entrenched “poverty wages” that fall well below living wage estimates, undermining constitutional guarantees and India’s commitments under ratified ILO conventions on forced labour, discrimination, equal remuneration, and protection of indigenous and tribal communities.
 
-Goa has a long way to go to become a significant player in the country’s engineering exports. The state’s exports, although growing, are the smallest in the western region and make up for just one per cent of the region’s exports of $ 47,462 million.
+Responding to a parliamentary question last year, Shobha Karandlaje, Minister of State for Labour (MoS) and Employment, said in a written reply in the Lok Sabha that conditions in tea gardens are regulated by state governments under the Plantations Labour Act, 1951, now subsumed under the Occupational Safety, Health and Working Conditions Code, 2020 and the Code on Social Security, 2020, which provide for housing, healthcare, wages, and broader welfare provisions for plantation workers.
 
-With entrepreneurs in the state citing no ease of doing business for overseas trade, it is clear that major reforms are needed for our exports to grow in the coming years. Measures that will add life to exports include strengthening of the local export ecosystem through a local office of the Director General of Foreign Trade (DGFT) and setting up of trade promotion organisations.
+The dispute also carries political significance in West Bengal, where tea-growing regions remain key electoral constituencies and labour welfare in plantation belts continues to feature in policy discussions and campaign outreach by political parties across successive elections.
 
-The government must also give more push for export promotion by a focused campaign that projects engineering products from the state as high-quality, technologically advanced and reliable.   Incentives to export oriented units can also be considered together with dissemination of knowledge on export-import trade laws.
+The representation highlighted what it describes as structural discrimination within plantations. Women workers, who form a significant share of the workforce, are said to remain concentrated in the lowest-paid and most insecure forms of labour. Adivasi and other tribal communities, historically tied to plantation work, are described as effectively landless despite generations of residence.
+
+The union also flagged recent policy shifts that allow diversion of plantation land for tourism and allied commercial activities, warning that such changes intensify fears of displacement and dispossession for workers without formal land or housing rights.
+
+Why The Union Says Domestic Remedies FailedA central argument in the complaint is the alleged “systematic dismantling” of labour inspection mechanisms. Administrative measures, the union says, have curtailed the ability of inspectors to conduct meaningful oversight, emboldening non-compliant employers. This, it alleges, has been accompanied by intimidation of workers and trade union members through false cases and disciplinary action aimed at suppressing collective bargaining.
+
+The representation noted sustained engagement with domestic institutions, including constitutional courts, but argues that ground realities have not changed. This perceived gap between judicial directions and executive implementation has prompted the appeal for international scrutiny. For business observers, this reframes a sectoral industrial dispute as a question of governance credibility and compliance with global labour standards.
+
+Even as the labour dispute escalates internationally, Darjeeling’s tea industry is facing an operational challenge at home. Industry bodies, including the Darjeeling Tea Association and the Indian Tea Association, have written to the Tea Board of India, warning that restricted availability of commercial LPG could disrupt tea processing during the first flush, the early harvest that commands premium prices.
+
+The concern follows directives issued by the Ministry of Petroleum and Natural Gas asking refineries to prioritise LPG supplies for households and essential services such as hospitals and educational institutions, placing commercial and industrial users lower in the supply hierarchy. According to reports, the Ministry of Commerce and Industry has sought a report from the Tea Board after consultations.
+
+Darjeeling factories rely heavily on LPG for withering and drying leaves. Over the past decade, estates shifted from coal to LPG after export consignments were found to contain anthraquinone residues, creating trade-related complications. The industry is now almost entirely dependent on 47.5-kg commercial LPG cylinders, whose prices have also risen sharply.
+
+The first and second flushes account for around 40 per cent of Darjeeling’s annual production but generate nearly 80 per cent of its revenue due to premium pricing linked to its geographical indication status. The Darjeeling tea industry supports around 55,000 permanent workers and their families, and nearly 41 per cent of output is exported. Planters warn that prolonged LPG shortages could force factories to halt operations, affecting both quality and export commitments.
+
+The Indian Tea Association has pointed out that tea factories in upper Assam benefit from piped gas and priority supply, while Darjeeling remains dependent on commercial cylinders, increasing vulnerability to supply disruptions.
+
+Export Gains In 2025 Add A National DimensionThe operational concerns in Darjeeling come against the backdrop of improved tea export earnings nationally in 2025. Media reports indicated that India recorded an 18.4 per cent rise in tea export value during the year, driven largely by a weaker rupee and steady overseas demand rather than a sharp rise in shipment volumes.
+
+A depreciated rupee improved price competitiveness abroad, as contracts settled in foreign currencies translated into higher rupee realisations. Major destinations included West Asia, Russia, CIS countries and parts of Africa. Assam and West Bengal accounted for the largest share of export earnings, supported by demand for orthodox teas. Darjeeling tea volumes remained limited but commanded higher unit values due to its GI status, while Nilgiri teas from southern India also saw improved receipts from European buyers.
+
+Exporters also reported higher shipments of value-added products such as tea bags, flavoured teas and instant tea, which fetched higher average prices than bulk exports. Packaged tea saw growth in markets such as the United Kingdom, Germany and the United Arab Emirates. However, export volumes were reportedly constrained by weather-related production variability, higher domestic consumption and rising input costs, including labour, fertilisers and fuel.
+
+On one hand, global markets are delivering higher rupee returns for tea exporters. On the other hand, plantation-level issues, unpaid dues, wage disputes, labour enforcement concerns, and now fuel shortages during peak harvest, highlight vulnerabilities in the production ecosystem that underpins those exports. For policymakers, the situation presents a dual challenge: ensuring that export gains are not undermined by production disruptions, while also addressing allegations that the foundational labour framework of plantations is failing workers.
+
+Subscribe to our newsletter to get updates on our latest news
 
 ================================================================================

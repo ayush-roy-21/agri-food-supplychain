@@ -1,44 +1,44 @@
 Doc ID: B-GD-050
-Title: Walmart bets bigger on India : MSME export push crosses 115 , 000 businesses [ details inside ] 
-Source Domain: ibtimes.co.in | Publish Date: 20260507T121500Z
-URL: https://www.ibtimes.co.in/walmart-bets-bigger-india-msme-export-push-crosses-115000-businesses-details-inside-901857
+Title: Cambodia expanding rice markets , eyes Iraq – phnompenhpost . com
+Source Domain: phnompenhpost.com | Publish Date: 20260508T231500Z
+URL: https://phnompenhpost.com/national/cambodia-expanding-rice-markets-eyes-iraq/
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export DGFT
-Retrieval Date: 2026-07-08
+Targeted Query: India export rice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-msme-trade-friction
+DQA 6-Dimension Score: M,M,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: Adequate/Marginal trade relevance (1 agri + 2 trade friction terms) | Gran: Substantive depth (564 words, 2 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (564 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-basmati-mrl-rejections
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Walmart is expanding its India sourcing and supplier development efforts as the U.S. retail giant looks to deepen ties with the country's growing manufacturing and export ecosystem amid shifting global supply chains.
+In addition to China and the EU, the Kingdom’s largest rice markets, countries such as Indonesia, the Philippines and Iraq are also emerging as potential and target markets for Cambodian rice, according to a senior official at the Ministry of Agriculture, Forestry and Fisheries.
 
-At the second edition of the Walmart Growth Summit India 2026 held at Bharat Mandapam in New Delhi, the retailer said it has already sourced more than $40 billion worth of goods from India and trained over 115,000 micro, small and medium enterprises (MSMEs) through its Walmart Vriddhi programme since 2019.
+Citing the Statista website, a global data forum on statistics, ministry secretary of state Yang Saing Koma said on December 3 that the largest global rice importers are China, the Philippines, the EU, Iraq, Nigeria and Indonesia, with Vietnam in the seventh slot.
 
-$40 Billion Sourcing Drive Accelerates
+He added that among these markets, Cambodia has already captured some in China and Europe, while Indonesia and the Philippines are potential markets where the country has been gradually starting to export.
 
-The event brought together export-ready businesses, digital-first brands, MSMEs and supply chain partners to explore opportunities in domestic and international markets, highlighting Walmart's broader strategy of positioning India as a key sourcing and manufacturing hub.
+“We are currently marketing in the Philippines and Indonesia, and Iraq could be our market in the future. India is the world’s largest exporter of rice, followed by Thailand, and Vietnam in third rank, while Cambodia is currently eighth and has the potential to move up to the fifth-largest in the future,” he stated.
 
-"India represents one of the most dynamic opportunities in global commerce today," Walmart President and CEO John Furner said at the summit.
+“Vietnam ranks seventh in rice imports, while it also ranks third in terms of rice exports. This country is also the largest importer of rice from Cambodia, importing between three to four million tonnes a year,” he added.
 
-"We've already sourced more than $40 billion in goods from India and are focused on strengthening entrepreneur and supplier capabilities, raising compliance and quality standards, and helping scale manufacturing so more Indian businesses are ready to export," Furner said.
+Saing Koma noted that in order to achieve the goal of exporting one million tonnes of rice per year and become the fifth-largest exporter of the commodity in the future, the ministry has been implementing important policies, especially the fifth and sixth priority policies launched by the government on November 20.
 
-The summit comes as multinational retailers increasingly diversify sourcing bases beyond China and seek to build resilient supply chains across Asia. India has emerged as a strategic market for global companies looking to expand manufacturing partnerships across categories ranging from textiles and food products to home goods and consumer items.
+The policies, parts of the new government’s Pentagonal Strategy-Phase I, aim to promote agribusiness production, find markets and maintain the balance of prices through financing programmes, deploying officials in communes and developing modern agricultural communities.
 
-Flipkart Group CEO Kalyan Krishnamurthy said digital commerce platforms were helping small businesses access larger domestic and global markets.
+“We are enhancing incentives for farmers to cultivate fragrant rice using genetically pure seeds. This variety of rice is in high demand by local mills. The production of this cultivar for export provides a more favourable and stable price compared to other dry season varieties,” he explained.
 
-"Through initiatives like Flipkart Samarth and Walmart Vriddhi, we are helping build capabilities, improve market access, and create pathways for businesses to grow both domestically and globally," Krishnamurthy said.
+“The utilisation of pure seeds, combined with the correct application of principles and techniques in field management, also contributes to achieving high yields,” he added.
 
-Walmart said its Vriddhi Supplier Development Program plans to support 170,000 MSMEs by 2028, expanding training in digital commerce, compliance, business operations and export readiness.
+Chan Sokheang, president of the Cambodia Rice Federation (CRF) – the Kingdom’s apex rice industry body – also noted that CRF has consistently supported the ministry in implementing the policies set by the government, particularly the agricultural strategy, which is crucial for the rice sector.
 
-The company also highlighted growing interest among Indian sellers in cross-border commerce through Walmart Marketplace. According to Walmart, the summit received more than 5,000 registrations, with participants seeking guidance on onboarding, regulatory compliance and international expansion.
+“CRF has continually assisted the government in promoting the successful export of rice to international markets. We have sought overseas markets by participating in exhibitions in other countries and have strived to find export partners for new markets, as we want the world to know and taste Cambodia’s delicious rice,” he said.
 
-Manish Joneja said India's export ambitions were accelerating as more businesses looked beyond the domestic market.
+As of the beginning of November this year, rice cultivation covered more than 3.6 million hectares and produced 6.2 million tonnes, with an anticipated total yearly yield of more than 6.3 million tonnes by year’s end, according to a report from the ministry.
 
-"Walmart Marketplace is proud to partner with businesses and organizations like DPIIT and FIEO to help Indian businesses become export-ready and reach customers around the world," Joneja said.
+During the same period, agricultural exports remained high at more than 6.2 million tonnes, valued at over $3.5 billion, to 74 destination countries. The Kingdom achieved more than 520,000 tonnes of exported rice worth over $458 million, including exports to Indonesia, a new destination.
 
-The summit follows regional events in Jaipur and Coimbatore conducted in partnership with the Directorate General of Foreign Trade (DGFT) and the Federation of Indian Export Organisations (FIEO), with Walmart planning additional outreach programmes in the coming year.
-
-Walmart has steadily expanded its India footprint through sourcing operations, supply-chain investments and its ownership stake in Flipkart, as competition intensifies in the country's fast-growing retail and e-commerce sectors.
+Type above and press Enter to search. Press Esc to cancel.
 
 ================================================================================

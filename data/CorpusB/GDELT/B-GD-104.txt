@@ -1,0 +1,46 @@
+Doc ID: B-GD-104
+Title: Centre rolls out roadmap to boost seafood exports under TEPA
+Source Domain: prokerala.com | Publish Date: 20260706T184500Z
+URL: https://www.prokerala.com/news/articles/a1784589.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export DGFT
+Retrieval Date: 2026-07-09
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,A,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (2 agri + 5 trade friction terms) | Gran: Substantive depth (596 words, 4 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (596 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-seafood-dwpe-alerts
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+New Delhi, July 6 : As part of the Centre's outreach to help states boost exports, a Chintan Shivir on "Opportunities for the Seafood Sector under the India-European Free Trade Association (EFTA) Trade and Economic Partnership Agreement (TEPA)" was held in Chennai to maximise the benefits of the sharp reduction in tariffs which are now available under the trade pact.
+
+New Delhi, July 6 (IANS) As part of the Centre's outreach to help states boost exports, a Chintan Shivir on â€œOpportunities for the Seafood Sector under the India-European Free Trade Association (EFTA) Trade and Economic Partnership Agreement (TEPA)" was held in Chennai to maximise the benefits of the sharp reduction in tariffs which are now available under the trade pact.
+
+The high-level brainstorming session, organised by the Centreâ€™s Department of Commerce and held on the sidelines of Seafood Expo Bharat 2026 at the Chennai Trade Centre last week, highlighted that TEPA offers substantial strategic advantages for Indian seafood exporters through significant tariff concessions.
+
+Under the Agreement, Iceland has eliminated its 55 per cent import duty on feed, including fish feed. Switzerland has reduced the import duty on fats and oils of fish (other than liver oil) from 18.05 per cent to zero. Similarly, Norway has eliminated its 13.16 per cent import duty on feed, including fish and shrimp feed, reducing the tariff to zero and enhancing market access for Indian exporters.
+
+The TEPA opens avenues for technology transfer, joint ventures and collaboration with niche technology firms from EFTA countries, while significantly expanding export opportunities for fishermen and seafood stakeholders, particularly in coastal states such as Tamil Nadu.
+
+TEPA is India's first trade agreement with the EFTA member states comprising Iceland, Liechtenstein, Norway, and Switzerland. Collectively, the EFTA economies account for a combined GDP of approximately $1.79 trillion and are among the world's leading players in merchandise and services trade. TEPA is also India's first operational trade arrangement with a European economic bloc, complementing the country's ongoing trade engagements with the European Union and the United Kingdom. The Agreement carries an ambition to facilitate $100 billion in investments into India and support the creation of one million direct jobs.
+
+The Chintan Shivir was attended by Joint Secretary, Department of Commerce, Mohit Yadav, along with representatives from Invest India, the Directorate General of Foreign Trade (DGFT) Regional Office, Chennai, the Export Inspection Council (EIC), and the Federation of Indian Export Organisations (FIEO). Leading exporters from the seafood sector and businesses targeting EFTA markets also participated in the deliberations.
+
+Addressing the participants, Yadav provided a comprehensive overview of the India-EFTA TEPA and highlighted the wide-ranging trade and investment opportunities available to Indian businesses under the Agreement.
+
+A representative from Invest India delivered a detailed presentation on emerging investment opportunities across the Indian seafood value chain. This was followed by a presentation by a DGFT representative outlining various export promotion and facilitation schemes aimed at enhancing ease of doing business and improving the competitiveness of Indian exporters. Representatives from EIC and FIEO also shared insights on regulatory requirements, quality standards and strategies for effectively leveraging the benefits available under TEPA.
+
+No infighting in state unit, differences will be sorted out: Punjab's Cong in-charge(IANS Exclusive)
+
+Yogi Government adopting advanced technology to curb crime, providing training to officials
+
+Pawan Kalyan expresses shock over death of young fan whose last wish he recently fulfilled
+
+Ex-Nepalese Dy PM, former Home Minister convicted in fake Bhutanese refugee scam
+
+Chief Minister Yogi to launch 'Mukhyamantri Shikshak Cashless Chikitsa Suvidha Yojana' from Varanasi on Wednesday
+
+BJP to convert historic north Kolkata office into Syama Prasad Mookerjee museum
+
+================================================================================

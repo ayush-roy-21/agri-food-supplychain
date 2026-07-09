@@ -1,0 +1,1227 @@
+--- PAGE 1 ---
+www.sustainable.mit.edu
+ISSUE NO.06
+StillStill    MattersMattersStill  Matters
+TRANSPORTATION
+SCOPE 3 EMISSIONS
+ROLE OF REGULATIONS
+SustainabilitySustainability  Sustainability 
+
+--- PAGE 2 ---
+Since 1963, the Council of Supply Chain Management
+Professionals (CSCMP) has been the leading worldwide
+professional association dedicated to education,
+research, and the advancement of the supply chain
+management profession. With more than 9,000
+members globally, representing business, government,
+and academia from 62 countries, CSCMP members are
+the leading practitioners and authorities in the fields of
+logistics and supply chain management. Learn more at
+cscmp.org
+All rights reserved. This publication or parts thereof may
+not be reproduced or modified in any form, stored in any
+retrieval system, or transmitted in any form by any means
+—electronic, mechanical, photocopy, recording, or
+otherwise— without prior written permission of the
+publisher, except as provided by United States of
+America copyright law.
+For permission requests, write to the publisher at:
+77 Massachusetts Avenue, Building E40-263
+Cambridge, MA 02139
+or ctl_comm@mit.edu
+Version 4
+Last updated: November 13, 2025
+Suggested Citation:
+Velázquez Martínez, J. C., Rajagopalan, S., Arnold, V. &
+Mora Quinones, C. A., (2025, October). State of supply
+chain sustainability 2025. MIT Center for Transportation
+& Logistics and Council of Supply Chain Management
+Professionals. https://sustainable.mit.edu/sscs-report/
+About the MIT Center for Transportation & Logistics
+www.sustainable.mit.edu
+The MIT Center for Transportation & Logistics (MIT CTL)
+is a leading research and educational center within the
+Massachusetts Institute of Technology with more than
+50 years of supply chain expertise. More than a decade
+ago, supply chain sustainability emerged as a key
+research area at the center. The center has responded
+with research, e
+ducation, and outreach to address the
+continuing growth of supply chain sustainability as a
+business imperative fueled by the demands and
+requirements of consumers, governments, and investors.
+Supply chain sustainability research at the center is
+focused on enabling research and collaboration on the
+social and environmental sustainability of supply chain
+business processes. Learn more at 
+ctl.mit.edu
+About the Council of Supply Chain Management
+Professionals
+Copyright © 2025 Massachusetts Institute of
+Technology
+
+--- PAGE 3 ---
+SPONSORED  BY:
+
+--- PAGE 4 ---
+EXECUTIVE SUMMARY 06
+INTRODUCTION 08
+METHOLODOLOGY 12
+THE ROLE OF REGULATIONS 14
+MANAGING SCOPE 3: FROM
+MEASUREMENT TO MITIGATION
+20
+CONCLUSION & NEXT STEPS 40
+APPENDICES 42
+TRANSPORTATION  SECTOR 34
+TABLE OF                     
+CONTENTS
+State of Supply Chain Sustainability 2025
+
+--- PAGE 5 ---
+FIGURES AND
+TABLES
+Demographics of the 2025 Respondents
+FIGURE 1
+13
+Corporate Sustainability Commitment Remains Stable Despite U.S. Paris Withdrawal
+FIGURE 2
+15
+Regional Comparison of Companies Feeling Pressure to Make Sustainable Changes
+FIGURE 3
+16
+Confidence Levels of Companies in Reaching Their Sustainability Goals
+FIGURE 4
+16
+From Commitment to Action: Share of Businesses Integrating Sustainability in Daily
+Decisions
+FIGURE 5
+17
+Businesses with Public Goals Show Higher Sustainability Integration Rates
+FIGURE 6
+18
+Tools used to measure Scope 3 emissions
+FIGURE 7
+22
+Regional Breakdown of Tools Used to Measure Scope 3 Emissions
+FIGURE 8
+22
+24
+Top Challenges in Measuring Scope 3 Emissions
+FIGURE 10
+25
+Regional Differences in Challenges Measuring Scope 3 Emissions
+FIGURE 11
+25
+Biggest Challenges in Reducing Scope 3 Emissions
+FIGURE 12
+26
+Regional Differences in Challenges Reducing Scope 3 Emissions
+FIGURE 13
+27
+Barriers to Reducing Emissions Among SMEs
+FIGURE 14
+28
+FIGURE 15
+Ways Companies Engage with Suppliers to Reduce Scope 3 Emissions
+Data Sources for Scope 3 Measurement
+FIGURE 9
+23
+FIGURE 16
+Regional Breakdown of Ways Companies Engage with Suppliers to Reduce Scope 3
+Emissions
+29
+FIGURE 17
+Participation in Industry Collaborations
+30
+FIGURE 18
+Regional Breakdown in Participation in Industry Collaborations
+30
+FIGURE 19
+Benefits Gained From Participating in Industry Collaborations
+31
+FIGURE 21
+Regional Difference in Challenges That Limit Industry Collaborations 
+33
+FIGURE 22
+The Significance of Biofuels, Electric Batteries, and Hydrogen In Reducing Emissions
+36
+FIGURE 23
+Hurdles in the Adoption of Lower-Emission Technologies in the Freight Transportation
+Sector
+37
+FIGURE 24
+Regional Hurdles in the Adoption of Lower-Emission Technologies in the Freight
+Transportation Sector
+38
+FIGURE 25
+Strategies Ranked in Terms of Importance to Reducing Emissions in Freight
+Transportation
+39
+FIGURE 20
+Challenges That Limit Industry Collaborations
+32
+Issue No.06
+
+--- PAGE 6 ---
+Sustainability still matters; despite regulatory
+volatility, geopolitical shifts, and economic
+uncertainty, it remains a core driver of business
+success and a defining element of modern supply
+chains.
+The breadth of this data enables us to capture both
+global perspectives and regional nuances, offering
+a comprehensive view of how supply chain
+sustainability is evolving.
+EXECUTIVE
+SUMMARY
+6 State of Supply Chain Sustainability 2025
+The 2025 State of Supply Chain Sustainability
+report produced by the MIT Sustainable Supply
+Chain Lab and the Council of Supply Chain
+Management Professionals, provides an in-depth
+view of how organizations are turning
+commitments into action, where progress is
+strongest, and what barriers remain.
+This year’s study draws on responses from 1,200
+professionals in 97 countries, spanning supply
+chain, procurement, operations, logistics, and
+sustainability roles.
+ 
+This year marks the sixth annual report, and the
+study explores three major themes:
+How government regulations influence companies’
+sustainable commitments, and how these effects
+vary across regions
+Role of Regulations
+The tools, methods, and challenges companies face
+in measuring and reducing supply chain emissions,
+which typically account for more than 75% of
+corporate carbon footprints
+Managing Scope 3: From Measurement to
+Mitigation
+A dedicated section on freight transportation, one of
+the largest contributors to Scope 3 emissions,
+assessing technology expectations, adoption
+hurdles, and strategic priorities across biofuels,
+battery-electric systems, and hydrogen-based
+solutions.
+Freight Transportation
+
+--- PAGE 7 ---
+Issue No.06
+Several insights stand out in the 2025 findings. First, despite regulatory shifts, overall corporate commitment
+to sustainability remains resilient. While 15% of companies report reduced commitments, 12% have increased
+theirs, and 73% report no change, showing that most organizations are holding steady with their sustainability
+goals. However, only a minority succeed in translating this conviction into daily operations that deliver
+measurable results, leaving a persistent gap between strategy and execution. This year’s findings make it
+clear that publicly stated sustainability goals can be a powerful catalyst—companies that set them are 74%
+more likely to invest in high-impact initiatives and embed sustainability into day-to-day decision-making.
+Second, Scope 3 emissions remain both the biggest challenge and the greatest opportunity. Progress has
+been made in tracking direct emissions, but supplier engagement, methodological clarity, and financing
+mechanisms remain critical bottlenecks. Where companies do succeed, they leverage digital traceability,
+standardized accounting, and industry collaborations to move the needle.
+Finally, freight transportation underscores both the urgency and the complexity of decarbonization.
+Companies are exploring alternatives to petroleum-based fuels, viewing biofuels as the most practical near-
+term option, battery-electric solutions as increasingly viable for urban and regional routes, and hydrogen as
+the long-term answer for heavy-duty operations. Yet adoption is slowed by infrastructure gaps, upfront
+investment needs, and operational trade-offs.
+Together, these insights reveal that true leaders are those who move beyond intent. In 2025, the companies
+at the forefront of sustainability are embedding it into their core operations—through digital traceability,
+harmonized data, incentive-aligned procurement, and active industry collaborations—unlocking both
+measurable environmental impact and greater operational resilience. The State of Supply Chain Sustainability
+report serves as both mirror and map—reflecting where businesses stand today and outlining clear,
+measurable pathways to accelerate supply chain decarbonization globally. 7
+“This report is indispensable for anyone
+in supply chain. Businesses, investors,
+and consumers are demanding higher
+social and environmental sustainability
+standards—and supply chains are at the
+center of delivering on them. 
+The 2025 State of Supply Chain
+Sustainability Report highlights where
+progress is being made, where
+challenges remain, and what strategies
+will drive the next wave of impact.
+CSCMP and MIT are proud to present
+the sixth edition of this essential
+resource to help you benchmark and
+accelerate your sustainability journey.”
+Mark Baxa, President and CEO of CSCMP
+
+--- PAGE 8 ---
+INTRODUCTION
+Sustainability has become an essential element of supply chain management, shaping how companies
+compete, grow, and build resilience in an uncertain world. The 2025 State of Supply Chain Sustainability
+Report, produced by the MIT Sustainable Supply Chain Lab, at the MIT Center for Transportation and
+Logistics, and the Council of Supply Chain Management Professionals, builds on six years of research to
+provide a clear picture of how businesses are translating commitments into action, where progress is
+accelerating, and which challenges continue to slow momentum.
+ 
+This year’s report is based on a global survey of more than 1,200 professionals from 97 countries,
+representing supply chain, procurement, logistics, operations, and sustainability functions across sectors.
+Their insights provide a uniquely comprehensive view of how sustainability practices are evolving worldwide.
+We structured the research around three core themes: the first is the role of regulations, followed by the
+measurement and management of Scope 3 emissions, and lastly, the decarbonization of freight
+transportation. Together, these themes capture the forces shaping supply chain sustainability today and
+point to where action will have the greatest impact tomorrow.
+One of the defining questions in this year’s research was: How businesses respond to a shifting policy
+landscape? In recent years, governments around the world have advanced greenhouse gas (GHG)
+regulations and, in some cases, rolled them back, creating uncertainty for corporations. The study reveals,
+however, that corporate sustainability strategies are proving more resilient than policy cycles.
+ 
+8 State of Supply Chain Sustainability 2025
+
+--- PAGE 9 ---
+Issue No.06
+Eighty percent of surveyed companies believe sustainability is important or extremely important to long-term
+success, with 73% reporting no change in their commitments following the U.S. withdrawal from the Paris
+Agreement, and 12% even increasing their efforts. Many organizations are moving forward with strategies
+that anticipate or exceed regulatory requirements, using the strictest applicable rules as benchmarks.
+Regional differences are clear. In Europe, regulations such as the Corporate Sustainability Reporting Directive
+(CSRD) serve as the primary driver of action, pushing companies toward standardized disclosures, better
+data governance, and value chain transparency. In North America, investor expectations and boardroom
+priorities are more influential than government mandates. Despite these differences, both regions show
+optimism: more than half of all respondents report high confidence in meeting sustainability goals, with
+European firms slightly more confident than their North American counterparts. But one thing is clear
+globally: companies with public sustainability goals are far more likely to integrate sustainability into daily
+decision-making and to invest in high-impact initiatives. This suggests that public accountability creates
+internal momentum, signaling that when companies make explicit commitments, they are more likely to
+follow through with meaningful execution.
+Scope 3 emissions, the indirect emissions from suppliers, transportation, product use, and all other parts of
+the value chain, remain the most difficult area of corporate climate management. It typically accounts for
+more than 75% of a company’s total emissions . Yet, reporting lags far behind Scope 1 and Scope 2. This
+year’s findings underscore both the scale of the challenge and the growing innovations to address it. More
+than 40% of companies now track Scope 1 and 2, but far fewer report on Scope 3. The main barrier is supplier
+data: about 70% of respondents cited a lack of supplier-specific information as the biggest challenge.
+Methodological fragmentation and calculation complexity followed closely, cited by more than half of
+respondents. Resource constraints, high costs of digital tools, and data privacy concerns further complicate
+measurement.
+1
+9
+
+--- PAGE 10 ---
+Regional differences again stand out. North American businesses rely
+heavily on financial data and industry averages, an approach that offers
+broad comparability but fails to reflect supplier-specific improvements.
+In contrast, European businesses rely more on supplier data, reflecting
+deeper engagement with upstream partners. Notably, 50% of North
+American respondents still rely primarily on spreadsheets, compared to
+just 33% in Europe, where companies more frequently use Life Cycle
+Assessment tools and custom solutions.
+When it comes to reduction, economics is a major bottleneck. More
+than half of companies report unclear return on investment as the top
+barrier to Scope 3 reduction, followed by high implementation costs
+and lack of influence over suppliers. This challenge is especially acute
+for small and medium-sized enterprises (SMEs): nearly half fear that
+customers will not pay more for greener products, while 43% also lack
+the knowledge, 40% lack the resources, or 31% lack the demand signals
+needed to justify investment. For SMEs, the issue is less about
+willingness than about feasibility.
+Despite these obstacles, companies, particularly those that have
+publicly stated sustainability goals, are beginning to deploy effective
+strategies, such as industry collaborations. Initiatives like SteelZero  and
+RE100  illustrate how coming together and setting shared standards
+can accelerate supplier transition. Survey data shows strong
+participation in cross-sector alliances and supplier partnerships. Though
+notable barriers remain, such as cost, capacity, and concerns over data
+sharing. Importantly, companies that participate in collaborations report
+improved emissions data, stronger supplier alignment, access to
+expertise, and policy influence. These benefits suggest collaboration is
+not just an option but a necessity for scaling credible Scope 3
+management. 
+2
+3
+One of the largest contributors to Scope 3 emissions is transportation,
+making it a critical focal point for supply chain decarbonization. To
+capture how businesses view this challenge, the 2025 study included a
+dedicated freight section. The survey explored perceptions of three
+major technology pathways: biofuels, battery-electric vehicles, and
+hydrogen. Biofuels emerged as the most practical near-term lever,
+offering almost immediate results with existing fleets and infrastructure.
+Battery-electric solutions are viewed as increasingly viable for urban
+and regional routes where charging networks are available, with
+expectations rising as ranges improve and costs decline. Hydrogen is
+widely regarded as a longer-term solution for heavy-duty, long-haul
+transport, contingent on the development of affordable green
+hydrogen, refueling infrastructure, and lower vehicle costs.
+10 State of Supply Chain Sustainability 2025
+
+--- PAGE 11 ---
+Yet optimism is tempered by clear barriers. Respondents identified infrastructure gaps, high upfront costs,
+and range limitations as the most pressing obstacles. Regional differences again shape the outlook: North
+American firms are most concerned with cost and industry resistance, while European respondents highlight
+regulatory support, reliability, and return on investment.
+Despite these challenges, companies are prioritizing action. Operational efficiency, such as route
+optimization, load consolidation, and fuel management, was ranked as the most important near-term
+strategy, delivering cost savings alongside emissions reductions, with investment in low-emission assets
+coming next. The sequence reflects pragmatism: focus first on achievable, cost-effective measures, then
+scale transformative technologies as economics and infrastructure align.
+This annual report offers professionals a comprehensive overview of the aforementioned topics, aiming to
+assist organizations in making sustainable decisions in the current context. Our objective is to advance our
+discussions on sustainability efforts by incorporating research findings on supply chain sustainability and
+gathering insights from practitioners. The aim is to collectively shape the future of this field and together
+create a more sustainable future for the world.
+The remainder of the report is structured as follows. The Methodology Section of our study focuses on the
+research approach and provides descriptive information about the data collected. The section titled The Role
+of Regulations examines the impact of government regulations on achieving sustainability objectives and
+what impact of changing regulations on organizations. In the section titled Managing Scope 3: From
+Measurement to Mitigation, the report examines what technologies companies are using to track and
+measure their emissions and the need to engage with suppliers to ensure accurate data is collected. Also
+covering what can be gained from industry collaborations and how that can be beneficial for the
+decarbonization effort. Finally, in the Transportation Sector section, we provide a thorough examination to
+address which technologies the industry thinks will be the most successful in the efforts to decarbonize and
+what hurdles they are facing in transitioning to the more sustainable options. We then present the findings
+and implications of this report in the Conclusions Section.
+11
+SUSTAINABILITY STILL MATTERS — AND IN 2025, THE
+EVIDENCE SHOWS THAT IT MATTERS MORE THAN EVER.
+Issue No.06
+
+--- PAGE 12 ---
+METHODOLOGY
+12
+The study’s broad objectives are to map the
+current state of corporate sustainability across
+sectors, with particular emphasis on Scope 3
+emissions. It assesses the efforts invested in
+sustainability initiatives, the confidence
+businesses have in achieving their goals, and the
+integration of sustainability indicators into
+decision-making. In addition, the study seeks to
+identify the pressures, drivers, and barriers
+shaping progress, including SME-specific
+challenges, the role of industry collaborations,
+regulatory impacts, and customer demands. This
+year’s study adds a special focus on the freight
+transportation sector, evaluating expectations for
+the adoption of low-emissions technologies and
+alternative fuels. State of Supply Chain Sustainability 2025
+Drivers of Sustainability 
+in Business Strategy:
+Perceptions, Confidence,
+Regulation, and Geopolitics
+Managing Scope 3:
+Capabilities, Practices, 
+and Challenges Across
+Supply Chains
+Future of sustainable
+freight transportation
+We conducted a survey in 2025 as the latest wave of our multi-year State of Supply Chain Sustainability
+study. The survey captured standardized quantitative data from a broad pool of professionals in supply chain,
+sustainability, operations, procurement, and logistics, enabling comparability with prior waves. Using
+purposive and snowball sampling through professional associations, the MIT Global SCALE Network , partner
+lists, events, and social media, we gathered 1,203 valid responses from 97 countries. Eligibility required
+current employment and familiarity with supply chain or sustainability activities. Participation was voluntary,
+anonymous, and limited to one response per individual. The survey, averaging 45 questions, was offered in
+English, Spanish, French, Simplified Chinese, and Portuguese. It included multiple-choice, open-ended, and
+Likert scale questions (1–5) to capture priorities, practices, perceptions, and challenges related to
+sustainability. In addition to capturing the respondents’ business function, the extent of their involvement in
+sustainability initiatives, and the geographical locations of their companies, the survey questions revolved
+around the following three major themes:
+4
+
+--- PAGE 13 ---
+Respondents Role
+33.5%
+28.1%
+26.7%
+5%
+Company Size
+Business Sector
+13
+Figure 1: Demographics of the 2025 State of Supply Chain Sustainability Survey
+1,203 RESPONSES 
+97 COUNTRIES
+5 LANGUAGES
+Issue No.06
+Respondent Location
+36% North America
+9% Central & South America
+and the Caribbean
+19% Europe
+10% Africa
+24% Asia
+2% Oceania
+Transportation and Warehousing
+Manufacturing - Other
+Wholesale and Retail
+Technology and Information Services
+Manufacturing - Consumer Goods
+Healthcare and Services
+Manufacturing - Food and Beverages
+Manufacturing - Heavy Industry
+Finance and Insurance
+Other
+Natural Resources - Oil and Gas Extraction
+Manufacturing - Chemicals
+Natural Resources - Agriculture, Forestry, Fishing
+Natural Resources - Mining (Except Oil and Gas)
+Construction
+Utilities
+Accomodation and Food Services
+Natural Resources - Other
+
+--- PAGE 14 ---
+Globally, over the past few years, many regulations for
+greenhouse gas (GHG) emissions for companies have been
+approved and put in place, and, in some cases, have been
+rolled back after being approved. Whether that is due to
+administration changes or to the lack of clarity on how the
+regulation will be enforced, it makes it hard for companies
+to know what is expected of them. We are interested in
+how these changes affect what businesses decide to do.
+The survey results show that sustainability remains a
+strategic priority for companies across both the U.S. and
+Europe, with 80% of the businesses surveyed believing
+sustainability is important or extremely important for the
+long-term success of their business.
+ 
+THE ROLE OF
+REGULATIONS
+14
+Corporate Sustainability Commitment Persists Despite Policy Changes
+State of Supply Chain Sustainability 2025
+
+--- PAGE 15 ---
+Despite the U.S. withdrawal from the Paris Agreement, Figure 2 shows that over 70% of businesses report no
+change in their sustainability commitment, with an additional 12% of companies even increasing their efforts.
+Corporate sustainability strategies might operate indep endently of national climate policy shifts, driven by
+factors beyond federal political positions, or they might use the strictest regulation that needs to be met to
+drive their organization's goals.
+In Europe, 60% of businesses responded “Yes” to facing pressure to enhance supply chain sustainability
+compared to 46% in North America, suggesting that the push for sustainability is more significant and
+widespread in the European market (see Figure 3). Further, in Europe, regulation is the primary anchor. The
+Corporate Sustainability Reporting Directive (CSRD), along with the European Sustainability Reporting
+Standards and assurance requirements, is pushing companies to standardize disclosures and improve data
+governance. This regulatory framework directly affects European businesses and indirectly affects non-EU
+multinationals through EU subsidiaries, listings, and value-chain expectations. In the United States, motivation
+more commonly originates with investors and boards/C-suites rather than government regulations, not to
+mention customers from the European market. Multinational companies are requiring their suppliers to meet
+CSRD standards and data collection practices.
+15
+Figure 2. Corporate Sustainability Commitment Remains Stable Despite U.S. Paris Withdrawal
+Issue No.06
+
+--- PAGE 16 ---
+16
+In addition to regional differences in sustainability drivers, confidence in achieving sustainability goals varies
+slightly across regions. Among companies rep orting high confidence levels ( 4 or 5 on the 5-point scale),
+64.4% of European businesses and 56.7% of North American businesses indicate high confidence.  
+Figure 3. Regional Comparison of Companies Feeling Pressure to Make Sustainable Changes, By Region
+Figure 4. Confidence Levels of Companies in Reaching Their Sustainability Goals,  
+1 being least confident, and 5 being extremely confident, By Region
+State of Supply Chain Sustainability 2025
+Overall, more than half of all surveyed businesses (56.2%) express high confidence in their ability to reach
+sustainability goals, with 35.86% reporting level 4 confidence and 20.34% expressing extremely high
+confidence, suggesting that despite implementation challenges, most companies remain optimistic about
+turning their sustainability commitments into measurable outcomes.
+
+--- PAGE 17 ---
+17
+Sustainability in Decision-Making: Impact
+of Public Commitments and Stakeholder
+Pressure
+In examining companies that have maintained their
+sustainability commitments since January 2025, we
+focused on how they operate in p
+ractice to assess
+whether their sustainability goals are embedded in
+day-to-day activities. Our research shows that there
+is a notable execution gap between strategic intent
+and daily practice of an organization. Only 39% of the
+businesses reporting unchanged or increased
+commitment since the Trump administration have
+actually integrated sustainability indicators into
+routine operational decision-making.
+Figure 5. From Commitment to Action: Share of Businesses Integrating Sustainability in Daily Decisions
+Issue No.06
+
+--- PAGE 18 ---
+18
+Interestingly, businesses with publicly stated sustainability goals show significantly higher levels of daily
+sustainability integration compared to those without public commitments. Among companies that have
+made public sustainability pledges, 57.33% frequently or always incorporate sustainability decisions into their
+daily operations, whereas only 13.38% of businesses without public goals achieve this level of integration (see
+Figure 6). We also find that businesses across sectors and
+ regions that have publicly committed to goals and
+face pressure from diverse stakeholders tend to invest more in high-impact sustainability initiatives, including
+renewable energy adoption, product innovation, waste reduction, and circular economy.
+Figure 6. Businesses with Public Goals Show Higher Sustainability Integration Rates
+State of Supply Chain Sustainability 2025
+Businesses with sustainability goals are 74% more likely to invest in initiatives
+that effectively reduce their emissions.
+This suggests that public accountability mechanisms create stronger internal pressures to embed
+sustainability principles into business operations. The findings highlight that external commitments and
+transparency are associated with a more systematic implementation of sustainability practices beyond
+strategic statements.
+
+--- PAGE 19 ---
+19
+Overall, the findings show that while regulatory volatility
+creates uncertainty, it has not weakened corporate
+sustainability momentum. Companies continue to view
+sustainability as strategically important, often setting
+targets that anticipate or exceed policy requirements.
+Regional differences remain clear; European businesses are
+more directly shaped by regulation, while North American
+organizations lean on investor and board priorities, but in
+both circumstances, public commitments and stakeholder
+pressure drive deeper integration of sustainability into
+business practice. Importantly, businesses that make their
+goals explicit are far more likely to embed them into daily
+decisions and invest in high-impact initiatives,
+underscoring that transparency and effective execution are
+key enablers of meaningful progress.
+57% of companies with
+public sustainability
+pledges embed
+sustainability into daily
+operations, signaling
+that commitments are
+increasingly operational,
+not just aspirational.
+Issue No.06
+
+--- PAGE 20 ---
+This section highlights how companies are addressing and managing Scope 3 emissions,
+starting with understanding the current state and challenges of measuring Scope 3
+emissions, and dives into the tools, technologies, and data sources used to capture these
+emissions, highlighting differences between regions such as North America and Europe. It
+highlights challenges in both measurement and reduction and then explores practical
+decarbonization strategies, including supplier engagement and industry collaborations.
+ 
+MANAGING
+SCOPE 3: 
+20
+FROM MEASUREMENT TO
+MITIGATION
+State of Supply Chain Sustainability 2025
+
+--- PAGE 21 ---
+Diagram adapted from Greenhouse Gas Protocol (2024)
+21
+Companies are under increasing pressure to measure and report
+emissions, especially those with public sustainability goals or
+operations in the EU. Under the Greenhouse Gas Protocol, Scope 1
+covers direct emissions, Scope 2 covers purchased energy, and
+Scope 3 covers all other indirect emissions across the value chain .
+Scope 3 is the most difficult to measure and manage, yet it typically
+accounts for more than 75% of a company’s total footprint. 
+5
+While many companies have become proficient at reporting Scope 1
+and 2, Scope 3 remains a major challenge. More than 40% of
+businesses track and reduce Scope 1 and 2 emissions, but less than
+half of those are tracking and reducing their Scope 3 emissions—
+especially in Categories 1 (Purchased Goods and Services), 4
+(Upstream Transport), and 9 (Downstream Transport/Distribution).
+The complexity of global supply chains, data availability, and
+methodological choices all contribute to this gap, underscoring why
+Scope 3 is the linchpin of credible climate strategies.
+Measuring What Matters: Insights into Scope 3 Emissions
+Challenges and Current State
+Issue No.06
+Spreadsheets
+dominate (66%)
+Scope 3
+measurement,
+underscoring
+both progress in
+coverage and the
+urgent need for
+scalable, tech-
+enabled solutions.
+Includes energy that your company
+purchases, but does not generate it or 
+its emissions, This is why it is indirect
+emissions.
+Includes fuels you burn directly and
+applies to your company if you pay
+the fuel bill or own the asset.
+Includes all other indirect emissions that occur in a
+company’s value chain and usually are the greatest
+source of emissions. These are the 15 categories
+that represent upstream and downstream activities
+classified as Scope 3 by GHG Protocol
+distribution
+distribution
+activities
+
+--- PAGE 22 ---
+Spreadsheets
+Spreadsheets &
+Carbon Software
+Spreadsheets &
+Custom Tools
+Spreadsheets,
+Carbon Software
+& Custom Tools
+Carbon Software
+& Custom Tools
+ Carbon Software
+ Custom Tools
+Scope 3 Tools Used
+In examining how companies track their
+Scope 3 emissions, it is clear that
+spreadsheets remain the primary tool (66.1%)
+for measurement across a significant share of
+companies, regardless of size (see Figure 7).
+22
+Tools and Technologies for Measurement
+Figure 7. Tools used to measure Scope 3 emissions  
+(multiple response)
+Figure 8. Regional Breakdown of Tools Used to Measure Scope 3 Emissions (multiple response) State of Supply Chain Sustainability 2025
+This reliance indicates that the process is still
+in its infancy, with manual data handling and
+a lack of integrated systems-of-record for
+emissions data. Regional differences are
+stark: in North America, 50% of companies
+rely on spreadsheets, compared to just ~32%
+in Europe. European companies demonstrate
+a higher adoption of Life Cycle Assessment
+(LCA) tools and custom-built solutions (~36%
+vs. ~16% in North America) (see Figure 8).
+The continued dependence on spreadsheets
+raises risks around data quality, auditability,
+and scalability. Transitioning to standardized
+data models and integrated systems that can
+connect with enterprise platforms (ERP,
+logistics, procurement) will be critical to
+reduce errors and improve supplier data
+integration.
+
+--- PAGE 23 ---
+23
+Data Sources for Measurement (North America vs. Europe)
+Figure 9. Data Sources for Scope 3 Measurement (multiple response)
+The survey also reveals distinct regional patterns in data sou rces (see Figure 9). North American companies
+rely most on fin ancial data and industry averages, methods that provide broad comparability but fail to
+capture supplier-specific improvements. European firms, by contrast, lean more heavily on supplier data,
+indicating stronger engagement with upstream partners.
+This matters because financial and industry-average methods
+that North America is relying on provide broad comparability but
+are insufficient for accurately estimating emissions and risk
+overlooking real emission reductions at the supplier level. One of
+the main challenges with fin
+ancial-based, industry-average
+methods is that they prioritize cost over actual emissions, which
+disincentivizes investments in sustainability. 
+Issue No.06
+For example, if a company purchases a more sustainable product at a higher cost, its reported emissions may
+actually rise, even though its true environmental impact decreases . Companies that integrate supplier data
+are better positioned to capture progress, target interventions, and manage risks across their value chains. 
+6
+
+--- PAGE 24 ---
+24
+The single biggest obstacle to Scope 3 measurement is supplier data availability, or lack thereof, reported by
+about 70% of respondents (see Figure 10). Without access to activity-level or product-specific data, even
+motivated businesses struggle to calculate accurate emissions. Two methodological challenges follow
+closely: the first is the lack of standardized methodologies (~53%), and the second is the inherent complexity
+of calculations (~52%). This highlights how fragmented the guidance is and complicates the accounting
+process. Limited internal expertise (~39%), high software/tool costs (~32%), and data privacy concerns
+(~26%) further compound the problem, all of which are capability barriers.
+ 
+Regional differences (see Figure 11) reflect varying needs. While supplier data is the largest category for all
+regions, European companies report more challenges with methodology complexity and tool costs, while
+North American businesses highlight resource gaps and data-sharing concerns. Supplier data gaps and a lack
+of standardized methods remain major issues in both regions. These results highlight that achieving credible
+Scope 3 measurement requires more than business-level commitment. A clear need for industry-wide
+collaboration on emissions accounting standardization, better digital tools, and stronger supplier
+engagement to make Scope 3 accounting credible and scalable.
+Figure 10. Top Challenges in Measuring Scope 3 Emissions (multiple response)
+Challenges in measuring Scope 3 emissions
+State of Supply Chain Sustainability 2025
+
+--- PAGE 25 ---
+25
+Figure 11. Regional Differences in Challenges Measuring Scope 3 Emissions (multiple response)
+Figure 12. Biggest Challenges in Reducing Scope 3 Emissions (multiple response)
+Issue No.06
+
+
+--- PAGE 26 ---
+26
+Figure 13. Regional Differences in Challenges Reducing Scope 3 Emissions (multiple response)
+Measuring Scope 3 is only the first step—reducing it is
+often challenging. The biggest hurdle is the lack of a clear
+business case: 56% of respondents cited unclear ROI from
+reduction efforts (see Figure 12). The challenge of including
+stakeholders whose activities significantly impact Scope 3
+outcomes, such as suppliers, customers, and logistics
+partners, comes in second (~52%). Followed closely by
+high implementation costs (50%) and little influence on
+suppliers (~44%): businesses face costs and accountability
+but often feel like they lack the power to significantly affect
+upstream change. Planning risk is increased by regulatory
+uncertainty (~40%), which discourages inv
+estment in long-
+term interventions. Only approximately ~15% of businesses
+cite difficulty in identifying emissions hotspots, suggesting
+that most know where their emissions are concentrated but
+struggle to rally partners and justify the necessary
+investments. Across the different regions, they are
+reporting similar challenges.
+Challenges in Reducing Scope 3 Emissions
+State of Supply Chain Sustainability 2025
+56% of firms cite
+unclear ROI as a
+barrier, highlighting
+the persistent
+tension between
+motivation and
+financial
+justification.
+
+
+--- PAGE 27 ---
+27
+Although most companies claim to have identified their emissions
+“hotspots,” turning that knowledge into action remains constrained by
+economic and governance challenges. Small and medium-sized
+enterprises (SMEs) face distinct challenges in advancing sustainability.
+Nearly half (~49%) anticipate that their major corporate customers will
+be unwilling to pay a premium for more sustainable products, making it
+difficult to justify the additional expense. Knowledge gaps (~43%) are
+another major hurdle, as many SMEs remain uncertain about what steps
+to take, which standards to follow, or how to measure benefits. A
+ weak
+business case is further undermined by high costs (~40%) and low
+demand (~31%); investments appear risky when customers are not
+asking for, or willing to co-fund, greener options. Mid-tier hurdles such
+as conflicting demands (~22%) and time constraints (~19%) reflect the
+limited bandwidth of small teams juggling multiple priorities. At the
+same time, a
+ notable share of SMEs reports no barriers (~9%) or are
+unsure (~12%), suggesting a lack of awareness about how emissions
+regulations may affect their business. For many, the challenge is less
+about intent and more about feasibility, economic constraints,
+information gaps, and limited capacity make it difficult to allocate scarce
+resources to decarbonization without clear guidance or price premiums.
+Ultimately, without large corporations supporting decarbonization or
+incentivizing their SME suppliers to cut emissions, meaningful Scope 3
+reductions will remain a distant goal.
+Figure 14. Barriers to Reducing Emissions Among SMEs (multiple response)
+Issue No.06
+
+--- PAGE 28 ---
+Engaging suppliers is a critical lever for reducing Scope 3 emissions, and companies employ a mix of
+approaches that generally fall into four categories:
+28
+Decarbonization Levers to Reduce Scope 3: Supplier Engagement
+Figure 15. Ways Companies Engage with Suppliers to Reduce Scope 3 Emissions (multiple response)
+State of Supply Chain Sustainability 2025
+Foundational procurement levers are the most common, which includes sustainability in supplier selection
+(~70%) and requesting emissions data from suppliers (~55%), as you can see in Figure 15. The commercial
+mechanisms lever is relatively underutilized (~42%), which is powerful for locking in change but is used by a
+smaller share of businesses, whereas the capability-building and assurance levers are used moderately.
+Regional differences are notable (see Figure 16). North American organizations spread their efforts across
+selection criteria, data requests, and training, while European companies lean more on audits, certifications,
+and supplier capacity building. Commercial mechanisms like financial incentives or long-term contracts
+remain underused in both regions, despite their potential to drive lasting change.
+Commercial Mechanisms: long-term contracts
+with sustainability commitments; financial
+incentives or penalties tied to performance
+Capability-Building: providing training or
+resources to help suppliers cut emissions
+Verification & Compliance: requiring 
+third-party audits or certifications
+Sustainable Sourcing: including sustainability
+criteria in supplier selection; requesting
+emissions data
+
+--- PAGE 29 ---
+29
+Industry Collaborations
+Collaboration across industries is emerging as a powerful way to decarbonize, with companies working
+together to source sustainable inputs and create uniform standards. Industry partnerships help to progress
+Scope 3 decarbonization by relieving suppliers of the stress of handling numerous, conflicting requests.
+SteelZero , for instance, encourages steelmakers to invest in cleaner production by uniting purchasers such
+as Maersk and Volvo Cars to pledge to use 50% low-emission steel by 2030 and 100% net-zero steel by
+2050. Similar to this, RE100  brings together hundreds of businesses to source all of their electricity from
+renewable sources, generating a sizable and steady demand that aids in the development of new clean
+power and the decarbonization of suppliers. As a result, by pooling demand, standardizing practices, and
+exchanging non-proprietary knowledge, industry partnerships strengthen Scope 3 decarbonization
+initiatives. Figure 17 shows the variety of collaborations that businesses engage in. The most prevalent are
+sustainability coalitions (48.8%), followed by joint supplier programs (31.2%). A significant number of
+respondents are unclear or uninvolved, indicating inadequate awareness and participation.
+2
+3
+Figure 16. Regional Breakdown of Ways Companies Engage with Suppliers to Reduce Scope 3 Emissions  
+(multiple response)
+Issue No.06
+
+
+--- PAGE 30 ---
+Regional differences again
+appear: European firms
+report slightly higher
+involvement in coalitions
+and joint supplier programs
+(42.3%) compared to North
+American firms (35.7%).
+30
+Figure 18. Regional Breakdown in Participation in Industry Collaborations (multiple response) State of Supply Chain Sustainability 2025
+Figure 17. Participation in Industry Collaborations (multiple response)
+In North America, firms rely
+more on cross-sector
+alliances (21.4%), and a
+similar share (21.4%) report
+not participating in any
+initiatives.  (see Figure 18).
+
+--- PAGE 31 ---
+31
+Issue No.06
+When organizations collaborate, they unlock multiple
+advantages that strengthen both execution and
+economics. As illustrated in Figure 19, out of the
+companies that do participate in industry
+collaborations, the most commonly reported benefits
+include stronger supplier engagement, better
+alignment on sustainability goals, and enhanced
+access to emissions data and reporting frameworks,
+together cited by nearly four out of five respondents
+(87%). In addition, many organizations highlight gains
+from shared resources and expertise, as well as direct
+cost savings achieved through joint sustainability
+investments (64.2%). Nearly half of the companies
+also report improved regulatory compliance and
+greater influence on policy (46.3%).
+ 
+Figure 19. Benefits Gained From Participating in Industry Collaborations (multiple response)
+Industry
+collaboration
+pays off.
+80% of participants
+report gains in
+emissions data
+quality, supplier
+alignment, shared
+expertise, cost
+efficiencies, and
+policy influence.
+
+--- PAGE 32 ---
+32 State of Supply Chain Sustainability 2025
+Therefore, the benefits of collaboration are clear:
+improved emissions data, better supplier
+alignment, shared expertise, cost savings, and
+policy influence. However, there can be several
+barriers constraining deeper or broader
+collaboration that should be noted. Organizations
+face a mix of practical and coordination hurdles
+when collaborating. The top barriers include cost
+and resource constraints, standardization issues,
+data-sharing concerns, and differences in
+priorities (see Figures 20 and 21).
+Figure 20. Challenges That Limit Industry Collaborations (multiple response)
+
+--- PAGE 33 ---
+33
+Issue No.06
+Scope 3 remains the most material yet most difficult part of corporate emissions
+management. Companies are advancing in measurement, but supplier data gaps,
+methodological complexity, and limited resources continue to slow progress. While
+procurement levers and industry collaborations are beginning to drive engagement,
+lasting reductions will require clearer standards, stronger supplier partnerships, and
+collective action to turn measurement into meaningful decarbonization. Within Scope 3
+reporting, transportation consistently emerges as one of the largest contributors to
+emissions, often representing the biggest categories for many companies. Because
+freight movement is both essential to global supply chains and a major driver of carbon
+intensity, understanding technology pathways, adoption barriers, and strategic priorities
+in this sector is critical. For this reason, this year's report includes a dedicated
+transportation section to assess how organizations are approaching decarbonization of
+this high-impact area.
+Figure 21. Regional Difference in Challenges That Limit Industry Collaborations (multiple response)
+
+
+--- PAGE 34 ---
+State of Supply Chain Sustainability 2025
+This year, the State of Supply Chain Sustainability
+study included a dedicated freight transportation
+module to gauge technology outlook, adoption
+hurdles, and strategic priorities in the sector. Freight
+transportation is often the largest component of
+Scope 3 emissions because of the reliance on long-
+distance trucking, extensive distribution networks,
+and energy-intensive logistics operations, especially
+in the United States. The sheer volume of goods
+moved across vast geographies, combined with
+limited visibility into carrier-level data, makes
+transportation a dominant category in Scope 3
+reporting. The survey assessed the perceived
+emissions‑reduction impact of key technologies in
+both the short term (1–3 years) and long term (4–10
+years), specifically focusing on biofuels,
+battery‑electric, and hydrogen. It also asked
+respondents to rank their decarbonization
+approaches by importance. Since freight is a major
+source of Scope 3 emissions, tracking technology
+expectations, adoption barriers, and strategy
+priorities shows where decarbonization is actually
+feasible in the next 1–10 years.
+ 
+TRANSPORTATION
+SECTOR
+34
+Insights from the Freight Transportation
+Sector and Pathways to Decarbonize
+
+--- PAGE 35 ---
+Issue No.06
+These insights, in turn, guide investment, policy, and
+supplier programs toward the highest-impact levers
+and help remove the specific constraints slowing the
+scale of these technologies.
+To explore how businesses view the freight
+decarbonization pathway, our survey asked
+respondents to assess the expected emissions-
+reduction impact of biofuels, battery-electric, and
+hydrogen solutions in the short term (1–3 years) and
+long term (4–10 years). Across the three options,
+biofuels are viewed as the most immediately‑ useful
+lever for freight decarbonization, with many
+respondents already seeing moderate-to-high
+short‑term impact and confidence rising further over
+the long term as supply and standards mature. While
+this is the easiest transition for an older fleet to start
+using, it makes sense that it has the highest short-
+term impact.
+Hydrogen emerges as
+a long-term bet,
+particularly for heavy,
+long-haul transport,
+with expected impact
+building over the next
+4–10 years.
+35
+Battery‑electric solutions are typically perceived as
+high impact where duty cycles fit, urban and
+regional routes with depot or corridor charging, so
+expectations are strong in the near term and
+improve as vehicle ranges, charging networks, and
+total cost of ownership advance. Hydrogen, by
+contrast, is seen as a longer‑term play geared to
+heavy, long‑haul, and high‑utilization segments
+where fast refueling and high energy density
+matter; its perceived impact grows mainly over the
+4–10-year window, contingent on affordable green
+hydrogen, refueling build‑out, and vehicle cost
+declines. In sum, biofuels offer a broad near-term
+impact, batteries deliver strong near-term results on
+suitable routes, and hydrogen holds longer-term
+promise for heavy-duty cycles.
+
+--- PAGE 36 ---
+State of Supply Chain Sustainability 202536
+Having identified the technologies perceived to offer
+the greatest emissions-reduction potential, our
+survey next examined the barriers companies face in
+implementing them. Respondents highlight
+infrastructure and economics as the main challenges
+to scaling cleaner freight, with limited charging and
+refueling networks at the top of the list, followed by
+high upfront costs and range or operational
+limitations that complicate real-world duty cycles.
+Policy gaps and uncertain incentives create additional
+friction, while concerns about technology readiness,
+reliability, return on investment, and some cultural
+resistance reduce investment interest. The path
+forward depends on building the infrastructure,
+lowering vehicle and fuel costs, and strengthening
+policy support.
+Figure 22: The Significance of Biofuels, Electric Vehicles, and Hydrogen In Reducing Emissions in the Short-Term
+(1–3 years) and Long-Term (4-10 years)
+Key Enablers and Barriers for Scaling
+Sustainable Freight Solutions
+High
+Impact
+Moderate
+Impact
+Short-Term Long-Term
+HydrogenElectric VehicelsBiofuels
+
+
+--- PAGE 37 ---
+Issue No.06
+37
+Figure 23. Hurdles in the Adoption of Lower-Emission Technologies in the Freight Transportation Sector  
+(multiple response)
+Policy uncertainty
+and technology
+doubts slow
+adoption, with gaps
+in incentives,
+reliability concerns,
+and cultural
+resistance holding
+back investment.
+
+--- PAGE 38 ---
+State of Supply Chain Sustainability 202538
+Figure 24. Regional Hurdles in the Adoption of Lower-Emission Technologies in the Freight Transportation Sector
+(multiple response)
+As shown in Figure 24, regional comparisons reveal that North American respondents cite lack of regulatory
+incentives (18.8%) and industry resistance to change (18.8%) as primary barriers. Interestingly, in Europe, no
+one listed resistance to change as a barrier, which indicates that changes in the transportation industry are
+anticipated and accepted as necessary in the near future.
+In Europe, respondents place roughly equal weight on high upfront costs, lack of regulatory support,
+technology readiness and reliability issues, and uncertain return on investment—reflecting a broader set of
+concerns that extend beyond infrastructure. This indicates that while financial and cultural factors are
+dominant in North America, European stakeholders face a more diverse set of obstacles. The differences
+showcase the need for different strategies to increase adoption: tackling costs and industry mindset in North
+America and supporting technology readiness, reliability, regulatory incentives, and investment certainty in
+Europe.
+
+
+--- PAGE 39 ---
+Issue No.06
+39
+Businesses adopt a tiered approach to cutting freight emissions, prioritizing quick, low‑barrier actions before
+considering longer-term or market‑based strategies. Figure 25 illustrates how respondents rank four
+strategies, operational efficiency, investment in low‑emission assets, carbon offsets, and emissions trading—
+in terms of their importance for lowering freight transportation emissions, with 1 being the most important,
+and 4 being the lowest. Operational efficiency (such as route optimization, load consolidation, and fuel
+management) is most often ranked as the top strategy, highlighting its immediate cost savings and ease of
+implementation. Investing in low‑emission assets (for example, electric or alternat
+ive‑fuel vehicles) usually
+comes in second, indicating selective but increasing capital investment. Carbon offsets and emissions trading
+tend to be ranked lower, suggesting they are secondary measures rather than primary drivers for freight
+decarbonization.
+When evaluated together, the findings from this year’s freight transportation section highlight both the
+urgency and complexity of decarbonizing a sector that remains central to Scope 3 emissions. Companies see
+biofuels as the most practical near-term lever, with battery-electric solutions gaining traction where
+operational fit allows, and hydrogen positioned as a longer-horizon bet for heavy-duty applications. Yet
+technology optimism is tempered by persistent barriers, such as the costs, infrastructure gaps, policy
+uncertainty, and industry inertia. The strategies companies prioritize today tend to be operational efficiency
+and selective low-emission asset investments, which shows a pragmatic sequencing of action, where
+immediate, low-barrier measures build the foundation for scaling transformative technologies. For business
+leaders, policymakers, and investors, the path forward will depend on aligning incentives, infrastructure, and
+capital to accelerate adoption, while recognizing that decarbonization progress will emerge unevenly across
+markets and modes.
+Figure 25. Strategies Ranked by Importance for Reducing Emissions in Freight Transportation,  
+with 1 being the most important and 4 the least important.
+Prioritizing Strategies for Freight Decarbonization
+
+--- PAGE 40 ---
+State of Supply Chain Sustainability 2025
+CONCLUSION &
+NEXT STEPS40
+The 2025 State of Supply Chain Sustainability report
+confirms what many leaders already sense: sustainability
+is no longer peripheral to supply chain strategy, it is
+central to competitiveness, resilience, and long-term
+growth. Based on a global survey of 1200+ companies
+across sectors, three implications emerged. Despite
+regulatory uncertainty, economic pressures, and
+operational challenges, companies remain committed to
+advancing sustainability, often driven as much by
+investors, boards, and customers as by government
+policy. Importantly, businesses that make their
+sustainability goals explicit are far more likely to embed
+them into daily decisions and invest in high-impact
+initiatives, underscoring that transparency and effective
+execution are key enablers of meaningful progress.
+Scope 3 emissions remain the defining challenge. The
+single biggest obstacle to Scope 3 measurement is
+supplier data availability, or lack thereof. Supply chains
+are complex, and tracking the emissions requires data-
+intensive work and is heavily dependent on supplier
+collaboration, yet this also represents the greatest
+opportunity for impact. Without access to activity-level
+or product-specific data, even motivated businesses
+struggle to calculate accurate emissions. Companies are
+beginning to move beyond spreadsheets toward more
+sophisticated tools, closer supplier engagement, and
+industry collaborations that align standards and create
+shared momentum. Industry collaborations via research
+consortia are a key piece for coping with this challenge
+in a more unified way, ensuring that different entities in
+the supply chain (i.e. upstream and downstream) start
+working together, making it not only possible to
+measure and track Scope 3 emissions, but shaping the
+future with actions that lay the groundwork for credible,
+scalable, and impactful Scope 3 emissions management.
+ 
+
+--- PAGE 41 ---
+Issue No.06
+Transportation, one of the largest Scope 3 categories, illustrates both the barriers and opportunities ahead.
+Companies are prioritizing operational efficiency today while investing selectively in low-emission
+technologies. Biofuels provide near-term impact, battery-electric is gaining traction where operationally
+feasible, and hydrogen holds promise for the longer term. The diversity of approaches underscores a
+pragmatic sequencing of action: solve what can be solved now, while preparing for the breakthroughs of
+tomorrow.
+41
+2025 sends a clear signal:
+Sustainability still matters. 
+Progress is accelerating, and
+companies that act with focus,
+transparency, and collaboration
+will define the future of
+sustainable supply chains.
+Above all, this year’s findings are optimistic. More than half of businesses report high confidence in meeting
+their sustainability goals, and those with public commitments and transparent reporting are the most likely to
+embed sustainability into daily decision-making. Industry collaborat ions are expanding, digital solutions are
+maturing, and leaders are increasingly aligning sustainability with value creation.
+The path forward will not be uniform across regions or industries, but the path forward is clear. Sustainability
+is now embedded in business strategy, supply chain management, and investment decisions. By continuing
+to strengthen supplier partnerships, adopt innovative tools, and collaborate across sectors, companies can
+not only meet their climate commitments but also unlock new sources of efficiency, resilience, and growth.
+
+--- PAGE 42 ---
+This project is made possible by the generous
+efforts of a group of dedicated contributors
+and collaborators.
+Sponsors
+C.H. Robinson
+Lead Investigator
+Dr. Josué C. Velázquez Martínez
+Writing and Editing
+Dr. Sreedevi Rajagopalan
+Victoria Arnold
+Dr. Camilo A. Mora Quiñones 
+Survey Design
+Martin Staadecker
+Report Layout
+Victoria Arnold
+Maria Jose Chiang Rebatta 
+CSCMP Team
+Mark Baxa
+Matthew Mallard
+Communications and Media Team
+Deborah Koller Jerome 
+Mackenzie Berry
+Emma Perakis
+Chris Frontiero
+42 State of Supply Chain Sustainability 2025
+CONTRIBUTORS
+APPENDICESAPPENDICESAPPENDICES
+
+--- PAGE 43 ---
+Issue No.06
+REFERENCES
+43
+ Scope 3: How our accredited solutions providers can help you tackle indirect emissions  (2022)
+CDP. Available at: https://www.cdp.net/en/articles/companies/Scope-3-how-our-accredited-
+solutions-providers-can-help-you-tackle-indirect-emissions. 
+1
+Steelzero Available at: https://www.theclimategroup.org/steelzero2 
+ RE100  Available at: https://www.there100.org/ 3
+ MIT Global Scale  Available at: https://scale.mit.edu/ 4
+ Scope 3 calculation guidance: GHG protocol (2013) Greenhouse Gas Protocol. Available at:
+https://ghgprotocol.org/Scope-3-calculation-guidance-2. 
+5
+ Kosolpatanadurong, D. and Gupta, H. (2024) Supply Chain Emission Hotspot and Allocation
+Method Analysis. Capstone.
+6
+CORRECTIONS
+Version 2- Oct 16th, 2025: Updated the key for Figure 24.
+Version 3- Oct 28th, 2025: Updated pages 21 and 22 to correct the text on tools and technologies
+for measurement of Scope 3 emissions to align with Figure 7. Updated colors on page 28.
+Version 4- Nov 13th, 2025: Updated pages 12 Methodology typo
+
+--- PAGE 44 ---
+www.sustainable.mit.edu
+ISSUE NO.06

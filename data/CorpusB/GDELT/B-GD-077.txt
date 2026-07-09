@@ -1,0 +1,23 @@
+Doc ID: B-GD-077
+Title: Jharkhand Aamrapali mangoes reach united kingdom markets , says Piyush Goyal
+Source Domain: aninews.in | Publish Date: 20260606T133000Z
+URL: https://aninews.in/news/business/jharkhands-aamrapali-mangoes-reach-uk-markets-says-piyush-goyal20260606175339/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export APEDA
+Retrieval Date: 2026-07-09
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,M,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: Adequate/Marginal trade relevance (1 agri + 2 trade friction terms) | Gran: Overview narrative (238 words, 1 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (238 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-msme-trade-friction
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+ANI |
+ Updated: Jun 06, 2026 17:53  IST
+
+New Delhi [India], June 6 (ANI): Aamrapali mangoes grown by a women led farmer producer company in Jharkhand's Simdega district are reaching the United Kingdom, Union Commerce and Industry Minister Piyush Goyal said on Saturday, highlighting the growing global footprint of India's agricultural exports.Sharing the development on social media platform X, Goyal described it as "a powerful example of Local Goes Global.""Aamrapali mangoes grown by the women farmer producer company of Simdega, Jharkhand, are reaching the United Kingdom," the minister said.He credited the Agricultural and Processed Food Products Export Development Authority (APEDA) for supporting the initiative and helping farmers access overseas markets.
+
+"Through the continuous efforts of APEDA, farmers are getting better prices, women are gaining a new identity, and India's agricultural exports are gaining new momentum," Goyal said in the post.The minister said the export of mangoes from Simdega reflects how local agricultural produce is finding opportunities in international markets while creating economic benefits for farmers.According to Goyal, the initiative is helping improve earnings for growers while also strengthening the role of women in the agricultural value chain.The development comes as India continues to push for higher agricultural exports and greater participation of farmer-producer organisations in global markets.APEDA, which functions under the Ministry of Commerce and Industry, promotes the export of agricultural and processed food products from India and supports farmers and producer groups in accessing international markets. (ANI)
+
+================================================================================

@@ -1,38 +1,44 @@
 Doc ID: B-GD-044
-Title: Govt extends interest subvention benefit to micro , small exporters of certain iron , steel goods
-Source Domain: economictimes.indiatimes.com | Publish Date: 20260421T171500Z
-URL: https://economictimes.indiatimes.com/news/economy/foreign-trade/govt-extends-interest-subvention-benefit-to-micro-small-exporters-of-certain-iron-steel-goods/articleshow/130422422.cms
+Title: Driven By Services , Trade Pacts , India Exports Hit Record $863 Bn In FY26
+Source Domain: businessworld.in | Publish Date: 20260610T191500Z
+URL: https://www.businessworld.in/article/driven-by-services-trade-pacts-india-s-exports-hit-record-863-bn-in-fy26-610118
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export DGFT
-Retrieval Date: 2026-07-08
+Targeted Query: India export rice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,A,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (4 agri + 4 trade friction terms) | Gran: Substantive depth (525 words, 4 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (525 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
 Locus Tag: gdelt-basmati-mrl-rejections
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Indian government offers interest subvention to small and micro iron and steel exporters. This support aims to aid the trading community facing global uncertainties. Medium sector units are excluded. Additionally, export curbs are placed on specific Baryte grades due to the West Asia crisis.
+India's total exports reached a record USD 863 billion in FY2025-26, nearly doubling from USD 468 billion in FY2014-15, reflecting sustained momentum in both goods and services trade over the past decade.
 
-Listen to this article in summarized format
+The figures were shared by Nitin Kumar Yadav, Additional Secretary at the Union Ministry of Commerce, during a convention of exporters, industry bodies and farmer producer organisations in Chandigarh on Tuesday.
 
-Unlock AI Briefing and Premium Content
+According to Yadav, India's exports expanded at a compound annual growth rate (CAGR) of 5.7 per cent over the period, supported by robust growth in services exports and rising diversification of the country's export basket.
 
-Why is the price of silver falling? The answer: It has cousins. Part 2 – The maternal cousin
+"During this period, merchandise exports grew from USD 310 billion to USD 442 billion, services exports surged from USD 158 billion to USD 421 billion at a CAGR of 9.3 per cent, and non-petroleum exports reached a new record of USD 387.9 billion, underscoring the depth and diversity of India's export base," he said.
 
-Why deficit rain hits fertiliser, pesticide and seed companies at different speeds
+The sharp rise in services exports emerged as a key driver of overall trade growth, accounting for nearly half of India's total exports in FY26. Services shipments increased by more than 166 per cent over the decade, highlighting India's growing strength in sectors such as information technology, business services and professional consulting.
 
-How data-fogged MCA annual report fails to mirror India Inc’s health
+Trade Agreements Strengthen Global Market AccessYadav said India has strengthened its position in global trade through a series of strategic free trade agreements aimed at improving market access and integrating the country into global value chains.
 
-NSE, Jio mega IPOs: Why size doesn’t matter, valuations do
+Among the key agreements is the India-European Free Trade Association (EFTA) Trade and Economic Partnership Agreement (TEPA), which came into effect in 2025. The pact is backed by a proposed USD 100 billion foreign direct investment commitment and provides duty-free access for around 98 per cent of India's exports to EFTA member countries.
 
-What will the NSE IPO price be? Unlisted market deals offer clues.
+He also highlighted the India-European Union Free Trade Agreement signed in 2026, which covers 27 high-income economies and is expected to support exports worth approximately Rs 3.2 lakh crore through tariff concessions on 99 per cent of bilateral trade by value.
 
-Akasa aims to be a 226-aircraft airline by 2032, IPO in 2-4 years
+In addition, the India-Mauritius Comprehensive Economic Cooperation and Partnership Agreement (CECPA) and the India-UAE Comprehensive Economic Partnership Agreement (CEPA) provide zero-duty access on 99 per cent of India's exports to those markets. Bilateral trade between India and the UAE has already crossed USD 80 billion, Yadav noted.
 
-Choose your reason below and click on the Report button. This will alert our moderators to take action
+Opportunities for Punjab and Haryana ExportersThe commerce ministry official said northern states stand to benefit significantly from India's expanding trade footprint.
 
-Your Reason has been Reported to the admin.
+For Punjab, major export opportunities lie in textiles and apparel, engineering products, agriculture and food processing sectors. Haryana, meanwhile, has emerged as a key exporter of Basmati rice, buffalo meat, non-Basmati rice, natural honey, dairy products and processed foods, while pharmaceuticals and chemicals offer strong growth potential going forward.
 
-Stories you might be interested in
+The event also marked the inauguration of a new regional office of the Agricultural and Processed Food Products Export Development Authority (APEDA) in Chandigarh, aimed at supporting exporters and agri-businesses across the region.
+
+The latest export figures underscore India's growing importance in global trade, with policymakers increasingly banking on services, value-added manufacturing and trade partnerships to sustain export-led growth in the coming years.
+
+Subscribe to our newsletter to get updates on our latest news
 
 ================================================================================

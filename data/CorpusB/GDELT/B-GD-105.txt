@@ -1,0 +1,78 @@
+Doc ID: B-GD-105
+Title: Gold Imports Face New Restrictions As India Pushes To Reduce Foreign Exchange Pressure
+Source Domain: newsx.com | Publish Date: 20260514T173000Z
+URL: https://www.newsx.com/business/gold-imports-face-new-restrictions-as-india-pushes-to-reduce-foreign-exchange-pressure-219109/
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export DGFT
+Retrieval Date: 2026-07-09
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,M,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: Adequate/Marginal trade relevance (1 agri + 4 trade friction terms) | Gran: Substantive depth (981 words, 4 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (981 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-customs-clearance-holds
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Published By: Khalid QasidLast updated: Thu 2026-05-14 20:44 IST
+
+India has tightened rules around Gold imports for the second time in just two days, signalling a much stronger government push to control non-essential imports and reduce pressure on the country’s foreign exchange reserves. After sharply increasing import duty on Gold from 6 per cent to 15 per cent, the government has now introduced stricter compliance norms for duty-free Gold imports under the Advance Authorisation (AA) scheme. The Directorate General of Foreign Trade (DGFT) has imposed fresh conditions including a 100-kilogram cap per licence, compulsory inspections for new importers and stricter monitoring of exporters dealing in Gold. The move comes at a time when India is facing rising global uncertainty linked to the West Asia crisis and volatile energy prices.
+
+As per reports, the latest restrictions mainly affect gems and jewellery exporters who use the Advance Authorisation scheme to import raw materials without paying customs duty, provided the finished products are exported later. Officials believe tighter monitoring is necessary to prevent misuse of the system and improve accountability in the Gold trade sector as imports continue to place pressure on India’s trade balance.
+
+Under the revised rules, companies importing Gold under the AA scheme can now bring in a maximum of 100 kilograms per licence. The DGFT has also added five new compliance notes under Standard Input Output Norms (SIONs) M1 to M8 for the gems and jewellery sector. These new conditions came into effect immediately, as per reports.
+
+The government has also made physical inspections mandatory for first-time applicants seeking permission for duty-free Gold imports. Existing exporters must now complete at least 50 per cent of their earlier export obligations before applying for fresh authorisations. Another major change requires importers to submit performance reports every fortnight to Regional Authorities. These reports must be certified by chartered accountants and will help authorities closely track Gold imports and export transactions.
+
+Reports say that the tighter Gold rules come during a period of growing economic caution. The government recently increased import duty on Gold and silver from 6 per cent to 15 per cent in an attempt to reduce imports, support the rupee and control dollar outflows amid global instability and rising oil prices.
+
+India remains one of the world’s largest consumers of Gold, and large-scale imports significantly impact the country’s trade deficit. Reports suggest India spent nearly $72 billion on Gold imports during 2025-26. Officials believe reducing Gold imports can help protect foreign exchange reserves and strengthen economic stability during uncertain global conditions.
+
+The new curbs are expected to directly affect buyers across India. Domestic Gold prices are likely to rise sharply because of the steep increase in import duty. Reports suggest Gold could become costlier by nearly ₹12.46 lakh per kilogram due to the revised duty structure.
+
+Industry experts also expect a temporary phase of panic buying before demand slows down because of rising prices. Imported jewellery items may become more expensive and harder to access because of stricter licensing requirements, potentially creating supply shortages in some segments of the market.
+
+Jewellers and exporters are also expected to face pressure from the tighter Gold rules. Industry estimates suggest sales demand may decline by at least 10 per cent during FY27 as higher prices impact consumer spending.
+
+Experts have also warned that higher duties could increase the profitability of illegal Gold smuggling and grey market activity. Exporters may additionally face cash flow pressure because higher import duties increase procurement costs upfront. Many businesses may now have to depend more heavily on duty drawback schemes to manage liquidity while also handling tighter compliance and reporting requirements under the revised system.
+
+Also Read: How Much Gold Can You Keep At Home In India? Gold Storage Rules, Tax Limits, PAN Rules, SGB Taxation Explained
+
+Khalid Qasid is a media enthusiast with a strong interest in documentary filmmaking. He holds a Master’s degree in Convergent Journalism from AJK MCRC. He has also written extensively on esports at Sportsdunia. Currently, he covers world and general news at NewsX Digital.
+
+Stay informed on all the latest news, breaking news updates, and check all the important headlines in India news, World News, Sports News and Entertainment News on NewsX. Follow Us on Facebook, Twitter.
+
+SharkNinja Stirs Up Family Fun With Ananya And Chunky Panday In First India Campaign
+
+TGI Fridays® Introduces The World’s First TGI Fridays® Microbrewery With The Opening Of Its Vasant Kunj Flagship
+
+Is Packaging of Lotte India and Ferns N Petals Misleading? FSSAI Flags Labelling Violations
+
+PC Jeweller Shares Gain Over 5%: Can Its Debt-Free Plan Drive a Bigger Rally?
+
+Who Is Mahesh Muralidhar Pai? Canara Bank Veteran Set to Become South Indian Bank’s New MD & CEO
+
+Man Clings To Tata Nexon EV In Chest-Deep Floodwater As JCB Pulls It To Safety | Video
+
+Baruipur Rape-Murder Case: Accused’s Mother Reacts After Son Killed in Police Encounter
+
+Who Is Parvathy Thiruvothu? The Malayalam Actor Who Says Treating Superstars Like Gods Enables Exploitation
+
+Surat Floods: Markets Shut, Buildings Submerged as Heavy Rains Claim Nine Lives
+
+Inside 1,000-Year-Old Prambanan Temple Dedicated To Trimurti In Indonesia, Where PM Modi Offered Prayers
+
+Welcome To The Jungle Box Office Collection Day 12: Akshay Kumar’s Comedy Franchise Steady On Second Tuesday, Nears Rs 175 Crore Globally
+
+Is Connor Murphy Dead? Viral Death Rumours About Fitness Influencer Spark Shock; Here’s What We Know
+
+Alpha Box Office Collection Day 5: Alia Bhatt and Sharvari’s Spy Thriller Jumps On Tuesday, Crosses Rs 70 Cr Mark
+
+Who Is Zakir Ganai? Lashkar-e-Taiba Terrorist Killed by Indian Forces in J&K’s Shopian
+
+Who Is Mahesh Muralidhar Pai? Canara Bank Veteran Set to Become South Indian Bank’s New MD & CEO
+
+NewsX is India’s fastest growing English News Channel and enjoys highest viewership and highest time spent amongst educated urban Indians.
+
+NewsX is India’s fastest growing English News Channel and enjoys highest viewership and highest time spent amongst educated urban Indians.
+
+================================================================================

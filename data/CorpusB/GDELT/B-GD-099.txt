@@ -1,0 +1,44 @@
+Doc ID: B-GD-099
+Title: Nepal tea industry reopens after government assurance despite India stricter import testing
+Source Domain: kathmandupost.com | Publish Date: 20260626T060000Z
+URL: https://kathmandupost.com/money/2026/06/26/nepal-s-tea-industry-reopens-after-government-assurance-despite-india-s-stricter-import-testing
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export FSSAI
+Retrieval Date: 2026-07-09
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,A,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (3 agri + 4 trade friction terms) | Gran: Substantive depth (474 words, 3 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (474 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-customs-clearance-holds
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+Nepal's tea industry reopened after a government promise to seek a diplomatic solution to India's tightening import controls. Still, producers warned that New Delhi's latest testing requirement threatens to prolong a crisis that has paralysed exports.
+
+India’s Food Safety and Standards Authority (FSSAI) issued a directive on June 23 introducing a risk-based inspection system for imported tea classified under Harmonised System (HSN) Code 0902. Under the new rule, 20 percent of tea consignments destined for domestic consumption will be randomly selected for laboratory testing with immediate effect.
+
+The measure follows a June 16 meeting chaired by India’s Commerce Secretary and applies to all customs entry points across India.
+
+Nepali tea exporters have already been grappling with lengthy delays at the Indian border, where shipments have been held up for laboratory testing. According to industry representatives, around 300,000 kilograms of processed tea are currently stranded in warehouses in India, while more than one million kilograms remain stockpiled in Nepal.
+
+The disruptions prompted tea processors in Ilam to shut down their factories from June 15, followed by producers in Jhapa from June 18. The closures affected about 99 tea factories across eastern Nepal and brought operations to a halt at more than 50 small and large tea estates, disrupting harvesting and leaving thousands of workers without regular employment.
+
+Factory owners agreed to resume operations after the Office of the Prime Minister and Council of Ministers assured them that the government would urgently pursue diplomatic and administrative measures to resolve the export bottleneck.
+
+Aditya Parajuli, president of the Nepal Tea Producers Association, said the industry had decided to reopen factories in response to the government’s commitment.
+
+“Factories across Jhapa, Ilam and the rest of eastern Nepal will resume operations from Friday,” Parajuli said. “Work at the tea estates will also return to normal.”
+
+He said prolonged factory closures were not sustainable because fresh tea leaves continue to grow and must be processed quickly, while thousands of workers depend on the industry for their daily livelihoods.
+
+“For now, we are encouraged by the government’s commitment. We have decided to reopen the factories in recognition of the positive initiative,” he said.
+
+Earlier, the Prime Minister’s Office announced the formation of a special task force to examine the problems affecting Nepal’s tea exports and recommend immediate, medium-term and long-term solutions. The task force has been given two weeks to submit its report.
+
+Tea producers say India’s repeated introduction of new import requirements has pushed Nepal’s tea industry into a prolonged crisis. They argue that the government must pursue sustained diplomatic engagement with New Delhi to secure a permanent solution and ensure uninterrupted access to Nepal’s largest export market.
+
+Nepal produces more than 27,000 tonnes of tea annually, including around 8,000 tonnes of orthodox tea and 19,000 tonnes of crush-tear-curl (CTC) tea.
+
+Parbat Portel is the Jhapa correspondent for Kantipur Publications.
+
+================================================================================

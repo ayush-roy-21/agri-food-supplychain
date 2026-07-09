@@ -1,66 +1,32 @@
 Doc ID: B-GD-051
-Title: Big change in gold import rules : After 15 % duty hike , govt caps duty free imports at 100 kg
-Source Domain: businesstoday.in | Publish Date: 20260514T180000Z
-URL: https://www.businesstoday.in/india/story/big-change-in-gold-import-rules-after-15-duty-hike-govt-caps-duty-free-imports-at-100-kg-531593-2026-05-14
+Title: Pick of BL commodities - May 3 , 2026 - The HinduBusinessLine
+Source Domain: thehindubusinessline.com | Publish Date: 20260503T064500Z
+URL: https://www.thehindubusinessline.com/economy/agri-business/pick-of-bl-commodities-may-3-2026/article70933021.ece
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export DGFT
-Retrieval Date: 2026-07-08
+Targeted Query: India export rice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: A,A,A,A,A,A
+DQA Justification: Auth: Tier-1 established financial/trade media domain | Rel: High relevance (2 agri + 2 trade friction terms) | Gran: Substantive depth (315 words, 3 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (315 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
 Locus Tag: gdelt-basmati-mrl-rejections
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-A day after sharply increasing import duties on precious metals, the government on May 14 capped gold imports under the Advance Authorisation (AA) scheme at 100 kg, tightening norms to prevent possible misuse of the duty-free import facility by jewellery exporters.
+1. India Meteorological Department (IMD) on Friday said that most of the global models forecast the emergence of El Niño during India’s monsoon season and may last at least until January 2026. Latest assessments indicate that beneath the surface of the equatorial eastern Pacific, cradle of El Niño, a powerful event may be taking shape, one that could surpass the intensity of the 2023 event and rival the formidable episode of 2015.
 
-The Directorate General of Foreign Trade (DGFT), in a public notice, said the move was aimed at strengthening monitoring and compliance under the scheme, which allows exporters to import raw materials without paying customs duty, provided they are used in products meant for exports.
+2. India’s agri export promotion body APEDA has received communication from the Environment Ministry and the Indian Council of Agricultural Research (ICAR) that genetically modified (GM) rice is not allowed for cultivation, making the country free from GMO risk while exporting the cereal. This will now help it tackle China, which rejected rice shipments for alleged GMO presence in them.
 
-"AA for import of gold shall be issued, subject to a maximum remissible quantity of 100 kilograms," the DGFT said.
+3. The Indian government procured 23.25 million tonnes (mt) of wheat for its buffer stocks as of April 30, 2026, down from 25.63 mt a year ago. This was mainly due to purchases in Madhya Pradesh being low.
 
-MUST READ | What are India’s HNIs buying now -- equities, gold or alternative assets?
+4. Investment demand for gold in India overtook jewellery consumption for the first time ever in the March quarter of 2026, as consumers deferred their jewellery purchases due to volatile prices.
 
-Earlier, there was no quantitative restriction on gold imports under the scheme.
+5. Investments in physically-backed gold exchange-traded funds (ETFs) turned negative last week, after rising for two consecutive weeks, data from the World Gold Council (WGC) showed.
 
-The Advance Authorisation scheme permits duty-free imports of inputs incorporated in export products. Besides raw materials, packaging material, fuel, oil and catalysts consumed during production are also covered under the scheme.
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
 
-The government has also introduced stricter compliance conditions for applicants seeking authorisation to import gold.
+We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
 
-The DGFT said that in the case of first-time applicants, a mandatory physical inspection of the manufacturing facility will be conducted to verify the existence, production capacity and operational status of the unit.
-
-DON't MISS | Should families consider gold insurance for high-value jewellery holdings?
-
-"Any subsequent AA for the import of gold, shall be considered for issuance only upon fulfilment of at least 50% of the export obligation...," it said.
-
-In addition, authorisation holders will now have to submit fortnightly performance reports certified by an independent chartered accountant detailing gold imports and exports undertaken under the scheme.
-
-The concerned regional authority of the DGFT will also be required to submit monthly reports containing details related to issuance of Advance Authorisations.
-
-Sources said the tightening of rules was necessary because there was a strong possibility of the scheme being misused to import large quantities of gold immediately after the import duty hike and benefit from price arbitrage.
-
-"In order to prevent any possibility of misuse of the AA Scheme, these instructions are being issued," sources said.
-
-DO CHECKOUT | 'Gold is a dead asset': PM-EAC member Shamika Ravi explains Modi's appeal
-
-The latest restrictions come a day after the government sharply raised import duties on gold and silver to discourage non-essential imports and contain the swelling import bill amid the ongoing West Asia crisis.
-
-Effective May 13, the import duty on gold and silver was increased to 15% from 6%, while the duty on platinum was raised to 15.4% from 6.4%. Consequential duty changes were also made on products such as gold and silver dore, coins and findings.
-
-The duty revision followed Prime Minister Narendra Modi's recent call for curbs on gold purchases and other austerity measures aimed at reducing avoidable foreign exchange expenditure.
-
-India, the world's second-largest gold consumer after China, imports significant quantities of the precious metal to meet demand from the jewellery sector, resulting in substantial foreign exchange outflows.
-
-Gold and silver imports rose 26.7% year-on-year to $102.5 billion in FY2025-26, with their share in India's total imports increasing to 14% from 11.8% in the previous fiscal.
-
-India's gold imports alone surged over 24% to a record $71.98 billion in 2025-26. However, in volume terms, shipments declined 4.76 per cent to 721.03 tonnes during the year.
-
-DO READ | Can tax changes on gold, foreign investments be India’s next move amid oil shock risks?
-
-The government also significantly raised the effective tax burden on bullion imports through Wednesday's duty hike. Basic customs duty on gold has been doubled to 10%, while the agriculture infrastructure and development cess (AIDC) has been increased fivefold from 1% to 5%, taking the effective import duty on gold and silver to 15%.
-
-Importers additionally have to pay a 3% Integrated GST (IGST), taking the total levy on bullion imports to 18.45% from 9.18% earlier.
-
-The rupee had touched a record low of 95.75 against the US dollar on May 12, before recovering some ground on Wednesday after the government announced the increase in gold import duties.
-
-Business Today brings you the latest news, views and analysis from the world of finance, economy, markets, corporates, startups, tech, and the digital economy. You can find everything from breaking news to deep dives to immersive essays and more on a variety of subjects across all formats - online, magazine, television, data visualisation, et al.
+Terms & conditions  |  Institutional Subscriber
 
 ================================================================================

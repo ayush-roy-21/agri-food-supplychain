@@ -1,50 +1,50 @@
 Doc ID: B-GD-037
-Title: Indonesia introduces new quota system for peanut imports - The HinduBusinessLine
-Source Domain: thehindubusinessline.com | Publish Date: 20260428T043000Z
-URL: https://www.thehindubusinessline.com/economy/agri-business/indonesia-introduces-new-quota-system-for-peanut-imports/article70913710.ece
+Title: Eating the Past : The nutmeg wars
+Source Domain: upr.org | Publish Date: 20260706T011500Z
+URL: https://www.upr.org/show/eating-the-past/2026-07-05/eating-the-past-the-nutmeg-wars
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export APEDA
-Retrieval Date: 2026-07-08
+Targeted Query: India export spice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-basmati-mrl-rejections
+DQA 6-Dimension Score: M,A,M,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (2 agri + 2 trade friction terms) | Gran: Overview narrative (1062 words, 0 regulatory specifics) | Curr: Recent active trade period (2026) | Comp: Full operative article text (1062 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-spices-sps-hurdles
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Indonesia has come up with a quota system for peanut (groundnut) imports that could impact Indian exports as it has tightened quality norms.
+Welcome to Eating the Past. I'm today's host, Evelyn Funda. In a recent episode, I spoke with Shakespearean scholar Phoebe Jensen about the medicinal use of nutmeg in the early modern period. And if you missed that episode, you can find it on our upr.org web page.
 
-Jakarta came up with a Ministerial Regulation during the weekend, which permits loading of non-quota peanuts until May 7.
+But today I want to explore more of the complicated cultural history of the ground spice that we lightly sprinkle on our rice pudding or eggnog.
 
-“Usually, the trade gets 90 days to prepare for such changes. But this Regulation has given only 14 days for the preparation,” said a trading source from Singapore, who did not wish to be identified.
+While today's cook most likely finds their nutmeg in a little jar on a spice shelf, nature's own original packaging comes in the form of a hard, woody, walnut-sized seed of a tropical tree that's native to an Indonesian archipelago.
 
-The new regulation has been introduced to help improve the domestic production of agricultural produce such as peanuts. However, the most difficult part of this regulation is that exporters to Indonesia have to get a global Good Agricultural Practices (GAP) certification.
+Nutmeg was first traded in Constantinople in the sixth century by the Arabs, who closely guarded the secret of where it actually grew in order to maintain their monopoly. That fostered such mystery that a few imaginative Europeans began to believe that nutmeg came from a dragon-occupied enchanted land.
 
-“Getting such a certification takes 3 to 6 months. It is not easy to obtain,” said the source.
+Early on, nutmeg was used as perfumes as well as food. And in the 12th century, the Holy Roman Emperor Henry the Sixth ordered the streets of Rome to be fumigated with the sweet-smelling nutmeg, right before his coronation, presumably to cover up the nasty aromas that typically wafted through medieval cities.
 
-This will mean that no peanut exports will be possible over the next 3-6 months. “This will lead to a sharp increase in prices, maybe 60-80 per cent and even double. No country will be able to meet this requirement,” said the source.
+As with many spices, only the wealthy could afford nutmeg, and sometimes shady merchants tried to pass off pieces of wood carved to resemble the wrinkled nutmeg. This led cautious traders to always carry a small grater to test nutmeg samples for their distinctive aroma.
 
-Though this quota applies to all countries, India, as the largest exporter to Indonesia, could be badly affected, said a South India-based trader.
+The European search for such exotic spices had fueled the famous 15th century explorations for a maritime trade route to the east, such as those undertaken by the likes of Columbus and the Portuguese explorer Vasco da Gama.
 
-The Singapore source said this nullifies the efforts of the Agricultural and Processed Food Products Export Development Authority (APEDA) to export peanuts to Indonesia.
+When Da Gama was the first European to round the Cape of Good Hope in 1497 his men celebrated with shouts that their voyage was for Christ and spices succeeding Portuguese explorers were the first Europeans to discover the source of nutmeg on the Banda Islands.
 
-“This is because the new regulation applies to all. The new quota regime will apply to peanut kernels as well as peanut in shell,” said the source, adding that it does not apply to roasted peanuts. However, imports of roasted peanuts into Indonesia will not need a specific factory licence.
+But their market domination ended when the Dutch East India Company invaded those islands and seized control in 162. And here's where our story takes a very dark turn.
 
-This would be another stiff hurdle that will force peanut imports into Jakarta to face headwinds.
+One, the British journalist Oliver Thring has called a period of paranoid brutality. The Dutch trading company banned the export of the trees, rendered every nutmeg infertile by drenching it in lime before shipping, and imposed the death penalty on any one suspected of stealing or independently growing or selling nutmegs.
 
-Indonesia suspended groundnut imports from September 2 last year for non-compliance with quality standards, particularly due to high aflatoxin levels. Exporters, however, disputed Jakarta’s delayed process in notifying the presence of aflatoxins in their groundnut shipments. Exporters said there were a couple of issues with Indonesia’s handling of the groundnut import issue from India. Indian exporters alleged that they find problems with Indonesia’s testing standards, which they say do not conform to standards defined by the World Trade Organisation (WTO).
+When some native islanders dare rebel their enslavement by the company, the administrator ordered the systematic quartering and beheading of every Bandinese male over the age of 15. It was a genocide that dropped the native population of the islands from the initial 15,000 people to just 600 in just over a decade after the Dutch's arrival.
 
-But Indian exports resumed in November after Indonesian authorities carried out inspections in facilities across the country. After the visit, Indonesia came up with norms such as geo-tagging. It also tightened norms for aflatoxin. The maximum limit for aflatoxin was fixed at 15 parts per billion (ppb), which exporters said would be tough to meet.
+Such brutality allowed the company to maintain exclusive control, with one little exception. A few years prior to the Bandit genocide, the British had taken over the tiny island of Run on the westernmost edge of the archipelago, making it the British Empire's first official colony and its only nutmeg grove holding.
 
-The procedures were stiff, and Jakarta reduced the list of exporters to about 75. This led to some shippers losing interest in exporting peanuts to Indonesia.
+Thus began the Dutch Anglo nutmeg wars that endured for several decades until a treaty provided that the British relinquished to the Dutch the control of Run Island in exchange for another little island that the Dutch held in North America, one that they called New Amsterdam today. That island once traded for nutmeg, is known as Manhattan.
 
-Indonesia imported a third of India’s groundnut shipments over the past few years. In 2024-25, it imported 2.77 lakh tonnes of peanuts valued at $280 million, of the total 7.46 lakh tonnes valued at $795 million shipped out by India.
+Despite subsequent wars with other rival nations and islander rebellions, the Dutch monopoly lasted until two events in the 18th century. First, a French horticulturalist successfully smuggled hundreds of nutmeg tree seedlings to islands off the coast of Africa, and then a massive volcanic eruption in the Indonesian region, followed by tsunamis, wiped out half of the Dutch trading company's tree groves.
 
-During the April-February period of 2025-26, Jakarta purchased 1.54 lakh tonnes of peanuts valued at $161.52 million. India’s peanut exports during the period were 6.34 lakh tonnes, valued at $655.54 million.
+Today, nutmeg has many cultural applications globally, including its use in Scottish haggis, Indian garam masala, the American pumpkin pie and the Barbados rum punch.
 
-Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
+For more on nutmeg, visit the UPR website for this episode's show notes, and be sure to join us next time for Eating the Past Sundays at noon on your UPR station.
 
-We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
-
-Terms & conditions  |  Institutional Subscriber
+The Nutmeg Wars: See Oliver Thring’s article about the “blood-soaked” history of nutmeg in The Guardian at https://www.theguardian.com/lifeandstyle/wordofmouth/2010/sep/14/consider-nutmeg. In the 16th century, nutmeg traded ounce-for ounce with gold, and it was thought that the precious spice could prevent the plague. Additionally, herbalist John Gerard wrote that nutmeg “is good against freckles in the face, quicken[s] the sight, strengthens the belly and feeble liver, taketh away the swelling of the spleen and ... breaketh wind.”  The silver nutmeg graters that traders carried in their pockets to verify a seed as genuine nutmeg soon became a fashion statement, and elaborately designed graters would soon ostentatiously hang on cords around the neck, as a marker of wealth and status.   Connecticut is nicknamed “The Nutmeg State” because, like their European predecessors, some early inhabitants allegedly sold wooden nutmegs to unknowing buyers.  In addition to culinary use of woody nutmeg and it’s outer lacy red coating of mace (see below), the outer fleshy fruit of the nutmeg is also edible. It’s used to make jams, candies and syrups or crystalized in sugar to make an Indonesian candy named manisan pala.   Check out previous, related Eating the Past episodes: Eating the Past: Early modern nutmegPhebe Jensen discusses how early modernists considered nutmeg a “hot spice” that can cause someone to be quarrelsome Eating the Past: Holiday spices part two: In this episode, Co-host Tammy Proctor discusses mace, which is the lovely red lacy covering of the nutmeg that has a more delicate taste, slight peppery with citrus notes.  Eating the Past: The botany of vanilla: Nutmeg was eventually cultivated on the Réunion Island off Madagascar, the same island discussed in a previous Eating the Past episode on the cultivation of vanilla. As the story goes, horiculturalist and missionary Pierre Poivre found his way to the Banda Islands in the 1750s, despite confusing Dutch maps intentionally meant to deceive navigators about the location of these spice islands. He broke the Dutch monopoly on nutmeg trade by smuggling out more than 3000 nutmeg plants and reestablishing them in the French-controlled islands of Marutitius and Réunion off the coast of east Africa.
 
 ================================================================================

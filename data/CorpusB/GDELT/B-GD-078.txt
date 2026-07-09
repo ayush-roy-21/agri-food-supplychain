@@ -1,0 +1,52 @@
+Doc ID: B-GD-078
+Title: India exports first ODOP honey consignment to US
+Source Domain: prokerala.com | Publish Date: 20260509T173000Z
+URL: https://www.prokerala.com/news/articles/a1760836.html
+Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
+Targeted Query: India export APEDA
+Retrieval Date: 2026-07-09
+Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
+DQA 6-Dimension Score: M,A,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (3 agri + 4 trade friction terms) | Gran: Substantive depth (410 words, 5 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (410 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-horticulture-sps-controls
+
+================================================================================
+
+FULL SUBSTANTIVE ARTICLE TEXT:
+New Delhi, May 9 : India exported the first-ever consignment of honey under the One District One Product (ODOP) initiative from Assam's Baksa district to the US, the Ministry of Commerce and Industry said on Saturday.
+
+New Delhi, May 9 (IANS) India exported the first-ever consignment of honey under the One District One Product (ODOP) initiative from Assamâ€™s Baksa district to the US, the Ministry of Commerce and Industry said on Saturday.
+
+The consignment, comprising 20 metric tonnes of honey, was flagged off with the support of the Agricultural and Processed Food Products Export Development Authority (APEDA) under the ministry.
+
+The shipment was exported by Assam-based APEDA-registered exporter Salt Range Foods Pvt. Ltd..
+
+Officials said Assam holds strong potential for honey production due to its rich biodiversity, abundant forest resources and traditional beekeeping practices followed by indigenous communities such as the Karbi, Mishing and Bodo tribes.
+
+According to National Horticulture Board data, Assam produced around 1,650 metric tonnes of honey during FY2023-24.
+
+The government said Baksa has been identified under the ODOP initiative for its high-quality honey, known for its natural purity, rich floral diversity and near-organic characteristics.
+
+Major honey-producing regions in the state include Baksa, Kokrajhar, Chirang, Udalguri and Tamulpur in the Bodoland Territorial Region (BTR).
+
+APEDA said it facilitated the export by strengthening infrastructure and providing testing and laboratory equipment at the processing facility to ensure compliance with international food safety and quality standards.
+
+The export initiative is expected to improve income opportunities for local beekeepers and farmers, with producers receiving nearly 43 per cent higher price realisation compared to prevailing local farm gate prices, according to the government.
+
+The initiative would help integrate farmers from Aspirational Districts into global value chains while promoting sustainable rural livelihoods and expanding Indiaâ€™s value-added agricultural exports, it added.
+
+The ODOP programme aims to identify and promote one unique product from each district to support local economies, generate employment opportunities and boost exports.
+
+Yogi Government adopting advanced technology to curb crime, providing training to officials
+
+Motorola Unveils Moto g77 Power in India - Packs 7000 mAh Battery, Sony LYTIA 600 Camera
+
+Yogi govt to plant more than 3.83 crore saplings along the banks of 13 major rivers
+
+Aamir Khan, Mammootty, 'Kantara: A Legend - Chapter 1' nominated at 17th edition of IFFM
+
+Chief Minister Yogi to launch 'Mukhyamantri Shikshak Cashless Chikitsa Suvidha Yojana' from Varanasi on Wednesday
+
+Nitin Gadkari to inspect Delhi-Mumbai Expressway in Kota today with Om Birla, CM Bhajanlal Sharma
+
+================================================================================

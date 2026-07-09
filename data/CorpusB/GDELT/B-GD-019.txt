@@ -1,44 +1,90 @@
 Doc ID: B-GD-019
-Title: Battle over Basmati rice GI for Madhya Pradesh heats up - The HinduBusinessLine
-Source Domain: thehindubusinessline.com | Publish Date: 20260626T050000Z
-URL: https://www.thehindubusinessline.com/economy/agri-business/battle-over-basmati-rice-gi-for-madhya-pradesh-heats-up/article71146815.ece
+Title: Nepal earns record Rs12 billion from large cardamom exports
+Source Domain: kathmandupost.com | Publish Date: 20260623T040000Z
+URL: https://kathmandupost.com/money/2026/06/23/nepal-earns-record-rs12-billion-from-large-cardamom-exports
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export rice
-Retrieval Date: 2026-07-08
+Targeted Query: India export spice
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-basmati-mrl-rejections
+DQA 6-Dimension Score: M,M,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: Adequate/Marginal trade relevance (1 agri + 4 trade friction terms) | Gran: Substantive depth (1110 words, 4 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (1110 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-spices-sps-hurdles
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-The battle over expanding the geographical indication (GI) area for Basmati rice by including the areas in Madhya Pradesh has intensified, with the All India Rice Exporters Association (AIREA) formally opposing any expansion of the notified Basmati-growing region. At its general body meeting held earlier this week at Sonipat in Haryana, the association passed a resolution against including new areas for Basmati GI, a move that directly challenges Madhya Pradesh’s long-standing demand for inclusion in the Basmati map.
+Nepal’s large cardamom exports have reached an all-time high in value, driven by tighter global supplies, stable prices and sustained demand from South Asian and Middle Eastern markets.
 
-The resolution is significant because it reflects growing resistance from the trade to Madhya Pradesh’s claim, which has been opposed by traditional Basmati-producing states led by Haryana and Punjab. Trade sources said even some exporters who had earlier expressed support for MP’s inclusion did not object to the resolution, suggesting a broadening consensus within the export industry against expanding the GI area at this stage.
+In the first 11 months of the current fiscal year ending in mid-June, Nepal exported 6,034 tonnes of large cardamom worth Rs12.01 billion, according to customs data. The export value is the highest ever recorded for the spice, although export volumes remain below the levels seen in some previous years.
 
-Some of the Basmati exporters of Punjab and Haryana were vocal and wanted to know how the GI issue all of a sudden has cropped up after so many years, sources said. A leading exporter also said that AIREA should highlight how India has been consistently questioning the expansion of area in Pakistan.
+Large cardamom, also known as black cardamom, is among the world’s most expensive spices and one of Nepal’s leading agricultural export products.
 
-The issue of including Madhya Pradesh in the GI area is an emotive issue in the State, first raised by Union Agriculture Minister Shivraj Singh Chouhan, when he was chief minister, as the state government had filed a case in GI registry for its inclusion in the geographical area. Under the GI law, as Basmati rice has already received the GI tag, even if farmers grow Basmati varieties outside the demarcated GI area, those cannot be sold as Basmati, making it difficult to get exported.
+India remains the dominant buyer, absorbing around 99 percent of Nepal’s exports. From India, the spice is re-exported to Pakistan and countries in the Middle East, where Nepali cardamom commands premium prices because of its distinctive flavour and quality.
 
-Congress leader Digvijaya Singh in March threatened to go on a hunger strike if the state’s farmers do not receive the GI benefits for their Basmati rice. But, Chouhan is on the defensive now and not ready to touch the issue. In April, when Chouhan was asked about Singh’s threat on Basmati GI, he declined to comment saying the matter was sub-judice.
+Pakistan is the largest importer of cardamom through India, accounting for roughly 60 percent of India’s exports. The spice is widely used in biryani and other savoury dishes and is particularly sought after during religious festivals and celebrations.
 
-Singh met Commerce Minister Piyush Goyal in May and sought his intervention, terming the previous stand of the Agricultural and Processed Food Products Export Development Authority (APEDA) a “mistake and should be corrected now”, sources said. He is also believed to have suggested that an impartial expert committee be set up to revisit the issue and find out what could be done.
+Nepali black cardamom is renowned for its distinctive smoky aroma, produced through a traditional drying process in bhattis, or ovens. The method gives the spice a deep roasted flavour that is highly valued in culinary markets.
 
-Earlier this week, a senior official of the Commerce Ministry is believed to have held stakeholder consultations with experts and APEDA officials on the issue. Prior to that meeting, APEDA Chairman Abhishek Dev  discussed the GI issue with various stakeholders including legal experts.
+Dipak Nepal, president of the Federation of Large Cardamom Entrepreneurs Nepal, said the country has achieved a historic milestone in export earnings.
 
-Kedar Sirohi, the head of farmer cell of Congress party in Madhya Pradesh, who met Dev last week, said that  APEDA should  first decide  what to do as the agri-export promotion body it should not be a party to interest of any particular state. Sirohi, who was also present when Singh met Goyal, said he has taken up the GI issue with scientists of the Indian Council of Agricultural Research (ICAR).
+“This is the highest export value ever recorded,” he said. “The export quantity has not been exceptionally high, but stronger prices have pushed earnings to a record level.”
 
-“Since the GI mandate for Basmati rice is with APEDA, it has to decide if it wants inclusion of Madhya Pradesh or not. Once it agrees, a solution can be found when concerned people discuss the issue,” Sirohi said.
+According to traders, cardamom prices remained unusually stable this year at around Rs2,500 per kg, encouraging farmers to sell their produce rather than hold stocks in anticipation of further price increases.
 
-On the other hand, an expert requesting anonymity wondered if India is opposing Pakistan’s move to expand Basmati area at global forum like European Union, how can it “emulate the neighbouring country’s wrong model”. Till any judicial verdict comes, status quo should be maintained, the expert said.
+“Unlike previous years, prices did not fluctuate significantly,” Nepal said. “Because farmers were confident about the market, most of the produce entered the trading system without being hoarded.”
 
-After a prolonged hearing for years, in February 2016, the Chennai-based GI registry issued the GI certificate to APEDA for Basmati rice, under which the recognised area included some districts of Jammu and Kashmir, Himachal Pradesh, Punjab, Haryana, western Uttar Pradesh, Uttarakhand and Delhi. Thereafter the matter went to many courts and finally the Supreme Court referred it to Madras High Court in 2021. Since then, the matter is pending.
+Despite the export boom, producers say productivity remains a major concern.
 
-businessline on June 16 had reported that two rice exporters’ organisations had urged the Commerce Ministry to reconsider the APEDA’s decision to “arbitrarily” appoint a law firm to handle global cases on basmati geographical indication (GI) and intellectual property rights (IPR). But, APEDA sources had said that the law firm had been engaged after due process of tender by an expert selection panel.
+Government data show Nepal’s average large cardamom productivity stands at just 531.31 kg per hectare, significantly lower than India’s average yield of around 2,000 kg per hectare.
 
-Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
+Price volatility has long troubled farmers. Large cardamom prices surged to Rs2,700 per kg in 2014 and later climbed to an all-time high of Rs3,000 per kg in 2016. However, prices subsequently fell sharply, dropping to Rs850 in 2018 and reaching a low of Rs700 per kg in mid-July 2022.
 
-We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+Birtamod in Jhapa serves as the country’s principal trading hub for large cardamom.
 
-Terms & conditions  |  Institutional Subscriber
+Traders say buyers in key overseas markets are already preparing for next year’s Ramadan season (Feb-March 2027), which could boost demand and send prices even higher in the coming months.
+
+According to the Trade and Export Promotion Centre (TEPC), Nepal remains heavily dependent on India for exports. More than 99 percent of shipments are routed through the southern neighbour before reaching final destinations.
+
+The TEPC’s report notes that Nepal is the world’s largest exporter of large cardamom. However, as a landlocked country, it continues to face high transportation and logistics costs that reduce profits for exporters despite strong international demand and premium product quality.
+
+Some traders quoted in the report said retail prices in Qatar, the United Arab Emirates and other Gulf countries can reach as high as Rs150,000 per kg, pointing to the substantial value added along the supply chain after the product leaves Nepal.
+
+Large cardamom is cultivated across 16,382 hectares in Nepal. The country accounts for approximately 52 percent of global production, followed by India with 37 percent and Bhutan with 11 percent.
+
+The crop is grown in 46 districts, with major production concentrated in Ilam, Panchthar, Taplejung, Sankhuwasabha, Terhathum, Bhojpur and Dhankuta.
+
+Taplejung is Nepal’s largest producing district, with around 4,500 hectares under cultivation and annual production exceeding 2,500 tonnes.
+
+A separate report by the Food and Agriculture Organization (FAO) says Nepal has considerable opportunities to increase export earnings through better logistics, processing and market diversification.
+
+The report suggests that Nepal can utilise export assistance programmes to offset high freight costs and take advantage of flexibilities available to least developed countries under World Trade Organization rules on agricultural export subsidies until 2030.
+
+The FAO also recommends expanding processing facilities, investing in value addition, improving transportation infrastructure and pursuing geographical indication (GI) certification for Nepali cardamom.
+
+The report further highlights the potential of blockchain-enabled traceability systems and stronger quality certification mechanisms to help Nepali exporters overcome non-tariff barriers and access premium markets in the Middle East, Europe and North America.
+
+Strategic investments in Good Agricultural Practices (GAP) training, certification readiness programmes, agro-processing zones and the implementation of the Nepal Trade Integration Strategy could help Nepal secure a larger share of the growing global cardamom market, the report says.
+
+TEPC has also warned that Nepal’s dependence on Indian importers limits returns for domestic exporters. Indian traders often re-export Nepali cardamom to third-country markets, capturing much of the value addition that could otherwise remain within Nepal.
+
+“The chain effect ultimately impacts farmers as well,” the report said..
+
+To address the problem, TEPC has recommended reviewing export logistics costs and strengthening direct market access in overseas destinations.
+
+The centre says Bangladesh could become an important alternative market despite current barriers.
+
+Although the South Asian Free Trade Area (SAFTA) framework provides a preferential duty rate of 5 percent, Bangladesh currently imposes a 35 percent customs duty on Nepali large cardamom.
+
+TEPC has urged the government to conduct a market assessment in Bangladesh, citing its population of more than 160 million and proximity to Nepal. The report notes that exports can reach Bangladesh within four days at relatively low transportation costs.
+
+Pakistan also presents significant potential, but Nepali exporters currently lack direct access to the market. Most exports reach Pakistan through Indian intermediaries, leaving Nepal with limited information about actual demand, pricing and import requirements.
+
+The report recommends conducting detailed market studies and establishing warehousing facilities in Pakistan and Gulf countries. Such facilities would allow exporters to ship larger volumes and gradually release products into target markets rather than relying on fragmented consignments.
+
+TEPC has additionally identified the China-Pakistan land route as a potentially competitive alternative. According to the report, shipments could travel from Kerung (Gyirong) through China into Karachi over a distance of approximately 4,876 kilometres, with an estimated transit time of 19 days.
+
+While air cargo remains suitable only for small consignments, improved regional connectivity could eventually provide Nepali exporters with more direct and cost-effective access to key international markets.
+
+Sangam Prasain is Business Editor at The Kathmandu Post, covering tourism, agriculture, mountaineering, aviation, infrastructure and other economic affairs. He joined The Kathmandu Post in October 2009.
 
 ================================================================================

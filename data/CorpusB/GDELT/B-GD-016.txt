@@ -1,58 +1,52 @@
 Doc ID: B-GD-016
-Title: Plans afoot to set up Basmati promotion board on lines of other commodities bodies
-Source Domain: thehindubusinessline.com | Publish Date: 20260519T044500Z
-URL: https://www.thehindubusinessline.com/economy/agri-business/plans-afoot-to-set-up-basmati-promotion-board-on-lines-of-other-commodities-bodies/article70994552.ece
+Title: CM Naidu announces aqua corridor to strengthen Andhra Pradesh seafood exports
+Source Domain: newindianexpress.com | Publish Date: 20260606T061500Z
+URL: https://www.newindianexpress.com/states/andhra-pradesh/2026/Jun/06/cm-naidu-announces-aqua-corridor-to-strengthen-andhra-pradeshs-seafood-exports
 Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export rice
-Retrieval Date: 2026-07-08
+Targeted Query: India export shrimp
+Retrieval Date: 2026-07-09
 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-Locus Tag: gdelt-basmati-mrl-rejections
+DQA 6-Dimension Score: M,A,A,A,A,A
+DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (3 agri + 4 trade friction terms) | Gran: Substantive depth (601 words, 2 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (601 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
+Locus Tag: gdelt-seafood-dwpe-alerts
 
 ================================================================================
 
 FULL SUBSTANTIVE ARTICLE TEXT:
-Over the past few seasons, basmati paddy prices have ranged between ₹2,500 and ₹3,700 a quintal, short of expectations of receiving above ₹4,000. 
-																															| Photo Credit:
-											antpkr
+VISAKHAPATNAM: Chief Minister N Chandrababu Naidu has announced plans to develop an aqua corridor connecting Amaravati, Bhimavaram, Kakinada, Visakhapatnam, Krishnapatnam and Nellore, as part of efforts to strengthen Andhra Pradesh’s aquaculture sector and expand seafood exports.
 
-Plans are afoot in India to set up a Basmati development board on the lines of various commodities boards that function under the Commerce Ministry.
+Addressing the National Workshop on Seafood Exports held in Visakhapatnam on Friday, the Chief Minister said the State is prepared to create the necessary ecosystem for the growth of aquaculture through improved infrastructure, technology, research, innovation and value addition.
 
-The move comes on the heels of two rice exporter associations urging Prime Minister Narendra Modi and Union Home Affairs and Cooperation Minister Amit Shah to set up a dedicated statutory Basmati rice board and separate it from the control of the Agricultural and Processed Food Products Export Development Authority (APEDA).
+The two-day workshop is being organised by the Department of Fisheries under the Ministry of Fisheries, Animal Husbandry and Dairying, in collaboration with the Ministry of Commerce and Industry, with support from the Andhra Pradesh government.
 
-A meeting, organised by a Rashtriya Swamyamsevak Sangh (RSS) affiliated Bharatiya Kisan Sangh (BKS), last week discussed the issue threadbare. Associations such as the All India Rice Exporters Association (AIREA) and Punjab Rice Millers Exporters Association (PRMEA), besides farmer representatives, experts and industry experts, took part in the meeting.
+Naidu noted the proposed aqua corridor would serve as a hub for research institutions, startups, innovation centres and processing facilities required for the sector’s expansion. The Chief Minister also announced plans to promote the “Andhra Shrimp, India Seafood” brand and called for coordinated efforts to enhance India’s presence in global seafood markets.
 
-Sources in the know of the meeting said after a day-long deliberation, BKS has urged Commerce Minister Piyush Goyal to set up a separate Basmati development board. The Prime Minister’s Office has reportedly been approached with the same request.
+Describing the Blue Economy as a key driver of future economic growth, the Chief Minister opined that the fisheries sector would play an important role in achieving the goals of Viksit Bharat.
 
-Sources said the meeting was convened because the economic benefits of Basmati rice have not properly reached farmers.
+He stressed the need to work on the concepts of “Pond to Port”, “Farmer to Global Consumer” and “Blue Economy to Viksit Bharat”.
 
-Farmers’ incomes are falling as prices have stagnated and the premium for basmati has eroded despite rising input costs. This is despite basmati enjoying Geographical Indication (GI) protection. The sources attributed this to weak institutional mechanisms.
+Highlighting Andhra Pradesh’s strengths, Naidu said the State has a coastline of 1,053 kilometres and is supported by ports and airports that provide logistical advantages for seafood exports.
 
-Over the past few seasons, basmati paddy prices have ranged between ₹2,500 and ₹3,700 a quintal, short of expectations of receiving above ₹4,000.
+“Andhra Pradesh contributes 28% of India’s fish production, and 66% of shrimp production, while accounting for nearly 38% of the country’s seafood export earnings. Annual seafood exports from the State exceed `28,000 crore,” the Chief Minister elaborated. 
 
-After adjusting for inflation, real prices received by farmers have declined significantly, making basmati cultivation only marginally more profitable than non-basmati varieties.
+Naidu urges Union govt to set up regional office of Fisheries Ministry in AP
 
-“This decline is alarming because basmati is supposed to be a niche, high-value product. The collapse in premiums directly impacts farmer income, making cultivation financially less attractive,” one of the sources said.
+The Chief Minister asserted that the State would extend full support to initiatives taken by the Centre for the development of the fisheries sector. Welcoming the Centre’s support for establishing mega seafood processing parks, he said greater emphasis must be placed on processing and value addition. He observed that only a small portion of aqua produce is currently processed and pointed to significant opportunities in seafood processing, branding and export-oriented manufacturing.
 
-Cultivation costs have also increased sharply. Fertiliser prices have increased 2-3 times in the past decade, and labour wages, fuel and pesticide costs have all surged. Costs have also gone up due to stricter residue norms and compliance norms for export quality.
+On this occasion, Naidu invited the Union Government to establish a regional office of the Fisheries Ministry in the State, and assured land allotment within 15 days. In response, Union Fisheries Minister Rajiv Ranjan Singh said the foundation stone would be laid within a month of the land being handed over.
 
-Farmers are struggling with seed quality and reliability, too. They rely on public and private suppliers, but seeds are sometimes mixed or unreliable, raising questions over the authenticity of basmati varieties. “Farmers invest in seeds hoping to get a premium but end up producing grain that fails to meet export standards or is not accepted as genuine basmati,” the sources said.
+In his address, Ranjan Singh said India’s fisheries sector has recorded substantial growth over the past decade, with production reaching 197 lakh tonnes and exports crossing `73,000 crore. He announced the approval of a Smart and Integrated Fishing Harbour at Kakinada under the Pradhan Mantri Matsya Sampada Yojana (PMMSY), with a total project cost of `72.42 crore.
 
-The absence of a robust seed certification and monitoring mechanism increases risk for farmers while exporters continue to purchase in the mandi.
+“The proposed harbour will provide berthing facilities for more than 400 fishing vessels, handle substantial fish landings annually and generate employment opportunities in the region,” he explained.
 
-Currently, APEDA handles basmati exports. In their letter to the Prime Minister and Shah, the rice export associations said there was no focus on Basmati rice, as APEDA had many other commodities to attend to.
+He also emphasised the need to strengthen export infrastructure and improve export participation from inland fisheries.
 
-Stakeholders at the meeting expressed the same view. Though APEDA has the Basmati Export Development Board (BEDF) functioning under its supervision, the stakeholders expressed unhappiness over its performance.
+Union Commerce and Industry Minister Piyush Goyal stressed the importance of innovation and advanced technologies in strengthening India’s seafood export ecosystem. He said the government aims to position India as a globally trusted supplier of seafood products known for quality, sustainability and value addition.
 
-They pointed out that APEDA collects ₹70 a tonne as a registration-cum-allocation certificate (RCAC) fee for BEDF. This helps APEDA collect ₹45.5 crore, but it takes out 50 per cent of it for its services. On the other hand, the Budget allocation for APEDA is ₹80 crore, and it deploys only a couple of officers.
+Union Civil Aviation Minister Kinjarapu Rammohan Naidu underlined the importance of efficient logistics and air cargo facilities.
 
-“The amount APEDA takes from BEDF is 30 per cent of the total Budget allocation for it,” another source said.
+Follow The New Indian Express channel on WhatsApp
 
-The sources said the participants at the meeting were told that a Basmati Board, if formed, will be self-sufficient in its spending and will be able to utilise the fund better.
-
-Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines   for posting your comments.
-
-We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
-
-Terms & conditions  |  Institutional Subscriber
+Download the TNIE app to stay with us and follow the latest
 
 ================================================================================
