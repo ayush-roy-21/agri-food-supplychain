@@ -1,0 +1,152 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-106-C01
+Parent Doc ID: A-RES-106
+Page Range: Page 1 to Page 3
+Word Range: 1 - 1526
+Word Count: 1,526
+--------------------
+
+[Page 1]
+International Journal of Agricultural Sustainability
+ISSN: 1473-5903 (Print) 1747-762X (Online) Journal homepage: www.tandfonline.com/journals/tags20
+How do the voluntary sustainability standards
+contribute to enhancing smallholder farmers’
+livelihoods and progress towards SDGs?
+A systematic review of crop-based food
+commodities in Ghana and Vietnam
+Raﬀaele D’Annolfo & Federica Demaria
+To cite this article: Raﬀaele D’Annolfo & Federica Demaria (2026) How do the voluntary
+sustainability standards contribute to enhancing smallholder farmers’ livelihoods and
+progress towards SDGs? A systematic review of crop-based food commodities in Ghana
+and Vietnam, International Journal of Agricultural Sustainability, 24:1, 2616059, DOI:
+10.1080/14735903.2026.2616059
+To link to this article:  https://doi.org/10.1080/14735903.2026.2616059
+© 2026 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+View supplementary material 
+Published online: 18 Jan 2026.
+ Submit your article to this journal 
+Article views: 857
+ View related articles 
+View Crossmark data
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tags20
+
+[Page 2]
+INTERNATIONAL JOURNAL OF AGRICULTURAL SUSTAINABILITY 
+2026, VOL. 24, NO. 1, 2616059 
+https://doi.org/10.1080/14735903.2026.2616059
+RESEARCH ARTICLE                                                                      
+How do the voluntary sustainability standards contribute to enhancing 
+smallholder farmers’ livelihoods and progress towards SDGs? A 
+systematic review of crop-based food commodities in Ghana and Vietnam
+Raffaele D’Annolfo
+ and Federica Demaria
+Council for Agricultural Research and Economics (CREA), Research Centre for Agricultural Policies and Bioeconomy (CREA-PB), 
+Rome, Italy
+ABSTRACT
+This research investigates the effects of Voluntary Sustainability Standards (VSSs) on small -
+holder farmers’ livelihoods within crop-based food commodity value chains in Ghana and 
+Vietnam. Using the Sustainable Livelihood Framework (SLF), the study examines how VSSs 
+(e.g. Fairtrade, GlobalGAP, Rainforest Alliance) influence the capital endowments upon which 
+farmers depend. A systematic review of 26 empirical studies from the Evidensia Library was 
+conducted to assess the effects of VSSs on 15 economic, social, and environmental indicators 
+within the SLF. The main findings suggest that VSSs can enhance income, capacity building, 
+and value chain integration among farmers, alongside other socioeconomic and environ -
+mental benefits. However, negative effects are primarily associated with high input costs, 
+biodiversity impacts, and the use of agrochemicals. Moreover, challenges and trade-offs 
+persist, including limited women’s participation and the transfer of price premiums to 
+smallholder farmers adopting sustainability schemes. This study underscores critical issues 
+in the implementation of VSSs and provides policy recommendations, including fostering 
+bottom-up approaches for extension service provision. It also emphasizes the need for 
+stronger partnerships among governments, development agencies, and multistakeholder 
+initiatives to address chronic issues of the agrifood system in developing countries, and to 
+enhance the role of VSSs in advancing the SDGs by 2030.
+ARTICLE HISTORY 
+Received 29 January 2025 
+Accepted 7 January 2026 
+KEYWORDS
+Sustainability standards; 
+smallholder farmers; SLF; 
+commodities; certifications
+1. Introduction
+Voluntary Sustainability Standards (VSSs) are a diverse set of principles and objectives established by third-party 
+organisations, under which farmers are independently assessed and certified (Iddrisu et al., 2020 ). While the 
+concept of VSSs has existed since the 1970s, their widespread adoption is a relatively recent phenomenon. The 
+VSSs emerged as bottom-up, local standards developed worldwide through farmer-led initiatives, such as the 
+International Federation of Organic Agriculture Movements (IFOAM), which was established in 1972 as a 
+communications network among various organic agriculture projects (Addae-Boadu et al., 2017 ). VSSs gained 
+prominence in the 1990s, experiencing consistent growth until the early 2010s. Non-Governmental 
+Organisations (NGOs) played a crucial role in developing and disseminating standards because, unlike govern -
+ments, they were more flexible and less constrained by formal procedures, allowing them to respond more 
+effectively to market change (Oosterveer et al., 2014 ). According to the UNCTAD (2023), the proliferation of VSSs 
+from the 1990s to the 2010s was influenced by various factors: i) consumer awareness; ii) motivations of firms to 
+adopt VSSs; iii) response to failures of multilateral regulatory efforts; iv) reaction to the emergence of other VSSs; 
+and v) governments’ engagement with VSSs. However, in the past few years, the expansion of VSSs has been 
+slowing down, and the numbers have stabilised since 2017 (UNCTAD, 2023 ).
+Theoretically, certification enables producers to set sustainable targets, while allowing consumers to 
+differentiate among agricultural products based on their embedded social and environmental characteristics 
+(Addae-Boadu et al., 2017 ). This enhanced information supports higher prices for certified products and, in turn, 
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/14735903.2026.2616059.
+© 2026 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License ((http://creativecommons.org/licenses/by- 
+nc/4.0/), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on 
+which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+CONTACT Raffaele D’Annolfo 
+ raffaele.dannolfo@crea.gov.it
+ Council for Agricultural Research and Economics (CREA), Research Centre for 
+Agricultural Policies and Bioeconomy (CREA-PB), Via Barberini n. 36, 00187, Rome, Italy
+
+[Page 3]
+provides financial incentives, known as price premiums, for farmers to meet certification standards (Addae- 
+Boadu et al., 2017 ). However, in recent years several scholars have noted that the notion of ‘voluntary’ 
+certification is increasingly misleading, particularly in export-oriented sectors such as cocoa, coffee, and palm 
+oil. Although formally optional, VSSs very often operate as de facto market requirements (Elamin & de Córdoba, 
+2020 ). International buyers and processing companies frequently required certified products as a precondition 
+for sourcing (Elamin & de Córdoba, 2020 ). This dynamic has created forms of market-driven coercion whereby 
+smallholder farmers have to comply with certification to maintain market access, thus limiting their autonomy in 
+decision-making (Bennett, 2021 ; Bitzer & Steijn, 2019 ; Ponte & Sturgeon, 2014 ).
+As emphasised by Oya et al. ( 2018 ) and Bissinger et al. ( 2020 ) the VSSs have the potential to provide 
+positive economic, environmental and social benefits to smallholder farmers, contributing to several 
+Sustainable Development Goals (SDGs) at the same time. By promoting the adoption of sustainable farming 
+practices and increasing product quality, VSSs empower farmers to participate in high-remunerative value 
+chains, such as those in the EU and North American markets (Akrong et al., 2022 ). However, the adoption of 
+VSSs may also impose additional financial burdens for producers, such as certification costs, and the 
+enforcement of higher labour standards (e.g. ILO Conventions), which can be challenging for poorer 
+smallholder farmers to meet (Maertens & Swinnen, 2015 ). Moreover, voluntary certifications might also 
+shift local production away or redirect agricultural goods from food production to more profitable 
+commodity markets (Oosterveer et al., 2014 ). Finally, the lack of institutional coordination, financial and 
+technical capacities for accessible certification in developing countries could also represent a significant 
+barrier for smallholders in adopting VSSs (FAO, 2014 ; Meemken, 2020 ).
+Given the varying effects presented in the literature on the impacts of VSSs, further investigation and 
+assessment is needed to understand how certification schemes can effectively contribute to improving 
+smallholder farmers’ livelihoods. Adopting an inclusive approach, this study aims to address the following 
+research questions:
+• Are VSSs effective in improving smallholder farmers’ livelihoods within food-agricultural commodity 
+value chains?  
+• What are the main advantages and trade-offs associated with VSSs adoption in Ghana and Vietnam?  
+• To what extent can VSSs be leveraged as sustainable market-oriented tools to achieve the SDGs Agenda 
+by 2030?
+2. Methodology
+2.1. Socioeconomic and environmental indicators
+The analysis of the effects of VSSs on smallholder farmers’ livelihoods is based on the Sustainable Livelihood 
+Framework (SLF), originally developed by Chambers & Conway, ( 1992 ) and later adapted by the Department for 
+International Development of the UK (DFID, 1999 ). According to the SLF, a livelihood is made up of capabilities, 
+material and social capitals, and activities required to earn a living (DFID, 1999 ). The SLF has been widely used as 
+a tool to analyse rural poverty from a multidimensional perspective (Bennett & Franzel, 2013 ; Nelson et al., 2013 ; 
+Garibaldi et al., 2017 ; D’Annolfo et al., 2017 ) and to assess which components of certification schemes have the 
+greatest impact on farmers’ livelihoods (Fenger et al., 2017 ). The SLF is based on five capital endowments: 
+human, social, financial, physical and natural ( Table 1 ). For each of the aforementioned capitals, three relevant 
+socioeconomic and environmental indicators were selected based on the literature on VSSs to systematically 
+extract and collect quantitative and qualitative evidence ( Table 1 ).
+In order to identify the relevant SDGs for the analysis, we referenced the studies of Bissinger et al. ( 2020 ) and 
+Kosolapova et al. ( 2023 ), which offered comprehensive mappings of VSSs against the 17 SDGs. Therefore, a 
+shortlist of SDGs and related targets was selected according to the main scope of this research ( Table 2 ).
+The SLF guided both the coding and synthesis of evidence by classifying each identified livelihood outcome 
+under one of the five capitals: human, social, financial, physical, and natural. This structure ensured analytical 
+consistency across heterogeneous studies and enabled a systematic comparison of VSS effects across indicators, 
+commodities and value chains in different countries. The SLF framework also supported the integration of 
+findings into broader sustainability dimensions aligned with the selected SDGs.
+2
+ R. D’ANNOLFO AND F. DEMARIA

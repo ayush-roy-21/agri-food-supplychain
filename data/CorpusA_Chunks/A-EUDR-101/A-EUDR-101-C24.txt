@@ -1,0 +1,136 @@
+--- CHUNK HEADER ---
+Chunk ID: A-EUDR-101-C24
+Parent Doc ID: A-EUDR-101
+Page Range: Page 48 to Page 50
+Word Range: 38237 - 40089
+Word Count: 1,853
+--------------------
+
+[Page 48]
+(b) paragraphs 4 and 5 are replaced by the f ollowi ng:
+‘4. The fi nancial stat ements shall be audite d in accordance with the fi rst subparagraph of Ar ticle 34(1) and 
+Ar ticle 34(2) of Directive 2013/34/EU.
+The statutor y auditor shall deliver the opinion and stat ement on the manag ement repor t refe r red to in points (a) 
+and (b) of the second subparagraph of Ar ticle 34(1) and in Ar ticle 34(2) of Directive 2013/34/EU.
+The audit repor t, refer red to in Ar ticle 28 of Directive 2006/43/EC of the European P arliament and of the 
+Council (*), signed by the person or persons responsible f or car r ying out the w ork set out in Ar ticle 34(1) and (2) 
+of Directive 2013/34/EU shall be disclosed in full to the public tog ether with the annual fi nancial repor t.
+Where applicable, an assurance opinion on sustainability repor ting shall be pro vided in accordance with point (aa) 
+of the second subparagraph of Ar ticle 34(1) and Ar ticle 34(2) to (5) of Directive 2013/34/EU.
+The assurance repor t on sustainability repor ting refer red to in Ar ticle 28a of Directive 2006/43/EC shall be 
+disclosed in full to the public tog ether with the annual fi nancial repor t.
+5. The management repor t shall be dra wn up in accordance with Ar ticles 19, 19a and 20, and Ar ticle 29d(1) of 
+Directive 2013/34/EU, and shall include the specif ications adopt ed pursuant to Ar ticle 8(4) of 
+Regulation (EU) 2020/852, when drawn up by under takings ref er red to in those provisions.
+Where the issuer is required to prepare consolidat ed accounts, the consolidated manage ment repor t shall be drawn 
+up in accordance with Ar ticles 29 and 29a and Ar ticle 29d(2) of Directive 2013/34/EU and shall include the 
+specifi cations adop ted pursuant to Ar ticle 8(4) of Regulation (EU) 2020/852, when dra wn up by under takings 
+refer red to in those pro visions.
+_____________
+(*) Directive 2006/43/EC of the European Parliament and of the Council of 17 Ma y 2006 on statut or y audits of 
+annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and 
+repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87).’;
+(3) Ar ticle 23(4) is amended as f ollows:
+(a) the third and f our th subparagraphs are replaced by the f ollowi ng:
+‘ The Commission shall, in accordance with the procedure refer red to in Ar ticle 27(2) of this Directive, tak e the 
+necessar y decisions on the equivalence of accounting standards under the conditions set out in Ar ticle 30(3) of 
+this Directive and on the equivalence of sustainability repor ting standards as refer red to in Ar ticle 29b of Directive 
+2013/34/EU which are used by third-countr y issuers. If the Commission decides that the accounting standards or 
+the sustainability repor ting standards of a third countr y are not equivalent, it ma y allow the issuers concer ned to 
+continue using such standards dur ing an appropr iat e transitional per iod.
+In the cont ext of the third subparagraph of this paragraph, the Commission shall also adopt, by means of delegat ed 
+acts adopt ed in accordance with Ar ticle 27(2a), (2b) and (2c), and subject to the conditions laid down in Ar ticles 
+27a and 27b, measures that aim to establish ge neral equivalence cr ite r ia rega rding accounting standards and 
+sustainability repor ting standards relevant to issuers of more than one countr y .’;
+(b) the f ollo wing subparagraph is added:
+‘ The cr it er ia that the Commission shall use when assessing the equivalence of sustainability repor ting standards 
+used by third-countr y issuers refer red to in the third subparagraph shall at least ensure the f ollo wing:
+(a) that the sustainability repor ting standards require under takings to disclose inf or mation on en vironmental, 
+social and governance fact ors;
+EN
+Offi cial Jour nal of the European Uni on L 322/62 16.12.2022
+
+[Page 49]
+(b) that the sustainability repor ting standards require under takings to disclose inf or mation necessar y to 
+understand their im pacts on sustainability matters, and inf or mation necessar y to understand how 
+sustainability matters aff ect their development, perf or mance and position.’;
+(4) the f ollowing Ar ticle is inser te d:
+‘ Ar ticle 28d
+ESMA guidelines
+Af ter consulting the European En vironment Age ncy and the European U nion Agen cy f or Fundamental Rights, ESMA 
+shall issue guidelines in accordance with Ar ticle 16 of Regulation (EU) No 1095/2010 on the super vision of 
+sustainability repor ting by national compet ent author ities.’.
+Ar ticle 3
+Amendments to Directiv e 2006/43/EC
+Directive 2006/43/EC is amended as f ollows :
+(1) Ar ticle 1 is replaced by the f ollowi ng:
+‘ Ar ticle 1
+Subject matter
+This Directive establishes r ules concer ning the statutor y audit of annual and consolidate d accounts and the assurance 
+of annual and consolidated sustainability repor ting.’;
+(2) Ar ticle 2 is amended as f ollo ws:
+(a) points 2 to 6 are replaced by the f ollowi ng:
+‘2. “statut or y auditor” means a natural person who is appro ved in accordance with this Directive by the 
+compe tent author ities of a Member State to car r y out statut or y audits and, where applicable, the assurance of 
+sustainability repor ting;
+3. “audit fir m” means a lega l person or an y other entity , regar dless of its legal f or m, that is approved in 
+accordance with this Directive by the compet ent author ities of a Member State to car r y out statut or y audits 
+and, where applicable, the assurance of sustainability repor ting;
+4. “third-countr y audit entity” means an entity , regardl ess of its leg al f or m, which car r ies out audits of the annual 
+or consolidated fi nancial state ments, or , where applicable, the assurance of sustainability repor ting of a 
+compan y incor porated in a third countr y , other than an entity which is register ed as an audit fir m in an y 
+Member State as a consequence of approval in accordance with Ar ticle 3;
+5. “third-countr y auditor” means a natural person who car r ies out audits of the annual or consolidate d fi nancial 
+stat ements or , where applicable, the assurance of sustainability repor ting of a compan y incor porat ed in a 
+third countr y , other than a person who is register ed as a statutor y auditor in an y Member State as a 
+consequence of approval in accordance with Ar ticles 3 and 44;
+6. “group auditor” means the statut or y auditor(s) or audit fi r m(s) car r ying out the statutor y audit of the 
+consolidat ed accounts or , where applicable, the assurance of consolidated sustainability repor ting;’;
+EN
+Offi cial Jour nal of the European Uni on 16.12.2022 L 322/63
+
+[Page 50]
+(b) the f ollowi ng point is inser ted:
+‘16a. “k ey sustainability par tner(s)” means:
+(a) the statut or y auditor(s) designate d by an audit fi r m f or a par ticular assurance engag ement concer ning 
+sustainability repor ting as being pr imar ily responsible f or car r ying out the assurance of sustainability 
+repor ting on behalf of the audit fi r m; or
+(b) in the case of the assurance of consolidate d sustainability repor ting at least the statutor y auditor(s) 
+designate d by an audit fir m as being pr imar ily responsible f or car r ying out the assurance of 
+sustainability repor ting at the level of the group and the statutor y auditor(s) designat ed as being 
+pr imar ily responsible at the level of mater ial subsidiar ies; or
+(c) the statut or y auditor(s) who sign(s) the assurance repor t on sustainability repor ting ref er red to in 
+Ar ticle 28a;’;
+(c) the f ollowi ng points are added:
+‘21. “sustainability repor ting” means sustainability repor ting as def ined in point (18) of Ar ticle 2 of Directive 
+2013/34/EU;
+22. “assurance of sustainability repor ting” means the perf or mance of procedures resulting in the opinion 
+expressed by the statutor y auditor or audit fi r m in accordance with point (aa) of the second subparagraph 
+of Ar ticle 34(1) and Ar ticle 34(2) of Directive 2013/34/EU;
+23. “independent assurance ser vices provider” means a conf or mity assessment body accredit ed in accordance 
+with Regulation (EC) No 765/2008 of the European Parliament and of the Council (*) f or the specifi c 
+conf or mity assessment activity ref er red to in point (aa) of the second subparagraph of Ar ticle 34(1) of 
+Directive 2013/34/EU.
+_____________
+(*) Regulation (EC) No 765/2008 of the European P arliament and of the Council of 9 July 2008 setting out the 
+requirements f or accreditation and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).’;
+(3) Ar ticle 6 is replaced by the f ollowi ng:
+‘ Ar ticle 6
+Educational qualif ications
+1. Without prejudice to Ar ticle 11, a natural person ma y be approved to car r y out a statutor y audit only af ter 
+hav ing attained university entrance or equivalent level, then compl eted a course of theoretical instr uction, undergone 
+practical training and passed an examination of profe ssional compet ence of university final or equivalent examination 
+level, organised or recognised by the Member State concer ned.
+2. A natural person ma y , in addition to the approval to car r y out statutor y audits provid ed f or in paragraph 1 of 
+this Ar ticle, be appro ved to car r y out the assurance of sustainability repor ting when the additional specifi c 
+requirements of Ar ticle 7(2), Ar ticle 8(3), the second subparagraph of Ar ticle 10(1) and the f our th subparagraph of 
+Ar ticle 14(2) of this Directive are met.
+3. The compe tent author ities refer red to in Ar ticle 32 shall cooperate with each other with a view to achi eving a 
+conver gence of the requirements set out in this Ar ticle. When engaging in such cooperation, those compet ent 
+author ities shall take into account developments in auditing and in the audit profes sion and, in par ticular , 
+conver gence that has already been achieve d by the profess ion. They shall cooperate with the Committ ee of European 
+Aud iting Oversight Bodies (CEA OB) and the compe tent author ities refe r red to in Ar ticle 20 of Regulation (EU) 
+No 537/2014 in so f ar as such converg ence relates to the statut or y audit and assurance of sustainability repor ting of 
+public-inte rest entities.’;
+EN
+Offi cial Jour nal of the European Uni on L 322/64 16.12.2022

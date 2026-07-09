@@ -1,0 +1,143 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C07
+Parent Doc ID: A-RES-103
+Page Range: Page 21 to Page 23
+Word Range: 8362 - 9715
+Word Count: 1,354
+--------------------
+
+[Page 21]
+20 
+Conclusions on follow-up of non-compliant results 
+52. Documented procedures for the follow-up of non-compliances found under the residue 
+monitoring plans are largely equivalent to those foreseen in the EU and investigations 
+are mostly implemented promptly.  Nevertheless, the follow-up of the aquaculture non-
+compliances for banned  substances and actions taken to prevent recurrence have not 
+been effective as evidenced by the continuing high rate of non- compliant results in 
+samples drawn from hatcheries and in the PET programme.   Similarly, the continuing 
+high incidence of aflatoxin M1 findings in raw milk  suggest that measures to address 
+and mitigate this problem are not particularly effective.   
+5.1.6 Laboratories 
+Findings 
+53. The laboratory network relevant for the scope of the audit consisted of: 
+a) laboratories involved in testing samples under the residue monitoring plans for: 
+- aquaculture: 5 MPEDA laboratories (in Kochi, Bhimavaram, Nellore , Porbandar 
+and Bhubaneswar and one EIA laboratory in Chennai (dioxins only); 
+- milk: the EIA Pilot Test House laboratory in Mumbai; 
+- poultry - the EIA laboratory in Chennai. 
+b)     laboratories responsible for analysis under the PET programme for aquaculture 
+products with regard to tetracycline, oxytetracycline, chlortetracycline  
+chloramphenicol and nitrofuran metabolites: three EIA laboratories (in Chennai, 
+Kochi, Mumbai and Kolkata); 
+c)  laboratories responsible for screening analys es under the PHT programme for 
+shrimp for chloramphenicol and nitrofuran metabolites : 15 MPEDA ELISA 
+laboratories. 
+54. Similar to what is expected in the EU  (35) all laboratories involved in testing residue 
+monitoring samples and the PET programme are ISO/IEC 17025 accredited by the 
+National Accreditation Board for Calibration and Testing Laboratories (NABL) which 
+is a full member of International Laboratory Accreditation Cooperation. All EIA and 
+MPEDA laboratories have a number of residue methods included in their respective 
+scopes of accreditation. Of the 1 5 MPEDA ELISA laboratories involved in the PHT, 4 
+are accredited, each with residues methods listed in their scope of accreditation. 
+55. Similar to the EU requirements (36) and as described in the 2018 audit, all laboratories 
+involved in official residues controls testing must hold an approval from the EIC. 
+Under the EIC approval process, ISO 17025 accreditation audits are conducted as an 
+integrated assessment by the NABL and the EIC in parallel, as des cribed in the NABL 
+document 127 ( 37). For the laboratories visited during the audit, EIA Chennai, EIA 
+Kochi, EIA Mumbai, MPEDA Kochi and MPEDA Bhubaneswar, the integrated 
+ 
+(35) Article 37(4)(e) of Regulation (EU) 2017/625.  
+(36) Article 39(1) of Regulation (EU) 2017/625.   
+(37) https://nabl-india.org/nabl/file_download.php?filename=202011170504-NABL-127-doc.pdf
+
+[Page 22]
+21 
+assessment status was verified by the audit  team and is reflected in each laboratory’ s 
+scope of accreditation with the inclusion of the date of assessment and  the official seal 
+of the EIC on each page of the respective document describing the scope. 
+56. The laboratories visited were: 
+Laboratory Area of testing covered during the visit 
+EIA Mumbai milk – residue monitoring plan 
+EIA Kochi  aquaculture – PET 
+EIA Chennai poultry – residue monitoring plan 
+aquaculture – PET 
+MPEDA Kochi aquaculture – residue monitoring plan 
+MPEDA Bhubaneswar aquaculture – residue monitoring plan 
+aquaculture – PHT 
+ 
+57. Similar to measures required in the EU  (38), in all of the laboratories visited there were 
+procedures and instructions for sample reception and handling and these were adhered 
+to. In the sample reception areas, sample seals, temperature, quantity and sample 
+submission forms are checked, and details recorded with evidence seen of the recording 
+of sample deviations and follow -up communications to flag rejected samples and 
+request additional sampling. Additionally, residue monitoring samples were stored in 
+appropriate and adequately monitored conditions. 
+58. The EIA and MPEDA laboratories use electronic systems such as an in -house 
+laboratory information management system used by the EIA and an electronic tool 
+called “e -National Residue Control Plan”  used by MPEDA to log and track sample 
+analysis in the laboratory. Furthermore, seals for samples drawn under the residue 
+monitoring plans, the PET and the P HT have a unique ID number which is checked  
+against the details recorded on the sample form at the time of reception and sample 
+login at the laboratory. These measures are similar to what is required in the EU with 
+regard to sample traceability (
+39). 
+59. The laboratories visited indicated that they operated an agreed sampl e analysis 
+turnaround time of 10 days (EIA laboratories Mumbai, Kochi, Chennai), 15 or 20 days 
+(MPEDA Bhubaneswar, MPEDA Kochi) from the receipt of the samples. The 
+documents inspected by the audit team indicated that these analysis turnaround times 
+were largely achieved and in the case of the EIA, Mumbai, this was an improvement 
+relative to the 2018 report.  
+60. The storage and management of reference standards was found to be adequate in all of 
+the laboratories visited. Internal standards and matrix -matched c alibration were used 
+routinely for the  Liquid Chromatography-(Tandem) Mass Spectrometry  (LC-MS/MS) 
+methods evaluated. In the case of ELISA for PHT , the test kits used are supplied with 
+ 
+(38) Points 1, 5 and 7 of Annex II to Regulation (EU) 2021/808.  
+(39) Point 3 of Annex II to Regulation (EU) 2021/808.
+
+[Page 23]
+22 
+reference standards. A t the time of the audit, all of the MPEDA ELISA l aboratories 
+were using test kits from the same manufacturer. 
+61. All of the laboratories visited had quality control procedures in place; these included 
+the use of blank samples, reagent blanks, non- compliant controls spiked at appropriate 
+concentrations in matrix, blind control check samples and duplicate samples. The audit 
+team examined the m ethod quality control charts in each laboratory and these were 
+generally found to be adequate for monitoring longer term trends in method 
+performance.  In the case of the EIA laboratory in Chennai however, it was found that 
+while the laboratory had quality control charts in place with data recorded over the past 
+2 years in the examples seen, trends in the control data were not evaluated routinely. 
+The only prescribed control criteria considered by the laboratory were breaches of the 
+calculated chart control limits or recovery levels outside the range of 80 to 120%. 
+Trending patterns of data points were not considered by the laboratory; for example, a 
+certain number of data points above or below the mean or a certain number of data 
+points showing a continuous increase/decrease in recovery. This is not fully in line with 
+ISO 17025 (
+40) standard or EU requirements (41). 
+62. Evidence was provided that all of the laboratories involved in testing under the residues 
+monitoring plan had participated in proficiency testing. This is in line with expectations 
+in the EU (42).  With regard to the laboratories visited, the EIA Chennai laboratory had 
+participated in one proficiency test for poultry since 2018 (lasalocid ( Group B2b)) and 
+the EIA Mumbai laboratory has participated in three proficiency tests for milk since 
+2019 (chloramphenicol (Group A6), sulphonamide s (Group B1) and heavy metals 
+(Group B3c)). The visited l aboratories had recently participated in the following 
+relevant proficiency with satisfactory results: 
+- EIA Mumbai: heavy metals (Group B3c) in milk powder;  
+- EIA Chennai: lasalocid ( Group B2b) in poultry; nitrofurans ( Group A6), quinolones 
+(Group B1) and sulphonamides (Group B1) in shrimp; nitrofurans (Group A6), dyes 
+(Group B3e) and heavy metal (Group B3c) in fish; 
+- EIA Kochi: quinolones ( Group B1), chloramphenicol ( Group A6), nitrofurans 
+(Group A6), tetracyclines (Group B1) in shrimp; nitrofurans (Group A6) in fish;    
+- MPEDA Kochi: tetracyclines ( Group B1), nitrofurans ( Group A6) in shrimp; 
+mycotoxins (Group B3d) in fish; 
+- MPEDA Bhubaneswar: tetracyclines (Group B1), nitrofurans (Group A6) in shrimp; 
+nitrofurans (Group A6) sulphonamides (Group B1), dyes (Group B3e) in fish. 
+63. In those instances where the results of proficiency tests  would be unsatisfactory, all of 
+the laboratories visited had a root cause analysis procedure  in place to identify the 
+cause and implement appropriate corrective actions.   
+64. For testing under the residue monitoring plan, only chemical confirmatory methods are 
+used, and all of the analytical methods reviewed by the audit team had decision limits 
+ 
+(40) Chapter 7.7 of ISO/IEC 17025.  
+(41) Chapter 3 of Annex I to Regulation (EU) 2021/808.   
+(42) Article 38(2) of Regulation (EU) 2017/625 and Article 4 of Regulation (EU) 2021/808.

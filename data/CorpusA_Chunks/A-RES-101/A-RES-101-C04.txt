@@ -1,0 +1,219 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-101-C04
+Parent Doc ID: A-RES-101
+Page Range: Page 6 to Page 7
+Word Range: 4915 - 6508
+Word Count: 1,594
+--------------------
+
+[Page 6]
+After gaining con ﬁdence in the validity of the structural model,
+the path coef ﬁcients and hypotheses testing was performed. The
+results of PLS-SEM indicated solid acceptance to all the proposed
+hypotheses except H3 (Financial Institutions - > Supply Chain
+Finance: b ¼ 0.139, t ¼ 1.478) and H5 (External Environment
+- > Supply Chain Finance: b ¼ 0.794, t ¼ 0.261). In particular, the
+other direct effects indicated signi ﬁcant path coef ﬁcient results
+with supply chain ﬁnance indicating a strong positive impact on
+supply chain effectiveness ( b ¼ 0.00, t ¼ 10.805). At the same time,
+collaboration, an indicator of Supply Chain Finance ( b ¼ 0.001,
+t ¼ 3.407), indicated a positive relationship. Furthermore, Digitizing
+Technologies as an Indicator of Supply Chain Finance ( b ¼ 0.00,
+t ¼ 4.742) indicated a positive and signi ﬁcant relationship. Lastly,
+Negotiation, an Indicator of Supply Chain Finance, also depicted a
+positive and signi ﬁcant relationship with ( b ¼ 0.00, t ¼ 5.196)
+values. Table 6 provides detailed results of the hypotheses testing.
+Table 7 provides factor loading, which is considered absolutely
+important in forming the formative construct when it is /C21 0.50 and
+statistically signiﬁcant (Hair et al., 2020 ).
+5. Conclusion
+This study attempts to determine the factors leading to SCF's
+adoption and supply chain ﬁnance's adoption to enhance supply
+chain effectiveness in MSMEs of India. This study shows that SCF
+not only considers ﬁnancial factors, but practical implementation of
+SCF can be done when it is supplemented by negotiation, collabo-
+ration, and digitizing trade. Results indicate that ﬁrms should focus
+not only on the ﬁnancial variables of the supply chain but also on
+negotiation, collaboration, and the extent of digitization in the ﬁrm.
+Digitization of trade is a crucial process that can help the Indian
+MSMEs grow by offering many bene ﬁts like sharing costs and
+reducing transportation costs. The ﬁndings for digitizing trade are
+also in line with Ali et al. (2018) . Negotiation for MSMEs is a very
+prominent factor in Supply Chain Finance to ensure effectiveness in
+their supply chain as most MSMEs are cash crunch, and poor
+negotiation power in MSMEs can put pressure on their Return on
+Investment. The ﬁndings for negotiation as a factor of supply chain
+ﬁnance are similar to Thakkar et al. (2009) . Collaboration is also a
+very prominent indicator of the supply chain effectiveness of a ﬁrm
+as most MSMEs have scalability issues which can affect the overall
+performance of the Indian MSMEs. Collaboration among MSMEs for
+the supply chain can overcome the ﬁnancial and innovation con-
+straints among Indian MSMEs. The ﬁndings are also in line with the
+ﬁndings of ( Zaridis, Vlachos, & Bourlakis, 2021 ). The external
+environment and role of the ﬁnancial institutions are not signi ﬁ-
+cant factors affecting SCF adoption in the Indian context. A possible
+reason for this is that a supply chain is an emerging tool in India,
+and therefore all internal factors are signi ﬁcant as SCF is at the
+developing stage, so ﬁrms need to create an internal environment
+at the initial stage. Negotiation, collaboration, and digitizing trade
+are signi ﬁcant adoption factors. As of now, there is a need to
+develop buyer-supplier long-term relationships, inter- ﬁrm collab-
+oration, and adapt to digital needs. This study also proves that SCF
+leads to SCE. This is consistent with the study of Wuttke et al.
+(2016), wherein it was highlighted that implementing SCF im-
+proves the performance of the supply chain by giving a longer
+duration for payment and suppliers; it optimizes the working
+capital. This suggests that various factors of SCF increase the
+responsiveness of SC, which enhances SC effectiveness.
+6. Implications and limitations
+This study will contribute to the existing literature on supply
+chain ﬁnance and supply chain effectiveness. In the context of
+MSMEs in India, the role of negotiation, collaboration, and digi-
+tizing trade are signi ﬁcant factors impacting supply chain effec-
+tiveness. In the current study, both internal and external factors are
+considered, and the impact of these is assessed on supply chain
+effectiveness. External Environment has also been added as one
+factor that has become insigni ﬁcant. This also presents that supply
+chain ﬁnance is an emerging tool that may minimize SC players'
+default.
+From the viewpoint of managers, this study will provide a better
+understanding of the bene ﬁts, potential, and drawbacks of the
+already implemented solution, which will add knowledge to
+managers and lead to better decision-making. This study will be of
+use to the managers of MSMEs. This will also provide an under-
+standing of the SCF process in optimizing the working capital and
+minimizing the liquidity issues. Also, SCF helps improve the
+players' relations in the supply chain. Therefore, managers can take
+advantage of SCF to maintain long-term relations among the SC
+players and improve the ﬁnancial ﬂow of goods. This study will also
+help the MSMEs determine the factors affecting the supply chain
+effectiveness and the necessary steps that ﬁrm managers can take
+to decide on speci ﬁc processes to be improved or new processes to
+be adopted. In addition, SMEs owners can obtain ﬁnancing to meet
+working capital requirements and minimize the credit risk.
+Table 4
+Model ﬁt indices.
+Model Fit Indices Saturated Model Cut-Off Values
+SRMR 0.063 <0.10 (Hu & Bentler, 1999 )
+Chi-Square 1609.713
+NFI 0.956 >0.90 (Lohm€oller, 1989 )
+rms Theta 0.089 <0.12 (Henseler et al., 2014 )
+Table 5
+R square values.
+Constructs R Square R Square Adjusted
+Supply Chain Effectiveness 0.367 0.364
+Supply Chain Finance 0.407 0.394
+Table 6
+Hypotheses testing.
+Hypothesized Path Models OS SM SD T-Stat P Values (
+b) Result
+Collaboration - > Supply Chain Finance ( H2) 0.201 0.206 0.059 3.407 0.001 Accepted
+External Environment - > Supply Chain Finance ( H5) /C0 0.022 /C0 0.007 0.084 0.261 0.794 Rejected
+Digitizing Technologies - > Supply Chain Finance ( H4) 0.274 0.270 0.058 4.742 0.000 Accepted
+Financing Institutions - > Supply Chain Finance ( H3) 0.093 0.086 0.063 1.478 0.139 Rejected
+Negotiation - > Supply Chain Finance ( H1) 0.278 0.292 0.053 5.196 0.000 Accepted
+Supply Chain Finance - > Supply Chain Effectiveness ( H6) 0.517 0.523 0.048 10.805 0.000 Accepted
+K. Mulchandani, S.S. Jasrotia and K. Mulchandani Asia Paci ﬁc Management Review 28 (2023) 90 e98
+95
+
+[Page 7]
+One of the enablers to supply chain ﬁnance is the digitalization
+of trade. MSMEs managers must contemplate digitizing trade as
+implementing SCF would become hassle-free. Due to a lack of
+digitalization, the ﬁrm may be forced to adopt the traditional
+mechanism, costing higher. This new method of ﬁnancing may help
+minimize the default, and this will go on a long way toward
+improving relations between ﬁnancial institutions with borrowers.
+Considering the potential bene ﬁts of SCF, adoption of SCF may in-
+crease among the MSMEs. MSMEs may consider and incorporate
+the factors like negotiation, collaboration, and digitizing trade that
+impact the adoption of SCF in a ﬁrm. Collaboration among the
+departments plays a vital role which affecting the implementation
+of SCF solutions. The results show that SCF acts as a success factor
+for improving SC effectiveness. This also provides a better under-
+standing of the factors affecting SCF among SMEs managers.
+This study is conducted on MSMEs in India, so there is a scope of
+the study by extending the research to other ﬁrms for generaliza-
+tion. Further, a comparison can be drawn between large-scale or-
+ganizations and MSMEs to see the differences in the adoption
+factors affecting SCF. In the future, other factors like training and
+knowledge about SCF to employees, support from top manage-
+ment, integration of supply chain in the ﬁrm can be included to
+assess the impact of these on supply chain effectiveness. As per
+Randall and Farris (2009) , the SCF approach leads to increased
+proﬁtability, so there is further scope to see the impact of SCF on the
+ﬁrm's performance in the Indian context. Also, the impact of me-
+diators and moderators can be tested on the model. Furthermore,
+other related SCF factor aspects, like Supply chain information,
+supply chain performance, and supply chain agility, can be tested in
+future studies to extend the current model. Future researchers can
+also examine the relationship of agency theory with supply chain
+ﬁnancing.
+Acknowledgments
+Great thanks to all the respondents who devoted their time even
+after being busy in their work lives for generously ﬁlling out the
+questionnaires.
+ANNEXURE e I: VIF Values indicating Multi-Collinearity
+among Items
+ANNEXURE e II (Questionnaire: Items for Survey Scale)
+Questionnaire Items (1 ¼ “Strongly Disagree” to 5 ¼ “Strongly
+Agree”)
+Supply Chain Finance (SCF) (Adapted from Ali et al., 2019 ).
+1. Supply chain ﬁnance is seen as a risk prevention system in our
+organization.
+Table 7
+Factor loading table.
+Items Collaboration Digitizing Tech_ External Environment Financing Institutions Negotiation Supply Chain Effectiveness_ Supply Chain Financi ng
+CO1 0.705
+CO2 0.935
+CO3 0.886
+CO4 0.922
+DT1 0.973
+DT2 0.800
+DT3 0.596
+EE1 0.948
+EE2 0.894
+EE3 0.902
+FI1 0.862
+FI2 0.851
+FI3 0.883
+NE1 0.676
+NE2 0.631
+NE3 0.973
+SCE1 0.835
+SCE2 0.789
+SCE3 0.811
+SCE4 0.693
+SCF1 0.890
+SCF2 0.662
+SCF3 0.877
+SCF4 0.717
+SCF5 0.682
+Items VIF
+CO1 1.659
+CO2 2.432
+CO3 2.078
+CO4 2.259
+EE1 2.116
+EE2 2.998
+EE3 2.595
+DT1 3.384
+DT2 3.286
+DT3 2.501
+FI1 1.701
+FI2 2.097
+FI3 2.234
+NE1 1.746
+NE2 1.739
+NE3 1.447
+SCE1 1.347
+SCE2 1.932
+SCE3 2.071
+SCE4 1.872
+SCF1 2.666
+SCF2 1.570
+SCF3 3.454
+SCF4 1.508
+SCF5 1.398
+K. Mulchandani, S.S. Jasrotia and K. Mulchandani Asia Paci ﬁc Management Review 28 (2023) 90 e98
+96

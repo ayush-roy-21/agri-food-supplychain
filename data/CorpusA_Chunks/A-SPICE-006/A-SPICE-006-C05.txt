@@ -1,0 +1,378 @@
+--- CHUNK HEADER ---
+Chunk ID: A-SPICE-006-C05
+Parent Doc ID: A-SPICE-006
+Page Range: N/A (Web Scraped / Text Extract)
+Word Range: 4204 - 5059
+Word Count: 856
+--------------------
+
+<li id="menu-2384-1" class="middle sf-depth-3 sf-no-children"><a
+                              href="/general-information/films-spices.html" title="FILMS" class="sf-depth-3">Promotional
+                              Videos</a></li>
+
+<!-- <li id="menu-2450-1" class="middle sf-depth-3 sf-no-children"><a
+                              href="http://spicesboard.in/SpiceNews/searchDailyLog1.php" target="_blank"
+                              class="sf-depth-3">Spice Related News</a></li> -->
+
+<li id="menu-2450-1" class="middle sf-depth-3 sf-no-children"><a
+                              href="http://spicesboard.in:8004/spicenews" target="_blank" class="sf-depth-3">Spice
+                              Related News</a></li>
+
+<li id="menu-2450-1" class="middle sf-depth-3 sf-no-children"><a
+                              href="https://indianspices.com/general-information/news_letter.html"
+                              class="sf-depth-3">e-Newsletter</a></li>
+
+<!-- <li id="menu-1484-1" class="middle sf-depth-2 sf-no-children"><a
+                              href="/spices-development/spice-catalogue.html" class="sf-depth-2">Spice Catalogue</a>
+                          </li> -->
+
+<!-- <li id="menu-1020-1" class="last sf-depth-2 sf-no-children"><a
+                              href="/sites/default/files/spices%20list%20under%20purview%20of%20spices%20board.pdf"
+                              target="_blank" class="sf-depth-2">List of Spices with Botanical Names</a></li> -->
+
+<!-- <li id="menu-726-1" class="last sf-depth-2 menuparent"><a
+                              href="/spices-development/properties/nutritional-values-of-spices.html"
+                              class="sf-depth-2 menuparent">Properties</a>
+                            <ul>
+                              <li id="menu-1485-1" class="first sf-depth-3 sf-no-children"><a
+                                  href="/spices-development/properties/nutritional-values-of-spices.html"
+                                  class="sf-depth-3">Nutritional Values of Spices</a></li>
+                              <li id="menu-733-1" class="middle sf-depth-3 sf-no-children"><a
+                                  href="/spices-development/properties/calorific-value-spices.html"
+                                  class="sf-depth-3">Calorific Value of spices</a></li>
+                              <li id="menu-734-1" class="middle sf-depth-3 sf-no-children"><a
+                                  href="/spices-development/properties/medicinal-other-values-spices.html"
+                                  class="sf-depth-3">Medicinal &amp; other Properties of Spices</a></li>
+                              <li id="menu-736-1" class="middle sf-depth-3 sf-no-children"><a
+                                  href="/spices-development/properties/chemical-physical-specifications-of-spices.html"
+                                  class="sf-depth-3">Chemical and physical specification of spices</a></li>
+                              <li id="menu-737-1" class="middle sf-depth-3 sf-no-children"><a
+                                  href="/sites/default/files/phys_prop.pdf" target="_blank" class="sf-depth-3">Physical
+                                  Properties of Essential Oils&amp; Flavourants</a></li>
+                              <li id="menu-738-1" class="last sf-depth-3 sf-no-children"><a
+                                  href="/spices-development/properties/flavor-profile-spices.html"
+                                  class="sf-depth-3">Flavour Profile of spices</a></li>
+                            </ul>
+                          </li> -->
+
+<!-- <li id="menu-1035-1" class="last sf-depth-2 sf-no-children"><a
+                              href="/marketing/whole-spices.html" class="sf-depth-2">Spices &amp; Spice Products</a>
+                          </li> -->
+
+</ul>
+
+</li>
+                      <!-- end -->
+
+</li>
+                      <li id="menu-760-1" class="last sf-depth-1 menuparent"><a
+                          class="sf-depth-1 menuparent">Notifications</a>
+                        <ul>
+
+<!-- <li id="menu-1469-1" class="first sf-depth-2 sf-no-children"><a
+                              href="/box3_events_calendar.html" class="sf-depth-2">Events</a></li> -->
+                          <li id="menu-1469-1" class="first sf-depth-2 sf-no-children"><a
+                              href="/trade/trade-notifications.html" class="sf-depth-2">Circulars</a></li>
+
+<li id="menu-1469-1" class="first sf-depth-2 sf-no-children"><a href="/events-training.html"
+                              class="sf-depth-2">Events/Training Programmes</a></li>
+
+<li id="menu-1104-1" class="middle sf-depth-2 sf-no-children"><a
+                              href="/marketing/download-forms.html" class="sf-depth-2">Download Forms</a></li>
+
+<li id="menu-1104-1" class="middle sf-depth-2 sf-no-children"><a
+                              href="/trade/annual_procurement.html" class="sf-depth-2">Annual Procurement</a></li>
+
+<li id="menu-761-1" class="middle sf-depth-2 sf-no-children"><a href="/tenders.html"
+                              class="sf-depth-2">Tender</a></li>
+                          <!-- <li id="menu-762-1" class="middle sf-depth-2 sf-no-children"><a
+                              href="/general-information/spice-news.html" class="sf-depth-2">Spice News</a></li> -->
+                          <li id="menu-773-1" class="middle sf-depth-2 sf-no-children"><a href="/opportunities.html"
+                              class="sf-depth-2">Opportunities</a></li>
+                          <!-- <li id="menu-1545-1" class="middle sf-depth-2 sf-no-children"><a
+                              href="/training-calendar.html" class="sf-depth-2">Training Programmes</a></li> -->
+                          <li id="menu-747-1" class="middle sf-depth-2 sf-no-children"><a
+                              href="/general-information/related-links.html" class="sf-depth-2">Related Links</a></li>
+                          <!-- <li id="menu-2463-1" class="last sf-depth-2 sf-no-children"><a href="/videos-0.html" title="Videos" id="Videos" name="Videos" rel="Videos" class="sf-depth-2">Videos</a></li> -->
+
+<li id="menu-762-1" class="middle sf-depth-2 sf-no-children"><a
+                              href="/general-information/spice-news.html" class="sf-depth-2">What's New</a></li>
+
+</ul>
+                      </li>
+
+<li id="menu-760-1" class="last sf-depth-1 menuparent"><a class="sf-depth-1 menuparent"
+                          href="/contact.html">Contact Us
+                        </a></li>
+                    </ul>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+
+</div><!-- /#header -->
+
+<div id="main-wrapper" >
+
+<div class="innerbanner">
+
+<img src="../../sites/all/themes/spices/images/innerbanner.jpg" alt="Inner Page Banner" />
+
+</div>
+
+<div id="main" class="clearfix" >
+
+<div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="../../index.html">Home</a> >> <a href="../trade-notifications.html">Circulars</a> >> Revision in Analytical Charges</div></div>
+
+<div id="sidebar-first" class="column sidebar">
+
+<div class="section">
+
+<div id="cssmenu">  <div class="region region-sidebar-first">
+    <div id="block-menu-block-1" class="block block-menu-block">
+
+<div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf active-trail menu-mlid-1469 dhtml-menu" id="dhtml_menu-1469"><a href="../trade-notifications.html" class="active-trail">Circulars</a></li>
+<li class="leaf menu-mlid-1104 dhtml-menu" id="dhtml_menu-1104"><a href="../../marketing/download-forms.html">Download Forms</a></li>
+<li class="leaf menu-mlid-761 dhtml-menu" id="dhtml_menu-761"><a href="../../tenders.html">Tenders</a></li>
+<li class="leaf menu-mlid-762 dhtml-menu" id="dhtml_menu-762"><a href="../../general-information/spice-news.html">Spice News</a></li>
+<li class="leaf menu-mlid-773 dhtml-menu" id="dhtml_menu-773"><a href="../../opportunities.html">Opportunities</a></li>
+<li class="leaf menu-mlid-1545 dhtml-menu" id="dhtml_menu-1545"><a href="../../training-calendar.html">Training Calendar</a></li>
+<li class="leaf menu-mlid-747 dhtml-menu" id="dhtml_menu-747"><a href="../../general-information/related-links.html">Related Links</a></li>
+<li class="last leaf menu-mlid-2463 dhtml-menu" id="dhtml_menu-2463"><a href="../../videos-0.html" title="Videos" id="Videos" name="Videos" rel="Videos">Videos</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+</div>
+
+</div>
+
+</div> <!-- /.section, /#sidebar-first -->
+
+<div id="content" class="column">
+
+<div class="section">
+
+<div class="element-invisible"><a id="main-content"></a></div>
+
+<h1 class="title" id="page-title">Revision in Analytical Charges</h1>                                                <div class="tabs"></div>
+
+<div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+<div class="content">
+
+<div id="node-1247" class="node node-trade-notifications clearfix" about="/trade/trade-notifications/revision-analytical-charges" typeof="sioc:Item foaf:Document">
+  <div class="lastupdate">Last updated on 01-08-2017, 09:46 HRS</div>
+  <div class="content">
+  	    <div class="field field-name-field-upload-file field-type-file field-label-hidden"><div class="field-items"><div class="field-item even"><iframe id="pdf_reader" src="http://docs.google.com/viewer?embedded=true&amp;url=http%3A%2F%2Findianspices.com%2Fsites%2Fdefault%2Ffiles%2FRevision%2520in%2520Analytical%2520Charges2017.pdf" width="700" height="780" scrolling="no" style="border: none;"></iframe><a href="../../sites/default/files/Revision%20in%20Analytical%20Charges2017.pdf" class="pdf-reader-download-link">Click here to download the PDF file.</a></div></div></div>  </div>
+
+</div>
+
+</div>
+</div>
+  </div>
+                    </div>
+
+</div> <!-- /.section, /#content -->
+
+</div>
+
+</div> <!-- /#main, /#main-wrapper -->
+
+<div class="region region-footer">
+    <div id="block-block-2" class="block block-block">
+
+<div class="content">
+
+<input type="hidden" id="current_page" value="/trade/trade-notifications/revision-analytical-charges">
+
+<div id="main-wrapper">
+<div id="main" class="clearfix">
+    <div id="content" class="section" style="background: #f2f2f2">
+        <div class="section">
+
+<div style="display:" class="breadcrumb-back"><button id="back-button" onclick="goBack()">Back</button></div>
+
+</div>
+    </div>
+</div>
+</div>
+<div class="footer" id="footer"> <!-- #footer -->
+
+<div class="wrapper1">
+
+<div class="fllterleft" style="width: 78%">
+
+<ul>
+
+<li>
+
+<a href="/citizens-charter.html">Citizens Charter</a>
+
+</li>
+
+<li style="width:598px">
+
+<a href="/lodge-complaint.html">Lodge Complaint</a>
+
+</li>
+
+<li>
+
+<a href="https://indianspices.org.in/CRES_new/e-r-o/exporters-registration/form/Registration.php">Online Exporter Registration</a>
+
+</li>
+
+<li>
+
+<a href="/spices-dyed-garments.html">Spices dyed Garments</a>
+
+</li>
+
+<li style="width:598px">
+
+<a href="/website-policy.html">Website Policy</a>
+
+</li>
+
+<li style="width:384px">
+
+<a href="http://ccsch.in/">Codex committee on Spices and culinary herbs(CCSCH)</a>
+
+</li>
+                                    <li style="width:485px;">
+
+<!-- <a href="http://spicespromo.blogspot.in/">Spices Facets</a> -->
+                                <a href="https://indianspices.org.in/ESS/">Export Support System and online Submission of Quarterly Export Return</a>
+
+</li>
+
+<li style="width:598px">
+
+<a href="https://www.ncwwomenhelpline.in/" target="_blank">Helpline for women in distress (7827170170, internalcommitteesbkochi@gmail.com)
+                </a>
+
+</li>
+
+</ul>
+
+</div>
+<div style="float:right;">
+            <a href="/videos.html"><img width="54%" src="/sites/all/themes/spices/images/footer-img.png" alt="Videos" title="Videos" /></a></div>
+
+<div class="clear"></div>
+
+</div>
+
+<div class="clear"></div>
+
+</div>
+
+<div class="copyrights">
+
+<div class="footer-left">&copy;&nbsp;Spices Board India, Ministry of Commerce & Industry, Govt. of India<br />
+
+<!---
+
+<a href="https://twitter.com/Spices_Board" target='_blank'>Twitter</a>&nbsp;|&nbsp
+
+<a href="https://www.facebook.com/Spices-Board-INDIA-569686233241370/" target='_blank'>Facebook</a>&nbsp;|&nbsp
+
+<a href="https://www.instagram.com/spicesboardi/" target='_blank'>Instagram</a>
+
+---->
+
+</div>
+
+<!-- <div class="footer-right" style="margin-top:10px;">
+
+<a href="https://www.facebook.com/Spices-Board-INDIA-569686233241370/" target="_blank" title="Facebook" style="margin-left:10px;" onclick="return confirm('You are now being redirected to an external link. Spices Board India does not take responsibility for the accuracy of the contents in those sites. ')" ><img
+
+src="/sites/all/themes/spices/images/socialMedia/facebook.png" width="25" height='25' alt="Facebook" ></a>
+
+<a href="https://www.instagram.com/spicesboardi/" target="_blank"  title="Instagram" style="margin-left:10px;" onclick="return confirm('You are now being redirected to an external link. Spices Board India does not take responsibility for the accuracy of the contents in those sites. ')"  ><img
+
+src="/sites/all/themes/spices/images/socialMedia/instagram.png" width="25" height='25'   alt="Instagram"></a>
+
+<a href="https://twitter.com/Spices_Board" target="_blank"   title="Twitter" style="margin-left:10px;" onclick="return confirm('You are now being redirected to an external link. Spices Board India does not take responsibility for the accuracy of the contents in those sites. ')"  ><img
+
+src="/sites/all/themes/spices/images/socialMedia/twitter.png" width="25" height='25'   alt="Twitter"></a>
+
+</div> -->
+
+</div> <div style="margin-bottom: 20px;margin-left: 18px;    font-size: 14px;">Last Updated:June 25 , 2026<br/></div><!-- #footer -->  </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div> <!-- /#page, /#page-wrapper -->
+
+<style type="text/css">
+
+.mg_div{
+
+right: 0;
+
+position: absolute;
+
+z-index: 99999;
+
+font-size: 12px;}
+
+.closeVisit{
+
+background: #c15c05;
+
+color: #fff;
+
+line-height: 25px;
+
+position: absolute;
+
+/*right: -6px;*/
+
+text-align: center;
+
+top: -10px;
+
+width: 24px;
+
+text-decoration: none;
+
+border-radius: 12px;
+
+cursor: pointer;
+
+}
+
+</style>
+
+<script type="text/javascript">
+
+jQuery('.closeVisit').click(function(){
+
+jQuery('.mg_div').remove();
+
+});
+
+</script>  <script type="text/javascript" src="/sites/all/themes/spices/js/customcdaa.js?pby5dm"></script>
+
+</body>
+
+</html>

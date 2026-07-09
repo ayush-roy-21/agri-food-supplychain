@@ -1,0 +1,215 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C03
+Parent Doc ID: A-MSME-100
+Page Range: Page 15 to Page 18
+Word Range: 2758 - 4166
+Word Count: 1,409
+--------------------
+
+[Page 15]
+15 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+in accessing international markets include information 
+gaps and limited access to finance. About 38% of the 
+respondents reported that integrating on e-commerce 
+platforms can help them overcome some of these 
+challenges.
+While market access and financing are major hurdles 
+for non-integrated firms, the primary challenges 
+faced by integrated firms are notably distinct, 
+necessitating a two-pronged approach to policy 
+intervention. Non-integrated firms continue to face 
+the conventional issues, including access to markets 
+and finance. Compared to this, top five challenges 
+ranked by integrated firms included unavailability of 
+skilled manpower to run online business, targeting 
+right customers online and marketing products, among 
+others. Thus, while it appears that e-commerce has been 
+able to subdue the conventional issues to an extent, 
+there is a need to address others, which are affecting 
+firms ability to fully leverage platforms. Notably, nearly 
+48% of integrated MSMEs suggested that there is a 
+need to address errors and delays like account de-
+listing, and logistics/payment delays, about 44% of 
+firms suggested that e-commerce companies should 
+work towards checking/reducing frauds. 
+Going forward, it is essential for the government 
+create a supportive digital ecosystem that empowers 
+MSMEs to leverage e-commerce opportunities.  
+Taking measures to strengthen cybersecurity, 
+enhancing access to technology and bridging 
+information gaps will be key to unlocking the sector’s 
+untapped potential. Moreover, fostering an ecosystem 
+enabling firms to maximise the second-order benefits 
+of e-commerce integration is important. This can 
+be achieved by developing supportive physical and 
+digital infrastructure that harness the advantages 
+of e-commerce integration. By addressing these 
+challenges, India can further accelerate enterprise 
+development, ensuring that MSMEs continue to play 
+a vital role in economic growth and employment 
+generation. 
+Executive Summary
+
+[Page 16]
+The Role of Digitalisation in Enterprise 
+Development
+Annual Survey of Micro, Small  
+and Medium Enterprises  
+(MSMEs) in India
+
+[Page 17]
+17 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Once considered vestiges of the informal sector, 
+micro, small and medium enterprises (MSMEs) now 
+dominate India’s enterprise landscape. 1 In 2023-24, 
+there were about 73.4 million unincorporated non-
+agriculture enterprises in the country, employing 120 
+million people and contributing 16.5% of the total gross 
+value added (GVA).2 There has been a 12.8% growth in 
+their number of and a 10% growth in their employment 
+count in 2023-24, compared to 2022-23. 
+To formally recognise MSMEs in India, a registration 
+process was introduced, now known as Udyam 
+registration.3 There are over 35 million firms registered 
+on the Udyam Portal and over 25 million firms registered 
+on the Udyam Assist Portal, which aims to formalise 
+the informal sector enterprises. These together employ 
+more than 250 million people. 4 MSMEs contribute 
+significantly to the national output, employment and 
+play a key role in India’s economic development. 
+Yet, MSMEs in India grapple with the issue of 
+low productivity.  Existing studies highlight that 
+productivity levels in MSMEs are about half that of 
+large enterprises, with the problem more pronounced 
+in emerging market economies. 5 In India, small 
+businesses are only one-fourth as productive as large 
+enterprises, exhibiting a wider gap than that in most 
+emerging market economies. 6 Larger scale generally 
+raises productivity on account of improved access to 
+intangible capital, global connections, and better access 
+to financial capital.7 
+The MSME sector is mainly informal and fragmented, 
+and so productivity levels tend to be low.  Micro-
+enterprises comprise the largest share of India’s MSME 
+sector. About 85% of unincorporated firms are own-
+account enterprises and more than 98% of the Udyam 
+registered enterprises are micro-sized. The share of 
+registered enterprises was only around 37% of the 
+total unincorporated non-agriculture enterprises in 
+2023-24. In the manufacturing sector, however, the 
+share of registered enterprises is much smaller. 10 
+These structural characteristics inhibit the enterprises’ 
+potential to scale up, without which they cannot 
+contribute to the national output and employment in a 
+sustainable manner. 
+Enterprise development, therefore, is key to India’s 
+growth and employment generation.  While there 
+is no universally accepted definition of ‘enterprise 
+development’, it can be understood to mean “the act 
+of investing time and capital to help people establish, 
+expand or improve business”. 11 It involves establishing 
+a new enterprise or scaling up an existing business to 
+become a key source of economic growth, employment, 
+and wealth creation. 12 In India, where there is a 
+predominance of small and informal-sector firms, 
+enterprise development initiatives can help firms scale 
+up and improve their productivity, thereby boosting 
+their output and employment generating potential. 13 
+To achieve this, tackling the fundamental challenges 
+hindering enterprise development is essential.
+Limited access to finance, markets, information, 
+and skilled labour are some challenges impeding 
+enterprise development in India. 14 Access to finance 
+is a significant bottleneck. Financial institutions 
+perceive MSMEs as high-risk borrowers due to a 
+lack of data on creditworthiness. 15,16 Globally, 79% of 
+loans require collateral. MSMEs typically do not have 
+fixed assets, machinery, or equipment. 17 On average, 
+fixed assets owned per establishment were valued 
+at INR 318,000 in 2022-23 for unincorporated non-
+agriculture enterprises, and the value was lower (INR 
+Introduction
+1. Introduction
+
+[Page 18]
+18 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Introduction
+215,000) when only manufacturing enterprises were 
+considered.18 In India, unsecured loans accounted for 
+only a quarter of the total credit disbursed by scheduled 
+commercial banks (as of March 2024); private banks 
+mainly lent this at relatively high-interest rates. 19 As 
+a result, MSMEs face higher borrowing costs than 
+larger firms due to the higher risk premiums charged 
+by lenders, exacerbated by informational asymmetries 
+that increase banks’ risk perception. 20,21
+MSMEs also lack adequate access to information and 
+markets, particularly international markets.  MSMEs 
+struggle to capitalise on market opportunities due 
+to their limited access to market information, the 
+high costs of accessing such information, and other 
+resource constraints. Additionally, trade barriers, 
+including standards, technical regulations, logistics, 
+and administrative procedures, disproportionately 
+affect MSMEs. 22 Their participation in global trade is 
+further hindered by asymmetric knowledge and a lack 
+of understanding of foreign markets. 23,24 
+Digitalisation can help address some of these issues and 
+accelerate enterprise development.  Digitalisation is a 
+key driver of enterprise development and an important 
+tool to address enterprises’ structural challenges. 
+Digitalisation brings operational efficiencies for SMEs, 
+directly supporting value creation and allowing these 
+firms to tap opportunities, enhance performance, 
+and embrace innovation and competitiveness. 25 
+Connectivity, Internet usage, and digital integration 
+help SMEs become sustainably competitive vis-à-
+vis larger firms. 26,27 Additionally, digital technologies 
+foster entrepreneurship by optimising processes, 
+improving decision-making, and enabling product 
+customisation.28 Therefore, enterprises must embrace 
+digitalisation and establish an online presence, 
+including developing websites, to enhance visibility and 
+recognition. Digitalisation promotes internal, systemic 
+efficiencies, and can also improve external linkages, 
+such as improved access to markets and finance, which 
+can contribute to enterprise development. 29 
+Although Internet usage is growing among 
+unincorporated-sector enterprises, its functions remain 
+limited. The use of the Internet for entrepreneurial 
+activities, such as online transactions, order placement, 
+and UPI payments, was about 26.7% in 2023-24 for 
+rural and urban areas combined. 30 In 2022-23, most 
+firms used the Internet for banking purposes (615 per 
+1000 establishments), followed by to access other 
+financial services (236 per 1000). A minute proportion 
+of firms used the Internet to make sales (81 per 1000) 
+and deliver products (27 per 1000). This suggests that 
+MSMEs are currently not optimally using the revenue 
+generating potential of digital interventions that can 
+significantly contribute to enterprise development. 
+Low usage is because MSMEs, particularly micro-
+enterprises, cannot independently innovate or 
+leverage full potential of technology-based tools and 
+platforms and often need external support to leverage 
+technology. Smaller businesses are often slow to 
+embrace digital technologies due to low awareness, 
+limited internal resources, skill gaps, and financial 
+constraints. Digitalising the vast and heterogeneous 
+MSME sector requires collaboration between the 
+various stakeholders. This can also create an enabling 
+environment for enterprise-level innovation, resource 
+sharing, skill development, and access to financial 
+and policy support. MSMEs require such assistance, 
+including access to common facility centres for 
+manufacturing, mentoring, and financial assistance, 
+particularly from large enterprises and government, for 
+their skill development and digital transformation. This 
+is where e-commerce platforms can play a role. 
+While some data on MSMEs’ internet usage exists, 
+qualitative insights on digitalisation’s impact on their 
+growth and development are lacking in the current 
+statistical system. Although the benefits of digitalisation 
+for small businesses are commonly acknowledged, 
+there is limited data to support these claims. To bridge 
+this gap, ICRIER surveyed 2,365 MSMEs across India

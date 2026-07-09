@@ -1,0 +1,138 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C05
+Parent Doc ID: A-RES-103
+Page Range: Page 15 to Page 17
+Word Range: 5543 - 6945
+Word Count: 1,403
+--------------------
+
+[Page 15]
+14 
+5.1.4.3 Official monitoring in EIC -approved export establishments (EIA monitoring  
+scheme) 
+29. Establishments approved by the EIC for export are inspected by the EIA every one to 
+three months depending on risk. Every six months samples are collected from all such 
+establishments and are tested in an EIC -approved laboratory for the presence of  
+antimicrobials including chloramphenicol, nitrofuran metabolites and tetracyclines. 
+5.1.4.4 Establishment own-checks 
+30. All three aquaculture processing establishments visited during the audit had, as part of 
+their Hazard Analysis Critical Control Points  system, a critical control point related to 
+residues in raw material inputs . One conducted in- house ELISA tests for nitrofurans 
+and had never found any non-compliant results. The other two processers sent samples 
+to an accredited private laboratory for analysis for a range of antimicrobials (covering 
+those banned and authorised in the EU), pesticides and heavy metals. 
+31. The dairy processing establishment visited had two own-check programmes in place for 
+residues. In the first, each batch of raw milk received at the establishment is tested with 
+a commercially available dipstick screening test for an timicrobials which covered 
+certain penicillins, cephalosporins, tetracyclines and sulphonamides  with national 
+maximum residue limits (MRLs ) in line with those applicable in the EU  (19).  Six 
+antimicrobials (including two cephalosporins ceftriaxon e and cefuroxime ), two 
+aminoglycosides ( gentamycin and streptomycin) and two fluoroquinolones  
+(enrofloxacin and marbofloxacin), all of which are on the list of a ntimicrobials for 
+dispensation to dairy cows by the veterinarians of the same dairy processing 
+establishment/cooperative, are not covered by the dipstick screening test .  Neither 
+ceftriaxone nor cefuroxime have a Maximum Residue Limit ( MRL) established in the 
+EU. The audit team was informed that the dipstick test had never been verified (i.e. 
+shown to work) by the laboratory staff in  the dairy processing establishment  and they 
+did not have access to ‘positive control’ samples or analytical st andards. No non-
+compliances had been found from January 2020 to August 2022.  In the second own -
+check programme, one sample was taken every two months from one of the 1,200 
+collection centres belonging to the dairy processing establishment  to be analysed f or 
+aflatoxin M1. Staff from the dairy cooperative informed the audit team, that to date 
+(and in marked contrast to the results found in the national residues plan – see finding 
+48), no non-compliances had been found for this contaminant.  
+32. The two poultry processors visited also operated self -monitoring p rogrammes for 
+residues and sent their samples to an ISO 17025- accredited EIA laboratory. The scope 
+of substances largely mirrored that of the poultry residue monitoring plan . To date no 
+non-compliances have  been found but  there are  instructions to notify the EIA in the 
+event of any non-compliances.  
+ 
+(19) Regulation (EU) No 37/2010
+
+[Page 16]
+15 
+Conclusions on other residue monitoring programmes 
+33. The PHT and PET schemes for aquaculture are implemented as planned by the 
+competent authorities  and they are useful in helping identify non- compliant batches 
+and preventing their certification by the EIC and consequent export to the EU.  
+Nevertheless, the difference in the non- compliance rates between the PHT and PET 
+programmes is hard to explain and has not been investigated by the competent 
+authorities.  The additional testing of the products under establishments’ own-control 
+programmes has the potential to provide further assurances on the compliance of the 
+commodities in question.   
+ 
+5.1.5 Follow-up of non-compliant results 
+Findings 
+5.1.5.1 Aquaculture 
+34. The EIC is responsible for coordinating the follow -up investigations  of RASFF  
+notifications. It calls on the concerned EIA to create an assessment panel comprising of 
+experts from the EIA, MPED A and the Central Institute of Fisheries Technology. The 
+role of the panel is to carry out documentary and on-the-spot verification at the relevant 
+processing establishments and farms.  
+35. The relevant EIA is responsible for coordinating the follow-up of non-compliant results 
+found in the respective residue monitoring plans . After transmitting the alert 
+notification along with the test results through an elect ronic system, a panel is created 
+consisting of the EIA, MPEDA and the concerned  CAA to jointly carry out 
+documentary and on-the-spot verification in the processing establishments and farms, to 
+take follow-up samples and to identify the origin  of the contamination. A joint report is 
+created and the EIAs are to take measures as required with regard to the processing 
+establishments or farms concerned; the CAA does likewise for the hatcheries that fall 
+under its jurisdiction.  
+36. The EIAs are also responsible for follow -up investigation s of PET non-compliant 
+results.  There is no legal requirement for the non- compliant ELISA results in the 
+MPEDA PHT programme to be followed up (20).  
+37. The residue monitoring plan contains documented procedures for the management of 
+non-compliant results  found in the residue monitoring plan and procedures are also 
+described in the EIC executive instruction for aquaculture species  (21). T hese 
+procedures largely address key elements of follow -up of non- compliant results as 
+ 
+(20) In its response to the draft report the c ompetent authority noted that MPEDA on its own, has investigated 
+all seven PHT positive cases to trace the root cause. 
+(21) Chapter 13 in the “National residue control plan for aquaculture products”  and chapter 10.2 of the 
+“Executive instructions for approval and monitoring of fish and fishery products for export”.
+
+[Page 17]
+16 
+expected in the EU  (22) and include measures such as an increase in the frequency of 
+inspections, compulsory residue tests of subsequent consignments, temporary 
+suspension, fines and revocation of the approval in the event of second time violations. 
+38. Based on information available on the EU RASFF portal and provided by the 
+competent authority during the audit, the audit team reviewed  11 cases that occurred 
+from 2019 to 2021. The se concerned the RASFF notifications for nitrofurans ( 8 cases), 
+chloramphenicol ( 2 cases) and dyes (1 case). In all cases follow -up investigations 
+commenced promptly and involved both the processing establishment as well as the 
+farms concerned .  In nine  cases a lack of product traceability was mentioned in the 
+report as the potential reason for the non- compliance and it was speculated that 
+contaminated product s of unknow n origin might have caused the non -compliance. In 
+three cases it was mentioned in the report that farmers had sold to middlemen who 
+might have mixed raw material from other farms , in the product that was then sent to 
+the processing establishment.   
+39. Measures taken in the event  of a RASFF notification, included in most cases the 
+temporary suspension of the processing establishments, increase in the frequency of 
+official controls and the establishments being officially instructed to be more vigilant 
+during their procurement of raw materials. In three cases, letters were sent to: MPEDA 
+requesting it to revoke the  registration of the  farm involved ; the Commission of 
+Fisheries of the state  and the CAA, requesting them to take actions and to the Seafood 
+Exporters Association requesting it to inform its members not to purchase raw materials 
+from the farm concerned. 
+40. With regards to r esidue monitoring plan results, the non-compliance rate for Group A6 
+substances (chloramphenicol and nitrofurans) varied by year and by sampling site type. 
+For samples drawn from aquaculture farms and processing establishments  these were, 
+by year:  2018: 7 cases – 0.37%; 2019: 18 cases  - 0.81%, 2020: 6 cases – 0,29% and 
+2021: 23 cases – 0.9%.  Regarding samples drawn from aquaculture hatcheries : 2018: 
+70 cases – 38%, 2019: 32 cases – 18%, 2020: 44 cases – 20% and 2021: 52 cases –  
+20%).  Also, 2021 was the first year in which all 259 hatcheries were sampled for the 
+presence of substances in Group A6.  With regard to samples of aquaculture feed  
+analysed for chloramphenicol and nitrofurans between 2018 to 2021, there were no 
+non-compliant results in the 13 to 19 samples taken each year.   
+41. The above data demonstrate that, notwithstanding the ban on use of chloramphenicol 
+and nitrofurans  in Indian aquaculture  (
+23) illegal use, particularly at hatchery level 
+remains a sizable problem.  In contrast, there were no non- compliant results for other 
+antimicrobial substances in Group B1 from samples taken between 2018 and 2021 with 
+around 2,500 samples being analysed each year (for a limited scope of substances) and 
+since 2019 approximately 459 samples (1% of all samples) being analysed for an 
+extended scope of substances.  
+ 
+(22) Regulation (EU) 2019/2090. 
+(23) Order S.O. 722 (E) of 10/07/2002.

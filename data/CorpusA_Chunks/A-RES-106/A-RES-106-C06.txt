@@ -1,0 +1,113 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-106-C06
+Parent Doc ID: A-RES-106
+Page Range: Page 16 to Page 17
+Word Range: 7378 - 8806
+Word Count: 1,429
+--------------------
+
+[Page 16]
+and North America. According to Akrong et al. ( 2022 ) and Kleemann et al. ( 2014 ), certification positively 
+impacted the quantity sold to high-value markets and increased the income of smallholder mango and 
+pineapple farmers by about 20%. Furthermore, Smith ( 2010 ) and Ingram et al. ( 2018 ) observed that VSSs 
+generated spillover effects, such as the exchange of knowledge and practices, which also benefited non- 
+certified farmers in the production area.
+4.2.6.  Market dynamics
+An important cross-cutting finding emerging from this review is that, in several export-driven value chains, 
+certification increasingly functions as an institutionalised governance mechanism rather than a purely 
+voluntary tool. For example, in the cocoa and coffee value chains, producers often encounter implicit 
+pressures to adopt certification because it serves as a de facto entry requirement for international buyers 
+(Grassnick et al., 2021 ). This quasi-mandatory character of VSSs has important implications for farmers’ 
+bargaining power and livelihood strategies, reinforcing the need to interpret certification not only as a 
+sustainability instrument but also as a form of market governance that shapes the inclusion and exclusion 
+of smallholder farmers within global value chains (Bennett, 2017 ; Ponte, 2019 ).
+These power dynamics along the value chains intersect with several market challenges that affect the potential 
+benefits of adhering to voluntary standards, particularly in the context of the rice value chain in Vietnam. As 
+emphasised by Stuart et al. ( 2018 ), Vietnamese farmers face significant challenges such as the lack of established 
+channels for certified rice. Additionally, Demont and Rutsaert ( 2017 ) identified other limitations: i) poor linkages 
+among stakeholders; ii) the absence of a national and international brand reputation, as Vietnam primarily trades 
+low-quality rice; and iii) the high use of pesticides to manage insect pests and plant diseases, even among farmers 
+adopting VSSs. These constraints together with other market asymmetries, such as information and infrastructure 
+gaps, hinder the adoption and scaling of VSSs in the rice value chain in Vietnam (Stuart et al., 2018 ).
+4.3.  Environmental dimension
+The ensuing subsections examine relevant environmental aspects of VSS adoption by smallholder farmers. 
+First, we assess how VSSs promote sustainable practices, such as IPM and water conservation techniques. 
+Next, we evaluate the challenges in fully implementing these practices, including limited financial resources 
+and inadequate training. Finally, we address the impact on biodiversity and the preference for monocrop -
+ping systems within certain VSS schemes.
+4.3.1.  Adoption of sustainable practices
+Mauthofer and Santos ( 2022 ) and Klier and Possinger ( 2012 ) found that certified cocoa farmers in Ghana 
+show a greater understanding and awareness of environmental issues due to trainings on IPM and soil 
+improvement practices (e.g. use of compost and manure), which also enhance yield. Fenger et al. ( 2017 ) 
+revealed that certified cocoa farmers reduced the frequency of burning over a 5-year period to comply with 
+specific VSS objectives. Moreover, they implemented measures such as establishing buffer zones along farm 
+boundaries and near rivers and other water bodies to minimise agrochemical leaching and contamination 
+(Fenger et al., 2017 ). According to Stuart et al. ( 2018 ), certified farmers embraced water-saving techniques 
+like alternate wetting and drying (AWD) to optimise irrigation times and reduce water consumption in rice 
+cultivation. Akrong et al. ( 2023 ) observed that certified mango farmers in Ghana reduced their reliance on 
+inorganic fertilisers, pesticides and herbicides, opting instead for indigenous methods of weed control. 
+Moreover, farmers adhering to organic standards, while reducing their dependency on chemical inputs, 
+increase the use of natural fertilisers and recycle nutrients, contributing to improved soil health and 
+enhanced water retention in crop fields. Waarts et al. ( 2015 ) noticed also improved pesticides handling 
+among certified farmers, observing: i) better health and safety practices, such as proper chemical waste 
+disposal; ii) increased adoption of measures to reduce water contamination; and iii) enhanced use of 
+personal protective equipment (PPE). In addition, Bennett and Franzel ( 2013 ) found that eliminating 
+hazardous chemicals and promoting the use of PPE significantly reduced injury rate among certified 
+producers. However, Klier and Possinger ( 2012 ) emphasised that, while training on the use of fertilisers 
+and chemicals was crucial for creating a safer work environment, farmers could not afford to buy 
+expensive PPE.
+INTERNATIONAL JOURNAL OF AGRICULTURAL SUSTAINABILITY
+ 15
+
+[Page 17]
+4.3.2.  Barriers to implementation of sustainable techniques
+According to Waarts et al. ( 2015 ), many certified farmers did not fully adopt recommended sustainable practices 
+due to several reasons: i) budget constraints; ii) lack of tools and equipment; iii) insufficient training provisions 
+over time. Consequently, some certified farmers reported only small improvements in environmental indicators, 
+whereas non-certified farmers observed a deterioration in environmental performance in the long time (Nelson 
+et al., 2013 ). As noted by Smith ( 2010 ) banana certified farmers struggle to fully apply sustainable farming 
+techniques until they see proof of their efficacy from early adopters, while Klier and Possinger ( 2012 ) highlighted 
+that 10% of farmers in the cocoa plantations were not landowners, and thus did not benefit from access to 
+training programmes, making them unable to apply newly learned methods. Smith ( 2010 ) observed a significant 
+decline in the use of sustainable practices over time, even among certified banana farmers. This decline also 
+suggested that other factors (e.g. increased international demand for coca) might have conflicted with the 
+adoption of sustainable practices and contributed to the further adoption of detrimental practices (e.g. 
+deforestation, slash and burn). Furthermore, Smith ( 2010 ) pointed out that the increased environmental 
+requirements promoted by VSSs sometimes lacked sufficient technical guidance, which posed challenges for 
+farmers in fully implementing these environmental standards.
+Even under VSSs, the high use of inputs presented significant challenges in Vietnam. Ho et al. ( 2018 ) and 
+Hung Anh et al. (2019) highlighted that certified coffee production is often based on the excessive use of 
+chemical and water inputs. Similarly, Tu et al. ( 2019 ) also noted that certified rice farmers in Vietnam's 
+Mekong Delta (MKD) often use inputs, like certified seeds, inefficiently, contributing to both poor economic 
+and environmental indicators. High agrochemical dependence not only reduced biodiversity and degraded 
+water quality and soil fertility but also heightened farmers’ exposure to market volatility. As fertiliser and 
+pesticide prices transmit external shocks (e.g. trade tariffs and restrictions), they erode margins and liquidity 
+and increase the risk of indebtedness for farmers (Régnier et al., 2025 ).
+Despite the availability of more ecologically efficient traditional farming techniques, such as floating rice, 
+and local rice varieties that are more resilient to climate change effects (e.g. drought and floods), farmers 
+often perceive these practices as technically less effective than those promoted by private and public 
+extension services (Tu et al., 2019 ).
+4.3.3.  Biodiversity
+Smith ( 2010 ) pointed out that VSSs do not address issues associated with monocropping systems, which 
+negatively impact ecosystems and natural resources by reducing biodiversity and crop resistance to pests 
+and diseases. This, in turn, led to more frequent chemical treatments in banana plantations, depleting soil 
+fertility and reducing yields in the long run (Smith, 2010 ). Similarly, Oosterveer et al. ( 2014 ) reported that 
+the oil palm varieties adopted by VSSs were high-yielding, rather than local cultivars, which were preferred 
+by the industry for their high productivity and standardised characteristics, thereby reducing oil palm 
+biodiversity at the field level and affecting local dietary patterns. Consistently, Wätzold et al. ( 2025 ) 
+observed that VSSs in Ghana's cocoa sector provided limited ecological benefits, showing no significant 
+impact on biodiversity indicators like vegetation structure and animal diversity. Likewise, prior studies note 
+that many certification schemes lack robust biodiversity monitoring frameworks and consistent indicators, 
+which constrains the ability to detect ecological change over time (Castka et al., 2016 ; Potts et al., 2016 ).
+4.4.  Challenges and trade-offs
+The following subsections aim to explore how VSS adoption might exacerbate existing disparities among 
+farmers, focusing on: i) gender inequalities, ii) the distribution of price premiums, and iii) differences 
+between small and large landholders.
+4.4.1.  Women involvement in VSSs
+According to Smith ( 2010 ), while no wage differences were found between men and women performing the 
+same duties on banana plantations, women were often assigned to lower-level tasks, negatively impacting their 
+overall earnings. A study by Mauthofer and Santos ( 2022 ) indicated that female cocoa farmers under VSSs 
+remained more vulnerable and marginalised compared to their male counterparts. Nelson et al. ( 2013 ) observed 
+that men generally dominated decision-making around income control, with no significant changes in intra- 
+16
+ R. D’ANNOLFO AND F. DEMARIA

@@ -1,0 +1,217 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C06
+Parent Doc ID: A-RES-100
+Page Range: Page 36 to Page 44
+Word Range: 6583 - 7933
+Word Count: 1,351
+--------------------
+
+[Page 36]
+State of Supply Chain Sustainability 202536
+Having identified the technologies perceived to offer
+the greatest emissions-reduction potential, our
+survey next examined the barriers companies face in
+implementing them. Respondents highlight
+infrastructure and economics as the main challenges
+to scaling cleaner freight, with limited charging and
+refueling networks at the top of the list, followed by
+high upfront costs and range or operational
+limitations that complicate real-world duty cycles.
+Policy gaps and uncertain incentives create additional
+friction, while concerns about technology readiness,
+reliability, return on investment, and some cultural
+resistance reduce investment interest. The path
+forward depends on building the infrastructure,
+lowering vehicle and fuel costs, and strengthening
+policy support.
+Figure 22: The Significance of Biofuels, Electric Vehicles, and Hydrogen In Reducing Emissions in the Short-Term
+(1–3 years) and Long-Term (4-10 years)
+Key Enablers and Barriers for Scaling
+Sustainable Freight Solutions
+High
+Impact
+Moderate
+Impact
+Short-Term Long-Term
+HydrogenElectric VehicelsBiofuels
+
+[Page 37]
+Issue No.06
+37
+Figure 23. Hurdles in the Adoption of Lower-Emission Technologies in the Freight Transportation Sector  
+(multiple response)
+Policy uncertainty
+and technology
+doubts slow
+adoption, with gaps
+in incentives,
+reliability concerns,
+and cultural
+resistance holding
+back investment.
+
+[Page 38]
+State of Supply Chain Sustainability 202538
+Figure 24. Regional Hurdles in the Adoption of Lower-Emission Technologies in the Freight Transportation Sector
+(multiple response)
+As shown in Figure 24, regional comparisons reveal that North American respondents cite lack of regulatory
+incentives (18.8%) and industry resistance to change (18.8%) as primary barriers. Interestingly, in Europe, no
+one listed resistance to change as a barrier, which indicates that changes in the transportation industry are
+anticipated and accepted as necessary in the near future.
+In Europe, respondents place roughly equal weight on high upfront costs, lack of regulatory support,
+technology readiness and reliability issues, and uncertain return on investment—reflecting a broader set of
+concerns that extend beyond infrastructure. This indicates that while financial and cultural factors are
+dominant in North America, European stakeholders face a more diverse set of obstacles. The differences
+showcase the need for different strategies to increase adoption: tackling costs and industry mindset in North
+America and supporting technology readiness, reliability, regulatory incentives, and investment certainty in
+Europe.
+
+[Page 39]
+Issue No.06
+39
+Businesses adopt a tiered approach to cutting freight emissions, prioritizing quick, low‑barrier actions before
+considering longer-term or market‑based strategies. Figure 25 illustrates how respondents rank four
+strategies, operational efficiency, investment in low‑emission assets, carbon offsets, and emissions trading—
+in terms of their importance for lowering freight transportation emissions, with 1 being the most important,
+and 4 being the lowest. Operational efficiency (such as route optimization, load consolidation, and fuel
+management) is most often ranked as the top strategy, highlighting its immediate cost savings and ease of
+implementation. Investing in low‑emission assets (for example, electric or alternat
+ive‑fuel vehicles) usually
+comes in second, indicating selective but increasing capital investment. Carbon offsets and emissions trading
+tend to be ranked lower, suggesting they are secondary measures rather than primary drivers for freight
+decarbonization.
+When evaluated together, the findings from this year’s freight transportation section highlight both the
+urgency and complexity of decarbonizing a sector that remains central to Scope 3 emissions. Companies see
+biofuels as the most practical near-term lever, with battery-electric solutions gaining traction where
+operational fit allows, and hydrogen positioned as a longer-horizon bet for heavy-duty applications. Yet
+technology optimism is tempered by persistent barriers, such as the costs, infrastructure gaps, policy
+uncertainty, and industry inertia. The strategies companies prioritize today tend to be operational efficiency
+and selective low-emission asset investments, which shows a pragmatic sequencing of action, where
+immediate, low-barrier measures build the foundation for scaling transformative technologies. For business
+leaders, policymakers, and investors, the path forward will depend on aligning incentives, infrastructure, and
+capital to accelerate adoption, while recognizing that decarbonization progress will emerge unevenly across
+markets and modes.
+Figure 25. Strategies Ranked by Importance for Reducing Emissions in Freight Transportation,  
+with 1 being the most important and 4 the least important.
+Prioritizing Strategies for Freight Decarbonization
+
+[Page 40]
+State of Supply Chain Sustainability 2025
+CONCLUSION &
+NEXT STEPS40
+The 2025 State of Supply Chain Sustainability report
+confirms what many leaders already sense: sustainability
+is no longer peripheral to supply chain strategy, it is
+central to competitiveness, resilience, and long-term
+growth. Based on a global survey of 1200+ companies
+across sectors, three implications emerged. Despite
+regulatory uncertainty, economic pressures, and
+operational challenges, companies remain committed to
+advancing sustainability, often driven as much by
+investors, boards, and customers as by government
+policy. Importantly, businesses that make their
+sustainability goals explicit are far more likely to embed
+them into daily decisions and invest in high-impact
+initiatives, underscoring that transparency and effective
+execution are key enablers of meaningful progress.
+Scope 3 emissions remain the defining challenge. The
+single biggest obstacle to Scope 3 measurement is
+supplier data availability, or lack thereof. Supply chains
+are complex, and tracking the emissions requires data-
+intensive work and is heavily dependent on supplier
+collaboration, yet this also represents the greatest
+opportunity for impact. Without access to activity-level
+or product-specific data, even motivated businesses
+struggle to calculate accurate emissions. Companies are
+beginning to move beyond spreadsheets toward more
+sophisticated tools, closer supplier engagement, and
+industry collaborations that align standards and create
+shared momentum. Industry collaborations via research
+consortia are a key piece for coping with this challenge
+in a more unified way, ensuring that different entities in
+the supply chain (i.e. upstream and downstream) start
+working together, making it not only possible to
+measure and track Scope 3 emissions, but shaping the
+future with actions that lay the groundwork for credible,
+scalable, and impactful Scope 3 emissions management.
+
+[Page 41]
+Issue No.06
+Transportation, one of the largest Scope 3 categories, illustrates both the barriers and opportunities ahead.
+Companies are prioritizing operational efficiency today while investing selectively in low-emission
+technologies. Biofuels provide near-term impact, battery-electric is gaining traction where operationally
+feasible, and hydrogen holds promise for the longer term. The diversity of approaches underscores a
+pragmatic sequencing of action: solve what can be solved now, while preparing for the breakthroughs of
+tomorrow.
+41
+2025 sends a clear signal:
+Sustainability still matters. 
+Progress is accelerating, and
+companies that act with focus,
+transparency, and collaboration
+will define the future of
+sustainable supply chains.
+Above all, this year’s findings are optimistic. More than half of businesses report high confidence in meeting
+their sustainability goals, and those with public commitments and transparent reporting are the most likely to
+embed sustainability into daily decision-making. Industry collaborat ions are expanding, digital solutions are
+maturing, and leaders are increasingly aligning sustainability with value creation.
+The path forward will not be uniform across regions or industries, but the path forward is clear. Sustainability
+is now embedded in business strategy, supply chain management, and investment decisions. By continuing
+to strengthen supplier partnerships, adopt innovative tools, and collaborate across sectors, companies can
+not only meet their climate commitments but also unlock new sources of efficiency, resilience, and growth.
+
+[Page 42]
+This project is made possible by the generous
+efforts of a group of dedicated contributors
+and collaborators.
+Sponsors
+C.H. Robinson
+Lead Investigator
+Dr. Josué C. Velázquez Martínez
+Writing and Editing
+Dr. Sreedevi Rajagopalan
+Victoria Arnold
+Dr. Camilo A. Mora Quiñones 
+Survey Design
+Martin Staadecker
+Report Layout
+Victoria Arnold
+Maria Jose Chiang Rebatta 
+CSCMP Team
+Mark Baxa
+Matthew Mallard
+Communications and Media Team
+Deborah Koller Jerome 
+Mackenzie Berry
+Emma Perakis
+Chris Frontiero
+42 State of Supply Chain Sustainability 2025
+CONTRIBUTORS
+APPENDICESAPPENDICESAPPENDICES
+
+[Page 43]
+Issue No.06
+REFERENCES
+43
+ Scope 3: How our accredited solutions providers can help you tackle indirect emissions  (2022)
+CDP. Available at: https://www.cdp.net/en/articles/companies/Scope-3-how-our-accredited-
+solutions-providers-can-help-you-tackle-indirect-emissions. 
+1
+Steelzero Available at: https://www.theclimategroup.org/steelzero2 
+ RE100  Available at: https://www.there100.org/ 3
+ MIT Global Scale  Available at: https://scale.mit.edu/ 4
+ Scope 3 calculation guidance: GHG protocol (2013) Greenhouse Gas Protocol. Available at:
+https://ghgprotocol.org/Scope-3-calculation-guidance-2. 
+5
+ Kosolpatanadurong, D. and Gupta, H. (2024) Supply Chain Emission Hotspot and Allocation
+Method Analysis. Capstone.
+6
+CORRECTIONS
+Version 2- Oct 16th, 2025: Updated the key for Figure 24.
+Version 3- Oct 28th, 2025: Updated pages 21 and 22 to correct the text on tools and technologies
+for measurement of Scope 3 emissions to align with Figure 7. Updated colors on page 28.
+Version 4- Nov 13th, 2025: Updated pages 12 Methodology typo
+
+[Page 44]
+www.sustainable.mit.edu
+ISSUE NO.06

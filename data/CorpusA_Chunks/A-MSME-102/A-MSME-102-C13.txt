@@ -1,0 +1,236 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C13
+Parent Doc ID: A-MSME-102
+Page Range: Page 72 to Page 75
+Word Range: 16188 - 17528
+Word Count: 1,341
+--------------------
+
+[Page 72]
+72
+43
+The food processing and manufacturing cluster 
+in India engaged approximately
+Lakh workers 
+in 2020-21,
+experiencing a notable 16% increase in average wages since 2017-18.
+11.65%   10.22%.
+ » Uttar Pradesh emerged as the leading state, boasting the 
+highest share in both workforce and wages for this cluster at
+Maharashtra, Tamil Nadu, West Bengal, and Rajasthan followed with shares of 10.26%, 
+9.02%, 8.97%, and 7.59% in workforce, respectively. Notably, with the exception of Ladakh, 
+Mizoram, and Sikkim, all states demonstrated activity in the food processing sector, with 
+lower participation in Lakshadweep, Meghalaya, Chandigarh, and Daman and Diu. 
+&
+ » Punjab, despite contributing a modest 3.98% to the workforce, commanded a 5.54% share in 
+average wages, while West Bengal, with an 8.9% workforce share, only held a 3.35% share in 
+average wages.
+Upstream Activities 
+ » Uttar Pradesh continued to dominate with a 15.12% share in workforce and a 9.85% share 
+in average wages. Maharashtra, West Bengal, and Bihar followed with shares of 8.45%, 7.9%, 
+and 7.5% in workforce, respectively. Notably, despite having lower workforce shares (4.99% 
+and 4.38%), Madhya Pradesh and Rajasthan made substantial contributions to average 
+wages, with shares of 5.82% and 5.4%, respectively. West Bengal, with a high workforce 
+share of 7.9%, held a comparatively low share of 2.41% in total average wages for the cluster.
+ » Whereas, delving into the food processing and manufacturing cluster in Uttar Pradesh, a 
+notable 11.78% increase in the workforce and a substantial 34.61% increase in total wages 
+were observed in 2020-21 compared to 2017-18. The cluster displayed a dispersed pattern 
+across districts of Uttar Pradesh, lacking significant specialization. 
+ » Notably, Ghaziabad, Varanasi, Sitapur, and Balarampur covered the highest share in wages, 
+while Shahjahanpur, Pilibhit, Kapur Nagar, and Jhansi contributed the most to the workforce. 
+This lack of concentrated specialisation may be attributed to the state’s large size and 
+population.
+ » Similarly, in Maharashtra, districts such as Pune, Sangli, Kolhapur, and Nashik held 
+substantial shares in the workforce, with Pune leading at 14.50%. However, their shares in 
+average wages were slightly lower, indicating a disparity in productivity. Mumbai Suburban,
+
+[Page 73]
+73
+with a 9.91% share in wages, employed only 3.57% of the workforce in the food processing 
+cluster. Thane contributed 5.82% to total wages with a 4.91% share in the workforce. 
+Despite Pune having the highest workforce share, its contribution to wages was only 4.55%. 
+This trend was also observed in other districts, suggesting a nuanced relationship between 
+workforce distribution and wage contribution in Maharashtra’s food processing sector.
+Chemical Products3.
+Value addition in the chemical sector
+            The comprehensive analysis of value addition in the Chemicals 
+sector from 2014 to 2022 takes into account the specific 
+distribution of enterprises within cluster . Out of the 
+total 1512 enterprises assessed, the manufacture of 
+basic chemicals, fertilizer and nitrogen compounds, 
+plastics, and synthetic rubber in primary forms 
+constitutes 48%, highlighting its substantial 
+presence in the industry. The steady and 
+remarkable increase in value addition in this sub-
+cluster underscores its dominant role, particularly 
+in upstream activities. Similarly, the manufacture 
+of other chemical products, representing 49% of 
+the assessed enterprises, displays consistent growth, 
+especially in 2022, indicating the      
+       prominence of downstream activities. The manufacture of man-made 
+fibres, although comprising 3% of the enterprises, exhibits noteworthy fluctuations and an 
+overall positive trend, emphasizing the need for careful consideration in the analysis.
+49%
+48%
+3%
+basic chemicals, 
+fertilizer and nitrogen 
+compounds, plastics, 
+and synthetic rubber
+Other Chemical 
+products
+Basic man-made 
+fibres
+Value added in 
+upstream and 
+downstream 
+activities of 
+chemical cluster 
+with sales < 250 
+crores
+Fig. 12
+0
+200000
+400000
+600000
+800000
+Rs. millions
+1000000
+1200000
+1400000
+1600000
+1800000
+2014 2015 2016 2017 2018 2019 2020 2021 2022
+Manufacture of 
+basic chemicals, 
+fertilizer and nitrogen 
+compounds, plastics 
+and synthetic rubber 
+in primary forms
+Manufacture of other 
+chemical products
+Manufacture of 
+man-made fibres
+
+[Page 74]
+74
+In light of these insights, the Chemicals sector portrays a dynamic landscape where both 
+upstream and downstream activities coexist and contribute significantly to the overall value 
+addition. The dominance of basic chemical production, coupled with the growth in other 
+chemical products, highlights the sector's adaptability and competitiveness. The relatively 
+smaller share of enterprises involved in the manufacture of man-made fibres suggests a 
+specialized niche within the industry, warranting focused attention in understanding its unique 
+dynamics. This nuanced analysis underscores the importance of considering the diverse 
+composition of enterprises when evaluating the performance and trends within the Chemicals 
+sector.
+Workforce Trends 
+In the fiscal year 2022-23, the chemical industry in India was analyzed across two distinct 
+clusters: upstream chemical and downstream chemical. The cumulative workforce within 
+these clusters amounted to approximately 8.4 lakh workers, constituting 0.34% of the total 
+payroll across all clusters. 
+In the downstream chemical cluster
+ » Virudhunagar in Tamil Nadu emerged as the district with the highest workforce share at 
+16.31%, followed by Thane in Maharashtra (7.83%), Bharuch (6.36%), and Valsad (4.73%) 
+in Gujarat. Notably, these districts witnessed substantial increases in workforce shares 
+compared to 2017-18. 
+0 10,000 20,000 30,000 40,000 50,000 60,000 70,000 80,000 90,000
+Number of workers
+₹ 0
+₹ 100,000
+₹ 200,000
+₹ 300,000
+₹ 400,000
+₹ 500,000
+₹ 600,000
+₹ 700,000
+₹ 800,000
+₹ 900,000
+₹ 1,000,000
+₹ 1,100,000
+Average wages
+Aurangabad
+Gurgaon
+29
+Raigarh Udaipur
+BangaloreJind
+Dhar
+Nashik
+Mumbai Suburban Ahmedabad
+Sangrur
+Nagpur
+Chittoor ThaneKrishnaHugliIndore
+Haora
+DarjilingRaisen Buldana
+0 50,000 1,00,000 1,50,000 2,00,000 2,50,000
+Number of workers
+₹ 0
+₹ 50,000
+₹ 100,000
+₹ 150,000
+₹ 200,000
+₹ 250,000
+₹ 300,000
+₹ 350,000
+₹ 400,000
+Average wages
+Pune
+Kancheepuram
+Aurangabad
+29
+SataraKolar
+Jammu North West Delhi
+Gurgaon ChennaiRaigarh
+Thane
+Solan
+BangaloreCoimbatore Ghaziabad
+Meerut
+AhmedabadKanpur Nagar
+Krishna
+Alwar
+Bhopal North Twenty Four Parganas
+Indore
+South Twenty Four ParganasSalem Surat
+Guntur
+Raisen LucknowAnantapurRaipurBastar
+Bara Banki
+Top 100 Districts - Downstream 
+Chemical Clusters
+Top 100 Districts - Upstream Chemical ClusterFig. 13
+
+[Page 75]
+75
+In the upstream chemical cluster
+ » Thane and Bharuch again emerged as the leading districts with 10.17% and 8.90% shares 
+in the workforce, respectively. Gujarat maintained the highest state-level share in the 
+workforce (27%) and average wage (14.45%) for upstream chemical clusters, despite 
+experiencing declines in both workforce and average wages from 2017-18 to 2020-21. 
+Maharashtra, Jharkhand, and Tamil Nadu followed suit in terms of state-level shares.
+ » Gujarat’s nine districts with upstream chemical clusters exhibited varying workforce and 
+average wage shares. Bharuch led with 32.89% in workforce and 17.27% in average wages, 
+while Vadodara contributed 25.06% to the workforce and 8.27% to average wages. Kheda 
+experienced a notable increase from 0.5% to 9.6% in workforce share and from almost 0% to 
+17.48% in average wage share from 2017-18 to 2020-21.
+ » Jharkhand, with three districts in the upstream chemical cluster, witnessed Purbi Singhbum 
+commanding the highest workforce share at 81.25%, while Sarai Kela-Kharsawan exhibited 
+a noteworthy 76.87% share in average wages with an 8.05% workforce contribution. Ranchi 
+contributed 10.70% to the workforce and 13.48% to average wages. The state exhibited 
+growth in both workforce and average wages shares from 2017-18, indicating the evolving 
+landscape of chemical clusters.
+Automotive 4.
+Value addition in Automotive Sector
+The examination of value added by 327 enterprises with yearly sales less than 250 crore, 
+covering the period from 2014 to 2022, provides crucial insights into the automotive industry's 
+performance:
+ » The steady and continuous growth observed between 2014 and 2017 indicates a resilient 
+and expanding automotive industry throughout this time period. However, a notable 
+contraction occurred in 2018, characterised by a decline of 10.81%. This decline suggests 
+that the industry may have faced potential challenges or disruptions during that particular 
+fiscal period. The aforementioned negative trajectory continued into 2019 and 2020, during 
+which it experienced additional declines of 7.17% and 14.09%, respectively. These figures 
+seemingly arose from the influence of wider economic conditions, global trends, and sector-
+specific obstacles. 
+ » Mysore, Karnataka, claimed the highest share in average wages at 11.78%, despite having a 
+modest 1.96% share in the workforce. Conversely, districts with high workforce shares, such 
+as Virudhunagar, exhibited lower shares in average wages (0.30%). Gujarat, Tamil Nadu, and 
+Maharashtra dominated in terms of both workforce and average wage shares at the state 
+level.

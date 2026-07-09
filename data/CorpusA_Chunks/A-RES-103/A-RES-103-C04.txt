@@ -1,0 +1,137 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C04
+Parent Doc ID: A-RES-103
+Page Range: Page 12 to Page 14
+Word Range: 4074 - 5542
+Word Count: 1,469
+--------------------
+
+[Page 12]
+11 
+EU requirements  (12). In line with these instructions, sa mpling is unforeseen, spread 
+throughout the year  and covers the main production area s. Furthermore, residue 
+monitoring samples are collected  using adequate sampling material , sealed and 
+transported ensuring their integrity, traceability and legal validity.  
+13. The 2021 residue monitoring plan for aquaculture (including samples at all hatcheries 
+to be analysed for nitrofurans and chloramphenicol) and the 2021/22 plans for milk and 
+poultry were implemented as planned.  
+14. For milk the EIC instruction on how to implement the residue monitoring plan reduces 
+the likelihood of detecting substances included in Group A6 (banned antimicrobials) 
+and Group B1 (antimicrobials)  and in Group B2a (anthelmintics) .  This is due to the 
+fact that the EIC instructed their laboratory to divide the total number of samples in to 7 
+subsets that are each analysed with a multiresidue method, but where only certain 
+substances included in the multi -residue method had to be reported in a given subset . 
+Thus, if a non- compliance had been found for any of the other substances included in 
+the subset´s multiresidue method it would not have been reported as a non -compliance.  
+This is contrary to what would be expected in the EU (13). 
+15. Similar to EU rules, aquaculture s amples to be analysed for Group A were taken at 
+farm/hatchery level at all stages of farming  (14). Milk samples were taken from 
+individual farms when delivered to  milk collection centres  (15) and poultry samples to 
+be analysed for  substances in Group A were taken both at farm and at slaughterhouse 
+level (16). There was a mechanism to  avoid that samples were taken from the same 
+farms, either at farm level or at processing establishment level. At one poultry 
+processing plant visited by the audit team all 9 2 of the farms supplying it (and all of 
+which intend to provide for the EU market, should India be successfully listed in the 
+requisite EU Regulations for animal health, public health and residues)  were eligible to 
+be sampled.  For the second processor visited, 723 out of the 1,937 farms supplying it 
+were deemed to be able to supply to the EU market (as per the caveats above)  and this 
+second processor had specific days on which only poultry from thos e 723 farms would 
+be processed and from which residue monitoring samples were taken.  
+16. The implementation of the aquaculture national residue monitoring plan is  regularly 
+monitored through an on- line data base by MPEDA which notifies all of the MPEDA 
+offices/centres and the EIC about the plan’s implementation status and the non -
+compliant results found . Monthly updates on t he implementation of the poultry and 
+milk residue monitoring plans are reported by the respective EIA offices to the EIC.  
+17. The residue mo nitoring plan for aquaculture specifies  that samples have to be 
+forwarded to the designated laboratory within three days and reach the laboratory after 
+ 
+(12) Annex III to Directive 96/23/EC, Annex II to Regulation (EU) 2021/808. 
+(13) Point 1(a) of Article 5 of Regulation (EU) 2017/625 (read in conjunction with Points 1 and 2 of the Annex 
+III to Directive 96/23/EC and Point 1(B) of Chapter 1 of the Annex to Decision 97/747/EC).  
+(14) Point 1 of Chapter III of the Annex IV to Directive 96/23/EC. 
+(15) Point 3 of the Annex II to Regulation (EU) 2021/808. 
+(16) Chapter 2 of the Annex IV to Directive 96/23/EC.
+
+[Page 13]
+12 
+dispatch within 30 hours . The plans for milk and poultry specify  that samples have to 
+be delivered to the designated EIA laboratory within 48 hours of being taken. 
+Conclusions on the implementation of the residue monitoring plan 
+18. The residue monitoring plans for aquaculture animals , poultry and milk are  
+implemented in a timely manner and in line with planned arrangements.  Nevertheless, 
+the sampling and reporting policy adopted for milk could impair the ability of the 
+competent authority to identify non-compliant samples.  
+5.1.4 Other residues monitoring programmes 
+5.1.4.1 PHT for aquaculture 
+19. National legislation (17) requires that export establishments approved for export to the 
+EU can source aquaculture products only from  enrolled farms (see finding 3)  that 
+participate in the official PHT programme . This programme requires that all 
+aquaculture batches harvested  at farm are sampled and tested prior to harvest for the 
+presence of chloramphenicol and four nitrofuran metabolites . Non-registered farms 
+will, following a successful inspection, then be registered and subsequently will be able 
+to participate in the PHT programme. 
+20. There is a process to ensure traceability of the PHT result to the specific farm and pond. 
+Every pond is enrolled and identified with its  Global Positioning System  co-ordinates 
+that define its exact surface area and location. Each pond is sampled  by MPEDA staff  
+and harvested separately and no aggregate sampl es are allowed. Furthermore, sampling 
+forms have to include all of the required information to ensure traceability to the pond.  
+However, on two farms visited in Odisha , the audit team found inconsistencies in the 
+traceability records concerning stocking and harvesting data and the number of ponds 
+compared to the data in the MPEDA database. In relation to the size of the sample, 
+officials calculate the estimated size of the batch in the pond based on the size of the 
+pond, the stocking density and the average size of the shrimp.  
+21. All samples are then sent to an MPEDA -run network of 15 laboratories performing 
+enzyme-linked immunosorbent assays (ELISA).  The cost of the ELISA tests is paid for 
+by the farmer; MPEDA pays for the cost of any confirmatory tests required. Once the 
+testing is done, the result reports have a validity of 20 days. If the pond is not harvested  
+in that timeframe , sampling and testing needs  to be repeated. When the pond is 
+harvested, the system imposes a 3-month period until the next PHT sampling. 
+22. The three processing plants visited by the audit team had put in place mechanisms to 
+minimise the risk of non -PHT tested product to be included in the batch, such as the 
+crosschecking of amounts received with the production es timated for the pond. All the 
+examples reviewed by the team during the audit of consignments of aquaculture 
+ 
+(17) S.O. 497(E) of 10 March 2011.
+
+[Page 14]
+13 
+products received at the processing plants, exported or subject to PET testing were 
+accompanied by PHT results.  
+23. Since January 2020 until August 2022 there were 7 non-compliant PHT test results 
+recorded by MPEDA.  
+5.1.4.2 PET scheme for aquaculture 
+24. European legislation (18) requires that all consignments of aquaculture products  
+entering the Union from India are accompanied by the result of an analytical test for 
+chloramphenicol, metabolites of nitrofurans , tetracycline, oxytetracycline  and 
+chlortetracycline, carried out at the place of origin. 
+25. To fulfill the above -mentioned requirements, the EIC  has instructions in place which 
+specify that: 
+- a composite sample is to be taken from each exported consignment that can contain 
+products from a maximum of 4 daily production codes from the processing 
+establishment. If the consignment includes products from more than 4 production 
+codes, the n a second composite sample needs to be taken from the additional 
+production codes; 
+- composite samples of each exported consignment  must be representative and 
+include finished product from each code and pond; 
+- the samples must be analysed in an accredited EIA laboratory  using validated 
+methods (see finding 55). Each result of the (composite) PET sample applies to the 
+whole consignment, consisting of a maximum of 4 production codes.  
+26. Between January 2020 and August 2022 there were 94 non -compliant PET test results 
+reported. After a decrease in 2021 the percentage of non- compliant PETs increased in 
+2022 to levels seen in 2020 (see chapter 4.3).  
+27. In the three processing establishments visited by the audit team, PET tests were 
+conducted by the EIA as required. In two cases, which were evaluated by the team and 
+where prohibited substances had been found, the whole consignment had been 
+destroyed and evidence from the rendering facility provided to the audit team.  
+28. With regard to the low number of non -compliances for the PHT (7) compared to the 
+considerably higher number in the PET (94) in the period from January 2020 to August 
+2022, neither the EIC nor MPEDA had realised or could explain the reasons for the 
+anomaly, albeit with different test types being  employed in each programme. If 
+anything, the PHT ELISA should have a higher  false positive rate than the LC/MS/MS 
+confirmatory methods  in the PET programme.  EIC  had not  analysed from where 
+(establishments and states) the PET non-compliances had been found  most frequently 
+to help them improve their understanding of the origin of non- compliant results in the 
+PET.   
+ 
+(18) Decision 2010/381/EU amended by Commission Implementing Decisions (EU) 2012/690 and (EU) 
+2016/1774.

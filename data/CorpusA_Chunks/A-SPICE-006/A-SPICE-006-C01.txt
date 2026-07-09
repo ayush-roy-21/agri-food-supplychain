@@ -1,0 +1,583 @@
+--- CHUNK HEADER ---
+Chunk ID: A-SPICE-006-C01
+Parent Doc ID: A-SPICE-006
+Page Range: N/A (Web Scraped / Text Extract)
+Word Range: 1 - 1000
+Word Count: 1,000
+--------------------
+
+Title: Circular on Mandatory Testing for Salmonella in Consignments of Chilli, Cumin & Mixed Spices Exported to USA
+URL: http://www.indianspices.com/trade/trade-notifications/revision-analytical-charges
+Scraped Date: 2026-07-03T11:11:12.182181
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+
+"http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<!-- Mirrored from indianspices.com/trade/trade-notifications/revision-analytical-charges by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Nov 2019 09:45:44 GMT -->
+
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="revision-analytical-charges.html" />
+<link rel="shortlink" href="../../node/1247.html" />
+<link rel="shortcut icon" href="../../favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Revision in Analytical Charges | Spices Board</title>
+
+<script>
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+})(window,document,'script','../../../www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-18698382-2', 'auto');
+
+ga('send', 'pageview');
+
+</script>
+
+<style type="text/css" media="all">
+@import url("https://indianspices.com/modules/system/system.base.css?pby5dm");
+@import url("https://indianspices.com/modules/system/system.menus.css?pby5dm");
+@import url("https://indianspices.com/modules/system/system.messages.css?pby5dm");
+@import url("https://indianspices.com/modules/system/system.theme.css?pby5dm");
+</style>
+<style type="text/css" media="all">
+@import url("../../sites/all/modules/contrib/date/date_api/datecdaa.css?pby5dm");
+@import url("../../sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7cdaa.css?pby5dm");
+@import url("https://indianspices.com/modules/field/theme/field.css?pby5dm");
+@import url("https://indianspices.com/modules/node/node.css?pby5dm");
+@import url("https://indianspices.com/modules/search/search.css?pby5dm");
+@import url("https://indianspices.com/modules/user/user.css?pby5dm");
+@import url("../../sites/all/modules/contrib/youtube/css/youtubecdaa.css?pby5dm");
+@import url("../../sites/all/modules/contrib/views/css/viewscdaa.css?pby5dm");
+</style>
+<style type="text/css" media="all">
+@import url("../../sites/all/modules/contrib/colorbox/styles/default/colorbox_stylecdaa.css?pby5dm");
+@import url("../../sites/all/modules/contrib/ctools/css/ctoolscdaa.css?pby5dm");
+@import url("../../sites/all/modules/contrib/dhtml_menu/dhtml_menucdaa.css?pby5dm");
+@import url("../../sites/all/modules/contrib/jcarousel/skins/tango/jcarousel-tangocdaa.css?pby5dm");
+@import url("../../sites/all/modules/contrib/wysiwyg_tools_plus/css/wysiwyg_tools_pluscdaa.css?pby5dm");
+</style>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Fjalla+One" media="all" />
+<style type="text/css" media="all">
+@import url("../../sites/all/themes/spices/admincdaa.css?pby5dm");
+@import url("../../sites/all/themes/spices/layoutcdaa.css?pby5dm");
+@import url("../../sites/all/libraries/superfish/css/superfishcdaa.css?pby5dm");
+</style>
+  <link rel="stylesheet" type="text/css" href="../../sites/all/themes/spices/style.css" />
+
+<link rel="alternate stylesheet" type="text/css" media="screen" title="contrast" href="../../sites/all/themes/spices/contrast.css" />
+
+<link rel="stylesheet" type="text/css" href="../../sites/all/themes/spices/responsive.css" />
+
+<script type="text/javascript" src="https://indianspices.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://indianspices.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://indianspices.com/misc/drupal.js?pby5dm"></script>
+<script type="text/javascript" src="https://indianspices.com/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="https://indianspices.com/misc/jquery.form.js?v=2.52"></script>
+<script type="text/javascript" src="https://indianspices.com/misc/ajax.js?v=7.36"></script>
+<script type="text/javascript" src="../../sites/all/libraries/colorbox/jquery.colorbox-mincdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/colorbox/js/colorboxcdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/colorbox/styles/default/colorbox_stylecdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/colorbox/js/colorbox_inlinecdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/dhtml_menu/dhtml_menucdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/jcarousel/js/jquery.jcarousel.mincdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/jcarousel/js/jcarouselcdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/views/js/basecdaa.js?pby5dm"></script>
+<script type="text/javascript" src="https://indianspices.com/misc/progress.js?v=7.36"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/views/js/ajax_viewcdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/wysiwyg_tools_plus/js/tab_buildercdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/themes/spices/js/styleswitchcdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/libraries/jq-ticker/jquery.newsTicker.mincdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/libraries/superfish/jquery.hoverIntent.minifiedcdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/libraries/superfish/sfsmallscreencdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/libraries/superfish/suppositioncdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/libraries/superfish/superfishcdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/libraries/superfish/supersubscdaa.js?pby5dm"></script>
+<script type="text/javascript" src="../../sites/all/modules/contrib/superfish/superfishcdaa.js?pby5dm"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"spices","theme_token":"ZIi-Ah4SOX30K-pjwEOVqj0sVhV_anL8Hj7nE6eWm1E","js":{"http:\/\/indianspices.com\/sites\/all\/themes\/spices\/js\/custom.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/contrib\/dhtml_menu\/dhtml_menu.js":1,"sites\/all\/modules\/contrib\/jcarousel\/js\/jquery.jcarousel.min.js":1,"sites\/all\/modules\/contrib\/jcarousel\/js\/jcarousel.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/wysiwyg_tools_plus\/js\/tab_builder.js":1,"http:\/\/indianspices.com\/sites\/all\/themes\/spices\/js\/styleswitch.js":1,"sites\/all\/libraries\/jq-ticker\/jquery.newsTicker.min.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/contrib\/superfish\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/dhtml_menu\/dhtml_menu.css":1,"sites\/all\/modules\/contrib\/jcarousel\/skins\/tango\/jcarousel-tango.css":1,"sites\/all\/modules\/contrib\/wysiwyg_tools_plus\/css\/wysiwyg_tools_plus.css":1,"http:\/\/fonts.googleapis.com\/css?family=Fjalla+One":1,"sites\/all\/themes\/spices\/admin.css":1,"sites\/all\/themes\/spices\/layout.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1}},"encrypt_submissions":{"baseUrl":"http:\/\/indianspices.com"},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"dhtmlMenu":{"nav":"clone","animation":{"effects":{"height":"height","width":0,"opacity":0},"speed":"500"},"effects":{"siblings":"close-same-tree","children":"none","remember":"0"},"filter":{"type":"whitelist","list":{"main-menu":"main-menu","management":0,"menu-footer-menu":0,"navigation":0,"shortcut-set-1":0,"user-menu":0}}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views","carousels":{"jcarousel-dom-1":{"view_options":{"view_args":"","view_path":"node\/1247","view_base_path":null,"view_display_id":"block","view_name":"spice_slider","jcarousel_dom_id":1},"wrap":"circular","skin":"tango","visible":6,"scroll":6,"autoPause":1,"start":1,"selector":".jcarousel-dom-1"}}},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":true,"disableHI":false},"plugins":{"smallscreen":{"mode":"window_width","breakpoint":926,"addSelected":false,"menuClasses":false,"hyperlinkClasses":false,"title":"Main menu"},"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}}});
+//--><!]]>
+</script>
+
+</head>
+
+﻿<!--<body class="html front not-logged-in no-sidebars page-node i18n-en" >-->
+
+<style type="text/css">
+  img {
+    vertical-align: baseline !important;
+  }
+
+.sidebar {
+    display: none;
+  }
+
+#back-button {
+
+background-color: #138806;
+    border: none;
+    color: white;
+    padding: unset;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 60px;
+    height: 20px;
+    border-radius: 5%;
+
+}
+
+.saga {
+    width: 140px;
+    height: 115px;
+    margin: -100px 82px -92px -27px;
+  }
+
+@media (orientation: portrait) {
+
+@media screen and (max-width:900px) {
+
+.logo {
+        display: inline-block;
+        width: 40%;
+      }
+
+#saga {
+        display: inline-block;
+        width: 21%;
+      }
+
+.link_tag {
+        display: inline-block;
+        width: 48%;
+      }
+
+.image_tag>div {
+        display: inline-block;
+      }
+    }
+  }
+
+@media (max-width: 978px) {
+
+.saga {
+      width: 50px ! important;
+      ;
+      height: 22px !important;
+      ;
+      margin: -48px 113px 5px -12px !important;
+      ;
+    }
+
+@media (orientation: portrait) {
+
+@media screen and (max-width:900px) {
+        .saga {
+          height: 40px !important;
+          margin-top: 10px !important;
+          margin-left: 90px !important;
+        }
+
+}
+    }
+
+}
+
+@media (max-width: 978px) {
+
+.image_tag {
+      width: 68% !important;
+      height: 170px !important;
+      margin-left: 10%;
+    }
+
+}
+
+.marquee {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.marquee-content {
+
+display: inline-block;
+  padding-left: 100%;
+  animation: scroll-left 100s linear infinite;
+  font-size: inherit;
+}
+
+.marquee:hover .marquee-content {
+  animation-play-state: paused;
+}
+
+@keyframes scroll-left {
+  from { transform: translateX(0); }
+  to { transform: translateX(-100%); }
+}
+</style>
+
+<script>
+
+function goBack() {
+
+window.history.back();
+
+}
+
+// function mkrd(){
+  //  document.getElementById("mkred").value="1";
+  // }
+
+function mkrd() {
+    // Check browser support
+    if (typeof (Storage) !== "undefined") {
+      // Store
+      localStorage.setItem("mkredir", "1");
+      // Retrieve
+      // document.getElementById("result").innerHTML = localStorage.getItem("lastname");
+    }
+  }
+
+</script>
+
+<body
+  class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-112 node-type-page i18n-en">
+
+<script src="/user.js"></script>
+
+<div id="skip-link">
+
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+
+</div>
+
+<div id="page-wrapper">
+
+<div id="page">
+
+<div class="header-wrap">
+        <!-- /#top_content start-->
+
+<div class="header">
+
+<div class="verytop-links">
+            <div class="region region-verytop-links">
+
+<div id="block-block-5" class="block block-block">
+
+<div class="content">
+
+<p><a href="#main">Skip to main content</a></p>
+                  <p><a href="screen-reader-access.html">Screen Reader Access</a></p>
+                  <p>&nbsp;</p>
+
+<div class="text-size">
+
+<a href="javascript:setFontSize('increase')"><img src="/sites/all/themes/spices/images/text-big.png"
+                        alt="Increase font size" width="19" height="14" /></a>
+
+<a href="javascript:setFontSize('normal')"><img src="/sites/all/themes/spices/images/text-mid.png"
+                        alt="Normal font size" width="14" height="14" /></a>
+
+<a href="javascript:setFontSize('decrease')"><img
+                        src="/sites/all/themes/spices/images/text-small.png" alt="Decrease font size" width="12"
+                        height="14" /></a>
+
+</div>
+
+<div class="text-bg">
+
+<a href="javascript:chooseStyle('none', 60)" title="Normal Contrast" id="contrast-low">
+
+<img src="/sites/all/themes/spices/images/lightnoise-img.gif" alt="Normal Contrast" />
+
+</a>
+
+<a href="javascript:chooseStyle('contrast', 60)" title="High Contrast" id="contrast-high">
+
+<img src="/sites/all/themes/spices/images/darknoise-img.gif" alt="High Contrast" />
+
+</a>
+
+</div>
+                </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="marque">
+            <div class="region region-marque">
+
+<div id="block-block-6" class="block block-block">
+
+<div class="content">
+
+<!-- <marquee scrollamount="6" direction="left" onmouseover="this.setAttribute('scrollamount', 0, 0);"
+                    onmouseout="this.setAttribute('scrollamount', 6, 0);"> -->
+                    <div class="marquee">
+                      <div class="marquee-content">
+
+<a style="color:#FFF;" href="/spice-news/gst-provisional-registration-details-spices-board.html"
+                      target="_blank">GST provisional registration details of Spices Board</a>
+
+<a style="color:#FFF;" href="/dailyprice-auctiondetails.html" target="_blank">New Feature : Click
+                      here for Auction Report </a>
+
+<a style="color:#FFF;" href="/marketing/price/domestic/daily-price.html">
+
+<b>Spice: Small Cardamom</b>,
+
+Date of Auction:
+                      02-Jul-2026,
+
+Auctioneer:
+                      RNS SPICES,
+
+No.of lots:
+                      245,
+
+Qty Arrived (Kgs):
+                      63153.5,
+
+Qty Sold (Kgs):
+                      62447.5,
+
+Max Price (Rs./Kg):
+                      3672.00,
+
+Avg. Price (Rs./Kg):
+                      3005.35
+
+<b>Spice: Small Cardamom</b>,
+
+Date of Auction:
+                      02-Jul-2026,
+
+Auctioneer:
+                      IDUKKI MAHILA CARDAMOM PRODUCER COMPANY LIMITED,
+
+No.of lots:
+                      186,
+
+Qty Arrived (Kgs):
+                      39884.4,
+
+Qty Sold (Kgs):
+                      39350.3,
+
+Max Price (Rs./Kg):
+                      3895.00,
+
+Avg. Price (Rs./Kg):
+                      2955.51
+
+<b>Spice: Large Cardamom</b>,
+
+Date:
+                      02-Jul-2026,
+
+Market:
+                      Singtam,
+
+Type:
+                      Badadana,
+
+Price (Rs./Kg):
+                      1370.00,
+
+<b>Spice: Large Cardamom</b>,
+
+Date:
+                      02-Jul-2026,
+
+Market:
+                      Singtam,
+
+Type:
+                      Chotadana,
+
+Price (Rs./Kg):
+                      1270.00,
+
+<b>Spice: Large Cardamom</b>,
+
+Date:
+                      02-Jul-2026,
+
+Market:
+                      Gangtok,
+
+Type:
+                      Badadana,
+
+Price (Rs./Kg):
+                      1500.00,
+
+<b>Spice: Large Cardamom</b>,
+
+Date:
+                      02-Jul-2026,
+
+Market:
+                      Gangtok,
+
+Type:
+                      Chotadana,
+
+Price (Rs./Kg):
+                      1350.00,
+
+<b>Spice: Large Cardamom</b>,
+
+Date:
+                      02-Jul-2026,
+
+Market:
+                      Siliguri,
+
+Type:
+                      Badadana,
+
+Price (Rs./Kg):
+                      1725.00,
+
+<b>Spice: Large Cardamom</b>,
+
+Date:
+                      02-Jul-2026,
+
+Market:
+                      Siliguri,
+
+Type:
+                      Chotadana,
+
+Price (Rs./Kg):
+                      1562.00,
+
+</a>
+
+<!-- </marquee> -->
+                   </div>
+                    </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="search" style="float: right;margin: 10px -18px 6px 0px;position: relative;">
+
+<form action="https://indianspices.com/" method="post" id="search-block-form" accept-charset="UTF-8">
+              <div>
+                <div class="container-inline">
+
+<h2 class="element-invisible">Search form</h2>
+
+<div class="form-item form-type-textfield form-item-search-block-form">
+
+<label class="element-invisible" for="edit-search-block-form--2">Search </label>
+
+<input style="margin-top: 0rem;" title="Enter the terms you wish to search for."
+                      placeholder="Search" type="text" id="searchInput" name="search_block_form" value="" size="15"
+                      maxlength="128" class="form-text" />
+
+</div>
+
+<div class="form-actions form-wrapper" id="edit-actions"><input type="button"
+                      style="border-left: 0px solid #000;" name="op" value="Search" class="form-submit"
+                      onclick="searchContent()" /></div><input type="hidden" name="form_build_id"
+                    value="form-227dYEn37aKQTVTM122XT4oz54ttQ0r30n2Q9ZnQgYI" />
+
+<input type="hidden" name="form_id" value="search_block_form" />
+
+</div>
+
+</div>
+            </form>
+          </div>
+
+<div class="clear"></div>
+
+</div>
+
+</div><!-- #top content -->
+
+<div class="logo-area" id="header">
+        <!-- /#header start -->
+
+<div class="wrapper1">
+
+<div class="logo" style="width:28%;">
+
+<a href="/index.html" title="Home" rel="home" id="logo">
+
+<img width="330" src="/sites/default/files/new%20logo.jpg" alt="Home" />
+
+</a>
+
+</div>
+          <!-- <div  id="saga">
+
+<a href="/saga_35glorious.html#saga" title="Home" rel="home" id="logo" target="_blank">
+
+<img class="saga" src="/sites/default/files/styles/large/public/35_years_logo.png" alt="Home" />
+
+</a>
+
+</div> -->
+
+<div class="link_tag">
+
+<div class="region region-header">
+
+<div id="block-block-1" class="block block-block">
+
+<div class="content">
+
+<div class="language">
+
+<a href="/hin/index.html"> हिंदी</a>
+
+</div>
+
+<div class="saociallinks">
+
+</div>
+
+<ul class="topnav">
+
+<li><img src="/sites/all/themes/spices/images/home-icon.png" alt="Home" /><a
+                        href="/index.html">Home</a></li>

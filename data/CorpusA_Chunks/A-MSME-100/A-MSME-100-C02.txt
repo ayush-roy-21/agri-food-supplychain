@@ -1,0 +1,228 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C02
+Parent Doc ID: A-MSME-100
+Page Range: Page 9 to Page 14
+Word Range: 1213 - 2757
+Word Count: 1,545
+--------------------
+
+[Page 9]
+9 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+LIST OF ABBREVIATIONS
+AA Account Aggregator
+ADB Asian Development Bank
+ADBI Asian Development Bank Institute
+ASUSE Annual Survey of Unincorporated Sector Enterprises
+B20 Business 20
+B2C Business-to-Consumer
+DPI Digital Public Infrastructure
+GVA Gross Value Added
+HSC Higher Secondary Certificate
+ICRIER Indian Council for Research on International Economic Relations
+INR Indian Rupee
+ITC International Trade Centre
+MFI Microfinance Institution
+MSE-CDP Micro & Small Enterprises Cluster Development
+MSMEs Micro, Small and Medium Enterprises
+MUDRA Micro Units Development and Refinance Agency
+NBFCs Non-Banking Financial Corporations
+NCR National Capital Region
+OECD Organization for Economic Cooperation and Development
+RBI Reserve Bank of India
+R&D Research and Development
+SME Small and Medium Enterprise
+SSC Secondary School Certificate
+UBS-ED University of Stellenbosch Business School
+ULI Unified Lending Interface
+UPI Unified Payments Interface
+
+[Page 10]
+10 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+
+[Page 11]
+11 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Key Highlights of the Report
+• Post COVID-19, Indian MSMEs have demonstrated remarkable resilience. Contrary 
+to the common perception that MSMEs are generally vulnerable and distressed 
+units, ICRIER’s study, based on a survey of 2,365 Udyam-registered manufacturing 
+sector MSMEs, indicates a robust performance in recent years. Since 2021, a 
+majority of surveyed firms have seen sales growth, profit margins have improved, 
+and hiring has increased—showcasing enterprise growth and development. 
+• Digitalisation is a key driver of accelerated growth. Firms that have integrated with 
+e-commerce platforms have outperformed the non-integrated ones, benefiting 
+from faster expansion and many more opportunities opening up.
+• Beyond business growth, digitalisation offers significant second-order benefits.  
+This year’s survey highlights that firms integrated with e-commerce platforms 
+experience better access to finance, international markets, and critical business 
+information—irrespective of their size—which is significantly contributing to 
+enterprise development.
+• Access to finance remains a persistent challenge, but it is not insurmountable.  The 
+study finds that as firms grow, financial constraints ease. E-commerce integration 
+helps mitigate financial barriers by fostering business expansion and creating a 
+stronger information ecosystem for MSMEs that helps them overcome a lack of 
+collateral.
+• E-commerce serves as a gateway to global trade, particularly for micro-enterprises. 
+The majority of export-oriented firms that are integrated on e-commerce platforms 
+are leveraging e-commerce platforms to reach international markets. These include 
+a significant percentage of micro firms also, proving that even smaller and less 
+productive firms can access global opportunities through digital channels.
+• Looking ahead, fostering the digital transformation of MSMEs can help tap the full 
+potential. Enhancing technology access, upgrading skills, and developing a robust 
+support ecosystem will enable firms to maximise the benefits of e-commerce 
+integration. Strengthening both physical and digital infrastructure is key to unlocking 
+the full potential of MSMEs.
+
+[Page 12]
+12 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+
+[Page 13]
+13 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+EXECUTIVE 
+SUMMARY
+Executive Summary
+MSMEs dominate the enterprise landscape in India.  
+However, they struggle to scale up because of their 
+low productivity levels. This is due to the sector’s 
+fragmented and largely informal nature. Enterprise 
+development is, therefore, key for MSMEs to scale up, 
+which is a necessary for a high and sustained growth 
+rate and employment generation in India.
+Limited access to finance, markets, information, 
+and skilled human resources are some of the key 
+challenges impeding enterprise development in India.  
+Digitalisation offers a pathway to address these issues 
+and accelerate enterprise development. Although 
+Internet usage is growing among MSMEs, they are 
+unable to exploit its potential. This is because MSMEs, 
+particularly micro-enterprises, cannot independently 
+innovate or leverage the full potential of technology-
+based tools and platforms, and often need support 
+from large enterprises and the government. 
+While some data on MSMEs’ Internet usage exists, 
+qualitative insights on digitalisation’s impact on 
+their growth and development are currently lacking.  
+To examine the impact of digitalisation, specifically 
+e-commerce platforms, on the growth and development 
+of MSMEs, a survey of 2,365 Udyam-registered 
+manufacturing sector firms was conducted in 2024. 
+This is the third edition of the survey. A purposive 
+sampling technique was used to compare integrated 
+and non-integrated businesses. The survey’s design 
+facilitated both time series and cross-sectional data 
+analysis, making it a key strength of the study. While 
+previous surveys have established the key benefits, 
+such as increased sales, higher profit margins, and 
+positive effects on employment, this study also focuses 
+on examining the second-order effects of digitalisation 
+on MSMEs. Specifically, it explores how integration 
+enhances access to finance, international markets 
+(exports), and information—factors that play a crucial 
+role in enterprise growth and development. This report 
+presents the insights derived from the survey data.
+Contrary to the perception that the MSMEs sector 
+is struggling and underperforming, the surveyed 
+enterprises exhibit a robust growth trajectory.  Most 
+respondents reported a rise in sales, profit margins, 
+and hiring compared to the previous two years. About 
+50% of the surveyed enterprises saw an increase in 
+turnover and profits in 2023-24, compared to 2021-22. 
+Importantly, over time, a greater percentage of firms are 
+moving towards higher turnover ranges, employment 
+levels and profit margin. Even though these firms are 
+specifically Udyam-registered, it is a promising trend, as 
+more businesses are actively registering on the Udyam 
+and the Udyam Assist Portal of the Government of 
+India, indicating a positive shift.
+Integrated firms outperform non-integrated ones.  
+Our sample shows that to begin with, more productive 
+firms join e-commerce platforms. These are largely 
+firms that have higher turnover and profit margins. 
+Over years, these firms have shown a stronger growth 
+trajectory, surpassing non-integrating firms, in terms of 
+turnover, profit and employment. Notably, a substantial 
+share of firms (90%) reported growth in sales and 
+profit margins after e-commerce integration. Nearly
+
+[Page 14]
+14 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+50% of the integrated firms hired new employees post 
+integration, out of which nearly 75% firms also hired 
+women employees.
+Scaling up business is the key reason for joining 
+e-commerce platforms, yet offline channels remain 
+the dominant mode of sale.  A majority of integrated 
+firms joined e-commerce platforms to boost their sales, 
+with most enterprises starting to sell on e-commerce 
+platforms after the onset of the COVID-19 pandemic. 
+About 71% of enterprises joined e-commerce platforms 
+during or after 2020. However, the survey found that 
+while the reliance on online operations, including 
+e-commerce platforms, is growing, offline channels 
+remain significant medium for sale. 
+While previous ICRIER surveys established that 
+e-commerce integration positively impacts business 
+growth potential, the current study also highlighted 
+evidence for interesting second-order effects, which 
+can contribute significantly to enterprise development. 
+The survey found that as a firm’s size increases, its 
+ability to access finance and the international market 
+improves. Additionally, firms can gain improved access 
+to market information.
+The survey found that e-commerce integration 
+positively impacts MSMEs’ ability to raise external 
+finance at relatively more favourable terms.  By 
+enabling firms to expand, e-commerce enhances the 
+long-term prospects of MSMEs. The survey revealed 
+that relatively larger firms in the MSME segment and 
+those integrated with e-commerce performed better 
+in terms of financial access. The survey found that the 
+average interest rate on MSMEs’ loan is about 12.27%. 
+Compared to this, on an average, medium sized firms and 
+integrated firms pay a relatively lower rate of interest 
+(11.59% and 12.15%, respectively). Additionally, a 
+relatively higher share of e-commerce-integrated firms 
+could access collateral-free loans. Among integrated 
+firms, 51% found their e-commerce presence helpful 
+in raising external finance from banks and non-banking 
+financial corporations, with medium (60%) and small-
+size enterprises (55%) doing better on this front than 
+micro firms (48%). Additionally, 30% of integrated firms 
+found e-commerce beneficial for raising collateral-free 
+loans, with medium firms (33%) leading, followed by 
+small (31%) and micro (29%) firms.
+Many enterprises made new investments or introduced 
+innovative practices after integrating on e-commerce 
+platforms, enhancing their long-term growth and 
+sustainability. About 62% of the integrated firms 
+invested in training their employees, and nearly 50% 
+invested in the R&D of new products. More than 90% 
+of the firms also introduced innovative practices after 
+integrating on platforms. The survey found that while 
+business growth remains the most important benefit 
+of integrating on e-commerce platforms, medium-
+size firms value qualitative benefits (such as access to 
+market insights and improvement in product quality) 
+more than micro- and small-sized firms. 
+As the firm size increases, its export potential too, 
+rises, and integrated export-oriented firms use 
+e-commerce platforms extensively to export their 
+products. About 16% of all surveyed enterprises export 
+their products, with medium-size enterprises having 
+a higher share of export-oriented firms. The survey 
+found that e-commerce offers firms, especially micro-
+enterprises, a pathway to participate in global trade. 
+About 93% of the export-oriented, integrated firms 
+rely on e-commerce platforms to export their products 
+to international markets. This includes a considerable 
+share of micro-enterprises, highlighting that even 
+relatively small firms can utilise e-commerce to reach 
+global markets if they choose to export. 
+Importantly export potential can be tapped better 
+through e-commerce, which can address some 
+conventional issues that firms face in exporting their 
+products, like information access.  Nearly 21% of 
+the firms that do not currently export believe their 
+products have export potential. More integrated firms 
+(24%) recognise this potential than non-integrated 
+ones (18%). Some of the most prominent challenges 
+Executive Summary

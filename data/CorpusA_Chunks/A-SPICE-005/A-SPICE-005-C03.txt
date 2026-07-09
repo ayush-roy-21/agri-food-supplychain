@@ -1,0 +1,287 @@
+--- CHUNK HEADER ---
+Chunk ID: A-SPICE-005-C03
+Parent Doc ID: A-SPICE-005
+Page Range: Page 6 to Page 9
+Word Range: 2941 - 4170
+Word Count: 1,230
+--------------------
+
+[Page 6]
+(24) Mandarins, clementines, wilkings and similar citrus hybrids from Türkiye have been subjected to an increased level of 
+official controls and to special conditions at their entry into the Union due to the risk of pesticide residues since May 
+2020. The official controls carried out by the Member States show improvement in compliance with the relevant 
+requirements provided for in Union legislation. Therefore, while an increased level of official controls is still 
+appropriate, the level of 20 % of consignments entering the Union is no longer justified for those commodities and 
+the frequency of controls should be decreased to 10 % of consignments entering the Union in point 1 of Annex II to 
+Implementing Regulation (EU) 2019/1793.
+(25) Oranges from Türkiye have been subjected to an increased level of official controls and to special conditions at their 
+entry into the Union due to the risk of pesticide residues since May 2020. The official controls carried out by the 
+Member States show improvement in compliance with the relevant requirements provided for in Union legislation. 
+Therefore, while an increased level of official controls is still appropriate, the level of 30 % of consignments entering 
+the Union is no longer justified for that commodity and the frequency of controls should be decreased to 20 % of 
+consignments entering the Union in point 1 of Annex II to Implementing Regulation (EU) 2019/1793.
+(26) In relation to consignments of pistachios, mixtures and products produced from pistachios originating from the 
+United States and dispatched to the Union from Türkiye, a high rate of non-compliance with the relevant 
+requirements provided for in Union legislation with respect to contamination by aflatoxins was detected during 
+official controls performed by the Member States in accordance with Articles 7 and 8 of Implementing Regulation 
+(EU) 2019/1793. It is therefore appropriate to increase the frequency of identity and physical checks to be 
+performed on those consignments entering the Union to 50 % in Annex II to Implementing Regulation 
+(EU) 2019/1793.
+(27) Implementing Regulation (EU) 2019/1793 should therefore be amended accordingly.
+(28) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on 
+Plants, Animals, Food and Feed,
+HAS ADOPTED THIS REGULATION:
+Article 1
+Annexes I and II to Implementing Regulation (EU) 2019/1793 are replaced by the text set out in the Annex to this 
+Regulation.
+Article 2
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the 
+European Union.
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+Done at Brussels, 28 January 2026.
+For the Commission
+The President
+Ursula VON DER LEYEN
+OJ L, 29.1.2026 EN 
+ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 5/25
+
+[Page 7]
+ANNEX 
+‘ANNEX I
+Food and feed of non-animal origin from certain third countries subject to a temporary increase of 
+official controls at border control posts and control points 
+Row Country of origin Food and feed (intended use) CN code ( 1)
+TARIC 
+sub- 
+division
+Hazard
+Frequency of 
+identity and 
+physical 
+checks (%)
+1 Azerbaijan 
+(AZ)
+— Hazelnuts (Corylus sp.), in 
+shell
+0802 21 00
+— Hazelnuts ( Corylus sp.), 
+shelled
+0802 22 00
+— Mixtures of nuts or dried 
+fruits containing hazelnuts
+ex 0813 50 39 70
+ex 0813 50 91 70
+ex 0813 50 99 70
+— Hazelnut paste ex 2007 10 10 70
+ex 2007 10 99 40
+ex 2007 99 39 05; 06
+ex 2007 99 50 33
+ex 2007 99 97 23
+— Hazelnuts, otherwise 
+prepared or preserved, 
+including mixtures
+ex 2008 19 12 30
+ex 2008 19 19 30
+ex 2008 19 92 30
+ex 2008 19 95 20
+ex 2008 19 99 30
+ex 2008 97 12 15
+ex 2008 97 14 15 Aflatoxins 20
+ex 2008 97 16 15
+ex 2008 97 18 15
+ex 2008 97 32 15
+ex 2008 97 34 15
+ex 2008 97 36 15
+ex 2008 97 38 15
+ex 2008 97 51 15
+ex 2008 97 59 15
+ex 2008 97 72 15
+ex 2008 97 74 15
+ex 2008 97 76 15
+ex 2008 97 78 15
+ex 2008 97 92 15
+EN OJ L, 29.1.2026 
+6/25 ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj
+
+[Page 8]
+Row Country of origin Food and feed (intended use) CN code ( 1)
+TARIC 
+sub- 
+division
+Hazard
+Frequency of 
+identity and 
+physical 
+checks (%)
+ex 2008 97 93 15
+ex 2008 97 94 15
+ex 2008 97 96 15
+ex 2008 97 97 15
+ex 2008 97 98 15
+— Flours, meals and powder 
+of hazelnuts
+ex 1106 30 90 40
+— Hazelnut oil ex 1515 90 99 20
+(Food)
+2 Bangladesh 
+(BD)
+Seem beans, helmet beans 
+(Lablab purpureus)
+(Food)
+ex 0708 90 00 30 Pesticide 
+residues (
+3) 30
+Zara lemons (Citrus medica)
+(Food)
+ex 0805 90 00 20 Pesticide 
+residues (3) 20
+3 Burkina Faso 
+(BF)
+Aubergines/eggplants 
+(Solanum aethiopicum)
+(Food)
+ex 0709 30 00 70 Pesticide 
+residues (
+3) 20
+4 Côte d’Ivoire 
+(CI)
+Palm oil (12)
+(Food)
+1511 10 90
+Sudan
+dyes (14) 30
+1511 90 11
+ex 1511 90 19 90
+1511 90 99
+5 China (CN)
+— Groundnuts (peanuts), in 
+shell
+1202 41 00
+Aflatoxins 10
+— Groundnuts (peanuts), 
+shelled
+1202 42 00
+— Peanut butter 2008 11 10
+— Groundnuts (peanuts), 
+otherwise prepared or 
+preserved
+2008 11 91
+2008 11 96
+2008 11 98
+— Oilcake and other solid 
+residues, whether or not 
+ground or in the form of 
+pellets, resulting from the 
+extraction of 
+groundnut oil
+2305 00 00
+— Groundnut flours and 
+meals
+ex 1208 90 00 20
+— Groundnuts paste ex 2007 10 10 80
+(Food and feed) ex 2007 10 99 50
+ex 2007 99 39 07; 08
+OJ L, 29.1.2026 EN 
+ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 7/25
+
+[Page 9]
+Row Country of origin Food and feed (intended use) CN code ( 1)
+TARIC 
+sub- 
+division
+Hazard
+Frequency of 
+identity and 
+physical 
+checks (%)
+Sweet peppers (Capsicum
+annuum)
+(Food – crushed or ground)
+ex 0904 22 00 11
+Salmonella (4) 10
+Tea, whether or not flavoured
+(Food)
+0902 Pesticide 
+resi­
+dues (3) (5)
+20
+6 Colombia (CO)
+Granadilla and passion fruit 
+(Passiflora ligularis and 
+Passiflora edulis)
+(Food)
+ex 0810 90 20
+ex 0810 90 20
+40
+50 Pesticide 
+residues (
+3) 20
+7 Dominican 
+Republic (DO)
+— Sweet peppers ( Capsicum 
+annuum)
+0709 60 10
+Pesticide 
+resi­
+dues (3) (16)
+50
+0710 80 51
+— Peppers of the genus 
+Capsicum (other than 
+sweet)
+(Food – fresh, chilled or 
+frozen)
+ex 0709 60 99 20
+ex 0710 80 59 20
+8 Egypt (EG)
+— Sweet peppers (Capsicum 
+annuum)
+0709 60 10
+0710 80 51
+Pesticide 
+resi­
+dues (3) (6)
+30— Peppers of the genus 
+Capsicum (other than 
+sweet)
+(Food – fresh, chilled or 
+frozen)
+ex 0709 60 99 20
+ex 0710 80 59 20
+Oranges
+(Food – fresh or dried)
+0805 10 Pesticide 
+residues (
+3) 10
+Sugar apple (Annona squamosa)
+(Food – fresh or chilled)
+ex 0810 90 75 20 Pesticide 
+residues (3) 20
+Vine leaves
+(Food)
+ex 2008 99 99
+ex 2008 99 99
+11
+19
+Pesticide 
+residues (
+3) 50
+Mango (Mangifera indica)
+(Food)
+ex 0804 50 00 40 Pesticide 
+residues (3) 20
+Strawberries
+(Food – fresh, chilled or 
+frozen)
+0810 10 00
+0811 10 Pesticide 
+residues (
+3) 20
+9 Ethiopia (ET)
+Sesamum seeds
+(Food)
+1207 40 90
+Salmonella (2) 50 ex 2008 19 1949
+ex 2008 19 99 49
+EN OJ L, 29.1.2026 
+8/25 ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj

@@ -1,0 +1,161 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-106-C04
+Parent Doc ID: A-RES-106
+Page Range: Page 10 to Page 13
+Word Range: 4080 - 5853
+Word Count: 1,774
+--------------------
+
+[Page 10]
+Table 4 and Figure 4 presented the results of the assessment based on the 26 reviewed publications, 
+focusing on the effects of VSSs on 15 social, economic, and environmental indicators constituting the SLF of 
+smallholder farmers. Overall, a consistent distribution pattern of positive, neutral, and negative effects was 
+observed across the 5 capitals, totalling 128 positive, 57 neutral, and 23 negative outcomes attributed to 
+VSSs ( Table 4 ).
+The majority of studies focused on the effects of financial capital, resulting in a positive score (44) when 
+examining income, yield and cost indicators. Although most studies reported positive outcomes for 
+physical capital (14), a considerable number also found neutral effects (8) when assessing indicators related 
+to land access, tools and equipment, and access to credit. Human (22) and social (28) capitals were largely 
+positive: on the one hand, farmers benefited primarily from enhanced capacity building (14), including the 
+provision of training and extension service; on the other hand, social capital improved mainly due to better 
+Table 4. Assessed effects of VSSs on the SLF by capital and indicator in Ghana and Vietnam 
+(frequency).        
+Capital Indicator Positive Neutral Negative Total
+Human Gender parity 2 6 1 9
+Labour rights 6 4 0 10
+Capacity building 14 1 1 16
+Subtotal 22 11 2 35
+Financial Yield 12 5 3 20
+Input cost 8 8 6 22
+Income 24 3 0 27
+Subtotal 44 16 9 69
+Social Access to market 11 2 0 13
+Value chain integration 13 1 1 15
+Child labour 4 6 0 10
+Subtotal 28 9 1 38
+Physical Land access 1 3 1 5
+Tools & equipment 5 1 0 6
+Access to credit 8 4 0 12
+Subtotal 14 8 1 23
+Natural Biodiversity 4 6 4 14
+Water management 5 3 2 10
+Use of agrochemicals 11 4 4 19
+Subtotal 20 13 10 43
+Total 128 57 23 208
+Figure 4. VSS effects on the SLF by capital and indicator in Ghana and Vietnam, using a traffic-light visualisation.
+INTERNATIONAL JOURNAL OF AGRICULTURAL SUSTAINABILITY
+ 9
+
+[Page 11]
+value chain integration (13), such as the setting of production groups and cooperatives. Although natural 
+capital presented mainly positive outcomes (20), a relatively high number of observations (10) indicated 
+some negative effects in terms of biodiversity, water management, and the adoption of agrochemicals at 
+the farm level associated with VSSs ( Table 4 and Figure 4 ).
+Figure 5 illustrated a comparison of the effects of VSSs on the SLF across social, economic, and 
+environmental indicators in Vietnam and Ghana. Overall, VSSs had positive impacts in both countries; 
+however, the extent and nature of these effects varied also according to the specific value chain. Ghana 
+generally exhibited more substantial positive outcomes across most indicators, particularly in economic and 
+social aspects. In Ghana, VSSs significantly increased income levels for local farmers, with 18 positive 
+outcomes compared to only 6 in Vietnam. Similarly, the impact of VSSs on agricultural yield was stronger in 
+Ghana, where 9 positive outcomes were reported, whereas in Vietnam recorded only 3. In terms of labour 
+rights, Ghana saw improvements with 5 positive outcomes, reflecting enhanced working conditions and fair 
+labour practices. In contrast, Vietnam showed 1 positive outcome, indicating that improvements in labour 
+rights were less pronounced. Additionally, VSSs improved market access in Ghana, with 9 positive 
+outcomes, while Vietnam had only 2 positive outcomes in this area. VSSs in Vietnam displayed more 
+neutral and variable impacts, suggesting that, while there were benefits, they were less consistent or 
+pronounced compared to those observed in Ghana. In Vietnam, capacity building received 3 positive 
+outcomes, which was significantly lower than Ghana's 11 positive outcomes, indicating a less extensive 
+impact. Similarly, although VSSs in Vietnam made some progress in reducing child labour, with 1 positive 
+outcome, in Ghana, VSSs achieved more success with 4 positive results. Moreover, the use of agrochemicals 
+had a more negative effect in Vietnam: there were 3 negative outcomes associated with the use of 
+agrochemicals in Vietnam, whereas 1 negative outcome in Ghana.
+A few indicators, including ‘biodiversity’, ‘tools and equipment’, and ‘land access’, were not covered by 
+the reviewed studies conducted in Vietnam. This gap in indicators reflects the thematic focus of the 
+available evidence: most of the studies examined financial capital (e.g. yield, income, costs) rather than 
+physical and natural capital indicators. Moreover, some assessments and evaluation reports in Vietnam 
+were conducted at the farm or cooperative level and did not systematically collect and analyse land tenure 
+and biodiversity data.
+Figure 5. Comparison of the effects of VSSs on the SLF indicators in Vietnam and Ghana, using a traffic-light 
+visualisation. Note: The following indicators - biodiversity, tools and equipment and land access - were not addressed 
+by the selected studies on the effects of VSSs in Vietnam.
+10
+ R. D’ANNOLFO AND F. DEMARIA
+
+[Page 12]
+Figure 6 showed the positive contributions of VSSs to the selected SDGs. SDG 2 ‘Zero hunger’ emerged 
+as the most frequently addressed goal, appearing 27 times. This highlights the significant attention given 
+by VSSs to increasing yield and income while promoting sustainable farming systems for smallholder 
+farmers. SDG 8 ‘Decent work and economic growth’ was addressed 14 times, emphasising the relevant role 
+of VSSs as market-based solutions for promoting fair labour conditions, prohibiting child labour and 
+enhancing integration for farmers in the value chains. SDG 12 ‘Responsible consumption and production’ 
+was found 10 times. VSSs help to meet specific sustainable production standards by reducing the use of 
+agrochemicals and enhancing waste management minimising the negative impacts of chemicals on human 
+health and the environment. SDG 6 ‘Clean water and sanitation’ was addressed 4 times, highlighting the 
+positive effects related to the promotion of more efficient water management practices for the protection 
+and the restoration of the agroecosystems. Finally, SDG 5 ‘Gender equality’ and SDG 1 ‘No poverty’ were 
+considered 2 and 1 times, respectively, reflecting a lesser but still notable emphasis on promoting the role 
+of women in the value chains and improving access to land for poorer farmers through VSSs.
+4. Discussion
+The findings of the analytical assessment are discussed in the context of a wide range of international 
+research, including meta-analyses and qualitative reviews on the impact of VSSs on smallholder farmers' 
+livelihoods. In line with the structure of the paper, we begin by outlining the limitations and areas for future 
+research to frame the scope and methodological constraints of this study. We then present the main 
+findings, offering deeper insights into the effects of VSSs on the SLF indicators, acknowledging both 
+promises and trade-offs, and conclude with targeted policy recommendations.
+Figure 6. Main contributions of VSSs to the selected SDGs (frequency). Note: The total number of observations (58) 
+exceeds the total number of considered publications (26), as a VSS may address several SDGs simultaneously resulting in 
+their inclusion multiple times in the count.
+INTERNATIONAL JOURNAL OF AGRICULTURAL SUSTAINABILITY
+ 11
+
+[Page 13]
+4.1.  Limitations of the study and areas for future research
+This study did not account for which farmer-level variables, such as age, education, or farm size, are associated 
+with success in certification schemes. Although these factors are relevant to SLF outcomes and merit further 
+investigation, they fall outside the primary scope of this systematic review. Moreover, the synthesis of results 
+relies on empirical studies and is subject to several methodological constraints. Many reviewed studies 
+compared certified and non-certified farmers who also differed in market context, cooperative membership, 
+and geographical location, reducing the comparability of findings. Most studies focused on farm-level outcomes 
+and paid limited attention to institutional and supply chain factors, including the roles of cooperatives, NGOs, 
+and private companies in organising and providing certification schemes. Selection bias into certification, often 
+linked to farmer characteristics, resource access, and external support, was seldom addressed in the reviewed 
+studies. Furthermore, indicator coverage was uneven across countries (e.g. in Vietnam, biodiversity, tools and 
+equipment, and land access were not reported), which should be considered when interpreting the results. 
+Importantly, this review also highlighted a significant gap concerning youth participation in VSSs. Only a few 
+studies specifically analysed how the constraints faced by young people, such as limited access to land, 
+restricted control over productive assets, and diverse livelihood aspirations, influenced the adoption of 
+certification (Abukari et al., 2022 ; Mabe et al., 2021 ).
+Building on the above limitations and constraints, priority areas for future research are outlined below:
+• Multi-certification effects: examine how simultaneous participation in more than one sustainability scheme 
+shapes livelihood outcomes, identifying the marginal contribution of each VSS (e.g. matched single vs multi 
+certified comparisons, stepwise adoption panels) and account for sequencing and duration of certification.  
+• Long-term evidence and indicators: undertake longitudinal research with stronger biodiversity monitoring 
+aligned with SDG 15 ‘Life on Land’ to assess environmental effects, including biodiversity status and 
+landscape-level outcomes (e.g. species diversity, habitat preservation, abundance of pollinators).  
+• Impact studies: prioritise rigorous evaluation, including experimental and quasi-experimental approaches, 
+and explicitly account for relevant variables (e.g. gender, age) and context-specific factors (e.g. availability of 
+extension services, market distance) when selecting factual and counterfactual groups.  
+• Comparative analysis: undertake comparative cross-country studies to assess how institutional settings, 
+support services, and market structures mediate VSS effects across commodities and contexts, identify -
+ing best practices and lessons learned.  
+• Digital tools: investigate the role of apps, blockchain, and e-commerce in enhancing traceability and 
+market access to better align VSSs with livelihood outcomes assessed through the SLF.  
+• Youth involvement: examine how certification schemes relate to the opportunities, motivations, and 
+structural barriers encountered by rural youth, an increasingly relevant issue given demographic trends 
+and the ageing farming population in both Ghana and Vietnam.
+4.2.  Economic and social dimensions
+The following subsections explore key economic and social outcomes resulting from the adoption of VSSs by 
+smallholder farmers. First, we provide a comparative synthesis of VSS effects, highlighting scheme-specific 
+strengths, limitations, and common patterns. Second, we examine the effects of VSSs on income and yields, 
+highlighting differences between certified and non-certified farmers. Third, we present the associated production 
+costs, particularly those concerning inputs, labour and mechanisation. Fourth, we discuss the importance of 
+capacity-building initiatives and their multiple benefits. Fifth, we highlight the spillover benefits generated by the 
+introduction of VSSs in the commodity value chain. Finally, we analyse the market dynamics that shape farmers’ 
+ability to benefit from VSS adoption, including quasi-mandatory certification requirements in export-oriented 
+commodity sectors and the specific market constraints affecting the rice value chain in Vietnam.
+4.2.1.  Effects across VSSs
+The reviewed studies revealed both heterogeneity and some common patterns in their effects on the 
+selected SLF indicators across certification schemes, reflecting distinct objectives, operational models, and 
+context-specific factors influencing performance.
+12
+ R. D’ANNOLFO AND F. DEMARIA

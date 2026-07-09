@@ -1,0 +1,112 @@
+--- CHUNK HEADER ---
+Chunk ID: A-EUDR-101-C08
+Parent Doc ID: A-EUDR-101
+Page Range: Page 15 to Page 16
+Word Range: 12718 - 14470
+Word Count: 1,753
+--------------------
+
+[Page 15]
+(42) Sustainability repor ting standards should take account of the Guidelines on non-f inancial repor ting and the 
+Guidelines on repor ting climat e-relat ed inf or mation. They should also tak e account of other repor ting requirements 
+in Directive 2013/34/EU that are not directly related to sustainability , with the aim of provi ding the users of the 
+repor ted inf or mation with a bett er understanding of the development, performa nce, position and im pact of the 
+under taking, by maximising the link s between the sustainability inf or mation and other inf or mation repor te d in 
+accordance with Directive 2013/34/EU.
+(43) Sustainability repor ting standards should be propor tionate and should not im pose an unnecessar y administrative 
+burden on companies that are required to use them. In order to minimise disr upti on f or under takings that already 
+repor t sustainability inf or mation, sustainability repor ting standards should take account of existing standards and 
+framewor k s f or sustainability repor ting and accounting where appropr iat e. Such existing standards and frameworks 
+include the Global Repor ting Initiative, the Sustainability A ccounting Standards Board, the Internatio nal Int egrated 
+Repor ting Council, the Intern ational A ccounting Standards Board, the T ask Force on Climate-r elated Financial 
+Disclosures, the Carbon Disclosure Standards Board, and CDP , f or merly known as the Carbon Disclosure Project.
+U nion standards should take account of any sustainability repor ting standards developed under the auspices of 
+Internatio nal Financial Repor ting Standards Foundation. T o av oid unnecessar y regulator y fragmentation that could 
+hav e nega tive consequences f or under takings operating g lobally , U nion sustainability repor ting standards should 
+contr ibut e to the process of converg ence of sustainability repor ting standards at g lobal level, by suppor ting the 
+w ork of the Internati onal Sustainability Standards Board (ISSB). Union sustainability repor ting standards should 
+reduce the r isk of inconsist ent repor ting requirements f or under takings that operat e g lobally by integrat ing the 
+conte nt of g lobal baseline standards to be developed by the ISSB, to the extent that the content of those baseline 
+standards is consistent with the Union’s legal framework and the objectives of the Green Deal.
+(44) In the Green Deal the Commission committed itself to suppor t businesses and other stak eholders in developing 
+standardised natural capital accounting practices within the U nion and internatio nally , with the aim of ensur ing 
+appropr iat e management of en vironmental r isks and mitig ation oppor tunities, and reduce related transaction costs.
+The T ransparent Project sponsored under the Programme f or the Environment and Climate A ction (LIFE 
+programme) established by Regulation (EU) 2021/783 of the European Parliament and of the Council (
+30
+) is 
+developing the first natural capital accounting methodology , which will make existing methods easier to compare 
+and more transparent while lower ing the threshold f or companies to adopt and use the syste ms in suppor t of 
+future-proofing their business. The Natural Capital Protocol is also an impor tant referen ce in the fi eld of natural 
+capital accounting. While natural capital accounting methods ser ve pr incipally to strengthen internal management 
+decisions, they should be duly considered when establishing sustainability repor ting standards. Some natural capital 
+accounting methodologies seek to assign a monetar y value to the environmental impacts of companies’ activities, 
+which ma y help users of sustainability inf or mation to bette r understand such im pacts. It is theref ore appropr iat e 
+that sustainability repor ting standards should be able to include monetised indicators of sustainability im pacts if 
+that is deemed necessar y .
+(45) Sustainability repor ting standards should also take account of internati onally recognised pr inciples and frameworks 
+on responsible business conduct, cor porate social responsibility , and sustainable development, including the SDGs, 
+the UN Guiding Pr inciples on Business and Human Rights, the OECD Guidelines f or Multinational Enter pr ises, the 
+OECD Due Dilig ence Guidance f or Responsible Business Conduct and relat ed sectoral guidelines, the Global 
+Com pact, the Intern ational Labour Org anization’s (IL O) T r ipar tit e Declaration of Pr inciples concer ning 
+Multinational Enterpr ises and Social P olicy , the ISO 26000 standard on social responsibility , and the UN Pr inciples 
+f or Responsible Inv estment.
+(
+30
+) Regulation (EU) 2021/783 of the European Parliament and of the Council of 29 Apr il 2021 establishing a Programme f or the 
+Environment and Climate A ction (LIFE), and repealing Regulation (EU) No 1293/2013 (OJ L 172, 17.5.2021, p. 53).
+EN
+Offi cial Jour nal of the European Uni on 16.12.2022 L 322/29
+
+[Page 16]
+(46) It should be ensured that the inf or mation repor ted by under takings in accordance with the sustainability repor ting 
+standards meets the needs of users and does not place a dispropor tionat e burden in term s of eff or t and cost on the 
+repor ting under takings and those that are indirectly aff ected as par t of the value c hain of those under takings. The 
+sustainability repor ting standards should theref ore specify the inf or mation that under takings are to disclose on all 
+maj or environmental fact ors, including their im pacts and dependencies on climat e, air , land, water and biodiversity . 
+Regulation (EU) 2020/852 provid es a classificat ion of the en vironmental objectives of the Union.
+For reasons of coherence, it is appropr iat e to use a similar classification to identify the en vironmental fact ors that 
+should be addressed by sustainability repor ting standards. The sustainability repor ting standards should consider 
+and specify any ge ographical or other conte xtual inf or mation that under takings should disclose to provi de an 
+understanding of their pr incipal impa cts on sustainability matt ers and the pr incipal r isks to the under taking ar ising 
+from sustainability matt ers. When specifying the inf or mation about en vironmental fact ors that under takings are to 
+disclose, coherence should be ensured with the def initions laid down in Ar ticle 2 of Regulation (EU) 2020/852 and 
+the repor ting requirements laid down in Ar ticle 8 of that Regulation and in the delegat ed acts adopt ed pursuant to 
+that Regulation.
+(47) With regard to climat e-related inf or mation, users are inte rested in knowing about under takings’ physical and 
+transition r isks, and about their resilience as regards, and plans to adap t to, differ ent climate scenar ios and plans to 
+adapt to the U nion’s objective of climat e neutrality by 2050. They are also interest ed in the level and scope of GHG 
+emissions and removals attr ibuted to the under taking, including the ext ent to whic h the under taking uses offsets 
+and the source of those offsets. A c hieving a climat e neutral econom y requires the alignment of GHG accounting 
+and offsetting standards. Users need reliable inf or mation regar ding offsets that addresses concer ns regarding 
+possible double counting and overestimations, given the r isks to the achi evement of climate -related targets that 
+double counting and o verestimations can creat e. Users are also inte rested to know the eff or ts made by compan ies to 
+effe ctively reduce absolute GHG emissions as par t of their climate mitigation and adaptation strategies, including 
+scope 1, scope 2 and, where relevant, scope 3 emissions.
+With regard to scope 3 emissions, a pr ior ity f or users is to receive inf or mation about whic h scope 3 catego r ies are 
+signif icant in the case of the under taking, and about the emissions in each of those scope 3 catego r ies. The 
+sustainability repor ting standards should theref ore specify the inf or mation under takings should repor t with regar d 
+to such matters.
+(48) A c hieving a climat e-neutral and circular economy without diffuse pollution requires the full mobilisation of all 
+economic sect ors. Reducing energy use and increasing energy effi ciency is ke y in this respect, as energy is used 
+across supply c hains. Energy aspects should theref ore be duly considered in sustainability repor ting standards, in 
+par ticular in relation to envi ronmental matte rs, including climat e-related matt ers.
+(49) Sustainability repor ting standards should specify the inf or mation that under takings should disclose on social fact ors, 
+including working conditions, social par tner inv olvement, collective bargaining, equality , non-discr imination, 
+diversity and inclusion, and human r ights. Such inf or mation should cover the impacts of the under taking on 
+people, including w orkers, and on human health. The inf or mation that under takings disclose about human r ights 
+should include inf or mation about f orced labour and child labour in their value c hains where relevant. Sustainability 
+repor ting requirements concer ning f orced labour should not free public author ities of their responsibility to address, 
+through trade policy and diplomatic means, the im por t of goods produced as a result of human r ights abuses, 
+including f orced labour . U nder takings should also be able to repor t on possible r isks and trends regarding 
+emplo yment and incomes.
+Sustainability repor ting standards that address social fact ors should specify the inf or mation that under takings 
+should disclose with regard to the pr inciples of the European Pillar of Social Rights that are relevant to businesses, 
+including equal oppor tunities f or all and w orking conditions. The A ction Plan on the European Pillar of Social 
+Rights, adop ted by the Commission on 4 Marc h 2021 , calls f or stronger requirements on under takings to repor t on 
+social issues. The sustainability repor ting standards should also specify the inf or mation that under takings should 
+disclose with regar d to the human r ights, fundamental freedoms, democratic pr inciples and standards established in 
+the Internati onal Bill of Human Rights and other core UN human r ights con ventions, including the UN Convention 
+on the Rights of P ersons with Disabilities, the UN Declaration on the Rights of Indige nous P eoples, the UN 
+EN
+Offi cial Jour nal of the European Uni on L 322/30 16.12.2022

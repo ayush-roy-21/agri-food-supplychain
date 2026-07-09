@@ -1,0 +1,258 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C01
+Parent Doc ID: A-RES-100
+Page Range: Page 1 to Page 7
+Word Range: 1 - 1267
+Word Count: 1,267
+--------------------
+
+[Page 1]
+www.sustainable.mit.edu
+ISSUE NO.06
+StillStill    MattersMattersStill  Matters
+TRANSPORTATION
+SCOPE 3 EMISSIONS
+ROLE OF REGULATIONS
+SustainabilitySustainability  Sustainability
+
+[Page 2]
+Since 1963, the Council of Supply Chain Management
+Professionals (CSCMP) has been the leading worldwide
+professional association dedicated to education,
+research, and the advancement of the supply chain
+management profession. With more than 9,000
+members globally, representing business, government,
+and academia from 62 countries, CSCMP members are
+the leading practitioners and authorities in the fields of
+logistics and supply chain management. Learn more at
+cscmp.org
+All rights reserved. This publication or parts thereof may
+not be reproduced or modified in any form, stored in any
+retrieval system, or transmitted in any form by any means
+—electronic, mechanical, photocopy, recording, or
+otherwise— without prior written permission of the
+publisher, except as provided by United States of
+America copyright law.
+For permission requests, write to the publisher at:
+77 Massachusetts Avenue, Building E40-263
+Cambridge, MA 02139
+or ctl_comm@mit.edu
+Version 4
+Last updated: November 13, 2025
+Suggested Citation:
+Velázquez Martínez, J. C., Rajagopalan, S., Arnold, V. &
+Mora Quinones, C. A., (2025, October). State of supply
+chain sustainability 2025. MIT Center for Transportation
+& Logistics and Council of Supply Chain Management
+Professionals. https://sustainable.mit.edu/sscs-report/
+About the MIT Center for Transportation & Logistics
+www.sustainable.mit.edu
+The MIT Center for Transportation & Logistics (MIT CTL)
+is a leading research and educational center within the
+Massachusetts Institute of Technology with more than
+50 years of supply chain expertise. More than a decade
+ago, supply chain sustainability emerged as a key
+research area at the center. The center has responded
+with research, e
+ducation, and outreach to address the
+continuing growth of supply chain sustainability as a
+business imperative fueled by the demands and
+requirements of consumers, governments, and investors.
+Supply chain sustainability research at the center is
+focused on enabling research and collaboration on the
+social and environmental sustainability of supply chain
+business processes. Learn more at 
+ctl.mit.edu
+About the Council of Supply Chain Management
+Professionals
+Copyright © 2025 Massachusetts Institute of
+Technology
+
+[Page 3]
+SPONSORED  BY:
+
+[Page 4]
+EXECUTIVE SUMMARY 06
+INTRODUCTION 08
+METHOLODOLOGY 12
+THE ROLE OF REGULATIONS 14
+MANAGING SCOPE 3: FROM
+MEASUREMENT TO MITIGATION
+20
+CONCLUSION & NEXT STEPS 40
+APPENDICES 42
+TRANSPORTATION  SECTOR 34
+TABLE OF                     
+CONTENTS
+State of Supply Chain Sustainability 2025
+
+[Page 5]
+FIGURES AND
+TABLES
+Demographics of the 2025 Respondents
+FIGURE 1
+13
+Corporate Sustainability Commitment Remains Stable Despite U.S. Paris Withdrawal
+FIGURE 2
+15
+Regional Comparison of Companies Feeling Pressure to Make Sustainable Changes
+FIGURE 3
+16
+Confidence Levels of Companies in Reaching Their Sustainability Goals
+FIGURE 4
+16
+From Commitment to Action: Share of Businesses Integrating Sustainability in Daily
+Decisions
+FIGURE 5
+17
+Businesses with Public Goals Show Higher Sustainability Integration Rates
+FIGURE 6
+18
+Tools used to measure Scope 3 emissions
+FIGURE 7
+22
+Regional Breakdown of Tools Used to Measure Scope 3 Emissions
+FIGURE 8
+22
+24
+Top Challenges in Measuring Scope 3 Emissions
+FIGURE 10
+25
+Regional Differences in Challenges Measuring Scope 3 Emissions
+FIGURE 11
+25
+Biggest Challenges in Reducing Scope 3 Emissions
+FIGURE 12
+26
+Regional Differences in Challenges Reducing Scope 3 Emissions
+FIGURE 13
+27
+Barriers to Reducing Emissions Among SMEs
+FIGURE 14
+28
+FIGURE 15
+Ways Companies Engage with Suppliers to Reduce Scope 3 Emissions
+Data Sources for Scope 3 Measurement
+FIGURE 9
+23
+FIGURE 16
+Regional Breakdown of Ways Companies Engage with Suppliers to Reduce Scope 3
+Emissions
+29
+FIGURE 17
+Participation in Industry Collaborations
+30
+FIGURE 18
+Regional Breakdown in Participation in Industry Collaborations
+30
+FIGURE 19
+Benefits Gained From Participating in Industry Collaborations
+31
+FIGURE 21
+Regional Difference in Challenges That Limit Industry Collaborations 
+33
+FIGURE 22
+The Significance of Biofuels, Electric Batteries, and Hydrogen In Reducing Emissions
+36
+FIGURE 23
+Hurdles in the Adoption of Lower-Emission Technologies in the Freight Transportation
+Sector
+37
+FIGURE 24
+Regional Hurdles in the Adoption of Lower-Emission Technologies in the Freight
+Transportation Sector
+38
+FIGURE 25
+Strategies Ranked in Terms of Importance to Reducing Emissions in Freight
+Transportation
+39
+FIGURE 20
+Challenges That Limit Industry Collaborations
+32
+Issue No.06
+
+[Page 6]
+Sustainability still matters; despite regulatory
+volatility, geopolitical shifts, and economic
+uncertainty, it remains a core driver of business
+success and a defining element of modern supply
+chains.
+The breadth of this data enables us to capture both
+global perspectives and regional nuances, offering
+a comprehensive view of how supply chain
+sustainability is evolving.
+EXECUTIVE
+SUMMARY
+6 State of Supply Chain Sustainability 2025
+The 2025 State of Supply Chain Sustainability
+report produced by the MIT Sustainable Supply
+Chain Lab and the Council of Supply Chain
+Management Professionals, provides an in-depth
+view of how organizations are turning
+commitments into action, where progress is
+strongest, and what barriers remain.
+This year’s study draws on responses from 1,200
+professionals in 97 countries, spanning supply
+chain, procurement, operations, logistics, and
+sustainability roles.
+ 
+This year marks the sixth annual report, and the
+study explores three major themes:
+How government regulations influence companies’
+sustainable commitments, and how these effects
+vary across regions
+Role of Regulations
+The tools, methods, and challenges companies face
+in measuring and reducing supply chain emissions,
+which typically account for more than 75% of
+corporate carbon footprints
+Managing Scope 3: From Measurement to
+Mitigation
+A dedicated section on freight transportation, one of
+the largest contributors to Scope 3 emissions,
+assessing technology expectations, adoption
+hurdles, and strategic priorities across biofuels,
+battery-electric systems, and hydrogen-based
+solutions.
+Freight Transportation
+
+[Page 7]
+Issue No.06
+Several insights stand out in the 2025 findings. First, despite regulatory shifts, overall corporate commitment
+to sustainability remains resilient. While 15% of companies report reduced commitments, 12% have increased
+theirs, and 73% report no change, showing that most organizations are holding steady with their sustainability
+goals. However, only a minority succeed in translating this conviction into daily operations that deliver
+measurable results, leaving a persistent gap between strategy and execution. This year’s findings make it
+clear that publicly stated sustainability goals can be a powerful catalyst—companies that set them are 74%
+more likely to invest in high-impact initiatives and embed sustainability into day-to-day decision-making.
+Second, Scope 3 emissions remain both the biggest challenge and the greatest opportunity. Progress has
+been made in tracking direct emissions, but supplier engagement, methodological clarity, and financing
+mechanisms remain critical bottlenecks. Where companies do succeed, they leverage digital traceability,
+standardized accounting, and industry collaborations to move the needle.
+Finally, freight transportation underscores both the urgency and the complexity of decarbonization.
+Companies are exploring alternatives to petroleum-based fuels, viewing biofuels as the most practical near-
+term option, battery-electric solutions as increasingly viable for urban and regional routes, and hydrogen as
+the long-term answer for heavy-duty operations. Yet adoption is slowed by infrastructure gaps, upfront
+investment needs, and operational trade-offs.
+Together, these insights reveal that true leaders are those who move beyond intent. In 2025, the companies
+at the forefront of sustainability are embedding it into their core operations—through digital traceability,
+harmonized data, incentive-aligned procurement, and active industry collaborations—unlocking both
+measurable environmental impact and greater operational resilience. The State of Supply Chain Sustainability
+report serves as both mirror and map—reflecting where businesses stand today and outlining clear,
+measurable pathways to accelerate supply chain decarbonization globally. 7
+“This report is indispensable for anyone
+in supply chain. Businesses, investors,
+and consumers are demanding higher
+social and environmental sustainability
+standards—and supply chains are at the
+center of delivering on them. 
+The 2025 State of Supply Chain
+Sustainability Report highlights where
+progress is being made, where
+challenges remain, and what strategies
+will drive the next wave of impact.
+CSCMP and MIT are proud to present
+the sixth edition of this essential
+resource to help you benchmark and
+accelerate your sustainability journey.”
+Mark Baxa, President and CEO of CSCMP

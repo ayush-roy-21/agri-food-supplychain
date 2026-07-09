@@ -1,0 +1,122 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-109-C10
+Parent Doc ID: A-RES-109
+Page Range: Page 26 to Page 27
+Word Range: 12976 - 14193
+Word Count: 1,218
+--------------------
+
+[Page 26]
+Dorward, L.J. (2012), “Where are the best opportunities for reducing greenhouse gas emissions
+in the food system (including the food chain)? A comment ”, Food Policy , Vol. 37 No. 4,
+pp. 463-466, available at: https://doi.org/10.1016/j.foodpol.2012.04.006
+Fahimnia, B., Tang, C.S., Davarzani, H. and Sarkis, J. (2015), “Quantitative models for managing supply
+chain risks: a review ”, European Journal of Operational Research , Vol. 247 No. 1, pp. 1-15,
+available at: https://doi.org/10.1016/j.ejor.2015.04.034
+Fassam, L. and Dani, S. (2017), “A conceptual understanding of criminality and integrity challenges
+in food supply chains ”, British Food Journal , Vol. 119 No. 1, pp. 67-83, available at:
+https://doi.org/10.1108/BFJ-07-2016-0314
+Food Drink Europe (2016), “Data and trends of the EU Food and Drink Industry ”, available at: www.
+fooddrinkeurope.eu/publication/data-trends-of -the-european-food-and-drink-industry-2016/
+(accessed 25 November 2018).
+Fredriksson, A. and Liljestrand, K. (2015), “Capturing food logistics: a literature review
+and research agenda ”, International Journal of Logistics Research and Applications: A Leading
+Journal of Supply Chain Management ,V o l .1 8N o .1 ,p p .1 6 - 3 4 ,a v a i l a b l ea t :
+https://doi.org/10.1080/13675567.2014.944887
+Ganeshkumar, C., Pachayappan, M. and Madanmohan, G. (2017), “Agri-food supply chain
+management: literature review ”, Intelligent Information Management , Vol. 9 No. 2, pp. 68-96,
+available at: https://doi.org/10.4236/iim.2017.92004
+Germani, M., Mandolini, M., Marconi, M., Marilungo, E. and Papetti, A. (2015), “A system to increase the
+sustainability and traceability of supply chains ”, Procedia CIRP , Vol. 29 No. 1, pp. 227-232,
+available at: https://doi.org/10.1016/j.procir.2015.02.199
+Ghadge, A., Dani, S. and Kalawsky, R. (2012), “Supply chain risk management: present and
+future scope ”, The International Journal of Logistics Management , Vol. 23 No. 3,
+pp. 313-339, available at: https://doi.org/10.1108/09574091211289200
+Giagnocavo, C., Bienvenido, F., Li, M., Zhao, Y.R., Sanchez-Molina, J.A. and Yang, X.T. (2017),
+“Agricultural cooperatives and the role of organisational models in new intelligent traceability
+systems and big data analysis ”, International Journal of Agricultural and Biological Engineering ,
+Vol. 10 No. 5, pp. 115-125, available at: https://doi.org/10.25165/j.ijabe.20171005.3089
+Green, R.F., Joy, E.J.M., Harris, F., Agrawal, S., Aleksandrowicz, L., Hillier, J. and
+Dangour, A.D. (2018), “Greenhouse gas emissions and water footprints of typical dietary
+patterns in India ”, Science of the Total Environment , Vol. 643, December, pp. 1411-1418,
+available at: https://doi.org/10.1016/j.scitotenv.2018.06.258
+Henchion, M. and McIntyre, B. (2005), “Market access and competitiveness issues for food SMEs in
+Europe’s lagging rural regions (LRRs) ”, British Food Journal , Vol. 107 No. 6, pp. 404-422,
+available at: https://doi.org/10.1108/00070700510602183
+Hinrichs, C.C. (2000), “Embeddedness and local food systems: notes on two types of direct
+agricultural market ”, Journal of Rural Studies , Vol. 16 No. 3, pp. 295-303, available at:
+https://doi.org/10.1016/S0743-0167(99)00063-7
+Huo, B., Zhao, X. and Lai, F. (2018),“Supply chain quality integration: relational antecedents and operational
+consequences”, Supply Chain Management , Vol. 23 No. 3, pp. 188-206, available at:
+https://doi.org/10.1108/SCM-08-2017-0280
+Jarosz, L. (2008),“The city in the country: growing alternative food networks in metropolitan areas”, Journal
+of Rural Studies,V o l .2 4N o .3 ,p p .2 3 1 - 2 4 4 ,a v a i l a b l ea t :h t t p s ://doi.org/10.1016/j.jrurstud.2007.10.002
+Jonsson, P. and Gustavsson, M. (2008), “The impact of supply chain relationships and automatic data
+communication and registration on forecast information quality ”, International Journal of
+Physical Distribution and Logistics Management , Vol. 38 No. 4, pp. 280-295, available at:
+https://doi.org/10.1108/09600030810875382
+Khan, S., Haleem, A., Khan, M.I., Abidi, M.H. and Al-Ahmari, A. (2018), “Implementing traceability
+systems in specific supply chain management (SCM) through critical success factors (CSFs) ”,
+Sustainability, Vol. 10 No. 1, pp. 1-26, available at: https://doi.org/10.3390/su10010204
+44
+JAMR
+17,1
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
+
+[Page 27]
+Lin, J., Shen, Z., Zhang, A. and Chai, Y. (2018), “Blockchain and IoT based food traceability for smart
+agriculture”, ICCSE’18 Proceedings of the 3rd International Conference on Crowd Science and
+Engineering, Vol. 3, pp. 1-6, available at: https://doi.org/10.1145/3265689.3265692
+Liu, Y., Chen, X. and Rabinowitz, A.N. (2018), “Energy-milk price transmission at the product
+brand level Xun Li ”, Agricultural Economics , Vol. 49 No. 3, pp. 289-299, available at:
+https://doi.org/10.1111/agec.12416
+Luo, J., Ji, C., Qiu, C. and Jia, F. (2018), “Agri-food supply chain management: bibliometric and content
+analyses”, Sustainability, Vol. 10 No. 5, pp. 1-22, available at: https://doi.org/10.3390/su10051573
+Mahajan, R., Garg, S. and Sharma, P.B. (2017), “Processed food supply chain: a framework for
+literature review ”, Journal of Advances in Management Research , Vol. 14 No. 1, pp. 91-109,
+available at: https://doi.org/10.1108/JAMR-05-2016-0035
+Manning, L. and Soon, J.M. (2016), “Food safety, food fraud, and food defense: a fast evolving
+literature ”, Journal of Food Science , Vol. 81 No. 4, pp. R823-R834, available at:
+https://doi.org/10.1111/1750-3841.13256
+Mertins, K., Jaekel, F.W. and Deng, Q. (2012), “Towards information customization and interoperability
+in food chains ”, in van Sinderen, M., Johnson, P., Su, X. and Doumeingts, F. (Eds), Enterprise
+Interoperability. IWEI 2012. Lecture Notes in Business Information Processing , Vol. 122,
+Springer, Berlin and Heidelberg, pp. 92-103.
+Mattevi, M. and Jones, J.A. (2016a), “Traceability in the food supply chain: awareness and attitudes of
+UK small and medium-sized enterprises ”, Food Control , Vol. 64, pp. 120-127, available at:
+https://doi.org/10.1016/j.foodcont.2015.12.014
+Mattevi, M. and Jones, J.A. (2016b), “Food supply chain: are UK SMEs aware of concept, drivers,
+benefits and barriers, and frameworks of traceability? ”, British Food Journal , Vol. 118 No. 5, pp.
+1107-1128, available at: https://doi.org/10.1108/BFJ-07-2015-0261
+Meyer, J. and Cramon-Taubadel, S.V. (2004), “Asymmetric price transmission: a survey ”,
+Journal of Agricultural Economics , Vol. 55 No. 3, pp. 581-611, available at:
+https://doi.org/10.1111/j.1477-9552.2004.tb00116.x
+Milojevic, S. (2013), “Network analysis and indicators”, in Ding, Y., Rousseau, R. and Dietmar, W. (Eds),
+Measuring Scholarly Impact Methods and Practice , Springer, Cham, Heidelberg, New York, NY,
+Dordrecht and London, pp. 215-234.
+Nabhani, F. and Shokri, A. (2009), “Reducing the delivery lead time in a food distribution SME through
+the implementation of six sigma methodology ”, Journal of Manufacturing Technology
+Management, Vol. 20 No. 7, pp. 957-974.
+Nazlioglu, S. (2011), “World oil and agricultural commodity prices: evidence from nonlinear causality ”,
+Energy Policy, Vol. 39 No. 5, pp. 2935-2943, available at: https://doi.org/10.1016/j.enpol.2011.03.001
+Newbert, S.L. (2007), “Empirical research on the resource-based view of the firm: an assessment and
+suggestions for future research ”, Strategic Management Journal , Vol. 28 No. 2, pp. 121-146,
+available at: https://doi.org/10.1002/smj
+Notarnicola, B., Hayashi, K., Curran, M.A. and Huisingh, D. (2012), “Progress in working towards a
+more sustainable agri-food industry ”, Journal of Cleaner Production , Vol. 28, pp. 1-8,
+available at: https://doi.org/10.1016/j.jclepro.2012.02.007
+Notarnicola, B., Sala, S., Anton, A., McLaren, S.J., Saouter, E. and Sonesson, U. (2017), “The role of life
+cycle assessment in supporting sustainable agri-food systems: a review of the challenges ”,
+Journal of Cleaner Production, Vol. 140, pp. 399-409, available at: https://doi.org/10.1016/j.jclepro.
+2016.06.071
+Noya, L.I., Vasilaki, V., Stojceska, V., González-García, S., Kleynhans, C., Tassou, S. and Katsou, E.
+(2018), “An environmental evaluation of food supply chain using life cycle assessment: a case
+study on gluten free biscuit products ”, Journal of Cleaner Production , Vol. 170, January,
+pp. 451-461, available at: https://doi.org/10.1016/j.jclepro.2017.08.226
+Olsen, P. and Borit, M. (2013), “How to define traceability ”, Trends in Food Science and Technology ,
+Vol. 29 No. 2, pp. 142-150, available at: https://doi.org/10.1016/j.tifs.2012.10.003
+45
+Supply chain
+issues in SME
+food sector
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

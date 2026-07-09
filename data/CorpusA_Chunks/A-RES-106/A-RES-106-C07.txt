@@ -1,0 +1,115 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-106-C07
+Parent Doc ID: A-RES-106
+Page Range: Page 18 to Page 19
+Word Range: 8807 - 10269
+Word Count: 1,463
+--------------------
+
+[Page 18]
+household dynamics even after the adoption of VSSs. Cultural practices and norms often restricted women's 
+access to farmland and decision-making, as land was typically inherited by males within families (Klier and 
+Possinger, 2015; Waarts et al., 2015 ). Additionally, women who did inherit land typically received smaller plots, 
+limiting their yields and further reducing their income (Klier & Possinger, 2012 ).
+Although Nelson et al. ( 2013 ) reported an increase in women’s membership in certified cocoa organisa -
+tions from 28% in 2008 to 32.13% in early 2013, Rijn et al. ( 2016 ) noted that women’s interests were often 
+inadequately represented within unions and committees, with very few women holding supervisory 
+positions. Mauthofer and Santos ( 2022 ) highlighted that systemic issues persist and that VSSs' efforts to 
+promote gender equality were insufficient to overcome common stigmas. Gender-discriminatory practices 
+were deeply rooted in society (e.g. land inheritance rules favouring men), requiring targeted strategies to 
+improve representation and participation in VSSs (Mauthofer & Santos, 2022 ). Younger rural women, 
+particularly those without secure land rights, encountered increasingly complex barriers to accessing 
+training, becoming members of cooperatives, and participating in decision-making (Msosa, 2022 ). These 
+limitations hindered the potential of sustainability certification to promote meaningful women’s empow -
+erment within agricultural value chains. These interconnected aspects reflected broader gender constraints 
+present in many developing countries (Chiputwa et al., 2021 ; Lloyd, 2024 ).
+4.4.2.  Price premium
+The amount and utilisation of price premiums from VSSs have been pivotal in enhancing SLF and supporting 
+project initiatives for the entire farming community (Snider et al., 2017 ). However, the effectiveness and equitable 
+distribution of price premiums have sparked considerable debate in the literature (Boonaert & Maertens, 2023 ).
+According to Rijn et al. ( 2016 ), the cocoa price premium in Ghana, approximately USD 200 per tonne, 
+provided a significant financial boost to local economies by funding initiatives such as community projects 
+and strengthening farmers' organisations. Similarly, Nelson et al. ( 2013 ) observed that while price premium 
+funds were invested in essential community infrastructure, including boreholes, schools, and healthcare 
+facilities, the benefits did not always effectively trickle down to individual farmers.
+Smith ( 2010 ) reported that the allocation of premiums occasionally caused conflict due to perceived 
+discrimination, as workers often viewed these premiums as charitable transfers rather than benefits earned 
+from their labour activities. Consequently, this negative perception reduced the intended economic 
+empowerment effect of the price premiums (Smith, 2010 ). According to Klier and Possinger ( 2012 ), farmers 
+were sometimes unaware of how VSSs operate, including how the price premium is distributed and used. 
+As a result, this lack of awareness limited farmers' participation in decision-making and reduced their sense 
+of ownership over community projects funded by the price premiums (Jena et al., 2012 ).
+4.4.3.  Small vs large farmers
+Akrong et al. ( 2022 ) found that farmers with higher household incomes and secure land access were more 
+likely to participate in certification schemes, as they could afford the monitoring, audits, and administrative 
+costs associated with VSSs. In contrast, farmers with lower incomes or those relying on off-farm activities 
+and insecure assets were less likely to comply with VSS initiatives (Akrong et al., 2022 ). Similarly, Kleemann 
+et al. ( 2014 ) emphasised that the costs of adhering to VSS schemes in the pineapple value chain, along with 
+the required investments, were prohibitive for smallholder farmers, particularly those with limited access to 
+credit. Fenger et al. ( 2017 ) highlighted the need to provide inputs and financial services, such as savings 
+and insurance services, through VSSs and government institutions to support poorer farmers. While VSSs 
+can lead to productivity improvements and encourage the adoption of new technologies, they may favour 
+larger farmers, potentially widening the gap between them and smaller farmers and intensifying existing 
+inequalities and vulnerabilities (Kleemann et al., 2014 ).
+4.5.  Policy recommendations
+As suggested by Ingram et al. ( 2018 ) and Eyhorn et al. ( 2019 ), a comprehensive and holistic transformation 
+of the agri-food systems is highly advisable to move towards sustainability. The following policy recom -
+mendations should be framed within the context of enhanced partnerships among relevant stakeholders to 
+strengthen the role of VSSs in advancing the SDGs agenda. Therefore, we identify specific areas for policy 
+INTERNATIONAL JOURNAL OF AGRICULTURAL SUSTAINABILITY
+ 17
+
+[Page 19]
+interventions that governments, development agencies, and multistakeholder initiatives should implement 
+to make VSSs fully beneficial for smallholder farmers while promoting transformative food systems.
+4.5.1.  Promoting participatory and bottom-up extension models
+Based on the studies conducted by Ho et al. ( 2018 ) and Tu et al. ( 2019 ), the availability of extension services 
+provided by local governments was negatively associated with the efficiency levels of coffee and rice 
+production in Vietnam. Barham and Weber ( 2012 ) and Ho et al. ( 2018 ) highlighted that government 
+extension services mainly focus on conventional approach aimed at increasing yields in the short-term, 
+rather than addressing environmental challenges, which require a long-term perspective. Moreover, 
+Vietnamese farmers often had unrestricted access to agrochemicals and applied them under the guidance 
+of input sellers, which contributed to the over-application of such products (Tu et al., 2019 ). Similarly, 
+farmers participating in ‘good agricultural practices’ programmes in Vietnam must use certified seeds, 
+which are more expensive and require additional inputs (e.g. water), as well as greater technical and 
+financial resources (Okello et al., 2017 ). As suggested by Gliessman ( 2015 ), extension services aimed to 
+increase sustainability should pay more attention to the variability that exists within and between 
+agroecosystems, including bio-physical, social and economic factors. In this regard, agroecological 
+approaches promoted by VSS schemes can serve as a strategy for transitioning to sustainable farming 
+(Biovision, 2024 ). These approaches rely on common principles, such as increasing diversity, recycling 
+nutrients and energy, and enhancing soil organic matter. However, they need to be adapted to site-specific 
+conditions through collaborative co-creation between farmers and technical advisers, rather than through a 
+prescriptive top-down approach (Barrios et al., 2020 ; Wezel et al., 2020 ).
+Strengthening the effectiveness of VSS implementation requires bottom-up and horizontal exchanges 
+that empower farmers to co-design and adapt sustainability practices. Governments could therefore 
+promote participatory extension models, in which farmer field schools and community organisations jointly 
+develop and test context-appropriate solutions (Friis-Hansen & Duveskog, 2012 ). For example, in Vietnam’s 
+MKD and Ghana’s cocoa regions, peer-to-peer learning and farmer-led experimentation on soil fertility 
+management, water-saving irrigation, and IPM have enhanced both adoption and farmers’ ownership of 
+new practices (Ehiakpor et al., 2021 ; Leippert et al., 2020 ). Development agencies could further facilitate 
+multi-stakeholder platforms linking producer organisations, universities, NGOs, and private buyers to adapt 
+certification requirements to local contexts. For instance, partnerships between research institutes and 
+certification bodies could co-develop locally validated sustainability indicators and disseminate good 
+practices through peer-exchange networks linking certified and non-certified farmers (Lee et al., 2012 ; 
+FAO, 2014 ). Financial incentives, such as matching grants, microfinance, and preferential credit lines, could 
+support cooperative-led training and the transition to agroecological practices that complement existing 
+certification schemes (FAO, 2022 ; WB, 2019 ).
+4.5.2.  Increasing access to land capital
+Nelson et al. ( 2013 ) highlighted that land access posed a significant structural challenge for smallholder 
+farmers when adhering to VSS schemes. Akrong et al. ( 2023 ) emphasised that land ownership significantly 
+affects compliance with VSS standards, noting that farmers who own their land are twice as likely to 
+perform better on environmental indicators compared to those without land ownership. Moreover, Brako 
+et al. ( 2021b ) observed that land tenure in Ghana was predominantly male-dominated, with men typically 
+serving as household heads and landowners. This land tenure system particularly affected cocoa and oil 
+palm production, excluding women from more profitable value chains due to their limited access to larger 
+landholdings (Brako et al., 2021b ). Bennett and Franzel ( 2013 ) also pointed out that fragmented land parcel 
+arrangements and lack of formal land titles, especially for indigenous groups, negatively affect famers 
+adoption of VSSs, highlighting the need for reform in land tenure systems in developing countries. In line 
+with Bennett and Franzel ( 2013 ), Tu et al. ( 2019 ) and van Vliet et al. ( 2021 ) discussed the necessity for 
+structural land reforms, including increasing land sizes to enhance farm efficiency. Tu et al. ( 2019 ) high -
+lighted that the Vietnamese Land Law, which limited farm sizes to 3 hectares per household, hinders the 
+economic and environmental performance of smallholder farmers. As suggested by the same authors, 
+policy changes that permit access to larger farm sizes could also facilitate the adoption of technological 
+innovations and the mechanisation process, thereby enhancing productivity, which is often low among 
+18
+ R. D’ANNOLFO AND F. DEMARIA

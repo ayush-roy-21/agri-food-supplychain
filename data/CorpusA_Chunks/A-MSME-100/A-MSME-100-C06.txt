@@ -1,0 +1,329 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C06
+Parent Doc ID: A-MSME-100
+Page Range: Page 28 to Page 32
+Word Range: 6772 - 7989
+Word Count: 1,218
+--------------------
+
+[Page 28]
+28 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+A.  All Enterprises
+Figure 5: Distribution of enterprises by turnover (INR crore) and profit margins from 2021-22 to 2023-
+24 (in %)
+38.18 38.40
+15.06
+4.91 2.13 1.32
+33.1
+40.33
+18.76
+4.52 1.89 1.40
+29.7
+38.35
+23.13
+5.35 1.87 1.61
+0
+50
+0
+50
+0
+50
+<0.4 0.4-1 1-10 10-50 50-100 >100
+2021-22
+2022-23
+2023-24
+Percent
+Turnover (in INR crore)
+B.  Distribution of Integrated and Non-integrated Firms
+31.24
+42.45
+17.74
+4.67 2.03 1.85
+26.99
+41.19
+23.31
+4.55 1.92 2.01
+25.02
+36.01
+29.12
+5.49 1.91 2.44
+45.16
+34.31
+12.36
+5.15 2.22 0.80
+39.21 39.47
+14.21
+4.47 1.84 0.78
+34.35
+40.68
+17.17
+5.20 1.82 0.78
+0
+50
+0
+50
+0
+50
+<0.4 0.4-1 1-10 10-50 50-100 >100 <0.4 0.4-1 1-10 10-50 50-100 >100
+Integrated, 2021-22
+Integrated, 2022-23
+Integrated, 2023-24
+Not Integrated, 2021-22
+Not Integrated, 2022-23
+Not Integrated, 2023-24
+Percent
+Turnover (in INR crore)
+Characteristics of the Sample
+
+[Page 29]
+29 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+C.  All Enterprises
+15.37
+31.45
+22.94
+10.73 7.39
+12.12
+9.207
+26.65 24.8
+12.95 9.91
+16.48
+8.217
+25.17
+20.28
+13.24 11.71
+21.37
+0
+10
+20
+30
+40
+0
+10
+20
+30
+40
+0
+10
+20
+30
+40
+<10 10-15 15-20 20-25 25-30 >30
+2021-22
+2022-23
+2023-24
+Percent
+Proﬁt Margin (%)
+D.  Distribution of Integrated and Non-integrated Firms
+13
+27.94 28.21
+11.05
+6.36
+13.44
+7.72
+22.3
+29.32
+13.78
+8.60
+18.26
+6.556
+21.42 21.85
+14.69 12.41
+23.08
+17.77
+35.01
+17.59
+10.41 8.43 10.77
+10.7
+31.03
+20.25
+12.11 11.23 14.68
+9.878
+28.93
+18.71
+11.8 11.01
+19.67
+0
+10
+20
+30
+40
+0
+10
+20
+30
+40
+0
+10
+20
+30
+40
+<10 10-15 15-20 20-25 25-30 >30 <10 10-15 15-20 20-25 25-30 >30
+Integrated, 2021-22
+Integrated, 2022-23
+Integrated, 2023-24
+Not Integrated, 2021-22
+Not Integrated, 2022-23
+Not Integrated, 2023-24
+Percent
+Proﬁt Margin (%)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+Characteristics of the Sample
+
+[Page 30]
+30 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Figure 6: Distribution of enterprises by percentage of women employees in the total workforce, 
+classified further by primary owner’s gender and e-commerce integration (in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+Profit margins have increased over the years, again, 
+with integrated firms outperforming non-integrated 
+ones. Most enterprises reported profit margins 
+between 10% and 20%, while a higher proportion of 
+small firms had margins exceeding 20%, followed by 
+micro and medium enterprises. Over time, more firms 
+have moved toward higher profit margins, a trend 
+more pronounced among integrated firms. In 2023-
+24, a greater share of integrated firms reported profit 
+margins above 20% compared to non-integrated firms 
+(Figure 5, C and D).
+The share of women-owned enterprises is generally 
+low, however, among women-owned enterprises, 
+e-commerce seems to be a preferred channel for sale.  
+About 6% of all enterprises were owned by women. 
+The share of women-owned enterprises was slightly 
+higher for e-commerce integrated firms (7%) than non-
+integrated ones (5%). On examining just the women-
+owned enterprises it is seen that about 57% are 
+integrated on e-commerce platforms compared to 50% 
+of male-owned firms. Importantly, contrary to the view 
+that ownership is only indicative, women continue to 
+be the key decision-makers in the firms owned by them, 
+including in integrated firms. 
+A majority of the firms continue to hire more men 
+than women.  Most enterprises do not have an 
+adequate representation of women in their workforce, 
+irrespective of the size or e-commerce integration. 
+Nearly 60% of the firms have less than 20% women 
+in their workforce. Only 2-5% of the firms have 
+more than 50% women employees. The share of 
+women employees is slightly higher in women-owned 
+enterprises and among integrated firms. Yet, none 
+of the firms surveyed had an all-women workforce, 
+irrespective of size, sector, ownership (male or female), 
+and status of integration (Figure 6).
+27.06
+36.47
+20
+5.88 4.70 5.88
+31.46
+24.5
+27.94
+8.31
+4.25 3.52
+34.38
+23.44
+28.13
+4.68 3.12
+6.25
+37.57
+23.96 25.14
+6.66 4.23 2.43
+0
+10
+20
+30
+40
+0
+10
+20
+30
+40
+≤10 >10 - ≤20 >20 - ≤30 >30 - ≤40 >40 - ≤50 >50 ≤10 >10 - ≤20 >20 - ≤30 >30 - ≤40 >40 - ≤50 >50
+Integrated, Female
+Integrated, Male
+Not Integrated, Female
+Not Integrated, Male
+Percent
+Share of Women Employees (%)
+Characteristics of the Sample
+
+[Page 31]
+31 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Figure 7: Distribution of enterprise by their year of establishment and year the firm started selling 
+through e-commerce platform (in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+A majority of integrated firms joined e-commerce 
+platforms to boost their sales.  About one-third of the 
+surveyed enterprises reported they joined the platforms 
+to improve their sales. It is widely acknowledged that 
+e-commerce platforms allow MSMEs to expand their 
+sales by providing an additional channel for connecting 
+with potential customers. A relatively large percentage 
+of medium-size enterprises reported this as the reason 
+for joining e-commerce platforms. Firms, especially 
+among micro-size category, said that it helped that 
+most platforms do not have a joining fee.
+Most enterprises started selling on e-commerce 
+platforms after COVID-19.  Figure 7 highlights that 
+4. Leveraging E-commerce Platforms
+about 71% of enterprises joined e-commerce platforms 
+during or after 2020, and more than 90% joined 
+over the last decade. Notably, only 7% of the firms 
+started selling online the same year they established 
+operations. About 21% started selling within two years 
+of establishing their operations. Nearly 60% of the 
+surveyed enterprises started selling on e-commerce 
+platforms five years after establishing their operations. 
+About 57% of the enterprises directed 50% or more 
+sales to business-to-business operations (or public 
+procurement) and, therefore, selling directly to 
+consumers was not a primary business model for them. 
+Leveraging E-commerce Platforms
+
+[Page 32]
+32 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+While the reliance on online operations, including 
+e-commerce platforms, is growing, offline channels 
+remain dominant. Only 3% of firms initially conducted 
+over 50% of their sales online, but this figure rose to 
+32% by 2023-24. Similarly, as illustrated in Figure 
+8, just 3.6% of firms sold over half of their output 
+via e-commerce platforms when they first adopted 
+them, increasing to around 15% in 2023-24. Despite 
+the expanding role of online sales in market access, 
+offline channels continue to be the primary mode of 
+enterprise sales. The survey found that in 2023-24, 
+for approximately 70% of the firms a majority of their 
+business transactions remained offline and for nearly 
+85%, a majority of the transactions occurred outside 
+e-commerce platforms.
+Source: Authors’ computation of data from ICRIER’s MSME survey
+B. Share of sales in 2023-2024
+22.42
+28.55
+18.14
+12.76
+2.85
+15.28
+0
+10
+20
+30
+Percent
+≤10 >10 - ≤20 >20 - ≤30 >30 - ≤40 >40 - ≤50 >50
+Share of Sales from e-commerce platforms in total sales (%)
+Figure 8: Distribution of enterprises by share of sales from e-commerce platforms in total sales (in %)
+40.22
+21.83
+10.5
+21.66
+2.18 3.61
+0
+10
+20
+30
+40
+Percent
+≤10 >10 - ≤20 >20 - ≤30 >30 - ≤40 >40 - ≤50 >50
+Share of Sales from e-commerce platforms in total sales (%)
+A. Share of sales in the year in which firms started selling on e-commerce platform
+Leveraging E-commerce Platforms

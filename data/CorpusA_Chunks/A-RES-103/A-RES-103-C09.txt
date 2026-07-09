@@ -1,0 +1,146 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C09
+Parent Doc ID: A-RES-103
+Page Range: Page 27 to Page 29
+Word Range: 11052 - 12619
+Word Count: 1,568
+--------------------
+
+[Page 27]
+26 
+In spite of the fact that the laboratory no longer tests finfish (in either the 2021 or 2022 
+residue monitoring plans), t he majority of these methods were found to be adequately 
+validated with appropriate validation criteria and concentration ranges applied in line 
+with the EU Decision (2002/657/EC)  in force at the time of the validation , though not 
+all methods met the validation requirements laid down in Regulation (EU) 2021/808.  
+ 
+Conclusions on laboratories 
+76. Relative to the 2018 audit, improvements have  been made in  the performance 
+of 
+residue testing laboratories, particularly in respect of aquaculture products.  
+Nevertheless, there is still a sizable number of analytical methods for residues in 
+poultry matrices (other than muscle) which have yet to be validated, and in this respect 
+there has been little progress since 2018.   
+5.2 VETERINARY MEDICINAL PRODUCTS 
+5.2.1 Authorisation, distribution and use of veterinary medicinal products  
+77. The manufacture, import, sale and distribution of drugs and drug products are regulated 
+under the Drugs and Cosmetics Act (1940) and Rules (1945) both for human and 
+veterinary medicinal products. It is implemented at national level by the Central Drugs 
+Standard Control Organisation (CDSCO) (under the Directorate -General of Health 
+Services of the Ministry of Health and Family Welfare) an d at state level by their State 
+Drug Licensing Authorities  (SDLA). The CDSCO is responsible, inter alia , for the 
+approval of new drugs (granted for 4 years), based on which the SDLA can approve the 
+manufacturing of the drug in their state with a license validity of 5 years. 
+78. Drug manufacturers and wholesalers for veterinary medicinal products must be 
+authorised ( licensed) similar to what is required in the EU  (56). R etail outlets also 
+require a licence prior to being allowed to sell veterinary medical products. This is done 
+by the SDLA in the state / state region in which they operate  with licenses that are up 
+for renewal every five years. The CDSCO stated that there are ap proximately 600,000 
+registered drug outlets/pharmacies registered in India.  All of the wholesalers and 
+pharmacies visited during the audit had valid licenses. 
+79. Drugs (for veterinary or human use) which include substances that require a 
+prescription by a qualified practitioner (doctor or veterinarian) are listed in schedule H 
+and H1 of the Drugs and Cosmetics Act and Rules. The most recent version of schedule 
+H (31.12. 2016) lists 536 substances , of which only a few are relevant for use in food-
+producing animals. Schedule H1, includes 46 substances which include antimicrobials 
+such as 3rd and 4th generation cephalosporins and some quinolones. 
+80. The list of schedule H substances includes the term “ antibiotics” and lists furthermore 
+several specific anti microbial substances. The competent authority informed the audit 
+ 
+(56) Articles 88 and 99 of Regulation (EU) 2019/6.
+
+[Page 28]
+27 
+team that due to the mentioning of the term “antibiotics”, all drugs containing 
+antimicrobial substance s are prescription drugs.   Nitrofurans and chloramphenicol, 
+banned in the EU for use in food -producing animals, are surprisingly, not included in 
+either Schedule H and H1, and can legally be sold over -the-counter. The presence of 
+nitrofurans on the market was confirmed by the audit team for furazolidone,  
+nitrofurazone and furaltadone in several products  for bovine animals and poultry.   In 
+aquaculture the use of nitrofurans, chl oramphenicol, nitroimidazoles (57) as well as of 
+stilbenes, steroids and dyes (58) is prohibited in India. This is similar to what is foreseen 
+in the EU (59). 
+81. For the prescription -only schedule H and H1 drugs , the pharmacy is  not required to 
+keep a copy of the prescription. F or schedule H drugs , a sales register is required with 
+the name of the prescrib er.  This is different to what is required in the EU  (60). For 
+schedule H1 drugs, the pharmacy needs to keep the name and address of the prescriber, 
+the name of the patien t and the name of the drug and its quantity supplied (61) which is 
+similar to what is required in the EU (62).  
+82. The CDSCO provided the audit team with the list of in India a pproved veterinary 
+medicinal products . This list includes substances that are no t authorised or explicitly 
+prohibited for use in food- producing animals  in the EU  (63) such as d imetridazole, 
+several nitrofurans, cefuroxime, buparvaquone  and tolfenamic acid . The audit team 
+identified that the list was incomplete as it did not include several veterinary medicinal 
+products containing, inter alia, tetracycline, streptomycin, gentamycin, doxycycline, 
+ceftriaxone (not allowed in the EU for food- producing animals), sulfadiazine, 
+penicillin, fenvalerate, bromhexine and cloprostenol, which the audit team saw during 
+their visits.  Furthermore, the list does not mention the approval number of the product, 
+nor in many cases product labelling or leaflet information such as the product name, the 
+target species, nor the information on the required withdrawal periods per commodity, 
+which is different than what is required in the EU (64) 
+83. In two out of three states visited by the audit team, official staff from the respective 
+SDLA provided the audit team with their state´s list of approved veterinary medicinal 
+products. The third state did not do so when requested.  The lists of the two states were 
+largely identical to that of the CDSCO.  SDLA staff therefore have little available 
+information to determine whether a veterinary medicinal product found at a wholesaler, 
+pharmacy or on a far m is approved and if the label information on target species  or 
+withdrawal periods are in line with those of the approval .  This is different to the 
+situation in the EU (65).  
+ 
+(57) Points c and d of Order S.O. 722 (E) of 10/07/2002. 
+(58) Point h of Order S.O. 1227(E) of 23/10/2003. 
+(59) Regulation 37/2010 and Article 11 of Council Directive 96/22/EC. 
+(60) Point 3(f) of Article 103 of Regulation (EU) 2019/6. 
+(61) Point 3.1.g of Article 65 of the Drugs and Cosmetics Act and Rules. 
+(62) Point 3(f) of Article 103 of Regulation (EU) 2019/6. 
+(63) Table 1 and 2 of Regulation (EU) No 37/2010. 
+(64) Articles 55 and 56 of Regulation (EU) 2019/6.  
+(65) Point 32 of Article 4 and Points 1 and 2 of Article 123 of Regulation (EU) 2019/6.
+
+[Page 29]
+28 
+84. Labelling requirements for veterinary medicinal products are laid down in Indian 
+legislation (66) and are largely similar to those required in the EU  (67). Containers of 
+veterinary medicines have to be labelled with the words 'Not for human use; for animal 
+treatment only', shall indicate “ inter alia” the name of the drug, the pharmacologically 
+active substances, the target species, the respective withdrawal period s, the expiry date, 
+the batch number and as specific requirement for India , a symbol depicting the head of 
+a domestic animal.  All of the veterinary medicinal products c hecked by the audit team 
+were correctly labelled. 
+85. The only two substances specifically prohibited for use in all food-producing animals in 
+India are diclofenac since 2008 and colistin since 2019. Further to what was seen in the 
+2018 report, the competent authority informed the audit team that there are no longer 
+any approved veterinary medicinal product s containing diethylstilbestrol for use in 
+cattle, sheep, goats and poultry. This is similar to the situation in the EU (68). 
+86. Certain anti microbials are allowed to be used in aquaculture for therapeutic or 
+zootechnical purposes when authorised by a qualified veterinary surgeon or fishery 
+scientist (69).  These include tetracycline, oxytetracline, trimethoprim and oxolinic acid  
+which are also authorised for use in aquaculture in the EU. The use of other 
+antimicrobials is prohibited in Indian aquaculture. 
+87. Compared to the EU, the audit team noted differences in the pharmacologically act ive 
+substances authorised for different food-producing animal species.  For example, in the 
+EU where there may be a restriction on use (e.g. not for use in lactating animals), this 
+was not the case in India (e.g. for doxycycline, ivermectin and doramectin) .  There 
+were also substances on the market for use in various food- producing animal species 
+for which no MRL has been established for said species in the EU (e.g. cefuroxime, 
+ceftriaxone, ceftizoxime, tazobactam, ofloxacin, pefloxacin, ornidazole, 
+phenylbutazone and paracetamol).   
+88. Different to the approach in the EU (
+70), national manufacturers of veterinary medicinal 
+products indicated on the labelling information (for most of veterinary medicinal 
+products to be used in dairy cows and other species) withdrawal periods which are not 
+based on depletion studies but rather  the withdrawal periods provided for in the EU for 
+off-label use (71). National legislation (72) allows, when the withdrawal period has not 
+been validated, the application of a default withdrawal period of 7 days for milk  and 28 
+days for meat.  At the retailers and wholesalers visited, most of the veterinary medicinal 
+products for food dairy cows and other producing animals i ncluding those containing 
+antimicrobials and anthelmintics had a ‘standard’ withdrawal period of 7 days for milk  
+ 
+(66) Articles 96 and 97 of part IX of the Drugs and Cosmetics Act and Rules 
+(67) Articles 10 and 11 of Regulation (EU) 2019/6. 
+(68)  Article 11 of Council Directive 96/22/EC 
+(69) Point b of Order S.O. 722 (E) of 10/07/2002 read in conjunction with point h of Order S.O. 1227(E) of 
+23/10/2003. 
+(70)  Regulation (EC) No 470/2009. 
+(71) Article 115 of Regulation (EU) 2019/6.  
+(72) Point 3(a) of Article 97 of Part IX of the Drugs and Cosmetics Act and Rules.
