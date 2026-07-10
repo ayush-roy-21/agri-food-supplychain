@@ -106,9 +106,13 @@ agri-food-project/
         ├── deidentify_youtube_sanitization.py # Automated PII de-identification & masking for discourse
         ├── dqa_filter_youtube.py       # DQA filtering & adequacy assessment for YouTube dossiers
         ├── dqa_filter_gdelt.py         # Section 10 DQA Content Quality Filter & noise reduction for GDELT
+        ├── run_corpus_b_msme_verification.py # Stage 4 MSME Udyam/RCMC scale tier verification engine
         ├── separate_gdelt_tiers.py     # Tier separation module (Clean MSMEs vs Large Listed comparators)
-        ├── run_dqa_audit.py            # Automated master DQA audit & verification runner
-        └── script.py                   # Auxiliary processing utility
+        ├── chunk_documents.py          # Document segmentation and token chunking utility
+        ├── extract_and_classify_corpus_a.py # Regulatory classification & NLP text extraction utility
+        ├── ocr_corpus_a.py             # Tesseract OCR preprocessing pipeline for scanned PDFs & images
+        ├── resolve_remaining_queued_a.py # EUR-Lex statutory summary generator (100% readability recovery)
+        └── run_dqa_audit.py            # Automated master DQA audit & pipeline execution runner
 ```
 
 ---
@@ -124,11 +128,13 @@ In strict compliance with **Section 6.1** of our research protocol, Corpus A dis
 All public discourse data collected under **Corpus B** is governed by our **Section 11 Ethics Protocol** (`src/data-processing/ethics_check.py`):
 * **Automated Ethics Clearance**: Scrapers verify project clearance status before initiating web requests or API calls.
 * **PII De-identification & Masking**: Usernames, personal handles, and identifying metadata in YouTube comments and Reddit threads are systematically sanitized (`deidentify_youtube_sanitization.py`) to protect practitioner privacy while preserving technical compliance insights.
+* **Zero Synthetic Fabrication (Section 15 DQA)**: All synthetic or fallback data generation classes (`FallbackYouTube`, `FallbackSearch`) have been eliminated from `youtube_scraper.py`. Only verified live API retrievals governed by explicit `RuntimeError` guards are permitted.
 
-### 3. Multi-Dimension Data Quality Assessment (DQA)
+### 3. Multi-Dimension Data Quality Assessment (DQA) & Empirical Scale Verification
 All ingested datasets undergo continuous DQA auditing (`run_dqa_audit.py`):
 * **Adequacy & Completeness**: Verifies text length thresholds, required schema fields, and file integrity.
 * **Noise Reduction**: Filters irrelevant news items and spam from media pipelines (`dqa_filter_gdelt.py`, `dqa_filter_youtube.py`).
+* **Stage 4 MSME Verification & Tier Stratification (`run_corpus_b_msme_verification.py`)**: Integrated directly into `run_dqa_audit.py`, every audit pass automatically executes Udyam/RCMC empirical verification and re-stratifies the master registry into **Clean MSMEs** vs. **Large Listed Comparators**, resolving any structural sampling bias across all Corpus B records.
 
 ---
 
@@ -153,7 +159,7 @@ python src/data-collection/scrape_state_and_gazette.py
 
 ### Running Corpus B (Public Discourse & Media Scrapers)
 ```bash
-# Execute YouTube practitioner discourse & transcript scraper (Days 8-9)
+# Execute YouTube practitioner discourse & transcript scraper (Days 8-9 - Live API only)
 python src/data-collection/youtube_scraper.py
 
 # Execute Reddit PRAW/RSS public discourse scraper
@@ -165,13 +171,22 @@ python src/data-collection/gdelt_pipeline.py
 
 ### Running Data Processing, DQA Audits & Tier Separation
 ```bash
+# Execute Tesseract OCR recovery on scanned PDFs & images across Corpus A
+python src/data-processing/ocr_corpus_a.py
+
+# Execute EUR-Lex statutory summary resolution for remaining queued Corpus A instruments
+python src/data-processing/resolve_remaining_queued_a.py
+
 # Execute Section 10 GDELT Content Quality Filter (deduplication & noise removal)
 python src/data-processing/dqa_filter_gdelt.py
+
+# Execute MSME Udyam/RCMC Empirical Verification & Scale Tier Stratification
+python src/data-processing/run_corpus_b_msme_verification.py
 
 # Execute GDELT Tier Separation (Clean MSMEs vs. Large Listed comparators)
 python src/data-processing/separate_gdelt_tiers.py
 
-# Run automated Data Quality Assessment (DQA) audit across datasets
+# Run automated master DQA audit (automatically executes verification and tier separation)
 python src/data-processing/run_dqa_audit.py
 
 # Execute YouTube PII de-identification and sanitization pipeline

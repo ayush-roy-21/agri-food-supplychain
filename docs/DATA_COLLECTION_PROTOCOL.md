@@ -95,13 +95,15 @@ This ensures complete auditability, downstream CSV parser stability, and exact 1
 
 ## 6. Core Data-Processing Pipeline Script Inventory (`src/data-processing/`)
 
-All one-off, file-specific fix scripts and temporary simulation tools have been purged from the repository to maintain clean modular architecture. The production pipeline consists exclusively of the following **8 standardized reusable modules**:
+All one-off, file-specific fix scripts and temporary simulation tools have been purged from the repository to maintain clean modular architecture. The production pipeline consists exclusively of the following **10 standardized reusable modules**:
 
 1. **`chunk_documents.py`**: Standardized page-boundary (`--- PAGE N ---`) chunking pipeline with exact parent DQA inheritance and minimum chunk size filtering.
 2. **`extract_and_classify_corpus_a.py`**: Core PDF text extraction, sequential registration (`A-PREFIX-NNN`), and 6-dimension empirical DQA scoring pipeline for Corpus A.
-3. **`dqa_filter_gdelt.py`**: GDELT news quality, paywall/syndication rejection, and word-boundary regex relevance filtering engine.
-4. **`dqa_filter_youtube.py`**: YouTube transcript DQA evaluation, synthetic repetition loop detection, and filtering engine.
-5. **`deidentify_youtube_sanitization.py`**: PII de-identification and masking engine for video transcripts and public practitioner comments.
-6. **`separate_gdelt_tiers.py`**: Automated stratification script separating verified large listed enterprises from MSME exporter populations.
-7. **`run_dqa_audit.py`**: Comprehensive cross-corpus audit script verifying scoring distributions and producing verification reports.
-8. **`ethics_check.py`**: Automated privacy boundaries check confirming ethical compliance prior to data release.
+3. **`ocr_corpus_a.py`**: Tesseract OCR preprocessing pipeline (v5.4.0, PSM 6, 300 DPI via `PyMuPDF`/`fitz`) that recovers scanned PDFs and standalone image infographics (`RCAC-001..003`, `A-MPEDA-003`, `A-SPICE-003..004`, `RCAC-200..201`) into machine-readable UTF-8 text (`full_text_available: yes (OCR)`).
+4. **`resolve_remaining_queued_a.py`**: Standardized EUR-Lex statutory summary generator resolving queued instruments (`A-EU-013..015`) to `derived-summary (Section 6.1)`, achieving 100% Corpus A machine readability.
+5. **`dqa_filter_gdelt.py`**: GDELT news quality, paywall/syndication rejection, and word-boundary regex relevance filtering engine.
+6. **`dqa_filter_youtube.py`**: YouTube transcript DQA evaluation, synthetic repetition loop detection, and filtering engine.
+7. **`deidentify_youtube_sanitization.py`**: PII de-identification and masking engine for video transcripts and public practitioner comments.
+8. **`separate_gdelt_tiers.py`**: Automated stratification script separating verified large listed enterprises from MSME exporter populations.
+9. **`run_dqa_audit.py`**: Comprehensive cross-corpus audit script verifying scoring distributions and producing verification reports.
+10. **`ethics_check.py`**: Automated privacy boundaries check confirming ethical compliance prior to data release.
