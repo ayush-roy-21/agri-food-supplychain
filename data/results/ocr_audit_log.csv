@@ -1,0 +1,9 @@
+timestamp,source_file,file_type,ocr_method,word_count,mean_confidence_pct,status,output_file
+2026-07-10T11:40:29.104630,APEDA\1_Advisory_for_Rice_Exports_to_Lebanon_-reg..pdf,pdf,Tesseract eng PSM-6 @ 300dpi,150,94.9,OK,APEDA\1_Advisory_for_Rice_Exports_to_Lebanon_-reg..txt
+2026-07-10T11:40:34.677375,APEDA\2_Advisory_for_rice_exports_to_Senegal-_reg..pdf,pdf,Tesseract eng PSM-6 @ 300dpi,193,93.0,OK,APEDA\2_Advisory_for_rice_exports_to_Senegal-_reg..txt
+2026-07-10T11:40:43.820062,APEDA\3_Advisory_for_rice_exports_to_Philippines-_reg..pdf,pdf,Tesseract eng PSM-6 @ 300dpi,590,89.1,OK,APEDA\3_Advisory_for_rice_exports_to_Philippines-_reg..txt
+2026-07-10T11:40:55.564300,MPEDA\A-MPEDA-003.pdf,pdf,Tesseract eng PSM-6 @ 300dpi,432,90.1,OK,MPEDA\A-MPEDA-003.txt
+2026-07-10T11:41:07.862753,SpicesBoard\A-SPICE-003.pdf,pdf,Tesseract eng PSM-6 @ 300dpi,616,91.3,OK,SpicesBoard\A-SPICE-003.txt
+2026-07-10T11:41:30.893321,SpicesBoard\A-SPICE-004.pdf,pdf,Tesseract eng PSM-6 @ 300dpi,1113,69.9,LOW,SpicesBoard\A-SPICE-004.txt
+2026-07-10T11:41:31.767218,India-Newzealand.jpg,image,Tesseract eng PSM-6 @ 300dpi,70,78.4,OK,India-Newzealand.txt
+2026-07-10T11:41:32.839090,India-Uk CETA.jpg,image,Tesseract eng PSM-6 @ 300dpi,93,72.5,OK,India-Uk CETA.txt
