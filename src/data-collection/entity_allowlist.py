@@ -166,28 +166,40 @@ def get_scale_tier(firm_name: str) -> str:
     return ENTERPRISE_SCALE_TIER.get(firm_name.lower().strip(), "unknown-unverified")
 
 
-def verify_msme_scale_entity(firm_name: str, udyam_number: str = None, rcmc_registry_match: bool = False) -> dict:
+def verify_msme_scale_entity(firm_name: str, udyam_number: str = None, statutory_code: str = None, rcmc_registry_match: bool = False) -> dict:
     if udyam_number:
         return {"status": "Verified - Udyam Registered MSME", "scale_tier": "msme-verified"}
+    if statutory_code:
+        return {"status": f"Verified - Statutory Exporter Code ({statutory_code})", "scale_tier": "msme-verified"}
     if rcmc_registry_match:
-        return {"status": "Verified - APEDA/MPEDA/Spices Board Registry (scale unconfirmed)", "scale_tier": "msme-plausible-unconfirmed"}
+        return {"status": "Unverified - Keyword Plausible (No Firm/Registry ID Found)", "scale_tier": "keyword-plausible-unverified"}
     return {"status": "Unverified", "scale_tier": "unknown-unverified"}
 
 
-def get_verification_metadata(firm_name: str, udyam_number: str = None, rcmc_registry_match: bool = False, is_statutory_corpus_a: bool = False) -> dict:
+def get_verification_metadata(firm_name: str, udyam_number: str = None, statutory_code: str = None, rcmc_registry_match: bool = False, is_statutory_corpus_a: bool = False) -> dict:
     """Returns the 6-column verification & scale metadata dictionary for a given firm name."""
     now_str = datetime.now().strftime("%Y-%m-%d")
     
     if not firm_name or firm_name.lower().strip() in ["none", "none (generalized msmes)", "n/a", "n/a - corpus a statutory instrument", ""]:
-        if udyam_number or rcmc_registry_match:
-            msme_check = verify_msme_scale_entity("MSME Exporter Unit", udyam_number, rcmc_registry_match)
+        if udyam_number or statutory_code or rcmc_registry_match:
+            msme_check = verify_msme_scale_entity(firm_name, udyam_number, statutory_code, rcmc_registry_match)
+            if udyam_number:
+                firm_desc = "Verified MSME Unit (De-identified per Section 11)"
+                v_method = "Udyam Registry Check"
+            elif statutory_code:
+                firm_desc = "Verified Exporter Unit (De-identified per Section 11)"
+                v_method = "Statutory Exporter Registration Code Match"
+            else:
+                firm_desc = "None (Generalized Discourse - Unverified)"
+                v_method = "Keyword Presence Check (Unverified Entity)"
+                
             return {
-                "firm_mentioned": "Verified MSME Unit (De-identified per Section 11)" if udyam_number else "Plausible MSME Unit (De-identified per Section 11)",
+                "firm_mentioned": firm_desc,
                 "iec_verification_status": msme_check["status"],
-                "verification_method": "Udyam Registry Check" if udyam_number else "APEDA/MPEDA/Spices Board RCMC Registry Match",
+                "verification_method": v_method,
                 "verification_date": now_str,
                 "enterprise_scale_tier": msme_check["scale_tier"],
-                "relevance_to_study": "MSME-instance (target population under study)"
+                "relevance_to_study": "MSME-instance (keyword-plausible target population under study)" if msme_check["scale_tier"] == "keyword-plausible-unverified" else "MSME-instance (target population under study)"
             }
         relevance = "statutory-governance-framework (macro-level regulatory context)" if (is_statutory_corpus_a or firm_name == "N/A - Corpus A Statutory Instrument") else "MSME-instance (target population under study)"
         return {
@@ -201,17 +213,33 @@ def get_verification_metadata(firm_name: str, udyam_number: str = None, rcmc_reg
         
     cleaned_name = firm_name.lower().strip()
     
-    # 1. Check MSME specific verification path (Udyam or APEDA/MPEDA/Spices Board RCMC)
-    msme_check = verify_msme_scale_entity(firm_name, udyam_number, rcmc_registry_match)
+    # 1. Check MSME specific verification path (Udyam, Statutory Code, or keyword match)
+    msme_check = verify_msme_scale_entity(firm_name, udyam_number, statutory_code, rcmc_registry_match)
     if msme_check["status"] != "Unverified":
-        proper_name = " ".join(word.capitalize() for word in cleaned_name.split()) if firm_name not in ["MSME Exporter Unit", "unverified_dummy"] else ("Verified MSME Unit (De-identified per Section 11)" if udyam_number else "Plausible MSME Unit (De-identified per Section 11)")
+        if firm_name in ["MSME Exporter Unit", "unverified_dummy"]:
+            if udyam_number:
+                proper_name = "Verified MSME Unit (De-identified per Section 11)"
+                v_method = "Udyam Registry Check"
+            elif statutory_code:
+                proper_name = "Verified Exporter Unit (De-identified per Section 11)"
+                v_method = "Statutory Exporter Registration Code Match"
+            elif firm_name == "unverified_dummy":
+                proper_name = "Generalized (Unverified Entity)"
+                v_method = "Keyword Presence Check (Unverified Entity)"
+            else:
+                proper_name = "None (Generalized Discourse - Unverified)"
+                v_method = "Keyword Presence Check (Unverified Entity)"
+        else:
+            proper_name = " ".join(word.capitalize() for word in cleaned_name.split())
+            v_method = "Udyam Registry Check" if udyam_number else ("Statutory Exporter Registration Code Match" if statutory_code else "Keyword Presence Check (Unverified Entity)")
+            
         return {
             "firm_mentioned": proper_name,
             "iec_verification_status": msme_check["status"],
-            "verification_method": "Udyam Registry Check" if udyam_number else "APEDA/MPEDA/Spices Board RCMC Registry Match",
+            "verification_method": v_method,
             "verification_date": now_str,
             "enterprise_scale_tier": msme_check["scale_tier"],
-            "relevance_to_study": "MSME-instance (target population under study)"
+            "relevance_to_study": "MSME-instance (keyword-plausible target population under study)" if msme_check["scale_tier"] == "keyword-plausible-unverified" else "MSME-instance (target population under study)"
         }
     
     # 2. Check Verified Allowlist (BSE/NSE listed / Star Export Houses)
@@ -295,14 +323,20 @@ def scan_and_generalize_text(text: str, unverified_entities: list = None, state:
         udyam_val = udyam_match.group(0).upper() if "UDYAM-" in udyam_match.group(0).upper() else "UDYAM-REG-VERIFIED"
         return cleaned_text, get_verification_metadata("MSME Exporter Unit", udyam_number=udyam_val)
         
-    # 3. Check if text reflects APEDA / MPEDA / Spices Board RCMC or IEC registered export compliance (MSME plausible verification)
+    # 2.5. Check if explicit statutory registration code (CRES / IEC / RCMC number format) is present
+    statutory_code_match = re.search(r'\b(CRES/[A-Z0-9/-]{4,}|IEC\s*[:#-]?\s*\d{10}|RCMC/[A-Z0-9/-]{4,})\b', cleaned_text, re.IGNORECASE)
+    if statutory_code_match:
+        return cleaned_text, get_verification_metadata("MSME Exporter Unit", statutory_code=statutory_code_match.group(0).upper())
+        
+    # 3. Check if text reflects APEDA / MPEDA / Spices Board RCMC or IEC domain compliance (keyword plausible, unverified)
     rcmc_keywords = [
         "rcmc", "apeda", "mpeda", "spices board", "iec", "dgft", "fssai", "eic",
         "export processing unit", "exporter", "exporters", "msme", "traceability",
         "tracenet", "cres", "icegate", "customs broker", "shipment", "consignment"
     ]
     if any(re.search(r'\b' + re.escape(kw) + r'\b', cleaned_text, re.IGNORECASE) for kw in rcmc_keywords):
-        return cleaned_text, get_verification_metadata("MSME Exporter Unit", rcmc_registry_match=True)
+        target_name = "unverified_dummy" if found_unverified else None
+        return cleaned_text, get_verification_metadata(target_name, rcmc_registry_match=True)
         
     if found_unverified:
         return cleaned_text, get_verification_metadata("unverified_dummy")

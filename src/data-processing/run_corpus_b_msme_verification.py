@@ -64,7 +64,7 @@ def verify_and_stratify_corpus_b(verify=True, stratify=True, quiet=False) -> dic
     
     now_str = datetime.now().strftime("%Y-%m-%d")
     master_csv_path = project_root / "data" / "master_registry.csv"
-    tier_counts = {"large-listed": 0, "msme-verified": 0, "msme-plausible-unconfirmed": 0, "not-applicable": 0}
+    tier_counts = {"large-listed": 0, "large-private-star-export-house": 0, "msme-verified": 0, "keyword-plausible-unverified": 0, "unknown-unverified": 0, "not-applicable": 0}
     
     if verify:
         if not master_csv_path.exists():
