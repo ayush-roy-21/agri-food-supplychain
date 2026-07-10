@@ -1,0 +1,6 @@
+{
+  "search_paths": ["src", "src/data-collection", "src/data-processing"],
+  "python_environment": ".agri-food-project-venv",
+  "ignore_missing_imports": true,
+  "suppress_errors": ["missing-import"]
+}

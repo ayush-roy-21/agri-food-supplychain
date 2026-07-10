@@ -1,0 +1,8 @@
+{
+  "include": ["src"],
+  "extraPaths": ["src", "src/data-collection", "src/data-processing"],
+  "reportMissingImports": false,
+  "reportMissingModuleSource": false,
+  "reportGeneralTypeIssues": false,
+  "reportOptionalMemberAccess": false
+}

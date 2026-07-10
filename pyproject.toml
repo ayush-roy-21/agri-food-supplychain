@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agri-food-project"
+version = "1.0.0"
+description = "Agri-Food Supply Chain DQA & Policy Analysis Repository"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas>=2.0.0",
+    "requests>=2.30.0",
+    "beautifulsoup4>=4.12.0",
+    "google-api-python-client>=2.100.0",
+    "scikit-learn>=1.3.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
+[tool.pyright]
+include = ["src"]
+extraPaths = ["src", "src/data-collection", "src/data-processing"]
+reportMissingImports = false
+reportMissingModuleSource = false
+
+[tool.pylance]
+extraPaths = ["src", "src/data-collection", "src/data-processing"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "src/data-collection", "src/data-processing"]
+testpaths = ["tests"]
