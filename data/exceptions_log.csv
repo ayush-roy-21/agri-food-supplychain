@@ -328,3 +328,62 @@ A-SPICE-004,Spices Board Ministry of Commerce & Industry,https://indianspices.co
 RCAC-001,APEDA Official Portal / AgriExchange,https://apeda.gov.in/sites/default/files/documents/2026-03/Advisory_Rice_Exports_Lebanon.pdf,2026-07-09,Extraction failure / Zero words extracted via pypdf: Scanned image PDF without digital text layer.,Set full_text_available='no (image scan - OCR queued)' in Master Registry to prevent BERTopic from ingesting empty text. Queued for OCR.,Scanned image PDF (RCAC-001)
 RCAC-002,APEDA Official Portal / AgriExchange,https://apeda.gov.in/sites/default/files/documents/2026-01/Adviosry_Rice_Exports_Senegal_Jan2026.pdf,2026-07-09,Extraction failure / Zero words extracted via pypdf: Scanned image PDF without digital text layer.,Set full_text_available='no (image scan - OCR queued)' in Master Registry to prevent BERTopic from ingesting empty text. Queued for OCR.,Scanned image PDF (RCAC-002)
 RCAC-003,APEDA Official Portal / AgriExchange,https://apeda.gov.in/sites/default/files/documents/2026-01/Advisory_rice_exporters_Philippines_12012026.pdf,2026-07-09,Extraction failure / Zero words extracted via pypdf: Scanned image PDF without digital text layer.,Set full_text_available='no (image scan - OCR queued)' in Master Registry to prevent BERTopic from ingesting empty text. Queued for OCR.,Scanned image PDF (RCAC-003)
+EX-A-EU-006,A-EU-006,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0625,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-EU-007,A-EU-007,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005R0396,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-EU-008,A-EU-008,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0163,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-EU-009,A-EU-009,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0404,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-EU-010,A-EU-010,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0808,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-EU-011,A-EU-011,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2090,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-EU-013,A-EU-013,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0915,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-EU-014,A-EU-014,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002R0178,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-EU-015,A-EU-015,https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R2235,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-INDIA-001,A-INDIA-001,https://www.indiacode.nic.in/handle/123456789/1546,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-INDIA-002,A-INDIA-002,https://www.indiacode.nic.in/handle/123456789/2403,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-GAZ-001,A-GAZ-001,https://egazette.nic.in/,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-GAZ-002,A-GAZ-002,https://egazette.nic.in/,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-GAZ-003,A-GAZ-003,https://egazette.nic.in/,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-GAZ-004,A-GAZ-004,https://egazette.nic.in/Notification.aspx?SO=1377(E),2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-GAZ-005,A-GAZ-005,https://egazette.nic.in/Notification.aspx?SO=1378(E),2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-GAZ-006,A-GAZ-006,https://egazette.nic.in/Notification.aspx?SO=722(E),2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-GAZ-007,A-GAZ-007,https://egazette.nic.in/Notification.aspx?SO=1227(E),2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-GAZ-008,A-GAZ-008,https://egazette.nic.in/Notification.aspx?SO=730(E),2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-STATE-001,A-STATE-001,https://www.indiacode.nic.in/handle/123456789/12345,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-STATE-002,A-STATE-002,https://www.indiacode.nic.in/handle/123456789/11223,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-STATE-003,A-STATE-003,https://apsada.ap.gov.in/,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-FDA-001,A-FDA-001,https://www.accessdata.fda.gov/scripts/importrefusals/index.cfm?action=export:refusalReport,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-FDA-002,A-FDA-002,https://www.accessdata.fda.gov/scripts/importrefusals/index.cfm?action=export:refusalReport,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-FDA-003,A-FDA-003,https://www.accessdata.fda.gov/scripts/importrefusals/index.cfm?action=export:refusalReport,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-FDA-004,A-FDA-004,https://www.accessdata.fda.gov/scripts/importrefusals/index.cfm?action=export:refusalReport,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-FDA-005,A-FDA-005,https://www.fda.gov/food/food-safety-modernization-act-fsma/foreign-supplier-verification-program-fsvp,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-FDA-006,A-FDA-006,https://www.fda.gov/food/guidance-regulation-food-and-dietary-supplements/registration-food-facilities-and-other-submissions,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-EUMOFA-001,A-EUMOFA-001,https://www.eumofa.eu/market-analysis,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-EFSA-001,A-EFSA-001,https://www.efsa.europa.eu/en/publications,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-RASFF-001,A-RASFF-001,https://webgate.ec.europa.eu/rasff-window/portal/?event=searchResultList,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-SANTE-001,A-SANTE-001,https://ec.europa.eu/food/audits-analysis/audit_reports/details.cfm?rep_id=7891,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-EUMOFA-002,A-EUMOFA-002,https://www.eumofa.eu/publications,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-RCAC-001,RCAC-001,https://apeda.gov.in/sites/default/files/documents/2026-03/Advisory_Rice_Exports_Lebanon.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-RCAC-002,RCAC-002,https://apeda.gov.in/sites/default/files/documents/2026-01/Adviosry_Rice_Exports_Senegal_Jan2026.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-RCAC-003,RCAC-003,https://apeda.gov.in/sites/default/files/documents/2026-01/Advisory_rice_exporters_Philippines_12012026.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-BRCGS-001,BRCGS-001,https://directory.brcgs.com/,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-GLOBALGAP-001,GLOBALGAP-001,https://database.globalgap.org/,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-ASC-001,ASC-001,https://www.asc-aqua.org/find-a-farm/,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-CSR-100,A-CSR-100,DHL-Group-Supplier-Code-of-Conduct-v2020-5.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-CSR-101,A-CSR-101,Identifying modern slavery in global supply chains.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-CSR-102,A-CSR-102,nestle-scope-3-removals-framework.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-DATA-100,A-DATA-100,Country-wise Merchandise Export.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-DATA-101,A-DATA-101,"DGCIS, based on Quick Estimate May, 2026.pdf",2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-DATA-102,A-DATA-102,Merchanise export April-May 26-27.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MOFPI-100,A-MOFPI-100,Action-Points-for-the-Ministry-of-Food-Processing-Industries-(MoFPI).pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MOFPI-101,A-MOFPI-101,Factsheet Details_Factsheet Details _ PIB.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MOFPI-102,A-MOFPI-102,INTRODUCTION TO.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MOFPI-103,A-MOFPI-103,Press Note Details_ Press Information Bureau.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MOFPI-104,A-MOFPI-104,Press Release Page  - Press Information Bureau - MoFPI.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MOFPI-105,A-MOFPI-105,Press Release Page _ Press Information Bureau - Indian Agricultural Exports.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MOFPI-106,A-MOFPI-106,Press Release Page _ Press Information Bureau.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MSME-100,A-MSME-100,Annual-Survey-MSMEs_India_2025.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MSME-101,A-MSME-101,Boosting Exports from MSMEs_March 20244_0.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MSME-102,A-MSME-102,Enhancing_Competitiveness_of_MSMEs_in_India NITI Aayog.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MSME-103,A-MSME-103,MSME_West-Bengal_2025.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MSME-104,A-MSME-104,RGMNAV000131.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-RCAC-200,RCAC-200,India-Newzealand.jpg,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+EX-RCAC-201,RCAC-201,India-Uk CETA.jpg,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit

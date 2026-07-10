@@ -25,26 +25,26 @@ The master registry strictly follows a **19-column relational schema**. Scraper 
 | **12** | `translation_needed` | String | Indicates whether English translation was required (`required`/`not-required`). | `not-required` |
 | **13** | `processing_status` | String | Status of document ingestion and HTTP verification. | `retrieved (HTTP 200)` |
 | **14** | `firm_mentioned` | String | Name of specific export firm mentioned in document, or generalized descriptor per Section 11. | `KRBL Limited`, `None (Generalized MSMEs)`, `Generalized (Unverified Entity)` |
-| **15** | `iec_verification_status` | String | Verification status of corporate entity against checkable registries or allowlist. | `Verified - BSE/NSE Listed (KRBL)`, `Verified - Udyam Registered MSME`, `N/A - No Firm Mentioned` |
-| **16** | `verification_method` | String | Method and authoritative source used to confirm entity identity. | `BSE/NSE Public Listing Check & APEDA Registry`, `Udyam Registry Check`, `N/A` |
+| **15** | `iec_verification_status` | String | Verification status of corporate entity against checkable registries or allowlist. | `Verified - BSE/NSE Listed (KRBL)`, `Verified - Udyam Registered MSME`, `Verified - Statutory Exporter Code (CRES/2024/0198)`, `Unverified - Keyword Plausible (No Firm/Registry ID Found)`, `N/A - No Firm Mentioned` |
+| **16** | `verification_method` | String | Method and authoritative source used to confirm entity identity. | `BSE/NSE Public Listing Check & APEDA Registry`, `Udyam Registry Check`, `Statutory Exporter Registration Code Match`, `Keyword Presence Check (Unverified Entity)`, `N/A` |
 | **17** | `verification_date` | String | ISO date (`YYYY-MM-DD`) on which entity verification or spotlight check was conducted. | `2026-07-07`, `N/A` |
-| **18** | `enterprise_scale_tier` | String | Classification of firm scale to prevent conflating large enterprises with MSMEs. | `large-listed`, `large-private-star-export-house`, `msme-verified`, `msme-plausible-unconfirmed`, `not-applicable` |
-| **19** | `relevance_to_study` | String | Analytical role of document or entity mention within study research questions. | `MSME-instance (target population under study)`, `large-firm-comparator (internal-capability-locus contrast)`, `statutory-governance-framework` |
+| **18** | `enterprise_scale_tier` | String | Classification of firm scale to prevent conflating large enterprises with MSMEs. | `large-listed`, `large-private-star-export-house`, `msme-verified`, `keyword-plausible-unverified`, `unknown-unverified`, `not-applicable` |
+| **19** | `relevance_to_study` | String | Analytical role of document or entity mention within study research questions. | `MSME-instance (target population under study)`, `MSME-instance (keyword-plausible target population under study)`, `large-firm-comparator (internal-capability-locus contrast)`, `statutory-governance-framework` |
 
 ---
 
 ## 2. Methodological Note & Limitations: Entity Verification & MSME Scale
 
-To maintain absolute empirical rigor and prevent fabricated compliance claims from attaching to real corporate names (**No Invented Data or Assumptions**), the project enforces an **Allowlist-First Verification Protocol** coupled with scale stratification:
+To maintain absolute empirical rigor and prevent fabricated compliance claims from attaching to real corporate names (**No Invented Data or Assumptions**), the project enforces an **Allowlist-First Verification Protocol** coupled with honest scale stratification:
 
 1. **Separation of Verification Status from MSME Population Relevance**:
    A firm can be verified as a real commercial entity while being explicitly tagged as out-of-scope for direct MSME population analysis. Large listed corporations (e.g., *KRBL Limited*, *Avanti Feeds Limited*, *ITC Limited*) and major star export houses (e.g., *Allanasons Private Limited*) are categorized under `enterprise_scale_tier` as `large-listed` or `large-private-star-export-house`.
 2. **Analytical Value of Large-Firm Mentions (Contrast Cases)**:
    Large-firm mentions in practitioner discourse (e.g., Reddit or YouTube comments regarding in-house testing labs versus small exporter struggles) are retained as analytically valuable contrast cases. They are explicitly tagged under `relevance_to_study` as `large-firm-comparator (internal-capability-locus contrast)`, directly supporting RQ1/RQ2 capability-gap analyses without distorting the MSME sample.
-3. **MSME-Appropriate Verification Pathways**:
-   Because stock exchange listing checks cannot verify MSMEs, lighter-weight statutory verification paths are utilized:
-   - **Udyam Registration**: Checkable format `UDYAM-XX-00-0000000` (tagged as `msme-verified`).
-   - **APEDA / Spices Board CRES / MPEDA Exporter Registries**: Matches against statutory exporter directories (tagged as `msme-plausible-unconfirmed`).
+3. **Honest MSME-Appropriate Stratification Pathways**:
+   Because stock exchange listing checks cannot verify MSMEs, the pipeline distinguishes between genuine statutory registration and domain-relevant keyword presence:
+   - **Verified MSME/Exporter Registration (`msme-verified`)**: Checkable Udyam format `UDYAM-XX-00-0000000` or explicit checkable statutory exporter codes (`CRES/...`, `IEC: \d{10}`, `RCMC/...`).
+   - **Domain-Relevant Discourse (`keyword-plausible-unverified`)**: Texts containing domain trade terms (`apeda`, `mpeda`, `spices board`, `exporter`, `dgft`, `consignment`) without a checkable registration number or allowlisted firm ID. Tagged honestly with `iec_verification_status: "Unverified - Keyword Plausible (No Firm/Registry ID Found)"` to prevent downstream readers from mistaking keyword presence for statutory registry verification.
 4. **Methodological Limitation Note**:
    *“Firm-level verification via public listing structurally favors large enterprises; genuine MSME-scale entities in Corpus B discourse are generalized rather than individually verified, consistent with the study's own de-identification protocol, and large-firm mentions are retained only as capability-gap comparators, not as instances of the MSME population under study.”*
 
