@@ -137,3 +137,11 @@ print(f"[OK] §6 DQA Audit Completed.")
 print(f"     Total records evaluated: {passed_count + inadequate_moved}")
 print(f"     Inadequate records moved to exceptions_log.csv: {inadequate_moved}")
 print(f"     Passing records enriched with precise locus_tag & verification_logic: {passed_count}")
+
+# Stage 4 Post-DQA Empirical Scale Verification & Stratification
+try:
+    import run_corpus_b_msme_verification
+    print("\n[*] Invoking Stage 4 Post-DQA Empirical Scale Verification & Stratification Engine...")
+    run_corpus_b_msme_verification.verify_and_stratify_corpus_b(quiet=False)
+except Exception as e:
+    print(f"[!] Could not run Stage 4 verification and stratification: {e}")
