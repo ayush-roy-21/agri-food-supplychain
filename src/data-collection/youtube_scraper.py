@@ -134,9 +134,23 @@ def get_video_transcript(video_id, title, query):
     """
     if HAS_TRANSCRIPT_API:
         try:
-            transcript_list = YouTubeTranscriptApi.get_transcript(video_id, languages=['en', 'en-IN', 'hi'])
-            full_text = " ".join([fragment['text'] for fragment in transcript_list])
-            return full_text
+            ytt_api = YouTubeTranscriptApi()
+            if hasattr(ytt_api, 'fetch'):
+                transcript_list = ytt_api.fetch(video_id, languages=['en', 'en-IN', 'hi'])
+            elif hasattr(YouTubeTranscriptApi, 'get_transcript'):
+                get_trans = getattr(YouTubeTranscriptApi, 'get_transcript')
+                transcript_list = get_trans(video_id, languages=['en', 'en-IN', 'hi'])
+            else:
+                return "[TRANSCRIPT_UNAVAILABLE_OR_NO_CC]"
+
+            fragments = []
+            for fragment in transcript_list:
+                if isinstance(fragment, dict) and 'text' in fragment:
+                    fragments.append(str(fragment['text']))
+                elif hasattr(fragment, 'text'):
+                    fragments.append(str(fragment.text))
+            if fragments:
+                return " ".join(fragments)
         except Exception:
             pass
     return "[TRANSCRIPT_UNAVAILABLE_OR_NO_CC]"
