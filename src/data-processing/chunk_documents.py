@@ -159,7 +159,7 @@ def main():
                 if p_text:
                     pages.append((int(p_num), p_text))
                     
-            # Group pages into chunks of roughly 1,000 to 1,800 words
+            # Group pages into chunks of roughly ~250 words target (max 400 hard cap)
             curr_pages = []
             curr_words = []
             
@@ -168,19 +168,35 @@ def main():
                 curr_pages.append(p_num)
                 curr_words.extend(p_words)
                 
-                if len(curr_words) >= 1200:
+                while len(curr_words) >= 400:
+                    chunk_w = curr_words[:250]
+                    chunks.append((curr_pages[:], chunk_w[:], "\n\n".join([f"[Page {n}]\n{t}" for n, t in pages if n in curr_pages])))
+                    curr_words = curr_words[220:] # keep ~30 words overlap when force-splitting mid-page blob
+                    curr_pages = [curr_pages[-1]] if curr_pages else []
+                    
+                if len(curr_words) >= 250:
                     chunks.append((curr_pages[:], curr_words[:], "\n\n".join([f"[Page {n}]\n{t}" for n, t in pages if n in curr_pages])))
                     curr_pages = []
                     curr_words = []
                     
-            # Any remaining pages
+            # Any remaining pages/words (< 250 words)
             if curr_words:
-                if len(curr_words) < 300 and chunks:
-                    # Append small trailing segment to previous chunk
+                if len(curr_words) < 90 and chunks:
+                    # Merge trailing remainder (< 90 floor) into previous chunk
                     prev_pages, prev_words, prev_text = chunks[-1]
                     prev_pages.extend(curr_pages)
+                    seen_p = set()
+                    prev_pages = [p for p in prev_pages if not (p in seen_p or seen_p.add(p))]
                     prev_words.extend(curr_words)
-                    chunks[-1] = (prev_pages, prev_words, prev_text + "\n\n" + "\n\n".join([f"[Page {n}]\n{t}" for n, t in pages if n in curr_pages]))
+                    
+                    if len(prev_words) > 400:
+                        # Ensure hard cap 400 is not violated by merge
+                        chunk1_w = prev_words[:250]
+                        chunk2_w = prev_words[220:]
+                        chunks[-1] = (prev_pages[:], chunk1_w, "\n\n".join([f"[Page {n}]\n{t}" for n, t in pages if n in prev_pages]))
+                        chunks.append((prev_pages[:], chunk2_w, "\n\n".join([f"[Page {n}]\n{t}" for n, t in pages if n in prev_pages])))
+                    else:
+                        chunks[-1] = (prev_pages, prev_words, prev_text + "\n\n" + "\n\n".join([f"[Page {n}]\n{t}" for n, t in pages if n in curr_pages]))
                 else:
                     chunks.append((curr_pages[:], curr_words[:], "\n\n".join([f"[Page {n}]\n{t}" for n, t in pages if n in curr_pages])))
                     
@@ -246,7 +262,7 @@ def main():
                 total_chunks += 1
                 
         else:
-            # Fallback for web-scraped or non-page text files (split by paragraphs into ~1000-word chunks)
+            # Fallback for web-scraped or non-page text files (~250 words target, 400 hard cap, 90 floor, ~30 overlap)
             paras = [p.strip() for p in re.split(r'\n\s*\n', content) if p.strip()]
             curr_paras = []
             curr_words = []
@@ -256,19 +272,31 @@ def main():
                 curr_paras.append(para)
                 curr_words.extend(p_words)
                 
-                while len(curr_words) >= 1000:
-                    chunk_w = curr_words[:1000]
+                while len(curr_words) >= 400:
+                    chunk_w = curr_words[:250]
                     chunks.append((chunk_w, " ".join(chunk_w)))
-                    curr_words = curr_words[1000:]
+                    curr_words = curr_words[220:] # ~30 words overlap W_overlap = 30
+                    curr_paras = [" ".join(curr_words)] if curr_words else []
+                    
+                if len(curr_words) >= 250:
+                    chunks.append((curr_words[:], " ".join(curr_words)))
+                    curr_words = curr_words[-30:] if len(curr_words) >= 30 else curr_words[:] # ~30 words overlap for next chunk
                     curr_paras = [" ".join(curr_words)] if curr_words else []
                     
             if curr_words:
-                if len(curr_words) < 250 and chunks:
-                    prev_words, prev_text = chunks[-1]
-                    prev_words.extend(curr_words)
-                    chunks[-1] = (prev_words, prev_text + "\n\n" + "\n\n".join(curr_paras))
+                if chunks and len(curr_words) <= 30 and curr_words == chunks[-1][0][-len(curr_words):]:
+                    # Remainder is purely the overlap from the previous chunk, discard
+                    pass
+                elif len(curr_words) < 90 and chunks:
+                    new_w = curr_words[30:] if (len(curr_words) > 30 and curr_words[:30] == chunks[-1][0][-30:]) else curr_words
+                    if new_w and len(chunks[-1][0]) + len(new_w) <= 400:
+                        prev_words, prev_text = chunks[-1]
+                        prev_words.extend(new_w)
+                        chunks[-1] = (prev_words, " ".join(prev_words))
+                    elif new_w:
+                        chunks.append((curr_words[:], " ".join(curr_words)))
                 else:
-                    chunks.append((curr_words[:], "\n\n".join(curr_paras)))
+                    chunks.append((curr_words[:], " ".join(curr_paras)))
                     
             if len(chunks) == 0:
                 if out_dir.exists() and not any(out_dir.iterdir()): out_dir.rmdir()
