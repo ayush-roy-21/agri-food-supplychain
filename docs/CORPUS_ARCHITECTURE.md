@@ -152,23 +152,27 @@ Corpus B captures empirical bottom-up operational friction, lived compliance rea
 
 ---
 
-## 5. Document Chunking & Traceability Architecture (`CorpusA_Chunks/`)
+## 5. Document Chunking & Traceability Architecture (`CorpusA_Chunks/` & `CorpusB_Chunks/`)
 
-To prepare multi-page statutory regulations and research monographs (`Corpus A`) for downstream topic modeling (`BERTopic`) and retrieval-augmented analysis while preserving rigorous manual verification pathways, the project implements a **Page-Bound Traceable Chunking Design (`chunk_documents.py`)**:
+To prepare multi-page statutory regulations and research monographs (`Corpus A`) plus extended media narratives (`Corpus B`, e.g., `B-GD-071`) for downstream topic modeling (`BERTopic`) and retrieval-augmented analysis while preserving rigorous manual verification pathways, the project implements a **Targeted Page-Bound & Overlap-Aware Chunking Design (`chunk_documents.py`)**:
 
 ### 1. Folder per Source Document
-Each multi-page document receives its own dedicated subdirectory under `CorpusA_Chunks/<parent_doc_id>/` and `data/CorpusA_Chunks/<parent_doc_id>/` (`CorpusA_Chunks/A-MPEDA-004/`).
+Each candidate multi-page or extended parent document receives its own dedicated subdirectory under `CorpusA_Chunks/<parent_doc_id>/` and `data/CorpusA_Chunks/<parent_doc_id>/` (`CorpusA_Chunks/A-MPEDA-004/`), as well as `CorpusB_Chunks/<parent_doc_id>/` (`CorpusB_Chunks/B-GD-071/`).
 
 ### 2. Traceable Chunk Naming (`A-MPEDA-004-C01.txt`)
-The parent document ID (`A-MPEDA-004`) is baked directly into every individual chunk filename (`A-MPEDA-004-C01.txt`, `A-MPEDA-004-C02.txt`). When chunks are flattened into a single list of documents inside a `BERTopic` dataframe or vector store, their ID immediately discloses their parent institutional origin (`A-MPEDA-004` -> MPEDA Pre-Harvest Test Manual).
+The parent document ID (`A-MPEDA-004`, `B-GD-071`) is baked directly into every individual chunk filename (`A-MPEDA-004-C01.txt`, `B-GD-071-C01.txt`). When chunks are flattened into a single list of documents inside a `BERTopic` dataframe or vector store, their ID immediately discloses their exact parent institutional origin (`A-MPEDA-004` -> MPEDA Pre-Harvest Test Manual).
 
-### 3. Page-Marker Based Boundaries (`--- PAGE N ---`)
-Instead of blindly slicing arbitrary word counts that split sentences across page breaks, the chunker leverages physical PDF page dividers (`--- PAGE N ---`) generated during `pypdf` extraction. Each chunk groups a small, contiguous range of pages (target `350 - 550 words`), recording exact boundaries (`page_range: p.12-14`, `word_range: w.4500-5020`). When verifying model output manually, researchers can open the original PDF directly to the exact page range (`pages 12–14`).
+### 3. Precision Size Thresholds (~250-Word Target, 400 Hard Cap, 90 Floor, ~30 Overlap)
+Instead of blindly slicing arbitrary word counts that split sentences across page breaks or allowing oversized blobs to hit embedding truncation limits, the chunker enforces four exact parameters across both page-based (`--- PAGE N ---`) and paragraph-fallback paths:
+- **Target Chunk Size (~250 words / ≈300–350 tokens)**: Leaves comfortable headroom under a standard 512-token ceiling even when technical, legal, and SPS regulatory vocabulary tokenizes into multiple subword pieces. It is long enough to hold one coherent compliance mechanism or practitioner complaint while short enough to prevent chunks from spanning across multiple verification-logic or locus grid cells.
+- **Hard Cap (400 words)**: If any natural page grouping, web-scraped paragraph blob, or accumulated text reaches or exceeds 400 words (the exact failure mode that dropped single-chunk oversized documents like `A-APEDA-001`), the engine force-splits the group by word count (`slice_w = words[:250]`) rather than allowing an oversized block to form. This guarantees no chunk ever exceeds 400 words or suffers uncontrolled embedding truncation.
+- **Floor (90 words) & Safe Trailing Merge**: Any trailing document remainder under 90 words (`< 90 words`) is merged into the preceding chunk (`chunks[-1]`) rather than emitted as an undersized noise chunk. To prevent the merge from violating the hard cap, if `len(prev_words) + len(new_words) > 400`, the combined text is cleanly split into two target chunks (`[:250]` and `[220:]`).
+- **Overlap (~30 words)**: On the paragraph-fallback path and when force-splitting oversized blocks (>400 words), each subsequent chunk retains the last ~30 words (`curr_words = curr_words[220:]` or `curr_words[-30:]`) of the previous chunk. This provides cheap, robust insurance against splitting a sentence or clause mid-idea right at a chunk boundary.
 
-### 4. Exclusion of Single-Chunk Documents
-Documents short enough (`< 600 words`) to fit within a single chunk (`A-APEDA-002`, `A-SPICE-008`, `A-GAZ-001`) are explicitly excluded from the separate `CorpusA_Chunks/` tree. Storing a 1-to-1 chunk copy of a short document adds no analytical granularity and creates redundant duplicates. For short documents, the full text file in `CorpusA/` serves directly as the single modeling unit.
+### 4. Word-Count-Aware Single-Chunk Preservation vs. Short Exclusion
+Documents that produce 1 chunk (`C01`) but meet candidate word thresholds (`>= 600 words` for Corpus A, or `>= 1,400 words` plus specific overrides `B-GD-007, B-GD-101, B-GD-071` for Corpus B) are preserved directly as `Parent_ID-C01.txt` inside `CorpusA_Chunks/` (`CorpusB_Chunks/`) and indexed in the manifest, preventing silent document dropping. Documents below the word count threshold (`< 600 words` for Corpus A, `< 1,400 words` for Corpus B unless overridden) are skipped from separate chunk storage because storing a 1-to-1 chunk copy of a short document adds no analytical granularity. For short documents, the full text file in `CorpusA/` (`CorpusB/`) serves directly as the single modeling unit.
 
-### 5. Chunk Manifest & Parent DQA Inheritance (`data/chunk_manifest.csv`)
-All **311 derived chunks** across the 24 multi-page parent documents are indexed inside `data/chunk_manifest.csv` under a strict 10-column tracking schema:
+### 5. Chunk Manifest, Scale & Parent DQA Inheritance (`data/chunk_manifest.csv`)
+All **1,772 derived chunks** across all **52 candidate parent documents** (including the 14 previously unlisted Corpus A/Research PDFs `A-EUDR-1xx` and `A-RES-1xx`, plus Corpus B candidate `B-GD-071`) are indexed inside `data/chunk_manifest.csv` under a strict 10-column tracking schema:
 `[chunk_id, parent_doc_id, corpus_tier, page_range, word_range, word_count, chunk_path, parent_dqa_score, parent_locus_tag, parent_verification_logic]`
-Crucially, every chunk inherits the exact **empirical multi-dimensional `parent_dqa_score`** (`M,A,A,A,A,A`, `A,A,A,A,A,A`, `M,A,A,M,A,A`, etc.) computed for its parent document, ensuring that downstream modeling tools can weigh or filter chunks based on rigorous source authority and temporal currency.
+Crucially, every chunk inherits the exact **empirical multi-dimensional `parent_dqa_score`** (`M,A,A,A,A,A`, `A,A,A,A,A,A`, `M,A,A,M,A,A`, etc.) computed for its parent document, ensuring that downstream modeling tools can weigh or filter chunks based on rigorous source authority and temporal currency. This yields an exact, traceable modeling pool where downstream `BERTopic` clustering can form stable, high-granularity topics (with `HDBSCAN` `min_cluster_size` tuned around `8–10`) without fragmenting into noise.
