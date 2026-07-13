@@ -2,26 +2,8 @@
 Chunk ID: B-GD-057-C02
 Parent Doc ID: B-GD-057
 Page Range: N/A (Web Scraped / Text Extract)
-Word Range: 1001 - 1458
-Word Count: 458
+Word Range: 291 - 567
+Word Count: 277
 --------------------
 
-Ministry of Commerce and Industry has sought a report from the Tea Board after consultations.
-
-Darjeeling factories rely heavily on LPG for withering and drying leaves. Over the past decade, estates shifted from coal to LPG after export consignments were found to contain anthraquinone residues, creating trade-related complications. The industry is now almost entirely dependent on 47.5-kg commercial LPG cylinders, whose prices have also risen sharply.
-
-The first and second flushes account for around 40 per cent of Darjeeling’s annual production but generate nearly 80 per cent of its revenue due to premium pricing linked to its geographical indication status. The Darjeeling tea industry supports around 55,000 permanent workers and their families, and nearly 41 per cent of output is exported. Planters warn that prolonged LPG shortages could force factories to halt operations, affecting both quality and export commitments.
-
-The Indian Tea Association has pointed out that tea factories in upper Assam benefit from piped gas and priority supply, while Darjeeling remains dependent on commercial cylinders, increasing vulnerability to supply disruptions.
-
-Export Gains In 2025 Add A National DimensionThe operational concerns in Darjeeling come against the backdrop of improved tea export earnings nationally in 2025. Media reports indicated that India recorded an 18.4 per cent rise in tea export value during the year, driven largely by a weaker rupee and steady overseas demand rather than a sharp rise in shipment volumes.
-
-A depreciated rupee improved price competitiveness abroad, as contracts settled in foreign currencies translated into higher rupee realisations. Major destinations included West Asia, Russia, CIS countries and parts of Africa. Assam and West Bengal accounted for the largest share of export earnings, supported by demand for orthodox teas. Darjeeling tea volumes remained limited but commanded higher unit values due to its GI status, while Nilgiri teas from southern India also saw improved receipts from European buyers.
-
-Exporters also reported higher shipments of value-added products such as tea bags, flavoured teas and instant tea, which fetched higher average prices than bulk exports. Packaged tea saw growth in markets such as the United Kingdom, Germany and the United Arab Emirates. However, export volumes were reportedly constrained by weather-related production variability, higher domestic consumption and rising input costs, including labour, fertilisers and fuel.
-
-On one hand, global markets are delivering higher rupee returns for tea exporters. On the other hand, plantation-level issues, unpaid dues, wage disputes, labour enforcement concerns, and now fuel shortages during peak harvest, highlight vulnerabilities in the production ecosystem that underpins those exports. For policymakers, the situation presents a dual challenge: ensuring that export gains are not undermined by production disruptions, while also addressing allegations that the foundational labour framework of plantations is failing workers.
-
-Subscribe to our newsletter to get updates on our latest news
-
-================================================================================
+correct what it calls a “structural breakdown of governance” in plantations, ranging from unpaid wages and statutory dues to weak enforcement of labour inspections and intimidation of trade union members. Tea plantation workers in India continue to face persistent challenges related to low wages, weak enforcement of welfare provisions, and inadequate access to housing and healthcare, particularly in Assam, West Bengal, and the Nilgiris region. A 2025 report by the ILO highlighted that informal and plantation-based workers in South Asia remain disproportionately exposed to wage insecurity and limited social protection coverage, while a 2025 analysis by the Observer Research Foundation noted that plantation labour systems in India continue to show “structural dependence” on employers for essential services despite expanded legal frameworks. Notably, the timing is notable. Even as the labour complaint moves to an international forum, tea planters in Darjeeling are warning of a commercial LPG shortage during the crucial first flush season, while national data pointed to rising tea export earnings in 2025, aided largely by currency movements. Together, these strands place fresh attention on how labour governance, production risks and export economics intersect in one of India’s oldest export industries. What The Union Has Alleged In Its RepresentationAccording to the PBCMS statement, the complaint centres on the “continued non-payment of wages and statutory dues, including provident fund and gratuity, to thousands of tea plantation workers”, allegedly in defiance of law and court directions. The union contended that the union government has not exercised its statutory powers under the Tea Act, 1953, while state authorities have failed to notify and enforce a statutory minimum wage for plantation workers, despite the sector being a scheduled employment sector.
