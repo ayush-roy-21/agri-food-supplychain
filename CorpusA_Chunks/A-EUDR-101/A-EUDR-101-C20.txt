@@ -1,159 +1,58 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-101-C20
 Parent Doc ID: A-EUDR-101
-Page Range: Page 39 to Page 41
-Word Range: 32087 - 33899
-Word Count: 1,813
+Page Range: Page 6
+Word Range: 5124 - 5373
+Word Count: 250
 --------------------
 
-[Page 39]
-(b) the inf or mation that financia l market par ticipants need in order to compl y with their disclosure obligations laid 
-down in Regulation (EU) 2019/2088 and the delega ted acts adopt ed pursuant to that Regulation;
-(c) the cr iter ia, indicators and methodologies set out in the delegat ed acts adopt ed pursuant to Regulation (EU) 
-2020/852, including the tec hnical screening cr iter ia established pursuant to Ar ticle 10(3), Ar ticle 11(3), Ar ticle 
-12(2), Ar ticle 13(2), Ar ticle 14(2) and Ar ticle 15(2) of that Regulation and the repor ting requirements set out in 
-the delegat ed act adopt ed pursuant to Ar ticle 8 of that Regulation;
-(d) the disclosure requirements applicable to benc hmark administrator s in the benc hmark stat ement and in the 
-benc hmark methodology and the minimum standards f or the constr uction of EU Climate T ransition 
-Benc hmark s and EU Par is-aligned Benc hmarks in accordance with Commission Deleg ated Regulations (EU) 
-2020/1816 (
-1
-)*, (EU) 2020/1817 (
-2
-)* and (EU) 2020/1818 (
-3
-)*;
-(e) the disclosures specified in the im plementing acts adopt ed pursuant to Ar ticle 434a of Regulation (EU) 
-No 575/2013;
-(f) Commission Recommendation 2013/179/EU (
-4
-)*;
-(g) Directive 2003/87/EC of the European Parliament and of the Council (
-5
-)*;
-(h) Regulation (EU) 2021/1119;
-(i) Regulation (EC) No 1221/2009 of the European Parliament and of the Council (
-6
-)*;
-(j) Directive (EU) 2019/1937 of the European P arliament and of the Council (
-7
-)*.
-Ar ticle 29c
-Sust ainability repor ting st andards f or small and medium-sized under t akings
-1. The Commission shall, by 30 June 2024 , adopt delegat ed acts in accordance with Ar ticle 49 supplementing this 
-Directive to provid e f or sustainability repor ting standards propor tionate and relevant to the capacities and the 
-c haracteri stics of small and medium-sized under takings and to the scale and compl exity of their activities. Those 
-sustainability repor ting standards shall specify f or the small and medium-sized under takings refe r red to in point (1) 
-(a) of Ar ticle 2 the inf or mation that is to be repor ted in accordance with Ar ticle 19a(6).
-The repor ting requirements laid down in the delegat ed acts refer red to in the fi rst subparagraph shall not ent er into 
-f orce earlier than f our months af ter their adop tion by the Commission.
-2. Sustainability repor ting standards f or small and medium-sized under takings shall take into account the cr it er ia 
-set out in Ar ticle 29b(2) to (5). They shall also, to the ext ent possible, specify the str ucture to be used to present that 
-inf or mation.
+[Page 6]
+repor ting requirements. A ccording ly , small and medium-sized under takings whose secur ities are admitt ed to trading 
+on a regulated market in the U nion that are public-inte rest entities should be allowed to repor t in accordance with 
+the sustainability repor ting standards f or small and medium-sized under takings. In addition, all under takings that 
+are parent under takings of larg e groups should prepare sustainability repor ting at group level. Moreover , since 
+Ar ticle 8 of Regulation (EU) 2020/852 ref ers to Ar ticle 19a and Ar ticle 29a of Directive 2013/34/EU, the 
+under takings added to the scope of the sustainability repor ting requirements will also ha ve to compl y with Ar ticle 8 
+of Regulation (EU) 2020/852.
+(18) The requirement provided f or in this amending Directive that also large under takings whose secur ities are not 
+admitte d to trading on a regulate d market in the U nion should disclose inf or mation on sustainability matters is 
+mainly justified by concer ns about the im pacts and accountability of such under takings, including through their 
+value c hain. In this respect, all large under takings should be subject to the same requirements to repor t 
+sustainability inf or mation publicly . In addition, fi nancial mark et par ticipants also need inf or mation from those larg e 
+under takings whose secur ities are not admitte d to trading on a regulated mark et in the U nion.
+(19) The requirement provid ed f or in this amending Directive that third-countr y under takings whose secur ities are 
+admitte d to trading on a regulate d market in the U nion should also disclose inf or mation on sustainability matt ers is 
+aimed at responding to the needs of fi nancial mark et par ticipants f or inf or mation from such under takings in order 
+to enable them to understand the r isks and im pacts of their inv estments and to compl y with the disclosure 
+requirements laid down in Regulation (EU) 2019/2088.
+(20) Third-countr y under takings whic h hav e a signif icant activity on the terr it or y of the Union should also be required to 
+provid e sustainability inf or mation, especially on their impa cts on social and en vironmental matt ers, in order to 
+ensure that third-countr y under takings are accountable f or their impacts on people and the en vironment and that 
+there is a level pla ying fi eld f or compan ies operating in the internal market. Theref ore, third-countr y under takings 
+which g enerate a net tur nover of more than EUR 150 million in the U nion and which hav e a subsidiar y 
+under taking or a branch on the te r r it or y of the U nion should be subject to U nion sustainability repor ting 
+requirements. T o ensure the propor tionality and enf orceability of such requirements, the threshold of hav ing a net 
+tur nover of more than EUR 40 million should apply to the branch es of third-countr y under takings, and the 
+thresholds relat ed to being considered a larg e under taking or a small or medium-sized under taking, excep t micro 
+under takings, whose secur ities are admitted to trading on a regulated mark et in the Union should apply to the 
+subsidiar y under takings of third-countr y under takings, as such subsidiar y under takings and branche s should be 
+responsible f or publishing the sustainability repor t of the third-countr y under taking. The sustainability repor ts 
+published by the subsidiar y under taking or branch of a third-countr y under taking should be prepared in 
+accordance with standards to be adopt ed by 30 June 2024 by the Commission through delegat ed acts.
+The subsidiar y under taking or branch of a third-countr y under taking should also be able to repor t in accordance 
+with the standards applying to under takings established in the U nion, or in accordance with standards which are 
+deemed equivalent pursuant to an imp lementing act. In the event that not all the inf or mation required under this 
+amending Directive is provid ed by the third-countr y under taking, despite the best eff or ts of the subsidiar y 
+under taking or branch of that third-countr y under taking to obtain the necessar y inf or mation, that subsidiar y 
+under taking or branch should provid e all the inf or mation in its possession and issue a stat ement indicating that the 
+third-countr y under taking did not mak e the rest of the required inf or mation available. In order to ensure the quality 
+and reliability of the repor ting, the sustainability repor ts of third-countr y under takings should be published 
+accompan ied by an assurance opinion expressed by a person or fi r m author ised to give an opinion on the assurance 
+of sustainability repor ting, either under the national la w of the third-countr y under taking or of a Member Stat e. In 
+the event that such an assurance opinion is not provided, the subsidiar y under taking or branch of the third-countr y 
+under taking should issue a stat ement indicating that the third-countr y under taking did not provid e the necessar y 
+assurance opinion. The sustainability repor t should be made accessible free of c harge to the public through the 
+central, commercial or compan ies registers of the Member Stat es, or altern atively on the website of the subsidiar y 
+under taking or the branch of the third-countr y under taking.
 EN
-Offi cial Jour nal of the European Uni on 16.12.2022 L 322/53
-
-[Page 40]
-3. The Commission shall, at least ever y three y ears af ter their date of application, review the delegat ed acts adopt ed 
-pursuant to this Ar ticle, taking into consideration the tec hnical advice of the EFRA G and, where necessar y , it shall 
-amend such delegat ed acts to take into account relevant developments, including developments with regar d to 
-internatio nal standards.
-_____________
-(
-1
-)* Commission Delega ted Regulation (EU) 2020/1816 of 17 July 2020 supplementing Regulation (EU) 2016/1011 
-of the European P arliament and of the Council as rega rds the explanation in the benc hmark state ment of how 
-envi ronmental, social and govern ance fact ors are ref lected in each benchmark provi ded and published (OJ L 406, 
-3.12.2020, p. 1).
-(
-2
-)* Commission Delega ted Regulation (EU) 2020/1817 of 17 July 2020 supplementing Regulation (EU) 2016/1011 
-of the European Parliament and of the Council as regards the minimum conte nt of the explanation on how 
-envi ronmental, social and go ver nance fa ctors are ref lecte d in the benchmark methodology (OJ L 406, 3.12.2020, 
-p. 12).
-(
-3
-)* Commission Delega ted Regulation (EU) 2020/1818 of 17 July 2020 supplementing Regulation (EU) 2016/1011 
-of the European Parliament and of the Council as regar ds minimum standards f or EU Climate T ransition 
-Benc hmark s and EU P ar is-aligned Benc hmark s (OJ L 406, 3.12.2020, p. 17).
-(
-4
-)* Commission Recommendation 2013/179/EU of 9 Apr il 2013 on the use of common methods to measure and 
-communicate the life cy cle environmental performa nce of products and org anisations (OJ L 124, 4.5.2013, p. 1).
-(
-5
-)* Directive 2003/87/EC of the European P arliament and of the Council of 13 Octobe r 2003 establishing a sche me 
-f or greenhouse ga s emission allo wance trading within the Community and amending Council Directive 96/61/EC 
-(OJ L 275, 25.10.2003, p. 32).
-(
-6
-)* Regulation (EC) No 1221/2009 of the European P arliament and of the Council of 25 November 2009 on the 
-voluntary par ticipation by org anisations in a Community eco-management and audit scheme (EMAS), repealing 
-Regulation (EC) No 761/2001 and Commission Decisions 2001/681/EC and 2006/193/EC (OJ L 342, 
-22.12.2009, p. 1).
-(
-7
-)* Directive (EU) 2019/1937 of the European P arliament and of the Council of 23 October 2019 on the protection 
-of persons who repor t breaches of U nion la w (OJ L 305, 26.11.2019, p. 17).’;
-(9) the f ollo wing chap te r is inser ted:
-‘CHAPTER 6b
-SINGLE ELECTR ONIC REPOR TING FORMA T
-Ar ticle 29d
-Single electronic repor ting for mat
-1. U nder takings subject to the requirements of Ar ticle 19a of this Directive shall prepare their manag ement repor t 
-in the electronic repor ting f or mat specifi ed in Ar ticle 3 of Commission Delegat ed Regulation (EU) 2019/815 (*) and 
-shall mark up their sustainability repor ting, including the disclosures provid ed f or in Ar ticle 8 of Regulation (EU) 
-2020/852, in accordance with the electronic repor ting f or mat specifi ed in that Delegat ed Regulation.
-2. P arent under takings subject to the requirements of Ar ticle 29a shall prepare their consolidated management 
-repor t in the electronic repor ting f or mat specif ied in Ar ticle 3 of Delegat ed Regulation (EU) 2019/815 and shall 
-mark up their sustainability repor ting, including the disclosures provid ed f or in Ar ticle 8 of Regulation (EU) 
-2020/852, in accordance with the electronic repor ting f or mat specifi ed in that Delegat ed Regulation.
-_____________
-(*) Commission Delegat ed Regulation (EU) 2019/815 of 17 December 2018 supplementing Directive 2004/109/EC 
-of the European Parliament and of the Council with regard to regulatory te chnical standards on the specification 
-of a sing le electronic repor ting f or mat (OJ L 143, 29.5.2019, p. 1).’;
-EN
-Offi cial Jour nal of the European Uni on L 322/54 16.12.2022
-
-[Page 41]
-(10) in Ar ticle 30, paragraph 1 is replaced by the f ollowi ng:
-‘1. Member Stat es shall ensure that under takings publish within a reasonable per iod of time, which shall not 
-exceed 12 months af te r the balance sheet date, the duly approved annual financia l state ments and the manag ement 
-repor t, in the electronic repor ting f or mat ref er red to in Ar ticle 29d of this Directive where applicable, tog ether with 
-the opinion and statement submitte d by the statutor y auditor or audit fir m refer red to in Ar ticle 34 of this Directive, 
-as laid down by the laws of each Member State in accordance with Chapt er III of Title 1 of Directive (EU) 2017/1132 
-of the European P arliament and of the Council (*).
-Member Stat es ma y require under takings subject to Ar ticles 19a and 29a to mak e the manag ement repor t ava ilable to 
-the public on their website, free of c harge. Where an under taking does not have a website, Member State s ma y require 
-it to mak e a wr itt en cop y of its management repor t ava ilable upon request.
-Where an independent assurance ser vices provider expresses the opinion refe r red to in point (aa) of the second 
-subparagraph of Ar ticle 34(1), that opinion shall be published tog ether with the documents ref er red to in the fi rst 
-subparagraph of this paragraph.
-Member Stat es ma y , however , exem pt under takings from the oblig ation to publish the manag ement repor t where a 
-cop y of all or par t of any such repor t can be easily obtained upon request at a pr ice not exceeding its administrative 
-cost.
-The exem pti on laid down in the f our th subparagraph of this paragraph shall not apply to under takings subject to the 
-requirements on sustainability repor ting laid down in Ar ticles 19a and 29a.
-_____________
-(*) Directive (EU) 2017/1132 of the European P arliament and of the Council of 14 June 2017 relating to cer tain 
-aspects of compan y law (OJ L 169, 30.6.2017, p. 46).’;
-(11) in Ar ticle 33, paragraph 1 is replaced by the f ollowi ng:
-‘1. Member States shall ensure that the members of the administrative, manage ment and super visor y bodies of an 
-under taking, acting within the compet ences assigned to them by national la w , hav e collective responsibility f or 
-ensur ing that the f ollowing documents are dra wn up and published in accordance with the requirements of this 
-Directive and, where applicable, with the international accounting standards adopt ed pursuant to Regulation (EC) 
-No 1606/2002, with Deleg ated Regulation (EU) 2019/815, with the sustainability repor ting standards refer red to in 
-Ar ticle 29b or Ar ticle 29c of this Directive, and with the requirements of Ar ticle 29d of this Directive:
-(a) the annual financial stat ements, the manage ment repor t and the cor porate governance stat ement when provided 
-separately; and
-(b) the consolidat ed financial statements, the consolidated manag ement repor ts and the consolidate d cor porate 
-govern ance statement when provid ed separately .’;
-(12) the title of Chapt er 8 is replaced by the f ollowi ng:
-‘ A uditing and assurance of sustainability repor ting’;
-(13) Ar ticle 34 is amended as f ollows :
-(a) in paragraph 1, the second subparagraph is amended as f ollows:
-(i) point (a)(ii) is replaced by the f ollo wing:
-‘(ii) whether the manage ment repor t has been prepared in accordance with the applicable legal requirements, 
-excluding the requirements on sustainability repor ting laid down in Ar ticle 19a of this Directive;’;
-EN
-Offi cial Jour nal of the European Uni on 16.12.2022 L 322/55
+Offi cial Jour nal of the European Uni on L 322/20 16.12.2022

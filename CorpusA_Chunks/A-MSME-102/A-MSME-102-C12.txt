@@ -1,310 +1,40 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-102-C12
 Parent Doc ID: A-MSME-102
-Page Range: Page 66 to Page 71
-Word Range: 14701 - 16187
-Word Count: 1,487
+Page Range: Page 21
+Word Range: 2888 - 3235
+Word Count: 348
 --------------------
 
-[Page 66]
-66
-Cluster Level 
+[Page 21]
+21
+Rethinking Clusters for MSME 
+Development
+1.
+India’s cluster policy dates back to 1987 and draws upon ideas of collective efficiency. However, it diverges from global 
+best practices from developed countries such as the United States and the European Union. These regions use cluster 
+mapping as a sophisticated tool for informing policy decisions and promoting cross-border collaborations. 
+There is a need for India to reimagine its cluster development approach; policymakers must redefine clusters . Clusters 
+are not just sectors – they capture the geographic footprint of economic activities, not because they belong to the 
+same statistical classification but because industries are systematically related through local spillovers and linkages. The 
+Indian definition of clusters aligns more closely with the concepts of Collective Efficiency (as proposed by Schmitz) and 
+certain elements of Flexible Specialization (according to Piore and Sabel) A well-structured cluster policy can unlock 
+synergies between SMEs, research institutions, universities, and Institutes for collaborations, forming robust ecosystems. 
+Personalized services to SMEs—such as diagnosing innovation capabilities, mapping out growth roadmaps, and bridging 
+technology gaps—can catalyze productivity gains. By fostering stronger ties between universities and industries, clusters 
+can facilitate knowledge transfer and accelerate the commercialization of research.
+Learnings from Cluster-Level 
 Analysis
-
-[Page 67]
-67
+evaluation, and transparent communication would benefit policy formulation and implementation. Strengthening 
+stakeholder participation via MSME-specific forums, refining industrial statistics, and public sharing of policy evaluation 
+data will foster evidence-based decision-making and continuous improvement, ultimately creating a more resilient and 
+competitive MSME ecosystem at the state level.
+Many textile clusters rely heavily on upstream activities like raw material processing.Policymakers can encourage a move 
+toward downstream activities that add higher value—such as designing finished garments or specialized fabric. This 
+pivot could involve partnering with design schools, modernizing capital equipment, and fostering digital supply chain 
+linkages, as highlighted by the Economic Survey 2024’s emphasis on upgrading weaving and processing segments. 
+Notable regions with strong textile specializations include Surat, Ludhiana, and Tiruppur, where reinforcing cluster 
+efficiency can foster economies of scale, streamline production, and improve branding for global markets.
+Cluster-Specific Recommendations2.
 Textile Manufacturing 
 and Apparel
-1.
-The examination of both textile manufacturing and apparel clusters is indispensable 
-for obtaining a thorough comprehension of the textile sector’s multifaceted dynamics. 
-Delving into the textile manufacturing cluster offers insights into the initial stages of the 
-supply chain, encompassing processes like spinning, weaving, and fabric production. 
-This understanding is crucial for assessing the economic activity and trade dynamics 
-associated with raw material processing. 
-Conversely, examining the apparel cluster provides a holistic perspective on downstream 
-activities, from design to finished product, shedding light on value addition, employment 
-trends, and export earnings. Together, these analyses contribute to a nuanced 
-understanding of the sector’s global competitiveness, supply chain integration, and 
-aid in the formulation of targeted policies to foster sustainable growth and innovation 
-throughout the entire textile industry.
-Value addition in Textiles Manufacturing and Apparel sector 
-The analysis of SMEs assessed showcases value addition within the textile manufacturing 
-sector, focusing on activities such as spinning, weaving, and finishing, the manufacturing 
-of other textiles, and the production of apparel. This reveals critical insights into the 
-sector's global dynamics spanning from 2014 to 2022. 
-GVCs serve as critical facilitators of the international exchange 
-of investment, knowledge, and managerial practices that are 
-in line with global standards, thereby significantly bolstering 
-domestic businesses
-
-[Page 68]
-68
- » The "Spinning, weaving, and finishing" sub-cluster appears dominant in terms of value 
-addition. A significant increase, particularly in 2022, shows that the 339 enterprises under 
-this NIC consistently exhibit higher value addition than other sub-clusters. However, the 
-dominance of "spinning, weaving, and finishing" is often considered an upstream activity 
-in the textile production process, potentially raising concerns due to lower value addition 
-compared to downstream activities.
- » Conversely, the "Manufacturing of other textile" sub-cluster experienced fluctuations, 
-responsive to global economic conditions and market demand, with a notable increase in 
-2022 signifying potential resurgence amid changing market dynamics. 
- » In the context of the textile industry, downstream activities, such as the "Manufacture of 
-wearing apparel," involve creating final consumer goods with higher potential for value 
-addition. Concerns arise as the SMEs related to final manufacturing stages exhibits lower 
-value addition, indicating potential challenges for sector competitiveness in global value 
-chains. 
-Value addition in 
-firms with sale 
-<250 crores
-Fig. 8
-2014 2015 2016 2017 2018 2019 2020 2021 2022
-Textile Manufacturing 
-Spinning, weaving 
-and finishing
-Apparel Manufacture 
-of wearing apparel
-Textile 
-Manufacturing 
-Manufacturing 
-of other textile
-10000
-0
-20000
-30000
-40000
-50000
-Workforce Trends 
-0 1,00,000 2,00,000 3,00,000 4,00,000 5,00,000 6,00,000 7,00,000 8,00,000
-Number of workers
-₹ 0
-₹ 50,000
-₹ 100,000
-₹ 150,000
-₹ 200,000
-₹ 250,000
-₹ 300,000
-₹ 350,000
-₹ 400,000
-₹ 450,000
-₹ 500,000
-Average wages
-Mumbai Suburban
-Raigarh
-Ghaziabad
-Chhindwara
-Thane
-Coimbatore
-Hugli Salem
-Karur Surat
-Varanasi
-Haora
-Vellore
-0 50,000 1,00,000 1,50,000 2,00,000 2,50,000
-Number of workers
-₹ 0
-₹ 50,000
-₹ 100,000
-₹ 150,000
-₹ 200,000
-₹ 250,000
-₹ 300,000
-₹ 350,000
-₹ 400,000
-₹ 450,000
-₹ 500,000
-₹ 550,000
-Average wages
-Pune
-Jalandhar
-Rajkot
-Moradabad
-Hardwar
-Jaipur Mumbai Suburban
-Thane
-Indore
-Tumkur
-BangaloreCoimbatore
-Ahmedabad
-SuratThiruvallur
-Kottayam
-Haora
-North Twenty Four Parganas
-AnantapurTiruvannamalai
-Jammu
-Textile Manufacturing Top 100 Districts Apparel-  Top 100 DistrictsFig. 9
-
-[Page 69]
-69
-Textile Manufacturing 
-In 2022-23, the textile manufacturing cluster in India encompassed a workforce of 53 lakh, 
-reflecting a notable 15.86% reduction from the 63 lakh workers recorded in 2017-18. The 
-overall productivity of this cluster demonstrated only marginal increase of 1.16% over the six-
-year period. 
-23%
-A state-level analysis reveals that
-exhibiting a workforce growth 
-more than 6 % since 2017-18. 
-Examination of the district-level distribution indicates that Surat in 
-Gujarat and Tirupur in Tamil Nadu have the highest average wages 
-and workforce participation within the cluster, capturing high total 
-workforce, respectively. On examining Gujarat, Surat demonstrates 
-a stark contrast with Ahmedabad in terms of workforce share and 
-average wages in gujarat, with the former accounting for 70% of the 
-workforce but displaying lower productivity than Ahmedabad. 
-Gujarat holds the highest share in the national textile workforce at
-Contrastingly, Tamil Nadu and Uttar Pradesh experienced a decline in 
-their workforce shares during the same period. 
-A similar trend is observed in Uttar Pradesh, where Ghaziabad productivity is high but 
-constitutes less than of the total workforce of UP in textile, while Bareilly, with a 15.41% 
-workforce share, contributes merely 1.24% to the state’s average wage. This uneven trend 
-suggests specialized expertise in certain areas and lower output in others within these 
-states’ textile manufacturing clusters.
-Apparel
-In the fiscal year 2022-23, the apparel cluster in India engaged a workforce of approximately 
-19 lakh individuals, reflecting a decline of 13.42% in employment and a 9.07% decrease in 
-wages since 2017-18. 
-19.02%
-Tamil Nadu emerged as the leading state with the highest 
-share in the workforce at
-followed by West Bengal, Karnataka, 
-Maharashtra, and Punjab, 
-contributing 16.24%, 13.76%, 
-11.21%, and 7.759%, respectively.
-
-[Page 70]
-70
-Food Processing 2.
-Value addition in the Food Processing Cluster
-The analysis of value added in 433 enterprises across various NIC codes of 101-108 from 
-2014 to 2022 provides insights into the performance and trends within different activities. The 
-presence of both upstream and downstream activities highlights the interconnectedness of 
-the local and traded cluster, indicating that a disruption in one may affect the others.
-Among these states, only West Bengal experienced an increase in the number of workers by 
-3.39%, followed by Gujarat with a 2.13% growth. Tamil Nadu also secured the highest share 
-in average wages at 12.80% in 2020-21, succeeded by Delhi and Karnataka with shares of 
-9.66% and 8.32%, respectively. Notably, West Bengal, ranking second in workforce share 
-among states, exhibited a nominal 2.93% share in total wages. 
-Conversely, Haryana, with a 0.39% workforce share, held a substantial 8.31% share in average 
-wages. In Tamil Nadu, Tirupur dominated with a remarkable 49.81% share in workforce, 
-experiencing an increase from 43.45% in 2017-18. However, subsequent districts, such as 
-Erode, Tiruvallur, and Coimbatore, displayed significantly lower workforce shares. The top five 
-positions in share of wages mirrored the workforce distribution, with Tirupur commanding 
-46.68%, followed by Coimbatore, Erode, and Tiruvallur. In Karnataka, Bangalore emerged with 
-the highest workforce share at 70.09%, yet its share in average wages was a modest 7.78%. 
-Conversely, Kolar and Hassan, with workforce shares of 0.57% and 0.73%, respectively, led 
-the state in average wages, emphasizing regional disparities in productivity within the apparel 
-cluster.
-Value Added in Food 
-Processing with 
-sales < 250 crores 
-Fig. 10
-Manufacture of 
-prepared animal feeds
-Manufacture of other 
-food products
-Manufacture of 
-grain mill products, 
-starches, and starch 
-products
-Manufacture of 
-dairy products
-Manufacture of 
-vegetable and 
-animal oils and fats 0
-5000
-10000
-15000
-20000
-25000
-30000
-35000
-40000
-2014 2015 2016 2017 2018 2019 2020 2021 2022
-
-[Page 71]
-71
-Upstream Activities 
- » The NIC code 107, involving the manufacture of other food products, stands out with a 
-significant increase in value added over the years, especially in 2016 and 2020, showcasing a 
-robust growth trajectory. 
- » Conversely, Enterprises related to NIC code 108, i.e manufacture of prepared animal feeds, 
-experienced fluctuations, with a substantial decrease in 2020. The % increase in value added 
-indicates varying degrees of value addition across different enterprises.
- » Enterprises associated with the NIC codes of upstream activities, such as the manufacture 
-of grain mill products, starches, and starch products (106) and the manufacture of 
-vegetable and animal oils and fats (104), show moderate and consistent growth. This 
-suggests a stable foundation for these industries, contributing significantly to the overall 
-value added. 
- » On the other hand, NIC code 105, enterprises encompassing the manufacture of dairy 
-products, displays a mixed performance, indicating potential challenges or changing market 
-dynamics.
-Downstream Activities 
-Workforce Trends 
- » Enterprises in NIC codes 107 and 108 seem to be dominant, emphasising the importance of 
-processed food products. However, the fluctuations in value addition in enterprises under 
-NIC 108 since 2020 raise concerns about its resilience. This could be attributed to external 
-factors impacting the supply chain or market demand. 
-In the examination of the food processing sector, two distinct segments are under scrutiny: 
-Food Processing and Local Food and Beverages Distributions. 
-0 10,000 20,000 30,000 40,000 50,000 60,000 70,000 80,000 90,000
-Number of workers
-₹ 0
-₹ 100,000
-₹ 200,000
-₹ 300,000
-₹ 400,000
-₹ 500,000
-₹ 600,000
-₹ 700,000
-₹ 800,000
-₹ 900,000
-₹ 1,000,000
-₹ 1,100,000
-Average wages
-Aurangabad
-Gurgaon
-29
-Raigarh Udaipur
-BangaloreJind
-Dhar
-Nashik
-Mumbai Suburban Ahmedabad
-Sangrur
-Nagpur
-Chittoor ThaneKrishnaHugliIndore
-Haora
-DarjilingRaisen Buldana
-0 50,000 1,00,000 1,50,000 2,00,000 2,50,000
-Number of workers
-₹ 0
-₹ 50,000
-₹ 100,000
-₹ 150,000
-₹ 200,000
-₹ 250,000
-₹ 300,000
-₹ 350,000
-₹ 400,000
-Average wages
-Pune
-Kancheepuram
-Aurangabad
-29
-SataraKolar
-Jammu North West Delhi
-Gurgaon ChennaiRaigarh
-Thane
-Solan
-BangaloreCoimbatore Ghaziabad
-Meerut
-AhmedabadKanpur Nagar
-Krishna
-Alwar
-Bhopal North Twenty Four Parganas
-Indore
-South Twenty Four ParganasSalem Surat
-Guntur
-Raisen LucknowAnantapurRaipurBastar
-Bara Banki
-Food Processing and Manufacturing Local Food and Beverage processing and distributioFig. 11

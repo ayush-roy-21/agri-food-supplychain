@@ -1,151 +1,85 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-100-C02
 Parent Doc ID: A-EUDR-100
-Page Range: Page 3 to Page 4
-Word Range: 2058 - 3414
-Word Count: 1,357
+Page Range: Page 1
+Word Range: 251 - 500
+Word Count: 250
 --------------------
 
-[Page 3]
-2.1. The less elastic supply chain actors bear the brunt
-The administrative costs added by the EUDR to the supply chain have 
-a similar effect as an import tax. The distribution of the cost between 
-producers and importers is affected by the elasticity of the commodities' 
-supply and demand functions. As we illustrate in Box 1 , the supply chain 
-actor that is less elastic, i.e. reacts less strongly to the compliance cost, 
-will bear the greater share of the costs. Cases when inelastic supply 
-meets elastic demand (scenario B in Fig. 1 ) may be particularly worrying 
-because of the social implications that a decreasing producer price may 
-have, especially for smallholders ( Azevedo-Ramos and Lima, 2024 ). 
-Inelastic supply is typical for commodities for which producers have 
-locked-in path dependencies, such as perennial crops which do not allow 
-for swift reactions.
-Apart from price effects, there may also be quantity effects to look 
-out for. When both supply and demand functions are elastic, the com -
-modity market may contract due to the additional cost, providing room 
-for a substitute crop (scenario D in Fig. 1 ). This is of concern especially 
-when a commodity regulated by the EUDR, such as coffee in Latin 
-America, is easily supplanted by an illicit crop such as coca ( Grisaffi 
-et al., 2021 ). However, which of the four scenarios applies to a certain 
-case will depend on the specificities of regional production systems and 
-their commodity and substitute markets.
-2.2. Possibilities for data monetisation
-To cushion or even avoid the undesirable effects administrative costs 
-can entail, there is need to explore whether the cost could be recuper -
-ated. One possibility could be to develop a market for data monetisation. 
-Data monetisation refers to the commercialisation of data and infor -
-mation assets to yield financial returns like selling data or analytics- 
-based services or improving operations, products or pricing ( Ofulue 
-and Benyoucef, 2024 ; Zhang et al., 2023 ).
-Opportunities for data monetisation can be placed on a continuum 
-ranging from insight to foresight. This continuum demonstrates how 
-data can be converted and translated to aggregated data driven insight 
-to gain relevant information about farming practices, new markets, 
-business opportunities and entry points that would otherwise be inac -
-cessible ( Chamorro-Padial et al., 2025 ). Following Ritala et al. (2024) , 
-the information requirements of the EUDR [Art. 9] and referring to the 
-cocoa value chain as an example, in Fig. 2 we highlight four opportu -
-nities of monetising data. Table 1 provides a more detailed analysis of 
-the data requirements, necessary capabilities, potential risks and 
-required safeguards. Moving from left to right along the continuum 
-( Fig. 2 ), stratification and complexity of the data layers increase, adding 
-value to potential products: 
-1) Data as a product involves selling raw or processed data in an 
-aggregated format. As an example, a producer organisation could 
-analyse cocoa producers' data by region, production practices, 
-productivity, etc. to create meaningful insights on cocoa key per -
-formance indicators (KPIs). Similarly, extension services, non- 
-governmental organisations (NGOs) and research institutions could 
-use data insights to train models to recognise large-scale patterns or 
-to target their efforts on farmers who would benefit from their ser -
-vices ( Atik, 2022 ; Chamorro-Padial et al., 2025 ).
-2) A data enhanced product adds additional value-enhancing informa -
-tion and insights. For example, chocolate manufacturers could pro -
-vide supplementary insights into their products by adding 
-information about the origin of the cocoa beans and the production 
-practices to their labels. This would enable them to accrue a pre -
-mium price.
-3) Data driven services use insights from multiple sources of data to 
-develop a solution to address problems or render services. Data 
-insight on production behaviour can help predict future behaviour of 
-producers to develop a service or a product that solves production 
-problems ( Bataineh et al., 2020 ). For instance, insurance providers 
-could use data insights to identify high-risk areas and adjust pre -
-miums accordingly. Investors looking for new land acquisitions 
-could use insights to inform their decisions and prospective invest -
-ment returns.
-4) Data driven performance outcomes combine stages of the contin -
-uum, e.g. cocoa production practices, consumer preferences and 
-market trends to provide insights and improve performance out -
-comes ( Lepenioti et al., 2020 ). Companies can use data to optimise 
-products and resources, enhance customer experience and track 
-long-term trends to anticipate market demands and refine their of -
-ferings. Researchers and policymakers can use data insights to pre -
-dict production and behavioural patterns and inform evidence-based 
-decisions that drive productivity and sustainability ( Uyar et al., 
-2024 ).
-However, transforming data into a marketable commodity requires 
-strong data capabilities, including data literacy and technological know- 
-how. It also requires upfront investment in research and development, as 
-well as digital technologies and safeguards to address potential risks 
-( Bataineh et al., 2020 ; Markfort et al., 2022 ; O'Hara, 2020 ; Steinke et al., 
-2024 ; Sweeney, 2002 ). In addition, measures to secure data from 
-unauthorised access can cause substantial investment costs ( Gopal et al., 
-2024 ). Table 1 presents an analysis of the minimum data required for 
-each stage of the continuum, data capability needs, potential data 
-buyers, risks and example safeguards.
-3. Data protection
-Scholars have warned that data can be (mis)used for surveillance, 
-commercial exploitation, or even political influence ( Zuboff, 2020 ). As 
-the People‘s Republic of China‘s president Xi Jinping allegedly said some 
-years ago, “ whoever controls data will have the initiative ” ( Wei, 2021 ). 
-Indeed, the EU, China, and the USA have created three major data 
-Box 1
-Distributional effects of compliance costs
-We assume there is a market on which commodity producers are the suppliers and EU importers represent the demand side. Fig. 1 shows four 
-different scenarios with differing assumptions on supply and demand elasticities. In each scenario, there is an initial market equilibrium ( P
-0
-, Q
-0
-). 
-Adding the compliance cost shifts the supply curve upward ( S
-0 
-to S
-1
-, the shift is identical across all four scenarios of Fig. 1 ). This shift results in a 
-new equilibrium with the demand curve, with a resulting decrease in quantity from Q
-0 
-to Q
-1
-, and diverging prices for suppliers ( P
-1
-producers
-) and 
-importers ( P
-1
-importers
-). The magnitudes of the quantity and price effects depend on the supply and demand elasticities.
-In scenarios A and D of Fig. 1 , the burden of the compliance cost is shared equally between producers and importers because the supply and 
-demand elasticities are equal in absolute terms. In the other two scenarios, the burden is higher for the supply chain actors with the less elastic 
-supply, i.e. in scenario B, the producers have a higher burden and in scenario C, importers bear the brunt.
-L. Afriyie-Kraft et al.                                                                                                                                                                                                                           Forest Policy and Economics 184 (2026) 103709 
-3
-
-[Page 4]
-governance realms which their partners must adapt to ( Aaronson and 
-Leblond, 2018 ). In the EU, the General Data Protection Regulation 
-(GDPR) gives fundamental rights and control over personal data to the 
-primary owners (data subjects) ( Regulation (EU) 2016/679 ). The GDPR 
-protects the personal data of EU residents, as well as that of residents of 
-third countries once it enters the EU. Although the scope of the EUDR 
-does not directly require personal data per se, personal data includes 
-information about an identified or identifiable individual ( CNIL, 
-2024b ). If information provided for EUDR compliance e.g. geolocation 
-data or supply chain documents can be cross-checked to identify a farm 
-or an individual, it can be considered personal data. In addition, the EU 
-Data Act, applicable since 12.09.2025, regulates access and use of both 
-Fig. 1. Compliance costs and their distributional effects. 
-Source: authors' own drawing.
-Fig. 2. Data products from information to dynamic optimisation, adapted from Ritala et al. (2024) .
-L. Afriyie-Kraft et al.                                                                                                                                                                                                                           Forest Policy and Economics 184 (2026) 103709 
-4
+[Page 1]
+Commentary
+Dealing with the cost of EUDR compliance data and potential monetisation: 
+Opportunities and risks
+Lydia Afriyie-Kraft
+*
+, Astrid Zabel , Thomas Breu
+Centre for Development and Environment, University of Bern, Mittelstrasse 43, 3012 Bern, Switzerland
+ARTICLE INFO
+Keywords 
+EUDR
+Compliance cost
+Data monetisation
+Data protection
+Personal data
+ABSTRACT
+The European Union Deforestation Regulation (EUDR) introduces strict due diligence obligations, requiring EU 
+operators to trace the origin of commodities and verify that they are deforestation-free. While existing research 
+has largely focused on the design of the regulation and the challenges of its enforcement, little attention has been 
+paid to the role of EUDR compliance data as both a cost factor and a potential asset. This paper analyses the costs 
+of EUDR compliance data, paying particular attention to the distributional effects among market actors. It also 
+explores the opportunities for monetising such data and the implications for producer privacy and data pro -
+tection. Our findings suggest that compliance costs may not be evenly distributed across the supply chain, with 
+producers in exporting countries being particularly vulnerable. This could create unintended market distortions, 
+including price shifts and the supplanting of EUDR-relevant commodities by illicit alternatives. Notably, the 
+monetisation of EUDR compliance data could offer producer countries new revenue streams. However, many 
+EUDR-relevant commodities originate from countries with weak data protection frameworks, raising concerns 
+about the potential misuse of producers' data. While data monetisation could help offset EUDR compliance costs, 
+it must be accompanied by robust data protection laws. We recommend harmonising, strengthening and 
+enforcing data protection laws in producer countries to ensure that the benefits of EUDR compliance are not 
+achieved at the expense of the most vulnerable. Addressing these issues is critical to aligning the EUDR with 
+broader objectives of sustainability, fairness and inclusive global value chains.
+1. Introduction
+Data and data processing with artificial intelligence are increasingly 
+seen as tools to support sustainability transitions ( Aaronson and Leb -
+lond, 2018 ; Galaz et al., 2021 ; Hassani et al., 2021 ; Vance et al., 2024 ). 
+Several novel environmental Regulations enacted by the European 
+Union (EU) rely on the provision of large amounts of data for compliance 
+reporting, notably the EU Regulation on Deforestation-Free Products 
+(EUDR), the EU Corporate Sustainability Reporting Directive, the EU 
+Corporate Sustainability Due Diligence Directive and the EU taxonomy. 
+Together, these environmental Regulations support the implementation 
+of the European Green Deal to transform the EU into a more resource- 
+efficient and competitive economy ( EUR-Lex, 2022 ).
+These Regulations also aim to help businesses, investors and con -
+sumers at the EU level to identify environmentally sustainable activities 
+and consumption patterns. They require economic operators to collect 
+data, process it and communicate comprehensive proof of compliance. 
+Collecting and processing the required data is a costly administrative 
+burden ( Hoos et al., 2025 ). Concerns about the added costs of collecting 
+and processing the required information along complex supply chains 
+have been raised, particularly in the context of the EUDR ( Sevilla et al., 
+2025 ; Urugo et al., 2025 ; Zabel et al., 2025 ).
+However, beyond the overall economic burden of data collection, 
+little thought has been given to the distributional effects of compliance 
+costs across supply chain actors and whether there could be opportu -
+nities for monetising the aggregated data to cover the cost. A further key 
+aspect that has not been sufficiently addressed in the context of inter -
+national data-driven sustainability policies is data protection. This paper 
+takes an economic and policy perspective to analyse how the EUDR 
+compliance data requirements could potentially distort markets. It 
+further explores opportunities and risks of monetising compliance data 
+to offset the costs of collecting data for compliance.
+The EUDR aims to prevent deforestation-related and illegally pro -
+duced commodities from entering the EU market ( Regulation EU 2023/ 
+1115 ). Commodities covered by the EUDR include cocoa, coffee, timber, 
+rubber, palm oil, soy and cattle. To achieve the regulation's goals, Article 
+* Corresponding author.
+E-mail address: lydia.afriyie@unibe.ch (L. Afriyie-Kraft). 
+Contents lists available at ScienceDirect
+Forest Policy and Economics
+journal homep age: www.el sevier.com/l ocate/forpol
+https://doi.org/10.1016/j.forpol.2026.103709
+Received 29 August 2025; Received in revised form 8 January 2026; Accepted 11 January 2026  
+Forest Policy and Economics 184 (2026) 103709 
+Available online 21 January 2026 
+1389-9341/© 2026 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

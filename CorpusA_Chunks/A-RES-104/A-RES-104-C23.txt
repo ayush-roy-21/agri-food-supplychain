@@ -1,0 +1,79 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-104-C23
+Parent Doc ID: A-RES-104
+Page Range: Page 7
+Word Range: 5771 - 6020
+Word Count: 250
+--------------------
+
+[Page 7]
+Xue et al. 10.3389/fsufs.2025.1649834
+Frontiers in Sustainable Food Systems 07 frontiersin.org
+economic conditions ( Ortmann and King, 2010 ). Small farmers 
+without financial buffers were hard hit by external shocks. Farmers 
+help build overall resilience capacity of AFSC, but they tend to 
+be  viewed as the least resilient ones in AFSC ( Zhao et  al., 2022). 
+We need to tackle the susceptibility of small farmers in order to ensure 
+their resilience and the sustainability of AFS. Strategies like developing 
+alternative food networks, promoting collective action, and using 
+digital technology can help reduce these vulnerabilities (Ortmann and 
+King, 2010; Belhadi et al., 2024). As per Karunarathna et al. (2023), 
+supply of agricultural inputs, loans, and subsidies by the government 
+may lead to stabilization and sustaining of small farmer operations.
+4.2 Export-oriented economies
+AFSC depends on global markets for its inputs and outputs, which 
+makes domestic economies more vulnerable. This can be seen in Ghana’s 
+cocoa and Malaysia’s palm oil sectors. The pandemic has shown these 
+weaknesses in the sector (Tan et al., 2023). Because of this reliance on 
+global markets, food supply and demand might become unbalanced. At 
+the same time, that reliance can create opportunities for resilience. 
+Traders are critical to linking corporate sustainability targets to real-
+world impacts in food supply chains (Grabs and Carodenuto, 2021). 
+Through better global connections, risks coming from market 
+dependency can be  reduced. To address the challenges of AFSC 
+dependency, countries should develop supply chains with resilience by 
+innovation, early warning mechanism and a middle path between global 
+participation and domestic food security measures (Manikas et al., 2022; 
+Joshi et  al., 2023). The financial and industrial limits in developing 
+regions make it hard to implement advanced infrastructure. These areas 
+face challenges not just with limited capital and outdated infrastructure, 
+but also with a shortage of skilled labor and the time-consuming need to 
+train the workforce to manage new technologies properly. Furthermore, 
+applying digital technologies including approaches such as ‘ Agri-Food 
+4.0’ can contribute to lowering food waste, enable real-time tracking, and 
+support scalability (Dadi et al., 2021). Using IoT, big data, and blockchain 
+can assist in establishing traceability and enhancing the efficiency of 
+AFSC systems in developing regions. However, a major challenge for 
+many countries is securing substantial investment for infrastructure 
+development, especially in rural areas with limited access to energy, 
+internet, and logistics, compounded by a lack of financial resources and 
+technical expertise (Bhat et al., 2021; Ahmadzadeh et al., 2023).
+4.3 Impact on food prices and household 
+budgets
+As highlighted in the introduction, food security encompasses not 
+only the availability of food but also its access, stability, and utilization. 
+The rise in food costs has impacted family budgets and nutritional 
+stability, especially for vulnerable groups in low-income nations. A 50% 
+hike in food price leads to a reduction of 5–15% in energy intake and 
+a cut of 10–30% in iron intake, depending on income effects (Bouis 
+et al., 2011). In India, the rise in food costs brings a higher likelihood 
+of children becoming malnourished. The rate of emaciation in children, 
+for example, rose from 18.8% in 2006 to 28.0% in 2009 (Vellakkal et al., 
+2015). When shortages arise, families switch to cheaper brands, 
+purchase larger quantities and plant vegetable gardens. Shortages can 
+affect food quality and variety, especially for the poor and female 
+headed households. As noted by Welch and Graham (2000) , 
+malnutrition is not only a result of agricultural inefficiencies but also 
+of poverty, which is a critical barrier to achieving food security. It is 
+necessary to act on these angles simultaneously to give us food security 
+and nutrition (which includes health) through agricultural production 
+and food systems (Welch and Graham, 2000; Haddad, 2000).
+5 Mitigation and risk management 
+approaches
+5.1 Policy and governance solutions
+The agricultural food supply chain can experience reduced risk 
+and disruption through policy and governance solutions, provided 
+by the farm, Table 2. According to Charlebois et al. (2024) , food 
+security, regulatory frameworks, emergency plans, and digital 
+FIGURE 2
+Systematic vulnerabilities in agri-food systems.

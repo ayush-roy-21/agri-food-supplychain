@@ -1,112 +1,60 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-101-C11
 Parent Doc ID: A-EUDR-101
-Page Range: Page 21 to Page 22
-Word Range: 18246 - 19956
-Word Count: 1,711
+Page Range: Page 4
+Word Range: 2634 - 2883
+Word Count: 250
 --------------------
 
-[Page 21]
-intended users of that inf or mation. Although the objective is to hav e a similar level of assurance f or fi nancial and 
-sustainability repor ting, the absence of a commonly agreed standard f or the assurance of sustainability repor ting 
-creat es the r isk of diffe rent understandings and expectations of what a reasonable assurance enga gement w ould 
-consist of f or different categor ies of sustainability inf or mation, especially with regar d to f or ward-looking and 
-qualitative disclosures.
-Theref ore, a progressive approach to enhancing the level of the assurance required f or sustainability inf or mation 
-should be considered, star ting with an oblig ation on the statutor y auditor or audit fir m to express an opinion about 
-the compliance of the sustainability repor ting with U nion requirements based on a limited assurance engag ement. 
-That opinion should cover the compl iance of the sustainability repor ting with U nion sustainability repor ting 
-standards, the process car r ied out by the under taking to identify the inf or mation repor te d pursuant to the 
-sustainability repor ting standards and compl iance with the requirement to mark up sustainability repor ting. The 
-auditor should also assess whether the under taking’s repor ting complies with the repor ting requirements of 
-Ar ticle 8 of Regulation (EU) 2020/852. T o ensure a common understanding and common expectations of what a 
-reasonable assurance engag ement would consist of, the statut or y auditor or audit fir m should be required to express 
-an opinion based on a reasonable assurance engag ement about the compliance of the sustainability repor ting with 
-U nion requirements, when the Commission adopts assurance standards f or reasonable assurance of sustainability 
-repor ting by means of delegat ed acts no later than 1 October 2028 , f ollowing an assessment to deter mine if 
-reasonable assurance is f easible f or auditors and under takings.
-The gradual approach from limited assurance engag ements to reasonable assurance engag ements w ould also allow 
-f or the progressive development of the assurance mark et f or sustainability inf or mation, and of under takings’ 
-repor ting practices. Finally , such gradual approach would phase in the increase in costs f or repor ting under takings, 
-given that assurance of sustainability repor ting based on a reasonable assurance engag ement is more costly than 
-assurance of sustainability repor ting based on a limite d assurance engag ement. Under takings subject to 
-sustainability repor ting requirements should be able to decide to hav e an assurance opinion on their sustainability 
-repor ting based on a reasonable assurance engag ement if they so wish, and in such cases they should be deemed to 
-hav e compl ied with the oblig ation to hav e an opinion based on a limited assurance engag ement. The opinion based 
-on a reasonable assurance engag ement concer ning f or ward-looking inf or mation is only an assurance that such 
-inf or mation has been prepared in accordance with applicable standards.
-(61) Statut or y auditors or audit fi r ms already ver ify the financial stat ements and the management repor t. The assurance 
-of sustainability repor ting by the statutor y auditors or audit fir ms w ould help to ensure the connectivity between, 
-and consiste ncy of, financia l and sustainability inf or mation, which is par ticularly im por tant f or users of 
-sustainability inf or mation. However , there is a r isk of fur ther concentration of the audit mark et, which could r isk 
-the independence of auditors and increase audit f ees or fe es relating to the assurance of sustainability repor ting.
-Consider ing the ke y role of statut or y auditors when providin g assurance of sustainability repor ting and ensur ing 
-reliable sustainability inf or mation, the Commission has announced that it will act to fur ther enhance audit quality 
-and to create a more open and diversif ied audit market, which are the conditions f or the successful application of 
-this amending Directive. In addition, it is desirable to offe r under takings a broader c hoice of independent assurance 
-ser vices provid ers f or the assurance of sustainably repor ting. Member Stat es should theref ore be allowed to accredit 
-independent assurance ser vices providers in accordance with Regulation (EC) No 765/2008 of the European 
-P arliament and of the Council (
-34
-) to provid e an assurance opinion on sustainability repor ting, which should be 
-published tog ether with the management repor t. In addition, Member State s should be given the op tion of allowing 
-(
-34
-) Regulation (EC) No 765/2008 of the European P arliament and of the Council of 9 July 2008 setting out the requirements f or 
-accreditation and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).
+[Page 4]
+(9) If under takings car r ied out better sustainability repor ting, the ultimate beneficiar ies w ould be individual citizens and 
+sav ers, including trade unions and w orke rs ’ representatives who would be adequate ly inf or med and theref ore able to 
+bette r engag e in social dialogue. Sav ers who want to inve st sustainably will hav e the oppor tunity to do so, while all 
+citizens w ould benefi t from a stable, sustainable and inclusive economic system . T o realise such benefits, the 
+sustainability inf or mation disclosed in the annual repor ts of under takings first has to reach two pr imar y groups of 
+users. The first group of users consists of invest ors, including asset managers, who want to bette r understand the 
+r isks and oppor tunities that sustainability issues pose f or their inv estments and the impact s of those investments on 
+people and the en vironment. The second group of users consists of civil society actors , including non-go ver nmental 
+org anisations and social par tners, which wish to bett er hold under takings to account f or their im pacts on people and 
+the environment. Other stak eholders might also make use of sustainability inf or mation disclosed in annual repor ts, 
+in par ticular to f oster comparab ility across and within mark et sectors .
+The business par tners of under takings, including custome rs, might rely on sustainability inf or mation to understand 
+and, where necessar y , repor t on their sustainability r isks and impacts throughout their own value chains. P olicy 
+make rs and en vironmental agencies can use such inf or mation, in par ticular on an aggreg ate basis, to monitor 
+en vironmental and social trends, to contr ibut e to en vironmental accounts, and to inf or m public policy . Few 
+individual citizens and consumers directly consult under takings’ annual repor ts, but the y might use sustainability 
+inf or mation indirectly , f or exam ple, when consider ing the advice or opinions of fi nancial advisers or non- 
+governmental orga nisations. Many inve stors and asset managers purchase sustainability inf or mation from third- 
+par ty data providers, who collect inf or mation from var ious sources, including public cor porat e repor ts.
+(10) The mark et f or sustainability inf or mation is rapidly gro wing, and the role of third-par ty data provid ers is gainin g in 
+imp or tance given the new oblig ations that inve stors and asset manage rs need to fulfil. With the increased av ailability 
+of disaggregat ed data, sustainability inf or mation should come at a more reasonable cost. The amendments to 
+Directive 2013/34/EU provided f or in this amending Directive are expecte d to increase the comparability of data 
+and har monise standards. It is expecte d that the practices of third-par ty data providers will impro ve and that 
+exper tise will grow in this area, with a poten tial f or job creation.
+(11) There has been a ver y significant increase in demand f or cor porate sustainability inf or mation in recent years, 
+especially on the par t of the inve stment community . That increase in demand is dr iven by the c hanging nature of 
+r isks to under takings and growing invest or awar eness of the financia l imp lications of those r isks . That is especially 
+the case f or climat e-related financial r isks . There is also gro wing awar eness of the r isks and oppor tunities f or 
+under takings and f or investments resulting from other en vironmental issues, such as biodiversity loss, and from 
+health and social issues, including child labour and f orced labour . The increase in demand f or sustainability 
+inf or mation is also dr iven by the growth in inv estment products that explicitly seek to meet cer tain sustainability 
+standards or achi eve cer tain sustainability objectives and to ensure coherence with the ambition of the P ar is 
+Agreement under the U nited Nations Framew ork Conv ention on Climate Change adopt ed on 12 December 2015
+(the ‘Pari s Agreement ’), the UN Conv ention on Biological Diversity and U nion policies. P ar t of that increase is the 
+logical consequence of previously adopt ed Union legislation, notably Regulations (EU) 2019/2088 and (EU) 
+2020/852. Some of that increase would have happened in an y case, due to fa st-changing citizen aware ness, 
+consumer preferences and mark et practices. The CO VID-19 pandemic has fur ther accelerat ed the increase in users’ 
+inf or mation needs, in par ticular as it has exposed the vulnerabilities of work ers and under takings’ value chains. 
+Inf or mation on en vironmental im pacts is also relevant in the context of mitigating future pandemics, with human 
+disturbance of ecosystems being increasing ly linked to the occur rence and spread of diseases.
+(12) U nder takings themselves stand to benefit from car r ying out high-quality repor ting on sustainability matt ers. The 
+gro wth in the number of investment products that aim to pursue sustainability objectives means that good 
+sustainability repor ting can enhance an under taking’s access to financial capital. Sustainability repor ting can help 
+under takings to identify and manag e their o wn r isks and oppor tunities relat ed to sustainability matt ers. It can 
+provid e a basis f or bett er dialogue and communication between under takings and their stakeholders, and can help 
+under takings to impro ve their reputation. Moreover , a consistent basis f or sustainability repor ting in the f or m of 
+sustainability repor ting standards w ould lead to relevant and sufficient inf or mation being provi ded and thus 
+signif icantly decrease ad hoc requests f or inf or mation.
 EN
-Offi cial Jour nal of the European Uni on 16.12.2022 L 322/35
-
-[Page 22]
-a statutor y auditor , other than the one(s) car r ying out the statutor y audit of the financia l state ments, to express an 
-assurance opinion on sustainability repor ting. Fur ther more, if they allo w independent assurance ser vices provid ers 
-to car r y out the assurance of sustainability repor ting, Member Stat es should also allo w a statut or y auditor , other 
-than the one(s) car r ying out the statut or y audit of the fi nancial statements, to express an assurance opinion on 
-sustainability repor ting.
-Member Stat es should set out requirements that ensure the quality of the assurance of sustainability repor ting car r ied 
-out by independent assurance ser vices pro viders and consistent outcomes in the assurance of sustainability 
-repor ting. Theref ore, all independent assurance ser vices providers should be subject to requirements that are 
-equivalent to the requirements set out in Directive 2006/43/EC of the European Parliament and of the Council (
-35
-)
-as regar ds the assurance of sustainability repor ting, while being adap ted to the charact er istics of independent 
-assurance ser vices pro viders which do not car r y out statut or y audits. In par ticular , Member State s should set out 
-equivalent requirements as regards training and examination, continuing education, quality assurance system s, 
-professiona l ethics, independence, objectivity , conf identiality and profess ional secrecy , appointment and dismissal, 
-the org anisation of the w ork of independent assurance ser vices provid ers, investig ations and sanctions, and the 
-repor ting of ir regular ities. This w ould also guarant ee a level pla ying field among all persons and fir ms allo wed by 
-Member Stat es to provid e an assurance opinion on sustainability repor ting, including statutor y auditors. If an 
-under taking seeks the opinion of an accredit ed independent assurance ser vices provid er other than the statutor y 
-auditor on its sustainability repor ting, it should not in addition need to request an assurance opinion on its 
-sustainability repor ting from the statutor y auditor .
-Independent assurance ser vices provid ers that hav e already been accredited by a Member Stat e f or the assurance of 
-sustainability repor ting should continue to be allowe d to do so. Like wise, Member States should ensure that 
-independent assurance ser vices providers that, by the dat e of application of the new requirements on training and 
-examination, are undergoing their accreditation process are not subject to those new accreditation requirements, 
-provid ed the y compl ete that process within two yea rs of the dat e of application of those new requirements. Member 
-State s should, however , ensure that all the independent assurance ser vices pro viders accredite d by a Member State f or 
-the assurance of sustainability repor ting within two y ears of the date of application of the new accreditation 
-requirements, acquire the necessar y knowledg e in sustainability repor ting and the assurance of sustainability 
-repor ting through continued profes sional education.
-(62) In order to f oste r the free move ment of ser vices, Member State s should allo w independent assurance ser vices 
-provid ers established in a diffe rent Member State to car r y out the assurance of sustainability repor ting in their 
-terr itory . This w ould also f av our opening up the assurance mark et even when not all Member State s allo w f or the 
-accreditation of independent assurance ser vices provid ers in their terr it or y . Where independent assurance ser vices 
-provid ers car r y out the assurance of sustainability repor ting in the terr it or y of a host Member State, that host 
-Member State should be able to decide to super vise independent assurance ser vices providers, given the possibility 
-to leverage on the implement ed framew ork f or the super vision of auditors car r ying out the assurance of 
-sustainability repor ting.
-(63) Member States should ensure that when an under taking is required by Union la w to hav e elements of its 
-sustainability repor ting ver ified by an accredit ed independent third par ty , the repor t of the accredited independent 
-third par ty should be made available either as an annex to the manage ment repor t or by any other publicly 
-accessible means. Such making ava ilable of that repor t should not pre-emp t the outcome of the assurance opinion 
-of whic h the third-par ty ver ification should remain independent. It should not entail any duplication of w ork 
-between the auditor or the independent assurance ser vices pro vider that expresses the assurance opinion and the 
-accredite d independent third par ty .
-(
-35
-) Directive 2006/43/EC of the European P arliament and of the Council of 17 Ma y 2006 on statut or y audits of annual accounts and 
-consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC 
-(OJ L 157, 9.6.2006, p. 87).
-EN
-Offi cial Jour nal of the European Uni on L 322/36 16.12.2022
+Offi cial Jour nal of the European Uni on L 322/18 16.12.2022

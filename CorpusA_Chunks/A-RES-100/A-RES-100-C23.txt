@@ -1,0 +1,81 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C23
+Parent Doc ID: A-RES-100
+Page Range: Page 35 to Page 36
+Word Range: 6615 - 6970
+Word Count: 356
+--------------------
+
+[Page 35]
+Issue No.06
+These insights, in turn, guide investment, policy, and
+supplier programs toward the highest-impact levers
+and help remove the specific constraints slowing the
+scale of these technologies.
+To explore how businesses view the freight
+decarbonization pathway, our survey asked
+respondents to assess the expected emissions-
+reduction impact of biofuels, battery-electric, and
+hydrogen solutions in the short term (1–3 years) and
+long term (4–10 years). Across the three options,
+biofuels are viewed as the most immediately‑ useful
+lever for freight decarbonization, with many
+respondents already seeing moderate-to-high
+short‑term impact and confidence rising further over
+the long term as supply and standards mature. While
+this is the easiest transition for an older fleet to start
+using, it makes sense that it has the highest short-
+term impact.
+Hydrogen emerges as
+a long-term bet,
+particularly for heavy,
+long-haul transport,
+with expected impact
+building over the next
+4–10 years.
+35
+Battery‑electric solutions are typically perceived as
+high impact where duty cycles fit, urban and
+regional routes with depot or corridor charging, so
+expectations are strong in the near term and
+improve as vehicle ranges, charging networks, and
+total cost of ownership advance. Hydrogen, by
+contrast, is seen as a longer‑term play geared to
+heavy, long‑haul, and high‑utilization segments
+where fast refueling and high energy density
+matter; its perceived impact grows mainly over the
+4–10-year window, contingent on affordable green
+hydrogen, refueling build‑out, and vehicle cost
+declines. In sum, biofuels offer a broad near-term
+impact, batteries deliver strong near-term results on
+suitable routes, and hydrogen holds longer-term
+promise for heavy-duty cycles.
+
+[Page 36]
+State of Supply Chain Sustainability 202536
+Having identified the technologies perceived to offer
+the greatest emissions-reduction potential, our
+survey next examined the barriers companies face in
+implementing them. Respondents highlight
+infrastructure and economics as the main challenges
+to scaling cleaner freight, with limited charging and
+refueling networks at the top of the list, followed by
+high upfront costs and range or operational
+limitations that complicate real-world duty cycles.
+Policy gaps and uncertain incentives create additional
+friction, while concerns about technology readiness,
+reliability, return on investment, and some cultural
+resistance reduce investment interest. The path
+forward depends on building the infrastructure,
+lowering vehicle and fuel costs, and strengthening
+policy support.
+Figure 22: The Significance of Biofuels, Electric Vehicles, and Hydrogen In Reducing Emissions in the Short-Term
+(1–3 years) and Long-Term (4-10 years)
+Key Enablers and Barriers for Scaling
+Sustainable Freight Solutions
+High
+Impact
+Moderate
+Impact
+Short-Term Long-Term
+HydrogenElectric VehicelsBiofuels

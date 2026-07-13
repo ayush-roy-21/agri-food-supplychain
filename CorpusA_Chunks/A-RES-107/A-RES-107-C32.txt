@@ -1,0 +1,114 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-107-C32
+Parent Doc ID: A-RES-107
+Page Range: Page 9
+Word Range: 8155 - 8506
+Word Count: 352
+--------------------
+
+[Page 9]
+Marques et al. 1065
+validity (Stake, 1995). Method triangulation involved the com-
+bination of participant observation and in-depth interviews,
+semi-structured interviews, and document analysis. For data
+triangulation, interviews were compiled with the same inter-
+viewee at different points in time, allowing observation of the
+same phenomenon at different locations. Finally, a post-project
+review was performed with key participants, who were asked
+to verify the data analysis and correspondence to reality. This
+step included three interviews conducted by Researcher-C and
+a ﬁnal online meeting with NGO-A and Brand-A, all of which
+were conducted in early 2020.
+4 Findings
+This section is structured according to the four phases
+described in Appendix 5 to highlight temporal bracketing. In
+addition, we frame the ﬁrst and last phases (1 and 4) around
+ﬁrst-person vignettes to embed the reader in the data analysis
+and reﬂections. Conversely, we have organised the intermedi-
+ate phases (2 and 3) around raw quotes, with the intention of
+providing direct access to raw data and nuances of speeches
+across workers, suppliers, brands, NGOs, and association rep-
+resentatives. In other words, we offer a journey that starts
+and ends with the narrator’s voice (Researcher-A), with the
+original voices presented between.
+4.1 Phase 1. Project Setup (and Behind-the-Scenes
+Access)
+On December 22, 2017, Researcher-A received a compliment
+from an old friend on social media. She had moved from Rio
+de Janeiro to São Paulo a few years before, and they had lost
+contact. She had become a manager at NGO-A, which funds
+projects to improve supply chain transparency. A ﬁrst meet-
+ing via Skype happened on January 31, 2018, and as a result,
+Researcher-A joined a project to conduct an intervention to
+test the extent to which blockchain could help improve sup-
+ply chain transparency. After attending a couple of meetings
+in May 2018, Researcher-A became the project manager and
+received an initial grant to develop a 12-month project for 2019
+(while travelling between Rio de Janeiro and São Paulo). In the
+following months, the project team decided to focus solely on
+working conditions and modern slavery and visited one tier-1
+and one tier-2 supplier of Brand-A.
+Vignette 1: The gut punch of reality behind the scenes.
+July 17, 2018. Today, I visited a ‘pilot supply chain’, start-
+ing with Brand-A’s headquarters, followed by a direct supplier
+and a tier-2 supplier, in São Paulo, the fourth largest city in the
+world with 22 million people. Brand-A and tier-1 suppliers are
+both located in the same industrial cluster, one hour from my
+hotel. The tier-2 supplier is based on a poor neighbourhood
+almost two hours away from the industrial cluster. This is a
+supply chain in a big city with long distances and too much
+trafﬁc.
+The visit to the tier-1 supplier is a pleasant surprise. Clearly
+a top supplier, the owner (and general manager) takes me
+around the facility and shows me the production control team,
+their software, and the visual management tools that support
+order management and quality control of 20 tier-2 suppliers
+spread across São Paulo with whom they work. They also have
+an audit team that works on four wheels running across these
+tier-2 suppliers, like a milk-run system. They work hard to
+achieve high quality and productivity and to offer a design that
+matches with what their customers want – and they happen to
+be one of the ﬁve largest fashion retail chains in the country.
+The owner is also proud to state that he is a ‘recurrent volun-
+teer’ for Brand-A’s improvement projects and is happy to help
+with the 12-month project we are about to launch.
+The visit to the tier-2 supplier is a ‘gut punch’. The supplier
+is situated in a region of the city where the postal service does
+not deliver, taxi drivers refuse to go, and Uber prohibits their
+drivers from going due to violence in the neighbourhood. W e
+get there by dropping from an Uber ride eight blocks away in
+front of a barber shop. There, we meet the owner (let’s call
+her Ana) to get a ride in her car to the facility. Ana works
+diligently to make a living, and she explains that this barber
+shop is where she can, for example, get something delivered by
+Amazon when needed. W e enter this neighbourhood ‘excluded
+from São Paulo map’ to see a sewing cell (tier-2 supplier) that
+works for the tier-1 suppliers of some of the major fashion
+brands in the country.
+Ana had started small, and growth had come intrinsically
+linked to family. Since sewing cells should not grow too much
+(approx. 30 workers) to take advantage of the tax beneﬁts, Ana
+has opened multiple sewing cells that work like production
+cells. T wo of them are managed by her daughters, and the third
+one is managed by her former husband turned business part-
+ner. As the four sewing cells supply to tier-1 suppliers of major
+fashion brands, this means not only monthly surveillance from
+the tier-1 suppliers but also annual audits from each fashion
+brand, and on top of that, the annual audit of the Brazilian Fash-
+ion Retail Association Program. These audits overlap but also
+have differences in their requirements; thus, compliance with
+all demands multiplies the required efforts and investments.
+Ana tells me that while Brand-A audit emphasises security
+(i.e., electric installations, maintenance, ﬁre alarm), another
+major fashion brand has stricter controls on ‘quarteirização’
+(informal tier-3 sewing cells), and a third one is very much
+focused on internal working conditions (i.e., lunch time, paid
+leave, etc.). Ana complains about the increasing costs, contin-
+uous priority shifts, and inclusions in the audit checklist. With
+each visit comes a new surprise and a new requirement.
+When asked about her relationship with her employees, she
+described herself as a mother to them. Some need guidance on
+their personal ﬁnances. Some are beaten by their husbands and
+ask for early leave to prepare dinner on time. Ana changed her
+tone when talking about her fear of having an illegal immigrant
+and how to avoid that. Surprisingly, she also told the story of

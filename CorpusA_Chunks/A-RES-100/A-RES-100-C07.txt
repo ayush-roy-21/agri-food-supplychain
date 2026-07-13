@@ -1,0 +1,54 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C07
+Parent Doc ID: A-RES-100
+Page Range: Page 10
+Word Range: 1899 - 2291
+Word Count: 393
+--------------------
+
+[Page 10]
+Regional differences again stand out. North American businesses rely
+heavily on financial data and industry averages, an approach that offers
+broad comparability but fails to reflect supplier-specific improvements.
+In contrast, European businesses rely more on supplier data, reflecting
+deeper engagement with upstream partners. Notably, 50% of North
+American respondents still rely primarily on spreadsheets, compared to
+just 33% in Europe, where companies more frequently use Life Cycle
+Assessment tools and custom solutions.
+When it comes to reduction, economics is a major bottleneck. More
+than half of companies report unclear return on investment as the top
+barrier to Scope 3 reduction, followed by high implementation costs
+and lack of influence over suppliers. This challenge is especially acute
+for small and medium-sized enterprises (SMEs): nearly half fear that
+customers will not pay more for greener products, while 43% also lack
+the knowledge, 40% lack the resources, or 31% lack the demand signals
+needed to justify investment. For SMEs, the issue is less about
+willingness than about feasibility.
+Despite these obstacles, companies, particularly those that have
+publicly stated sustainability goals, are beginning to deploy effective
+strategies, such as industry collaborations. Initiatives like SteelZero  and
+RE100  illustrate how coming together and setting shared standards
+can accelerate supplier transition. Survey data shows strong
+participation in cross-sector alliances and supplier partnerships. Though
+notable barriers remain, such as cost, capacity, and concerns over data
+sharing. Importantly, companies that participate in collaborations report
+improved emissions data, stronger supplier alignment, access to
+expertise, and policy influence. These benefits suggest collaboration is
+not just an option but a necessity for scaling credible Scope 3
+management. 
+2
+3
+One of the largest contributors to Scope 3 emissions is transportation,
+making it a critical focal point for supply chain decarbonization. To
+capture how businesses view this challenge, the 2025 study included a
+dedicated freight section. The survey explored perceptions of three
+major technology pathways: biofuels, battery-electric vehicles, and
+hydrogen. Biofuels emerged as the most practical near-term lever,
+offering almost immediate results with existing fleets and infrastructure.
+Battery-electric solutions are viewed as increasingly viable for urban
+and regional routes where charging networks are available, with
+expectations rising as ranges improve and costs decline. Hydrogen is
+widely regarded as a longer-term solution for heavy-duty, long-haul
+transport, contingent on the development of affordable green
+hydrogen, refueling infrastructure, and lower vehicle costs.
+10 State of Supply Chain Sustainability 2025

@@ -1,0 +1,63 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C18
+Parent Doc ID: A-RES-100
+Page Range: Page 27 to Page 28
+Word Range: 5231 - 5480
+Word Count: 250
+--------------------
+
+[Page 27]
+27
+Although most companies claim to have identified their emissions
+“hotspots,” turning that knowledge into action remains constrained by
+economic and governance challenges. Small and medium-sized
+enterprises (SMEs) face distinct challenges in advancing sustainability.
+Nearly half (~49%) anticipate that their major corporate customers will
+be unwilling to pay a premium for more sustainable products, making it
+difficult to justify the additional expense. Knowledge gaps (~43%) are
+another major hurdle, as many SMEs remain uncertain about what steps
+to take, which standards to follow, or how to measure benefits. A
+ weak
+business case is further undermined by high costs (~40%) and low
+demand (~31%); investments appear risky when customers are not
+asking for, or willing to co-fund, greener options. Mid-tier hurdles such
+as conflicting demands (~22%) and time constraints (~19%) reflect the
+limited bandwidth of small teams juggling multiple priorities. At the
+same time, a
+ notable share of SMEs reports no barriers (~9%) or are
+unsure (~12%), suggesting a lack of awareness about how emissions
+regulations may affect their business. For many, the challenge is less
+about intent and more about feasibility, economic constraints,
+information gaps, and limited capacity make it difficult to allocate scarce
+resources to decarbonization without clear guidance or price premiums.
+Ultimately, without large corporations supporting decarbonization or
+incentivizing their SME suppliers to cut emissions, meaningful Scope 3
+reductions will remain a distant goal.
+Figure 14. Barriers to Reducing Emissions Among SMEs (multiple response)
+Issue No.06
+
+[Page 28]
+Engaging suppliers is a critical lever for reducing Scope 3 emissions, and companies employ a mix of
+approaches that generally fall into four categories:
+28
+Decarbonization Levers to Reduce Scope 3: Supplier Engagement
+Figure 15. Ways Companies Engage with Suppliers to Reduce Scope 3 Emissions (multiple response)
+State of Supply Chain Sustainability 2025
+Foundational procurement levers are the most common, which includes sustainability in supplier selection
+(~70%) and requesting emissions data from suppliers (~55%), as you can see in Figure 15. The commercial
+mechanisms lever is relatively underutilized (~42%), which is powerful for locking in change but is used by a
+smaller share of businesses, whereas the capability-building and assurance levers are used moderately.
+Regional differences are notable (see Figure 16). North American organizations spread their efforts across
+selection criteria, data requests, and training, while European companies lean more on audits, certifications,
+and supplier capacity building. Commercial mechanisms like financial incentives or long-term contracts
+remain underused in both regions, despite their potential to drive lasting change.
+Commercial Mechanisms: long-term contracts
+with sustainability commitments; financial
+incentives or penalties tied to performance
+Capability-Building: providing training or
+resources to help suppliers cut emissions
+Verification & Compliance: requiring 
+third-party audits or certifications
+Sustainable Sourcing: including sustainability
+criteria in supplier selection; requesting
+emissions data

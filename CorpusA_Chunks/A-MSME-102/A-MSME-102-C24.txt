@@ -1,130 +1,48 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-102-C24
 Parent Doc ID: A-MSME-102
-Page Range: Page 116 to Page 118
-Word Range: 31068 - 32442
-Word Count: 1,375
+Page Range: Page 39
+Word Range: 6425 - 6674
+Word Count: 250
 --------------------
 
-[Page 116]
-116
-Bibliography
- » Daño-Luna, Maribel, T. C., & Francisco, J. P. (2018). Drivers of Philippine SME Competitiveness: Results of the 2018 SME Survey. AIM 
-Rizalino S. Navarro Policy Center for Competitiveness.
- » Deniz, M. S. (2013). Micro-economy competitiveness: a research on manufacturing firms operating in TRB1 region. Procedia-Social 
-and Behavioral, 75.
- » Hautz, J. M. (2014). Macro-competitive context and diversification: The impact of Macroeconomic growth and foreign competition. 
-Long Range Planning, 47(6).
- » Chobanyan, A., & Laurence, L. (2006). The competitive advantages of nations Applying the "Diamond" model to Armenia. 
-International Journal of Emerging, 1(2), 147-164. doi:10.1108/17468800610658316
- » Buckley, P. C. (1988). Measures of international competitiveness: A critical survey. Journal of Marketing Management, 4(2), 174–200.
- » Porter, M. E. (2002). Competitveness and Stages of Economic Development: Executive Summary.
- » Petrakis, P. K. (2015). Innovation and competitiveness: culture as a long term strategic instrument during the European great 
-recession. Journal of Business Research, 68(7), 1436-1438.
- » Uzor, O. O. (n.d.). African small and medium enterprises and the challenges in global value chains: The case of Nigerian garment 
-enterprises. In Multinational Corporations and Local Firms in Emerging Economies. Amsterdam University Press.
- » Zhijie, G., Hong, J., & Guogang, J. (2019). International competitiveness of Chinese textile and clothing industry – a diamond model 
-approach. Journal of Chinese Economic and Foreign Trade Studies, 12(1). doi:10.1108/JCEFTS-01-2018-0003
- » Xu, J. (2018). Analysis on the Tourism Competitiveness of Five Central Asian Countries Based on Diamond Model. Advances in Social 
-Science, Education and Humanities Research, 286.
- » Samarasinghe, N., Ariadurai, S., & Perera, M. E. (2015). Facing the Future Challenges of the Sri Lankan Apparel Industry: An Approach 
-based on Porter’s Diamond Model for the Competitive Advantage of Nations. Journal of Engineering and Technology of the Open 
-University of Sri Lanka, 3(1).
- » Abdallah, R., Barry, C., Beal, M., Said, A., & Vartanov, S. (2012). The Textile Cluster in Egypt. Microeconomics of Competitiveness.
- » Trivikram, A., Bhalla, S., Fraser, J., & Nicholson, K. (2011, May 6). TIRPUR KNITWEAR CLUSTER, TAMIL NADU, INDIA.
- » Joshi, J. (2020). MSME Competitiveness Analysis of economy in transition from Factor Driven to Investment Driven Stage: Case study 
-of Andhra Pradesh. International Journal of Scientific and Research Publications, 10(9).
- » Jhamb, D. P. (2016). An Application of Porter's Diamond Framework: A Case of Sports Goods Cluster at Jalandhar. Pacific Business 
-Review Internationa, 8(8).
- » Ketels, C. (2017, June). Cluster Mapping as a Tool for Development.
- » Sölvell, Ö., Lindqvist, G., & Ketels, C. (2003). The Cluster Initiative Greenbook. Ivory Tower. Retrieved from https://www.hhs.se/
-contentassets/f51b706e1d644e9fa6c4d232abd09e63/greenbooksep03.pdf
- » Neven, D., & Dröge, C. L. (2001). A Diamond for the Poor? Assessing Porter’s Diamond Model for the Analysis of Agro-Food Clusters 
-in the Developing Countries.
- » Pathak, K. P., & Anis, A. (2011). National competitive Advantage of the readymade garment sector of Bangladesh: A diamond model 
-perspective.
- » Porter, M. E. (1998). Clusters and the New Economies of Competition. Government and Policy Regulation, Harvard Business Review.
- » Schmitz, H. (1995). Collective efficiency: Growth path for small₹scale industry. The Journal of Development Studies, 31(4), 529–566.
-
-[Page 117]
-117
-doi: https://doi.org/10.1080/00220389508422377
- » Porter. (1990). The Competitive Advantage of Nations. New York : The Free Press.
- » Khatri, P. (2019). A Study of the Challenges of the Indian MSME Sector. IOSR Journal of Business and Management (IOSR-JBM).
- » Sinha, U. K. (2019). Report of the Expert Committee on Micro, Small and Medium Enterprises. Development Commissioner Ministry 
-of Micro, Small and Medium Enterprises.
- » Better Criteria for Better Evaluation Revised Evaluation Criteria Definitions and Principles for Use. (2019). Retrieved from OECD/DAC 
-Network on Development Evaluation: https://www.oecd.org/dac/evaluation/revised-evaluation-criteria-dec-2019.pdf
- » Ministry of Micro, Small & Medium Enterprises. (n.d.). Credit Guarantee Fund Scheme for MICRO AND SMALL ENTERPRISES. 
-Retrieved from https://msme.gov.in/sites/default/files/CredirGuranteeFundScheme_1.pdf
- » About CGTMSE. (2023). Retrieved from https://www.cgtmse.in/Home/VS/3
- » Mund, C. S. (2020). Problems of MSME Finance in India and Role of Credit Guarantee Fund Trust for Micro and Small Enterprises. 
-IOSR Journal of Economics and Finance (IOSR-JEF).
- » Anu, D. L., & Lakshmisree, R. (2013). The Role of Banks in Empowering MSMEs for Financial Inclusion and Growth. Trends and 
-Challenges in Global Business Management.
- » Asian Development Bank. (2022). Financing Small and Medium-Sized Enterprises in Asia and the Pacific-Credit Guarantee Schemes. 
-Retrieved from https://www.adb.org/sites/default/files/publication/774531/financing-smes-credit-guarantee-schemes.pdf
- » Invest India. (2023, September). Assistance to Training Institutions (ATI) Scheme. Retrieved from Invest India: https://www.
-investindia.gov.in/schemes-msmes-india/assistance-training-institutions-ati-scheme
- » Comptroller and Auditor General of India. (2021). Report No. 16 of 2021. Comptroller and Auditor General of India.
- » Comptroller and Auditor General of India. (2018). Report No. 10 of 2018, Compliance with Provisions of Public Procurement Policy, 
-2012 For Micro and Small Enterprises. 
- » Patil, K. (2017, May 8). Public procurement policy for small and medium enterprises in developing countries: Evidence from India. 
-International Journal of Public Sector Management, 30(4), 391-410. doi:https://doi.org/10.1108/IJPSM-10-2016-0160
- » PIB. (2023, March 27). Micro and Small Enterprises – Cluster Development Programme (MSE-CDP) being implemented to enhance 
-productivity and competitiveness of Micro and Small Enterprises (MSEs) for their holistic development adopting cluster approach. 
-Retrieved from https://pib.gov.in/PressReleasePage.aspx?PRID=1911134#:~:text=The%20objective%20of%20the%20scheme,in%20
-the%20existing%20clusters%20and
- » Ministry of Micro, Small and Medium Enterprises. (2023). Know about this Scheme - Micro and Small Enterprises Cluster 
-Development Programme (MSE-CDP). Retrieved from https://msme.gov.in/know-about-scheme-1
- » (2019). Report of the Expert Committee on Micro, Small and Medium Enterprises. RBI.
- » Marshall, A. (1920). Principle of Economics. 
- » Porta, R. L., & Shleifer, A. (2014). Informality and Development. Journal of Economic Perspectives, 28(3), 109–126. doi:10.1257/
-jep.28.3.109
- » ILO. (2023). Informal economy. Retrieved from Employment Policy Department ILO: https://www.ilo.org/employment/units/
-emp-invest/informal-economy/lang--en/index.htm#:~:text=The%20informal%20economy%20comprises%20more,Small%20
-Enterprises%20(MSEs)%20worldwide
- » Ishengoma, E. K., & Kappe, R. (2006). Economic Growth and Poverty: Does Formalisation of Informal Enterprises Matter? GIGa 
-Working Papers.
- » Mehrotra, S., & Giri, T. (2019). The Size Structure of India's Enterprises: Not Just the Middle is Missing. CSE Working Paper #25,
-
-[Page 118]
-118
-Centre for Sustainable Employment.
- » Kapoor, A., & Kowadkar, S. (2022, April 27). Gradual shift from informal to formal for MSMEs. Retrieved from The Economic 
-Times: https://economictimes.indiatimes.com/news/economy/policy/gradual-shift-from-informal-to-formal-for-msmes/
-articleshow/91109053.cms 
- » Weder, B. (2003). Obstacles Facing Smaller Businesses in Developing Countries. In Pathways out of Poverty (pp. 215-225).
- » MSME Desk. (2022, July 11). Formalisation of MSMEs is our primary target and biggest ambition: MSME Secretary BB Swain. 
-Retrieved from Financial Express: https://www.financialexpress.com/business/sme-msme-eodb-formalisation-of-msmes-is-our-
-primary-target-and-biggest-ambition-msme-secretary-bb-swain-2586650/
- » Ministry of MSME. (2023). MSME Formalisation project. Retrieved from https://udyamassist.gov.in/msme-faq
- » Intellectual Capital Advisory Services Private Lim. (2012). Micro, Small and Medium Enterprise Finance in India. International Finance 
-Corporation (IFC). Retrieved from https://www.ifc.org/content/dam/ifc/doc/mgrt/msme-report-03-01-2013.pdf
- » Ambrose, J. (2012). Venture Capital (VC): The All-Important MSMEs Financial Strategy under Neglect in Kenya. International Journal 
-of Business and Social Science, 3, 234-240.
- » Prasad, C. S. (2006). Micro, Small and Medium Enterprises Financing in India—Issues and Concerns. CAB Calling, 35-40.
- » Banerjee, A. (2006). Capital Market Access to Smes in India. 10th Indian Institute of Capital Markets Conference Paper. 
- » Biswas, A. (2014). Financing Constraints for MSME Sector. International Journal of Interdisciplinary and Multidisciplinary Studies, 1, 
-60-68.
- » Singh, C., & Wasdani, K. P. (2016, July). Finance for Micro, Small, and Medium-Sized Enterprises in India: Sources and Challenges. 
-ADBI Working Paper(581). Retrieved from https://www.adb.org/publications/finance-micro-small-and-medium-sized-enterprises-
-india-sources-and-challenges
- » Irwin, D., & Scott, J. M. (2010). Barriers faced by SMEs in raising bank finance. International Journal of Entrepreneurial Behaviour & 
-Research, 16(3), 245-259. doi:10.1108/13552551011042816
- » Bebczuk, R. N. (2004). What Determines the Access to Credit by SMEs in Argentina?
- » Grant Thornton, FICCI. (2011). Vision 2020: Implications for MSMEs Implications for MSMEs.
- » Subramanian, G., & Nehru, D. S. (2012, April ). IMPLEMENTATION OF CREDIT RATING FOR SMEs (Small & Medium Enterprises)-HOW 
-IS BENEFICIAL TO INDIAN SMEs? International Journal of Scientific and Research Publications, 2(4).
- » WIPO. (2023). Global Innovation Index 2023. World Intellectual Property Organization (WIPO).
- » Khatri, P. (2019, February). A study of the challenges of Indian MSME sector. IOSR Journal of Business and Management (IOSR-JBM), 
-21(02), 05-13. doi:10.9790/487X-2102050513 
- » Sinha, S., & Pental, K. (2017). Study on Demand for Skilled Labor in Unregistered MSMEs of India. World Bank.
- » C, H. (2013). SMEs and Regional Production Networks. Retrieved from https://www.semanticscholar.org/paper/19-CHAPTER-2-
-SMEs-and-Regional-Production-Networks-Harvie/1fa999afc6850facc571d33cbb1fa6e7d8c73fd8?p2df
- » Kanerva, M., Arundel, A., & Rene, K. (n.d.). Environmental Innovation : Using Qualitative Models to Indentify Indicators for Policy. 
-Retrieved from https://figshare.utas.edu.au/articles/report/Environmental_innovation_Using_qualitative_models_to_identify_
-indicators_for_policy/23200526/1
- » OECD. (2019). Going Digital: Shaping Policies, Improving Lives.
- » PIB Delhi. (2023, September 28). India retains 40th rank in the Global Innovation Index 2023. Retrieved from NITI Aayog: https://pib.
-gov.in/PressReleasePage.aspx?PRID=1961576
+[Page 39]
+39
+The contribution of MSMEs compared to their proportion in the total firms is abysmal due 
+to multiple internal, external, and firm-level factors. Internal factors include the quality of 
+human capital, utilization of technology, and working capital; external factors include access 
+to financial services, social and business security services, infrastructure, and so on. Other 
+firm-level factors, such as linkages with other firms, hinder their growth (Ishengoma & Kappe, 
+2006).  
+Against this background, formalization can be a solution. The advantage of formalization is 
+access to a range of government subsidies and rewards, legally binding business agreements, 
+tax advantages, access to established financial channels, and additional motivators. With 
+improved access to these resources, enhancing productivity becomes more feasible through 
+technological advancements in production and digitalization and is the primary step toward 
+establishing MSMEs in the Global Value Chain. (Kapoor & Kowadkar, Gradual shift from 
+informal to formal for MSMEs, 2022). However, there are disadvantages to formalization as 
+well in the current business and regulatory environment, especially in developing economies. 
+Research points out that small and medium enterprises (SMEs) with a higher degree of 
+formality still face the same obstacles as those with a higher level of informality, along with 
+high cost of operation and reduction in government exemptions (Weder, 2003).
+Various countries have been addressing the need to formalize small businesses. Kenya 
+introduced the Micro and Small Enterprise Act in 2012, creating an authority to support these 
+enterprises. China has established Employment Service Organizations, like the SCESO in 
+Shanghai, to help informal businesses with various aspects of establishment and operation. 
+South Africa’s 1994 national small business strategy aims to assist SMEs in becoming more 
+competitive and connected to formal markets, with the National Productivity Institute 
+providing training and support. These efforts highlight a global commitment to empowering 
+small and informal businesses.
+In India, there have been a few initiatives that are changing the formalization landscape of 
+MSMEs. The Aadhaar Memorandum (UAM), the previous platform for registering MSMEs in 
+India, had 1.02 crore registrations from September 2015 to June 30, 2020. The Udyam portal 
+replaced UAM on July 1, 2020, to simplify registration. In just two years, Udyam has garnered 
+over 90 lakh registrations, nearing the 1 crore mark  (MSME Desk, 2022). The Udyam database 
+is merging with NCS, e-Shram, and ASEEM portals to formalize micro-enterprises. 
+Currently, Udyam has around 95 lakh MSMEs registered. The MSME Ministry is addressing 
+the delayed payments issue by collaborating with state governments. The Udyam Registration 
+Portal (URP) by the Ministry of MSME, Govt. of India, facilitates online MSME registration and 
+In India, there have been a few initiatives that are changing the 
+formalization landscape of MSMEs. The Aadhaar Memorandum (UAM), 
+the previous platform for registering MSMEs in India, had 1.02 crore 
+registrations from September 2015 to June 30, 2020.

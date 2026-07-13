@@ -1,0 +1,49 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C50
+Parent Doc ID: A-MSME-102
+Page Range: Page 60 to Page 61
+Word Range: 13886 - 14158
+Word Count: 273
+--------------------
+
+[Page 60]
+60
+Understanding 
+MSMEs
+Chapter 3 
+competitiveness in 
+India using Clusters
+
+[Page 61]
+61
+GVCs serve as critical facilitators of the international exchange 
+of investment, knowledge, and managerial practices that are 
+in line with global standards, thereby significantly bolstering 
+domestic businesses
+C
+lusters play a vital role in enhancing the competitiveness of MSMEs, particularly 
+in the current era of globalisation. Various theoretical frameworks, such as flexible 
+specialization and collective efficiency, have been crafted to examine the dynamics 
+of clusters. Notably, one widely recognized paradigm, Porter’s diamond model, has 
+found extensive application in advanced economies but has been notably overlooked 
+in research on developing nations, especially in the context of India. This section of the 
+paper would critically evaluate the relevance and applicability of Porter’s cluster approach 
+for 5 sectors in India: 
+This is based on data sourced from the Periodic Labour Force Survey (PLFS), the 
+panorama benefits from extensive coverage of the Indian labour force, offering detailed 
+information on wages and employment within 5-digit National Industrial Classification 
+(NIC) industries at the district level. The data is aggregated into cluster categories, 
+formulated by aligning the 5-digit NIC codes with Benchmark Cluster Definitions initially 
+developed in the U.S. and subsequently applied in various other economies. This Indian 
+cluster database affords a comprehensive view of the overall configuration of the Indian 
+economy, the spatial distribution of specific cluster categories across the country, and 
+the cluster portfolios of each Indian district and state. The information derived from this 
+database is instrumental in identifying India’s prominent clusters, as well as evaluating the 
+robustness of cluster portfolios in different districts and states.
+Automotive
+Pharmaceutical and 
+Food Processing
+Textile Manufacturing
+Manufacturing 
+Clusters
+Chemical

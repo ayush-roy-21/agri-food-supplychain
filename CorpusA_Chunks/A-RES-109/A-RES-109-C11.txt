@@ -1,181 +1,63 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-109-C11
 Parent Doc ID: A-RES-109
-Page Range: Page 28 to Page 30
-Word Range: 14194 - 15824
-Word Count: 1,631
+Page Range: Page 5
+Word Range: 2653 - 2902
+Word Count: 250
 --------------------
 
-[Page 28]
-Park, M., Jin, Y.H. and Bessler, D.A. (2008), “The impacts of animal disease crises on the
-Korean meat market ”, Agricultural Economics , Vol. 39 No. 2, pp. 183-195, available at:
-https://doi.org/10.1111/j.1574-0862.2008.00325.x
-Pearson, D., Henryks, J., Trott, A., Jones, P., Parker, G., Dumaresq, D. and Dyball, R. (2011), “Local food:
-understanding consumer motivations in innovative retail formats ”, British Food Journal ,
-Vol. 113 No. 7, pp. 886-899, available at: https://doi.org/10.1108/00070701111148414
-Persson, O., Danell, R. and Schneider, J.W. (2009), “How to use Bibexcel for various types of bibliometric
-analysis”, in Åström, F., Danell, R., Larsen, B. and Schneider, J.W. (Eds), Celebrating Scholarly
-Communication Studies, International Society for Scientometrics and Informetrics, Leuven, pp. 9-24.
-Prakash, G. (2018), “Review of the food processing supply chain literature: a UK, India bilateral
-context”, Journal of Advances in Management Research , Vol. 15 No. 4, pp. 457-479, available at:
-https://doi.org/10.1108/JAMR-12-2017-0116
-Rajagopal, V., Shanmugam, P.V. and Goh, M. (2017), “Decision-making models for supply chain risk
-mitigation: a review ”, Computers & Industrial Engineering , Vol. 113, November, pp. 646-682,
-available at: https://doi.org/10.1016/j.cie.2017.09.043
-Rezitis, A.N. and Pachis, D.N. (2018), “Price transmission along the Greek food supply chain in a
-dynamic panel framework: empirical evidence from the implementation of decoupling ”,
-International Journal of Computational Economics and Econometrics , Vol. 8 No. 1, pp. 18-40,
-doi: 10.1504/IJCEE.2018.088310.
-Riviere, J.E. and Buckley, G.J. (2012), Ensuring Safe Foods and Medical Products through Stronger
-Regulatory Systems Abroad , The National Academies Press, Washington, DC, available at:
-https://doi.org/10.17226/13296
-Saxena, M. and Gandhi, C.P. (2014), “Indian horticulture database – 2014”, available at: http://agricoop.
-nic.in/sites/default/files/handbook2014_0.pdf (accessed 5 December 2018).
-Schroeder, T.C. and Tonsor, G.T. (2012), “International cattle ID and traceability: competitive
-implications for the US ”, Food Policy , Vol. 37 No. 1, pp. 31-40, available at:
-https://doi.org/10.1016/j.foodpol.2011.10.005
-Serra, T. and Zilberman, D. (2013), “Biofuel-related price transmission literature: a review ”, Energy
-Economics, Vol. 37, May, pp. 141-151, available at: https://doi.org/10.1016/j.eneco.2013.02.014
-Shukla, S., Singh, S.P. and Shankar, R. (2018), “Food safety assessment in India: modelling enablers ”,
-Benchmarking: An International Journal , Vol. 25 No. 7, pp. 2478-2495, available at:
-https://doi.org/10.1108/14635770810887267
-Siddh, M.M., Soni, G. and Jain, R. (2015), “Perishable food supply chain quality (PFSCQ) ”,
-Journal of Advances in Management Research , Vol. 12 No. 3, pp. 292-313, available at:
-https://doi.org/10.1108/JAMR-01-2015-0002
-Song, M. and Chambers, T. (2014), “Measuring scholarly impact ”, in Ding, Y., Rousseau, R. and
-Wolfram, D. (Eds), Measuring Scholarly Impact , Springer International Publishing, Cham,
-pp. 215-234, available at: https://doi.org/10.1007/978-3-319-10377-8
-Su, H. and Lee, P. (2010), “Network perspective of science and technology policy research
-community in Taiwan ”, PICMET 2010 Technology Management for Global Economic
-Growth, Phuket , pp. 1-11, available at: http://ieeexpl ore.ieee.org/stamp/stamp.jsp?tp
-=&arnumber=5603447&isnumber=5602021
-Syrovátková, M., Hrabák, J. and Spilková, J. (2015),“Farmers’markets’locavore challenge: the potential of
-local food production for newly emerged farmers’ markets in Czechia”, Renewable Agriculture and
-Food Systems, Vol. 30 No. 4, pp. 305-317, available at: https://doi.org/10.1017/S1742170514000064
-The Times of India (2018), “2,000kg of ‘unwholesome’ meat seized”, The Times of India , 18 November,
-p. 3, available at: https://timesofindia.indiatimes.com/city/chennai/2000kg-of-unwholesome-
-meat-seized/articleshow/66673715.cms (accessed 23 December 2018).
-Torjusen, H., Lieblein, G. and Vittersø, G. (2008), “Learning, communicating and eating in local
-food-systems: the case of organic box schemes in Denmark and Norway ”, Local Environment ,
-Vol. 13 No. 3, pp. 219-234, available at: https://doi.org/10.1080/13549830701669252
-46
-JAMR
-17,1
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 29]
-Vogel, R. and Güttel, W.H. (2013), “The dynamic capability view in strategic management: a
-bibliometric review ”, International Journal of Management Reviews , Vol. 15 No. 4, pp. 426-446,
-available at: https://doi.org/10.1111/ijmr.12000
-Zhao, D. and Strotmann, A. (2008), “Evolution of research activities and intellectual influences in
-information science 1996-2005: introducing author bibliographic-coupling analysis ”,
-Journal of The American Society for Information Science and Technology , Vol. 59 No. 3,
-pp. 2070-2086, available at: https://doi.org/10.1002/asi
-Zhong, R., Xu, X. and Wang, L. (2017), “Food supply chain management: systems, implementations,
-and future research ”, Industrial Management and Data Systems , Vol. 117 No. 9, pp. 2085-2114,
-available at: https://doi.org/10.1108/IMDS-09-2016-0391
-Zorbas, C., McCartan, J., De Mel, R., Narendra, K., Tassone, E.C., Yin, E. and Palermo, C. (2018),“Engaging
-a disadvantaged community with a fruit and vegetable box scheme”, Health Promotion Journal of
-Australia, Vol. 29 No. 1, pp. 108-110, available at: https://doi.org/10.1002/hpja.28
-Zupic, I. and Cater, T. (2015), “Bibliometric methods in management and organization”, Organizational
-Research Methods, Vol. 18 No. 3, pp. 429-472, available at: https://doi.org/10.1177/1094428114562629
-Further reading
-Balázs, B., Pataki, G. and Lazányi, O. (2016), “Prospects for the future: community supported agriculture
-in Hungary ”, Futures, Vol. 83, October, pp. 100-111, available at: https://doi.org/10.1016/
-j.futures.2016.03.005
-Brown, A. (2002), “Farmers’ market research 1940-2000: an inventory and review”, American Journal of
-Alternative Agriculture, Vol. 17 No. 4, pp. 167-176, available at: https://doi.org/10.1079/AJAA200218
-Dania, W.A.P., Xing, K. and Amer, Y. (2018), “Collaboration behavioural factors for sustainable agri-food
-supply chains: a systematic review ”, Journal of Cleaner Production , Vol. 186, June, pp. 851-864,
-available at: https://doi.org/10.1016/j.jclepro.2018.03.148
-Dora, M., Kumar, M., Van Goubergen, D., Molnar, A. and Gellynck, X. (2013), “Food quality
-management system: reviewing assessment strategies and a feasibility study for European food
-small and medium-sized enterprises ”, Food Control , Vol. 31 No. 2, pp. 607-616, available at:
-https://doi.org/10.1016/j.foodcont.2012.12.006
-Dorp, K.-J.V. (2002), “Tracking and tracing: a structure for development and contemporary
-practices”, Logistics Information Management , Vol. 15 No. 1, pp. 22-33, available at:
-https://doi.org/10.1108/09576050210412648
-Food and Agriculture Organization of the United Nations (FAO) (2011), Global Food Losses and Food
-Waste: Extent, Causes, and Prevention , FAO, Rome, available at: www.fao.org/docrep/014/mb0
-60e/mb060e.pdf
-Ringsberg, H. (2014), “Perspectives on food traceability: a systematic literature review ”,
-Supply Chain
-Management: An International Journal , Vol. 19 Nos 5-6, pp. 558-576, available at:
-https://doi.org/10.1108/SCM-01-2014-0026
-Sellitto, M.A., Vial, L.A.M. and Viegas, C.V. (2018), “Critical success factors in short food supply chains:
-case studies with milk and dairy producers from Italy and Brazil”, Journal of Cleaner Production,
-Vol. 170, January, pp. 1361-1368, available at: https://doi.org/10.1016/j.jclepro.2017.09.235
-Wichmann, B.K. and Kaufmann, L. (2016), “Article information: social network analysis in supply chain
-management research ”, International Journal of Physical Distribution & Logistics Management ,
-Vol. 46 No. 8, pp. 740-762, available at: https://doi.org/10.1108/09600039710757736
-Appendix 1. Network properties calculation
-Degree centrality
-One of the simplest local measures of centrality is t he degree centrality. According to this measure of
-centrality, the most prominent nodes are the one s that have the most ties to other nodes in the
-network. The number of neighbours is defined as no dal degree or degree of connection. The degree
-47
+[Page 5]
+articles as irrelevant (criteria 5) with a focus on food and bioenergy (biofuel), the production
+process of food, animal welfare, etc., and the remaining 1,091 articles were then shortlisted
+for further appraisal.
+We adopted a comparative approach to the analysis of the data, in which we divided all
+papers into two roughly equal parts (Vogel and Güttel, 2013). Initially, we performed an
+analysis of 377 research papers published between 2002 and 2014. Then, we added the rest
+of 714 articles and repeated the same analysis from the period 2002 to 2018. By comparing
+the result of these two-time sliced articles, it is possible to find the research direction and the
+contribution of the recent research articles to the literature on SC in SME food industry.
+2.3 Bibliographic coupling (BC) network and cluster analysis
+Bibliometric and network analysis tools are used in a systematic review to identify and
+cluster significant research concepts. A bibliometric network is a weighted network
+consisting of nodes and edges. The node represents a knowledge actor like a research paper,
+authors, journal, authors ’ institute/country or keywords. The edge between two nodes
+denotes the relationship between them. The five commonly studied edge relationship
+includes citation, co-citation, BC, co-author and co-word analysis (Zupic and Cater, 2015). A
+BC connects journals, authors or documents with respect to the number of shared
+references. Among the bibliometric networks, BC could capture the research dynamics from
+past to present, as it includes the most recent contributions (Vogel and Güttel, 2013). The
+bibliographic strength between the two articles is defined by the number of items shared by
+these two articles in their reference records (Zhao and Strotmann, 2008). Boyack and
+Klavans (2010) compared the accuracy of co-citation analysis, BC, direct citation and found
+that BC outperforms the other two. In literature, bibliographic analysis tools like CiteSpace,
+Pajek, Bibexcel, R, SciMat and Saint are proposed for bibliometric analysis (Cobo and
+Herrera, 2011). Among these, BibExcel allows processing the different types of file formats
+like Medline format, Scopus RIS format and the WoS plain text format (Persson et al., 2009).
+Also, Bibexcel allows data modification or filtering of imported details from various
+databases such as WoS and Scopus (Bjurström, 2011). Due to these advantages, BibExcel is
+used in this research for the bibliometric analysis.
+In order to conduct BC, the plain text format from WoS containing the details of author,
+the title of publication, year of publication, abstract and authors affiliation from the
+shortlisted 1,091 articles are exported to Bibexcel software. To further map and visualize,
+the BC among the 1,091 articles network and cluster analysis tools are used. In literature,
+UCINET, Mathematica, Pajek, VOS Viewer and Gephi are the commonly used network
+analysis tools. Among these, Gephi is generally used in research projects, given its
+simplicity (Fahimnia et al., 2015). Gephi is capable of handling large network data and helps
+in filtering, navigating, manipulating and clustering the data. It can also handle a variety of
+graph data sets generated in comma-separated values files, Graph and Net file formats. In
+this research, the shared references from Bibexcel in .net format were imported to Gephi and
+were used for networking and clustering the research articles.
+To identify the sub-fields/themes of a research domain, the nodes of a network are
+divided into clusters or modules using clustering techniques (Fahimnia et al. , 2015). The
+degree of association is strong among members of the same cluster and weak between
+members of different clusters. For dividing the network into clusters, the default Louvain
+clustering algorithm in the Gephi software is used, which will maximize the modularity
+index by iterating each node to all clusters (Rajagopal et al. , 2017). Modularity is an
+important metric that provides information about the overall clustering of the networks.
+The modularity index is a scalar value between −1 and +1 that measures the density of
+links inside the clusters vs the links between the clusters (Fahimnia et al., 2015).
+23
 Supply chain
 issues in SME
 food sector
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 30]
-centrality is represented by the number of direct linkage between node i and other nodes, and it is
-given as follows:
-Degree centrality CI ¼
-X
-j
-mij ;
-where mij ¼ 1i fn o d e i and node j are linked in a network.
-Betweenness centrality
-The concept of betweenness is a measure of how often a node is located on the shortest path between
-other nodes in the network. Those nodes positioned on the shortest path between other nodes play the
-roles of mediator that influences any two nodes without direct contact. Nodes with higher betweenness
-centrality are those positioned at the core of the network:
-Betweenness centrality B
-iðÞ ¼
-X
-j;k a 1
-gjik
-gjk
-;
-where gjk is the shortest path between node j and node k; gjik the shortest path between node j and actor
-k that contain actor i.
-Closeness centrality
-The closeness centrality of a node is defined by the inverse of the average length of the shortest paths
-to/from all the other nodes in the network. Higher closeness centrality indicates higher influence on
-other nodes:
-Closeness centrality CC iðÞ ¼
-XN
-j¼1
-1
-dij
-;
-where dij is the shortest path between node j node i.
-Eigenvector centrality measures
-Consider an undirected network represented by a graph G ¼ (V, E), where V denotes the set of nodes
-(1, 2, …,c , …,d , …, v) and E the set of edges. Let A be the co-occurrence matrix for this graph and
-its element acd ¼ 1 (or edge weightage in case of weighted network) if nodes c and d are connected by
-an edge and acd ¼ 0 if they are not.
-Eigenvector centralityx can be defined in two equivalent ways via a matrix equation and a sum as
-Ax ¼ λx and lxc ¼ PV
-v¼1 acv xv, respectively, whereλ is the largest eigenvalue ofA (Bonacich, 1987). This
-centrality of a node is proportional to the sum of centralities of all other nodes to which it is connected, that is
-a node that has a high eigenvector score is one t hat is adjacent to nodes that have high scores.
-Appendix 2. Reviewed papers during 2002 –2014 with paper id [in bracket]
-Amekawa, Y. (2009), “Reflections on the growing influence of good agricultural practices in the Global
-South”, Journal of Agricultural and Environmental Ethics , Vol. 22, pp. 531-557, available at: https://doi.
-org/10.1007/s10806-009-9171-8 [67]
-Arumugam, N., Arshad, F.M., Chiew, D.F.C. and Abidin, M.Z. (2010), “Supply chain analysis of fresh
-fruits and vegetables (FFV ): prospects of contract farming ”, Agricultural Economics , Vol. 56 No. 9,
-pp. 435-442. [69]
-Banterle, A. and Stranieri, S. (2013), “Sustainability standards and the reorganization of private
-label supply chains: a transaction cost perspective ”, Sustainability, Vol. 5, pp. 5272-5288, available at:
-https://doi.org/10.3390/su5125272 [125]
-Bernard, F., Noordwijk, M.V., Luedeling, E., Villamor, G.B., Sileshi, G.W. and Namirembe, S. (2014),
-“Social actors and unsustainability of agriculture ”, Current Opinion in Environmental Sustainability ,
-Vol. 6, pp. 155-161, available at: https://doi.org/10.1016/j.cosust.2014.01.002 [145]
-48
-JAMR
-17,1
 Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

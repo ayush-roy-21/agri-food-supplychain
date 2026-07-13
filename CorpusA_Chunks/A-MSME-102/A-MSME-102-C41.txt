@@ -1,0 +1,34 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C41
+Parent Doc ID: A-MSME-102
+Page Range: Page 51
+Word Range: 11049 - 11331
+Word Count: 283
+--------------------
+
+[Page 51]
+51
+Mehrotra and Giri (2019) use integrated data from formal and informal firms in India to 
+analyse enterprise size distribution, particularly in the manufacturing sector, and to identify 
+factors contributing to micro and small firm concentrations. Their findings reveal that over 
+90% of Indian MSMEs are micro-enterprises, employing 40% of the workforce, with a missing 
+presence of small enterprises. The concentration of micro-firms is attributed to factors like 
+low productivity, limited access to finance, and regulatory barriers. Notably, there is a dearth 
+of small and medium-sized enterprises, with a significant proportion falling into the Own 
+Account Enterprises (OAEs) category. Policymakers have largely overlooked these small units, 
+as have the enterprises in the unorganised sector. Their research implies that there is not 
+only a missing middle but a missing small as well. They argue for a new policy framework that 
+addresses specific constraints, advocating for policies that foster growth while creating an 
+enabling environment for MSME development. (Mehrotra & Giri, 2019)
+Globally, the extent of labour regulations tends to rise in correlation with the size of factories 
+and businesses. Due to the substantial costs associated with compliance, these regulations 
+pose a compliance burden and prevent enterprises from organically expanding in size and 
+harnessing economies of scale in production. This gives rise to the “missing middle”.
+The missing middle phenomenon in India is a complex challenge, but it is one that must be 
+addressed through a comprehensive policy framework that takes into account the unique 
+needs of small and medium-sized enterprises. This framework should foster growth, take into 
+account labour and industrial structure, and prioritise bringing these enterprises into the 
+policymaker's frame of reference.
+Policymakers have largely overlooked these small units, as have the 
+enterprises in the unorganised sector. Their research implies that there is 
+not only a missing middle but a missing small as well.

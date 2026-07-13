@@ -1,135 +1,101 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-103-C06
 Parent Doc ID: A-RES-103
-Page Range: Page 18 to Page 20
-Word Range: 6946 - 8361
-Word Count: 1,416
+Page Range: Page 5 to Page 6
+Word Range: 1353 - 1602
+Word Count: 250
 --------------------
 
-[Page 18]
-17 
-42. The audit team reviewed  9 examples of follow -up investigations after the detection of 
-residues of EU -banned substances (Group A6) . I nvestigations both at the processing 
-establishments and farms concerned took  place immediately (with a few COVID-
-related exceptions ), and the products or animals were detained, similar to what is 
-required in the EU  (24).  Said investigations included a review of the documentation in 
-the processing establishments such as production traceability records, reports of PHT  
-and PET, reports of in -house pre -purchase testing  etc. and follow -up sampling.  On 
-farms there was a review of the production cycle  logbooks for each pond, the sourcing 
-of larvae, feedingstuffs, disinfectants and other inputs , and f ollow-up samples  from 
-relevant ponds. These actions are similar to what is required in the EU (25). 
-43. Notwithstanding the actions that were taken, the  source of the non- compliance was not 
-identified in any of the 9 cases.  The official reports concluded  that the contamination 
-came from unknown/unidentified inputs. In one case, where a follow-up sample  had 
-been taken from feed, which was  non-compliant for chloramphenicol, no further action 
-had been taken to trace the affected feed back to the distributor or producer of the feed. 
-In a second case the official report highlighted that feed was suspected as a potential  
-source, but this hypothesis was not backed up by any sampling of the feed.  
-44. Dissuasive measures taken by the EIC and EIA at processing establishments in which 
-non-compliant results had been detected under the residues monitoring plan, consisted 
-of the destruction of the affected product, in some cases the temporary suspension of 
-the processing establishment, obligatory testing of five subsequent product ion batches 
-intended for export to the EU  and enhanced monitoring visits  as per  national 
-requirements (26).  At farm level, MPEDA informed the audit team, that no farm during 
-the last three years, from which non- compliant product had originated, had been 
-penalised in any way or had had their MPEDA enrolment suspended or withdrawn .  
-The latter is different to the EU requirements ( 27). At hatchery level, the audit team was 
-informed that in 2021/2022 the registration of 6 crustacean hatcheries, which had repeat 
-non-compliances for banned antimicrobials, had been temporarily suspended.  
-45. According to EIC and MPEDA , the imposition of penalties on aquaculture farms, such 
-as fines being levied or temporary or permanent closure, fall under the responsibility of 
-the States` fishery and coastal aquaculture authorities.  In the past, several states lacked 
-a legal basis to take such measures though the audit team was provided with evidence 
-that two states (Kerala and Andhra -Pradesh) now had such legislation  (
-28) in place 
-which allowed for the imposition of fines and revocation of licenses. Furthermore, in 
-2022, the main aquaculture -producing states had created district and task force  
-committees, mandated to implemented stringent measures to curtail the use of banned 
+[Page 5]
+4 
+1 INTRODUCTION 
+The audit took place during the period from 7 to 29 September 2022 and was 
+undertaken as part of the planned work programme of the Directorate -General for 
+Health and Food Safety  and following a request by the Indian competent authority to 
+list additional commodities in the Annex to Commission Decision 2011/163/EU.  
+It covered India´s system of controls on residues and contaminants in live animals and 
+animal products and the effectiveness of official controls on the use of veterinary 
+medicinal products in food-producing animals. The audit team comprised three auditors 
+from the Commission and one expert from a European Union (EU) Member State. 
+This audit was carried out by using a combination of remote meetings (by 
+videoconference) and on-the-spot visits. Opening meetings were held on the 7th and 12th 
+September 2022 with representatives of the Export Inspection Council (EIC), the 
+Export Inspection Agencies (EIAs) from Delhi, Mumbai, Kochi, Kolkata  and Chennai, 
+the Marine Product s Export Development Authority (MPEDA), the Coastal 
+Aquaculture Authority (CAA), the Central Drugs Standard Control Organisation 
+(CDSCO), the Department of Animal Husbandr y and the Food Safety and Standards 
+Authority of India (FSSAI). 
+At these meetings, the objectives of the audit were confirmed, and the control systems 
+were described by the competent authorities. Representatives from the EIC and the 
+central MPEDA accompanied the audit team during the on-the-spot part of the audit. 
+2 OBJECTIVES OF THE AUDIT 
+The objective of the audit was to verify the effectiveness of official controls on residues 
+and contaminants in live animals and animal products eligible for export to the E U and 
+for which India was seeking residue monitoring plan approval (and listing in the Annex 
+to Decision 2011/163/EU (1)). The audit team assessed: 
+• the adherence to the residue monitoring plan s approved by the EU  for 
+aquaculture products; 
+• the guarantees provided by the residue monitoring plans impleme nted for 
+milk and poultry, for which India has sought listing as mentioned above; and 
+• the reliability of the guarantees offered by India  in ensuring that the 
+commodities concerned do not contain residues of veterinary medicinal 
+products, pesticides and contaminants exceeding EU maximum limits. 
+Since the national rules governing t he authorisation, distribution and use of veterinary 
+medicinal products (including those administered via feed) have an impact on the 
+effectiveness of the residue monitoring plans, the control systems in these areas were 
+also included in the audit. 
+  
  
-(24)  Point 2 of Article 6 of Regulation (EU) 2019/2090. 
-(25) Point 4 of Article 6 of Regulation (EU) 2019/2090. 
-(26) Chapter 10.2.2 and 16.1.4. of the “Executive instructions for approval and monitoring of fish and fishery 
-products for export. 
-(27) Article 8 of Regulation (EU) 2019/2090. 
-(28) Kerala Fish Seed Act 2014, Kerala Inland Fisheries Aquaculture Act 2010 and Andhra Pradesh State 
-Aquaculture Development Authority Act 2020.
+(1) From 15 December 2022, this Decision is repealed and replaced by Annex -I to Regulation (EU) 2021/405.
 
-[Page 19]
-18 
-antimicrobials in aquaculture  (29). Committee members  include district fisheries 
-officers, food safety department officers, drug control authority officers, representatives 
-of the revenue department , the police department, MPEDA and various stakeholders. 
-The committees are empowered to conduct checks at aquaculture shops ; manufacturing 
-companies and suppliers of drugs, probiot ics, chemicals, feeds and feed supplements; 
-farms and hatcheries to verify and take action on the possession and use of  
-unauthorised anti microbials in aquac ulture. Controls  can include sampling, label 
-checks, checks on veterinary medicinal products sales etc. Deterrent measures can be 
-imposed such as fines (first offence = 25 ,000 rupees ( €300); second offence 50, 000 
-rupees ( €600) or the revocation of license s. The latter would be similar to what is 
-required in the EU (30). 
-46. With regards to PET non-com pliances for banned substances, the EIAs are required to 
-do a documentary and on-the- spot control at the concerned processing establishment 
-and to verify that it has developed  a plan to avoid the reoccurrence of the non -
-compliance both at processing level and on the farms from which it had received the 
-crustaceans. The EIAs do not conduct  an on -the-spot follow -up investigation on the 
-farms concerned to verify if the measures im posed by the processing establishment 
-have actually been taken by the farmer. They also do not inform either MPEDA about 
-the implicated processing establishments and farms or the Co astal Aquaculture 
-Authorities about the farms.   
-5.1.5.2 Milk 
-47. The EIC and their EIA offices are responsible for the follow -up of non- compliances 
-found in the milk residue monitoring plan. Furthermore, documented procedures for the 
-management of non- compliant results are described in a specific EIC executive 
-instruction for milk (31), that includes key elements as applicable in the EU (32). 
-48. A significant proportion of the residue monitoring samples analysed in the last three 
-years for Group B3d ( aflatoxin M1) were  non-compliant ((2 018/2019: 90 samples and 
-34 non- compliances (3 7%), 2019/2020: 90 samples and 10 non- compliances (11%), 
-2020/2021: 51 samples and 19 non- compliances (37%)) . There were no  residue 
-monitoring plan non-compliances for any other substance group in the last three years, 
-though that might b e due to the fact that instructions were in place that clearly limited 
-the effectiveness of detecting substances included in Group A6 (banned antimicrobials), 
-Group B1 (antimicrobials) and Group B2a (anthelmintics) (see finding 14 and 67). 
- 
-(29) Andhra Pradesh order G.O. MS. No 2 dated 11.01.2017; Goa order No DF/AQUA/TFC-Antibiotics-
-misuse- 2022-23/2644, dated 03.08.2022; Gujarat resolution No: FDV-132017-GOI-24-T, dated 
-30.08.2022; Karnataka order G.O. AHF E-113 FSFS 2019, dated 28.02.2020; Kerala order G.O.(Rt) No 
-290/2022/F&P, dated 11 May 2022; Maharashtra resolution No: Matsyavi 1122/CR 118/ADF 14, dated 
-15.06.2022; Odisha order No 13871-6/FARD dated 23.11.2017, Tamil Nadu order T.O. (Ms). No 54, dated 
-13.06.2022 and West Bengal order No 1640-FI-999/28/2022, dated 25 July 2022. 
-(30) A rticle 139 of Regulation (EU) 2017/625. 
-(31) General procedure CODE: PG-12/01 "Actions taken in the case of non-compliant foodstuffs". 
-(32) Regulation (EU) 2019/2090.
-
-[Page 20]
-19 
-49. The audit team reviewed nine  aflatoxin M1 results that were found between September 
-2020 and June 2022.  I n all cases the EIA quickly informed the processing 
-establishment to seize the a ffected product, identify the source of the contamination, 
-take corrective measures and requested a report summarising the outcome of actions to 
-the EIA. The o fficial follow-up investigation started promptly (in general within two 
-days) and included measures that were largely equivalent to those foreseen in EU 
-legislation (33) for example:  identification of  the source  of contamination, taking 
-follow-up samples , conducting on- the-spot visits, increasing the frequency of official 
-controls etc.  In two of the nine cases, the official follow-up investigation report did not 
-describe the (final) outcome of the investigation.  The competent authority informed the 
-audit team that new leg islation on animal feed is currently in the process of being  
-developed and will include measures that aim to prevent the contamination of feed with 
-aflatoxin B1.  
-50. The source of contamination was in all cases identified as feed that had been 
-contaminated with aflatoxins. Feeds used at the dairy farms supplying milk to the dairy 
-processing establishments, were largely treated with mycotoxin binders, but data seen 
-by the audit team indicated that these are effective in about 70% of the treated feed. In 
-one case seen by the audit team, follow -up samples taken from 339 batches of feed that 
-had been treated with  the mycotoxin binder revealed that 39 remained non-compliant 
-for aflatoxins after the treatment.  
-5.1.5.3 Poultry 
-51. The EIC and their EIA offices are responsible for the follow -up of non- compliances 
-found in the poultry residue monitoring plan. Furthermore, documented procedures for 
-the management of non-compliant results are described in chapter 10 of the poultry EIC 
-executive instruction and chapter 11 of the residue monitoring plan for poultry, these  
-largely include ke y elements as applicable in the EU  (
-34). There have been no non -
-compliances in poultry residue monitoring plan samples since 2020. 
- 
-(33) Articles 4 and 5 of Regulation (EU) 2019/2090.  
-(34) Regulation (EU) 2019/2090.
+[Page 6]
+5 
+The following table lists meetings held and the sites visited in order to achieve the audit 
+objective. 
+MEETINGS/VISITS  COMMENTS 
+COMPETENT AUTHORITIES 
+Central 2 
+Opening and closing meetings with representatives of  
+- Export Inspection Council  
+- Export Inspections Agencies from Delhi, Mumbai, Kochi, Kolkata, 
+Chennai and Kochi. 
+- Marine Products Export Development Authority 
+- Coastal Aquaculture Authority  
+- Central Drugs Standard Control Organisation  
+- Department of Animal Husbandry 
+- Food Safety and Standards Authority of India  
+Regional 4 Meetings at the States (Kerala, Odisha, Gujarat, and Tamil Nadu) visited 
+and meetings with local authorities at establishments visited 
+LABORATORIES 7 
+- EIA Pilot Test House laboratory Mumbai (milk residue monitoring 
+plan) 
+- EIA laboratory Chennai (poultry residue monitoring plan) 
+- MPEDA laboratory Kochi (aquaculture residue monitoring plan) 
+- MPEDA laboratory Odisha -Bhubaneswar (aquaculture residue 
+monitoring plan) 
+- EIA laboratory Kochi (aquaculture pre-export testing) 
+- EIA laboratory Chennai (aquaculture pre-export testing) 
+- MPEDA Laboratory Odisha-Bhubaneswar (aquaculture pre-harvest 
+testing) 
+OPERATORS 22 
+1 dairy plant, 2 milk collection centres and 2 dairy farms 
+2 poultry meat establishment and 2 poultry farms 
+3 aquaculture processing plants, 3 aquaculture farms, 2 hatcheries 
+3 veterinary medicines wholesaler/retailers, 2 aquaculture supply shops 
+3 LEGAL BASIS  
+The audit was carried out under the general provisions of EU legislation, and in 
+particular Articles 120, 122 and 150 of Regulation (EU) 2017/625 of the European 
+Parliament and of the Council. 
+Full legal references are provided in Annex  I. Legal acts quoted in this report refer, 
+where applicable, to the last amended version. Relevant provisions of the EU legal acts 
+cited in Annex I are referred to in the individual findings. 
+4 BACKGROUND 
+4.1 COUNTRY STATUS IN RELATION TO EU-APPROVAL OF RESIDUE MONITORING PLANS 
+India is listed in the Annex to Decision 2011/163/EU with approved residue monitoring 
+plans for aquaculture products (finfish and crustaceans), eggs, honey and casings.  
+India has requested to be listed in said  Decision for poultry and milk.  Given India’s 
+listing for dairy products required to undergo a specific risk- mitigating treatment 
+against foot and mouth disease in Annex XVIII to Reg ulation (EU) 2021/404, residue 
+plan approval is required for  the country to be  listed in Reg ulation (EU) 2021/40 5, 
+pursuant to Article 16 thereof.  For poultry, India is neither listed in Annex XIV to 
+Regulation (EU) 2021/404 (animal health – fresh meat) nor in Annex XV to that

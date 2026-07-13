@@ -1,40 +1,64 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-109-C20
 Parent Doc ID: A-RES-109
-Page Range: Page 47
-Word Range: 26785 - 27096
-Word Count: 312
+Page Range: Page 10
+Word Range: 5263 - 5512
+Word Count: 250
 --------------------
 
-[Page 47]
-Wolfert, S., Ge, L., Verdouw, C. and Bogaardt, M.J. (2017), “Big data in smart farming – a review”,
-Agricultural Systems , Vol. 153, pp. 69-80, available at: https://doi.org/10.1016/j.agsy.2017.01.023 [47]
-Yawar, S.A. and Seuring, S. (2018), “The role of supplier development in managing social and
-societal issues in supply chains ”, Journal of Cleaner Production , Vol. 182, pp. 227-237, available at:
-https://doi.org/10.1016/j.jclepro.2018.01.234 [453]
-Zhang, X. and Aramyan, L.H. (2009), “A conceptual framework for supply chain governance: an
-application to agri-food chains in China”, China Agricultural Economic Review, Vol. 1 No. 2, pp. 136-154,
-available at: https://doi.org/10.1108/17561370910927408 [411]
-Ziegler, F., Winther, U., Hognes, E.S., Emanuelsson, A., Sund, V. and Ellingsen, H. (2013), “The
-carbon footprint of Norwegian seafood products on the global seafood market ”, Journal of Industrial
-Ecology, Vol. 17 No. 1, pp. 103-116, available at: https://doi.org/10.1111/j.1530-9290.2012.00485.x [329]
-Ziegler, F., Hornborg, S., Green, B.S., Eigaard, O.R., Farmery, A.K., Hammar, L., … Smith, A.D.M.
-(2016), “Expanding the concept of sustainable seafood using life cycle assessment ”, Fish and Fisheries,
-Vol. 17 No. 4, pp. 1073-1093, available at: https://doi.org/10.1111/faf.12159 [105]
-Zoll, F., Specht, K., Opitz, I., Siebert, R., Piorr, A. and Zasada, I. (2018), “Individual choice or
-collective action? Exploring consumer motives for participating in alternative food networks ”,
-International Journal of Consumer Studies , Vol. 42 No. 1, pp. 101-110, available at: https://doi.org/10.
-1111/ijcs.12405 [465]
-Zonderland-Thomassen, M.A. and Ledgard, S.F. (2012), “Water foot printing – a comparison of
-methods using New Zealand dairy farming as a case study ”, Agricultural Systems, Vol. 110, pp. 30-40,
-available at: https://doi.org/10.1016/j.agsy.2012.03.006 [347]
-Corresponding author
-Arun Jose can be contacted at: arun3459@gmail.com
-For instructions on how to order reprints of this article, please visit our website:
-www.emeraldgrouppublishing.com/licensing/reprints.htm
-Or contact us for further details: permissions@emeraldinsight.com
-65
-Supply chain
-issues in SME
-food sector
+[Page 10]
+common references with papers of this cluster and also with a number of other articles in the
+whole network.
+Closeness centrality is associated with a node ’s autonomy or independence in the whole
+network. A node with higher closeness centrality indicates that it is less reliant on other
+nodes and has a higher capacity for independent actions. From the results, we found that the
+works of {89} Freidberg et al. (2011), {17} Ilbery et al. (2006a), {39} Kottila et al. (2008) and
+{65} Fischer et al. (2009) have a high closeness centrality value, indicating the extensivity of
+their influence in the whole network. A node with high betweenness centrality specifies that
+it links various other nodes in the research domain, indicating that they play a more
+important role in the whole network than in the focal cluster. For example, the works of {37}
+Risku Norja et al. (2008), {89} Freidberg et al. (2011), {119} Reardon et al. (2012) and {41}
+Leat et al. (2008) have a high betweenness centrality value and serve as a bridge in the whole
+network connecting different clusters. From Table VI, it is clear that the articles from
+Clusters 2 and 3 have a higher betweenness centrality as compared to Cluster 4, implying
+that the research concepts of Cluster 4 have less association with other clusters.
+Eigenvector centrality considers whether a node has many neighbours or important
+neighbours or both. From Table VI, higher eigenvector centrality is observed for the articles
+in Cluster 2, followed by {27} Croom et al. (2007), {39} Kottila et al. (2008) and {65} Fischer
+et al. (2009) of Cluster 3. Cluster 4 has the least eigenvector centrality in which the lead
+articles have an eigenvector centrality of 0.0442, indicating that the research issue of these
+clusters has less influence in the network. To identify the research theme in each cluster, we
+further conducted a TM technique and established a co-word network as shown in Figure 4.
+After establishing the co-word network, the research concept of each cluster is then
+identified by measuring the network properties based on degree, closeness, betweenness
+and eigenvector centralities (Milojevic, 2013).
+The top 10 words in each cluster are identified by measuring the relative frequency of
+co-occurrence and centralities as presented in Table VII. The degree measure reported in
+Table VII shows that market economics of contract farming in SME FSC, alternative food
+network (AFN), supply chain relationship in the food industry and land use and emission
+impact of livestock systems are the research concepts of Clusters 1, 2, 3 and 4, respectively.
+It is observed from Table VII that the keywords Supply, Chain, Farmer, Food, Market and
+System are found in more than one cluster. These are bridging keywords that highlight the
+association between the clusters.
+It is also observed that Clusters 1 and 2 have more bridge keywords with high
+betweenness centrality, indicating their close association with other clusters. In Cluster 4,
+only one bridge keyword is identified from among the top 10 keywords, indicating that this
+sub-field has less association with the other clusters. It is worth noting that this bridge
+keyword has a high eigenvector centrality in few clusters and low eigenvector centrality in
+other clusters, indicating its importance within the clusters. The keyword “SME” appeared
+in Clusters 1 and 2 within the top 10, indicating its strong association with both the clusters,
+whereas it appeared at the 17th position with low centralities in Cluster 3, indicating its
+weak association with the theme of Cluster 3. It is also observed that the word “SME” did
+not appear in Cluster 4 during this period.
+3.2.1 Bibliographic network during 2002 – 2018. To trace the dynamic evolution of the
+research domain, we repeated the analysis after adding the research articles published from
+2015 to 2018. Since the data are almost doubled, we limited to at least seven couplings with
+minimum of two other articles resulting in the number of included articles to 228 (see
+Appendix 3). By applying the default Louvain algorithm in Gephi, the 228 bibliographic
+coupled articles are grouped into five clusters as shown in Figure 5. The modularity index of
+the network is 0.429, indicating a strong association between the nodes within and between
+the clusters.
+28
+JAMR
+17,1
 Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

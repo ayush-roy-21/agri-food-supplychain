@@ -1,0 +1,159 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-108-C36
+Parent Doc ID: A-RES-108
+Page Range: Page 9
+Word Range: 8953 - 9202
+Word Count: 250
+--------------------
+
+[Page 9]
+Sustainable Production and Consumption 39 (2023) 203–215
+211
+The third most critical barrier is a lack of stringent national CE 
+policy. According to Ludlow et al. (2021) policy-related barriers are 
+significant. Currently, India lacks stringent laws, rules and regulations 
+for dealing with end-of-life products or components. This indicates the 
+need to develop stringent policies to reduce waste through the adoption 
+of circular practices ( Mangla et al., 2018 ). 
+6. Strategy mapping and its implications 
+Weights from the BWM-LBWA approach and expert judgements were 
+used to identify and evaluate the strategies. Similarly, experts have 
+identified and validated strategies as seen from previous literature. 
+Table 10 shows a list of strategies. 
+The experts validated all of the identified strategies shown in 
+Table 10 . Experts were also asked to rate the strategies on a scale of 1 to 
+7 against each barrier. The weights for criteria (barriers) were taken 
+from the BWM-LBWA results to measure the weightage. The CoCoSo 
+method was used to rank strategies; final results are displayed in 
+Table 11 . 
+The results of the CoCoSo application indicate that the strategy 
+alternative ‘focus on enhancing commitment from top management to -
+wards sustainable production and consumption ’ (S12) is the most 
+promising solution to address the issue. Based on these results, it is 
+concluded that workforce training plays an important role in success -
+fully implementing digital technologies in FSC to achieve SPC. 
+Significant changes that have positively impacted product end-of-life 
+include Industry 4.0 technologies, data management, real-time decision- 
+making and innovative practices. Organisations that implement digital 
+technologies may improve SPC while decreasing food loss and waste 
+( G ¨olzer and Fritzsche, 2017 ). Training and workshops aimed at devel -
+oping a skilled workforce will aid efficient implementation of digital 
+technologies. As technology advances, the skills gap between the exist -
+ing workforce and the required skill set must be narrowed. 
+Today's ecosystem requires collaboration among supply chain part -
+ners; there must be high levels of coordination involving food producers, 
+trading firms, corporations and other external parties. It will gradually 
+strengthen the food supply chain to make it more agile and resilient. In 
+addition, participation in the FSC helps stakeholders improve their 
+financial performance by adding value and gaining a competitive 
+advantage while maintaining ecological sustainability; overall sustain -
+ability leads to lower carbon footprints and a decrease in food waste 
+( Zhao et al., 2021 ; Yadav et al., 2022 ). 
+The current study identifies ‘digital technologies for cross-sector 
+collaboration ’ as one of the effective strategies. Mensi and Udenigwe 
+(2021) discussed how multi-sector collaboration could assist various 
+food retail internet economies in making significant contributions to 
+sustainable food waste recovery, reducing food waste and achieving 
+SDG targets. Jagtap and Duong (2019) discussed the use of big data to 
+improve the design of product networks. Irani et al. (2018) went on to 
+explain how data modelling techniques can be used to manage inventory 
+turnovers, improve the volume of sales, improve consumer food 
+retailing experiences (product offerings and cash discounts) in super -
+stores and improve food security. Data analytics has been extensively 
+researched for predicting demand, selecting sustainable suppliers and 
+engagement ( Seyedan and Mafakheri, 2020 ). It has been demonstrated 
+in a few empirical studies that big data contributes positively to the long- 
+term viability of the FSC ( Barbosa et al., 2018 ; Dubey et al., 2019 ). 
+Customers are the most important stakeholders in bringing about 
+change in sustainable consumption, so digital technologies should be 
+used to communicate and interact with them directly. App-based 
+communication will aid in the promotion of sustainable consumption 
+education and can instill a sense of responsibility in consumers. 
+Based on the results, a strategic framework is developed on the level 
+of digital technology implementation and organisational barriers as 
+shown in Fig. 2 . 
+The study sheds light on the barriers faced by firms to achieve SPC 
+through digital technologies and how changes can boost circular per -
+formance in the current disruptive environment. Food waste is a massive 
+problem in both developing and developed nations; the causes are 
+diverse. Very few types of food waste are unfit for human consumption 
+and must be reprocessed to recover their value. Additionally, environ -
+mental risks and hygiene issues are associated with managing food 
+waste. Advanced technologies have the potential to aid businesses in 
+addressing challenges and creating value. Using BDA, IoT and AI, food 
+waste can be reduced through traceability, information sharing and 
+decision-making support. This study suggests that firms should 
+concentrate on their structural and strategic factors for implementation 
+of digital technologies to improve SPC in FSC. It primarily contributes to 
+the analysis of barriers identified and the strategies needed to overcome 
+them, in order to improve the implementation of digital technologies for 
+SPC of FSC. In the strategic vision and planning of an organisation, it is 
+essential to have a digitally-enabled FSC with SPC. According to the 
+results, the commitment of top management in undertaking initiatives to 
+improve the efficiency of SPC implementation through digital technol -
+ogies is significant. For long-term benefits, managers must acknowledge 
+organisational barriers in the implementation of digital technologies for 
+SPC initiatives and the economic benefits of SPC adoption. This study 
+also indicates that digital technologies can assist in informing supply 
+chain actors and the agricultural community to accept SPC initiatives in 
+FSC. Apps and digital campaigns may augment FSC's SPC capacities. 
+This study aims to raise stakeholder awareness about adopting sus -
+tainable consumption practices. 
+Integration of digital technologies has the potential to transform the 
+FSC in rural and semi-urban areas. Before implementing digital tech -
+nologies in the agriculture and food sector, certain conditions must be 
+met; these include infrastructure, connectivity, network coverage, 
+internet access, electricity supply, affordability and institutional support 
+( fao.org ). Digital technologies may offer significant benefits to farmers 
+and other rural businesses through the provision of information, stra -
+tegic partnerships, the provision of support services such as training, 
+finance and legal services, and, most importantly, the ability to reach 
+markets and customers ( fao.org ). This study provides insights to 
+decision-makers, policymakers and industry decision-makers to 
+encourage them to adopt strategies to mitigate the barriers that hinder 
+Table 10 
+Strategies for enhancing SPC through digital technologies.  
+Code Strategies References 
+S1 Stringent CE policy for digital technology 
+implementation to minimize food waste 
+Massaro et al. (2021) 
+S2 Enhancing traceability through digital 
+technologies for control of waste and enhancing 
+SPC 
+Feng et al. (2020) . 
+S3 Monitoring the implementation of digital 
+technologies 
+Kayikci et al. (2022) 
+S4 Standardizing the protocols for digital 
+technology implementation 
+Tseng et al. (2021) 
+S5 Digital technologies for enhancing cross-sector 
+collaboration through the CE model for SPC of 
+FSC 
+Lopes de Sousa 
+Jabbour et al. (2021) 
+S6 Digital technology implementation absorption in 
+FSC vision and its strategic planning 
+Lopes de Sousa 
+Jabbour et al. (2021) 
+S7 Training and workshops to develop a skilled 
+workforce 
+Sachs et al. (2019) 
+S8 Financial support for technology upgradation for 
+SPC of FSC 
+Alkhuzaim et al. 
+(2021) 
+S9 Industry 4.0 based circular design model for SPC 
+of FSC 
+Annosi et al. (2021) 
+S10 Government incentives for SPC of FSC through 
+digital technologies 
+Roy et al. (2022) 
+S11 Connect to customers through digital 
+technologies to enhance sustainable 
+consumption measure 
+Kamble et al. (2020) 
+S12 Focus on enhancing commitment from top 
+management towards SPC 
+Roy and Singh (2017)  
+M. Sharma et al.

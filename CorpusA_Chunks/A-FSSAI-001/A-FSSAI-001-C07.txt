@@ -1,106 +1,58 @@
 --- CHUNK HEADER ---
 Chunk ID: A-FSSAI-001-C07
 Parent Doc ID: A-FSSAI-001
-Page Range: Page 25 to Page 26
-Word Range: 9591 - 10851
-Word Count: 1,261
+Page Range: Page 3
+Word Range: 1517 - 1766
+Word Count: 250
 --------------------
 
-[Page 25]
-¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 89
-Part-II
-(See Regulation 2.1.1(4))
-General Requirements on Hygienic and Sanitary Practices to be followed by all Food Business Operators applying for
-License
-The establishment in which food is being handled, processed, manufactured, packed, stored, and distributed by the
-food business operator and the persons handling them should conform to the sanitary and hygienic requirement, food
-safety measures and other standards as specified below. It shall also be deemed to be the responsibility of the food
-business operator to ensure adherence to necessary requirements.
-In addition to the requirements specified below, the food business operator shall identify steps in the activities of
-food business, which are critical to ensure food safety, and ensure that safety procedures are identified, implemented,
-maintained and reviewed periodically.
-1 LOCATION AND SURROUNDINGS
-1.1 Food Establishment shall ideally be located away from environmental pollution and industrial activities that
-produce disagreeable or obnoxious odour, fumes, excessive soot, dust, smoke, chemical or biological emissions and
-pollutants, and which pose a threat of contaminating food areas that are prone to infestations of pests or  where wastes,
-either solid or liquid, cannot be removed effectively.
-1.2 In case there are hazards of other environment polluting industry located nearby, appropriate measures should
-be taken to protect the manufacturing area from any potential contamination.
-1.3 The manufacturing premise should not have direct access to any residential area.
-2 LAYOUT AND DESIGN OF FOOD ESTABLISHMENT PREMISES
-As far as possible, the layout of the food establishment shall be such that food preparation / manufacturing
-processes are not amenable to cross-contamination from other pre and post manufacturing operations like goods receiving,
-pre-processing (viz. packaging, washing / portioning of ready-to-eat food etc).
-2.1Floors, ceilings and walls must be maintained in a sound condition to minimize the accumulation of dirt,
-condensation and growth of undesirable moulds. They should be made of impervious material and should be smooth and
-easy to clean with no flaking paint or plaster.
-2.2Doors shall also be made of smooth and non-absorbent surfaces so that they are easy to clean and wherever
-necessary, disinfect.
-2.3The floor of food processing / food service area shall have adequate and proper drainage and shall be easy to
-clean and where necessary, disinfect.  Floors shall be sloped appropriately to facilitate drainage and the drainage shall
-flow in a direction opposite to the direction of food preparation / manufacturing process flow.
-2.4Adequate control measures should be in place to prevent insects and rodents from entering the processing area
-from drains.
-2.5Windows, doors & all other openings to outside environment shall be well screened with wire-mesh or insect-
-proof screen as applicable to protect the premise from fly and other insects / pests / animals & the doors be fitted with
-automatic closing springs. The mesh or the screen should be of such type which can be easily removed for cleaning.
-2.6No person shall manufacture, store or expose for sale or permit the sale of any article of food in any premises not
-effectively separated to the satisfaction of the licensing authority from any privy, urinal, sullage, drain or place of storage
-of foul and waste matter.
-3 EQUIPMENT & CONTAINERS
-3.1Equipment and containers that come in contact with food and used for food handling, storage, preparation,
-processing, packaging and serving shall be made of corrosion free materials  which do not impart any toxicity to the food
-material and should be easy to clean and /or disinfect (other than disposable single use  types).
-3.2Equipment and utensils used in the preparation of food shall be kept at all times in good order and repair and in
-a clean and sanitary condition. Such utensil or container shall not be used for any other purpose.
-3.3  Every utensil or container containing any food or ingredient of food intended    for sale shall at all times be either
-provided with a properly fitted cover/lid or with a clean gauze net or other material of texture sufficiently fine to protect the
-food completely from dust, dirt and flies and other insects.
-
-[Page 26]
-90 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
-3.4  No utensil or container used for the manufacture or preparation of or containing any food or ingredient of food
-intended for sale shall be kept in any place in which such utensil or container is likely by reason of impure air or dust or any
-offensive, noxious or deleterious gas or substance or any noxious or injurious emanations, exhalation, or effluvium, to be
-contaminated and thereby render the food noxious.
-3.5 Equipment shall be so  located, designed and fabricated  that it permits necessary maintenance and cleaning
-functions as per its intended use and facilitates good hygiene practices inside the premise including monitoring and audit.
-3.6Appropriate facilities for the cleaning and disinfecting of equipments and instruments and wherever possible
-cleaning in place (CIP) system shall be adopted.
-3.7Equipment and containers for waste, by-products and inedible or dangerous substances, shall be specifically
-identifiable and suitably constructed.
-3.8Containers used to hold cleaning chemicals and other dangerous substances shall be identified and stored
-separately to prevent malicious or accidental contamination of food.
-3.9 If required, a waste water disposal system / effluent treatment plant shall be put in place.
-3.10 All items, fittings and equipments that touch or come in contact with  food must be:
-z kept in good condition in a way that enables them to be kept clean and wherever necessary, to be
-disinfected.
-z Chipped enameled containers will not be used. Stainless steel /aluminum / glass containers, mugs,
-jugs, trays etc. suitable for cooking and storing shall  be used. Brass utensils shall be frequently provided with
-lining.
-4 FACILITIES
-4.1 Water supply
-4.1.1 Only potable water, with appropriate facilities for its storage and distribution shall be used as an
-ingredient in processing and cooking.
-4.1.2 Water used  for food handling, washing,  should be of such quality that it does not introduce any hazard
-or contamination to render the finished food article unsafe.
-4.1.3 Water storage tanks shall be cleaned periodically and records of the same shall be maintained in a
-register.
-4.1.4 Non potable water can be used provided it is intended only for cleaning of equipment not coming in
-contact with food, which does not come into contact with food steam production, fire fighting & refrigeration
-equipment and provided that pipes installed for this purpose preclude the use of this water for other purposes and
-present no direct or indirect risk of contamination of the raw material, dairy products or food products so processed,
-packed & kept in the premise.
-4.1.5 Non potable water pipes shall be clearly distinguished from those in use for potable water.
-4.2 For Cleaning Utensils / Equipments
-Adequate facilities for cleaning, disinfecting of utensils and equipments shall be provided. The facilities must
-have an adequate supply of hot and cold water if required.
-4.3 Washing of Raw materials
-Adequate facilities for washing of raw food should be provided. Every sink (or other facilities) for washing
-food must have an adequate supply of hot and/or cold water. These facilities must be kept clean and, where
-necessary, disinfected. Preferably, sinks which are used for washing raw foods shall be kept separate and that
-should not be used for washing utensils or any other purposes.
-4.4 Ice and Steam
-Ice and steam used in direct contact with food shall be made from potable water and shall comply with
-requirements specified under 4.1.1. Ice and steam shall be produced, handled and stored in such a manner that no
-contamination can happen
+[Page 3]
+¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 67
+2.1.2 License for food business
+(1) Subject to Regulation 2.1.1, no person shall commence any food business unless he possesses a valid license.
+Provided that any person or Food Business Operator carrying on food business on the date of notification of
+these Regulations, under a license, registration or permission, as the case may be, under the Acts or Orders
+mentioned in the Second Schedule of the Act shall get their existing license converted into the license/registration
+under these regulations by making an application to the Licensing/Registering Authority after complying  with the
+safety requirements mentioned in the Schedule 4 contained under different Parts dependent on nature of business,
+within one year of notification of these Regulations. In case of difficulty, the licensing authority with the approval
+of the Food Safety Commissioner in the State will determine the advisability of applying any specific condition
+keeping in view the need to ensure safety of food and public interest. No license fee will have to be paid for the
+remaining period of the validity of the earlier license or registration granted under any of the said Acts or Orders.
+Non-compliance with this provision by a Food Business Operator will attract penalty under section 55 of the Act.
+Provided further that any food business operator holding Registration/License under any other Act/Order as
+specified under schedule 2 of the FSS Act, 2006 with no specific validity or expiry date, and other wise entitled to
+obtain a license under these regulations, shall have to apply and obtain a Registration/License under these
+Regulations within one year from the date of notification by paying the applicable fees.
+(2) Notwithstanding the provisions contained in Regulation 2.1.2(1) above or in any of the registration or
+license certificates issued under existing Acts or Orders mentioned in the second schedule of the Act, the Licensing
+Authority, if it has reason to believe that the  Food Business Operator  has failed to comply with all or any of the
+conditions of the existing  registration or license  or the safety requirements given in Schedule 4, may give appropriate
+direction to the  Food Business Operator to comply with.
+(3) License for commencing or carrying on food business, which falls under Schedule 1, shall be granted by
+the Central Licensing Authority, provided that Food Authority may through notification make such changes or
+modify the list given in the Schedule I as considered necessary.
+(4) License for commencing or carrying on food business, which are not covered under Schedule 1, shall be
+granted by the concerned State/UT’s Licensing Authority.
+(5) The  Food Business Operator  shall ensure that all conditions of license as provided in Annexure 2 of Form
+B in Schedule 2 and safety, sanitary and hygienic requirements  provided in the Schedule 4 contained under different
+Parts depending on nature of business are complied with at all times .
+Provided that the Licensing Authority shall ensure periodical food safety audit and inspection of the licensed
+establishments through its own or agencies authorized for this purpose by the FSSAI.
+Provided further that no person shall manufacture, import, sell, stock, exhibit for distribution or sale any article
+of food which has been subjected to the treatment of irradiation, except under a license obtained from Department
+of Atomic Energy under the Atomic Energy (Control of Irradiation of Food) Regulations, 1996.
+2.1.3 Application for license to the Licensing Authority
+An application for the grant of a license shall be made in Form B of Schedule 2 to the concerned Licensing
+Authority as specified in Regulation 2.1.2 (3) and 2.1.2 (4) and it will be accompanied by a self-attested declaration
+in the format provided in the Annexure-1 and copies of documents mentioned in the Annexure 2 of Schedule-2 along
+with the applicable fees prescribed in Schedule 3.
+2.1.4 Processing of Application for license
+(1) A license shall, subject to the provisions of these Regulations, be issued by the concerned Licensing
+Authority within a period of 60 days from the date of issue of  an application ID number as provided in subsection
+(3) below.
+(2) If, upon scrutiny of the application within 15 days from the date of receipt of the application, the concerned
+Licensing Authority requires any additional information with respect to an application or if the application is
+incomplete, the Licensing Authority shall inform the applicant in writing, to furnish such additional information or
+complete the application, as the case may be, within 30 days from such notice. In case the applicant fails to furnish
+the required information within the stipulated time of 30 days, the application for license shall stand rejected.

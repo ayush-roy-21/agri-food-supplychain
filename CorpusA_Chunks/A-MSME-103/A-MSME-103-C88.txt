@@ -1,0 +1,72 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-103-C88
+Parent Doc ID: A-MSME-103
+Page Range: Page 70
+Word Range: 25214 - 25463
+Word Count: 250
+--------------------
+
+[Page 70]
+Strategy for unlocking export potential for MSMEs in West Bengal
+70  Index No.Weights202020212022Coastal Average 
+(2022)
+National Average 
+(2022)
+IndicatorDefinition/Clarification
+Export Per-
+formance 
+(20%)
+Index Score 18.6922.9036.5551.5530.40  
+4.1 Growth & 
+Orientation (10%) 11.1319.8739.6353.0535.85
+ Growth of exports in a state reflects the effort of a state government in 
+creating a conducive environment for the same. Conversely, the lack of 
+such growth implores the governments to address their problems and 
+tackle them. 
+4.1.11.5 019.53  
+Import Export Code (IEC) [as a 
+percentage of total business]
+IEC is a registration code required by companies for importing and 
+exporting from India, making them eligible for recognition as a status 
+holder.
+4.1.22.5  41.41  Export growth in 3 yearsThis indicator calculates average incremental growth of exports over 3 
+years.
+4.1.3221.3123.9123.27  Merchandise exports to GDP 
+ratio
+This indicator gives the contribution of merchandise exports of a state to 
+its GDP
+4.1.41  50.00  GI Products
+This indicator looks at Geographical Indications protect signs that 
+indicate that a product originates in a given geographical area and its 
+qualities, reputation, or other characteristics are essentially due to its 
+geographical origin. Products with a GI tag get premium pricing, thus 
+helping exporters earn better, and which in turn incentivizes producers. 
+For these producers the GI tag helps create brand equity
+4.1.5210.0910028.93  Increase in number of exportersIncrease in number of exporters in a State will indicate whether the 
+business environment in States promotes exports.
+4.1.61  40.93  
+Ratio of number of exporters 
+availing Certificate of origin 
+certificate to the total number of 
+exporters in the State
+Certificate of Origin is an instrument which establishes evidence on origin 
+of goods imported into any country. These certificates are essential for 
+exporters to prove where their goods come from.
+4.2 Export 
+Diversification 
+(10%)
+ 26.2425.9433.4650.0424.95
+ Diversification of the export basket of a state helps it increase stability, as 
+it becomes resilient to market shocks, and increase channels of revenue. 
+In order to diversify exports, state governments need to identify target 
+areas which can produce quality products within the state, and formulate 
+a strategy on how to market them and take to the global market. 
+4.2.1519.9524.0226.81  Export Concentration
+Product Concentration Index is used to measure the dispersion of trade 
+value across an exporter's products. it is also an indicator of an exporter's 
+vulnerability to trade shocks
+4.2.2551.0440.3333.04  Market Penetration Index
+Market Penetration Index measures the extent to which exports from 
+a State reach already proven markets. It is calculated as the number of 
+countries to which a State exports a particular product divided by the 
+number of total countries that import that product in a year.

@@ -1,0 +1,107 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C38
+Parent Doc ID: A-MSME-100
+Page Range: Page 38 to Page 39
+Word Range: 10440 - 10689
+Word Count: 250
+--------------------
+
+[Page 38]
+38 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+MSMEs’ access to finance:  
+A challenge that is at last subduable. 
+Limited access to finance remains one of the most significant challenges for MSMEs, which is a 
+primary obstacle to their scaling potential. Our discussions this year highlighted two major issues: 
+first, securing finance for working capital, particularly small ticket-size, short-duration loans, 
+without which firms struggle to take on multiple orders; and second, high interest rates, largely 
+due to lack of collateral or the burden of multiple ongoing loans. During the pilot interviews, some 
+firms noted that they were being charged interest rates of around 16-17% with collateral, and 24-
+25% without collateral by commercial banks. At these rates, the struggle is real particularly for 
+export-oriented firms that compete in global markets, operating often on thin profit margins. 
+One exporting MSME, a contract manufacturer, said that stretched working capital is the biggest 
+hurdle restricting their ability to scale. Although they have the capacity to increase production, 
+their ability to do so is hamstrung by the unaffordability of / inability to secure multiple 
+loans simultaneously. That is because many of their orders tend to be unsupported by formal 
+documentation (as it often follows much later), which could serve as collateral for loans but in the 
+absence of which they end up pledging their machinery instead.
+However, digital transformation has led to the emergence of innovative solutions to enhance 
+MSMEs’ access to finance, specifically addressing challenges related to collateral and small-
+ticket loans. Expert discussions highlighted that data-driven digital public infrastructure, such 
+as the Unified Lending Interface and the Account Aggregator Framework, have the potential to 
+revolutionise credit access for underserved segments like MSMEs. Additionally, these frameworks 
+can facilitate quicker disbursement through digital lending. Their effectiveness, however, depends 
+on the depth and quality of available information. 
+Another promising solution is digital, collateral-free loans offered by non-banking financial 
+corporations (NBFCs) in partnership with e-commerce platforms. These financial intermediaries 
+assess loan eligibility based on sellers’ cash-flow data from e-commerce platforms, enabling swift 
+disbursement. Primarily designed as small-ticket loans, they help businesses manage working 
+capital gaps, inventory, and purchase cycles, among other financial needs.
+Addressing this challenge requires a collective effort from commercial and public sector banks, 
+NBFCs, microfinance institutions, and private companies. Additionally, regulatory reforms are 
+needed to align MSME credit assessment criteria with the sector’s unique characteristics. MSMEs 
+are often denied small-ticket loans from banks due to associated risks and the potential unviability 
+of such loans given the high costs of operating bank branches. Micro-finance institutions and 
+NBFCs are typically better placed to address these financial needs.
+
+[Page 39]
+39 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Access to finance remains a challenge for MSMEs but 
+diminishes as firm size grows.  Post-COVID-19, about 
+70% of MSMEs face financial challenges, which include 
+reduced credit availability, difficulties in purchasing 
+inventory, and limited scaling ability. Larger firms 
+report fewer issues, with 44% of small- and 50% of 
+medium-sized firms reporting that they have not faced 
+significant financial challenges, compared to 27% of 
+micro firms.
+The nature of financial challenges differs between 
+integrated and non-integrated enterprises.  Integrated 
+firms primarily struggle with inventory purchases or 
+working capital to fulfil orders, while non-integrated 
+firms face reduced credit availability and scaling 
+issues. Overall, fewer integrated firms report financial 
+challenges compared to non-integrated ones.
+While most firms started operations with their own 
+capital, bank loans are the primary source of finance 
+to continue. More than 50% of the businesses rely on 
+bank loans to run their enterprises, while about a third 
+use their own capital. The use of bank loans is relatively 
+higher among micro-enterprises (55%), compared to 
+46-47% of small- and medium-sized firms (Figure 17). 
+The previous survey (2023) found that nearly 70% of 
+the surveyed firms used their own capital for starting 
+their business.35 
+Figure 17:
+Distribution of firms by major 
+source of finance for running 
+the enterprise (in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+Firms often take small-ticket loans of less than INR 
+1 lakh to meet their working capital requirements. 36 
+About 45% of the surveyed enterprises had taken such 
+loans at some point during their lifespan. Of these, 
+approximately 70% were micro-sized. A relatively 
+higher share of integrated firms (nearly 50%) availed 
+small-ticket loans compared to non-integrated firms 
+(40%). Small-sized loans are often essential for survival, 
+providing enterprises with the necessary leverage to 
+fulfil their orders.
+Loans taken do not fully cover the credit needs of the 
+surveyed enterprises.  At the time of the survey, 46% 
+of the surveyed enterprises had outstanding loans. 
+Among these, 40% had loans under INR 10 lakhs, less 
+5. MSMEs’ Access to Finance
+52%
+31%
+12%
+5%
+0% 20% 40% 60% 80% 100%
+Bank loan
+Own capital
+Other sources including
+NBFCs, Fintech and MFIs
+Informal lenders
+(moneylenders, friends,
+family)
+ Medium Small MicroOverall
+MSMEs’ Access to Finance

@@ -1,119 +1,81 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-101-C02
 Parent Doc ID: A-MSME-101
-Page Range: Page 11 to Page 14
-Word Range: 1219 - 2453
-Word Count: 1,235
+Page Range: Page 4 to Page 9
+Word Range: 251 - 500
+Word Count: 250
 --------------------
 
-[Page 11]
-Improve Access to Export Finance 
-Access to finance is regularly seen as a key bottleneck for MSMEs. Towards this end, promotion of Export 
-Credit Guarantee can help improve working capital availability for MSMEs. The current uptake of ECGC 
-schemes is only 10% and the government must create an incentive package to increase it to 50% or more. 
-Finally, a single marketplace can be created, like in the case of higher education loans, where all providers 
-of export credit can compete for business and help reduce the cost to MSMEs. 
-Ensure Accurate Measurement 
-Currently, a dependable single data source for MSME exports is lacking. The existing estimates of MSME 
-exports are likely unreliable and almost certainly inflated, given that they rely on an outdated list of 
-reserved sectors for MSMEs. Initiating any improvement requires accurate measurement and consistent 
-tracking of impact. Establishing a reliable depiction of MSME exports involves integrating DGFT trade data 
-with GST and income tax data. This fusion of datasets, utilizing PAN numbers as the common identifier, will 
-provide an accurate portrayal of MSME exports. A key issue is reluctance to share information across 
-government departments. To resolve this, a committee could be formed with representatives from DGFT 
-as well as the finance ministry along with the MSME ministry to create a mechanism for sharing requisite 
-information without compromising confidential data of individual firms. 
-Overall, the potential of MSMEs to grow exports is enormous. This potential can be realized through some 
-pragmatic measures which reduce the cost and friction of doing business for these firms. The measures 
-proposed in this report can help boost MSME exports without placing any additional fiscal burden in the 
-form of incentives or subsidies. This report employs a comprehensive research methodology combining 
-secondary research and stakeholder analysis to achieve a thorough understanding of the subject. The 
-secondary research phase involved an in-depth literature review and data collection from various data 
-sources, including government publications and industry reports. Simultaneously, a stakeholder analysis 
-was conducted, wherein relevant stakeholders were identified, and structured interviews were carried out 
-to map their perspectives. The qualitative insights obtained from stakeholder interactions were 
-integrated with the quantitative data derived from secondary research, to provide a holistic 
-understanding of the subject. 
-Boosting Exports from MSMEs 09
+[Page 4]
+Disclaimer 
+ 
+The information contained in this presentation is of a general nature and is not intended to 
+address the circumstances of any particular individual or entity. Although we endeavor to 
+provide accurate and timely information. there can be no guarantee that such information is 
+accurate as of the date it is received or that it will continue to be accurate in the future. NO 
+one should act upon such information without appropriate professional advice after a 
+thorough examination of the particular situation. Foundation for Economic Development 
+(FED) has received no financial assistance from NITI Aayog. 
+ 
+Acknowledgements 
+ 
+The authors of this report would like to thank industry participants, Abhishek Dalal — CEO, 
+ArSports Equipment. Ajay Srivastava — Founder. Global Trade Research Initiative (GTRI), 
+Anil Bhardwaj — Secretary General, FISME, Anuj Jain — CEO, Shingora Textiles, Ashish 
+Chandra — Co-founder, GlobalFair, Ayush Jha — Tax and Customs Expert, GlobalFair, 
+Chandrakant Salunkhe — President, SME Chamber of India, Geeta Goel — MD, India MSDF 
+(Dell Foundation), Lokesh Kumar — General Manager, Exim Bank, Mithileshwar Thakur — 
+Secretary General, AEPC, Prashant Seth — Joint Deputy Director General, FIEO, Rahul Taneja 
+— Partner, Lightspeed Ventures, S Ganesh AGM — Direct Credit, SIDBI, Sanjay Bansal — 
+Director General, DGCIS, Sanjeev Leekha — President, EPC - Leather, Vasundhara Singh — 
+Policy and Partnerships, Etsy, Vinod Kumar — President, India SME Forum, Amazon Team 
+and the ECGC Team for their valuable insights in the preparation of this report. 
+ 
+We would also like to thank members from the ministry, Dr. Amiya Chandra Additional DGFT, 
+KV Tinumala Joint DGFT, Kuldip Singh — Assistant Director, MSME, Mercy Epao Joint 
+Secretary. MoMSME. U. C. Shukla Director (EP) — DC MSME, R. Ananth — Director CBIC, 
+DOR, Reema Jain — Joint Director. DPIIT. Roshan Lal - Additional Director General, CBIC 
+(Customs) and Surjith Karthikeya - Dy Secretary, Financial Services for their grounded 
+perspective on the subject.
 
-[Page 13]
-In 2020, the Finance Ministry decided to change the definition of Micro, Small and Medium Enterprises 
-(MSMEs) because the low threshold limit in the old definition of MSMEs prevented them from expanding 
-since they might lose certain benefits that MSMEs enjoy. The other change that has been introduced was 
-to add turnover as another measure to define an MSME. 
-Table 2.1: Revised Definition of Micro, Small and Medium Enterprises 
-Parameters Micro Small Medium 
-Investment in Plant and Machinery < 1 Crore INR < l0Crore lNR < 50 Crore INR 
-Annual Turnover < 5 Crore INR < 50 Crore INR < 250 Crore INR 
-No. of MSMEs (Based on NSS data) 6.3 Crore 3.3 Lakh 5 thousand 
-No. of MSMEs 1.5 Crore 4.6 Lakh 41 thousand 
-(Based on Udyam data as on 31st 
-March 2023) 
-Between FY 2019 and FY 2021, India witnessed a steep rise in the establishment of new MSMEs units. 
-Around 40 lakh new Micro, Small, and Medium Enterprises (MSMEs) were established6. This remarkable 
-growth can be attributed to the rising number of new micro-enterprises, which played a crucial role in 
-driving the overall increase in the number of new MSMEs being established. 
-Over the last 8 years, the share of MSME units engaged in manufacturing has grown by ~ 7%. Currently, 
-around 38% of the total 54 lakh MSME units7 are engaged in manufacturing. 
-Figure 2.1 provides an insight into the distribution of activity share among the categories of MSMEs. We 
-clearly see that the bulk of manufacturing activity which is suitable for export is distributed largely 
-amongst small and medium enterprises. 
-• Manufacturing • Services
-Source: Udyam Registration Publication 
-Figure 2.1: Activity share of MSMEs across the three categories of MSME 
-52% 
-According to the 2020-21 Annual Report of the Ministry of MSMEs, the top five states with the highest 
-concentration of manufacturing MSMEs are Uttar Pradesh, Maharashtra, Tamil Nadu, Karnataka, and 
-Gujarat. 
-06Creating Udyog Sahayak Enterprises Network (USENET) for Employment Generation and Scale-up in the MSME Sector 
-07Udyam Dashboard 
-11
-
-[Page 14]
-A handful of firms are contributing to statistics reported from the MSME sector. According to NSS 
-estimates in 2015, there were approximately 6.34 crore MSMEs in India. However, a closer examination of 
-the sector's composition reveals a very skewed distribution. Out of the total 6.34 crore MSMEs, nearly 6.3 
-crore are in fact microenterprises which have less than 20 workers and hence are outside most formal 
-regulation (other than ESl)8• Only the rest of the 12.8 lakhs which are above the 20- worker threshold are 
-therefore part of the formal system (e.g., PF system) 9• 
-Among these ~13 lakh enterprises registered in the Provident Fund database, around 70,000 have 
-revenues exceeding 5 crores, thereby crossing the threshold from the micro category to the small 
-category. The remaining 9.3 lakhs, despite being formal enterprises with more than 20 workers, still fall 
-under the micro segment in terms of revenue definition 10• 
-The current policy landscape in India incentivizes MSMEs to remain dwarfs, hindering their ability 
-to reap the benefits of economies of scale. For instance, the Industrial Disputes Act (IDA), 1947 
-mandates companies to get permission from the Government before retrenchment of employees. This 
-restriction is, however, applicable only to firms with more than 100 employees. This means that firms with 
-less than 100 employees do not have to get permission from the government before firing their 
-employees. 
-Small businesses are indeed the primary beneficiaries of various policy initiatives and economic packages, 
-aimed at providing support and fostering their development. However, these very incentives 
-unintentionally create a disincentive for these businesses to surpass certain thresholds and expand their 
-operations. As a result, MSMEs face significant challenges in capitalizing on the advantages offered by 
-economies of scale. By staying small, they miss the potential cost savings, increased efficiency, and 
-enhanced competitiveness that come with expanding their operations. The reluctance to grow beyond 
-their initial size limits their ability to tap into larger markets, access better resources, and attract 
-investments for innovation and expansion. 
-Figure 2.2 compares India's market size to the global market size for MSME- Dominant industries. 
-Contrary to popular belief, the domestic market size for these industries accounts for only 0-2% of 
-the global market size 11. While India has a large population, a significant proportion of it is still 
-economically disadvantaged, and thus has limited purchasing power. This means that the effective size of 
-the Indian market is smaller despite its large population. High competition along with small 
-market size isn't ideal growth environment for any manufacturing MSME. 
-• Indian Market 
-Size 
-e Global Market 
-Size 
-Source: FED Analysis based on market reports 
-Toys Leather 
-Goods 
-$991 
-$756 
-Handicrafts Readymade 
-Garments 
-Figure 2.2: Indian market size and global market size for the MSME dominated industries, in USO Billion 
-08Note: ESI stands for Employee State Insurance. It is a contribution made by employees as well as employers to support employees to take 
-part in self-financed, healthcare, insurance funds. 
-09Creating Udyog Sahayak Enterprises Network (USENET) for Employment Generation and Scale-up in the MSME Sector 
-10Creating Udyog Sahayak Enterprises Network (USENET) for Employment Generation and Scale-up in the MSME Sector 12 
-11FED Analysis based on Market Reports
+[Page 9]
+MSMEs are often called the powerhouse of the Indian economy. MSMEs contribute significantly to 
+employment generation, exports, and overall economic growth. They reportedly account for more than 
+11 crore jobs1 and contribute around 27.0% of India's GDP2. According to estimates, the sector consists of 
+around 6.4 crore MSMEs3, with 1.5 crore of them registered on the Udyam porta1 1 and employs around 
+23.0% of the Indian labor force4, making it the second-largest employer in India after agriculture. They 
+account for 38.4% of the total manufacturing output2 and contribute 45.03% of the country's total 
+exports5. 
+Exports represent an enormous and under-utilized opportunity for the MSME sector. Sectors where Indian 
+MSMEs can participate and compete in export markets include handicrafts, handloom textiles, ayurveda 
+and herbal supplements, leather goods, imitation jewellery and wooden products. Globally, these sectors 
+constitute substantial markets exceeding USD 340 billion, whereas their domestic market is considerably 
+smaller. 
+Over time, small firms have encountered difficulties in tapping into export markets due to the inherent 
+obstacles posed by economies of scale. It proves more challenging for small enterprises to enter foreign 
+markets, adhere to compliance requirements, achieve cost-effective production, and efficiently manage 
+logistics for clients. However, the emergence of both broad and niche e-commerce marketplaces 
+addresses many of these barriers. By modifying our business environment to facilitate seamless exports 
+through e-commerce platforms, coupled with addressing essential ease-of-doing-business factors, we 
+have the potential to catalyze a radical transformation of our MSME sector into a formidable growth 
+engine. 
+In this report, we have six broad set of recommendations to boost MSME Exports: 
+Create One Stop Information Channel for 
+Exporters 
+India has several portals that help exporters access information, most of which offer incomplete or 
+outdated information. Therefore, creating a one stop information data intelligence portal using Al based 
+interface will be essential to impart information to MSMEs. This portal shall answer all the queries of a 
+potential exporter related to market such as tariffs, required paperwork, sources of finance, service 
+providers, available incentives, and potential customers. This could be done under the Ministry of 
+Commerce by enlisting a competent external vendor. 
+1 
+2 
+3 
+4 
+5 
+Udyam Dashboard 
+PIB Press Release: Contribution of MSMEs and Cottage Industry to GDP 
+NSS 73rd round, Ministry of Statistics & Programme Implementation, 
+2015-16 Author's Calculation based on NSS 73rd round 
+PIB Press Release: Contribution of MSMEs and Cottage Industry to GDP 
+07

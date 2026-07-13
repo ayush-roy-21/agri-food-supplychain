@@ -1,0 +1,72 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C35
+Parent Doc ID: A-MSME-100
+Page Range: Page 36
+Word Range: 9547 - 9939
+Word Count: 393
+--------------------
+
+[Page 36]
+36 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+on platforms, and try to maintain high product ratings 
+to market their products. A relatively larger percentage 
+of micro-enterprises use these techniques (36-
+39%). Comparatively, a larger percentage of medium 
+enterprises invest in prompt customer service (37%), 
+improving shipping performance (31%), and monitoring 
+competition (30%), among others. 
+A larger percentage of integrated firms also sell 
+through other online channels, thereby improving their 
+online reach. The survey found that compared to non-
+integrated firms (11%), a much larger share of integrated 
+firms (65%) sells through other online channels, such 
+as their websites and social commerce. This indicates 
+that, more generally, e-commerce-integrated firms 
+have greater digital adoption for revenue generation 
+than non-integrated firms. As depicted in Figure 15, 
+a relatively larger share of medium- (46%) and small-
+sized firms (45%) are using other online means to sell 
+their products than micro firms (35%). This is primarily 
+because comparatively bigger size firms have greater 
+capacities to manage multiple sales channels and run 
+their website, while a majority of micro firms continue 
+to rely on e-commerce platforms. Greater outreach and 
+higher margins are the most cited reasons for selling 
+through own platforms compared to marketplaces. 
+Figure 15: Distribution of enterprises by sales through online channels like own website or social 
+commerce other than e-commerce platforms and their size (in %) (all firms)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+Platform charges and compliance burdens are the main 
+barriers to e-commerce adoption, with critical concerns 
+varying by enterprise size.  Medium enterprises cite 
+platform charges, skilled staff shortages, and returns 
+as major concerns. Micro-enterprises prefer traditional 
+sales and face strong platform competition, while many 
+small enterprises struggle with knowledge and staffing 
+gaps.
+About 1/5th of non-integrated firms joined but 
+quit e-commerce platforms.  The primary reason for 
+quitting the platform was lack of knowledge (43% of 
+the respondents who quit platforms). An equal number 
+of firms left these platforms over product returns. 
+A relatively higher percentage of micro-enterprises 
+struggled with skills and capacity constraints, more 
+medium firms faced returns and staffing issues, while 
+a relatively larger percentage of small enterprises 
+cited competition as a prominent reason for quitting 
+e-commerce platforms (Figure 16). 
+38%
+35%
+45%
+46%
+62%
+65%
+55%
+54%
+0% 20% 40% 60% 80% 100%
+Overall
+ Micro
+ Small
+ Medium
+ Yes  No
+Leveraging E-commerce Platforms

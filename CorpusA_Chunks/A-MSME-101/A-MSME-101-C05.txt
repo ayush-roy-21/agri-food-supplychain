@@ -1,98 +1,37 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-101-C05
 Parent Doc ID: A-MSME-101
-Page Range: Page 73 to Page 75
-Word Range: 5053 - 5528
-Word Count: 476
+Page Range: Page 11
+Word Range: 1279 - 1653
+Word Count: 375
 --------------------
 
-[Page 73]
-71
-exceeding ₹1 crore, while a bank guarantee is 
-not mandatory. 
-• Early redemption is permitted as an incentive
-for fast-track enterprises to boost exports. If the
-license holder has fulfilled 75% or more of the
-specific export obligation and 100% of the
-average export requirement, if any, in less than
-50% of the original term, the remaining export
-obligation will be waived.
-Duty Drawback Scheme • Drawback allowed up-to two years from the date
-of import.
-• Partial redemption of the paid duty, to be a
-certain percentage, where the identity of the
-goods is clearly defined by the authorised
-personnel from the Customs.
-• Redemption percentage dependent on the time
-after the goods are imported.
-Remission of Duties 
-and Taxes on Exported 
-Products (RoDTEP) 
-Scheme 
-• Refund of Duties/Taxes at Central, State and
-Local Level.
-• Refund includes indirect taxes on goods and
-services used in the production of the exported
-product.
-Table 7: Initiatives to simplify and fast track certain aspects of export 
-procedure  
-Initiative Description 
-Liberalized Indian AEO 
-(Authorized Economic 
-• Internationally recognised certificate• Internationally recognised certificate• Internationally recognised certificate
-
-[Page 74]
-72
-Operator) Program for 
-MSMEs 
-• Granting of AEO status within only 15 days
-from electronic submission of complete
-documents for AEO Tier T1.
-• Swifter Customs clearance for accredited
-stakeholders in the global supply chain viz.
-importers, exporters, logistic service providers,
-custodians etc.
-• Bank Guarantee up- to 50%, 75%, and 100%
-respectively for T1, T2, and T3.
-• The facility of Direct Port Delivery (DPD) of
-imported containers, Direct Port Entry (DPE) of
-their Export Containers, high level of facilitation
-in customs clearance of their consignments
-thereby ensuring shorter cargo release time.
-• Exemption from Bank guarantees, priority for
-refund/ rebate/ duty Drawback, as well as a
-Client Relationship Manager at the customs
-port as a single point of interaction.
-• Deferment of payment of Customs duty i.e., it is
-not required to paid before the clearance of the
-imported goods by Customs.
-Status Holder 
-Certification 
-• Authorisation and customs clearances for both
-imports and exports on self-declaration basis.
-• Bank Guarantee up-to 100%.
-• Allowance of Export of free-of-cost samples,
-without any duties, subject to certain annual
-limits.
-• Submission of paperless declaration without
-any supporting document.
-
-[Page 75]
-73
-• Status Holder Certification is categorised
-across 5 categories denoted with stars, based
-on their export values (FOB/FOR) in 2 out of 4
-years, with USD 3 million, 15 million, 50 million,
-200 million, and 800 million for 1 star, 2-star, 3-
-star, 4 star and 5 stars, respectively.
-• Input-output norms are fixed on priority basis,
-within 60 days by the Norms Committee.
-Advanced 
-Authorisation 
-• No advanced duty payments at the time of
-import, which includes duties like Basic Custom
-Duty, Additional Custom Duty, Education Cess,
-Anti-Dumping Duty, Countervailing Duty,
-Safeguard Duty, and Transition Product Specific
-Safeguard Duty.
-73
+[Page 11]
+Improve Access to Export Finance 
+Access to finance is regularly seen as a key bottleneck for MSMEs. Towards this end, promotion of Export 
+Credit Guarantee can help improve working capital availability for MSMEs. The current uptake of ECGC 
+schemes is only 10% and the government must create an incentive package to increase it to 50% or more. 
+Finally, a single marketplace can be created, like in the case of higher education loans, where all providers 
+of export credit can compete for business and help reduce the cost to MSMEs. 
+Ensure Accurate Measurement 
+Currently, a dependable single data source for MSME exports is lacking. The existing estimates of MSME 
+exports are likely unreliable and almost certainly inflated, given that they rely on an outdated list of 
+reserved sectors for MSMEs. Initiating any improvement requires accurate measurement and consistent 
+tracking of impact. Establishing a reliable depiction of MSME exports involves integrating DGFT trade data 
+with GST and income tax data. This fusion of datasets, utilizing PAN numbers as the common identifier, will 
+provide an accurate portrayal of MSME exports. A key issue is reluctance to share information across 
+government departments. To resolve this, a committee could be formed with representatives from DGFT 
+as well as the finance ministry along with the MSME ministry to create a mechanism for sharing requisite 
+information without compromising confidential data of individual firms. 
+Overall, the potential of MSMEs to grow exports is enormous. This potential can be realized through some 
+pragmatic measures which reduce the cost and friction of doing business for these firms. The measures 
+proposed in this report can help boost MSME exports without placing any additional fiscal burden in the 
+form of incentives or subsidies. This report employs a comprehensive research methodology combining 
+secondary research and stakeholder analysis to achieve a thorough understanding of the subject. The 
+secondary research phase involved an in-depth literature review and data collection from various data 
+sources, including government publications and industry reports. Simultaneously, a stakeholder analysis 
+was conducted, wherein relevant stakeholders were identified, and structured interviews were carried out 
+to map their perspectives. The qualitative insights obtained from stakeholder interactions were 
+integrated with the quantitative data derived from secondary research, to provide a holistic 
+understanding of the subject. 
+Boosting Exports from MSMEs 09

@@ -1,232 +1,99 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-103-C11
 Parent Doc ID: A-MSME-103
-Page Range: Page 45 to Page 49
-Word Range: 13473 - 14698
-Word Count: 1,226
+Page Range: Page 13
+Word Range: 3175 - 3483
+Word Count: 309
 --------------------
 
-[Page 45]
+[Page 13]
 Strategy for unlocking export potential for MSMEs in West Bengal
-45
-• As per our analysis, West Bengal exports 26 
-commodities (HS 6 digit) from our coverage 
-commodities. 
-• As per UNCOMTRADE, these commodities 
-export across world was reported at US$108 
-billion in FY23, representing 0.4% of world’s 
-total exports. 
-• The segment has reported gr owth at a CAGR 
-of 9.0% over FY21-23.
-• The share of these commodities has been in 
-the range of 0.4%-0.5% over last 5 years.
-• We have identified the top 5 commodities in 
-the table below, which reported the highest 
-growth rate over FY21-23.
-• Top 3 exports destinations for West Bengal’s 
-metal products are Nepal, USA, and UAE, 
-representing 46% of total segment exports.
-• As part of the central government's "Districts 
-as Export Hubs" initiative, 24 Parganas North, 
-Howrah, Kolkata and Purulia have been 
-recognized as having the highest export 
-potential.
-Policy support
-West Bengal is host to prominent public and 
-private enterprises due to its proximity to rich 
-iron ore reserves in neighbouring states and 
-coal deposits within West Bengal. Facilities like 
-the Plasto Steel Park in Barjora, Bankura offers 
-scope of further expansion and investment in this 
-sector in West Bengal. Given the substantial land 
-requirements of this industry, the government 
-has devised the Land Bank Policy to facilitate the 
-allocation of land for industrial purposes.
-METAL PRODUCTS
-Rank Commodity HS 6 Market Demand 
-(US$ mn)
-WB Exports - 
-Avg FY22-23
-WB - Market 
-share
-1 Other Cast Articles of Iron Malleable 732599 4,156 215 5.2%
-2 Iron or non-alloy steel; flat-rolled, 
-width 600mm or more 721090 1,140 11 1.0%
-3 Iron; articles of non-malleable cast iron 732510 3,187 93 2.9%
-4 Ferro-Silico-Manganese 720230 3,587 344 9.6%
-5 Other Forged Bars and Rods 721410 334 1 0.3%
-
-[Page 46]
-Strategy for unlocking export potential for MSMEs in West Bengal
-46
-D&B Data Insights
-Key observations:
-• West Bengal stands 8th in terms of coverage of 
-Metal businesses in India with 41.6 thousand 
-businesses as of 12th October 2023.
-• West Bengal stands 8th where customers have 
-shown interest on Metal businesses in India.  
-• West Bengal stands 8th where customers have 
-shown interest on Metal MSME businesses in 
-India.
-• MSMEs account for close to 56% of the overall 
-checks done by global customers on Metal 
-companies in West Bengal. The count of 
-inquiries related to MSMEs has tripled since 
-the fiscal year 2019.
-• Whilst ‘USA’ continues to be top inquir er on 
-Metal MSMEs, we have observed increased 
-interest by European countries. The most 
-inquiring top 3 countries namely USA, UK, and 
-Denmark account to 93% of total inquiries.
-(% share of Total Coverage of 
-Metal related Businesses in India)
-(% share of Total Inquiries on Metal
-Businesses in India)
-Top 15 countries
-Region US & Canada Europe Asia
-FY19 91% 3% 6%
-FY23 79% 18% 3%
-(% share of Total Inquiries on Metal 
-MSME Business)
-
-[Page 47]
-Strategy for unlocking export potential for MSMEs in West Bengal
-47
-• As per our analysis, West Bengal exports 20 
-commodities (HS 6 digit) from our coverage 
-commodities. 
-• As per UNCOMTRADE, these commodities 
-export across world was reported at US$242 
-billion in FY23, representing ~1% of world 
-total exports.
-• The segment has reported gr owth at a CAGR 
-of 8.8% over FY21-23. 
-• The share of this segment has r emained 
-consistent at ~1% over last 5 years.
-• We have identified top 5 commodities, which 
-reported the highest growth rate over FY21-
-23.
-• Top 3 exports destinations for West Bengal’s 
-chemicals commodities are Nepal, Singapore, 
-and Bhutan, representing 44% of total 
-segment exports.
-• As part of the central government's "Districts 
-as Export Hubs" initiative, Hooghly and 
-Medinipur East have been recognized as 
-having the highest export potential.
-Policy support
-The state plays a significant role in the 
-production of petroleum products and polymer 
-manufacturing. In 2013, a new industrial policy 
-was introduced with the aim of harnessing the 
-state's core capabilities and abundant mineral 
-resources to promote midsize and large-scale 
-industries in the petrochemical sector and its 
-related hydrocarbon industries.
-CHEMICAL INDUSTRY
-Rank Commodity HS 6 Market Demand 
-(US$ mn)
-WB Exports - 
-Avg FY22-23
-WB - Market 
-share
-1 Acyclic hydrocarbons; unsaturated, 
-buta-1,3-diene and isoprene 290124 1,984 53 2.7%
-2 Coke And Semi-Coke of Lignite or Of 
-Peat 270400 9,930 132 1.3%
-3 Benzene 290220 7,523 120 1.6%
-4 Methyl Tertiary Butyl Ether 290919 9,589 22 0.2%
-5 
-Linear Alkylbenzenesulphonic Acids 
-and Their Salts (Anionic Organic 
-Surface-Active Agents)
-340231 861 23 2.6%
-
-[Page 48]
-Strategy for unlocking export potential for MSMEs in West Bengal
-48
-D&B Data Insights
-Key observations:
-• West Bengal stands 9th in terms of coverage 
-of Chemical businesses in India with 16 
-thousand businesses as of 12th October 2023.
-• West Bengal stands 8th where customers have 
-shown interest on Chemical businesses in 
-India.
-• West Bengal stands 8th where customers have 
-shown interest on Chemical MSME businesses 
-in India.
-• MSMEs account for close to 57% of the 
-overall checks done by global customers on 
-Chemical companies in West Bengal. The 
-count of inquiries related to MSMEs has 
-increased three times since the fiscal year 
-2019.
-• Whilst ‘USA’ continues to be top inquir er on 
-Chemical MSMEs in West Bengal, we have 
-observed increased interest by European 
-countries. The most inquiring top 3 countries 
-namely USA, UK, and Italy account to 86% of 
-total inquiries.
-(% share of Total Coverage of 
-Chemical Businesses in India)
-(% share of Total Inquiries on Chemical
-Businesses in India)
-Top 15 countries
-Region US & Canada Europe Asia
-FY19 83% 4% 13%
-FY23 62% 31% 6%
-(% share of Total Inquiries on Agriculture products 
-and Food Processing MSME Business)
-
-[Page 49]
-Strategy for unlocking export potential for MSMEs in West Bengal
-49
-• As per our analysis, West Bengal exports 29 
-commodities (HS 6 digit) from our coverage 
-commodities. 
-• As per UNCOMTRADE, these commodities 
-export across world was reported at US$129 
-billion in FY23, representing 0.6% of world’s 
-total exports. 
-• The share of these commodities has been in 
-the range of 0.5%-0.8% over last 5 years.
-• We have identified top 5 commodities, which 
-reported the highest growth rate over FY21-
-23.
-• Top 3 exports destinations for West Bengal’s 
-agriculture and food processing commodities 
-are Bangladesh, Vietnam, and Myanmar, 
-representing 39% of total segment exports.
-• As part of the central government's "Districts 
-as Export Hubs" initiative, North and South 
-24 Parganas, Darjeeling, Hooghly, Jalpaiguri, 
-Kalimpong, Medinipur East and Murshidabad 
-have been recognized as having the highest 
-export potential.
-Policy support
-The state government has established multiple 
-food parks in collaboration with the State 
-Food Processing Industries and Horticulture 
-Department and the WBIDC and encouraging 
-MSME clusters in the food sector. There exists 
-significant potential for enhancing supply chains 
-within Kisan Mandis, improving the transportation 
-of procured food grains, and expanding food 
-grain storage capacities.
-AGRI PRODUCTS & FOOD PROCESSING
-Rank Commodity HS 6 Market Demand 
-(US$ mn)
-WB Exports - 
-Avg FY22-23
-WB - Market 
-share
-1 Bran Shrps And Othr Resdus of 
-Legminus Plnts 230250 393 0 0.1%
-2 Brewing Or Distilling Dregs and Waste 230330 3,975 4 0.1%
-3 Processed Cheese Not Grated/
-Powdered 40630 2,767 5 0.2%
-4 Starch Of Maize (Corn) 110812 1,484 3 0.2%
-5 Other Residues of Rape or Colza 
-Seeds 230649 621 2 0.4%
+13
+average. To enhance its score, the state should 
+align its policies more effectively with central gov-
+ernment schemes. The current score improved 
+from 0 to 32.0 due to the implementation of 
+district promotion plans, but the state should aim 
+to introduce these plans for all districts to achieve 
+a perfect score. West Bengal has successfully 
+identified thrust sectors for exports, achieving a 
+perfect score of 100. However, there’s room for 
+improvement in bringing more districts under the 
+ODOP (One District, One Product) scheme.
+Effective Strategies:
+• Maharashtra has introduced the DEPC 
+scheme and established Export Promotion 
+Industrial Parks (EPIPs) to boost district-level 
+exports and provide world-class infrastructure 
+for export-oriented industries.
+• Tamil Nadu has launched the Tamil Nadu 
+Industrial Investment Promotion Scheme 
+(TNIPS) with incentives for industries and 
+conducted the TN Global Investors Meet 
+to attract foreign investments and promote 
+exports.
+Institutional Framework : West Bengal 
+demonstrates a robust institutional framework, 
+scoring above the national average and just 
+below the coastal average. The state maintains 
+perfect scores in various sub-pillars, including 
+the appointment of an Export Commissioner, the 
+presence of a State-Center coordination cell, an 
+export promotion website, and a functional online 
+grievance portal for exporters. There’s an oppor-
+tunity to strengthen the District Export Promotion 
+Council (DEPC) by adding more districts, which 
+has shown improvement but can be further en-
+hanced.
+Effective Strategies:
+• Tamil Nadu has established a dedicated 
+Export Promotion Bureau and an Export 
+Promotion Website to formulate and 
+implement export promotion strategies and 
+provide comprehensive information and 
+resources to exporters.
+• In Odisha, the MSME Department strives 
+to maximize Industry-Institution linkage 
+by entrepreneurial education through 
+empanelled Project Institutes such as 
+Institutes of Higher learning, ITIs, and 
+Entrepreneurship Development Centres under 
+the National Scheme on Entrepreneurship 
+Development.
+Business Ecosystem
+Business Environment : West Bengal’s business 
+environment provides an opportunity for 
+improvement. While it performs slightly above 
+the national average and closely aligns with 
+the coastal average, it has consistently lagged 
+in the Ease of Doing Business score. The state 
+witnessed a decline from 96.23 in 2020 to 50.0 
+in 2022, although it’s an improvement from 2021 
+(43.61). Addressing challenges related to high 
+power costs for high-tension industries is crucial. 
+While there has been satisfactory growth in Gross 
+Value Added by manufacturing, West Bengal 
+can further enhance its performance in attracting 
+Foreign Direct Investment (FDI) and increasing 
+export credit provided by banks.
+Effective Strategies:
+• Maharashtra has implemented the Single 
+Window System for Industries and established 
+the Maharashtra Industrial Development 
+Corporation (MIDC) to streamline processes 
+and provide infrastructure support, enhancing 
+the business environment.
+• Tamil Nadu introduced the ‘Industrial 
+Guidance and Export Promotion Bureau’ 
+and the ‘Tamil Nadu Industrial Policy’ to offer 
+guidance, address industry concerns, and 
+create a favorable business environment.
+Infrastructure : West Bengal excels in 
+infrastructure, maintaining performance at par 
+with the coastal average and above the national 
+average. The state boasts high power availability, 
+but there’s room for improvement in low internet 
+facilities. While cluster strength is high, there has 
+been a slight decrease in its value. The number 
+of IT/Software technology/Food/Pharma/Textile, 
+Plastic Parks is on the rise but lags behind peers,

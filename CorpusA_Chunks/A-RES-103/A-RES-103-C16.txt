@@ -1,0 +1,96 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C16
+Parent Doc ID: A-RES-103
+Page Range: Page 11 to Page 12
+Word Range: 4142 - 4391
+Word Count: 250
+--------------------
+
+[Page 11]
+10 
+robenidine) have been added.  T oltrazuril, which is authorise d in India for use in 
+poultry, has not yet been added.  
+- The scope for milk has been widened for Group B1 with regard to sulphonamides, 
+beta-lactams and beta-lactam inhibitors such as taxobactam and sulbactam. It does not 
+yet cover marbofloxacin and streptomycin, both of which were seen to be used on the 
+dairy farms by the dairy plant`s  veterinarians met by the audit team. It also does not 
+cover certain substances in Group B2a such as triclabendazol e and closantel which  
+were seen to be used by the State Veterinary services during their annual anti-parasitic 
+treatment campaigns at dairy farms.  The scope of  substances in Group B2e has been 
+widened to include phenazone. 
+Furthermore, the audit team identified substances that are contained in  veterinary 
+medicinal products available on the Indian market, that are authorised use in food -
+producing animals in India, but not in the EU and which are not included in the 
+respective residue monitoring plans. These concerned in Group B1, ceftizoxime and 
+ceftriaxone, both of which are authorised in India for  poultry and bovine  animals plus 
+ofloxacin, perfloxacin and ornidazole (in Group A6) which are authorised in India for 
+bovine animals.  
+Notwithstanding the above, recommendation No 1  of the 2018 audit report has been 
+largely addressed. 
+10. In the 2021 and 2022 residue monitoring plans, the detection limits of the screening and 
+confirmatory methods, as well as action levels for all  analyte/matrix combinations were 
+the same as those applicable in the EU (10). 
+Conclusions on planning of residue monitoring 
+11. For aquaculture for which India has an approved residue monitoring plan and for  
+poultry and milk, for which it is seeking residue monitoring plan approval, t he 
+planning process is timely , sufficient sample numbers are pla nned, and the range of 
+analytes included in the res pective plans is much greater than was the case in the 
+previous audit. Nevertheless, there is room for improvement in terms of the scope of 
+testing, as evidenced by the fact that several substances on the Indian market were  not 
+included in the current resi due monitoring plans and these were seen to be used in the 
+relevant species.  
+5.1.3 Implementation of the residue monitoring plan 
+Findings 
+12. There are clear instructions (11) governing the implementation of the residue monitoring 
+plans for aquaculture, milk and poultry. These are largely harmonised with the relevant 
+ 
+(10) Table 1 of the Annex to Regulation (EU) 37/2010, Article 4 and Annex II to Decision 2002/657/EC or the 
+levels recommended by the European Union Reference Laboratories. 
+(11) India’s residue monitoring plans for: a) poultry meat and poultry meat products, b) milk and c) aquaculture 
+products.
+
+[Page 12]
+11 
+EU requirements  (12). In line with these instructions, sa mpling is unforeseen, spread 
+throughout the year  and covers the main production area s. Furthermore, residue 
+monitoring samples are collected  using adequate sampling material , sealed and 
+transported ensuring their integrity, traceability and legal validity.  
+13. The 2021 residue monitoring plan for aquaculture (including samples at all hatcheries 
+to be analysed for nitrofurans and chloramphenicol) and the 2021/22 plans for milk and 
+poultry were implemented as planned.  
+14. For milk the EIC instruction on how to implement the residue monitoring plan reduces 
+the likelihood of detecting substances included in Group A6 (banned antimicrobials) 
+and Group B1 (antimicrobials)  and in Group B2a (anthelmintics) .  This is due to the 
+fact that the EIC instructed their laboratory to divide the total number of samples in to 7 
+subsets that are each analysed with a multiresidue method, but where only certain 
+substances included in the multi -residue method had to be reported in a given subset . 
+Thus, if a non- compliance had been found for any of the other substances included in 
+the subset´s multiresidue method it would not have been reported as a non -compliance.  
+This is contrary to what would be expected in the EU (13). 
+15. Similar to EU rules, aquaculture s amples to be analysed for Group A were taken at 
+farm/hatchery level at all stages of farming  (14). Milk samples were taken from 
+individual farms when delivered to  milk collection centres  (15) and poultry samples to 
+be analysed for  substances in Group A were taken both at farm and at slaughterhouse 
+level (16). There was a mechanism to  avoid that samples were taken from the same 
+farms, either at farm level or at processing establishment level. At one poultry 
+processing plant visited by the audit team all 9 2 of the farms supplying it (and all of 
+which intend to provide for the EU market, should India be successfully listed in the 
+requisite EU Regulations for animal health, public health and residues)  were eligible to 
+be sampled.  For the second processor visited, 723 out of the 1,937 farms supplying it 
+were deemed to be able to supply to the EU market (as per the caveats above)  and this 
+second processor had specific days on which only poultry from thos e 723 farms would 
+be processed and from which residue monitoring samples were taken.  
+16. The implementation of the aquaculture national residue monitoring plan is  regularly 
+monitored through an on- line data base by MPEDA which notifies all of the MPEDA 
+offices/centres and the EIC about the plan’s implementation status and the non -
+compliant results found . Monthly updates on t he implementation of the poultry and 
+milk residue monitoring plans are reported by the respective EIA offices to the EIC.  
+17. The residue mo nitoring plan for aquaculture specifies  that samples have to be 
+forwarded to the designated laboratory within three days and reach the laboratory after 
+ 
+(12) Annex III to Directive 96/23/EC, Annex II to Regulation (EU) 2021/808. 
+(13) Point 1(a) of Article 5 of Regulation (EU) 2017/625 (read in conjunction with Points 1 and 2 of the Annex 
+III to Directive 96/23/EC and Point 1(B) of Chapter 1 of the Annex to Decision 97/747/EC).  
+(14) Point 1 of Chapter III of the Annex IV to Directive 96/23/EC. 
+(15) Point 3 of the Annex II to Regulation (EU) 2021/808. 
+(16) Chapter 2 of the Annex IV to Directive 96/23/EC.

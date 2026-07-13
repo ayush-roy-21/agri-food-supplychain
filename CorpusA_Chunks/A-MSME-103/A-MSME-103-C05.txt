@@ -1,276 +1,70 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-103-C05
 Parent Doc ID: A-MSME-103
-Page Range: Page 18 to Page 23
-Word Range: 5140 - 6736
-Word Count: 1,597
+Page Range: Page 8
+Word Range: 1253 - 1635
+Word Count: 383
 --------------------
 
-[Page 18]
+[Page 8]
 Strategy for unlocking export potential for MSMEs in West Bengal
-18
-PART II
-A Strategy for West Bengal 
-MSMEs
-
-[Page 19]
-Strategy for unlocking export potential for MSMEs in West Bengal
-19
-Table of Contents
-Introduction  20
-Comparative Landscape  21
- Free Trade Agreements  21
- Potential for West Bengal  23
- Supply Chain De-Risking  24
- Potential for West Bengal  26
- Geopolitical Environment  27
-Methodology for Identifying Export Potential  28
- Revealed Comparative Analysis  28
- Market Demand Index  29
-Key Exporters and Importers  31
-Identified Export Opportunities  38
- Gems & Jewellery  39
- Textile & Leather  41
- Handicraft  43
- Metal Products  45
- Chemical Industry  47
- Agri Products & Food Processing  49
-Leveraging Opportunities  51
- Exporter/Importer Perspectives  51
-S.M.A.R.T. Goals  54
- Industry Specific Recommendations  54
- Developing Transport and Logistical Infrastructur e  56
- Developing Institutional Infrastructure  57
- Skill Development  58
- Improve Access to Credit  59
- Quality Standards and Compliance  60
- Export Promotion Activities  60
- Performance Management Mechanism  61
- Promotion of E-Commerce  61
- Promote Geographical Indication (GI) Registrations  62
- Procurement of Raw Materials  62
-Annexure  64
-
-[Page 20]
-Strategy for unlocking export potential for MSMEs in West Bengal
-20
-In the report titled "An Exploratory Analysis of West Bengal MSME Exports," we 
-examined West Bengal's export landscape and identified the state's standout 
-exports, which encompassed a wide range of products, including engineering goods, 
-agricultural products, textiles, and gems & jewellery. Leveraging its diverse industrial 
-base and strategic geographic positioning, West Bengal has experienced significant 
-growth in the export sector, moving up to the 8th position among India's exporting 
-states in FY 2023.
-In this follow-up report, we will conduct a comparative analysis of the prevailing local and 
-global conditions for export promotion. The report will also provide recommendations 
-for financing the high-growth agenda. To achieve this, the report will delve into a 
-detailed comparison of West Bengal's MSME exports, pinpointing specific product 
-categories with the highest export potential. Drawing on insights from our interactions 
-with several prominent importers and exporters from the state, the report will assess 
-West Bengal's readiness for exports and provide targeted recommendations to further 
-enhance its position. The report will also present a comprehensive understanding 
-of West Bengal's export landscape and a strategic roadmap, filled with specific 
-tactics and measures, to unlock West Bengal's export potential and strengthen its 
-competitive edge in the global marketplace. In order to achieve the goal of becoming 
-one of the top five exporting states within the next five years, we will provide specific, 
-measurable, achievable, relevant, and time bound (S.M.A.R.T.) objectives that can be 
-implemented to improve West Bengal's export performance.
-INTRODUCTION
-
-[Page 21]
-Strategy for unlocking export potential for MSMEs in West Bengal
-21
-Free Trade Agreements
-India has entered into a total of 13 free trade 
-agreements (FTAs) with various partners, both at 
-the bilateral and regional levels. Additionally, the 
-country has forged 6 preferential trade agreements 
-(PTAs) with limited coverage. These agreements 
-have taken on growing significance in the context 
-of global economic integration. They not only 
-present an array of opportunities but also pose 
-distinct challenges for different states across India.
-West Bengal, for instance, has witnessed a 
-favourable impact on its exports attributable 
-to these FTAs, especially in sectors like textiles, 
-leather, and iron & steel. Furthermore, West 
-Bengal's seafood industry has seen a surge in 
-exports to nations such as Japan and the EU, thanks 
-to diverse FTAs. These agreements have acted as 
-gateways to new markets for select agricultural 
-products, including Basmati rice and specific fruits.
-Comparative Landscape
-There have been substantial changes in the global 
-economic landscape, which have had a notable 
-impact on the dynamics of international trade. This 
-section provides a thorough analysis of the global 
-factors that are influencing the exports of Micro, 
-Small, and Medium Enterprises (MSMEs) in West 
-Bengal. It explores the significance of Indian Free 
-Trade Agreements (FTAs) and their potential to 
-stimulate West Bengal's export 
-growth. Furthermore, it investigates the evolving 
-patterns in global supply chains and how the state 
-can effectively integrate into them. The analysis 
-also takes into account the evolving geopolitical 
-landscape and its potential consequences for West 
-Bengal's exports, thereby preparing the state to 
-adapt to these shifts and strategically enhance the 
-global presence of its MSME export sector.
-
-[Page 22]
-Strategy for unlocking export potential for MSMEs in West Bengal
-22
-Agreements Countries/Trading Blocs % of total WB 
-exports FY23
-Free Trade Agreements
-India-UAE CEPA UAE 11.7%
-India-Sri Lanka Free Trade 
-Agreement (FTA) Sri Lanka 0.5%
-Agreement on South Asian 
-Free Trade Area (SAFTA)
-Pakistan, Nepal, Sri Lanka, Bangladesh, Bhutan, the 
-Maldives, and Afghanistan 31.1%
-India-Nepal Treaty of Trade Nepal 8.6%
-India-Bhutan Agreement on 
-Trade, Commerce and Transit Bhutan 4.6%
-India-Thailand FTA - Early 
-Harvest Scheme (EHS) Thailand 0.0%
-India-Singapore CECA Singapore 3.7%
-India-ASEAN CECA Brunei, Indonesia, Cambodia, Laos, Malaysia, Myanmar, 
-Philippines, Singapore, Thailand, and Vietnam 11.1%
-India-South Korea CEPA South Korea 0.0%
-India-Japan CEPA Japan 1.9%
-India-Malaysia CECA Malaysia 1.9%
-India-Mauritius CECPA Mauritius 0.1%
-India-Australia-ECTA Australia 0.7%
-Preferential Trade Agreements
-Asia Pacific Trade Agreement 
-(APTA) Bangladesh, China, South Korea, Sri Lanka 23.3%
-Global System of Trade 
-Preferences (GSTP) 41 countries
-SAARC Preferential Trading 
-Agreement (SAPTA)
-Bangladesh, Bhutan, Sri Lanka, Maldives, Nepal, 
-Pakistan 31.1%
-India - Afghanistan PTA Afghanistan 0.0%
-India - MERCOSUR PTA Brazil, Argentina, Uruguay, and Paraguay 0.8%
-India - Chile PTA Chile 0.3%
-Table 1: FTAs in effect
-The Government of India is actively negotiating the following countries to conclude the FTAs.
-Table 2: FTAs under negotiation
-Under Negotiation
-Agreements Countries / Trading Blocs % of total WB exports FY23
-India EU Broad Based Trade and Investment 
-Agreement (BTIA) EU 3.7%
-India Israel FTA Israel 0.3%
-India Canada CEPA Canada 0.9%
-India Peru FTA Peru 0.1%
-India New Zealand FTA New Zealand 0.1%
-India UK FTA UK 2.1%
-IBSA Brazil, South Africa 0.9%
-Bangladesh, India, Myanmar, Sri Lanka, 
-Thailand Economic Cooperation (BIMSTEC)
-Bangladesh, Myanmar, Sri Lanka, 
-Thailand, Bhutan, Nepal 33.0%
-
-[Page 23]
-Strategy for unlocking export potential for MSMEs in West Bengal
-23
-Potential For West Bengal
-India's Free Trade Agreements (FTAs) are pivotal 
-instruments in driving export growth, and West 
-Bengal, a key economic player, is poised to reap 
-significant benefits from key agreements such 
-as the India-UAE Comprehensive Economic 
-Partnership Agreement (CEPA), the South Asian 
-Free Trade Area (SAFTA), the India- ASEAN 
-Comprehensive Economic Cooperation 
-Agreement (CECA) and the Australia-India 
-Economic Cooperation and Trade Agreement 
-(ECTA).
-Our analysis focuses on the above three crucial 
-arrangements between India and its regional 
-partners. Collectively, these FTAs cover more 
-than 50% of West Bengal's exports by country. 
-The India-UAE CEPA presents a substantial 
-opportunity for West Bengal's export sector. 
-Signed on February 18, 2022, and in force since 
-May 1, 2022, this agreement eliminates duties on 
-97% of the UAE's tariff lines, offering immediate 
-zero-duty access to labour-intensive sectors 
-such as Gems and Jewellery, Textiles, Leather, 
-and more. With the UAE accounting for 12% 
-of West Bengal's exports in FY2023, this opens 
-up significant market access for products with 
-a competitive edge, especially in commodity 
-groups encompassing Fish, Dairy Produce, 
-Animal and Vegetable Fats, Sugars, and Chemical 
-Products. The certification process by the UAE's 
-Ministry of Economy ensures compliance with 
-rules of origin criteria, securing the benefits.
-West Bengal's exports to SAFTA (South Asian 
-Free Trade Area) member countries, constituting 
-over 30% of total exports in FY2023, are well-
-positioned to benefit from the trade arrangement. 
-Established in 2004 and effective since January 1, 
-2006, SAFTA prioritizes substantial manufacturing 
-processes, involving a Change of Tariff Heading 
-(CTH) at the four-digit Harmonized System (HS) 
-and a value content of 40% (30% for LDCSs). West 
-Bengal's strengths in key commodity groups 
-make it a strategic player in enhancing exports 
-to SAFTA nations. Another comprehensive 
-framework which can help boost goods, as 
-well as services exports to South Asia is the 
-India-ASEAN CECA (Comprehensive Economic 
-Cooperation Agreement), initiated on January 1, 
-2010, following six years of negotiations. Rooted 
-in the 2003 India-ASEAN CECA, this agreement 
-aims to deepen economic ties by reducing trade 
-and investment barriers. West Bengal's diverse 
-export basket, spanning textiles, chemicals, and 
-machinery, positions it favourably to leverage 
-the opportunities arising from the India-ASEAN 
-CECA.
-Signed on April 2, 2022, and effective since 
-December 29, 2022, the Australia-India Economic 
-Cooperation and Trade Agreement (ECTA) 
-facilitates reciprocal trade, where Australia 
-exports raw materials to India, and India exports 
-finished goods. The agreement ensures that 
-96% of imports from India are tariff-free, a figure 
-set to reach 100% by January 1, 2026. Notably, 
-this grants duty-free access to numerous Indian 
-goods, including textiles and leather, in the 
-Australian market. It is estimated that the trade 
-deal will help in almost doubling bilateral 
-commerce to $45–50 billion in about five years. 
-The potential for closer economic ties between 
-Australia and India is set to be enhanced through 
-the Comprehensive Economic Cooperation 
-Agreement (CECA), which will build upon the 
-outcomes of the ECTA.
-After an exhaustive analysis of commodities 
-under preferential taxation across these trade 
-agreements and tallying it with the major 
-commodities exported by West Bengal, we've 
-identified specific commodities (HS Code 2 
-digits) where West Bengal holds a competitive 
-advantage:
-1) HS Code 03 (Fish and crustaceans, molluscs, 
-etc.)
-2) HS Code 04 (Dairy produce, birds' eggs, etc.)
-3) HS Code 05 (Products of animal origin)
-4) HS Code 09 (Coffee, tea, mate, and spices)
-5) HS Code 12 (Oil seeds and oleaginous fruits)
-6) HS Code 13 (Lac, gums, resins, extracts, etc.)
-7) HS Code 14 (Vegetable plaiting materials, 
-etc.)
-8) HS Code 15 (Animal or vegetable fats and 
-oils)
-9) HS Code 17 (Sugars and sugar confectionery)
-10) HS Code 19 (Preparations of cereals, flour, 
-etc.)
-11) HS Code 21 (Miscellaneous edible 
-preparations)
+8
+Chart 5: Composition of West Bengal’s Exports
+Source: Ministry of Commerce and Industry
+The export landscape comprises of several 
+significant product categories:
+Iron and Steel
+In fiscal year 2023, raw iron and steel 
+exports were valued at US$1.6 billion, 
+contributing 12.4% to West Bengal’s total 
+exports, slightly down from 13.3% in fiscal 
+year 2022.
+Gems & Jewellery
+West Bengal is a notable exporter of gold 
+and other precious jewellery, holding the 
+second position among the state’s top 
+export commodities, with a substantial 
+share of 10.4% in fiscal year 2023.
+Leather Goods
+The export of leather goods, which 
+includes footwear and accessories, 
+showcases the state’s proficiency in the 
+leather industry, contributing 5.3% to West 
+Bengal’s total exports in fiscal year 2023.
+Marine Products
+West Bengal’s marine exports, including 
+fish and seafood, have gained recognition 
+in global markets, representing 5.2% of the 
+state’s overall exports in fiscal year 2023.
+In FY 2023, West Bengal exhibited a diverse 
+range of economic activities at the district 
+level. Starting with Kolkata, the capital city and 
+economic hub of West Bengal, the city exported 
+a wide range of goods, including seafood, tea, 
+leather goods, machinery parts, electronics, 
+textiles, and more. Notable exports included 
+shrimp, black tea, leather goods, machinery parts, 
+and smartphones. Kolkata’s diverse economy 
+contributed significantly to West Bengal’s 
+trade. Howrah, known for its industrial and 
+manufacturing sector, exported machinery parts, 
+and iron & steel products. It also dealt in leather 
+goods, gloves for industry, and smartphones. In 
+24 Paraganas North, shrimp was the dominant 
+export item, accounting for US $91.2 million 
+in trade value. This district also had significant 
+exports of wheat and related products like 
+bran sharps, reflecting its involvement in the 
+agriculture sector. Additionally, handbags and 
+shopping bags of cotton and jute handbags/
+shopping bags were notable exports. Moving to 
+24 Paraganas South, seafood was a prominent 
+export as well, with a focus on shrimp. Besides 
+seafood, it engaged in the export of petroleum 
+products, including high flash high-speed diesel 
+fuel and plastics and related articles. Handbags, 
+wallets, and leather goods were other key exports 
+from this district. A relatively small but very 
+important exporter, Darjeeling, renowned for its 
+tea, primarily exported black tea. It also traded 
+in various cereals and other food preparations.

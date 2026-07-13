@@ -1,202 +1,68 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-109-C04
 Parent Doc ID: A-RES-109
-Page Range: Page 9 to Page 11
-Word Range: 4463 - 5980
-Word Count: 1,518
+Page Range: Page 2
+Word Range: 757 - 1006
+Word Count: 250
 --------------------
 
-[Page 9]
-105 99
-103115 101
-12755
-141
-25
-13
-15
-41
-27
-6539
-111 137
-47
-5133
-3531
-75
-61 69
-81
-109
-5963
-79
-129
-119
-49
-117
-91
-143 145
-85
-125
-13973
-121
-9
-89
-95
-29
-71
-87
-37
-7
-123
-53
-17
-107
-43
-23
-57
-21
-19
-77
-45
-83 97
-1
-67
-135
-Cluster 1
-Cluster 2
-Cluster 3
-Cluster 4
-Figure 3.
-Clustering of the
-bibliographic coupled
-network (2002– 2014)
-Centrality
-Cluster Article[ID] Degree Closeness Betweenness Eigenvector
-1 Reardon et al. (2012) [119] 28 [1] 0.5666 [1] 210.72 [1] 0.3863 [1]
-Blandon et al. (2010) [79] 21 [4] 0.5312 [4] 25.4390 0.3083 [2]
-Minten et al. (2009) [61] 23 [2] 0.5440 [2] 47.14 [5] 0.2977 [3]
-Dries et al. (2009) [63] 23 [3] 0.5440 [3] 49.95 [3] 0.2945 [4]
-Amekawa (2009) [67] 19 0.5037 25.1237 0.2852 [5]
-Neilson (2007) [29] 21 [5] 0.5312 [5] 24.5658 0.283423
-Dries et al. (2014) [129] 17 0.527132 97.33 [2] 0.255
-Gorton et al. (2007a) [35] 13 0.503704 47.35 [4] 0.177016
-2 Freidberg et al. (2011) [89] 35 [1] 0.6415 [1] 216.88 [2] 1 [1]
-Ilbery et al. (2006a) [17] 34 [2] 0.6238 [2] 162.59 [3] 0.9990 [2]
-Higgins et al. (2008) [43] 29 [3] 0.5762 [5] 39.92 [4] 0.9379 [3]
-Peter et al. (2010) [73] 27 [5] 0.561983 11.92 0.9136 [4]
-Risku Norja et al. (2008) [37] 29 [4] 0.5913 [3] 333.50 [1] 0.9133 [5]
-Miewald et al. (2013) [121] 26 0.5862 [4] 20.18 0.895454
-Connell et al. (2008) [45] 24 0.548387 38.54 [5] 0.80648
-3 Croom et al. (2007) [27] 27 [4] 0.5913 [3] 30.25 [5] 0.9057 [1]
-Kottila et al. (2008) [39] 31 [1] 0.6071 [1] 125.37 [3] 0.8916 [2]
-Fischer et al. (2009) [65] 31 [2] 0.6071 [2] 136.75 [2] 0.8512 [3]
-Leat et al. (2008) [41] 28 [3] 0.5862 [4] 192.25 [1] 0.7931 [4]
-Zander et al. (2014) [141] 12 [5] 0.4892 [5] 35.60 [4] 0.1918 [5]
-4 Mueller et al. (2014) [127] 6 [1] 0.3976 [1] 59.49 [2] 0.0442 [1]
-Van der Werf et al. (2009) [55] 5 [3] 0.3908 [2] 40.34 [4] 0.0431 [2]
-Flysjö et al. (2011) [103] 5 [4] 0.3906 [3] 68.28 [1] 0.0430 [3]
-Tarawali et al. (2011) [105] 3 0.3617 [4] 46.64 [3] 0.0127 [4]
-Christie et al. (2011) [101] 6 [2] 0.3177 [5] 14.60 [5] 0.0102 [5]
-Christie et al. (2012) [115] 4 [5] 0.290598 0.66 0.006975
-Table VI.
-The values and ranks
-[in bracket] of top 5
-articles based on at
-least one of the four
-measures of centrality
-during the period
-2002– 2014
-27
-Supply chain
-issues in SME
-food sector
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 10]
-common references with papers of this cluster and also with a number of other articles in the
-whole network.
-Closeness centrality is associated with a node ’s autonomy or independence in the whole
-network. A node with higher closeness centrality indicates that it is less reliant on other
-nodes and has a higher capacity for independent actions. From the results, we found that the
-works of {89} Freidberg et al. (2011), {17} Ilbery et al. (2006a), {39} Kottila et al. (2008) and
-{65} Fischer et al. (2009) have a high closeness centrality value, indicating the extensivity of
-their influence in the whole network. A node with high betweenness centrality specifies that
-it links various other nodes in the research domain, indicating that they play a more
-important role in the whole network than in the focal cluster. For example, the works of {37}
-Risku Norja et al. (2008), {89} Freidberg et al. (2011), {119} Reardon et al. (2012) and {41}
-Leat et al. (2008) have a high betweenness centrality value and serve as a bridge in the whole
-network connecting different clusters. From Table VI, it is clear that the articles from
-Clusters 2 and 3 have a higher betweenness centrality as compared to Cluster 4, implying
-that the research concepts of Cluster 4 have less association with other clusters.
-Eigenvector centrality considers whether a node has many neighbours or important
-neighbours or both. From Table VI, higher eigenvector centrality is observed for the articles
-in Cluster 2, followed by {27} Croom et al. (2007), {39} Kottila et al. (2008) and {65} Fischer
-et al. (2009) of Cluster 3. Cluster 4 has the least eigenvector centrality in which the lead
-articles have an eigenvector centrality of 0.0442, indicating that the research issue of these
-clusters has less influence in the network. To identify the research theme in each cluster, we
-further conducted a TM technique and established a co-word network as shown in Figure 4.
-After establishing the co-word network, the research concept of each cluster is then
-identified by measuring the network properties based on degree, closeness, betweenness
-and eigenvector centralities (Milojevic, 2013).
-The top 10 words in each cluster are identified by measuring the relative frequency of
-co-occurrence and centralities as presented in Table VII. The degree measure reported in
-Table VII shows that market economics of contract farming in SME FSC, alternative food
-network (AFN), supply chain relationship in the food industry and land use and emission
-impact of livestock systems are the research concepts of Clusters 1, 2, 3 and 4, respectively.
-It is observed from Table VII that the keywords Supply, Chain, Farmer, Food, Market and
-System are found in more than one cluster. These are bridging keywords that highlight the
-association between the clusters.
-It is also observed that Clusters 1 and 2 have more bridge keywords with high
-betweenness centrality, indicating their close association with other clusters. In Cluster 4,
-only one bridge keyword is identified from among the top 10 keywords, indicating that this
-sub-field has less association with the other clusters. It is worth noting that this bridge
-keyword has a high eigenvector centrality in few clusters and low eigenvector centrality in
-other clusters, indicating its importance within the clusters. The keyword “SME” appeared
-in Clusters 1 and 2 within the top 10, indicating its strong association with both the clusters,
-whereas it appeared at the 17th position with low centralities in Cluster 3, indicating its
-weak association with the theme of Cluster 3. It is also observed that the word “SME” did
-not appear in Cluster 4 during this period.
-3.2.1 Bibliographic network during 2002 – 2018. To trace the dynamic evolution of the
-research domain, we repeated the analysis after adding the research articles published from
-2015 to 2018. Since the data are almost doubled, we limited to at least seven couplings with
-minimum of two other articles resulting in the number of included articles to 228 (see
-Appendix 3). By applying the default Louvain algorithm in Gephi, the 228 bibliographic
-coupled articles are grouped into five clusters as shown in Figure 5. The modularity index of
-the network is 0.429, indicating a strong association between the nodes within and between
-the clusters.
-28
+[Page 2]
+t h eF S Ci n v o l v i n gS M E si sac h a l l e n g i n gt a s k .T h eS M E so ft h eF S Cn e t w o r k ss h o u l dw o r k
+collaboratively to deliver high-quality food to consumers (Mertinset al., 2012). Prakash (2018)
+investigated the food processing supply chain (FPSC) in the bilateral context of the UK and India
+and reported that the UK FPSC is highly integrated with a high degree of consolidation in
+upstream and downstream stages, whereas the Indian FPSC is long and fragmented.
+In the last few years, many food quality and safety issues are frequently reported. For
+instance, the milk scam disclosed in India fou nd that saturated fatty oil and powder were
+blended with the milk to increase the sale (Dandageet al., 2017). The FSC has received increasing
+attention from both academia and practitioners,as consumers are concerned about food quality
+a n ds a f e t y( M a h a j a net al., 2017). For a better understanding of this research domain, it is
+important to map and summarize the existing knowledge base through an effective literature
+review. However, reviews on this research area were focussed only on a specific food sector
+(Ganeshkumaret al.,2 0 1 7 ;B e get al., 2017; Denham et al., 2015) or a particular issue like food
+safety (Auler et al., 2017; Manning and Soon, 2016), food traceability (Dandage et al., 2017),
+environmental issues (Borodin et al. ,2 0 1 6 ;D e n h a met al. , 2015; Wiedemann et al. , 2015a),
+perishable food products (Siddhet al., 2015) and processed FSC (Prakash, 2018; Mahajanet al.,
+2017). It is observed that none of the previous literature map and summarize the existing
+knowledge base in the SME FSC domain (Luoet al., 2018). Most of the past reviews on the FSC
+are narrative as shown in Table I. A systemati c literature review (SLR) is preferred, as it
+outperforms other review methods since its characteristics, explanatory, heuristic nature,
+transparency and inclusivity, eliminate an y errors and bias occurred, thereby making the
+research result more objective (Denyer and Tranfield, 2009). To address this research gap, we
+present a SLR of SME FSC. A total of 1,091 resea rch articles published from 2002 to 2018 are
+collected from the Web of Science (WoS) database. We use bibliographic coupling (BC) combined
+with co-word analysis to identify the historical relations of the research themes that emerged
+during the periods 2002– 2014 and 2002– 2018. The broader thematic context is obtained for the
+period 2002– 2014, whereas the inclusion of recent articles (i.e. 2015– 2018) resulted in identifying
+the emerging research directions out of these broader issues.
+Research focus Review type
+Sl No. Author(s) Supply chain SMEs Food sector NLR SLR
+1 Prakash (2018) * * *
+2 Mahajan et al. (2017) * * *
+3 Beg et al. (2017) * * * *
+4 Gharehgozli et al. (2017) * * *
+5 Notarnicola et al. (2017) * * * *
+6 Dandage et al. (2017) * * * *
+7 Zhong et al. (2017) * * *
+8 Fassam and Dani (2017) * *
+9 Ganeshkumar et al. (2017) * * * *
+10 Auler et al. (2017) * * *
+11 Mahajan et al. (2017) * * *
+12 Manning and Soon (2016) * * *
+13 Fraser et al. (2016) * * *
+14 Borodin et al. (2016) * * * *
+15 Sjauw et al. (2016) * * * *
+16 Berti et al. (2016) * * * *
+17 Siddh et al. (2015) * * *
+18 Wiedemann et al. (2015a) * * * *
+19 Denham et al. (2015) * * *
+20 Fredriksson and Liljestrand (2015) * * *
+Notes: NLR, narrative literature review; SLR, systematic literature review. *Highlights the research focus
+and review type reported
+Table I.
+Recent reviews on
+food supply chain
+20
 JAMR
 17,1
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 11]
-Clusters 1 and 2 have received much attention since they include 75 and 60 papers,
-respectively, among the 228 articles. Clusters 3 and 4 have received considerable attention with
-51 and 33 papers, respectively. Being a smaller sub-field, only nine articles are included in
-cluster 5. The top five articles in each cluster, based on at least one of the four measures of
-centrality, are given in Table VIII. Recent papers have appeared in Clusters 2 – 5, whereas the
-works of {431} Ilbery et al. (2006a), {419} Higgins et al. (2008), {417} Risku Norja et al. (2008)
-and {381} Freidberg et al. (2011) of 2002– 2014 appeared in the first cluster, signifying their
-influence in the complete network. This is due to the fact that BC is able to cluster very recent
-articles but it clusters few very old research papers (Boyack and Klavans, 2010). Among the
-recent articles, the works of {227} Forssell et al. (2015), {187} Giampietri et al. (2016a) and
-{169} Kulak et al. (2016) have a high degree closeness and eigenvector centrality. The
-betweenness centrality is found to be high for {291} Tsolakis et al. (2014), {275} Freidberg
-(2014) and {379} Fischer et al. (2009), which serves as a bridge in the whole network
-connecting different clusters. Similarly, the eigenvector centrality of the articles in the first
-cluster is higher, followed by {169} Kulaket al. (2016) and {225} Kulaket al. (2015) of Cluster 3.
-Cluster 5 has the least eigenvector centrality in which the lead articles have an eigenvector
-centrality of 0.0752, indicating that the research issue of these clusters has less association
-with other clusters in the network. To identify the research theme in each cluster, we further
-conducted a TM technique and established a co-word network as shown in Figure 6.
-Cluster 1 Cluster 2
-Cluster 3 Cluster 4
-Figure 4.
-Gephi visualization
-results of text mining
-using StanfordNLP
-within each cluster
-(2002– 2014)
-29
-Supply chain
-issues in SME
-food sector
 Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

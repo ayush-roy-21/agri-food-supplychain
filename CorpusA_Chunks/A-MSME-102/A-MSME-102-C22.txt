@@ -1,216 +1,115 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-102-C22
 Parent Doc ID: A-MSME-102
-Page Range: Page 108 to Page 111
-Word Range: 28308 - 29694
-Word Count: 1,387
+Page Range: Page 36 to Page 37
+Word Range: 5872 - 6143
+Word Count: 272
 --------------------
 
-[Page 108]
-108
-In the Indian context, clusters cater to diverse markets, spanning local, regional, national, 
-and international levels. However, the success of these clusters should not be solely gauged 
-by international market links. Instead, there should be a shift towards emphasising product 
-diversification and enhancing local technological capabilities. While export-oriented strategies 
-are crucial, acknowledging the strong presence of a large, segmented domestic market is 
-essential—a dimension sometimes overlooked in discussions on value chain analyses.
-To enhance the cluster development program for micro and small enterprises in India, 
-revisiting the definition of clusters is imperative. Regional policymakers can leverage cluster 
-policies as a pragmatic and convenient place-based organising principle, demonstrating 
-political commitment, pursuing an innovation policy mix, efficiently mobilising public 
-resources, and prioritising strategic regional sectors. Personalised services to SMEs, 
-addressing regional research and innovation weaknesses, should be offered. These services 
-can assess and review the innovation capabilities of private companies, providing roadmaps 
-for improvement. Additionally, clusters can be pivotal in promoting university-industry 
-collaboration, essential for fostering innovation, knowledge transfer, and strengthening 
-regional competitiveness. Clusters should actively encourage broader collaboration among 
-public and private research and technology organizations, serving as catalysts for collaborative 
-innovation activities between universities and industries.
-Cluster specific Recommendations
-A dominance of upstream activities is observed in almost all clusters. This may suggest 
-reliance on raw material processing and intermediate production stages rather than focusing 
-on higher-value end products, which can challenge enterprise competitiveness. 
-Cluster Recommendations  Regions to focus on 
-Textile 
-Manufacturing 
-and Apparel
- » SMEs in Textile Manufacturing should focus on high-
-value product design, local branding, customisation, 
-integrated supply chain services, and higher product 
-quality. Overall, India’s GVC integration should move 
-toward higher value-generating downstream activities 
-such as readymade garments (or clothing or apparel.
- » To achieve these objectives without increasing costs, 
-they should collaborate with overseas and Indian 
-design schools, invest in new product technology, 
-partner with high-end retail outlets, link supply chains 
-electronically, and invest in capital equipment and local 
-training institutions for process innovation, product 
-management, and quality control.
- » The Economic Survey 2024 highlighted technological 
-obsolescence as a significant contributor to problems 
-in the textile and apparel industry. This necessitates 
-investment in technology upgradation, especially in 
-weaving and processing segments.
- » Improving the brand image of Indian apparel and 
-garments is needed to increase the unit value 
-realisation (UVR).
-The analysis indicates regional 
-specialisation in
- » Textile manufacturing in Surat, Panipat, 
-Sant Ravidas Nagar, Ludhiana, Varanasi, 
-Imphal East, Tiruppur, Namakkal, and 
-Erode.
- » Apparel manufacturing in Tiruppur, 
-Ludhiana, Haulakandi, Bangalore, Erode, 
-Supaul, Coimbatore, Kaushambi, Gautam 
-Buddha Nagar and Sant Ravidas Nagar
-To ensure economies of scale happen, 
-districts around these regions should 
-become more competitive.
+[Page 36]
+36
+Understanding 
+MSMEs Challenges
+Chapter 1 
+for Enhancing Competitiveness
 
-[Page 109]
-109
-Food Processing 
-Cluster 
- » Agri-food policy actively directed at developing a link 
-between production and processing is the need of 
-the hour. For example, GoI efforts to put Millet Indian 
-products on the global map
- » Maximise value added throughout the supply chain by 
-improving current processes and through innovation. 
-For Example: Combining goods-in-transit insurance 
-with sensor-based cargo tracking devices can help 
-reduce damage to property and goods in transit
- » Stagnant market share in food products; Need to 
-diversify into other by-products -and develop other 
-niche markets.
- » At the state level, branding guidance for agricultural 
-products for MSME projects and food cluster formation 
-is needed.
-The analysis indicates regional 
-specialisation in:
- » Food Processing and Manufacturing 
-in Tinsukia, Dakshin. Bastar Dantewada, 
-Kiphire, Mahoba
- » Local Food and Beverage Processing 
-and Distribution This cluster is present 
-in most of the districts of India.
-It must be noted that regional 
-specialisation is almost low and stagnant, 
-as more than 60 % of districts have lower 
-LQ, which lies between 2 and 0. Since 
-it’s a traded cluster and employs most of 
-the MSME sector, immediate steps are 
-required to improve the productivity of this 
-cluster across India.
-Strengthening efforts in the northeastern 
-and eastern belts of India are urgently 
-needed. Due to the uniqueness and 
-diversity of the food products, these belts 
-demonstrate huge potential for integration 
-in GVCs.
-Chemical Cluster  » For SMEs involved in chemical products, the integrated 
-ecosystem is crucial, but the biggest challenge is 
-attracting and retaining skilled workers.
- » State governments should focus on expanding the 
-pool of engineers and researchers through increased 
-collaboration domestically and international students.
- » Due to their lower bargaining power, SMEs face higher 
-barriers to regulatory and compliance efforts regarding 
-products. To further minimise risk, compliance and 
-regulatory efforts need to be streamlined.
- » Moreover, building stronger marketing capabilities is 
-imperative to facilitate progress downstream in the 
-value chain.
- » Investments in Industry 4.0, such as predictive 
-maintenance, data analytics, and supply chain 
-optimisation tools, can enhance productivity and 
-reduce costs
- » Reducing dependence on imported raw materials, 
-particularly from China, can be crucial for MSMEs. 
-Exploring alternative domestic suppliers or developing 
-more resilient supply chains can lower input costs.
-The analysis indicates regional 
-specialisation in:
- » Upstream Chemical Products in 
-Bharuch, Gwalior, Gandhinagar, Medak, 
-Nainital, Valsad, Palamu, Raigarh and 
-Uttara Kannada, Samba, Palwal and 
-Ujjain 
- » Downstream Chemical Products in 
-Virudhunagar, Dadra and Nagar Haveli, 
-Prayagraj, Bharuch, Karaikal, Sagar and 
-Thoothukkudi
-More focus must be placed on targeting 
-MSMEs and strengthening their 
-dominance in both sub-clusters.
-
-[Page 110]
-110
-Automotive 
-Cluster 
- » Investment in Intangible Assets
-MSMEs in the automotive cluster prioritize tangible 
-assets over intangible ones like research and 
-development (R&D), design, and innovation. This limits 
-their ability to develop unique products and compete 
-globally in a rapidly evolving automotive sector. 
-This requires a shift in focus towards R&D, product 
-development, and innovation through tax incentives 
-and grants. It also necessitates establishing dedicated 
-innovation hubs and incubation centers to assist MSMEs 
-in adopting advanced technologies and fostering a 
-culture of creativity.
- » Dependence on Larger Market Players
-MSMEs often operate as suppliers or subcontractors in 
-the value chain, with limited freedom to explore markets 
-independently. This dependence restricts their growth 
-and bargaining power.
-Promote cooperative frameworks within the value chain 
-to ensure knowledge sharing and skill development. 
-Create platforms that connect MSMEs directly to global 
-markets, enabling them to expand their operations 
-beyond a dependent role.
- » Foster “Design and Innovation” Culture
-Support MSMEs to transition into design-focused 
-enterprises by providing training programs, incubation 
-centres, and financial assistance for innovation projects
-The analysis indicates regional 
-specialization in automotive clusters such 
-as Gurgaon, Saraikela-Kharsawan, Rewari, 
-Udham Singh Nagar, Faridabad, and Pune, 
-showcasing higher Location Quotient.
-
-[Page 111]
-111
-Key Takeaways
-Access to Finance to fund MSME growth 
- » While MSMEs have gained better access to loans, a significant credit gap still exists in 
-the sector. To address this issue, recommendations include reforming the CGTMSE by 
-enhancing regulatory oversight and further reducing risk premiums for borrowers seeking 
-CGTMSE funding.
- » Given their success in providing credit to MSMEs, especially in remote areas, NBFCs need to 
-scale up their operations. A crucial step in this process is for the SIDBI to play a significant 
-role by providing funding to help NBFCs improve their capacity and governance structures.
- » At the state level, lowering eligibility barriers for schemes that offer subsidies for capital 
-and interest on loans will better address the financing needs of MSMEs throughout their 
-lifecycle.
-Skilling and Manpower Growth
- » The manpower needs of MSMEs in India demand significant investments in STEM 
-education. To meet the requirements of a rapidly evolving job market, training programs 
-must be aligned with current industry needs and provide last-mile connectivity, particularly 
-for micro-enterprises located in rural areas.
- » Additionally, it is crucial to address the existing skills gap by reforming formal vocational 
-education and technical training. There should be a focus on improving financial literacy and 
-operational skills to effectively bridge these gaps.
- » To expand and enhance existing training initiatives, more states should offer partial 
-subsidies for employment training. It is important to ensure that training curricula are 
-regularly updated and relevant to the changing needs of the MSME sector.
- » Moreover, skill development initiatives must be made easily accessible, especially for MSMEs 
-that face challenges due to their location or size. These initiatives should be designed to be 
-practical and immediately applicable to daily operations.
-Technological Development and Innovation
- » Indian MSMEs need to strengthen supply chain linkages with additional requirements of 
-affordable digital risk management solutions to track supply chains, monitor inventory, and 
-manage logistics in real time.
+[Page 37]
+37
+GVCs serve as critical facilitators of the international exchange 
+of investment, knowledge, and managerial practices that are 
+in line with global standards, thereby significantly bolstering 
+domestic businesses
+I
+ndian MSMEs grapple with a myriad of challenges, ranging from difficulties in timely 
+access to information, irregular and inappropriate financial resources, shortage of 
+quality human capital, access to credit and low-cost technology, and the prevalence of 
+large-scale informality that impedes their growth trajectory (Kapoor, 2023). According to 
+an enterprise survey by the World Bank, the following are the biggest obstacles SMEs face 
+in India.  
+Existing research highlights key obstacles hindering the growth and competitiveness 
+of Micro, Small, and Medium Enterprises (MSMEs) in India. A thorough examination and 
+comprehension of these concerns are crucial for developing successful strategies and 
+interventions to overcome the challenges MSMEs encounter, thereby enhancing their 
+resilience and competitiveness in the Indian economy.
+Biggest Obstacles 
+faced: By 
+manufacturing and 
+services SMEs in 
+India- 2022
+Fig. 3
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Percent 
+of firms 
+choosing 
+customs 
+and trade 
+regulations as 
+their biggest 
+obstacle
+Percent 
+of firms 
+choosing 
+electricity as 
+their biggest 
+obstacle
+Percent 
+of firms 
+choosing 
+inadequately 
+educated 
+workforce as 
+their biggest 
+obstacle
+Percent 
+of firms 
+choosing 
+labor 
+regulations 
+as their 
+biggest 
+obstacle
+Percent 
+of firms 
+choosing 
+political 
+instability 
+as their 
+biggest 
+obstacle
+Percent 
+of firms 
+choosing 
+practices of 
+the informal 
+sector 
+as their 
+biggest 
+obstacle
+Percent 
+of firms 
+choosing tax 
+administration 
+as their 
+biggest 
+obstacle
+Percent 
+of firms 
+choosing 
+tax rates as 
+their biggest 
+obstacle
+Source: Enterprise 
+Survey, World Bank 
+2022
+2022 Manufacturing
+2022 Services

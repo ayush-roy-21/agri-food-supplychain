@@ -1,248 +1,56 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-105-C02
 Parent Doc ID: A-RES-105
-Page Range: Page 5 to Page 8
-Word Range: 1486 - 3082
-Word Count: 1,597
+Page Range: Page 2
+Word Range: 393 - 642
+Word Count: 250
 --------------------
 
-[Page 5]
+[Page 2]
 Journal of Decision Analytics and Intelligent Computing 2(1) (2022) 36-52 Verma et al. 
- 40  
+ 37  
  
-From secondary database, scopus has been used for identifying the critical factors for sustainable supply chains in 
-SMEs and to evaluate the underpinning theories. It is crucial to decide the essential metrics to be measured when 
-assessing individual SSCM regions' significance. T his system is especially relevant when empirical field research 
-contradicts the hypothetical conceptualization of a study by Ashby (1986).  The Table 2 presents survey of 
-literature emphases on 3 factors of industry, social, and, most notably, ecological factors.  
-Table 2. Critical success factors for sustainable supply chain 
-  
-S.No. Critical Success Factors (CSFs) Author(s) 
- Organizational commitment 
-1.  Initiation and commitment of top management Bhadu et al (2022); Joseph et al.,(2022); Joshi et 
-al. (2020);  Gao et al. (2022) 
-2.  Strategic planning 
-Araújo et al. (2022); Joshi et al. (2020); Veskaisri 
-et al., (2007); Bautista et al. (2019); Prakash et al 
-(2020);Sharma et al. (2022) 
-3.  Enhanced brand image Joshi et al. (2017); M'zungu et al. (2019)  
-4.  Human resources management practices Li et al. (2019); Singh et al. (2020); Sharma et al. 
-(2021); L'Écuyer et al. (2019).   
-5.  Long-term vision for survival and growth 
-Didonet et al. (2020); Yusoff (2018);  
-Manzaneque-Lizano et al. (2019); Makhloufi et 
-al. (2022);  Prasad et al. (2015) 
-6.  Focus on core strengths 
-Bada, and Nurse (2019); Ng et al. (2019); 
-Mohammad and Oduoza, (2019); Mou et al. 
-(2018).   
-7.  Development of effective SCM strategy Valdez-Juárez  et al., (2018); Wang et al. (2022); 
-Zaridis et al. (2021) 
-8.  R&D spending by organizations 
-Brouthers, and Nakos, (2004); Ćudić et al., 
-(2022); Dinnetz and Mireles, (2022); Shantanu et 
-al., (2018); Tsai et al.(2022).  
-9.  Willingness towards investment 
-Khandelwal and Singh (2022); Joshi, S. (2018); 
-Côté et al. (2022);   Kalinic, I., & Brouthers, K. D. 
-(2022). 
-Joshi et al. (2018); Luthra et al. (2022);  
-Rodríguez-Espíndola et al., (2022) 
-10.  Benchmarking system 
-Joshi, S., & Sharma, M. (2014); Gress and 
-Kalafsky (2022); Garcia-Alonso et al. (2022) 
-Gress, D. R., & Kalafsky, R. V. (2022).;  García-
-Alonso Wankhede, V. A., & Vinodh, S. (2022). 
-Benchmarking Industry 4.0 readiness evaluation 
-using fuzzy approaches. Benchmarking: An 
-International Journal. 
-11.  Performance measurement system Tsai et al. (2022); Naeem, and  Garengo,(2022);  
-Kim (2022).   
-             Legislation/ Government support 
-12.  Central government legalizations Joshi, and Sharma (2021); Reim et al. (2022);
-
-[Page 6]
-Journal of Decision Analytics and Intelligent Computing 2(1) (2022) 36-52 Verma et al. 
- 41  
+green operations with initiatives for organizational improvement are de fined as serious issues for establishing a 
+successful green supply chain ( Kashyap, and Shukla, 2022).  Majority of SMEs are privately held businesses and 
+seldom actively seek study and publishing of effective practices, it is not easy to find success storie s in the 
+implementation of sustainability. 
+1.1 Sustainability research in SME domain 
+Most academic research work in context to sustainable practices and performances is more focused on larger 
+firms while small and medium firm got relatively little attentions (Das et al., 2020; Joshi, 2018). Due to variation in 
+scale and scope of operations, assessment of sustainable practices and its performance, need to be examined 
+separately in the case of SMEs vis-à-vis larger firms (Joshi and Joshi, 2016). Several researchers have attempted to 
+explain crucial success measures in controlling the supply chain for sustainability, but they do not take all aspects 
+into account. Research on Sustainability in SMEs Supply Chain Management is still at an initial level and substantial 
+research work has not been accompanied by statistical data. All aspects of experience in the field are not taken 
+into consideration by the ideas that are being used in SSCM. The success of the business is more related to financial 
+and environmental ap proaches and there is a difference in the human and social dimensions of sustainability 
+(Shanker et al., 2021; Sharma et al., 2022).Authors reveal in their study most of the research uses PLS to calculate 
+sustainability in supply chain management, Future s tudy can be done through different SEM tools (Luthra et al, 
+2022; Mardani et al., 2020). In the end we can highlights the following broad breaches in SSCM exercises at SMEs: 
+1. The study of Critical achievement issues in a context of particular region to attain sustainability in supply 
+chain management of SMEs. 
+2. Impact of CSF or sustainable supply chain practices on all three domains: the economic, Environmental 
+and social performance of SMEs. 
+3. Development of model focused on supplier management practices and op erational management 
+practices and their performance outcomes at SMEs in all three areas economic, social and 
+environmental. 
+To check the operational feasibility of sustainable supply chain model developed. 
+2. Literature review 
+2.1 Theoretical framework 
+In response to the aforementioned questions, authors applied theories of the supply chain (Table 1): institutional 
+theory, a resource -based perspective (RBV). Environmentally friendly SCM literature has more widely utilized 
+these ideas  (Hafeez, & Andersen, 2014; ; Kazlauskaitė et al., 2015; ; Karim et al., 2022; Kamble et al.,2019).  
  
-Kaneko, 2022; Joseph, and Dhanabhakyam 
-(2022); Sharma et al (2021) 
-13.  State government legalizations Joshi, S., & Sharma, M. (2021a); Reim et al 
-(2022); Friery,(2022).   
-14.  Government policies and programs Joshi, S., & Sharma, M. (2021b); Mina et al (2021)  
-15.  Government funding for technology 
-development programs 
-Ghimire and Kim (2018); Joshi et al (2022);  Guo 
-et al., (2018); Mazzucato (2018).   
-16.  Pressure from non-government organizations 
-(NGOs) lobby 
-Brouthers, and Nakos, (2004); Ćudić et al., 
-(2022); Dinnetz and Mireles, (2022); Shantanu et 
-al., (2018); Tsai et al.(2022). Joshi, S., Sharma, M., 
-Bisht, P., & Singh, S. (2021). 
-GSCM (Green Supply Chain Management) Implementation 
-17.  Organization's policy supporting GSCM Tsai et al. (2022); Naeem, and  Garengo,(2022);  
-Kim (2022);Joshi, et al (2022)  
-18.  Involvement of suppliers & vendors in green 
-activities 
-Sharma, M., Luthra, S., Joshi, S., & Kumar, A. 
-(2021). 
-19.  Motivation of suppliers & vendors towards 
-green practices 
-Sharma et al. (2021); Singh et al. (2020); Sharma 
-et al. (2021); L'Écuyer et al. (2019).  . 
-20.  Role of employees towards GSCM adoption 
-Brouthers, and Nakos, (2004); Ćudić et al., 
-(2022); Dinnetz and Mireles, (2022); Shantanu et 
-al., (2018); Tsai et al.(2022). 
-21.  Green design Li et al. (2019); Singh et al. (2020); Sharma et al. 
-(2021); L'Écuyer et al. (2019).   
-22.  Green Manufacturing Bhadu et al (2022); Joseph et al.,(2022); Joshi et 
-al. (2020);  Gao et al. (2022)Sharma et al. (2022b) 
-23.  Green purchasing Li et al. (2019); Singh et al. (2020); Sharma et al. 
-(2021); L'Écuyer et al. (2019); Joshi et al (2019) 
-24.  Green organizational culture 
-Brouthers, and Nakos, (2004); Ćudić et al., 
-(2022); Dinnetz and Mireles, (2022); Shantanu et 
-al., (2018); Tsai et al.(2022). 
-25.  Competitors pressures towards greening Joshi, S., Sharma, M., & Rathi, S. (2017). 
-              Information Sharing/ Technology 
-26.  Information sharing with SC members Joshi, S., Sharma, M., & Singh, R. K. (2020a). 
-27.  Technology transfer to suppliers & vendors 
-Didonet et al. (2020); Yusoff (2018);  
-Manzaneque-Lizano et al. (2019); Makhloufi et 
-al. (2022);  Prasad et al. (2015) 
-28.  Encouragement to technology advancement and 
-adoption Joshi, S., Singh, R. K., & Sharma, M. (2020b). 
-29.  Technical know-how and training of 
-entrepreneur 
-(Joshi et al., 2020; Khoja et al., 2022; Klewitz et 
-al., 2014;Sharma et al., 2019; Shibin et al., 2020) 
+Table 1. Key Theories in Supply Chain Management 
+Theory Description Reference 
+RBV (Resource based View 
+Theory) 
  
-30.  IT enabled system support Sharma et al. (2009) 
-   Inter-departmental cooperation/ Internal business performance 
-31.  Encouragement from customers   Veskaisri et al., (2007); Bautista et al. (2019); 
-Sharma, M., Luthra, S., & Joshi, S. (2022). 
-32.  Workplace management 
-Didonet et al. (2020); Yusoff (2018);  
-Manzaneque-Lizano et al. (2019); Makhloufi et 
-al. (2022);
-
-[Page 7]
-Journal of Decision Analytics and Intelligent Computing 2(1) (2022) 36-52 Verma et al. 
- 42  
- 
-33.  Supply chain members' awareness and literacy 
- 
-Kamble et al. (2019);Araújo et al. (2022); Joshi 
-et al. (2020); Veskaisri et al., (2007); Bautista et 
-al. (2019); Prakash et al (2020);Sharma et al. 
-(2022) 
-34.  Awareness level of customers Yusoff (2018);  Manzaneque-Lizano et al. 
-(2019); Makhloufi et al. (2022) 
-35.  Economic benefits 
-Didonet et al. (2020); Yusoff (2018);  
-Manzaneque-Lizano et al. (2019); Makhloufi et 
-al. (2022);  Prasad et al. (2015) 
-36.  Firm's competitiveness 
-Yusoff (2018);  Manzaneque-Lizano et al. 
-(2019); Makhloufi et al. (2022) 
-Karim et al (2022) 
-37.  Logistics synchronization Li et al. (2019); Singh et al. (2020); Sharma et 
-al. (2021); L'Écuyer et al. (2019).   
-38.  Higher flexibility in production system 
-(Joshi et al., 2020; Khoja et al., 2022; Klewitz et 
-al., 2014;Sharma et al., 2019; Shibin et al., 
-2020) 
- 
-39.  Development of reliable suppliers 
-Araújo et al. (2022); Joshi et al. (2020); 
-Veskaisri et al., (2007); Bautista et al. (2019); 
-Prakash et al (2020);Sharma et al. 
-(2022)Sharma et al. (2022a) 
-40.  Developing just in time (JIT) capabilities in 
-system (Yang et al., 2020; Husein and Zayed, 2020) 
-41.  Trust development in SC partners 
-Didonet et al. (2020); Yusoff (2018);  
-Manzaneque-Lizano et al. (2019); Makhloufi et 
-al. (2022);  Prasad et al. (2015) 
-42.  Forecasting of demand on point of sale (POS) 
-Yusoff (2018);  Manzaneque-Lizano et al. 
-(2019); Makhloufi et al. (2022); Sharma, M., & 
-Joshi, S. (2019a). 
-43.  Prior working experience and occupational 
-background 
-(Joshi et al., 2020; Khoja et al., 2022; Klewitz et 
-al., 2014;Sharma et al., 2019; Shibin et al., 
-2020) 
- 
-44.  Enforcement Khoja et al., 2022; Klewitz et al., 2014;Sharma 
-et al., 2019; Kumar et al. (2022) 
-45.  Strict supervision 
-Khandelwal and Singh (2022); Joshi, S. (2018); 
-Côté et al. (2022);  Kalinic, I., & Brouthers, K. D. 
-(2022);Joshi, S., Agarwal, R., & Madan, P. 
-(2018) 
- 
-46.  Compliance statement 
-Didonet et al. (2020); Yusoff (2018);  
-Manzaneque-Lizano et al. (2019); Makhloufi et 
-al. (2022);  Prasad et al. (2015) 
-47.  Effective communication platform within 
-companies and with suppliers 
-Araújo et al. (2022); Joshi et al. (2020); 
-Veskaisri et al., (2007); Bautista et al. (2019); 
-Prakash et al (2020);Sharma et al. 
-(2022)Sharma, M., & Joshi, S. (2019b).
-
-[Page 8]
-Journal of Decision Analytics and Intelligent Computing 2(1) (2022) 36-52 Verma et al. 
- 43  
- 
- 
-4. Illustrative example and results 
-The Indian F& B SMEs are experiencing major challenges in market climate to strengthen its sustainability 
-performance while enhancing its revenues. Nonetheless, SMEs are in an even more difficult position in this market. 
-They are aggressive to thrive in intense oppositi on with large corporations, whilst also being blamed for poor 
-environmental results by both domestic and international clients. An image of the current state of management 
-practices and its influence on organisational efficiency can be drawn on the base of the empirical outcomes of this 
-report.This research finds that SMEs in an Indian manufacturing industry are mindful of the importance of 
-environmental practices for businesses and individuals. They understood the effect of environmental practices on 
-firm performance. Price is therefore one of several major components that perform a crucial role when 
-implementing sustainability practices more broadly. One of the barriers to effectively adopting these practices is 
-a lack of awareness about the best approach to implementing sustainable practices.In addition, there is limited 
-debate among scholars on how to interpret the effect of sustainable practices on operational efficiency, 
-              Environmental & Socio-cultural enablers 
-48.  Environmental education and training Le, T. T., & Ikram, M. (2022) 
-49.  Ethical standards and corporate social 
-responsibility 
-Brouthers, and Nakos, (2004); Ćudić et al., 
-(2022); Dinnetz and Mireles, (2022); Shantanu 
-et al., (2018); Tsai et al.(2022). 
-50.  Environmental policy 
-Bada, and Nurse (2019); Ng et al. (2019); 
-Mohammad and Oduoza, (2019); Mou et al. 
-(2018).   
-51.  High costs for disposal of hazardous 
-materials/components/products Sharma, M., Joshi, S., & Kumar, A. (2020b). 
-     Networks/ Linkages 
-52.  Linkage capability 
-Bautista et al. (2019); Prakash et al 
-(2020);Sharma et al. (2022)Sharma, M., & 
-Joshi, S. (2019b); Li, S., Rees, C. J., & Branine, 
-M. (2019) 
- 
-53.  SME networks ); Bautista et al. (2019); Prakash et al (2020); 
-Sharma et al (2021). 
-54.  Collaboration between industry and academia 
-Araújo et al. (2022); Joshi et al. (2020); 
-Veskaisri et al., (2007); Bautista et al. (2019); 
-Prakash et al (2020) 
-55.  Global marketing 
-Brouthers, and Nakos, (2004); Ćudić et al., 
-(2022); Dinnetz and Mireles, (2022); Shantanu 
-et al., (2018);Sharma, M., & Joshi, S. (2012). 
-Resources  
-56.  Project Resources and capabilities  
-57.  Scarcity of natural resources Sharma et al. (2020a) 
-58.  Devoted resources for supply chain  Sharma, M., Gupta, M., & Joshi, S. (2019).
+“The Sustainable value proposition of an organisation 
+originates from its important, unusual, inimitable, 
+non-substitute resources and the specific way in 
+which core capabilities are used” 
+(Hafeez, & Andersen, 
+2014; Kazlauskaitė et al., 
+2015; Karim et al., 2022; 
+Kamble et al.,2019).

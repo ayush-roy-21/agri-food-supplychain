@@ -1,0 +1,49 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C42
+Parent Doc ID: A-RES-103
+Page Range: Page 26
+Word Range: 11387 - 11636
+Word Count: 250
+--------------------
+
+[Page 26]
+25 
+kidney, fat & skin, body fluid (serum), farm water and feed.  At the time of the visit, no 
+validation had been performed for these other matrices. In this respect there has been no 
+change to what was found during the 2018 audit  and thus Recommendation 3 of that 
+audit report has not been addressed fully.  The use of unvalidated methods for official 
+controls testing is contrary to what would be required in the EU (55). Evidence was seen 
+of the inclusion of a recovery check spiked matrix for non- validated matrices in recent 
+analysis batches for anticoccidials (B2b) in liver.  Whilst this is a sensible approach, 
+there was no documented procedure indicating how the recovery data was applied to 
+mitigate the non-validated status of these matrices and the laboratory had yet to analyse 
+these recovery data with a view to validating matrices other than poultry muscle.  
+73. During the audit, the laboratory proposed to submit data for a two- day mini validation 
+for the outstanding matrices. After the audit, validation results  were submitted to the 
+audit team for tetracyclines, quinolones and sulphonamides (Group B1) in kidney, liver 
+and fat by LC -MS/MS. The files r eceived did not include a comparison of the 
+calculated validation parameters for the new matrices to poultry muscle. Thus the audit 
+team could still not conclude that the method was fit for purpose for matrices other than 
+muscle. No further validation details were received for any of the other laboratory 
+methods in poultry matrices.  
+5.1.6.4 MPEDA Kochi 
+74. The audit team assessed the validation files for the following methods: 
+- nitrofurans and chloramphenicol (Group A6) in shrimp and fish by LC-MS/MS; 
+- malachite green (Group B3e) in shrimp and fish by LC-MS/MS; 
+- tetracyclines, sulphonamides and beta-lactams (Group B1) in shrimp and fish by LC-
+MS/MS. 
+All of these methods were found to be adequately validated with appropriate validation 
+criteria and concentration ranges applied in line with Decision 2002/657/EC which was 
+in force at the time of the validation . H owever, not all methods met the validation 
+requirements laid down in the most recent EU legislation (Regulation (EU) 2021/808).  
+The laboratory indicated that activities have already commenced to meet these more 
+recent EU requirements. 
+5.1.6.5 MPEDA Bhubaneswar 
+75. The audit team assessed the validation files for the following methods: 
+- nitrofurans (Group A6) in shrimp and finfish by LC-MS/MS; 
+- dyes (Group B3e) in shrimp and finfish by LC-MS/MS; 
+- tetracyclines and quinolones (Group B1) in shrimp and finfish by LC-MS/MS; 
+- chloramphenicol (Group A6) screening in shrimp by ELISA (PHT); 
+- nitrofurans (Group A6) screening in shrimp by ELISA (PHT). 
+ 
+(55) Article 3 of Regulation (EU) 2021/808.

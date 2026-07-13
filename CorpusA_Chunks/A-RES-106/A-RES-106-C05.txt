@@ -1,117 +1,60 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-106-C05
 Parent Doc ID: A-RES-106
-Page Range: Page 14 to Page 15
-Word Range: 5854 - 7377
-Word Count: 1,524
+Page Range: Page 3
+Word Range: 1119 - 1368
+Word Count: 250
 --------------------
 
-[Page 14]
-Rainforest Alliance (RA) and UTZ primarily emphasised environmental stewardship and sustainable 
-agricultural practices, with reported improvements in soil and water management, integrated pest man -
-agement (IPM), and training in sustainable techniques (Bandanaa et al., 2021 ; Fenger et al., 2017 ). However, 
-compliance and audit requirements increased costs for smallholder farmers, and environmental gains were 
-sometimes limited where conventional practices persisted and enforcement of environmental law was 
-weak (Bandanaa et al., 2021 ; Ingram et al., 2018 ).
-Fairtrade International (FI), especially in Ghana’s cocoa and banana sectors, was associated with stronger 
-social benefits, including improved labour conditions, minimum price guarantees, and enhanced organisa -
-tional capacity through cooperative membership (Nelson et al., 2013 ; Rijn et al., 2016 ). At the same time, FI 
-outcomes depended on the size and pass-through of price premiums and on the local governance of 
-producer organisations; in some contexts, benefits to individual farmers were constrained by how collective 
-funds were allocated (Nelson et al., 2013 ; Rijn et al., 2016 ).
-GlobalGAP focused on food safety, traceability, and quality assurance, facilitating access to high-value 
-markets but showing mixed livelihood effects once compliance costs were accounted for (Akrong et al., 
-2022 ; Stuart et al., 2018 ). Producers often needed investments in infrastructure, such as packhouses, cold 
-storage facilities, and protective equipment, as well as administrative procedures and record keeping. These 
-expenses could be prohibitive for smallholder farmers (Kleemann et al., 2014 ; Akrong et al., 2022 ).
-4 C Association (4 C) and the Roundtable on Sustainable Palm Oil (RSPO) showed similar patterns. 4 C 
-certification in coffee production promoted key sustainability principles (e.g. prohibition of child labour, 
-safe pesticide handling, soil and water conservation, and proper waste management) and greater supply 
-chain transparency, but its entry-level requirements and farmers’ limited compliance with standard criteria 
-often resulted in modest socioeconomic improvements (Kuit et al., 2016 ). RSPO initiatives in palm oil aimed 
-to reduce deforestation risks and improve labour practices; nonetheless, certification costs and consistent 
-monitoring remained challenges, with mixed evidence on biodiversity and food security (Brako et al., 2021a ; 
-Oosterveer et al., 2014 ).
-VietGAP, which is led by the Ministry of Agriculture and Rural Development (MARD) in Vietnam, 
-promoted better production planning and input management, yet improvements in income and bio -
-diversity were limited, especially due to weak demand for certified products at the national level (Demont & 
-Rutsaert, 2017 ; Stuart et al., 2018 ; Tu et al., 2019 ). Similar to GlobalGAP, compliance with VietGAP often 
-required investments in basic farm infrastructure, such as storage, sanitation, and record keeping, as well as 
-higher-quality inputs that many farmers could not afford.
-4.2.2.  Income and yields
-The adoption of VSSs in crop-based food commodities boosted productivity and income levels among 
-smallholder farmers in Ghana and Vietnam (Brako et al., 2021a ; Doanh et al., 2018 ). Brako et al. ( 2021a ) 
-found that certified cocoa farmers exhibited substantially higher average total farm output (770 kg) and 
-yield (276 kg/ha) compared to uncertified farmers. Likewise, certified oil palm growers demonstrated 
-superior total output (16.90 tons) and yield (4.18 tons/ha), with statistically significant differences observed 
-in total output compared to their uncertified counterparts (Brako et al., 2021a ). Fenger et al. ( 2017 ) pointed 
-out that certified cocoa farmers earned significantly higher gross income compared to conventional 
-farmers, especially considering the price premium received by the former. This is the case of cocoa 
-production in Ghana, where certification not only incentivized farmers to adopt sustainable cocoa farming 
-practices but also enabled them to benefit from price premium, which is a crucial incentive for farmers to 
-engage in sustainable value chains (Addae-Boadu et al., 2017 ; Ingram et al., 2018 ). According to Akrong 
-et al. ( 2022 ), certified mango producers were also more likely to sell to industrial processors and the export 
-market rather than to local traders, increasing the quantity sold to high-value markets by 12% for certified 
-farmers. These results were also confirmed by Nelson et al. ( 2013 ) and Waarts et al. ( 2013 ), certified farmers 
-reported significantly more improvements in product quality and enhanced market access, with multi -
-national companies buying increasing quantities of cocoa beans. Finally, as highlighted by Kleemann et al. 
-( 2014 ), the transition from conventional to certified organic production offers small-scale farmers the 
-opportunity to access niche markets in developed countries, resulting in higher returns on their 
-investments.
-INTERNATIONAL JOURNAL OF AGRICULTURAL SUSTAINABILITY
- 13
-
-[Page 15]
-4.2.3.  Total costs
-As emphasised by Rietberg and Slingerland ( 2016 ) and Ingram et al. ( 2018 ), certified farmers experienced a 
-substantial increase in total production expenses due to the significant rise in labour costs per hectare, 
-especially when adopting organic production systems, and additional expenses related to monitoring, 
-audits and administrative costs. Compliance with VSSs often entailed higher expenditures on quality inputs, 
-such as fertilisers, seeds, and agrochemicals, which have experienced sharp price increases in recent years 
-(OECD-FAO, 2024 ). In addition, rising energy prices, higher transport costs, and port disruptions associated 
-with recent international crises (e.g. the Russia–Ukraine war) have further increased input-related expenses, 
-with pronounced effects in developing countries (Leconte-Demarsy & Rice, 2025 ).
-Kleemann et al. ( 2014 ) pointed out the importance of determining the total profitability of adopting 
-VSSs, which is determined by several market factors: (i) the size and the sustainability of the premium over 
-time; (ii) the percentage of the price premium that farmers receive; and (iii) the total cost of the adopted 
-farming method. Ingram et al. ( 2018 ), Kuit et al. ( 2016 ), Mauthofer and Santos ( 2022 ), Waarts et al. ( 2015 ) 
-and Iddrisu et al. ( 2020 ) highlighted that, while the overall performance of VSS adoption may appear mixed 
-and modest compared to non-certified farmers, a closer examination revealed significant productivity and 
-income increases among certified farmers who received more comprehensive support services, including 
-training, financial services, and farm inputs (e.g. fertilisers, agrochemicals and protective equipment). 
-Notably, the comparative study of Bordey et al. ( 2016 ) found that certified farmers in the Mekong Delta 
-region were raising their productivity, largely attributed to intensive mechanisation, especially in the 
-application of seeds, fertilisers and pesticides. Stuart et al. ( 2018 ) suggested that the ongoing mechanisa -
-tion process in Vietnam might reduce dependency on farmer labour, which is becoming scarce in rural 
-areas, while also decreasing total production expenses. Therefore, the availability and the price of produc -
-tion inputs, as well as the level of mechanisation are relevant factors when assessing the overall costs 
-associated with VSSs at the field level.
-4.2.4.  Capacity-building initiatives
-Numerous studies highlighted the significant role of capacity building, such as mandatory training programmes, 
-for farmers adhering to sustainability standards (Smith, 2010 ; Waarts et al., 2013 ). Waarts et al. ( 2013 ) noted that 
-certified farmers were overall satisfied with the training provisions, as they improved social interactions, 
-facilitated knowledge exchange, and helped solve common issues among farmers. Similarly, Mauthofer and 
-Santos ( 2022 ) found that, despite labour-intensive conditions, farmers highly valued capacity-building provisions 
-by VSS programmes, which also include training on farm management and work safety. These trainings led to 
-increased production, better record-keeping, and improved savings practices (Mauthofer & Santos, 2022 ).
-According to Bennett et al. ( 2013 ), certified farmers benefitting from capacity building initiatives demon -
-strated a high level of awareness regarding child labour regulations and the importance of education for 
-children. On the one hand, Waarts et al. ( 2013 ) and Bandanaa et al. ( 2021 ) observed that in the cocoa value 
-chain, children often assist their parents with harvesting, pod breaking, weeding, fertilising and transporting; on 
-the other hand, Bennett et al. ( 2013 ) found that fewer children worked on certified farms, which also had lower 
-injury rates compared to non-certified farms with higher child involvement in farming activities. In line with 
-these results, Waarts et al. ( 2015 ) noted that certified farms had fewer children under 14 years old engaging in 
-hazardous activities compared to uncertified farms and exhibited higher school enrolment rates. This finding 
-was also confirmed by Mauthofer and Santos ( 2022 ), who reported improved access to primary education in 
-cocoa communities adopting VSS schemes, with 75% to 85% of children successfully completing primary 
-education. As a consequence, capacity-building initiatives are key components of VSS schemes, supporting 
-smallholder farming livelihoods by aiming not only to increase productivity but also to enhance social well- 
-being, health, and fair labour practices among smallholder farmers.
-4.2.5.  Spillover effects
-VSS programmes facilitated the emergence of more professional farmer associations, fostered competition 
-and extension services and enabled market channels for certified products, while positioning farmers within 
-global value chains (GVCs) (Furumo & Lambin, 2021 ; Ponte, 2019 ). This impact was particularly evident in a 
-study by Ingram et al. ( 2018 ) in Ghana, which highlighted the crucial role of VSSs in rapidly scaling up 
-sustainable cocoa production and providing smallholder farmers with access to lucrative markets in the EU 
-14
+[Page 3]
+provides financial incentives, known as price premiums, for farmers to meet certification standards (Addae- 
+Boadu et al., 2017 ). However, in recent years several scholars have noted that the notion of ‘voluntary’ 
+certification is increasingly misleading, particularly in export-oriented sectors such as cocoa, coffee, and palm 
+oil. Although formally optional, VSSs very often operate as de facto market requirements (Elamin & de Córdoba, 
+2020 ). International buyers and processing companies frequently required certified products as a precondition 
+for sourcing (Elamin & de Córdoba, 2020 ). This dynamic has created forms of market-driven coercion whereby 
+smallholder farmers have to comply with certification to maintain market access, thus limiting their autonomy in 
+decision-making (Bennett, 2021 ; Bitzer & Steijn, 2019 ; Ponte & Sturgeon, 2014 ).
+As emphasised by Oya et al. ( 2018 ) and Bissinger et al. ( 2020 ) the VSSs have the potential to provide 
+positive economic, environmental and social benefits to smallholder farmers, contributing to several 
+Sustainable Development Goals (SDGs) at the same time. By promoting the adoption of sustainable farming 
+practices and increasing product quality, VSSs empower farmers to participate in high-remunerative value 
+chains, such as those in the EU and North American markets (Akrong et al., 2022 ). However, the adoption of 
+VSSs may also impose additional financial burdens for producers, such as certification costs, and the 
+enforcement of higher labour standards (e.g. ILO Conventions), which can be challenging for poorer 
+smallholder farmers to meet (Maertens & Swinnen, 2015 ). Moreover, voluntary certifications might also 
+shift local production away or redirect agricultural goods from food production to more profitable 
+commodity markets (Oosterveer et al., 2014 ). Finally, the lack of institutional coordination, financial and 
+technical capacities for accessible certification in developing countries could also represent a significant 
+barrier for smallholders in adopting VSSs (FAO, 2014 ; Meemken, 2020 ).
+Given the varying effects presented in the literature on the impacts of VSSs, further investigation and 
+assessment is needed to understand how certification schemes can effectively contribute to improving 
+smallholder farmers’ livelihoods. Adopting an inclusive approach, this study aims to address the following 
+research questions:
+• Are VSSs effective in improving smallholder farmers’ livelihoods within food-agricultural commodity 
+value chains?  
+• What are the main advantages and trade-offs associated with VSSs adoption in Ghana and Vietnam?  
+• To what extent can VSSs be leveraged as sustainable market-oriented tools to achieve the SDGs Agenda 
+by 2030?
+2. Methodology
+2.1. Socioeconomic and environmental indicators
+The analysis of the effects of VSSs on smallholder farmers’ livelihoods is based on the Sustainable Livelihood 
+Framework (SLF), originally developed by Chambers & Conway, ( 1992 ) and later adapted by the Department for 
+International Development of the UK (DFID, 1999 ). According to the SLF, a livelihood is made up of capabilities, 
+material and social capitals, and activities required to earn a living (DFID, 1999 ). The SLF has been widely used as 
+a tool to analyse rural poverty from a multidimensional perspective (Bennett & Franzel, 2013 ; Nelson et al., 2013 ; 
+Garibaldi et al., 2017 ; D’Annolfo et al., 2017 ) and to assess which components of certification schemes have the 
+greatest impact on farmers’ livelihoods (Fenger et al., 2017 ). The SLF is based on five capital endowments: 
+human, social, financial, physical and natural ( Table 1 ). For each of the aforementioned capitals, three relevant 
+socioeconomic and environmental indicators were selected based on the literature on VSSs to systematically 
+extract and collect quantitative and qualitative evidence ( Table 1 ).
+In order to identify the relevant SDGs for the analysis, we referenced the studies of Bissinger et al. ( 2020 ) and 
+Kosolapova et al. ( 2023 ), which offered comprehensive mappings of VSSs against the 17 SDGs. Therefore, a 
+shortlist of SDGs and related targets was selected according to the main scope of this research ( Table 2 ).
+The SLF guided both the coding and synthesis of evidence by classifying each identified livelihood outcome 
+under one of the five capitals: human, social, financial, physical, and natural. This structure ensured analytical 
+consistency across heterogeneous studies and enabled a systematic comparison of VSS effects across indicators, 
+commodities and value chains in different countries. The SLF framework also supported the integration of 
+findings into broader sustainability dimensions aligned with the selected SDGs.
+2
  R. D’ANNOLFO AND F. DEMARIA

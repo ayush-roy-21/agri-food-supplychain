@@ -1,259 +1,74 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-103-C08
 Parent Doc ID: A-MSME-103
-Page Range: Page 29 to Page 35
-Word Range: 9661 - 10878
-Word Count: 1,218
+Page Range: Page 11
+Word Range: 2152 - 2546
+Word Count: 395
 --------------------
 
-[Page 29]
+[Page 11]
 Strategy for unlocking export potential for MSMEs in West Bengal
-29
-Market Demand Index
-The success of a nation's export industry doesn't 
-solely rely on its ability to efficiently manufacture 
-goods at a low cost. While cost-effective 
-production is undeniably crucial, export viability 
-is a complex interplay of various factors, and 
-one of the pivotal elements in this equation is 
-the presence of a robust global demand for the 
-products being exported.
-In essence, the volume of goods a country 
-exports are shaped by the convergence of two 
-fundamental forces: Supply and Demand. Supply 
-represents a nation's inherent capability to export 
-a specific product. It encompasses a range of 
-factors such as the availability of resources, 
-the technical expertise and infrastructure to 
-produce the goods, and the efficiency of the 
-production process. The supply side of the 
-equation reflects a country's inherent potential 
-to engage in international trade, and it forms the 
-foundation upon which its export endeavours are 
-built. On the other hand, Demand signifies the 
-quantity of a particular product that a country 
-is willing to import from international sources. 
-This aspect of the equation depends on various 
-variables including the preferences and needs of 
-consumers, market trends, economic conditions, 
-and the overall desirability of the product. A 
-strong global demand for a product indicates 
-that there is a market ready to receive and pay for 
-those goods.
-The relationship between Supply and Demand 
-is dynamic and multifaceted. It's not just 
-about producing goods efficiently; it's also 
-about recognizing and capitalizing on market 
-opportunities. A successful export strategy 
-involves aligning a country's supply capabilities 
-with the existing or potential demand in global 
-markets. Moreover, it often entails identifying 
-niches where a country can excel and cater to 
-specific international needs. Understanding and 
-balancing the interplay between Supply and 
-Demand is fundamental for any country seeking 
-to thrive in the competitive arena of international 
-trade. It necessitates a keen awareness of global 
-market dynamics and the agility to adapt to 
-changing conditions. In essence, it's the ability to 
-offer what the world wants, when it wants it, and 
-in a way that's economically viable for both the 
-exporting country and its trading partners.
-In our endeavour to identify and rank the 
-key industry segments in West Bengal that 
-have witnessed a significant surge in global 
-demand, we've conducted an in-depth analysis 
-of the worldwide appetite for various product 
-categories. In essence, we've sought to 
-understand the level of desirability and market 
-demand that these commodities enjoy on a 
-global scale.
-Our approach to this analysis involves the 
-calculation of a comprehensive Market Demand 
-Index, which is based on the Compound Annual 
-Growth Rate (CAGR) spanning the fiscal years 
-from 2021 to 2023. To carry out this assessment, 
-we have computed the Market Demand Index 
-for a total of 32 products at HS code 2-digit 
-level for which we've identified that West Bengal 
-possesses a revealed comparative advantage, 
-signifying the state's capacity to excel in the 
-production and export of these specific goods. 
-This analysis allows us to rank major sectors, 
-thus enabling a more accessible and holistic 
-assessment of the industries that are experiencing 
-a surge in global demand.
-This diligent and data-driven analysis is 
-instrumental in shedding light on the specific 
-industry segments that are strategically 
-positioned to harness the increasing global 
-demand for their products. It not only provides 
-valuable insights into West Bengal's export 
-potential but also aids in the formulation of 
-informed strategies and policies to support the 
-state's economic growth and competitiveness on 
-the international stage.
-
-[Page 30]
-Strategy for unlocking export potential for MSMEs in West Bengal
-30
-List of Top 5 commodities across 6 industry segments
-Source: Dun & Bradstreet
-
-[Page 31]
-Strategy for unlocking export potential for MSMEs in West Bengal
-31
-Kolkata
-Metal
-Electrosteel Castings Limited
-Chloride Metals Limited
-Global Castings Private Limited
-Govind Steel Company Limited
-Crescent Foundry Company Private Limited
-Textile
-Ganges Jute Private Limited
-The Rajlakshmi Cotton Mills Private Limited
-Cheviot Company Limited
-Shaktigarh Textile & Industries Limited 
-The Rajlakshmi Cotton Mills Private Limited
-Paper and Paper products
-Emami Paper Mills Limited
-Krishna Tissues Private Limited
-West Coast Paper Mills Limited
-Huhtamaki India Limited
-Ostern Private Limited
-Key Exporters and Importers
-* Sectors included – Manufacturing, Mining, and Agriculture, Forestry, Fishing.
-* Total 3169 Companies tagged as Exporters in West Bengal on the basis of Customs Shipping data and DUNS tagged as 
-Exporter in D&B Data Cloud with turnover more than 50 cr
-According to Dun and Bradstreet's database, Kolkata accounts for 80% of the exporters in West Bengal. 
-We offer a list of prominent exporters from Kolkata and other districts who can serve as mentors, 
-providing valuable advice to Micro, Small, and Medium Enterprises (MSMEs) on strategies to enhance 
-their export activities.
-
-[Page 32]
-Strategy for unlocking export potential for MSMEs in West Bengal
-32
-Howrah
-Metal
-Jindal (India) Limited
-NSI (India) Limited
-NIF ISPAT Limited
-Kajaria Iron & Steel Company Private Limited
-Mangal Steel Enterprises Limited
-Textile
-Ashoka Exports
-Spv Commotrade Private Limited
-Karnika Industries Limited
-Bally Fabs International Limited
-Recrust International
-Chemical
-Prabhu Poly Color Limited
-Kkalpana Industries (India) Limited
-H.B. Fuller India Adhesives Private Limited
-Kausik Printing Ink
-Weilburger Coatings (India) Private Limited
-South 24 Parganas
-Textile
-Cheviot Company Limited
-Pacific Jute Limited
-Pasari Silk Industries Limited
-Chemical
-Wacker Metroark Chemicals Private Limited
-Leather & Leather products
-Kariwala Industries Limited
-Superhouse Limited
-Asg Leather Private Limited
-Leather International Safety Products
-Lbi Export Private Limited
-Industrial Machinery and Equipment
-Macneill Engineering Limited
-
-[Page 33]
-Strategy for unlocking export potential for MSMEs in West Bengal
-33
-North 24 Parganas
-Chemical
-Subham Oils & Resins Private Limited
-Asg Biochem Private Limited
-Pinkto Chemicals Private Limited
-Textile & Handbags
-Greeno Bags
-Acknit Industries Limited
-Nichiketa Garments Company
-Giriraj Nature Care Bags
-Medlife Fabrics & Co
-Leather & Leather products
-Ghosh Exports Private Limited
-Luminous International
-Workers Safety Uddyog
-Apex Safety Products
-Hooghly
-Metal
-Dinesh Brothers Private Limited
-Vikrant Forge Private Limited
-Bhushan Power And Steel Limited
-Arcvac Forge Cast Private Limited
-Century Industrial Products Private Limited
-Textile & Leather
-Sarat Industries Limited
-Grasim Industries Limited
-Jutex Industries Private Limited
-
-[Page 34]
-Strategy for unlocking export potential for MSMEs in West Bengal
-34
-Bardhaman
-Agriculture & Food Products
-Samanta Enterprise
-Baba Malleshwar Agro Products Private Limited
-Joy Ma Tara Agro Oil
-Nalinaksha Agro Products Private Limited
-Chhajer Agro Products Private Limited
-Bardhaman Agro Products (India) Private Limited
-Metal
-Jai Balaji Industries Limited
-BST Infratech Limited
-HMB Ispat Private Limited
-Super Smelters Limited
-Ferro-alloys
-Sova Ispat Alloys Limited
-Purba Medinipur
-Metal
-Primary Castings Private Limited
-JNK India Limited
-Tirupati Iron
-Kharagpur Metal Reforming Industries Private Limited
-Agriculture & Food Industry
-Chhajer Agro Products Private Limited
-S S Sea Food
-Nahesh Marine Exports Limited
-K. N. C. Agro Limited
-Chemical
-Swal Corporation
-Tata Chemicals Limited
-Kalimati Carbon Private Limited
-
-[Page 35]
-Strategy for unlocking export potential for MSMEs in West Bengal
-35
-Paschim Medinipur
-Metal
-Allied Iron Products Private Limited
-Durgapur Tubes Private Limited
-Kharagpur Metal Reforming Industries Private Limited
-Ferro - alloys
-Karthik Alloys Limited
-Allied Iron Products Private Limited
-Sharp Ferro Alloys Limited
-Shyam Ferro Alloys Limited
-Nilkanth Ferro Limited
-Darjeeling
-Tea
-Surajmukhi Tea Private Limited
-M B Tea & Allied Products Private Limited
-Roshni Tea Manufacturing Private Limited
-Jay Shree Tea And Industries Limited
-Nuxalbari Tea Company Private Limited
-Agriculture & Food products
-Parvata Foods Private Limited
+11
+Niti Aayog - Export
+Preparedness Index 
+Niti Aayog's Export Preparedness Index (EPI) 
+gauges the readiness of Indian states and Union 
+Territories for exports, offering insights into 
+their strengths and weaknesses. The primary 
+dimensions considered in the report encompass 
+policy effectiveness, business environment, export 
+infrastructure, and actual export performance.
+Export Preparedness Index includes four Pillars 
+and eleven Sub-pillars which enable precise and 
+fair assessment of all the Indian States and Union 
+Territories. 
+Policy: A comprehensive trade policy provides 
+a strategic direction for exports and imports. 
+Primarily, this pillar has been incorporated 
+to evaluate whether a state has introduced 
+enabling policy measures to steer export-led 
+growth. Further, it looks into dimensions that 
+will shed light on the exact measures and policy 
+mechanisms that states have adopted to enable 
+exporters to be competitive.
+Business Ecosystem: An efficient business 
+ecosystem can help states attract investments and 
+create an enabling infrastructure for individuals 
+to initiate start-ups. This pillar sheds light on the 
+core infrastructure facilities, and how states fare in 
+terms of creating such an ecosystem. Availability 
+of such essential facilitating factors enable 
+production units to enhance their production 
+capacities and foster future growth of their 
+existing exporting capacities. The pillar manages 
+to cover multidimensional aspects of fostering 
+a successful business ecosystem such as labour, 
+innovation, power, IT, logistics, banking and so 
+on.
+Export Ecosystem: This pillar aims to assess 
+the business environment, which is specific to 
+exports. An enabling export ecosystem can 
+support different firms in all the states and Union 
+Territories to increase productivity and boost 
+competition. This pillar takes into consideration 
+indicators that underline the research and 
+development infrastructure, and the trade 
+support available to the businesses in the states.
+Export Performance: This pillar examines 
+the export performance of states and Union 
+Territories to identify focus areas and track 
+improvements. This pillar focuses on two 
+sub-pillars: Growth of Exports and Export 
+Diversification
+Overall Index 2022
+Key metrics:
+• India's composite EPI score for 2022 stands 
+at 46.56, indicating a discernible variation in 
+export preparedness levels across the nation, 
+generally falling within the moderate range.
+• In the EPI 2022 rankings, Tamil Nadu emer ges 
+as the frontrunner with an impressive score of 
+80.89, closely trailed by Maharashtra at 78.20 
+and Karnataka at 76.36.
+Chart 9: Export Preparedness Index 2022
+Source: Niti Aayog

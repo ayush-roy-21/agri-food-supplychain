@@ -1,0 +1,184 @@
+--- CHUNK HEADER ---
+Chunk ID: A-EUDR-100-C29
+Parent Doc ID: A-EUDR-100
+Page Range: Page 8
+Word Range: 7136 - 7385
+Word Count: 250
+--------------------
+
+[Page 8]
+References
+Aaronson, S.A., Leblond, P., 2018. Another digital divide: the rise of data realms and its 
+implications for the WTO. J. Int. Econ. Law 21, 245 – 272. https://doi.org/10.1093/ 
+jiel/jgy019 .
+Atik, C., 2022. Towards comprehensive European agricultural data governance: moving 
+beyond the “ data ownership ” debate. IIC 53, 701 – 742. https://doi.org/10.1007/ 
+s40319-022-01191-w .
+Azevedo-Ramos, C., Lima, R.Y.M., 2024. Brazil ’ s mixed reactions to the EU deforestation- 
+free regulation: balancing compliance costs and the urgency of deforestation action. 
+One Earth 7, 1917 – 1922. https://doi.org/10.1016/j.oneear.2024.10.014 .
+Babalola, O., 2024. Transborder flow of personal data (TDF) in Africa: Stocktaking the 
+ills and gains of a divergently regulated business mechanism. Computer Law & 
+Security Review 52, 105940. https://doi.org/10.1016/j.clsr.2024.105940 .
+Barocas, S., Selbst, A.D., 2016. Big Data ’ s Disparate Impact. https://doi.org/10.15779/ 
+Z38BG31 .
+Bataineh, A.S., Mizouni, R., Bentahar, J., El Barachi, M., 2020. Toward monetizing 
+personal data: a two-sided market analysis. Futur. Gener. Comput. Syst. 111, 
+435 – 459. https://doi.org/10.1016/j.future.2019.11.009 .
+Beltrame de Moura, A., 2025. Brazil-EU under the EUDR. ACDI 18. https://doi.org/ 
+10.12804/revistas.urosario.edu.co/acdi/a.15067 .
+Berning, L., Sotirov, M., 2024. The coalitional politics of the European Union regulation 
+on deforestation-free products. Forest Policy Econ. 158, 103102. https://doi.org/ 
+10.1016/j.forpol.2023.103102 .
+Burni, A., Erforth, B., Friesen, I., Hackenesch, C., Hoegl, M., Keijzer, N., 2022. Who called 
+team Europe? The European Union ’ s development policy response during the first 
+wave of COVID-19. Eur. J. Dev. Res. 34, 524 – 539. https://doi.org/10.1057/s41287- 
+021-00428-7 .
+Castka, P., Blind, K., Prajogo, D., 2023. Standards and conformity assessment in global 
+supply chains. International Journal of Production Economics 265, 109017. htt 
+ps://doi.org/10.1016/j.ijpe.2023.109017 .
+Chamorro-Padial, J., Virgili-Gom ´a, J., Gil, R., Teixid ´o, M., García, R., 2025. Agriculture 
+data sharing review. Heliyon 11, e41109. https://doi.org/10.1016/j.heliyon.2024. 
+e41109 .
+CNIL, 2024a. Ad ´equation des 
+´
+Etats-Unis: Les Premi `eres Questions-r ´eponses. https 
+://www.cnil.fr/fr/adequation-des-etats-unis-les-premieres-questions-reponses .
+CNIL, 2024b. Personal Data: Definition. https://www.cnil.fr/en/personal-data-definition
+(accessed 20 January 2025). 
+Collins, Y.A., Maguire-Rajpaul, V.A., Krauss, J.E., Asiyanbi, A.P., Jim ´enez, A., Mabele, M. 
+B., Alexander-Owen, M., 2021. Plotting the coloniality of conservation. J. Polit. Ecol. 
+28 .
+Cosimo, L.H.E., Masiero, M., Mammadova, A., Pettenella, D., 2024. Voluntary 
+sustainability standards to cope with the new European Union regulation on 
+deforestation-free products: a gap analysis. Forest Policy Econ. 164, 103235. https:// 
+doi.org/10.1016/j.forpol.2024.103235 .
+Delacroix, S., Lawrence, N.D., 2019. Bottom-up Data Trusts: Disturbing the ‘One Size Fits 
+all ’ Approach to Data Governance. International Data Privacy Law. https://doi.org/ 
+10.1093/idpl/ipz014 ipz014. 
+Delmas, M.A., Burbano, V.C., 2011. The drivers of greenwashing. Calif. Manag. Rev. 54, 
+64 – 87. https://doi.org/10.1525/cmr.2011.54.1.64 .
+Dembani, R., Karvelas, I., Akbar, N.A., Rizou, S., Tegolo, D., Fountas, S., 2025. 
+Agricultural data privacy and federated learning: A review of challenges and 
+opportunities. Computers and Electronics in Agriculture 232, 110048. https://doi. 
+org/10.1016/j.compag.2025.110048 .
+Directorate-General for Environment, 2025. COMMISSION IMPLEMENTING 
+REGULATION (EU) … / … Laying Down Rules for the Application of Regulation (EU) 
+2023/1115 of the European Parliament and of the Council as Regards a List of 
+Countries that Present a Low or High Risk of Producing Relevant Commodities for 
+Which the Relevant Products do not Comply with Article 3, Point (a), p. 4 .
+Directorate-General for International Partnerships, 2023. Global gateway: EU and 
+member states launch global team Europe initiative on deforestation-free value 
+chains. In: Factsheet - Team Europe Initiative on Deforestation-free Value Chains. htt 
+ps://international-partnerships.ec.europa.eu/news-and-events/news/global-gatewa 
+y-eu-and-member-states-launch-global-team-europe-initiative-deforestation-free-va 
+lue-2023-12-09_en? .
+Dur ´an, G.M., 2025. Curbing the European Union ’ s global deforestation footprint through 
+trade. J. Environ. Policy Plan. 1 – 12. https://doi.org/10.1080/ 
+1523908X.2025.2480696 .
+Elias, M., 2024. Timber traceability and sustainable transportation management: a 
+review of technologies and procedures. FWIAFE 11 – 52. https://doi.org/10.31926/ 
+but.fwiafe.2024.17.66.1.2 .
+EUR-Lex, 2022. EU Environmental Policy. https://eur-lex.europa.eu/leg 
+al-content/EN/TXT/?uri = legissum:environment#:~:text = It%20is%20based%20on 
+%20precautionary,reducing%20pollution .
+European Commission, 2023. EUTR: union-wide overview for the year 2022. In: 
+Overview Based on the Analysis of Information on the Application of the EU Timber 
+Regulation (Regulation EU No. 995/2010), Submitted by EUTR Member States, p. 7 .
+European Commission, 2024. Communication from the Commission on the Strategic 
+Framework for International Cooperation Engagement in the Context of Regulation 
+(EU) 2023/1115 on the Making Available on the Union Market and the Export from 
+the Union of Certain Commodities and Products Associated with Deforestation and 
+Forest Degradation (C/2024/6604) .
+European Commission, 2025a. Guidance Document (1) for Regulation (EU) 2023/1115 
+on Deforestation-Free Products (2) (C/2025/4524) .
+European Commission, 2025b. Traceability and Geolocation of Commodities Subject to 
+EUDR. https://green-forum.ec.europa.eu/nature-and-biodiversity/deforesta 
+tion-regulation-implementation/traceability-and-geoloca 
+tion-commodities-subject-eudr_en?#traceability-requirements .
+EUTR Expert Group, 2020. Country Conclusions – Schlussfolgerungen zu Einzelnen 
+L ¨andern. https://www.ble.de/DE/Themen/Wald-Holz/Handel-Holz/EU-Holzhande 
+lsverordnung/Schlussfolgerungen-Laender.html .
+FAO, 2024. Transparent Supply Chains .
+Frauenhofer, I.M.L., 2023. Forest Guard: Blockchain for Deforestation-Free Coffee Supply 
+Chains .
+Fripp, E., Gorman, J., Schneider, T., Smith, S., Paul, J., Neeff, T., Marietti, F., van Wie 
+McGrory, L., Zosel-Harper, A., 2023. Traceability and Transparency in Supply Chains 
+for Agricultural and forest Commodities. WRIPUB. https://doi.org/10.46830/ 
+wrirpt.22.00156 .
+Galaz, V., Centeno, M.A., Callahan, P.W., Causevic, A., Patterson, T., Brass, I., Baum, S., 
+Farber, D., Fischer, J., Garcia, D., McPhearson, T., Jimenez, D., King, B., Larcey, P., 
+Levy, K., 2021. Artificial intelligence, systemic risks, and sustainability. Technol. 
+Soc. 67, 101741. https://doi.org/10.1016/j.techsoc.2021.101741 .
+Gani, J.K., Marshall, J., 2022. The impact of colonialism on policy and knowledge 
+production in international relations. Int. Aff. 98, 5 – 22. https://doi.org/10.1093/ia/ 
+iiab226 .
+Gardner, T.A., Benzie, M., B ¨orner, J., Dawkins, E., Fick, S., Garrett, R., Godar, J., 
+Grimard, A., Lake, S., Larsen, R.K., Mardas, N., McDermott, C.L., Meyfroidt, P., 
+Osbeck, M., Persson, M., Sembres, T., Suavet, C., Strassburg, B., Trevisan, A., 
+West, C., Wolvekamp, P., 2019. Transparency and sustainability in global 
+commodity supply chains. World Dev. 121, 163 – 177. https://doi.org/10.1016/j. 
+worlddev.2018.05.025 .
+Gavrilut, I., Halalisan, A.-F., Giurca, A., Sotirov, M., 2016. The interaction between FSC 
+certification and the implementation of the EU timber regulation in Romania. Forests 
+7, 3. https://doi.org/10.3390/f7010003 .
+Gopal, P.R.C., Rana, N.P., Krishna, T.V., Ramkumar, M., 2024. Impact of big data 
+analytics on supply chain performance: an analysis of influencing factors. Ann. Oper. 
+Res. 333, 769 – 797. https://doi.org/10.1007/s10479-022-04749-6 .
+Greenleaf, G., Cottier, B., 2022. International and regional commitments in African data 
+privacy laws: a comparative analysis. Comput. Law Secur. Rev. 44, 105638. https:// 
+doi.org/10.1016/j.clsr.2021.105638 .
+Grisaffi, T., Farthing, L., Ledebur, K., Paredes, M., Pastor, A., 2021. From criminals to 
+citizens: the applicability of Bolivia ’ s community-based coca control policy to Peru. 
+World Dev. 146, 105610. https://doi.org/10.1016/j.worlddev.2021.105610 .
+Hassani, H., Huang, X., MacFeely, S., Entezarian, M.R., 2021. Big data and the United 
+Nations sustainable development goals (UN SDGs) at a glance. BDCC 5, 28. https:// 
+doi.org/10.3390/bdcc5030028 .
+Heilmayr, R., Lambin, E.F., 2016. Impacts of nonstate, market-driven governance on 
+Chilean forests. Proc. Natl. Acad. Sci. USA 113, 2910 – 2915. https://doi.org/ 
+10.1073/pnas.1600394113 .
+Hoos, F., Wierzynska, A., Lenz, R., 2025. Avoiding Compliance Panic and ESG Anxiety: 
+The Solution is not more Controls, it ’ s Better Governance. EDPACS, pp. 1 – 13. 
+https://doi.org/10.1080/07366981.2025.2489227 .
+International Trade Center, I, 2024. Deforestation Free Trade Gateway: Bridging the Gap 
+for Sustainable Timber Trade. A United Nations Platform for Transparent, Inclusive 
+and Efficient Compliance with the EU Deforestation Regulation . 
+Johnston, A., 2022. Data Monetization on the Rise, Driven by the Most Digitally Mature 
+Enterprises. https://www.spglobal.com/market-intelligence/en/news-insights/resea 
+rch/data-monetization-on-the-rise-driven-by-the-most-digitally-mature-enterprises? 
+utm_source = chatgpt.com .
+Johnston, C., Guo, J., Prestemon, J.P., 2025. The European Union deforestation 
+regulation: implications for the global forest sector. Forest Policy Econ. 173, 103462. 
+https://doi.org/10.1016/j.forpol.2025.103462 .
+Jung, S., Rasmussen, L.V., Watkins, C., Newton, P., Agrawal, A., 2017. Brazil ’ s National 
+Environmental Registry of Rural Properties: Implications for Livelihoods. Ecological 
+Economics 136, 53 – 61. https://doi.org/10.1016/j.ecolecon.2017.02.004 .
+K ¨othke, M., 2020. Implementation of the European timber regulation by German 
+importing operators: an empirical investigation. Forest Policy Econ. 111, 102028. 
+https://doi.org/10.1016/j.forpol.2019.102028 .
+K ¨othke, M., Lippe, M., Elsasser, P., 2023. Comparing the former EUTR and upcoming 
+EUDR: some implications for private sector and authorities. Forest Policy Econ. 157, 
+103079. https://doi.org/10.1016/j.forpol.2023.103079 .
+Kuhl, L., Perez-Lugo, M., Serrano, C.A., Ortiz-Garcia, C., Ellis, R., Stephens, J.C., 2025. 
+Confronting Climate Coloniality: Decolonizing Pathways for Climate Justice .
+Lepenioti, K., Bousdekis, A., Apostolou, D., Mentzas, G., 2020. Prescriptive analytics: 
+literature review and research challenges. Int. J. Inf. Manag. 50, 57 – 70. https://doi. 
+org/10.1016/j.ijinfomgt.2019.04.003 .
+Li, P., Yang, J., Jim ´enez-Carvelo, A.M., Erasmus, S.W., 2024. Applications of food 
+packaging quick response codes in information transmission toward food supply 
+chain integrity. Trends Food Sci. Technol. 146, 104384. https://doi.org/10.1016/j. 
+tifs.2024.104384 .
+Lima, C.F., Minette, L.J., Lima, R.C.A., Da Silva, L.F., de Oliveira, L.C.F., Barbosa, T.O., 
+Silva, A.A., Schettini, B.L.S., de Souza, L.M.R., Schettino, S., Sato, M.K., Marinho, A. 
+F., Silva, L.D.S., Lima, F.A., 2025. Innovation management in the traceability and 
+commercialization of sustainable amazonian timber: a qualitative systematic review. 
+Cad. Pedag. 22, e15306. https://doi.org/10.54033/cadpedv22n6-037 .
+Linden, H., Gallagher, E., Lasheras, La, de Riva, T., Liswanti, N., Mello, D., 2025. Women 
+and Equity in the EUDR. TFI. https://doi.org/10.55515/IZFD3282 .
+Liu, J., 2022. Social data governance: towards a definition and model. Big Data Soc. 9. 
+https://doi.org/10.1177/20539517221111352 , 20539517221111352. 
+Mabica, S., Tetteh, E.N., Fromm, I., Ocansey, C.M., 2025. EUDR compliance in Ghana ’ s 
+natural rubber sector and its implications for smallholders. Commodities 4, 14. 
+https://doi.org/10.3390/commodities4030014 .
+L. Afriyie-Kraft et al.                                                                                                                                                                                                                           Forest Policy and Economics 184 (2026) 103709 
+8

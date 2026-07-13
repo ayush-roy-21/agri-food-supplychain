@@ -1,0 +1,78 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C41
+Parent Doc ID: A-MSME-100
+Page Range: Page 41
+Word Range: 11313 - 11676
+Word Count: 364
+--------------------
+
+[Page 41]
+41 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+The cost of credit is considerably high for MSMEs, 
+particularly for micro firms.  The average interest rate 
+for MSMEs is about 12.27%, which is much higher 
+than the current repo rate. 37 Micro firms pay an even 
+higher interest rate, averaging around 12.53% (Figure 
+20). In comparison, the average interest rate for small 
+and medium firms nearly one percent less (at about 
+11.59%). Interestingly, integrated firms, on average, 
+pay a slightly lower rate of interest (12.15%) than non-
+integrated firms (12.38%). 
+Figure 20:
+Distribution of enterprises by the 
+rate of interest on current loan 
+(in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+The majority of firms viewed high interest rates as a 
+significant barrier to obtaining loans.  About 21% of 
+the surveyed enterprises paid around 15% interest on 
+their loans. Nearly 70% of the surveyed enterprises 
+reported high interest rates as the primary concern 
+while applying for loans, followed by payment terms 
+(51%) and the long waiting period for approval (40%). 
+A relatively higher percentage of non-integrated firms 
+reported facing these difficulties than integrated firms. 
+MSMEs, especially non-digitalised ones, struggle 
+to secure collateral-free loans.  Only 23% of the 
+respondents have ever taken such loans, with over 
+50% being e-commerce integrated. Among integrated 
+firms, 51% found their e-commerce presence helpful in 
+raising external finance from banks and non-banking 
+financial corporations (NBFCs), particularly medium- 
+(60%) and small-size enterprises (55%) compared to 
+micro firms (48%). Additionally, Figure 21 illustrates 
+that 30% found e-commerce beneficial for collateral-
+free loans, with medium firms (33%) leading, followed 
+by small (31%) and micro (29%) firms. Thus, along 
+with the digital footprint, firm size plays a key role in 
+accessing formal finance.
+Figure 21:
+Distribution of enterprises 
+reporting that e-commerce 
+presence is useful in raising 
+collateral free loan (in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+0%
+37%
+55%
+6%
+2%
+0% 20% 40% 60% 80%
+<5%
+>5% to <10%
+>10% to <15%
+>15% to <20%
+More than 20%
+ Medium Small MicroOverall
+MSMEs’ Access to Finance
+30% 29% 31% 33%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+Overall Micro Small Medium

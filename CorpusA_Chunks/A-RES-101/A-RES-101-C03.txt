@@ -1,205 +1,91 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-101-C03
 Parent Doc ID: A-RES-101
-Page Range: Page 4 to Page 5
-Word Range: 3224 - 4914
-Word Count: 1,691
+Page Range: Page 1
+Word Range: 501 - 807
+Word Count: 307
 --------------------
 
-[Page 4]
-3. Research methodology
-3.1. Sample
-Supply chain ﬁnancing in Micro and Small Medium Enterprises
-(MSMEs) is increasing day by day in India. The participants for the
-current study were selected from various MSMEs (especially Micro
-and Small Organizations) located in four states in India, namely
-Indore in Madhya Pradesh, Samba, and Bari-Brahmana in Jammu
-and Kashmir; Bathinda and Gurdaspur in Punjab; and Surat in
-Gujarat. The respondents included people from MSMEs, including
-owners, Executives in the supply chain, and Managers in the supply
-chain of an MSME. The locations were selected because they are
-industrial hubs in the state and based on the authors' locational
-convenience.
-.The selection of MSMEs was based on the fact that they are
-more prone to risks and crisis-like situations. The Covid-19
-pandemic has had a signi ﬁcant impact on MSMEs in India, and
-given the fact that more than 99 percent of Indian businesses are
-from Micro organizations, it makes a signi ﬁcant impact on the In-
-dian Economy ( Sahoo & Ashwani, 2020 ). Indian MSMEs play a
-crucial role in overall economic development as more than 35
-percent of contribution to overall GDP comes from them ( Aneja &
-Ahuja, 2020 ).
-According to the Micro, Small, and Medium Enterprises Devel-
-opment (MSMED) Act, 2006, Indian organizations falls into three
-categories i.e., micro, small, and medium. Every country has a
-different criterion while classifying MSMEs and de ﬁning them as
-some de ﬁne them based on the number of employees engaged,
-annual sales and turnover, or investment. In India, as per the
-MSMED Act, 2006, MSMEs are de ﬁned based on investment by
-enterprises in plant and machinery. Enterprises in Manufacturing
-and Services having investments up to INR 1 crores fall under the
-category of Micro Enterprises, Enterprises having investments
-more than one crore but less than ten crores fall under the category
-of Small Enterprises, and Enterprises having investments more
-than ten crores and less than twenty crores fall under the category
-of medium enterprises. To collect the data, investment and the
-number of employees in MSMEs were considered essential criteria.
-Enterprises having less than 200 employees were approached for
-data collection purposes.
-The participants were approached from January 2020 to October
-2020. Initially, until March 2020, the participants were contacted by
-phone, and after taking approval to participate in the study, they were
-approached, and questionnaires in pen and paper form were ﬁlled
-out. Owing to the lockdown restrictions, the data collection after
-March 2020 was done digitally, and a google form similar to a pen and
-paper questionnaire was created and was ﬂoated to the participants
-after taking their due approval over the telephone. The participants
-were briefed about the purpose of the study, and those participants
-who were not comfortable with English were connected through
-Zoom or WhatsApp video call, and the questions were translated to
-them into Hindi, and their responses were recorded accordingly.
-Furthermore, to ensure the reliability of the questions in the
-questionnaire, the questionnaire was checked by three area experts
-(two professors from Management Institutes and one Industry
-person). The data collection process took ten months to complete
-because of the Covid-19 crisis, and 274 ﬁlled responses were
-received.
-3.2. Measures
-The measurement scales for the present study were taken from
-various available literature published in the area to ensure the
-validity and reliability of the instrument used. The scale for the
-dependent variable Supply Chain Effectiveness (SCE) was adapted
-from Fugate et al. (2009) , and the items were modi ﬁed as per the
-objective of the current study; the scale for supply chain ﬁnance
-(SCF) was adapted from Ali et al. (2019) with ﬁve items; the scale
-for digitizing technologies (DT) was adopted from Choi (2013) using
-three-item scale; the scale for collaboration was taken from
-Simatupang and Sridharan (2005) using a four-item scale; the scale
-for Financial institutions was adapted from Zhang (2015) with a
-three-item scale; the negotiation scale was adapted using three
-items from Janda and Seshadri (2001) ; and the scale for External
-Environment was adapted using a three-item scale from Zhang
-(2015).
-4. Data analysis and results
-The data analysis for the study was done using SPSS version 24
-and SMART PLS version 3.3.2, the method of “partial least squares
-Fig. 1. Proposed conceptual model for the study.
-K. Mulchandani, S.S. Jasrotia and K. Mulchandani Asia Paci ﬁc Management Review 28 (2023) 90 e98
-93
-
-[Page 5]
-structural equation modeling ” (PLS-SEM). The objective of the cur-
-rent study is to explore the factors leading toward Supply Chain
-Effectiveness and is an extension of the existing study by Ali et al.
-(2019); thus, the use of PLS-SEM is done as suggested by Hair
-et al. (201 1). Before running the data for measurement and struc-
-tural analysis, we checked the data for multi-collinearity and
-missing data values. No such concerns with the data were found.
-The collinearity (VIF) values (Annexure-I) were less than the cut-off
-values of 3.5, indicating ideal values ( Hair et al., 2019 ). Thus, we
-proceeded with Measurement model analysis to examine the reli-
-ability and validity of the constructs. In Table 1, scale reliability and
-validity through the measurement model is performed and next
-step of structural model analysis and hypothesis testing is
-conducted.
-4.1. Measurement model analysis
-Being a standard procedure for SEM analysis, the measurement
-model analysis was performed to check scale reliability and validity.
-The constructs used in the study attained Cronbach's alpha value
-above the recommended cut-off value of 0.7 ( Fornell & Larcker,
-1981). The construct for negotiation depicted the lowest Cron-
-bach's alpha value at 0.777, which is above the minimum threshold
-value (See Table 2 ). The items thus indicate high internal consis-
-tency and reproducibility of the scale ( Fornell & Larcker, 1981).
-To test the Convergent validity of the scale, the Average Variance
-Extract (AVE) measures were employed. The results of all constructs
-depicted a value of more than 0.5, indicating satisfactory conver-
-gent validity among constructs ( Fornell & Larcker, 1981 ). The
-outcome of AVE depicted values from 0.596 to 0.838 (See Table 2).
-Using the Fornell and Larcker Criteria (1981) , discriminant val-
-idity was tested by comparing the squared root values of AVE with
-the inter-constructs correlations. As depicted in Table 3, the square
-root values highlighted in bold are more than the inter-construct
-correlation values. Thus implying that the measurement model
-used has discriminant validity and the constructs used in the study
-differ from other study constructs. However, the use of discrimi-
-nant validity has been a subject of debate in multiple studies
-recently, where some researchers have criticized the criteria
-indicating a lack of reliability of the criteria in variance-based SEM
-studies ( Voorhees et al., 2016 ; Shiu et al., 201 1). Thus, the Hetero-
-trait and Monotrait ratio of correlations (HTMT) method was
-further applied to examine the discriminant validity of the mea-
-surement model ( Henseler et al., 2015 ). HTMT is a new advance-
-ment in PLS to determine the discriminant validity among the
-variables (Carri/C19on et al., 2016 ). The results for all seven constructs
-met the cut-off criteria of 0.85 ( Henseler et al., 2015 ). Table 4 pro-
-vide the correlation among the variables and all constructs had low
-correlation, thus meeting the criteria of HTMT.
-4.2. Structural model analysis
-After conﬁrming the measurement model, the structural model
-analysis was performed. For the structural model analysis, the SEM
-procedure of PLS is used to analyze the goodness of ﬁt index, R
-square, and hypotheses testing (Path coef ﬁcients). To check the
-path coef ﬁcients bootstrapping procedure with 5000 sub-samples
-was performed.
-The model's overall Goodness of Fit (GoF) is 0.517, obtained
-from the outlines ( Alolah et al., 2014 ) using the Equationﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ ﬃ
-AvE*R2
-p
-. Using the equation, the average AVE scores of seven
-constructs an average R square of two endogenous variables (SCE
-and SCF) are taken into consideration. Considering the criteria of
-GoF values of small at 0.1, medium at 0.25, and large at 0.36
-(Esfandiar et al., 2019 ), we can say that the current model has a
-good model ﬁt. Furthermore, the Model Fit Indices (See Table 5 )
-highlight good model ﬁt using Standardized Root Means Square
-(SRMR), indicating a value less than the cut-off limit. Similarly,
-Normed Fit Index (NFI) also indicated a good model ﬁt with a
-value of 0.956. Furthermore, the rms Theta value indicated a good
-model ﬁt with a value of 0.089.
-According to R Squared coef ﬁcients, the constructs modeled for
-the current study explained a moderate variance, with 40.7 percent
-variance reported by Supply Chain Financing and 36.7 percent
-variance reported by Supply Chain Effectiveness. The R square
-variance lies at a satisfactory level of more than 0.10, as suggested
-by Hair et al. (2019). Possible reasons for getting moderate R square
-values can be the presence of factors not covered in the study due to
-their scope.
-Table 1
-Reliability and validity of Constructs.
-Constructs Cronbach's
-Alpha
-Composite
-Reliability
-Average Variance
-Extracted (AVE)
-Collaboration 0.892 0.923 0.752
-External Environment 0.880 0.841 0.647
-Digitizing Technologies 0.903 0.939 0.838
-Financing Institutions 0.834 0.900 0.749
-Negotiation 0.777 0.813 0.601
-Supply Chain Effectiveness 0.813 0.864 0.614
-Supply Chain Finance 0.825 0.879 0.596
-Table 2
-Discriminant Validity using Fornell-Larcker Criteria.
-Constructs CO EE DT FI NE SCE SCF
-Collaboration 0.867
-External Environment 0.243 0.804
-Digitizing Technologies 0.273 /C0 0.186 0.915
-Financing Institutions 0.273 /C0 0.146 0.280 0.866
-Negotiation /C0 0.028 /C0 0.185 0.220 0.335 0.775
-Supply Chain Effectiveness 0.111 /C0 0.081 0.157 0.423 0.344 0.784
-Supply Chain Finance 0.288 /C0 0.089 0.420 0.321 0.368 0.517 0.772
-Note: Values in Bold indicate Squared values of AVE Scores.
-Table 3
-Heterotrait-Monotrait (HTMT) ratio of correlations.
-Constructs CO DT EE FI NE SCE SCF
-Collaboration
-External Environment 0.340
-Digitizing Technologies 0.266 0.157
-Financing Institutions 0.306 0.137 0.311
-Negotiation 0.116 0.198 0.174 0.328
-Supply Chain Effectiveness 0.170 0.100 0.152 0.474 0.290
-Supply Chain Finance 0.316 0.116 0.479 0.375 0.307 0.530
-K. Mulchandani, S.S. Jasrotia and K. Mulchandani Asia Paci ﬁc Management Review 28 (2023) 90 e98
-94
+[Page 1]
+Determining supply chain effectiveness for Indian MSMEs: A structural equation
+modelling approach
+Kalyani Mulchandani a, *, Sahil Singh Jasrotia b, Ketan Mulchandani c
+a Mukesh Patel School of Technology Management and Engineering, NMIMS University (Deemed to be University), Mumbai, India
+b Jaipuria Institute of Management, Indore, India
+c Anil Surendra Modi School of Commerce, NMIMS University (Deemed to be University), Mumbai, India
+article info
+Article history:
+Received 15 June 2021
+Received in revised form
+6 April 2022
+Accepted 7 April 2022
+Available online 26 May 2022
+Keywords:
+Supply chain effectiveness
+Digitizing technologies
+MSMEs
+Supply chain ﬁnance
+abstract
+Industry 4.0 has gained recent attention due to the dynamic nature of businesses. Implementation of
+technologies of industry 4.0 offers numerous bene ﬁts to the business, and the supply chain is no
+exception to it due to the growing need to adopt new technologies, especially in MSMEs, as they face
+liquidity issues. This study is conducted to determine the adoption factors for supply chain ﬁnance in
+MSMEs, eventually enhancing supply chain effectiveness. This study has considered negotiation,
+collaboration, the external environment, digitizing trade, and the role of ﬁnancial institutions. The study
+uses PLS Based Structural Equation Modelling to analyze the proposed conceptual model wherein the
+data was collected from various MSMEs in India. Results indicate that internal factors like negotiation,
+collaboration, and digitizing trade play an essential role in adopting supply chain effectiveness, and
+implementing supply chain ﬁnance leads to improved supply chain effectiveness.
+© 2022 The Authors. Published by Elsevier B.V. on behalf of College of Management, National Cheng Kung
+University. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/
+by/4.0/).
+1. Introduction
+These days' the supply chain has become complex due to the
+growing size of the businesses, diverse product portfolios, and
+various geographic places to be served ( Kamble, Gunasekaran, &
+Sharma, 2018 ). In Industry 4.0, supply chain management has
+gained importance due to the growing need to adopt new tech-
+nologies. Supply chain operations have become dynamic due to
+competitive pressure and global network ( Creazza et al., 2010 ;
+Zhang et al., 2003 ), and therefore, Supply chain (SC) management
+has become a challenging task for managers. SC management fo-
+cuses on ﬁrms having the capacity to set and maintain long-term
+relationships with partner organizations ( Fei & Yi-na, 2006 ). To
+date, the primary focus of supply chain managers is on optimizing
+the ﬂow of goods. Many studies have considered the movement of
+goods in the supply chain ( Bhatnagar & Teo, 2009), but one of the
+essential aspects overlooked in previous studies is the ﬁnancial
+ﬂow in the supply chain ( Basu & Nair, 2012; Pfohl & Gomm, 2009).
+Any organization's supply chain impacts the amount of working
+capital required by the ﬁrm, which shows it also affects pro ﬁt-
+ability. Micro, small and medium enterprises (MSMEs) are also
+looking for alternatives for short-term ﬁnancing that can provide
+assistance for ﬁxing credit issues and enhance ﬁnancial perfor-
+mance. In addition to other ﬁnancing methods, organizations with
+higher bargaining power are getting trade credit from suppliers,
+worsening the situation for members in the upstream supply chain.
+(Coulibaly et al., 2013 ). These factors have led to determining so-
+lutions that can optimize working capital. In times of industry 4.0,
+SCF has emerged as an effective tool that helps optimize ﬁnancial
+ﬂows at different organizational levels ( Hofmann, 2005 ), and the
+solutions are executed by ﬁnancial institutions ( Chen & Hu, 201 1).
+In India, an enterprise is considered a micro-enterprise when
+the amount of investment in plant and machinery does not exceed
+one crore and the turnover is not exceeding the amount of ﬁve
+crores. Small enterprise has an investment of less than or equal to
+ten crores, and the amount of turnover does not exceed ﬁfty crores.
+Medium enterprises have the investment in plant and machinery
+not exceeding ﬁfty crores, and turnover does not exceed two
+hundred and ﬁfty crores ( MSME, 2020).
+* Corresponding author.
+E-mail addresses: kalyaniparmal@gmail.com (K. Mulchandani), Sahiljasrotia93@
+gmail.com (S.S. Jasrotia), ketanmul@gmail.com (K. Mulchandani).
+Peer review under responsibility of College of Management, National Cheng
+Kung University.
+HOSTED BY Contents lists available at ScienceDirect
+Asia Paci ﬁc Management Review
+journal homepage: www.elsevier.com/locate/apmrv
+https://doi.org/10.1016/j.apmrv.2022.04.001
+1029-3132/© 2022 The Authors. Published by Elsevier B.V. on behalf of College of Management, National Cheng Kung University. This is an open access article under t he CC BY
+license ( http://creativecommons.org/licenses/by/4.0/).
+Asia Paci ﬁc Management Review 28 (2023) 90 e98

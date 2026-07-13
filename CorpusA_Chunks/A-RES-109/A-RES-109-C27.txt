@@ -1,0 +1,167 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-109-C27
+Parent Doc ID: A-RES-109
+Page Range: Page 13
+Word Range: 7151 - 7413
+Word Count: 263
+--------------------
+
+[Page 13]
+eigenvector and degree centralities of the word SME in Clusters 1 and 2 are high, albeit its
+low co-occurrence frequency compared to the previous period.
+The historical relations of the research themes emerged during the periods 2002– 2014 and
+2002– 2018, as shown in Figure 7. The broader thematic context is obtained for the period
+2002– 2014, whereas the inclusion of recent articles (i.e. 2015– 2018) resulted in identifying the
+emerging research directions out of these broader issues. Through this approach, we are able
+to identify the dynamic evolution of the research domain. The first cluster “Production and
+distribution in AFN” has emerged from the Cluster 2 of period 2002– 14, as shown in Figure 7.
+In recent years, AFN research is focussed on online spaces for reconnection (Bos and Owen,
+2016), consumer behaviour towards buying in short food supply chains (SFSC) (Giampietri
+et al., 2016a), trust and relationship in AFN (Roy et al., 2017; Pinna, 2017), farmer ’sm a r k e t
+(Schupp, 2017), economic sharing in AFN (Miralles et al., 2017) and so on.
+The second cluster “Relationship, safety, and standards in the food supply chain ” has
+emerged from Cluster 3 of 2002 – 2014, which focussed on improving the performance of the
+supply chain through the relationship among members. Recent articles in this sub-theme
+are focussed on retailers ’ adoption of safety standards and its impact on organizations
+sourcing methodology. It is observed that the publications on the contractual relationship
+among supply chain members from the first cluster (market economics of contract farming
+in the FSC) during 2002 – 2014 are clustered with this subgroup (e.g. Reardon et al. , 2014;
+Poulton et al. , 2010).
+229
+16335 301 355
+69379
+363 325
+335
+77 303
+265197
+24171351
+357
+239373 193
+255 279
+345387
+389
+185409
+403
+287 243 365 399
+359319
+333
+269
+401
+103 109 337
+299
+305
+423
+75
+449
+65
+147
+33
+413
+157
+73
+51 275
+397
+453
+291 169
+215
+205
+375107
+329
+149 195
+105165
+283353
+223
+347 189
+221
+231
+281
+331
+87
+167
+349
+315317339
+153
+445 451
+369 371
+357
+181 57
+361 455
+321
+143
+11
+15
+1
+323
+289
+447
+93 43
+89
+91
+209
+225285
+137 67
+115 7
+179
+32734185253
+405
+183
+441
+443
+29561
+2914581
+55
+191 251
+261
+293
+4599
+47
+19249
+95 12783
+311273
+199
+219
+439
+129 151 461 233
+26363
+121
+217
+171
+411
+427
+Cluster 5
+Cluster 2
+Cluster 4
+Cluster 3
+Cluster 1
+201 131 211 247
+267 429 383 39 27 53
+42539543530743723117
+381 421 259 377 391 407 343 245
+3 415
+271
+431 335 177
+123 187
+463 161 227
+119 9
+417
+113
+135 459 313
+125 1751714179
+457 277 393 111 101
+237 97
+419 309
+155
+433 173 59 159 49 25
+213385367207139
+Figure 5.
+Clustering of the
+bibliographic coupled
+articles based on the
+modularity index
+using Gephi
+(2002– 2018)
+31
+Supply chain
+issues in SME
+food sector
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

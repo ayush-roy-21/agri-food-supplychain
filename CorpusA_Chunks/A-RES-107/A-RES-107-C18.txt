@@ -1,0 +1,229 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-107-C18
+Parent Doc ID: A-RES-107
+Page Range: Page 5 to Page 6
+Word Range: 4492 - 4741
+Word Count: 250
+--------------------
+
+[Page 5]
+Marques et al. 1061
+and daily organisational practices. However, only recently has
+OSCM scholarship begun to consider decoupling (Barratt and
+Choi, 2007), and most recent research has investigated decou-
+pling in suppliers’ response to pressures related to sustainabil-
+ity (Huq and Stevenson, 2018; Nath et al., 2020). W e centre
+our analysis on decoupling while expanding the scope to the
+interplay between focal ﬁrms’ and suppliers’ complementary
+forms of decoupling.
+Decoupling has been conceptualised at two levels:
+policy–practice and means–ends. It is valuable to distinguish
+between these two forms because of their varied conse-
+quences for organisations (Bromley and Powell, 2012). The
+policy–practice gap exposes the misalignment between policy
+and practice over time. Policy–practice decoupling allows
+organisations to adopt conﬂicting policies in response to
+external pressures without disturbing their daily operations
+(Bromley and Powell, 2012). Often, decoupling occurs across
+the organisational hierarchy: Those in charge of policy
+please external stakeholders, while those in charge of daily
+activities continue to perform untouched (Barratt and Choi,
+2007). Such isolation in daily activities has been framed as
+‘buffering’ (Bromley and Powell, 2012), that is, as long as
+policy adoption alone builds legitimacy, real change can be
+delayed. Arguments for delaying action include a lack of
+capacity and the need for time and costs to adapt (Nath et al.,
+2020).
+In means–end decoupling, policies are implemented that
+have a weak relationship with the intended outcomes (Asif,
+2020). Organisations are inherently complex. Within that com-
+plexity, organisational participants may consciously recog-
+nise that some actions are of limited utility but still pur-
+sue them to please some stakeholders (Bromley and Powell,
+2012). The allocation of resources between practices that
+only aim at legitimacy and core practices disperses energy.
+A lack of transparency increases the potential of dissoci-
+ation between means and ends and eventually renders the
+implementation of sustainability standards impossible (Wijen,
+2014).
+Focal ﬁrms that prioritise their reputation will often trans-
+fer responsibility for issues related to modern slavery to their
+suppliers (Meehan and Pinnington, 2021). In other words,
+they deﬁne policy, but action is ‘outsourced’ to their supply
+chain, thereby overburdening suppliers. This is probably why
+previous research has focused on supplier decoupling, specif-
+ically as means–end decoupling. Suppliers may engage in a
+concealment strategy, attempting to prevent nonconformity
+with sustainability practices by deliberately hiding their vio-
+lations. Alternatively, suppliers may engage in a consensual
+strategy that entails attempting to implement partial sustain-
+ability practices by negotiating with other actors (Nath et al.,
+2020). In fact, when focal ﬁrms ‘outsource’ an action to their
+supply chain, they are also engaging in decoupling, but this
+issue has been less addressed in the literature.
+Decoupling (in both forms) often occurs due to infor-
+mation asymmetry between ﬁrms and their stakeholders
+(Huq and Stevenson, 2018). Supply chain transparency may
+reduce information asymmetry (Chen et al., 2022). In addi-
+tion, blockchain solutions can ease the transaction costs of
+implementing supply chain transparency (Saberi et al., 2018;
+Treiblmaier, 2018). However, if resistance arises from sup-
+ply chain actors (in the form of decoupling), blockchains may
+fail to support supply chain transparency, resulting in the per-
+sistence of modern slavery risks. Our intervention aims to
+understand the extent to which blockchain can ease transaction
+costs and enhance supply chain transparency (RQ1) and why
+transparency to mitigate modern slavery is met with resistance
+(RQ2).
+3 Methodology
+3.1 Intervention-Based Research
+Recent OSCM research has urged scholars to eschew the
+‘quintessential ivory tower syndrome’ (van Aken et al., 2016,
+p. 1) and critically engage with the problems they study
+(Touboulic et al., 2020). The former calls for effective-
+ness over explanation, designing/testing over theorisation,
+and pragmatic validity over theoretical validity (van Aken
+et al., 2016). The latter invites engagement over observa-
+tion, exploring researcher agency and embeddedness over
+time to allow access to what is usually inaccessible, as well
+as critical thinking, reﬂexivity, and contextualisation ‘by de-
+privileging the criterion of generalisability’ (Touboulic et al.,
+2020, p. 10).
+IBR is a methodological umbrella that can help answer
+those calls. IBR can aim to solve a socio-technical problem
+in a given context while reﬂecting on the theoretical implica-
+tions of such endeavours (Fendt and Kaminska-Labb ́e, 2011;
+Iivari and V enable, 2009). Although historically marginalised,
+IBR has received growing attention in recent years, resulting in
+guidance for researchers (Chandrasekaran et al., 2020). Hav-
+ing considered different guidelines for IBR, this study follows
+Oliva (2019, p. 710), seeking to ‘explore the role that inter-
+ventions (the ultimate manifestation of design science) can
+play in testing and developing theory (the ultimate goal of an
+academic endeavour)’. According to this framework, IBR is
+structured into two modes of enquiry. Mode 1 is grounded
+in action research and can test and expand theories (Check-
+land, 1985), while mode 2 holds explanatory power grounded
+in a process perspective, which can lead to theory development
+(Langley, 1999). In other words, an intervention can explore
+why the chosen theory cannot explain the phenomenon?(mode
+1) and why the system behaves in an unexpected manner?
+(mode 2).
+Along our journey, unexpected results allowed us to explore
+both modes of enquiry. In Appendix 2 (see: e-companion),t h e
+iceberg analogy is used to show that mode 1 occurred at the
+surface, that is, investigating blockchain and transaction costs
+(RQ1), whereas mode 2 delved deeper into the bottom of the
+iceberg, exploring the decoupling and misconduct that led to
+interruption of the intervention (RQ2).
+
+[Page 6]
+1062 Production and Operations Management 34(5)
+Mode 1 reﬂects action research, which favours practical
+utility and encourages change (i.e., a successful intervention)
+while also yielding insights for theory elaboration. The action
+researcher simultaneously takes action and creates knowl-
+edge (Touboulic and Walker, 2015a). The practical utility of
+this study was the signiﬁcant involvement in the development
+of a mobile app to survey working conditions. Y et, midway
+through the intervention, we recognised the misﬁt between
+the adopted theory and our data, as resistance prevented the
+blockchain from advancing. Unpacking audit and governance
+costs enabled a granular revision of the total costs involved.
+In the Section 4, we provide evidence of why the theory was
+insufﬁcient to fully inform the intervention and how it failed
+to anticipate speciﬁc developments. In Oliva’s (2019) terms,
+we reﬂected on situation S to inform why theory T was not
+capable of explaining the intervention.
+After identifying the misﬁt, the research team turned its
+attention to mode 2 or why the system behaved unexpect-
+edly. The focus slowly shifted from action research to process
+research, where theory elaboration is central and practical util-
+ity is secondary. Although we were still involved in the project
+report and relationship with other stakeholders, our attention
+was increasingly oriented towards explaining why the new
+situation S’ differed from the expected situation S*. In pro-
+cess research, abductive reasoning is utilised to combine the
+inside-out perspective of transaction costs with the outside-in
+perspective of organisational misconduct (Greve et al., 2010)
+and decoupling (Bromley and Powell, 2012). W e had entered
+the project aware of the high unpredictability inherent to social
+and technical dimensions of the intervention, but we were
+quite surprised by the results.
+3.2 Intervention Management and Data Collection
+This study involves IBR focused on a particular industry in
+which modern slavery risks are salient, the fashion indus-
+try, and a particular country, Brazil, a representative of Latin
+America and the Global South. The Brazilian fashion sup-
+ply chain can be fully local, from farm to store, and yet
+exhibits high levels of opacity. Fashion brands normally out-
+source their production to tier-1 suppliers, who take charge
+of buying fabric, cutting fabric, and ﬁnishing the product
+while re-outsourcing the sewing to tier-2 sewing cells. While
+the conditions at the fashion brands and tier-1 suppliers are
+usually adequate (often above standards), workers in sub-
+suppliers often endure precarious conditions. There is higher
+turnover, and tier-2 suppliers eventually informally outsource
+production they cannot manage to other sewing cells, thus cre-
+ating informal/illegal tier-3 suppliers. The further away the
+brands are from the consumer, the higher the risk of mod-
+ern slavery. Multitiered outsourcing often portrays suppliers
+in a dependent relationship with focal ﬁrms as intermittent
+(non-dependent) to shield those focal ﬁrms from problems
+when modern slavery is uncovered. Such blurred liability has
+been overcome in some cases in which employee testimonials,
+contracts, and invoices were used as evidence, but cases that
+reach the court and lead to convictions represent only a tiny
+fraction of the reality (Marques et al., 2021).
+The goal of the intervention was to develop and pilot test
+a mobile app that could invite workers to participate in a
+monthly census of their working conditions. A key step of IBR
+is researcher–client agreement. Unlike a non-participatory
+approach, action research entails real interaction between the
+researcher and the loci of the research (Iivari and V enable,
+2009). This project was led by the research team after an
+offer of funding from a prominent NGO in the industry,
+here referred to as NGO-A, in December 2017. NGO-A was
+founded by the owners of a major European fashion retail
+chain that has been operating in Brazil since the 1980s. NGO-
+A is dedicated to promoting transparency and systemic change
+by funding projects that aim to change the fashion supply
+chain towards sustainability and transparency. Engagement
+with NGO-A automatically brought Brand-A into the project
+to provide us with access to ﬁeldwork. The research team and
+NGO-A identiﬁed and invited a blockchain start-up focused
+on developing blockchain solutions oriented towards scalable
+social change. Together, the research team and the start-up
+constituted the project’s Core T eam.
+The research project spanned from December 2017 to
+March 2020. In December 2017, negotiations between
+Researcher-A and the NGO-A, and the proposal was devel-
+oped and signed in 2018. In January 2019, Researcher-B
+joined the team, and the intervention lasted until March 2020,
+when the expansion from the pilot to full implementation was
+interrupted. Researcher-A was the project manager through-
+out the full period. Researcher-A, Researcher-B, or both were
+present at all data collection points, except after Researcher-C
+joined the team in October 2019 and conducted the last round
+of interviews.
+The project plan consisted of involving two pilot supply
+chains, each composed of one brand, two tier-1 suppliers, and
+four tier-2 suppliers. In 2018, a second brand took part in the
+research but dropped out in the ﬁrst month of project exe-
+cution. Thus, the project kicked off in February 2019 with
+only Supply Chain-A, while searching for a second brand (a
+strict requirement of NGO-A). By June 2019, NGO-B and
+Brand-B joined the project and provided some extra fund-
+ing. NGO-B is a small-sized organisation but is recognised
+for its work towards sustainability. Brand-B is a Brazilian
+brand founded in the 1980s, with a much smaller scale and a
+price ticket 7–9 times higher than that of Brand-A. Therefore,
+the brands did not view themselves as competitors. Supply
+Chain-B was formed by one focal ﬁrm, two tier-1 suppliers,
+and three (instead of four) tier-2 suppliers. Non-disclosure
+agreements (NDAs) were signed by all ﬁrms in both supply
+chains.
+Although both brands were leaders in sustainability and
+transparency initiatives in the country, there were also valuable
+differences between the two supply chains: different origins
+(Brand-A is European and Brand-B is local), different sizes

@@ -1,0 +1,229 @@
+--- CHUNK HEADER ---
+Chunk ID: A-CSR-101-C55
+Parent Doc ID: A-CSR-101
+Page Range: Page 11 to Page 12
+Word Range: 13982 - 14231
+Word Count: 250
+--------------------
+
+[Page 11]
+create that environment where flows of information come and go for 
+them all the time.” MS11
+As part of this process with clear mutual dependencies, boundary 
+spanning activities play an important role. For example, in the context of 
+WVT, collecting the data outside of the workplace, such as with the help 
+of a trusted local NGO, illustrates how collaboration among diverse 
+actors can improve the likelihood of identifying modern slavery. 
+Building a database can then provide a basis for a data analytics program 
+to indicate potential hotspots. As one respondent explained, 
+“[A platform] doesn’t give you a definitive “this person is in modern 
+slavery” but rather it presents you with, okay, these are the various 
+risk factors here. […] This person doesn’t have access to their ID 
+documents. They weren’t paid on time last month. They did pay a 
+recruitment fee to get this job and then you’re able to build up a bit of 
+a picture and you as an auditor or a frontline responder can say, hey, 
+I think there might be a modern slavery situation here.” MS6
+The analytics are only as good as the input data, and collaboration is 
+therefore a key enabler of data analytics. Actors collaborate to secure 
+access to valuable resources, whether they are technological or admin -
+istrative, to identify modern slavery. Critically, as the evidence 
+demonstrated, these resources can be held by different actors from both 
+domains. Technology providers, for example, may either hold or can 
+facilitate access to key worker response data. However, it may only be 
+possible to collect this data by drawing on the resources of other critical 
+actors, such as contextually embedded NGOs holding local knowledge, 
+access, and trust. Data collection, data exchange, and data analytics are 
+therefore all grounded in mutual dependencies requiring good-faith 
+collaborations focused on aligning key activities.
+4.4. Contextual embeddedness
+Context is also important for identifying modern slavery as different 
+approaches will be more applicable in different situations. One partici -
+pant went so far as to suggest that identifying modern slavery in practice 
+means “you’re trying to figure it out on a case by case basis” (MS27), 
+while another noted that you must put what you know “within the 
+context of that universe” (MS23). Recognizing the context is critical and 
+a failure to do so hampers the ability to identify modern slavery. For 
+example, an often-cited example focused on auditor skills as one 
+participant explained: 
+"It’s been quite interesting to see the difference in approach and 
+sometimes the auditors are lacking that nuance and really kind of the 
+reality of context on the ground to put some of the information to 
+analyze it against that." MS7
+Resource access is one of the keys to tailoring approaches to identify 
+modern slavery to the specific context of any one supply chain. Resource 
+access is often underpinned through collaborations. For example, one 
+key resource is physical access to local environments. Physical access 
+must also be supported by the resources needed to identify modern 
+slavery once on-site, such as language skills, perceptions of legitimacy, 
+and technology. As our collected evidence made clear, understanding 
+the context (in a facility or, more broadly, in a geographical location) 
+assists collaborating actors in developing their strategies for identifying 
+modern slavery. The following quote illustrates the importance of con -
+textually embedded NGOs in providing access to resources required in 
+many contexts, such as local translators and, more importantly, local 
+networks and worker trust: 
+“You know what we draw NGOs for? We draw on them for an advice 
+that is localized in the different regions we work and who to align 
+with if we have a case to remediate or there is a victim. So really 
+leaned on people who have some expertise on the ground where we 
+source from through our supply chain, who understand the real is -
+sues in our supply chain.” MS15
+Building on the point above, the need to understand the cultural and 
+linguistic context of the workers was repeatedly emphasized. Collabo -
+rations are critical in providing an understanding of the needed context. 
+One expert explained the potential roles of NGOs in doing so: 
+“One is that for solving a problem you need to understand the 
+problem, so if you need to create a works and providing the infor -
+mation doing research on understanding the context, so what is not 
+working, why is not working is the first step so certainly NGOs could 
+play a pivotal role on that providing background context and per -
+spectives.” MS14
+Understanding the broader community context in which modern 
+slavery occurs is also essential. Auditors can reach out to local com -
+munities (i.e., not only the workers themselves) with the help of local 
+NGOs. This can be for the purpose of connecting with the broader 
+community, but also for providing an additional layer of safety for the 
+auditor. Improved safety, for example, could potentially be enabled 
+through wearable technologies, such as having an on-the-ground com -
+munity actor monitoring the location of the auditor while they were on- 
+site. One participant explained the importance of connecting to the 
+broader community: 
+“I think, which has also been innovative, is really attempting to the 
+extent possible to interview workers in their communities rather 
+than at their workplaces or in areas outside of their workplaces. So 
+you know, on Sundays workers that work six days a week, they might 
+go to the market for a couple of hours, so we are able to interview 
+them there, sort of offsite at worker housing.” MS26
+Contextual embeddedness also means matching the monitoring 
+technologies with the environment. Sophisticated technologies are not 
+necessarily needed; basic technologies (such as mobile phones, cameras, 
+or hotlines) can also be effective and appropriate in different situations. 
+Technological solutions often need to be agile and suitable for the low- 
+technology environments in which modern slavery often flourishes. 
+Moreover, sophisticated and basic monitoring technologies can be used 
+together to increase the likelihood of identifying modern slavery. This is 
+illustrated in the following quote: 
+“So, in certain factories, workers have high levels of literacy and 
+access to smartphones, an app-based, text-based grievance mecha -
+nism might work great […] In the coffee sector with funding from 
+[redacted] on a needs assessment [we] found that the vast majority 
+of workers didn’t have a smartphone, didn’t have Internet access, 
+very low levels of the literacy, [and were] non-Spanish speakers. In 
+that case, we actually determined that the lowest tech solution was 
+the most appropriate that workers prefer. We also asked about their 
+preferences, they preferred face to face interaction. Telephone calls 
+also played apart and community radio and announcements, for 
+example, but realizing that context, a high tech solution really wasn’t 
+going to be appropriate to workers needs and technology access.” 
+MS26
+Any approach to identifying modern slavery must be mindful of the 
+potential adverse effects in different contexts. One risk in some envi -
+ronments is that there can be a dark side to technology. For example, 
+some interviewees noted that the technology might be used to exert 
+control over workers. There are also many challenges in implementing 
+technologies in practice, such as ensuring poor data are not codified, 
+interoperability, data security, and the high cost of mobile data, to name 
+just a few of the illustrations provided by respondents. These challenges 
+can vary between supply chains, so it is important to be mindful of 
+unique situational contingencies. Yet, all of the experts also agreed that 
+monitoring technologies can play an important role in the process of 
+identifying modern slavery if it is leveraged through collaborations be -
+tween key actors in the system.
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+11
+
+[Page 12]
+5. Discussion
+Our study provides several contributions, including further evidence 
+on the existence of the contracts- and conditions-focused domains, as 
+well as extending understanding of those domains with evidence of 
+micro- and macro-levels of collaborations and boundary spanning col -
+laborations. Importantly, our study also identified four key contin -
+gencies facilitating or inhibiting the identification of modern slavery by 
+leveraging monitoring technologies through collaborations. In this sec -
+tion, we discuss a conceptual framework grounded in our analysis and 
+discuss the contribution of our work to the literature.
+5.1. Conceptual framework
+Our findings provide the foundation for developing a conceptual 
+framework for leveraging technology through collaboration to identify 
+modern slavery ( Fig. 1 ). Our framework explains how multi-actor col -
+laborations can leverage monitoring technologies to identify modern 
+slavery – facilitated (or inhibited) by four key contingencies (i.e., 
+modern slavery posture, collaboration scope, cross-boundary in -
+teractions, and contextual embeddedness).
+As shown in Fig. 1 , the framework recognizes the contracts-focused 
+and conditions-focused domains. In the contracts-focused domain, 
+multiple actors develop collaborations and exchange resources to 
+further their strategic goal of confirming the absence of modern slavery. 
+The collaborations and resources required to confirm the absence of 
+modern slavery are based in the modern slavery posture of the actors. 
+The collaboration scope can, therefore, vary from one supply chain to 
+another, potentially addressing collaborations at the micro- and macro- 
+levels. Grounded in RDT, these collaborations will be focused on 
+ensuring the necessary resources are available to confirm the absence of 
+modern slavery. In other words, the actors seek collaborations that 
+address resource needs congruent with their strategic goals. As actors ’ 
+motivation to identify modern slavery increases, collaborations have the 
+potential to broaden in scope at the micro- and macro-levels to ensure 
+that the needed resources are available to address those needs. This 
+exchange of resources includes technological solutions, such as worker 
+voice technologies, hotlines, or exchange of data through auditing 
+platforms. The contracts-focused domain, therefore, demonstrates the 
+linkage between modern slavery posture, collaboration scope, and effi -
+ciently leveraging monitoring technologies through collaboration to 
+confirm the absence of modern slavery in a supply chain.
+The conditions-focused domain has the strategic goal of confirming 
+the presence (where it exists) of modern slavery. This domain also 
+originates from modern slavery posture, which is grounded in an actor ’ s 
+purposeful decision to explicitly identify modern slavery. Recognizing 
+modern slavery posture as a starting point for both domains underscores 
+the potential for cross-boundary interactions. The framework, therefore, 
+recognizes that the contracts- and conditions-focused domains are co- 
+existing and can both contribute to identifying modern slavery. The 
+framework also recognizes that collaborations can bring mutually 
+dependent resources (such as trusted local informants) to bear through 
+both domains, as well as across the micro- and macro-levels. Moreover, 
+the conditions-focused domain requires that cross-boundary collabora -
+tion is tailored to the unique supply chain context. Identifying the 
+presence of modern slavery, particularly in cases where it is concealed, 
+requires an approach specifically applicable to the context of the unique 
+circumstances of that supply chain. These tailored approaches can 
+include monitoring technologies leveraged through multi-actor collab -
+oration. Starting from modern slavery posture, this domain therefore 
+demonstrates the linkage between cross-boundary interactions, 
+contextual embeddedness and effectively leveraging monitoring tech -
+nologies through collaboration to confirm the presence of modern 
+slavery (where it exists) in supply chains.
+5.2. Contributions to the literature and theory
+Our study supports the literature showing that collaborations are 
+driven by a pursuit of strategic goals through recognizing and devel -
+oping mutual dependencies (e.g., Berkowitz et al., 2020 ; Kretschmer 
+et al., 2022 ). In the modern slavery literature, this pursuit is commen -
+surate with identifying modern slavery in the contracts-focused and 
+conditions-focused domains ( Simpson et al., 2021 ), with the former 
+associated with confirming the absence of modern slavery, and the latter 
+associated with confirming the presence of modern slavery. Our study 
+also shows that RDT is a valuable outcomes focused approach (see Oli -
+veira et al., 2022 ), which helps to explain the advantage provided by 
+collaboration among different key actors to identify modern slavery. 
+Technology adoption in collaborations is also influenced by the strategic 
+goals of collaborating actors. Consequently, collaborations based around 
+technologies can advance positive outcomes, such as increased veracity 
+and timeliness of monitoring activities in supply chains ( Castka et al., 
+2020 ; Reid and Castka, 2023 ), but also potentially lead to concealment 
+and legitimization of illegal or unethical activities, such as increased 
+control over the workforce ( Mol, 2010 ). While previous studies have 
+alluded to some aspects of collaboration in the context of modern 
+slavery ( Gold et al., 2015 ) or investigated the adoption of technological 
+solutions in this context ( Marques et al., 2024 ), this research widens our 
+understanding about strategic actions of actors through collaborations, 
+with a specific focus on monitoring technologies (see Table 6 ).
+At a more nuanced level, we expand the literature by demonstrating 
+how four key contingencies (i.e., modern slavery posture, collaboration 
+scope, cross-boundary interactions, and contextual embeddedness) 
+facilitate (or inhibit) leveraging monitoring technologies embedded in 
+collaborations. First, our evidence reveals that the posture taken by 
+different actors will shape why collaborations occur and the type of 
+Fig. 1. Conceptual framework for leveraging monitoring technology through collaboration to identify modern slavery.
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+12

@@ -1,128 +1,44 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-105-C05
 Parent Doc ID: A-RES-105
-Page Range: Page 15 to Page 17
-Word Range: 6339 - 7694
-Word Count: 1,356
+Page Range: Page 4
+Word Range: 1208 - 1515
+Word Count: 308
 --------------------
 
-[Page 15]
+[Page 4]
 Journal of Decision Analytics and Intelligent Computing 2(1) (2022) 36-52 Verma et al. 
- 50  
+ 39  
  
-Mou, W., Wong, W. K., & McAleer, M. (2018). Financial credit risk evaluation based on core enterprise supply 
-chains. Sustainability, 10(10), 3699 
-Naeem, H. M., & Garengo, P. (2022). The interplay between industry 4.0 maturity of manufacturing processes and 
-performance measurement and management in SMEs. International Journal of Productivity and Performance 
-Management. 
-Ng, H. S., Kee, D. M. H., & Ramayah, T. (2019). Examining the mediating role of innovativeness in the link between 
-core competencies and SME performance. Journal of Small Business and Enterprise Development. 
-Prakash, S., Joshi, S., Bhatia, T., Sharma, S., Samadhiya, D., Shah, R. R., Kaiwartya, O., & Prasad, M. (2020). 
-Characteristic of enterprise collaboration system and  its implementation issues in business management. 
-International Journal of Business Intelligence and Data Mining, 16(1). 
-https://doi.org/10.1504/IJBIDM.2020.103853 
-Prasad, M., Li, D.-L., Lin, C.-T., Prakash, S., Singh, J., & Joshi, S. (2015). Designing Ma mdani-Type Fuzzy Reasoning 
-for Visualizing Prediction Problems Based on Collaborative Fuzzy Clustering. IAENG International Journal of 
-Computer Science, 42(4). 
-Qamar, S., Ahmad, M., Oryani, B., & Zhang, Q. (2022). Solar energy technology adoption and diffu sion by micro, 
-small, and medium enterprises: sustainable energy for climate change mitigation. Environmental Science and 
-Pollution Research, 1-19. 
-Quansah, E., Hartz, D. E., & Salipante, P. (2022). Adaptive practices in SMEs: leveraging dynamic capabiliti es for 
-strategic adaptation. Journal of Small Business and Enterprise Development. 
-Rameshwar, R., & Joshi, S. (2018). Technological Transformations and Entrepreneurial Approach in Indian MSMEs: 
-Empricial Evidence. In Sustainable Supply Chain Capabilities o f Micro, Small, and Medium Enterprises - 
-Influences, Practices, and Opportunities (Vol. 1, pp. 60–72). Emerald Insight, United Kingdom. 
-Rana, P., & Joshi, S. (2020). Management Practices for Sustainable Supply Chain and Its Impact on Economic 
-Performance of SMEs: An Analytical Study of Uttarakhand State, India. International Journal of Management, 
-11(10). 
- Read, J. L., Quinn, R. J., Berwick, D. M., Fineberg, H. V., &  Weinstein, M. C. (1984). Preferences for health 
-outcomes: comparison of assessment methods. Medical Decision Making, 4(3), 315-329. 
- Reim, W., Yli -Viitala, P., Arrasvuori, J., & Parida, V. (2022). Tackling business model challenges in SME 
-internationalization through digitalization. Journal of Innovation & Knowledge, 7(3), 100199. 
-Rodríguez-Espíndola, O., Cuevas-Romo, A., Chowdhury, S., Díaz -Acevedo, N., Albores, P., Despoudi, S., ... & Dey, 
-P. (2022). The role of circular economy principles and sustainabl e-oriented innovation to enhance social, 
-economic and environmental performance: Evidence from Mexican SMEs. International Journal of Production 
-Economics, 248, 108495. 
- Shanker, S., Barve, A., Muduli, K., Kumar, A., Garza -Reyes, J. A., & Joshi, S. (2021).  Enhancing resiliency of 
-perishable product supply chains in the context of the COVID -19 outbreak. International Journal of Logistics 
-Research and Applications, 1–25. 
-Shantanu Rajora Dong-Lin Li, C. J. N. B. O. P. P. S. J. D. P. M. P. (2018). A Comparative  Study of Machine Learning 
-Techniques for Credit Card Fraud Detection Based on Time Variance. 2018 IEEE Symposium Series on 
-Computational Intelligence (SSCI), 1958-1963, 2018. 
-Sharma, M., & Joshi, S. (2012). Creating Silicon Valley in Europe: Public Policy Towards New Technology Industries. 
-International Journal of Social Economics, 39(9). https://doi.org/10.1108/03068291211245745 
-Sharma, M., & Joshi, S. (2019a). Brand sustainability among young consumers: an AHP -TOPSIS approach. Young 
-Consumers, 20(4). https://doi.org/10.1108/YC-12-2018-0914 
-Sharma, M., & Joshi, S. (2019b). Online Advertisement using Web Analytics Software: A Comparison using AHP 
-Method. International Journal of Business Analytics (IJBAN), 7(2).
-
-[Page 16]
-Journal of Decision Analytics and Intelligent Computing 2(1) (2022) 36-52 Verma et al. 
- 51  
+Research is a value -oriented approach that includes collecting, recording, summarizing, classifying and 
+evaluating, along with clear logics and reasons, relevant facts about any problem. Research is scientific and 
+systematic search to solve the research problem for relevant knowledge on a specified subject. It is an approach 
+to developing new ideas and values within a structu red body of knowledge and exploration. There are two 
+qualitative and quantitative methodologies for the study of scientific research. Figure 1 depicts the research 
+framework used for the paper. As per Read (1984), the analysis method's preference relies upon the goals of the 
+research and the application of the results. Alongside this methodology, a systematic review of current literature 
+on the phenomenon of research, working from the general to the specific, conceived the relationship's causal 
+model. The a nalysis model was then validated empirically using the multivariate technique subset Structural 
+Equation Modeling (Hair et al., 2010). 
+2.3 Research Strategy 
+The research aims to evaluate the sustainable administration practices of the supply chain and its success 
+among SMEs. In this research, factor analysis was used to investigate the stated goals. Figure 2 provides a detailed 
+overview of the steps involved in this analytical method. The empirical strategy involves the survey, the creation 
+of the questionn aire and the collection of data, and the breakdown of data obtained using expressive 
+measurements and dynamic study. 
+SSCM- Literature review
+ Existing theory related to SSCM and the origin of SSCM
+ Review of Literature
+Critical success factor identification
+ Picking up existing items through Secondary data (literature 
+review).
+ Development of Survey Questionnaire
+ Development of SSCM model.
+ Systematic Literature review and Theoretical framework 
+building 
+ Future research recommendations
  
- Sharma, M., & Joshi, S. (2020). Digital supplier selection reinforcing supply chain quality management systems to 
-enhance firm’s performance. The TQM Journal. 
-Sharma, M., & Joshi, S. (2021). Barriers to Blockchain Adoption in healthcare industry: An Indian perspective. 
-Journal of Global Operations and Strategic Sourcing. 
-Sharma, M., Gupta, M., & Joshi, S. (2019). Adoption barriers in engaging young consumers in the Omni -channel 
-retailing. Young Consumers, 21(2). https://doi.org/10.1108/YC-02-2019-0953 
-Sharma, M., Joshi, S., & Govindan, K. (2021). Iss ues and solutions of electronic waste urban mining for circular 
-economy transition: An Indian context. Journal of Environmental Management, 290, 112373. 
-https://doi.org/https://doi.org/10.1016/j.jenvman.2021.112373 
-Sharma, M., Joshi, S., & Kumar, A. (2020b). Assessing enablers of e-waste management in circular economy using 
-DEMATEL method: An Indian perspective. Environmental Science and Pollution Research, 27(12), 13325 –
-13338. 
-Sharma, M., Joshi, S., & Kumar, M. (2009). Gap analysis in DTH Service quality a n empirical study for exploring 
-customer satisfaction towards DTH Services using servqual. 
-Sharma, M., Joshi, S., & Singh, V. K. (2021). ERP Implementation Barriers. In Digitising Enterprise (pp. 153 –159). 
-CRC Press. 
-Sharma, M., Joshi, S., Kannan, D., Govindan, K., Singh, R., & Purohit, H. C. (2020a). Internet of Things (IoT) adoption 
-barriers of smart cities’ waste management: An Indian context. Journal of Cleaner Production, 270, 122047.  
-Sharma, M., Joshi, S., Luthra, S., & Kumar, A. (2021). Managing disruptions and risks amidst COVID-19 outbreaks: 
-role of blockchain technology in developing resilient food supply chains. Operations Management Research, 
-1–14. 
-Sharma, M., Joshi, S., Luthra, S., & Kumar, A. (2022a). Analysing the Impact of Sustainable Human Resource 
-Management Practices and Industry 4.0 Technologies Adoption on Employability Skills. International Journal of 
-Manpower. 
-Sharma, M., Joshi, S., Luthra, S., Kumar, A., & Upadhyay, A. (2022b). The Impact of Environment Dynamism on 
-Low-Carbon Practices and Digital Supply Chain Networks to Enhance Sustainable Performance: An Empirical 
-Analysis. Business Strategy and the Environment. 
-Sharma, M., Luthra, S., & Joshi, S. (2022). Challenges to Agile Project Management during COVID-19 pandemic: An 
-emerging economy perspective. Operations Management Research. 
-Sharma, M., Luthra, S., Joshi, S., & Kumar, A. (2021). Accelerating retail supply chain performance against 
-pandemic disruption: adopting resilient strategies to mitigate the long -term effects. Journal of  Enterprise 
-Information Management. 
-Sharma, M., Luthra, S., Joshi, S., & Kumar, A. (2021). Implementing challenges of artificial intelligence: Evidence 
-from public manufacturing sector of an emerging economy. Government Information Quarterly, 101624. 
-https://doi.org/https://doi.org/10.1016/j.giq.2021.101624 
-Shibin, K. T., Dubey, R., Gunasekaran, A., Hazen, B., Roubaud, D., Gupta, S., & Foropon, C. (2020). Examining 
-sustainable supply chain management of SMEs using resource based view and institutional theor y. Annals of 
-Operations Research, 290(1), 301-326. 
-SINGH, L. B., MONDAL, S. R., & DAS, S. (2020). Human resource practices & their observed significance for Indian 
-SMEs. Revista ESPACIOS, 41(07). 
-Tong, L. Z., Wang, J., & Pu, Z. (2022). Sustainable supplier selection for SMEs based on an extended P ROMETHEE 
-Ⅱ approach. Journal of Cleaner Production, 330, 129830. 
-Tsai, F. S., Cabrilo, S., Chou, H. H., Hu, F., & Tang, A. D. (2022). Open innovation and SME performance: The roles 
-of reverse knowledge sharing and stakeholder relationships. Journal of Business Research, 148, 433-443. 
-Tsai, F. S., Cabrilo, S., Chou, H. H., Hu, F., & Tang, A. D. (2022). Open innovation and SME performance: The roles 
-of reverse knowledge sharing and stakeholder relationships. Journal of Business Research, 148, 433-443.
-
-[Page 17]
-Journal of Decision Analytics and Intelligent Computing 2(1) (2022) 36-52 Verma et al. 
- 52  
+Figure 2. Research methodology overview 
  
-Valdez-Juárez, L. E., Gallardo-Vázquez, D., & Ramos-Escobar, E. A. (2018). CSR and the Supply Chain: Effects on the 
-Results of SMEs. Sustainability, 10(7), 2356. 
-Veskaisri, K., Chan, P., & Pollard, D. (2007). Relationship between strategic planning and SME success: empirical 
-evidence from Thailand. Asia and pacific DSI, 1-13. 
-Wang, Q., Chen, K., Wang, S., & Cao, X. (2022). Optimal decisions in a closed-loop supply chain: fairness concerns, 
-corporate social responsibility and information value. Annals of Operations Research, 1-28. 
-Wankhede, V. A., & Vinodh, S. (2022). Benchmarking Industry 4.0 readiness evaluation using fuzzy  
-Yacob, P., Wong, L. S., & Khor, S. C. (2018). An empirical investigation of green initi atives and environmental 
-sustainability for manufacturing SMEs. Journal of Manufacturing Technology Management, 30(1), 2-25. 
-YahiaMarzouk, Y., & Jin, J. (2022). Impact of environmental scanning on organizational resilience and competitive 
-advantage: a study of Egyptian SMEs. Continuity & Resilience Review, (ahead-of-print). 
-Yusoff, T., Wahab, S. A., Latiff, A. S., Osman, S. I., Zawawi, N. F., & Fazal, S. A. (2018). Sustainable growth in SMEs: 
-A review from the Malaysian perspective. J. Mgmt. & Sustainability, 8, 43. 
-Zaridis, A., Vlachos, I., & Bourlakis, M. (2021). SMEs strategy and scale constraints impact on agri-food supply chain 
-collaboration and firm performance. Production Planning & Control, 32(14), 1165-1178.
+3. Materials and methods 
+3.1 Data Collection

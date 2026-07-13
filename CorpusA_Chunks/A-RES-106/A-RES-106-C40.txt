@@ -1,0 +1,62 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-106-C40
+Parent Doc ID: A-RES-106
+Page Range: Page 19
+Word Range: 10529 - 10778
+Word Count: 250
+--------------------
+
+[Page 19]
+interventions that governments, development agencies, and multistakeholder initiatives should implement 
+to make VSSs fully beneficial for smallholder farmers while promoting transformative food systems.
+4.5.1.  Promoting participatory and bottom-up extension models
+Based on the studies conducted by Ho et al. ( 2018 ) and Tu et al. ( 2019 ), the availability of extension services 
+provided by local governments was negatively associated with the efficiency levels of coffee and rice 
+production in Vietnam. Barham and Weber ( 2012 ) and Ho et al. ( 2018 ) highlighted that government 
+extension services mainly focus on conventional approach aimed at increasing yields in the short-term, 
+rather than addressing environmental challenges, which require a long-term perspective. Moreover, 
+Vietnamese farmers often had unrestricted access to agrochemicals and applied them under the guidance 
+of input sellers, which contributed to the over-application of such products (Tu et al., 2019 ). Similarly, 
+farmers participating in ‘good agricultural practices’ programmes in Vietnam must use certified seeds, 
+which are more expensive and require additional inputs (e.g. water), as well as greater technical and 
+financial resources (Okello et al., 2017 ). As suggested by Gliessman ( 2015 ), extension services aimed to 
+increase sustainability should pay more attention to the variability that exists within and between 
+agroecosystems, including bio-physical, social and economic factors. In this regard, agroecological 
+approaches promoted by VSS schemes can serve as a strategy for transitioning to sustainable farming 
+(Biovision, 2024 ). These approaches rely on common principles, such as increasing diversity, recycling 
+nutrients and energy, and enhancing soil organic matter. However, they need to be adapted to site-specific 
+conditions through collaborative co-creation between farmers and technical advisers, rather than through a 
+prescriptive top-down approach (Barrios et al., 2020 ; Wezel et al., 2020 ).
+Strengthening the effectiveness of VSS implementation requires bottom-up and horizontal exchanges 
+that empower farmers to co-design and adapt sustainability practices. Governments could therefore 
+promote participatory extension models, in which farmer field schools and community organisations jointly 
+develop and test context-appropriate solutions (Friis-Hansen & Duveskog, 2012 ). For example, in Vietnam’s 
+MKD and Ghana’s cocoa regions, peer-to-peer learning and farmer-led experimentation on soil fertility 
+management, water-saving irrigation, and IPM have enhanced both adoption and farmers’ ownership of 
+new practices (Ehiakpor et al., 2021 ; Leippert et al., 2020 ). Development agencies could further facilitate 
+multi-stakeholder platforms linking producer organisations, universities, NGOs, and private buyers to adapt 
+certification requirements to local contexts. For instance, partnerships between research institutes and 
+certification bodies could co-develop locally validated sustainability indicators and disseminate good 
+practices through peer-exchange networks linking certified and non-certified farmers (Lee et al., 2012 ; 
+FAO, 2014 ). Financial incentives, such as matching grants, microfinance, and preferential credit lines, could 
+support cooperative-led training and the transition to agroecological practices that complement existing 
+certification schemes (FAO, 2022 ; WB, 2019 ).
+4.5.2.  Increasing access to land capital
+Nelson et al. ( 2013 ) highlighted that land access posed a significant structural challenge for smallholder 
+farmers when adhering to VSS schemes. Akrong et al. ( 2023 ) emphasised that land ownership significantly 
+affects compliance with VSS standards, noting that farmers who own their land are twice as likely to 
+perform better on environmental indicators compared to those without land ownership. Moreover, Brako 
+et al. ( 2021b ) observed that land tenure in Ghana was predominantly male-dominated, with men typically 
+serving as household heads and landowners. This land tenure system particularly affected cocoa and oil 
+palm production, excluding women from more profitable value chains due to their limited access to larger 
+landholdings (Brako et al., 2021b ). Bennett and Franzel ( 2013 ) also pointed out that fragmented land parcel 
+arrangements and lack of formal land titles, especially for indigenous groups, negatively affect famers 
+adoption of VSSs, highlighting the need for reform in land tenure systems in developing countries. In line 
+with Bennett and Franzel ( 2013 ), Tu et al. ( 2019 ) and van Vliet et al. ( 2021 ) discussed the necessity for 
+structural land reforms, including increasing land sizes to enhance farm efficiency. Tu et al. ( 2019 ) high -
+lighted that the Vietnamese Land Law, which limited farm sizes to 3 hectares per household, hinders the 
+economic and environmental performance of smallholder farmers. As suggested by the same authors, 
+policy changes that permit access to larger farm sizes could also facilitate the adoption of technological 
+innovations and the mechanisation process, thereby enhancing productivity, which is often low among 
+18
+ R. D’ANNOLFO AND F. DEMARIA

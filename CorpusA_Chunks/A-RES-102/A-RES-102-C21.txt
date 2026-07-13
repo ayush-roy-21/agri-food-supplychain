@@ -1,0 +1,162 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-102-C21
+Parent Doc ID: A-RES-102
+Page Range: Page 9
+Word Range: 5452 - 5701
+Word Count: 250
+--------------------
+
+[Page 9]
+6.
+••
+Sridhar A, Ponnuchamy M, Kumar PS, Kapoor A, Nguyen Vo DV, 
+Rangasamy G: Digitalization of the agro-food sector for 
+achieving sustainable development goals: a review. Sustain 
+Food Technol 2023, 1:783-802. 
+Publication highlights the significance of food security and agricultural 
+sustainability in the face of rising food demand, inequality, climate 
+change, and pandemics. The authors suggest that DTs can solve 
+challenges in the agro-food sector, enhance production and supply 
+chain, and achieve sustainable development goals. They propose in -
+tegrating AI, precision farming, and big data analytics to boost yield and 
+sustainability. Digitalization in agriculture can also cut costs and waste, 
+while improvements in food safety and electronic commerce are an -
+ticipated, with potential advancements in blockchain technology for 
+improved traceability and personalized nutrition.
+7.
+••
+Balyan S, Jangir H, Tripathi SN, Tripathi A, Jhang T, Pandey P: 
+Seeding a sustainable future: navigating the digital horizon of 
+smart agriculture. Sustainability 2024, 16:475. 
+Publication highlights the importance of agriculture for human survival 
+but acknowledges that it is facing challenges due to climate change. The 
+agriculture industry is using various measures and technologies to 
+adapt, including plant breeding, robotics, and big data. The digitalization 
+wave offers opportunities for smart farming but also presents challenges 
+such as high implementation costs and data security concerns. The shift 
+to digital farming offers solutions for environmental issues and economic 
+growth, with future advancements potentially including data encryption 
+and economic policies.
+8 . Santos FJ, Guzmán C, Ahumada P: Assessing the digital 
+transformation in agri-food cooperatives and its determinants. 
+J Rural Stud 2024, 105:103168.
+9 . Miranda BV, Monteiro GFA, Rodrigues VP: Circular agri-food 
+systems: a governance perspective for the analysis of 
+sustainable agri-food value chains. Technol Forecast Soc 
+Change 2021, 170:120878.
+10 . Geissdoerfer M, Pieroni MPP, Pigosso DCA, Soufani K: Circular 
+business models: a review. J Clean Prod 2020, 277:123741.
+11.
+•
+Farace B, Tarabella A: Exploring the role of digitalization as a 
+driver for the adoption of circular economy principles in 
+agrifood SMEs — an interpretive case study. Br Food J 2024, 
+126:409-427 , https://doi.org/10.1108/BFJ-12-2022-1103 . 
+Publication explores how digitalization can help integrate circular 
+economy principles in the Italian agrifood sector, using a case study of a 
+small and medium enterprise. The findings show that digitalization op -
+timizes resource use, minimizes waste, and interacts with sustainability 
+and resilience concepts. The study also highlights the importance of 
+digital transition in the agrifood industry, which faces resistance due to 
+the size of firms and managerial conservatism tradition.
+12 . Renaldi V: Sustainable energy transition: circular economy and 
+sustainable financing for environmental, social and 
+governance (ESG) practices. Soc Environ Account J 2024, 
+44:266-269 , https://doi.org/10.1080/0969160X.2024.2401212
+13 . Channi HK, Kumar R: Chapter 14 — Digital technologies for 
+fostering sustainability in Industry 4.0. In Evolution and Trends of 
+Sustainable Approaches. Edited by Rossit DA, Hussain CM. 
+Elsevier; 2024:227-251.
+14 . Cahyadi ER, Hidayati N, Zahra N, Arif C: Integrating circular 
+economy principles into agri-food supply chain management: a 
+systematic literature review. Sustainability 2024, 16:7165.
+15 . Sica D, Esposito B, Malandrino O, Supino S: The role of digital 
+technologies for the LCA empowerment towards circular 
+economy goals: a scenario analysis for the agri-food system. 
+Int J Life Cycle Assess 2024, 29:1486-1509.
+16 . Oriekhoe OI, Ilugbusi BS, Adisa O: Ensuring global food safety: 
+integrating blockchain technology into food supply chains. Eng 
+Sci Technol J 2024, 5:811-820.
+17 . Suali AS, Srai JS, Tsolakis N: The role of digital platforms in e- 
+commerce food supply chain resilience under exogenous 
+disruptions. Supply Chain Manag 2024, 29:573-601.
+18 . Viscardi S, Colicchia C: A classification of food products to 
+enhance circular economy and reduce waste: a systematic 
+literature review. Resour Conserv Recycl Adv 2024, 23:200229.
+19.
+••
+Dayioğlu MA, Türker U: Digital transformation for sustainable 
+future-agriculture 4.0: a review. Tarim Bilim Derg 2021, 
+27:373-399. 
+The article discusses the challenges faced by agriculture, such as global 
+warming and climate change. It emphasizes the need for digital solu -
+tions and outlines the transition from traditional to digital agriculture. 
+Various technologies and applications are explained, and the authors 
+conclude that innovations can contribute to a sustainable future.
+20.
+•
+Yadav VS, Singh AR, Gunasekaran A, Raut RD, Narkhede BE: A 
+systematic literature review of the agro-food supply chain: 
+challenges, network design, and performance measurement 
+perspectives. Sustain Prod Consum 2022, 29:685-704. 
+Publication discusses the challenges faced by the agriculture food 
+supply chain (AFSC), including food safety, sustainability, government 
+regulation, and traceability issues. It also reviews research on designing 
+the agro-food supply chain network and investigates performance 
+measurement using 108 articles. The article highlights the potential of 
+technology adoption and integration, as well as the digital transforma -
+tion of AFSC. It emphasizes other research trends and identifies pos -
+sible future challenges.
+21 . Joshi S, Singh RK, Sharma M: Sustainable agri-food supply 
+chain practices: few empirical evidences from a developing 
+economy. Glob Bus Rev 2023, 24:451-474.
+22 . Islam N, Nazir W, Khalid N: Conceptual study of problems and 
+challenges associated with the food supply chain in developing 
+countries. Arab Gulf J Sci Res 2021, 39:100-117.
+23 . Fuentes-Peñailillo F, Gutter K, Vega R, Silva GC: Transformative 
+technologies in digital agriculture: leveraging Internet of 
+Things, remote sensing, and artificial intelligence for smart 
+crop management. J Sens Actuator Netw 2024, 13:39.
+24 . Papadopoulos G, Arduini S, Uyar H, Psiroukis V, Kasimati A, 
+Fountas S: Economic and environmental benefits of digital 
+agricultural technologies in crop production: a review. Smart 
+Agric Technol 2024, 8:100441.
+25 . McCampbell M: Give to AgEcon Search Agricultural 
+digitalization and automation in low-and middle-income 
+countries: Evidence from ten case studies; 2022.
+26 . Vinod Chandra SS, Anand Hareendran G, Albaaji GF: Precision 
+farming for sustainability: an agricultural intelligence model. 
+Comput Electron Agric 2024, 226:109386.
+27.
+•
+Konfo TRC, Djouhou FMC, Hounhouigan MH, Dahouenon-Ahoussi 
+E, Avlessi F, Sohounhloue CKD: Recent advances in the use of 
+digital technologies in agri-food processing: a short review. 
+Appl Food Res 2023, 3:100329. 
+Publication discusses the recent advances in using DTs in agri-food 
+processing to meet the increasing demand for food while addressing 
+sustainability concerns. These technologies offer benefits such as in -
+creased efficiency and reduced waste and enable real-time monitoring 
+of critical parameters to ensure food quality and safety. The review also 
+covers the challenges and opportunities for adopting DTs in the industry 
+and highlights its potential for revolutionary transformation.
+28 . Yap CK, Al-Mutairi KA: A conceptual model relationship 
+between Industry 4.0 — food-agriculture nexus and 
+agroecosystem: a literature review and knowledge gaps. Foods 
+2024, 13:150.
+29 . Chhetri KB: Applications of artificial intelligence and machine 
+learning in food quality control and safety assessment. Food 
+Eng Rev 2024, 16:1-21.
+30 . Haleem A, Javaid M, Asim Qadri M, Pratap Singh R, Suman R: 
+Artificial intelligence (AI) applications for marketing: a 
+literature-based study. Int J Intell Netw 2022, 3:119-132.
+31 . da Costa TP, Gillespie J, Cama-Moncunill X, Ward S, Condell J, 
+Ramanathan R, Murphy F: A systematic review of real-time 
+monitoring technologies and its potential application to reduce 
+food loss and waste: key elements of food supply chains and 
+IoT technologies. Sustainability 2023, 15:614.
+32 . Schroder A, Prockl G: Ioanna Constantiou: 53rd Hawaii 
+International Conference on System Sciences (HICCS), January 
+5–8, 2021. University of Hawai’i at Manoa; 2021.
+DIGITRANS Vahdanjoo, Sørensen and Nørremark 9
+www.sciencedirect.com Current Opinion in Food Science 2025, 63:101287

@@ -1,0 +1,74 @@
+--- CHUNK HEADER ---
+Chunk ID: A-SPICE-005-C24
+Parent Doc ID: A-SPICE-005
+Page Range: Page 16
+Word Range: 6475 - 6728
+Word Count: 254
+--------------------
+
+[Page 16]
+ANNEX II
+Food and feed from certain third countries subject to special conditions for the entry into the Union 
+due to contamination risk by mycotoxins, including aflatoxins, pesticide residues, microbiological 
+contamination, Sudan dyes, and plant toxins 
+1. Food and feed of non-animal origin referred to in Article 1(1), point (b)(i)
+Row Country of origin Food and feed (intended use) CN code ( 1)
+TARIC 
+sub- 
+division
+Hazard
+Frequency of 
+identity and 
+physical 
+checks (%)
+1 Bangladesh 
+(BD)
+Foodstuffs containing or 
+consisting of betel leaves 
+(Piper betle)
+(Food)
+ex 1404 90 00 (
+8) 10
+Salmonella (5) 50
+2 Bolivia (BO)
+— Groundnuts (peanuts), 
+in shell
+1202 41 00
+— Groundnuts (peanuts), 
+shelled
+1202 42 00
+— Peanut butter 2008 11 10
+— Groundnuts (peanuts), 
+otherwise prepared or 
+preserved, including 
+mixtures
+2008 11 91
+2008 11 96
+2008 11 98
+ex 2008 19 12 40
+ex 2008 19 19 50
+ex 2008 19 92 40 Aflatoxins 50
+ex 2008 19 95 40
+ex 2008 19 99 50
+— Oilcake and other solid 
+residues, whether or not 
+ground or in the form of 
+pellets, resulting from 
+the extraction of 
+groundnut oil
+2305 00 00
+— Groundnut flours and 
+meals
+ex 1208 90 00 20
+— Groundnuts paste ex 2007 10 10 80
+(Food and feed) ex 2007 10 99 50
+ex 2007 99 39 07; 08
+3 Brazil (BR)
+Black pepper (Piper nigrum )
+(Food – neither crushed nor
+ground)
+ex 0904 11 00 10
+Salmonella (
+2) 30
+OJ L, 29.1.2026 EN 
+ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 15/25

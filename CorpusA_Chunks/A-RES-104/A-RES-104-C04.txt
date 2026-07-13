@@ -1,196 +1,127 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-104-C04
 Parent Doc ID: A-RES-104
-Page Range: Page 7 to Page 8
-Word Range: 4958 - 6496
-Word Count: 1,539
+Page Range: Page 2
+Word Range: 866 - 1115
+Word Count: 250
 --------------------
 
-[Page 7]
+[Page 2]
 Xue et al. 10.3389/fsufs.2025.1649834
-Frontiers in Sustainable Food Systems 07 frontiersin.org
-economic conditions ( Ortmann and King, 2010 ). Small farmers 
-without financial buffers were hard hit by external shocks. Farmers 
-help build overall resilience capacity of AFSC, but they tend to 
-be  viewed as the least resilient ones in AFSC ( Zhao et  al., 2022). 
-We need to tackle the susceptibility of small farmers in order to ensure 
-their resilience and the sustainability of AFS. Strategies like developing 
-alternative food networks, promoting collective action, and using 
-digital technology can help reduce these vulnerabilities (Ortmann and 
-King, 2010; Belhadi et al., 2024). As per Karunarathna et al. (2023), 
-supply of agricultural inputs, loans, and subsidies by the government 
-may lead to stabilization and sustaining of small farmer operations.
-4.2 Export-oriented economies
-AFSC depends on global markets for its inputs and outputs, which 
-makes domestic economies more vulnerable. This can be seen in Ghana’s 
-cocoa and Malaysia’s palm oil sectors. The pandemic has shown these 
-weaknesses in the sector (Tan et al., 2023). Because of this reliance on 
-global markets, food supply and demand might become unbalanced. At 
-the same time, that reliance can create opportunities for resilience. 
-Traders are critical to linking corporate sustainability targets to real-
-world impacts in food supply chains (Grabs and Carodenuto, 2021). 
-Through better global connections, risks coming from market 
-dependency can be  reduced. To address the challenges of AFSC 
-dependency, countries should develop supply chains with resilience by 
-innovation, early warning mechanism and a middle path between global 
-participation and domestic food security measures (Manikas et al., 2022; 
-Joshi et  al., 2023). The financial and industrial limits in developing 
-regions make it hard to implement advanced infrastructure. These areas 
-face challenges not just with limited capital and outdated infrastructure, 
-but also with a shortage of skilled labor and the time-consuming need to 
-train the workforce to manage new technologies properly. Furthermore, 
-applying digital technologies including approaches such as ‘ Agri-Food 
-4.0’ can contribute to lowering food waste, enable real-time tracking, and 
-support scalability (Dadi et al., 2021). Using IoT, big data, and blockchain 
-can assist in establishing traceability and enhancing the efficiency of 
-AFSC systems in developing regions. However, a major challenge for 
-many countries is securing substantial investment for infrastructure 
-development, especially in rural areas with limited access to energy, 
-internet, and logistics, compounded by a lack of financial resources and 
-technical expertise (Bhat et al., 2021; Ahmadzadeh et al., 2023).
-4.3 Impact on food prices and household 
-budgets
-As highlighted in the introduction, food security encompasses not 
-only the availability of food but also its access, stability, and utilization. 
-The rise in food costs has impacted family budgets and nutritional 
-stability, especially for vulnerable groups in low-income nations. A 50% 
-hike in food price leads to a reduction of 5–15% in energy intake and 
-a cut of 10–30% in iron intake, depending on income effects (Bouis 
-et al., 2011). In India, the rise in food costs brings a higher likelihood 
-of children becoming malnourished. The rate of emaciation in children, 
-for example, rose from 18.8% in 2006 to 28.0% in 2009 (Vellakkal et al., 
-2015). When shortages arise, families switch to cheaper brands, 
-purchase larger quantities and plant vegetable gardens. Shortages can 
-affect food quality and variety, especially for the poor and female 
-headed households. As noted by Welch and Graham (2000) , 
-malnutrition is not only a result of agricultural inefficiencies but also 
-of poverty, which is a critical barrier to achieving food security. It is 
-necessary to act on these angles simultaneously to give us food security 
-and nutrition (which includes health) through agricultural production 
-and food systems (Welch and Graham, 2000; Haddad, 2000).
-5 Mitigation and risk management 
-approaches
-5.1 Policy and governance solutions
-The agricultural food supply chain can experience reduced risk 
-and disruption through policy and governance solutions, provided 
-by the farm, Table 2. According to Charlebois et al. (2024) , food 
-security, regulatory frameworks, emergency plans, and digital 
-FIGURE 2
-Systematic vulnerabilities in agri-food systems.
-
-[Page 8]
-Xue et al. 10.3389/fsufs.2025.1649834
-Frontiers in Sustainable Food Systems 08 frontiersin.org
-traceability are possible through national food strategies and trade 
-agreements. OECD countries have adopted digital traceability 
-systems to enhance supply chain performance, strengthen food 
-safety, and boost transparency, while simultaneously reinforcing the 
-robustness of disadvantaged SMEs ( Ali et al., 2022; Charlebois et al., 
-2024). The food distribution network functions effectively amid the 
-Covid-19 pandemic, meaning cross-border trade agreements are 
-essential to ensure continuous food flow during the crisis ( Hobbs, 
-2021). Geopolitical occurrences could interrupt agricultural supply 
-chains, highlighting the necessity for robust trade agreements 
-(Belhadi et al., 2024 ). As per Hong et al. (2023) , the government 
-adversely impacts global supply chain performance through trade-
-related policies and non-tariff measures. Similarly, they promote 
-stability and resilience through research and development 
-incentives, domestic demand stimulation, and subsidy design. Local 
-food systems, including smallholder farms and community 
-networks, help with resilience by being more flexible and not relying 
-so much on global supply chains during disruptions. Technology 
-like blockchain help adaption, while supportive policies strengthen 
-resilience at both the levels ( Quayson et al., 2020 ; Trivellas et al., 
-2020; Rejeb et al., 2022 ).
-5.2 Financial instruments and risk transfer
-Financial instruments and risk-sharing methods such as 
-agricultural insurance, micro-credit, and weather-indexed insurance 
-can help reduce risks linked to AFSC. According to Al-Maruf et al. 
-(2021), climate-linked crop insurance may lessen the effects of 
-climate-related risks, as demonstrated in a pilot project in Bangladesh. 
-This approach connects the cost of disasters to weather variables and 
-is a better risk transfer mechanism than standard crop insurance. On 
-the contrary, products based on indices improve the likelihood of 
-accessing micro-credit by small agricultural producers and 
-transferring the risk of disaster to the global market ( Skees and 
-Barnett, 2006). The effectiveness of different financial instruments, 
-including the WIBCI, depends on the context and the state of their 
-use. A limited amount of data, high cost and illiteracy of farmer 
-insurance, etc., are the challenges (Al-Maruf et al., 2021). As per Ali 
-and Govindan (2021), the use of Industry 4.0 technology in AFSC 
-can mitigate both operational and financial risks during conditions 
-like the COVID-19. AFSC risk management strategy is an integrated 
-set of financial tools, risk transfer mechanisms and technological 
-means. How effective it is, depends on education, participation in 
-additional strategies, and integration with a range of other resilience 
-factors like traceability, collaboration, and agility ( Mishra and 
-El-Osta, 2002; Zhao et al., 2017). Future research should make cross-
-border comparisons and adopt a multi-sectoral approach to better 
-understand risk and sustainable management in AFSCs ( Zhao 
-et al., 2024).
-5.3 Technological innovations
-AFSC is one of the strategic areas where blockchain and IoT as 
-well as AI should be used to reduce risks, improve traceability and 
-operation efficiency, as illustrated in Figure 3. This figure illustrates 
-technological interventions across AFSC from input to consumption, 
-showing the flow of goods and information. The middle section 
-highlights key technologies such as IoT and sensors, precision 
-agriculture using drones and GIS, blockchain and QR codes, and 
-mobile apps supported by AI, robotics, and digital platforms that 
-enhance forecasting, automation, and market connectivity. These 
-technologies facilitate transparency, monitoring, forecasting, and 
-inventory management in real-time ( Rui and Sundram, 2024 ). 
-AgriBlockIoT, a platform built on blockchain and IoT, aims at 
-improving tracking in AFSC (Odimarha et al., 2024). Quick detection 
-of contaminated items for precise recall helps improve food safety by 
-reducing foodborne illnesses (Oriekhoe et al., 2024). But, the SMEs 
-bear the burden of things like high costs, shortage of skilled labour, 
-data security issues, and the employees’ limited technical knowledge 
-(Rui and Sundram, 2024; Odimarha et al., 2024). It is advised to run 
-pilot projects, train workers, secure data, and get help from 
-government and industry to help address these issues. The bottom 
-section of Figure  3  summarizes the key outcomes of these 
-technological applications, including improved resilience to shocks 
-(e.g., climate or pandemic), increased productivity, reduced waste, 
-enhanced traceability, and inclusion of smallholders through mobile 
-and low-cost digital tools. By tackling these challenges, organizations 
-can create a sustainable and effective AFSC, improving global market 
-TABLE 2 Comparison of risk mitigation tools in agri-food systems.
-Tool Type Benefits Limitations Target users
-Crop insurance Financial/risk transfer Provides compensation for yield loss 
-due to natural disasters
-High premium costs, low awareness, 
-limited reach in developing regions
-Smallholder farmers, 
-agribusinesses
-Weather-indexed 
-insurance
-Financial/risk transfer Ties payouts to weather conditions, 
-faster and less biased claims
-Basis risk (payout may not match 
-actual loss), data access and literacy 
-issues
-Small-scale farmers, rural 
-cooperatives
-Microcredit Financial Access to small loans for investment in 
-inputs and technologies
-High interest rates, collateral 
-requirements, risk of over-
-indebtedness
-Marginalized farmers, women 
-entrepreneurs
-Blockchain Technological (traceability) Improves transparency, traceability, and 
-trust in the food supply chain
-High cost, limited digital literacy, 
-data security concerns
-Exporters, logistics firms, 
-regulatory bodies
-Internet of things Technological 
-(monitoring)
-Enables real-time monitoring of crops, 
-logistics, and storage conditions
-Expensive devices, poor internet 
-access in rural areas, skills gap
-Large farms, tech-oriented 
-cooperatives
-Sources: Ali and Govindan (2021), Al-Maruf et al. (2021), Skees and Barnett (2006), Rui and Sundram (2024), and Odimarha et al. (2024).
+Frontiers in Sustainable Food Systems 02 frontiersin.org
+to consume food produced from other distantly located geographic 
+regions involving complex agri-food supply chains (AFSCs) and 
+passing through diverse regulatory frameworks. This global reach has 
+fortified food security and produced new opportunities for producers 
+(Irani and Sharif, 2016; Alabi and Ngwenyama, 2023). However, on 
+the other hand, intricate structure of food networks rendered it prone 
+to diverse vulnerabilities. Climate change, geopolitical tensions, labor 
+shortages, trade restrictions, infrastructure weaknesses, market 
+volatility, and technological disruptions can all introduce 
+vulnerabilities at various points in AFSC. The effects of even a small 
+disruption can be enormous (Ali et al., 2023; Mkumbukiy et al., 2025). 
+Thus, it is crucial to study these economic risks to support global food 
+security and the Sustainable Development Goals of Zero Hunger 
+(SDG 2); Responsible Consumption and Production (SDG 12) and 
+Climate Action (SDG 13).
+Considerable amount of global labor force is associated with 
+agriculture. This percentage is notably elevated in developing nations 
+where agriculture serves as the principal source of subsistence, 
+especially in rural regions (Blanco and Raurich, 2022; Mohsin et al., 
+2024). Furthermore, agriculture utilizes land and worsens 
+environmental problems like soil erosion, deforestation, and 
+greenhouse gases, which make sustainability harder to achieve 
+(Francaviglia et al., 2023; Singh et al., 2024). AFSCs play a crucial role 
+in achieving the Sustainable Development Goals (SDGs) by directly 
+influencing food security, sustainable agriculture, and climate-related 
+action. For instance, SDG 2, depend on efficient and resilient AFSCs 
+to ensure food availability and access. Similarly, SDGs 12 and 13, 
+which focus on responsible consumption and production and climate 
+action, are deeply impacted by the way AFSCs manage waste, 
+resources, and reduce emission in food production and distribution 
+(El Bilali et al., 2021 ; Sannou et al., 2023 ). AFSCs involve a lot of 
+different players, from small-scale farmers to huge multinational 
+companies, and each faces their own set of challenges and limitations. 
+For instance, smallholder farmers often have trouble getting access to 
+credit, technology, or even proper market info. On the other hand, 
+large corporations struggle with the complexity of their supply chains, 
+staying compliant with regulations, and navigating market shifts. 
+These challenges are distinct, but for AFSCs to function effectively, 
+collaboration is key. For this, each group may need tailored solutions, 
+but cooperation is essential (Williams et al., 2023). Recent years have 
+seen intense disturbances in the distribution network resulting from 
+the Covid-19 pandemic, threatening food security and causing 
+economic disruption globally ( Nicola et  al., 2020 ; Alabi and 
+Ngwenyama, 2023). The Middle East and North Africa regions have 
+seen grain price spikes due to geopolitical instability between Russia 
+and Ukraine ( Kozielec et  al., 2024 ). Resilient supply chains can 
+withstand acute or chronic disruptions and are more adaptable to 
+long-term systemic changes. Thus, ensuring robustness of distribution 
+networks has become a primary concern of the governments 
+(Katsaliaki et al., 2022; Nakandala et al., 2025).
+AFSCs play a key role in ensuring food security, the health of soils 
+is still the foundation for long-term food production. A balanced 
+approach, that acknowledges both sustainable land management 
+(SDG 15) and efficient supply chains (SDG 2), is essential for achieving 
+true global food security. Producers, manufacturers, sellers, buyers, 
+and consumers are intricately interwoven throughout these supply 
+networks (Cook et al., 2011; Cirone et al., 2023). A single failure in the 
+trade corridor can really cause disruptions with AFSC ( Katsaliaki 
+et  al., 2022 ; Gorton et  al., 2006 ). Small household farmers, in 
+particular, deal with all kinds of challenges, like limited access to 
+credit, market info, and reliable irrigation systems. On top of that, 
+delays or disruptions in getting things like fertilizers, seeds, and 
+pesticides can seriously disrupt food production. When these key 
+inputs are missing or late, it’s not just the farmers who suffer rather the 
+whole AFS is affected ( Rao et al., 2017 ; Balana et al., 2022 ). Early 
+warning systems coupled with climate smart agriculture can enhance 
+the robustness of distribution networks ( van Ginkel and Biradar, 
+2021). Studies also suggest the adoption of tools like satellite imaging, 
+traceability, blockchain, and digital monitoring to cope with supply 
+chains risks (Sengupta et al., 2022; Bosona and Gebresenbet, 2023; 
+Wang et al., 2024).
+The resilient AFSC is crucially important in this modern era. 
+However, published literature does not present a comprehensive 
+picture of the economic vulnerabilities as well as their mitigation. 
+Most of the studies discuss individual disruptions ignoring their 
+interconnectedness (Ackleson and Kastner, 2011 ; Ali et  al., 2023 ; 
+Dovbischuk, 2023). Since, AFSCs have evolved at a global scale so 
+through understanding of their economic vulnerabilities and their 
+mitigation aspects are of prime concern to the world in order to 
+achieve SDGs. These studies hold significant importance in developing 
+countries, where AFSCs are more vulnerable to disruptions and there 
+is a scarcity of scientific research to suggest mitigation strategies 
+(Kumar and Agrawal, 2023; Hasan et al., 2023). Furthermore, the use 
+of technological innovations in order to achieve resilient AFSCs is also 
+insufficient (Joshi et al., 2023). The study was undertaken by collecting 
+and analyzing published academic papers, reports and other reliable 
+information using a review approach. The literature reviewed captures 
+risks in AFSCs their economic impacts and possible ways to mitigate 
+them. This study highlights supply chain resilience concerns and 
+solutions using agricultural insights, economic theory, and 
+management ideas.
+This study adopts an integrative approach by bridging insights 
+gained from AFSC operations, agriculture economics, and risk 
+management. This review aims to address the following questions: 
+What are the main economic risks impacting AFSC? What are the 
+impacts of these risks on various countries and groups? What kind of 
+disruptions, like weather events, political issues, or labor shortages, 
+cause the most problems to supply chain? What techniques, including 
+new tools like blockchain and satellite surveillance, are able to reduce 
+these risks and strengthen supply chains? The remainder of this study 
+is split into eight major sections offering a thorough investigation of 
+supply chain risks in AFSs. Section 2 outlines the structure and 
+complexity of AFSCs, discussing their stages, inherent characteristics, 
+and the implications of globalization and lean system designs. Section 
+3 classifies the various types of risks affecting these systems, including 
+climate-related, economic, logistical, labor, regulatory, technological, 
+and social risks. Section 4 delves into the economic vulnerabilities of 
+AFSs, particularly focusing on smallholder farmers, export-dependent 
+economies, and infrastructure weaknesses in developing regions. 
+Section 5 presents a range of mitigation and risk management 
+strategies, such as policy interventions, financial tools, technological 
+innovations, and supply chain redesign. Section 6 provides case 
+studies of recent disruptions, such as the COVID-19 outbreak, the 
+Ukraine-Russia conflict, and environmental challenges, illustrating 
+real-world consequences of supply chain fragility. Section 7 identifies 
+major deficiencies in the literature and suggests pathways for

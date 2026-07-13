@@ -1,0 +1,46 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C87
+Parent Doc ID: A-MSME-102
+Page Range: Page 96
+Word Range: 24636 - 24885
+Word Count: 250
+--------------------
+
+[Page 96]
+96
+SOME TAXATION ISSUES OF MSMEs
+The Finance Act 2023 introduced a new rule, Section 43B(h), which requires 
+businesses to pay their MSME suppliers within 45 days to claim tax deductions. This 
+has caused significant concern among MSMEs, as it can disrupt their cash flow and 
+lead to potential financial losses since buyers (of MSMEs’ products) can reorient 
+their sourcing and purchasing preferences to non-MSME sellers. Many industry 
+bodies, such as CAIT and CMAI, have appealed to the  government to reconsider the 
+implementation of this rule, citing its potential negative impact on the MSME sector.
+MSMEs face complex GST compliance requirements, including filing multiple 
+returns (e.g., TCS, ISD, and annual returns) across states. This demands significant 
+administrative effort and technical expertise, which MSMEs often lack. Usually, it’s 
+the proprietor himself managing accounting and book-keeping tasks. 
+Issues relayed to Input Tax Credit: When payments 
+extend payment terms beyond 180 days (sometimes 
+due to specific terms in the agreement), the input 
+tax credit can be reversed. This means working 
+capital blockages for MSMEs and the additional 
+burden of reclaiming ITC upon payment. 
+B. Addressing skilling challenges faced by MSMEs
+The data shows that a significant portion of the workforce is concentrated in Skill Level 1 (low-
+skilled) and Skill Level 2 (semi-skilled) categories, while highly skilled workers (Skill Levels 3 and 
+4) remain limited. At the same time, for example, there have been significant advancements 
+in India’s Biotech Innovation Ecosystem. Over nine years, for example, BIRAC has facilitated 
+the creation and support of 4,800 startups and entrepreneurs and helped establish 95 bio-
+incubators across 21 states/UTs. This has led to the creation of 35000 high-skilled jobs. Such 
+developments call for investments in STEM education, and initiatives like the Skill India Mission 
+should be tailored to the requirements of a fast-evolving job market, emphasising innovation 
+and technological advancements.
+Analysis of PLFS data shows that a substantial proportion of the workforce aged 15 to 59 
+lacks formal vocational or technical training. While the proportion has decreased from 91.9% 
+in 2017-18 to 72.6% in 2022–23, it still indicates a significant gap in formal skill development 
+for a substantial segment of the Indian workforce. Creating partnerships between industries, 
+educational institutions, and the government can help design curriculum and training modules 
+that equip workers with skills relevant to future job markets. Implementing shorter courses, 
+online/hybrid training and on-site training options can accommodate the diverse needs of 
+MSMEs.

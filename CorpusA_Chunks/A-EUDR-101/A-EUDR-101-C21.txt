@@ -1,95 +1,58 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-101-C21
 Parent Doc ID: A-EUDR-101
-Page Range: Page 42 to Page 43
-Word Range: 33900 - 35196
-Word Count: 1,297
+Page Range: Page 6
+Word Range: 5374 - 5623
+Word Count: 250
 --------------------
 
-[Page 42]
-(ii) the f ollowing point is inser ted :
-‘(aa) where applicable, express an opinion based on a limited assurance engag ement as rega rds the 
-compliance of the sustainability repor ting with the requirements of this Directive, including the 
-compliance of the sustainability repor ting with the sustainability repor ting standards adopt ed pursuant 
-to Ar ticle 29b or Ar ticle 29c, the process car r ied out by the under taking to identify the inf or mation 
-repor te d pursuant to those sustainability repor ting standards, and the compliance with the requirement 
-to mark up sustainability repor ting in accordance with Ar ticle 29d, and as regar ds the compl iance with 
-the repor ting requirements provided f or in Ar ticle 8 of Regulation (EU) 2020/852;’;
-(b) paragraph 3 is replaced by the f ollowi ng:
-‘3. Member State s ma y allow a statut or y auditor or an audit fir m other than the one(s) car r ying out the 
-statutor y audit of financia l statemen ts to express the opinion refer red to in point (aa) of the second subparagraph 
-of paragraph 1.’;
-(c) the f ollowi ng paragraphs are added:
-‘4. Member States ma y allow an independent assurance ser vices provid er established in their terr itory to 
-express the opinion refer red to in point (aa) of the second subparagraph of paragraph 1, provided that such 
-independent assurance ser vices provi der is subject to requirements that are equivalent to those set out in Directive 
-2006/43/EC of the European P arliament and of the Council (*) as regards the assurance of sustainability repor ting 
-as defined in point 22 of Ar ticle 2 of that Directive, in par ticular the requirements on:
-(a) training and examination, ensur ing that independent assurance ser vices provi ders acquire the necessar y 
-exper tise concer ning sustainability repor ting and the assurance of sustainability repor ting;
-(b) continuing education;
-(c) quality assurance systems;
-(d) professional ethics, independence, objectivity , conf identiality and professional secrecy ;
-(e) appointment and dismissal;
-(f) investig ations and sanctions;
-(g) the orga nisation of the w ork of the independent assurance ser vices provider , in par ticular in term s of 
-suff icient resources and personnel and the maintenanc e of client account records and fi les; and
-(h) repor ting ir regular ities.
-Member Stat es shall ensure that, where an independent assurance ser vices provider expresses the opinion refer red 
-to in point (aa) of the second subparagraph of paragraph 1 of this Ar ticle, that opinion is prepared in accordance 
-with Ar ticles 26a, 27a and 28a of Directive 2006/43/EC and that, where applicable, the audit committee , or a 
-dedicated committee , reviews and monitor s the independence of the independent assurance ser vices provid er in 
-accordance with point (e) of Ar ticle 39(6) of Directive 2006/43/EC.
-Member States shall ensure that independent assurance ser vices providers accredited bef ore 1 Januar y 2024 f or 
-the assurance of sustainability repor ting, in accordance with Regulation (EC) No 765/2008, are not subject to the 
-training and examination requirements refer red to in point (a) of the first subparagraph of this paragraph.
-Member Stat es shall ensure that independent assurance ser vices provid ers that on 1 Januar y 2024 are undergoing 
-the accreditation process in accordance with the relevant national requirements are not subject to the training and 
-examination requirements refer red to in point (a) of the first subparagraph as regar ds the assurance of 
-sustainability repor ting, provid ed they complet e that process by 1 Januar y 2026 .
-Member Stat es shall ensure that the independent assurance ser vices provi ders refer red to in the third and f our th 
-subparagraphs acquire the necessar y knowledg e in sustainability repor ting and the assurance of sustainability 
-repor ting via the continuing education requirement refer red to in point (b) of the first subparagraph.
+[Page 6]
+repor ting requirements. A ccording ly , small and medium-sized under takings whose secur ities are admitt ed to trading 
+on a regulated market in the U nion that are public-inte rest entities should be allowed to repor t in accordance with 
+the sustainability repor ting standards f or small and medium-sized under takings. In addition, all under takings that 
+are parent under takings of larg e groups should prepare sustainability repor ting at group level. Moreover , since 
+Ar ticle 8 of Regulation (EU) 2020/852 ref ers to Ar ticle 19a and Ar ticle 29a of Directive 2013/34/EU, the 
+under takings added to the scope of the sustainability repor ting requirements will also ha ve to compl y with Ar ticle 8 
+of Regulation (EU) 2020/852.
+(18) The requirement provided f or in this amending Directive that also large under takings whose secur ities are not 
+admitte d to trading on a regulate d market in the U nion should disclose inf or mation on sustainability matters is 
+mainly justified by concer ns about the im pacts and accountability of such under takings, including through their 
+value c hain. In this respect, all large under takings should be subject to the same requirements to repor t 
+sustainability inf or mation publicly . In addition, fi nancial mark et par ticipants also need inf or mation from those larg e 
+under takings whose secur ities are not admitte d to trading on a regulated mark et in the U nion.
+(19) The requirement provid ed f or in this amending Directive that third-countr y under takings whose secur ities are 
+admitte d to trading on a regulate d market in the U nion should also disclose inf or mation on sustainability matt ers is 
+aimed at responding to the needs of fi nancial mark et par ticipants f or inf or mation from such under takings in order 
+to enable them to understand the r isks and im pacts of their inv estments and to compl y with the disclosure 
+requirements laid down in Regulation (EU) 2019/2088.
+(20) Third-countr y under takings whic h hav e a signif icant activity on the terr it or y of the Union should also be required to 
+provid e sustainability inf or mation, especially on their impa cts on social and en vironmental matt ers, in order to 
+ensure that third-countr y under takings are accountable f or their impacts on people and the en vironment and that 
+there is a level pla ying fi eld f or compan ies operating in the internal market. Theref ore, third-countr y under takings 
+which g enerate a net tur nover of more than EUR 150 million in the U nion and which hav e a subsidiar y 
+under taking or a branch on the te r r it or y of the U nion should be subject to U nion sustainability repor ting 
+requirements. T o ensure the propor tionality and enf orceability of such requirements, the threshold of hav ing a net 
+tur nover of more than EUR 40 million should apply to the branch es of third-countr y under takings, and the 
+thresholds relat ed to being considered a larg e under taking or a small or medium-sized under taking, excep t micro 
+under takings, whose secur ities are admitted to trading on a regulated mark et in the Union should apply to the 
+subsidiar y under takings of third-countr y under takings, as such subsidiar y under takings and branche s should be 
+responsible f or publishing the sustainability repor t of the third-countr y under taking. The sustainability repor ts 
+published by the subsidiar y under taking or branch of a third-countr y under taking should be prepared in 
+accordance with standards to be adopt ed by 30 June 2024 by the Commission through delegat ed acts.
+The subsidiar y under taking or branch of a third-countr y under taking should also be able to repor t in accordance 
+with the standards applying to under takings established in the U nion, or in accordance with standards which are 
+deemed equivalent pursuant to an imp lementing act. In the event that not all the inf or mation required under this 
+amending Directive is provid ed by the third-countr y under taking, despite the best eff or ts of the subsidiar y 
+under taking or branch of that third-countr y under taking to obtain the necessar y inf or mation, that subsidiar y 
+under taking or branch should provid e all the inf or mation in its possession and issue a stat ement indicating that the 
+third-countr y under taking did not mak e the rest of the required inf or mation available. In order to ensure the quality 
+and reliability of the repor ting, the sustainability repor ts of third-countr y under takings should be published 
+accompan ied by an assurance opinion expressed by a person or fi r m author ised to give an opinion on the assurance 
+of sustainability repor ting, either under the national la w of the third-countr y under taking or of a Member Stat e. In 
+the event that such an assurance opinion is not provided, the subsidiar y under taking or branch of the third-countr y 
+under taking should issue a stat ement indicating that the third-countr y under taking did not provid e the necessar y 
+assurance opinion. The sustainability repor t should be made accessible free of c harge to the public through the 
+central, commercial or compan ies registers of the Member Stat es, or altern atively on the website of the subsidiar y 
+under taking or the branch of the third-countr y under taking.
 EN
-Offi cial Jour nal of the European Uni on L 322/56 16.12.2022
-
-[Page 43]
-If a Member Stat e, pursuant to the first subparagraph, decides to allow an independent assurance ser vices provider 
-to express the opinion refe r red to in point (aa) of the second subparagraph of paragraph 1, it shall also allo w a 
-statutor y auditor other than the one(s) car r ying out the statutor y audit of fi nancial stat ements to do so, as 
-provided f or in paragraph 3.
-5. From 6 Januar y 2027 , a Member State that has made use of the option provided f or in paragraph 4 (the 
-“host Member State ”) shall allow independent assurance ser vices provid er established in a Member State other 
-than the host Member State (the “home Member State ”) to car r y out the assurance of sustainability repor ting.
-The home Member State shall be responsible f or the super vision of the independent assurance ser vices providers 
-established in its terr itory , unless the host Member State decides to super vise the assurance of sustainability 
-repor ting car r ied out by independent assurance ser vices provid ers in its terr itory .
-If the host Member Stat e decides to super vise the assurance of sustainability repor ting car r ied out in its te r r it or y 
-by independent assurance ser vices pro viders register ed in another Member State , the host Member State shall:
-(a) not im pose more str ing ent requirements or liability on such independent assurance ser vices provi ders than 
-those required f or assurance of sustainability repor ting by the national laws f or the independent assurance 
-ser vices provid ers or auditor s established in that host Member State; and
-(b) inf or m other Member Stat es about its decision to super vise the assurance of sustainability repor ting car r ied 
-out by independent assurance ser vices providers established in other Member Stat es.
-6. Member State s shall ensure that where an under taking is required by Union law to have elements of its 
-sustainability repor ting ver if ied by an accredited independent third par ty , the repor t of the accredit ed 
-independent third par ty is made ava ilable either as an annex to the manage ment repor t or by other publicly 
-accessible means.
-_____________
-(*) Directive 2006/43/EC of the European P arliament and of the Council of 17 Ma y 2006 on statut or y audits of 
-annual accounts and consolidate d accounts, amending Council Directives 78/660/EEC and 83/349/EEC and 
-repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87).’;
-(14) the f ollo wing chap te r is inser ted:
-‘CHAPTER 9a
-REPORTING CONC ERNING THIRD-COUNTR Y UNDERT AKINGS
-Ar ticle 40a
-Sust ainability repor ts concer ning third-countr y under tak ings
-1. A Member Stat e shall require that a subsidiar y under taking established in its terr it or y whose ultimate parent 
-under taking is govern ed by the la w of a third countr y publish and make accessible a sustainability repor t co ver ing 
-the inf or mation specifi ed in points (a)(iii) to (a)(v), points (b) to (f) and, where appropr iate, point (h) of Ar ticle 29a(2) 
-at the group level of that ultimate third-countr y parent under taking.
-The first subparagraph shall only apply to larg e subsidiar y under takings and to small and medium-sized subsidiar y 
-under takings, excep t micro under takings, which are public-int erest entities as def ined in point (a) of point (1) of 
-Ar ticle 2.
-EN
-Offi cial Jour nal of the European Uni on 16.12.2022 L 322/57
+Offi cial Jour nal of the European Uni on L 322/20 16.12.2022

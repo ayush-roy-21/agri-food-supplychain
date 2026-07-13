@@ -1,279 +1,68 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-109-C06
 Parent Doc ID: A-RES-109
-Page Range: Page 15 to Page 19
-Word Range: 7629 - 8945
-Word Count: 1,317
+Page Range: Page 2
+Word Range: 1257 - 1509
+Word Count: 253
 --------------------
 
-[Page 15]
-1,091 shortlisted articles, only 24 research papers focussed on price transmission in the FSC,
-whereas majority of the articles reported the effect of crude oil price and variation in food
-prices (Serra and Zilberman, 2013; Nazlioglu, 2011), impacts of animal disease crisis on price
-transmission (e.g., Park et al., 2008) and so on. Since we included only those articles that had
-at least seven couplings with minimum of two other articles, the number of articles in this
-cluster is reduced to 9 most interconnected papers. Aramyan and Kuiper (2009) presented a
-conceptual overview of price transmission within agri-FSCs.
-3.3 Thematic analysis
-The research articles in the entire time period (i.e. from 2002 to 2018) are further
-analysed according to the research focus, the food sector studied and solution
-Cluster 1 Cluster 2
-Cluster 3 Cluster 4
-Cluster5
-Figure 6.
-Gephi visualization
-results of text mining
-using StanfordNLP
-within each cluster
-during the period
-2002– 2018
-33
-Supply chain
-issues in SME
-food sector
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 16]
-methodologies used. The solution approaches of this time window are further grouped as
-quantitative models (includes analytical, simulation and network models), conceptual and
-qualitative models (describe and develop m ethods/frameworks for food SME supply
-chain), case study/emp irical models (uses data collected from specific industry or from a
-Centrality
-Cluster No. Label Degree Closeness Betweenness Eigenvector
-1 Food 120 0.9852 628.46 1.0000
-Farmer 106 0.9107 376.99 0.933
-Market 96 0.8452 257.25 0.8587
-Supply 91 0.8098 221.48 0.8684
-System 89 0.8598 230.37 0.8425
-Chain 89 0.8158 213.13 0.8587
-AFN 78 0.6178 39.21 0.4734
-SFSC 78 0.7157 116.46 0.6688
-Production 76 0.7257 151.86 0.7092
-SMEs 72 0.7211 148.63 0.7025
-2 Supply 94 0.9799 322.73 1.0000
-Chain 93 0.9600 286.55 0.9980
-Farmer 82 0.8736 199.37 0.9128
-Food 77 0.8289 145.30 0.8452
-Relationship 72 0.7883 157.48 0.8176
-Safety 58 0.7157 71.59 0.6657
-Standard 58 0.7178 66.76 0.7148
-Sustainability 53 0.6678 62.64 0.6245
-Market 60 0.7158 104.20 0.7125
-Farm 56 0.7025 56.96 0.678
-3 Emission 86 0.8750 158.53 0.9112
-Impact 85 0.8596 133.11 0.9120
-Farm 84 0.8750 157.25 0.9124
-LCA 83 0.9158 193.73 0.9555
-GHG 80 0.8305 127.29 0.8636
-System 79 0.8305 123.11 0.8714
-Product 74 0.7903 105.20 0.8069
-Food 72 0.7313 68.75 0.7258
-Footprint 70 0.7840 90.13 0.8043
-Chain 47 0.6577 26.51 0.5950
-4 Supply 68 0.9048 217.55 0.9844
-Chain 68 0.9048 217.55 0.9844
-Food 71 0.9383 284.59 1.0000
-SME 51 0.7525 108.18 0.7917
-Product 49 0.7379 103.15 0.7486
-Traceability 40 0.6786 38.04 0.6882
-System 44 0.7037 62.06 0.7166
-Quality 49 0.7379 105.07 0.7669
-Model 39 0.6726 60.25 0.6142
-Analysis 37 0.6609 60.71 0.5991
-5 Price 71 0.9141 221.45 0.9844
-Transmission 71 0.9224 227.65 0.9844
-Supply 70 0.9138 274.58 1.0000
-Chain 61 0.8524 208.58 0.7916
-Market 58 0.7937 203.41 0.7486
-Farmer 58 0.7857 118.94 0.6882
-Food 54 0.7097 112.10 0.7165
-Relationship 50 0.7137 105.07 0.7669
-Asymmetry 48 0.6895 71.42 0.6142
-Nonlinearity 47 0.6660 70.170 0.5990
-Table IX.
-Top 10 co-occurred
-words in the clusters
-based on centralities
-during 2002– 2018
-34
-JAMR
-17,1
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 17]
-qualified source) and review works, as shown in Table X. From Table X, it is evident
-that case study/empirical modelling, followe d by conceptual or qualitative techniques, are
-the most commonly used solution methodol ogy to address supply chain issues in SME
-food sectors.
-The different research approaches and various data analysis methods are shown in
-Figures 8 and 9, respectively. The most popular solution methodology used is the case
-study/empirical method (41.22 per cent), followed by conceptual/qualitative (36.4 per cent),
-literature review (15.3 per cent) and quantitative methods (7 per cent), respectively. Also, it is
-identified that a survey is the most commonly used empirical method. Data analysis
-methods, for instance, theoretical description, life cycle assessment (LCA), simulation,
-structural equation model, factor analysis, etc., have been extensively used. The most
-popular data analysis approach is found as the theoretical description, followed by a survey
-method. Our results agreed with the findings of Prakash (2018).
-The distribution of research papers on the b asis of food sectors is shown in Figure 10.
-Following the previous literature, we identified five major SME food sectors, which are
-classified as dairy, fruits and vegetable s, meat and poultry, seafood and grains and
-oilseed. The dairy sector is the most addressed (36 per cent), followed by fruits and
-vegetables (27 per cent), meat and poultry (18 per cent), seafood (10 per cent) and grains
-and oilseed (8 per cent). It is also identified t hat the dairy sector has received significant
-attention in “GHG Emission impact of farm food system ” and “Relationship, safety, and
-standards in food supply chain ” themes. Fruits and vegetables have received significant
-attention in all the identified themes. Me at and poultry sectors have received much
-attention in traceability and product quality in the FSC and “Relationship, safety and
-standards in food supply chain ” themes. Sea foods and grain and oil seeds sectors
-have received limited attention among the i dentified themes. It is observed that the
-dairy sector, followed by fruits and vegetables and meat and poultry, have received
-much attention in the academic literature, wh ereas seafood and grains and oilseed need
-further research.
-2002–2014
-Alternative
-Food Network
-(Cluster 2)
-Recomposition
-Production and
-distribution in
-AFN (Cluster 1)
-GHG Emission impact
-of farm food system
-(Cluster 3) 
-Relationship, safety and
-standards in food supply
-chain (Cluster 2) 
-Traceability and product
-quality in food supply
-chain (Cluster 4) 
-Price transmission in the
+[Page 2]
+t h eF S Ci n v o l v i n gS M E si sac h a l l e n g i n gt a s k .T h eS M E so ft h eF S Cn e t w o r k ss h o u l dw o r k
+collaboratively to deliver high-quality food to consumers (Mertinset al., 2012). Prakash (2018)
+investigated the food processing supply chain (FPSC) in the bilateral context of the UK and India
+and reported that the UK FPSC is highly integrated with a high degree of consolidation in
+upstream and downstream stages, whereas the Indian FPSC is long and fragmented.
+In the last few years, many food quality and safety issues are frequently reported. For
+instance, the milk scam disclosed in India fou nd that saturated fatty oil and powder were
+blended with the milk to increase the sale (Dandageet al., 2017). The FSC has received increasing
+attention from both academia and practitioners,as consumers are concerned about food quality
+a n ds a f e t y( M a h a j a net al., 2017). For a better understanding of this research domain, it is
+important to map and summarize the existing knowledge base through an effective literature
+review. However, reviews on this research area were focussed only on a specific food sector
+(Ganeshkumaret al.,2 0 1 7 ;B e get al., 2017; Denham et al., 2015) or a particular issue like food
+safety (Auler et al., 2017; Manning and Soon, 2016), food traceability (Dandage et al., 2017),
+environmental issues (Borodin et al. ,2 0 1 6 ;D e n h a met al. , 2015; Wiedemann et al. , 2015a),
+perishable food products (Siddhet al., 2015) and processed FSC (Prakash, 2018; Mahajanet al.,
+2017). It is observed that none of the previous literature map and summarize the existing
+knowledge base in the SME FSC domain (Luoet al., 2018). Most of the past reviews on the FSC
+are narrative as shown in Table I. A systemati c literature review (SLR) is preferred, as it
+outperforms other review methods since its characteristics, explanatory, heuristic nature,
+transparency and inclusivity, eliminate an y errors and bias occurred, thereby making the
+research result more objective (Denyer and Tranfield, 2009). To address this research gap, we
+present a SLR of SME FSC. A total of 1,091 resea rch articles published from 2002 to 2018 are
+collected from the Web of Science (WoS) database. We use bibliographic coupling (BC) combined
+with co-word analysis to identify the historical relations of the research themes that emerged
+during the periods 2002– 2014 and 2002– 2018. The broader thematic context is obtained for the
+period 2002– 2014, whereas the inclusion of recent articles (i.e. 2015– 2018) resulted in identifying
+the emerging research directions out of these broader issues.
+Research focus Review type
+Sl No. Author(s) Supply chain SMEs Food sector NLR SLR
+1 Prakash (2018) * * *
+2 Mahajan et al. (2017) * * *
+3 Beg et al. (2017) * * * *
+4 Gharehgozli et al. (2017) * * *
+5 Notarnicola et al. (2017) * * * *
+6 Dandage et al. (2017) * * * *
+7 Zhong et al. (2017) * * *
+8 Fassam and Dani (2017) * *
+9 Ganeshkumar et al. (2017) * * * *
+10 Auler et al. (2017) * * *
+11 Mahajan et al. (2017) * * *
+12 Manning and Soon (2016) * * *
+13 Fraser et al. (2016) * * *
+14 Borodin et al. (2016) * * * *
+15 Sjauw et al. (2016) * * * *
+16 Berti et al. (2016) * * * *
+17 Siddh et al. (2015) * * *
+18 Wiedemann et al. (2015a) * * * *
+19 Denham et al. (2015) * * *
+20 Fredriksson and Liljestrand (2015) * * *
+Notes: NLR, narrative literature review; SLR, systematic literature review. *Highlights the research focus
+and review type reported
+Table I.
+Recent reviews on
 food supply chain
-(Cluster 5) 
-Recomposition
-Recomposition
-Differentiation
-Land use and
-Emission impact of
-livestock systems
-(Cluster 4)
-Supply chain
-relationship in
-food industry
-(Cluster 3)
-Market economics
-of contract farming
-in SME food supply
-chain (Cluster 1)
-2002–2018
-Figure 7.
-Development pattern
-of SC issues in SME
-food sector
-35
-Supply chain
-issues in SME
-food sector
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 18]
-Solution methodology Food sector
-Cluster
-Case study/
-empirical
-Conceptual/
-qualitative Review Quantitative Dairy
-Meat and
-poultry
-Fruits and
-vegetables Seafood
-Grain and oil
-seeds
-Production and distribution in AFN 45 25 6 3 1 2 5 0 1
-Relationship, safety and standards in food
-supply chain 17 30 11 0 12 3 9 3 3
-GHG emission impact of farm food system 29 8 8 5 20 5 6 6 3
-Traceability and product quality in food
-supply chain 3 13 8 8 0 6 5 0 1
-Asymmetric price transmission in the food
-supply chain 0 7 2 0 2 2 2 1 0
-Total 94 83 35 16 35 18 27 10 8
-Table X.
-Solution methodology
-and food sector
-addressed in the
-reviewed articles
-36
+20
 JAMR
 17,1
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 19]
-3.3.1 Cluster 1: production and distribution in alternative food network (AFN) . AFN may be
-defined as the networks of production, distribution and consumption of food that propose and
-practice models that can be considered as an alternative to the ones of the conventional/
-standardized food supply system (Bazzani and Canavari, 2013). AFNs are defined by the
-0
-10
-20
-30
-40
-50
-60
-70
-80
-90
-100Number of Articles
-Methods Used
-Conceptual/
-Qualitative
-Review QuantitativeCase study/
-Empirical
-Figure 8.
-Pattern of
-research methods
-0
-10
-20
-30
-40
-50
-60
-Frequency
-Data analysis method
-Descriptive
-Survey
-Regression
-LCA
-Simulation
-Structural equation model
-Factor analysis
-Sensitivity analysis
-MCDM
-SWOT analysis
-ANOV A
-Networ
-k analysis
-Figure 9.
-Pattern of data
-analysis method
-0
-5
-10
-15
-20
-25
-30
-35
-40
-Dairy Fruits and
-Vegetables
-Meat Seafood Grain and
-oil Seeds
-Frequency
-Figure 10.
-Type of food products
-37
-Supply chain
-issues in SME
-food sector
 Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

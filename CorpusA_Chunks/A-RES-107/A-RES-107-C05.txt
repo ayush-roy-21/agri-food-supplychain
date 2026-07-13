@@ -1,219 +1,122 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-107-C05
 Parent Doc ID: A-RES-107
-Page Range: Page 9 to Page 10
-Word Range: 6775 - 8754
-Word Count: 1,980
+Page Range: Page 2
+Word Range: 1132 - 1381
+Word Count: 250
 --------------------
 
-[Page 9]
-Marques et al. 1065
-validity (Stake, 1995). Method triangulation involved the com-
-bination of participant observation and in-depth interviews,
-semi-structured interviews, and document analysis. For data
-triangulation, interviews were compiled with the same inter-
-viewee at different points in time, allowing observation of the
-same phenomenon at different locations. Finally, a post-project
-review was performed with key participants, who were asked
-to verify the data analysis and correspondence to reality. This
-step included three interviews conducted by Researcher-C and
-a ﬁnal online meeting with NGO-A and Brand-A, all of which
-were conducted in early 2020.
-4 Findings
-This section is structured according to the four phases
-described in Appendix 5 to highlight temporal bracketing. In
-addition, we frame the ﬁrst and last phases (1 and 4) around
-ﬁrst-person vignettes to embed the reader in the data analysis
-and reﬂections. Conversely, we have organised the intermedi-
-ate phases (2 and 3) around raw quotes, with the intention of
-providing direct access to raw data and nuances of speeches
-across workers, suppliers, brands, NGOs, and association rep-
-resentatives. In other words, we offer a journey that starts
-and ends with the narrator’s voice (Researcher-A), with the
-original voices presented between.
-4.1 Phase 1. Project Setup (and Behind-the-Scenes
-Access)
-On December 22, 2017, Researcher-A received a compliment
-from an old friend on social media. She had moved from Rio
-de Janeiro to São Paulo a few years before, and they had lost
-contact. She had become a manager at NGO-A, which funds
-projects to improve supply chain transparency. A ﬁrst meet-
-ing via Skype happened on January 31, 2018, and as a result,
-Researcher-A joined a project to conduct an intervention to
-test the extent to which blockchain could help improve sup-
-ply chain transparency. After attending a couple of meetings
-in May 2018, Researcher-A became the project manager and
-received an initial grant to develop a 12-month project for 2019
-(while travelling between Rio de Janeiro and São Paulo). In the
-following months, the project team decided to focus solely on
-working conditions and modern slavery and visited one tier-1
-and one tier-2 supplier of Brand-A.
-Vignette 1: The gut punch of reality behind the scenes.
-July 17, 2018. Today, I visited a ‘pilot supply chain’, start-
-ing with Brand-A’s headquarters, followed by a direct supplier
-and a tier-2 supplier, in São Paulo, the fourth largest city in the
-world with 22 million people. Brand-A and tier-1 suppliers are
-both located in the same industrial cluster, one hour from my
-hotel. The tier-2 supplier is based on a poor neighbourhood
-almost two hours away from the industrial cluster. This is a
-supply chain in a big city with long distances and too much
-trafﬁc.
-The visit to the tier-1 supplier is a pleasant surprise. Clearly
-a top supplier, the owner (and general manager) takes me
-around the facility and shows me the production control team,
-their software, and the visual management tools that support
-order management and quality control of 20 tier-2 suppliers
-spread across São Paulo with whom they work. They also have
-an audit team that works on four wheels running across these
-tier-2 suppliers, like a milk-run system. They work hard to
-achieve high quality and productivity and to offer a design that
-matches with what their customers want – and they happen to
-be one of the ﬁve largest fashion retail chains in the country.
-The owner is also proud to state that he is a ‘recurrent volun-
-teer’ for Brand-A’s improvement projects and is happy to help
-with the 12-month project we are about to launch.
-The visit to the tier-2 supplier is a ‘gut punch’. The supplier
-is situated in a region of the city where the postal service does
-not deliver, taxi drivers refuse to go, and Uber prohibits their
-drivers from going due to violence in the neighbourhood. W e
-get there by dropping from an Uber ride eight blocks away in
-front of a barber shop. There, we meet the owner (let’s call
-her Ana) to get a ride in her car to the facility. Ana works
-diligently to make a living, and she explains that this barber
-shop is where she can, for example, get something delivered by
-Amazon when needed. W e enter this neighbourhood ‘excluded
-from São Paulo map’ to see a sewing cell (tier-2 supplier) that
-works for the tier-1 suppliers of some of the major fashion
-brands in the country.
-Ana had started small, and growth had come intrinsically
-linked to family. Since sewing cells should not grow too much
-(approx. 30 workers) to take advantage of the tax beneﬁts, Ana
-has opened multiple sewing cells that work like production
-cells. T wo of them are managed by her daughters, and the third
-one is managed by her former husband turned business part-
-ner. As the four sewing cells supply to tier-1 suppliers of major
-fashion brands, this means not only monthly surveillance from
-the tier-1 suppliers but also annual audits from each fashion
-brand, and on top of that, the annual audit of the Brazilian Fash-
-ion Retail Association Program. These audits overlap but also
-have differences in their requirements; thus, compliance with
-all demands multiplies the required efforts and investments.
-Ana tells me that while Brand-A audit emphasises security
-(i.e., electric installations, maintenance, ﬁre alarm), another
-major fashion brand has stricter controls on ‘quarteirização’
-(informal tier-3 sewing cells), and a third one is very much
-focused on internal working conditions (i.e., lunch time, paid
-leave, etc.). Ana complains about the increasing costs, contin-
-uous priority shifts, and inclusions in the audit checklist. With
-each visit comes a new surprise and a new requirement.
-When asked about her relationship with her employees, she
-described herself as a mother to them. Some need guidance on
-their personal ﬁnances. Some are beaten by their husbands and
-ask for early leave to prepare dinner on time. Ana changed her
-tone when talking about her fear of having an illegal immigrant
-and how to avoid that. Surprisingly, she also told the story of
-
-[Page 10]
-1066 Production and Operations Management 34(5)
-an auditor who had acted as a stalker, following her employ-
-ees outside work to probe into the working conditions and
-ask personal questions. Overall, we feel her struggle to cope
-with increasing controls, low margins, and a lack of demand
-stability from her customers.
-I leave the visit and take the plane back to Rio de Janeiro,
-lost in thought about the world we have created for our-
-s e l v e s ...t h e f a s h i o n supply chain clearly involves a huge
-imbalance between major fashion brands that reach around
-one billion dollars in annual turnover, tier-1 suppliers that are
-capable of achieving a turnover of a couple of million dollars in
-annual revenue (working with approximately 300 employees
-and managing 20 sewing cells), and ﬁnally, the tiny scale of
-these tier-2 suppliers, with no more than 30 employees and
-striving to survive another month. Within this unbalanced and
-dispersed supply chain lies a horde of workers, mostly female,
-and their voices are the only ones capable of uncovering the
-truth about fashion working conditions.
-If only we could let them speak using technology to stream-
-line communication and offer the transparency of their voices
-to the ﬁnal consumer, we could then ease the multiple audit
-schemes and seamlessly produce trust.
-By September 2018, we had presented a proposal to the
-boards of both Brand-A and NGO-A and received a green light
-for the project. By October, we had hired Researcher-B. By
-December, we had to change our blockchain partner from a
-multinational to a local start-up, and the second brand had can-
-celled its participation before the project could start. Despite
-these surprises, we had agreed to kick off with Brand-A alone
-while searching for a second brand. By February 2019, the
-project had a detailed governance structure and time sched-
-ule, and its budget was approved. At this stage, expectations
-were quite high. There was an overall excitement about the
-blockchain’s potential to contribute to ﬁghting modern slav-
-ery in the fashion industry. Concerns were concentrated on
-ensuring that the solution would help in achieving standardis-
-ation, reducing the transaction costs related to multiple (and
-ineffective) local audits, and putting ourselves in the shoes
-of the workers, that is, accounting for resistance, access to
-technology, technology literacy, and so forth.
-4.2 Phase 2. Design Thinking (And T ransaction Cost
-T rade-Offs)
-During this phase, we analysed the Association’s audit scheme
-and decided that it should serve as the basis for the project’s
-deﬁnition of modern slavery. This audit scheme classiﬁed
-issues related to working conditions that were in line with the
-literature, as described in Appendix 9 ( see: e-companion).
-Although the Association’s political strength seemed to
-result in standardisation, with its army of auditors covering
-thousands of local audits every year across the country, there
-was still a long way to go. The heterogeneity of audit schemes
-was still high, as pictured in the previous phase. At this
-stage, we inferred that the blockchain-led solution could be
-the ﬁnal push towards standardisation, as technology favours
-automation, and automation favours the adoption of common
-standards. In addition, by producing a solution adherent to the
-Association’s audit scheme, the chances of attracting other
-fashion brands would be higher. By avoiding the speciﬁci-
-ties of the current ﬁrms, the solution would then appeal to the
-entire industry. W e also needed wider participation to cover
-rising governance costs.
-In six months, the project advanced through workshops and
-the ﬁrst ﬁeldwork tour to Supply Chain-A in February 2019.
-In March 2019, we held the ﬁrst group workshop. In April,
-we signed a contract with NGO-B and Brand-B. In June, we
-held a second group workshop with both. During this phase,
-we adopted a design-thinking approach to capture the needs of
-involved stakeholders, including the focal ﬁrms, tier-1 suppli-
-ers, tier-2 suppliers, and workers, with the results summarised
-in a social canvas.
-W e had entered the ﬁeldwork highly concerned about pos-
-sible resistance to a blockchain solution. Initially, the Core
-T eam was mostly concerned with the workers’ resistance to
-using a mobile app and responding to a monthly survey. There-
-fore, signiﬁcant emphasis was placed on testing the workers’
-familiarity with mobile phones, their perceptions of the mobile
-app, their reaction to the survey’s writing style, and how clear
-the questions were to them. There were many discussions on
-how to probe on sensitive issues related to payment terms
-and beneﬁts, work hours, work environment and fatigue, as
-well as concerns about how to handle responses to open-ended
-questions:
-‘I think we need to be very responsible with the information
-we are going to collect. It is not just about what we are going
-to ask directly but about the risks if we leave an open question.
-And if someone writes something like “help me” – anything
-that puts us in the situation of needing to take someone out of
-danger – are we prepared for that? Is there a way for the app
-to capture this? And if we cannot handle this, how should we
-proceed?’ (Director NGO-B)
-In contrast to our concerns and those expressed by the
-NGOs, during our ﬁeldwork, the workers expressed surprising
-excitement with the project:
-‘It is the ﬁrst time in 27 years in this profession that someone
-asked me how I feel’. (W orker T2A22)
-‘I felt embraced. This way, we will have a voice’. (W orker
-T2A11)
-Interestingly, while NGOs and fashion brands voiced con-
-cerns about workers’ resistance, they saw no risks regarding
-the suppliers. Their discourse indicated a healthy relationship
-with their supply base, regardless of the fact that the suppli-
-ers selected for the pilot project were among the best (thus, it
+[Page 2]
+1058 Production and Operations Management 34(5)
+not have appropriate contracts. This blurred liability hinders
+law enforcement, which is crucial for controlling modern slav-
+ery. While European legislation on supply chain due diligence
+has evolved consistently, in less privileged countries, regula-
+tory progression has been less steady. In the context of Brazil,
+modern slavery legislation has experienced setbacks during
+the 2016–2022 period. The most important tool, ‘The Slav-
+ery Dirty List’ [free translation], was attacked by corporate
+lobbyists, who called for its discontinuation in 2016, a matter
+that escalated to the Supreme Court in 2020.
+2 A recent study
+mapped 208 legal processes heard by the Brazilian Superior
+Labour Court (2013–2018) associating modern slavery condi-
+tions to fashion outsourcing. The study showed that penalty
+fees were often issued but unpaid. In 2018 alone, 30 ﬁrms
+were ﬁned the equivalent of 3.5 million US dollars, but only
+0.3 % of this amount had been paid by 2020 (Marques et al.,
+2021). In recent years, the numbers have worsened. According
+to the International Labor Organization, over 35,000 people
+had been rescued from modern slavery in Brazil during the
+2000–2015 period, but 600 of them ended up in similar condi-
+tions at least a second time (International Labor Organization,
+2018). In São Paulo, Brazil’s largest city, a 200 % increase in
+modern slavery was recorded in 2021, when the COVID-19
+pandemic served as an excuse for a slowdown on monitoring.
+3
+Supply chain transparency and monitoring are keys to
+ﬁghting modern slavery. Although major scandals tend to
+attract societal and academic attention, modern slavery per-
+sists as a gradual, continuous threat that often ﬁnds a home
+in the multitiered nature of supply chains (Busse et al., 2016;
+Tachizawa and W ong, 2015). Since the early 1990s, supply
+chain transparency has slowly evolved based on supplier audits
+(Stevenson and Cole, 2018). Focal ﬁrms may either engage in
+monitoring themselves and/or resort to third parties to achieve
+audit capillarity, yet problem detection at the sub-supplier level
+is limited (Benstead et al., 2018; Nath et al., 2020). Audit
+schemes tend to work based on annual local visits. Unique
+traits of the Brazil context include the low traceability of
+buyer–supplier contracts, spread informality and lenient leg-
+islation. In fact, Brazilian legislation favours outsourcing and
+small-scale sewing cells with no more than 30 workers each.
+Hence, suppliers often split production across multiple sewing
+cells to beneﬁt from tax advantages. Such complexity and
+dispersion make audit schemes ineffective, providing fertile
+conditions for modern slavery that are often vexed, dynamic
+and partially hidden (Christ et al., 2020). However, there is
+scant research on the failure of audit schemes or alternative
+solutions for overcoming this issue.
+As transparency starts with traceability, blockchain tech-
+nology (henceforth blockchain) has emerged as a holy
+grail (Mithas et al., 2022; Sunar and Swaminathan, 2022).
+Blockchain research began in 2008 in information systems
+scholarship, and publication output exploded in 2016 (Queiroz
+et al., 2019). By 2018, the ﬁrst theoretical studies and reviews
+had hit the operations and supply chain management (OSCM)
+ﬁeld. Treiblmaier (2018) and Saberi et al. (2018) proposed
+transaction costs as a lens to understand how the blockchain
+could reshape supply chains. However, empirical work has
+only recently been published, and applications are mostly
+led by start-ups (see: Benstead et al., 2022; Danese et al.,
+2021). Most importantly, critical research on the trade-offs
+of blockchain implementation is even scarcer (Murray et al.,
+2021).
+Our study begins by asking the following research question
+(RQ1): To what extent can blockchain reduce transaction costs
+while improving supply chain transparency?
+However, blockchain initiatives to improve supply chain
+transparency will likely face resistance. Such resistance could
+relate to the emerging technology itself (Sodhi et al., 2022)
+or to the consequences of higher supply chain transparency
+(Chen et al., 2022). One particular form of organisational
+resistance to new policies that has been increasingly discussed
+in the OSCM ﬁeld is decoupling (Nath et al., 2020). Decou-
+pling can occur between policy and practice, for example,
+between those who set the policy and those who manage daily
+practice. As long as the policy pleases external stakeholders,
+what the organisation does internally actually goes untouched
+(Barratt and Choi, 2007). Decoupling can also be expressed
+as a gap between means and ends, where policies are indeed
+implemented but are only weakly related to daily practices
+(Bromley and Powell, 2012). Initiatives that improve trans-
+parency in complex and hidden supply chains may face both
+forms of decoupling as a reaction (Wijen, 2014).
+Modern slavery is ‘not a single, one-off emergency but
+rather a gradual, continuous threat’, which ‘coupled with the
+hidden and complex nature of’ supply chains may lead to
+inaction (Stevenson, 2022, p. 133). The Global South institu-
+tional context further favours decoupling. However, previous
+research has only focused on supplier decoupling (Huq and
+Stevenson, 2018; Nath et al., 2020; Silvestre, 2015). Our
+research expands the scope of the analysis to both focal ﬁrms’
+and suppliers’ complementary forms of decoupling – and,
+most importantly, the reasons behind such dynamics.
+W e therefore complement RQ1 with RQ2:Why does decou-
+pling emerge as a reaction to supply chain transparency
+against modern slavery?
+Our study was conducted as intervention-based research
+(IBR; Hasle and V ang, 2021), using the fashion supply net-
+work as the level of analysis. The intervention included fashion
+brands and their supply chains, a blockchain start-up and
+non-governmental organisations (NGOs), in line with calls
+for interactions with less traditional stakeholders (Marques,
+2019). By expanding the transaction costs lens from the dyad
+to network level, we found that the blockchain governance
+costs outweigh the expected savings in local audits. Elabo-
+rating on the drivers of organisational misconduct and decou-
+pling, we mapped how multitiered supply chains may actually
+be used to conceal focal ﬁrm misconduct (Kim et al., 2019),
+helping fashion supply chain actors buffer practices to protect
+themselves from exposure and outside inspection (Bromley
+and Powell, 2012). As a result, decoupling was exposed both

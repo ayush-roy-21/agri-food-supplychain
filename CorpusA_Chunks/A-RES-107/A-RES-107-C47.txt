@@ -1,0 +1,116 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-107-C47
+Parent Doc ID: A-RES-107
+Page Range: Page 13
+Word Range: 12219 - 12468
+Word Count: 250
+--------------------
+
+[Page 13]
+Marques et al. 1069
+as midﬁelders, buffering problems from tier-2 sewing cells.
+Audit failure was clearly occurring.
+Previous research has emphasised focal ﬁrms’ need to
+embrace coopetition (Benstead et al., 2018) and work through
+ﬁrm associations to improve supply chain transparency (Vil-
+lena, 2018). In our study, both coopetition and a strong asso-
+ciation were in place, but the problem persisted. Given this
+scenario, blockchains would seem to be a promising solution
+to ease the problem (Kshetri, 2018; Saberi et al., 2018). Schol-
+ars have emphasised the potential of blockchain solutions to
+automate ﬂows while substituting for trust and adding trace-
+ability in a frictionless manner. Thus, they are particularly
+capable of reducing transaction costs. In the fashion supply
+network, a blockchain solution could reduce audit costs, as
+digitalisation would provide standardisation and increase the
+frequency of control. However, our intervention exposed the
+need for complex governance that produced unforeseen trans-
+action costs.
+Similar to studies on blockchain use to prevent counter-
+feiting, we identiﬁed blockchain costs related to data security
+(Danese et al., 2021) and trade-offs between implementation
+and transaction costs (Pun et al., 2021). Such implementa-
+tion costs took the form of ‘oracle costs’, that is, third-party
+experts to oversee blockchain smart contracts on a regular
+basis (Murray et al., 2021). Such governance costs would
+thus counterbalance the reduction in local visits, at least in
+the short to medium term. Therefore, while blockchain might
+reduce costs related to local audits, unforeseen governance
+costs/investments could overshadow the expected economy.
+Blockchain governance would only become viable if imple-
+mented on an industry scale, where cooperation could avoid
+overburdening isolated focal ﬁrms. These conclusions led us
+to our ﬁrst proposition:
+P
+ROPOSITION 1. Blockchain can save audit costs, but gover-
+nance costs outweigh such savings without industry scale and
+commitment.
+Questioning why industry-level implementation did not
+occur in a scenario with a strong association led us to shift
+from mode 1 (RQ1) to mode 2 (RQ2) and explore ‘evidence
+for the development of new theories not considered prior to
+the intervention’ (Oliva, 2019, p. 712).
+5.2 Unveiling Decoupling and Organisational
+Misconduct (RQ2)
+Beyond facing cost trade-offs, the intervention was hampered
+by emerging resistance in the form of decoupling. Thus, we
+now address RQ2: Why does decoupling emerge as a reaction
+to supply chain transparency against modern slavery?
+Supplier resistance did not emerge without reason. Suppli-
+ers’ refusal to take part in the intervention was a consequence
+of the focal ﬁrms’ unfair purchasing practices. Such practices
+included, on the one hand, severe delay penalties for suppliers
+and, on the other hand, order instability and cancellations,
+which led to disruptions in production, urgent requests, and
+very limited demand predictability (Chen et al., 2022; Meehan
+and Pinnington, 2021; Muratore and Marques, 2021). Suppli-
+ers thus had to live in a state of permanent tension, complying
+with price pressures and absorbing demand instability while
+accepting workloads and costs from parallel audit schemes.
+Redundancy did not ensure control while overburdening sup-
+pliers. As the focal ﬁrms simultaneously persisted in their
+unfair purchasing practices and tightened audit schemes, the
+suppliers felt doubly pressured. Such hypocrisy enabled the
+focal ﬁrms to outsource the risk, responsibility, and costs of
+modern slavery upstream to suppliers (Glover and Touboulic,
+2020), which in turn led to supplier resistance in the form of
+decoupling.
+Supplier behaviour emerged in the form of means–end
+decoupling. Suppliers found themselves with limited agency
+to respond to focal ﬁrms’ impositions (Carmagnac et al.,
+2022). Since suppliers were economically dependent on focal
+ﬁrms, they responded to increasing audit pressures with
+means–end decoupling in two ways. First, tier-1 suppliers
+acted as buffers to tier-2 suppliers’ non-compliance. Tier-1
+suppliers could not simply cancel tier-2 sewing cells that failed
+to comply, or they would not meet the cost pressures. Instead,
+tier-2 suppliers’ non-compliance was hidden or at least delayed
+from exposure to the focal ﬁrms.
+By outsourcing the burden of modern slavery mitigation
+to suppliers (Meehan and Pinnington, 2021) while simultane-
+ously sustaining price pressures, focal ﬁrms closed their eyes
+to informal sub-contracting and work instability (Soundarara-
+jan et al., 2021), ‘creating a dangerous cascade of unfair pay’
+(Chen et al., 2022, p. 4306). Our second proposition indicates
+the joint effects of unfair purchasing practices and growing
+audit demands:
+P
+ROPOSITION 2. The combination of increasing audit costs
+for suppliers and unfair purchasing practices of focal
+ﬁrms leads to supplier resistance and buffering of non-
+compliant practices which conﬁgures supplier decoupling
+(means–end).
+Unfair purchasing practices seemed to spread across the
+industry. Prior research has suggested that coopetition is a
+driver of transparency (Benstead et al., 2018; Villena, 2018).
+Here, we observed another facet of coopetition: the legiti-
+mation of unfair purchasing practices. To understand such
+dynamics, we resorted to drivers of organisational misconduct.
+Greve et al. (2010) presented a robust review of organisational
+misconduct, stating that ‘misconduct is a behaviour that ﬂour-
+ishes where legal, ethical, and social aspects have blurred lines
+rather than clear limits’ (Greve et al., 2010, p. 36). Recently,
+the OSCM scholarship has employed the lens of misconduct
+to draw attention to practices that are widespread and persis-
+tent, despite their negative consequences for society (Skilton
+and Bernardes, 2022).

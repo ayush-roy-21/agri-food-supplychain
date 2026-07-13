@@ -1,0 +1,159 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C24
+Parent Doc ID: A-MSME-100
+Page Range: Page 25 to Page 26
+Word Range: 6449 - 6783
+Word Count: 335
+--------------------
+
+[Page 25]
+25 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Table A1 in the Appendix presents a snapshot of 
+the characteristics of the firm and its owner. It 
+includes information about the owner’s age, gender, 
+and education. It also provides information on the 
+enterprise’s age and whether it operates out of a 
+business or household cluster. 
+Most smaller-sized enterprises are relatively new, 
+while larger firms have been operational longer.  Over 
+50% of the enterprises were established after 2010. 
+Around 12% of medium-sized enterprises have been 
+operating since before 1990, compared to 9% of small-
+sized firms, and 7% of micro-enterprises. 
+Most firms operate within business clusters, with 
+relatively larger-sized firms having a higher presence 
+in these clusters than household clusters. Enumerators 
+noted whether firms operated within a business 
+or household cluster. Enterprise growth prospects 
+improve in business clusters due to better supporting 
+infrastructure. About 78% of all enterprises and 100% 
+of medium-sized firms operated within a business 
+cluster. Consequently, a relatively larger percentage 
+of micro firms (about 28%) were operating within 
+household clusters. 
+Integrated firms are typically owned by younger, more 
+educated individuals than non-integrated ones. Figure 
+3 shows that 61% of integrated firm owners and 57% 
+of non-integrated firm owners are under 35 years old. 
+About 85% of integrated enterprise owners and 81% 
+of non-integrated firm owners hold graduate-level or 
+higher educational qualifications. 
+Figure 3:
+Distribution of enterprises by age of 
+owner and e-commerce integration 
+(in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+A greater percentage of integrated firms have 
+employees in higher employment brackets, and the 
+share of these firms has risen over time.  In general, 
+there has been an increase in the share of firms with 
+a higher number of employees over the years, thereby 
+indicating a growth in hiring in MSMEs. Figure 4 
+illustrates that integrated enterprises increasingly hire 
+more employees than non-integrated ones. In 2021-
+22, 61% of integrated enterprises employed more 
+than 10 workers, compared to 49% of non-integrated 
+enterprises. By 2023-24, this proportion rose to 77% for 
+integrated and 65% for non-integrated enterprises. This 
+indicates that integrated enterprises not only employ a 
+larger workforce but also exhibit a faster pace of hiring 
+compared to their non-integrated counterparts.
+3. Characteristics of the Sample
+ 
+2%
+57%
+35%
+6%
+2%
+59%
+34%
+5%
+2%
+55%
+36%
+7%
+0% 20% 40% 60% 80% 100%
+ 18-24 Years
+ 25-35 Years
+ 36-50 Years
+ Over 50 years
+Not integratedIntegratedOverall
+Characteristics of the Sample
+
+[Page 26]
+26 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Figure 4: Distribution of enterprises by number of employees from 2021-22 to 2023-24 (in %)
+B.  Distribution of Integrated and Non-integrated Firms
+44.78 51.16
+3.71 0.34
+62.22
+5.20 0.51
+29.13
+64.19
+5.83 0.84
+0
+20
+40
+60
+80
+0
+20
+40
+60
+80
+0
+20
+40
+60
+80
+<10 10-50 51-250 >250
+2021-22
+2022-23
+2023-24
+Percent
+No. of Employees
+32.07
+A.  All Enterprises
+39.16
+57.85
+2.38 0.59
+25.59
+69.17
+4.73 0.50
+23.09
+70.28
+5.87 0.75
+50.52 44.33
+5.06 0.09
+38.67
+55.12
+5.68 0.51
+35.26
+58.01
+5.79 0.93
+0
+20
+40
+60
+80
+0
+20
+40
+60
+80
+0
+20
+40
+60
+80
+<10 10-50 51-250 >250 <10 10-50 51-250 >250
+Integrated, 2021-22
+Integrated, 2022-23
+Integrated, 2023-24
+Not Integrated, 2021-22
+Not Integrated, 2022-23
+Not Integrated, 2023-24
+Percent
+No. of Employees
+Source: Authors’ computation of data from ICRIER’s MSME survey
+Characteristics of the Sample

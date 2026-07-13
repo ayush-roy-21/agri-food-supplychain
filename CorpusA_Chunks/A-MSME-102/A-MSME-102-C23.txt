@@ -1,188 +1,106 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-102-C23
 Parent Doc ID: A-MSME-102
-Page Range: Page 112 to Page 115
-Word Range: 29695 - 31067
-Word Count: 1,373
+Page Range: Page 38
+Word Range: 6144 - 6424
+Word Count: 281
 --------------------
 
-[Page 112]
-112
-Enhance the role and effectiveness of 
-the Institute for Collaborations (IFCs)
-Enhancing Access to Markets, a better 
-Supply Chain Management to Enhance 
-the Quality of Products and Export 
-Competitiveness 
- » The role and effectiveness of IFCs must be enhanced to support cluster development, 
-particularly for MSMEs, by fostering research, innovation, and technology upgrades. This 
-involves building knowledge networks among universities, research institutes, and private 
-entities to expand IFC memberships, establishing forums for sharing industry information to 
-streamline R&D and reviewing property rights frameworks to mitigate risks in sharing trade 
-details. 
- » Upgrading Common Facilitation Centres (CFCs) under the MSE-CDP to meet IFC standards 
-will bolster their impact. Strengthened IFCs can drive productivity, innovation, and 
-competitiveness within the MSME sector, significantly contributing to its growth.
- » Implement export incentives and enhance digital and e-commerce platforms, similar to 
-initiatives in states like Haryana, Bihar, Andhra Pradesh, and Tamil Nadu. Support measures 
-should include quality certifications, market research, and buyer-seller meetups. 
- » There is a need for tailored insurance products that combine traditional risk transfer 
-methods with digital tools to enhance the resilience of MSMEs. As AI becomes increasingly 
-indispensable in business processes, it is essential to create awareness campaigns and 
-offer workshops. Accessible training platforms and collaborative environments should be 
-established for exchanging ideas and learning. Additionally, subsidies, grants, and low-
-interest loans can help MSMEs invest in AI technologies.
- » Tailored policies are necessary to support the technological upgrading of micro and small 
-enterprises, addressing their basic technology needs and enhancing their productive 
-capacity. Furthermore, states should develop MSME-specific infrastructure, such as 
-co-working spaces, industrial parks, and shared facilities. These initiatives should be 
-complemented by policies that make rental costs more affordable for smaller firms to help 
-micro-enterprises access quality infrastructure.
- » Technology upgrades are needed to overcome technological obsolescence, especially 
-in weaving and processing segments in textile manufacturing and apparel clusters. 
-Investments in Industry 4.0 are essential for chemical clusters.
-
-[Page 113]
-113
-Monitoring, Evaluation, and Stakeholder 
-engagement
- » There is a critical need to raise awareness among potential beneficiaries about existing 
-policies and schemes for MSMEs to ensure they reach the intended recipients. State 
-governments must enhance outreach and communication to ensure policies are accessible 
-and understood by MSMEs. Regular surveys and assessments to monitor the performance 
-of MSME policies provide a basis for evidence-based improvements.
- » Policymakers need to engage more effectively with MSME stakeholders, including 
-representatives of Owner-Operated Enterprises (OAEs) and women-owned enterprises, 
-which face unique challenges that are often overlooked.
- » MSMEs in informal sectors also need to be captured in the government/public datasets. 
-Analysing this data using statistical methods will help derive insights and identify areas for 
-improvement towards reducing informality in the MSME sector
- » Additionally, focus on high-tech sectors such as semiconductors and biotechnology. 
-Establish district-level initiatives that help integrate micro, small, and medium enterprises 
-(MSMEs) into global value chains.
- » Among the SMEs in textile manufacturing, collaboration with Indian and international design 
-schools, investment in new product technologies, and partnership with high-end retail 
-outlets need to be promoted. State governments should focus on expanding the talent pool 
-of engineers and researchers for chemical product sector SMEs by increasing domestic 
-and international collaboration with students. They also need to support strengthening the 
-marketing capabilities of SMEs to advance downstream in the value chain and enhance 
-their competitiveness. Reducing dependence on imported raw materials can promote the 
-segment’s sustainable growth. 
- » The state government should invest in electronic supply chain linkage for SMEs in textile 
-manufacturing. This would involve investing in capital equipment and local training 
-institutions to foster process innovation, product management, and quality control.
- » In Food processing, state governments can help the MSMEs by supporting international 
-trade fairs, exhibitions, export promotion programs, training and workshops on marketing 
-techniques and digital marketing geared towards diversifying into by-products and 
-developing niche markets.
-
-[Page 114]
-114
-Conclusion
-The analysis of the MSME landscape in India faces several challenges stemming from the 
-limitations of the available data. One notable concern is the limited sample size of the dataset, 
-which may compromise its representativeness in the broader MSME sector. The inclusion bias 
-towards firms adhering to standardised bookkeeping practices raises questions about the 
-accuracy of assessing the value added by diverse enterprises, particularly micro-enterprises 
-that may not follow such practices.
-Additionally, the dataset is plagued by a significant number of missing values, posing a 
-challenge to the reliability and comprehensiveness of the analysis. These gaps in crucial 
-indicators can affect the accuracy of value-added calculations, emphasising the need for 
-cautious interpretation of findings. Moreover, the methodological variations in the data 
-collection employed by the Centre for Monitoring the Indian Economy (CMIE) introduce 
-another layer of complexity. The proprietary nature of this methodology may deviate from 
-national and international standards, requiring careful consideration in interpreting analysis 
-results.
-To address the limitations mentioned, in the study we have used Michael Porter’s approach 
-to understand SME cluster development. We used PLFS (Periodic Labour Force Survey) data, 
-underscoring the rationale for this inclusion. Given the scarcity of regular data specific to 
-MSMEs, we advocate for utilising available sources like PLFS data as an interim measure. 
-In our opinion, until a comprehensive and regularly updated dataset becomes available, 
-policymakers and researchers should give due consideration to this data, particularly for 
-its potential in understanding cluster-led developments in India. The PLFS data facilitates a 
-focus on state and district-specific requirements, providing valuable insights that can aid in 
-formulating targeted strategies for the growth and development of the MSME sector. This 
-approach acknowledges the current data constraints while emphasising the importance of 
-leveraging existing resources to inform more effective policy decisions and research initiatives.
-The broader issue of insufficient data on Indian MSMEs, particularly concerning employment 
-trends, export contribution, and GVC integration, further compounds the challenges. The 
-lack of robust data impedes effective study of these factors, posing a substantial hurdle for 
-policymakers seeking to formulate strategies for the MSME sector. While the UDYAM database 
-stands as the sole regularly updated source, its limitations in capturing detailed data on 
-economic activity for employment, exports, and productivity restrict its utility. Furthermore, 
-the existing databases, including UDYAM and Prowess, fall short in providing comprehensive 
-insights into value addition, exports, and GVC integration, highlighting the necessity for their 
-enhancement.
-Addressing these limitations is crucial for guiding an urgent and comprehensive examination 
-of the MSME sector. Specifically, improvements in the functionality of the UDYAM portal, 
-such as incorporating cluster-specific data and addressing the absence of NIC-level data 
-categorised by states, are essential steps. This enhancement is pivotal in establishing a 
-foundation for more informed policy decisions and fostering the competitiveness of MSMEs in 
-India.
-
-[Page 115]
-115
-State level MSME policy
-State Link Focus MSME or 
-Industrial
-Year
-Recently Updated
-Andhra Pradesh MSME POLICY 2015-2020 Micro and 
-Small
-MSME 2015-2020
-Arunachal Pradesh Industrial and Investment Policy 2020 Industrial 2020
-Assam The Assam MSME (Facilitation of Establishment and 
-Operation) Act, 2020
-Micro and 
-Small
-2020
-Bihar Bihar Industrial Investment Promotion Policy (Textile & 
-Leather Policy), 2022
-Industrial 2022
-Chhattisgarh MSME POLICY – CHHATTISGARH STATE (2019-24) Micro and 
-Small
-2019-24
-Goa Compendium of MSME Policy and Incentive Schemes of Goa 2022
-Gujarat Gujarat Industry Policy 2020 Industry 2020
-Haryana Haryana MSME Policy 2019 Micro and 
-Small
-2019
-Himachal Pradesh The Himachal Pradesh Industrial Investment Policy, 2019 Industry 2019
-Jharkhand Jharkhand Industrial and Investment Promotion Policy 2021 Industry 2021
-Karnataka Government of Karnataka INDUSTRIAL POLICY 2020-2025 Industry 2020-25
-Madhya Pradesh MP MSME Development Policy, 2021 Micro and 
-Small
-2021
-Meghalaya Meghalaya Procurement Preference Policy for Micro and 
-Small Industries
-Micro and 
-Small
-2021
-Odisha Odisha-MSME-Policy-2022 Micro and 
-Small
+[Page 38]
+38
+Challenges 
+MSMEs face 
+are: 
+Formalisation1.
+Informal firms rarely undergo formalisation. Only 9% of the 
+registered firms start out as unregistered. (Porta & Shleifer, 
+2014). MSMEs dominate the informal sector, ILO estimates 
+about 90% of the informal sector are MSMEs3  (ILO, 
+2023). These unregistered, informal firms tend to 
+be constrained to an ecosystem associated with 
+low income and low entry barriers; disjoint from 
+the formal space (Ishengoma & Kappe, 2006) 
+(Mehrotra & Giri, 2019)). This informality within firms 
+significantly hampers their integration into Global 
+Value Chains (GVCs). Enhanced integration into 
+GVCs is predominantly influenced by two critical 
+factors: competitiveness and connectivity (ADB, 
+2015). For firms to bolster their competitiveness and 
+connectivity, an enabling environment must allow 
+them to effectively leverage policy frameworks and 
+market mechanisms.
+Existing research highlights key obstacles hindering the growth and competitiveness of Micro, 
+Small, and Medium Enterprises (MSMEs) in India. A thorough examination and comprehension 
+of these concerns are crucial for developing successful strategies and interventions 
+to overcome the challenges MSMEs encounter, thereby enhancing their resilience and 
+competitiveness in the Indian economy.
+3      https://www.ilo.org/employment/units/emp-invest/informal-
+economy/lang--en/index.htm#:~:text=The%20informal%20
+economy%20comprises%20more,Small%20Enterprises%20
+(MSEs)%20worldwide
+Percent 
+of firms 
+choosing 
+access to 
+finance as 
+their biggest 
+obstacle
+Percent 
+of firms 
+choosing 
+access to 
+land as their 
+biggest 
+obstacle
+Percent 
+of firms 
+choosing 
+business 
+licensing and 
+permits as 
+their biggest 
+obstacle
+Percent 
+of firms 
+choosing 
+corruption 
+as their 
+biggest 
+obstacle
+Percent 
+of firms 
+choosing 
+courts 
+as their 
+biggest 
+obstacle
+Percent 
+of firms 
+choosing 
+crime, theft 
+and disorder 
+as their 
+biggest 
+obstacle
+Percent of 
+firms choosing 
+transportation 
+as their 
+biggest 
+obstacle
+0
+5
+10
+15
+25
+20
+Biggest Obstacles 
+faced: By 
+manufacturing and 
+services SMEs in 
+India- 2022
+Source: Enterprise 
+Survey, World Bank 
 2022
-Punjab Punjab Industrial and Business Development Policy 2022 Industrial 2022
-Sikkim Sikkim Micro, Small and Medium Enterprises Policy, 2022 Micro and 
-Small
-2022
-Tamil Nadu Micro, Small and Medium Enterprises Policy - 2021 Micro and 
-Small
-2021
-Tripura lntroduction of Trlpura Industrlal Investment' Promotion 
-Incentive Scheme (TIIPISI. 2022
-Industrial 2022
-Uttar Pradesh UTTAR PRADESH MICRO, SMALL AND MEDIUM 
-ENTERPRISES PROMOTION POLICY - 2022
-Micro and 
-Small
-2022
-Not updated recently
-Kerala MSME Schemes for Kerala State
-Maharashtra The Industrial Policy of Maharashtra Industrial
-Rajasthan Rajasthan MSME Policy 2015 MSME 2015
-Uttarakhand Uttarakhand Policies & Incentives MSME
-West Bengal MSME Policy 2013-18 MSME MSME
-No policy document
-Manipur
-Nagaland
-Telangana
+2022 Manufacturing
+2022 Services

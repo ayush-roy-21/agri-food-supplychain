@@ -1,138 +1,50 @@
 --- CHUNK HEADER ---
 Chunk ID: A-FSSAI-001-C20
 Parent Doc ID: A-FSSAI-001
-Page Range: Page 52 to Page 54
-Word Range: 27074 - 28462
-Word Count: 1,389
+Page Range: Page 9
+Word Range: 4957 - 5221
+Word Count: 265
 --------------------
 
-[Page 52]
-116 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
-z after breaks
-z after using the toilet
-z after cleaning the raw materials or utensils / equipments
-3. Street shoes inside the food preparation area should not be worn while handling & preparing food.
-4. Food handlers should ensure careful food handling & protect food from environmental exposure.
-5. Food handlesr should not handle soiled currency notes to avoid cross contamination.
-IV . TRANSPORTA TION AND HANDLING OF FOOD
-(1) The vehicle/transportation being used to carry cooked/prepared/processed food should be clean and, dedicated
-for this purpose and should not carry anything else.
-(2) Time required for transportation should be minimum, to avoid microbial proliferation.
-(3) Cooked food served hot should be kept at a temperature of at least 600 C to prevent microbial growth.
-(4) Cooked food to be served cold should be kept below 50 C to prevent growth of pathogens.
-(5) All foods during transportation must be kept covered and in such a way as to limit pathogen growth or toxin
-formation by controlling time of transportation, exposure, temperature control and using safe water for cleaning etc.
-(7) Handling of food should be minimal. It should be ensured that utensils, crockery, cutlery and specially hands of
-the food handlers/seller are clean and sanitized.
-(8) All surplus food and unused thawed food should be discarded.
-(9) Food to be kept for cold storage should be distributed in small volumes to ensure uniform cooling.
-(10) Dry, fermented and acidified foods should be stored in cool and dry place.
-(11) All packaged food viz. sterilized milk, bottled beverages, canned foods etc. should be stored properly during
-transportation to ensure that seals remain intact and undamaged.
-V . STORAGE
-1. It is very important to store food properly for the purpose of food safety. Following things must be ensured:
-z Foods should be cooked, stored and kept at right temperature
-z Raw meat/poultry should be stored separately from other foods
-z Veg. foods should always be stored above non-veg. foods and cooked foods above uncooked foods on
-separate racks in the refrigerator.
-z Storage temperature of frozen food should be -18oC or below.
-z Cooked food to be eaten later should be cooled quickly, and kept it in the refrigerator - It is advisable to
-put date on food packages or containers, using stickers or any other way of identification , before
-keeping inside the refrigerator to keep track of food prepared date wise and use accordingly to minimise
-wastage .
-z Storage instructions over food packaging should be followed.
-z Dried foods (such as grains and pulses) should be stored off the floor, ideally in sealable containers, to
-allow proper cleaning and protection from pests.
-Stock rotation
-The rule for stock rotation is FIFO (first in, first out) to make sure that older food is used first. This will help to
-prevent wastage.
-VI. SPECIAL REQUIREMENTS FOR HIGH RISK FOODS
-This section deals selectively with varieties of food which are high risk as per HACCP and may need special
-attention. The type of foods covered here are as follows:
-1. Cut fruits/salads, fresh juices and beverages
-
-[Page 53]
-¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 117
-(1) Fresh fruits /vegetables cut or juiced should be used immediately; however, short storage should be only
-under refrigeration in sanitized and properly covered vessels.
-(2) Water used in beverages should be potable.
-(3) Ice used should be made of potable water only.
-(4) Food or beverages should not be stored in the same container used to store the ice intended for consumption.
-(5) Juice concentrates must be checked regularly for any fungal growth / change of colour, odour or gas
-formation in the bottle.
-(6) Juice dispensing machine should be cleaned and rinsed with water regularly.
-2. Confectionery products
-(1) Prepared confectionery products should be kept in airtight containers and displayed hygienically.
-(2) Cream to be used should be stored covered under refrigeration.
-(3) Finished products should be refrigerated with proper labels indicating date of expiry.
-(4) Products should be properly wrapped/ packaged after proper cooling.
-3. Meat, poultry & fish products
-(1) Non veg. products/raw materials should be purchased (chilled products temperature should be at 50C or
-below and frozen products at -18 deg C or below) from authorized/ licensed slaughter houses/vendors.
-(2) Processing area should be cleaned and disinfected promptly.
-(3) Preparation and processing of meat, poultry and marine products should be separate.
-(4) Non-veg. products are washed with potable water before use.
-(5) Non-veg. products are cooked thoroughly (core temperature 750 C) for at least 15 seconds or an effective
-time/temperature control e.g. 65 0C for 10 minutes, 70 0C for 2 minutes.
-(6) Non-veg. products should be stored covered in refrigerator below the veg. products.
-(7) Raw and cooked products should be stored physically separated with cooked products at the top.
-(8) All refuse/waste should be promptly removed from preparation area.
-4. Water based chutneys, sauces etc.
-(1) All fruits/vegetables should be washed properly before processing.
-(2) Clean and disinfected chopping boards/grinding stone/machine should be used.
-(3) Personal hygiene of food handlers need to be ensured.
-(4) Water used in the chutneys should be safe and potable.
-(5) Only permitted food additives should be used, if required, and be added in recommended quantities only.
-(6) Spoiled products should be discarded immediately after confirmation of spoilage (change in colour/
-texture/ odour).
-(7) Sauces and chutneys should be stored in glass/food grade plastic containers with proper lids.
-(8) Clean and intact containers should be used for storing sauces and chutneys.
-(9) Sauces and chutneys should be stored in refrigerator when not in use.
-(10) Perishable/uncooked chutneys should be consumed immediately.
-5. Foods transported to point of sale from the point of cooking
-(1) Food should be reheated more than 740 C before consumption.
-(2) Food should be consumed or served for consumption within 4 hours of reheating.
-6. Foods with Gravy
-(1) Food products should not be stored at room temperature for more than 2 hours during display or sale.
-
-[Page 54]
-118 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
-(2) For prolonged storage, foods should be stored in refrigerators or kept for hot holding at or above 60°C.
-(3) No water should be added after cooking/reheating/boiling.
-7. Fried Foods
-(1) Good quality / branded oils/fats should be used for food preparation, frying etc.
-(2) Use packaged oil only.
-(3) Use of oils with high trans fats (like vanaspati) should be avoided as far as possible.
-(4) Re-heating and reuse of oil should be avoided as far as possible. Avoid using leftover oil wherever
-possible.
-8. Adding ingredients after cooking
-(1) Ingredients added to the cooked food should be thoroughly washed/ cleaned.
-(2) After cooking or post cooked mixing, the food should be used immediately.
-(3) Garnishes etc., if added, should be prepared using fresh, thoroughly washed and freshly cut vegetables
-and used immediately.
-Reuse of cooked food is not recommended.
-z Potentially hazardous foods and high risk foods such as hollandaise sauce, refried beans, scrambled
-eggs and cut fruits are to be discarded.
-z All food at banquet setting that has been on display are to be discarded.
-z Food kept at more than 60°C during service may be reused, only by following the procedure indicated
-below:
-z never mix leftover with fresh product. If in doubt, throw out the product.
-z Reheat leftover food temperature to more than74°C
-9. Thawing of Frozen Products.
-Thawing-In Refrigerator
-z Items being thawed should be labelled with defrost date to indicate the beginning of 2nd shelf life.
-z Thaw food at 5°C or less.
-z Temperature controlled thawing is recommended for meat, poultry and fish.
-z Any other means of thawing apart from running water and microwave is not allowed.
-Thawing In Running Water
-Items being thawed should be labelled with date and time.
-z Thawing in running water advisable shellfish and seafood.
-z Thawing in running water should not exceed 90 minutes.
-z Ensure air break between tap and water.
-z Use sanitized food grade container.
-z Sink must not be used for other purposes during thawing
-z After thawing, product must be used within 12 hours.
-z Cold running water (from mains) should be at 15°C or less
-[F.No. 2-15015/30/2010]
-V .N. GAUR,
-Chief Executive Officer
+[Page 9]
+¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 73
+(g) Total Annual turnover from the food business, if existing, alongwith any supporting document(s) showing proof of
+income (*In case of renewal): __________________________________________________________________
+_________________________________________________________________________________________
+(h) In case of new business - intended date of start: ___________________________________________________
+(i) In case of seasonal business, state the opening and closing  period of the year:_______
+(j) Source of water supply:
+Public supply             Private supply         Any other source
+(k) Whether any electric power is used in manufacture of the food items:
+ Yes
+ No
+If yes, please state the exact HP used or sanctioned Electricity load: ___________________________________
+(l)   I/We have forwarded a sum of Rs………towards registration fees according to the provision of the Food Safety and
+Standards (Licensing and Registration) Regulations, 2011 vide:
+ Demand Draft no. (payable to ____________________)
+ Cash
+(Signature of the Applicant)
+Form ‘B’
+[See Regulation 2.1.2, Regulation 2.1.3 and Regulation2.1.7]
+Application for License / Renewal of license under Food Safety and Standards Act, 2006
+Kind of business (Please tick more than one, if applicable):
+ Manufacturing/Processing including sorting, grading etc.
+ Milk Collection/chilling
+ Slaughter House
+ Solvent extracting unit
+ Solvent extracting plant equipped with pre cleaning of oil seeds or pre expelling of oil.
+ Solvent extracting and oil refining plant.
+ Packaging
+ Relabeling (manufactured by third party under own packing and labeling)
+ Importing
+ Storage/Warehouse/Cold Storage
+ Retail Trade
+ Wholesale Trade
+ Distributor/Supplier
+ Transporter of food
+ Catering
+ Dhabha or any other food vending establishment
+ Club /canteen
+ Hotel
+ Restaurant
+ Other(s), please specify:_____________________

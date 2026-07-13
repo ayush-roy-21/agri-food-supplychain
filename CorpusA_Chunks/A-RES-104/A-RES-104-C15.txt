@@ -1,0 +1,112 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-104-C15
+Parent Doc ID: A-RES-104
+Page Range: Page 5
+Word Range: 3730 - 3979
+Word Count: 250
+--------------------
+
+[Page 5]
+Xue et al. 10.3389/fsufs.2025.1649834
+Frontiers in Sustainable Food Systems 05 frontiersin.org
+Solutions for this include the use of circular economy principles 
+(Borrello et al., 2016) and blockchain technologies aimed at improving 
+traceability (Chen et al., 2021; Menon and Jain, 2024).
+3.3 Logistics and infrastructure risks
+Dependence on logistics and infrastructure can put companies at 
+risk in terms of storage issues, transportation problems, and port 
+troubles. Such problems can severely disrupt the food distribution 
+network along with the performance of the company and its processes 
+from supplier to customer (Ali and Govindan, 2021; Abu Nahleh et al., 
+2023). The outbreak of COVID-19 led to issues with transportation, 
+inadequate storage facilities, food loss, and a shortage of labor, all of 
+which impacted the availability, access, utilization, and stability of 
+food. These disturbances not only disrupted food production and 
+supply but also compromised food quality, freshness, hygiene, and 
+cost-efficiency, exacerbating food insecurity in both the Global North 
+as well as Global South ( Abu Nahleh et  al., 2023 ). Incorporating 
+Industry 4.0 technology (I4T) can offset the negative impacts of 
+operational risks affecting the performance of agricultural food 
+distribution networks ( Ali and Govindan, 2021 ). Digital 
+transformation minimizes operational risk such as in COVID-19. In 
+South Asia, the research conducted on logistics operation, more 
+especially in transportation and warehousing functions, can enhance 
+supply chain resilience (Umar and Wilson, 2023).
+3.4 Labor and workforce risks
+Seasonal and migrant worker shortages coupled with strikes have 
+heavily affected all links of AFSC ( Kuizinaitė et al., 2023). Human 
+workforce is very important for smooth functioning of supply chain. 
+During periods of labor shortages, Canada’s peak agricultural season 
+and its reliance on temporary immigrant worker programs may result 
+in disruptions, food losses, and reduced competitiveness (Preibisch, 
+2010). Alterations in immigration labor policies have afforded 
+employers more sway in terms of staffing rights. This serves to 
+underscore the value of immigrant labor in tackling shortages and 
+sustaining productivity and stability in the labor market. As per Abu 
+Nahleh et al. (2023), food losses and logistics disruptions occurred 
+along the food value chain due to labor shortages, increased 
+transportation costs, and limited storage capacity during the 
+COVID-19 pandemic. The deficiencies in AFSC have unmasked their 
+vulnerabilities and their dependence on a flexible labor strategy like 
+digitization and automation ( Ali and Govindan, 2021 ; Dadi 
+et al., 2021).
+3.5 Political and regulatory risks
+An export ban or regulatory changes are the main risks that can 
+disrupt AFSC. It can disrupt the global supply chain of food and 
+agriculture. Most importantly, it can impact countries that lack self-
+sufficiency in agri-food ( Kuizinaitė et  al., 2023 ). According to 
+Koppenberg et  al. (2020) , more than 20 countries have AFSC 
+disruptions. Unanticipated governmental rules and regulatory changes 
+could threaten the agri-food distribution. Because of coronavirus 
+disrupting the border and food trade, better policy measures could limit 
+the number of interruptions. The measures may relate to border delays, 
+certification and food trade rules (Deconinck et al., 2020). The agri-
+food distribution faces major risk standards due to government policy 
+reforms and compliance measures (Kuizinaitė et al., 2023). Excessive 
+and inadequate regulation can harm the agricultural food sector, as 
+excessive regulation may limit innovation and competitiveness, while 
+insufficient regulation can lead to instability, including food safety 
+issues, fraud, and unethical behavior (Zhao et al., 2017; Kuizinaitė et al., 
+2023). Changes in regulations can disrupt the flow of goods within the 
+supply chain, leading to delays and inefficiencies. During the 
+COVID-19 pandemic, sudden border and certification rule changes led 
+to shipment delays and spoilage of perishable agri-food products. 
+Adjusting a company’s production, package, or even the bus one of 
+those cargo ships or trucks is likely to be costly. As per the study by 
+Srivastava and Dashora (2021) and Menon and Jain (2024), to alleviate 
+those risks, the policymakers and the stakeholders within the industry 
+should look for innovative ways to achieve a balance between 
+effectiveness and security. This can be  achieved with the help of 
+electronic traceability technology and blockchain, through which 
+transparency and compliance can be enhanced.
+3.6 Technological and cyber risks
+Researchers have proposed adopting digital monitoring tools and 
+innovations (such as AI, IoT and blockchain) to improve the 
+traceability, openness, and efficiency of agricultural food distribution 
+networks, which cyber-attacks could significantly compromise (Dadi 
+et al., 2021; Ali and Govindan, 2021). According to Dadi et al. (2021), 
+automation and digital platforms may help in handling issues 
+concerning food safety and traceability but might also cause new risks. 
+Tech platforms such as IoT, blockchain, and AI can help simplify 
+processes and combat vulnerabilities and setbacks within the 
+agricultural food distribution network (Ali and Govindan, 2021). For 
+example, digital traceability systems can boost efficiency, support food 
+protection, and increase openness throughout the distribution 
+network (Charlebois et al., 2024). Digital twins can help create more 
+transparency, reduce lead time, respond to unforeseen events, and 
+make better use of current practices and resources. However, these 
+technologies also bring new risks. Adoption of Industry 4.0 requires 
+skilled workers, funding and economic benefits. Agricultural food 
+supply chain can also face data privacy and cybersecurity threats from 
+digital platforms ( Saha et  al., 2024 ). Technological solutions in 
+agriculture rely heavily on global supply chains, which can create new 
+vulnerabilities. Many of the components for technologies like IoT, 
+blockchain, and AI come from far-off, expensive suppliers in the 
+Global North. This dependence makes these systems prone to 
+disruptions, which, honestly, raises questions about their long-term 
+reliability and security. Moroever, sustainability could also be  a 
+big issue.
+3.7 Social and consumer risks
+The agricultural food supply chain is significantly affected by 
+changes in consumer demands—for example, the growing preference 
+for organic, plant-based, and sustainable foods. These changes require

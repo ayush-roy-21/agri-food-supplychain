@@ -1,0 +1,393 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-108-C14
+Parent Doc ID: A-RES-108
+Page Range: Page 3 to Page 4
+Word Range: 3281 - 3530
+Word Count: 250
+--------------------
+
+[Page 3]
+Sustainable Production and Consumption 39 (2023) 203–215
+205
+coordination of a circular economy. Mangla et al. (2018) identified the 
+most significant roadblocks hindering the circular FSC whereas Gait ´an- 
+Cremaschi et al. (2019) emphasised agent-based modelling for sustain -
+ability transition. Torkayesh et al. (2021) evaluated Eastern European 
+healthcare sectors using the BWM-LBWA-CoCoSo framework. The 
+compelling arguments made by researchers underscore the need to build 
+a more comprehensive SPC framework for food chains ( Lehtokunnas 
+et al., 2022 ). FSC have several challenges as a result of complicated 
+internal and external indicators, such as pre-harvesting seasonality, high 
+regularity, perishability, warehousing, in-transit losses and damages, 
+adulteration, recycling and reuse ( Matzembacher et al., 2020 ; Papar -
+gyropoulou et al., 2014 ; Yadav et al., 2022 ). The other issue is the in -
+crease in food production due to a shift in food consumption patterns 
+( Matzembacher et al., 2021 ). Consequently, SPC in the FSC is an abso -
+lute necessity for future generations ( Matzembacher et al., 2021 ). 
+A thorough examination of prior relevant works has scrutinized the 
+literature on SPC. The SLR timeline chosen was between 2010 and 2022. 
+This involved “ Sustainable production and consumption ” AND “ food 
+supply chain ” OR “ Sustainable Supply Chain Management ” AND “ Agri- 
+food ” OR “ Digitalisation ” AND “ Sustainable Production and Consump -
+tion ” OR “ Information technology ” AND “ Agri-food ” AND “ sustainabil -
+ity ” OR “ Digitalisation ” AND “ Agri-food ” AND “ sustainability. ” In the 
+initial round of searches, 214 articles were discovered. All conference 
+proceedings' papers, non-English papers and duplicate papers were 
+eliminated in the second round. In the third and final round, 49 papers 
+were chosen after examining the abstracts and eliminating articles 
+irrelevant to the current study. 
+2.1. Sustainable production and consumption, food supply chains and 
+digital technologies 
+During the Rio summit in 1992, world leaders generally agreed that 
+unsystematic patterns were causing ongoing degradation of the biolog -
+ical environment. Sustainable practices are relevant to economic shifts 
+and long-term economic prosperity ( European Commission, 2012 ). 
+Numerous highlighted theories, such as the theories of social practice 
+and resource-based view, demonstrate that SPC actions stimulate the 
+needs of individuals, groups, communities and society as a whole 
+( Takacs et al., 2022 ). The United Nations Environmental Program 
+( UNEP, 2020 ) described SPC as a sustainable approach that assures a 
+dignified and quality existence for all, cautious and optimum utilisation 
+of products and linked services to meet fundamental needs through 
+limiting the usage and waste of natural resources. 
+Global food waste amounts to around one-third of annual production 
+( Singh et al., 2022 ). According to previous studies, the magnitude of 
+food waste is a major concern for both developing and developed na -
+tions ( Gustavsson et al., 2011 ; Singh et al., 2022 ). However, there are 
+numerous reasons for this waste ( Luo et al., 2021 ). Due to structural 
+differences, only a few types of food waste are unfit for human con -
+sumption and must be reprocessed for value recovery ( Sonnino and 
+McWilliam, 2011 ; Lee and Stuckey, 2022 ). On the other hand, envi -
+ronmental hazards and hygiene difficulties are associated with food 
+waste management ( Aguilar et al., 2022 ). In light of the worrisome 
+socio-ecological problems in the ecosystem, short-term improvements or 
+adjustments are insufficient to tackle the challenges to sustainability. 
+Instead, a technology-driven systematic strategy is needed to address the 
+issue ( Fuchs and Lorek, 2005 ; Lorek and Fuchs (2013) ; Annosi et al., 
+2021 ; Sharma et al., 2022 ). Advanced technologies have the ability to 
+aid businesses in tackling difficulties and creating value ( Eshghali et al., 
+2023 ). There is a need for strong policy frameworks to encourage the 
+general population's consumption patterns that are sustainable ( Goyal 
+et al., 2022 ). 
+The circular economy (CE) gives a new perspective on SPC for FSC by 
+treating food waste as a vital source for co-creating value ( Kumar et al., 
+2022 ). According to the Ellen MacArthur Foundation (2013) , extraction 
+of organic food waste from landfills can generate economic and 
+environmental benefits. Santagata et al. (2021) outlined various op -
+portunities for the recovery of food waste in the CE. To focus on the 
+transition to CE is very relevant to FSC and waste management litera -
+ture; however studies have emphasised the importance of consumers 
+and consumption patterns as well ( Lehtokunnas et al., 2022 ). 
+2.2. Barriers to digitalisation technologies in the food industry 
+21 barriers preventing the deployment of digital technologies in FSC 
+to achieve SPC were identified from previous studies. Table 1 provides a 
+description of these barriers. 
+Thirty experts were contacted to analyse the barriers by question -
+naire, but only 18 responded. The experts were from the firms' middle 
+and upper management. These experts were divided into three cate -
+gories: retailers, food processors and distribution channels, which 
+included supermarkets. Table 2 gives information on the experts. 
+72.2 % of the experts were men, while 27.7 % were women. The age 
+distribution of experts is as follows: > 30 years (55.5 %), 30 – 40 years 
+(27.7 %) and > 40 years (16.5 %). The experts carefully examined the 
+barriers' descriptions in the survey instrument and evaluated them based 
+on their significance for achieving SPC in FSC. Each expert has more 
+than a decade of industrial experience and is familiar with digital 
+technology implementation, either partially or in supply chain proced -
+ures. In a variety of businesses, experts are recognised as production 
+planners, global operations managers, distribution managers, food 
+control managers, analysts, consultants or supervisors. Previous studies 
+based on expert judgement have considered 2 – 20 experts as an appro -
+priate sample; there is no limitation of sample size population ( Li et al., 
+2019 ; Yavas and Ozkan-Ozen, 2020 ). 
+3. Research methodology 
+The present investigation was conducted in two phases. The ques -
+tionnaire was shared with the experts (Supplementary File). All of the 
+experts were in senior managerial roles in the food sector in North In -
+dian companies. During the initial phase, barriers were identified, 
+validated and evaluated using BWM and LBWA techniques. These 
+techniques helped determine the aggregate weight of the barriers to 
+identify the most significant. During the second phase, the strategies 
+were investigated through a literature review, examined by the decision- 
+makers and evaluated using the CoCoSo method. The flow chart for the 
+research methodology is shown in Fig. 1 . 
+3.1. Best worst method 
+Razeai developed the Best Worst Method (BWM) in 2015; it is a 
+pairwise comparison-based method. This method has an advantage over 
+other pairwise comparison techniques due to its capacity to handle 
+discrepancies. This is a reliable method for determining pairwise com -
+parisons between criteria and determining their optimal weight. ( Mok -
+tadir et al., 2019 ; Orji et al., 2020 ). BWM has been successfully 
+implemented in a variety of fields, such as manufacturing, sustainability, 
+waste management, selection of supply chain partners, green perfor -
+mance etc. 
+Using a questionnaire containing a 1-to-9 linguistic scale, each 
+expert determines the pairwise comparisons between the best criterion 
+and the other criteria. Each expert is asked to comment on the degree to 
+which a particular criterion is considered superior to the others. The 
+score is ‘1 ’ if an expert believes the best criterion is ‘equally significant to 
+other criteria, ’ and ‘9 ’ if the pairwise comparison is ‘very important to ’ . 
+The following steps are included in this procedure: 
+Step1. The experts identify and define a set of criteria 
+as { c
+1
+, c
+2
+, ……… c
+n .
+}
+Step 2. Determination of the best (B) and worst (W) criteria by the 
+experts. 
+M. Sharma et al.
+
+[Page 4]
+Sustainable Production and Consumption 39 (2023) 203–215
+206
+Step 3. A pairwise comparison was made for each criterion using a 9- 
+point scale to determine which criterion is preferred over others. The 
+comparison results are represented as a vector from best to others 
+vectors. A
+B
+=
+{
+a
+B 1
+, a
+B 2
+, …… a
+Bj
+… a
+Bn
+}
+where a
+Bj 
+represents the preferences of the best criterion B over the 
+criterion j . 
+Step 4. The preferences for the other criteria over the worst criterion 
+are determined using the 1 to 9 scale 
+Vector A
+W
+=
+{
+a
+1 W
+, a
+2 W
+, …… a
+jW
+,.. a
+nW
+}
+where a
+jW 
+represents the preference of the criterion j over the worst 
+criterion W . 
+Step 5. The mathematical model 1 is used to compute the weights of 
+the criteria ( w
+1
+*
+, w
+2
+*
+,....w
+n
+*
+) 
+Model 1 
+min ma
+j
+x
+{ ⃒
+⃒
+W
+B
+ a
+Bj
+W
+j
+| ,
+⃒
+⃒
+W
+j
+ a
+jW
+W
+W
+⃒
+⃒
+}
+(1) 
+s.t: 
+Σ
+j
+W
+j
+= 1 , W
+j
+≥ 0 for all j 
+To determine the weigts of the criteria ( w
+1
+*
+, w
+2
+*
+,....w
+n
+*), model 1 can 
+be converted into model 2, 
+Min ξ 
+s.t. 
+⃒
+⃒
+⃒
+⃒
+w
+B
+w
+j
+ a
+Bj
+⃒
+⃒
+⃒
+⃒
+≤ ξ for all j (2)  
+⃒
+⃒
+⃒
+⃒
+w
+j
+w
+W
+ a
+j
+⃒
+⃒
+⃒
+⃒
+≤ ξ for all j  
+Σ
+j
+W
+j
+= 1 , W
+j
+≥ 0 for all j 
+The consistency ratio (CR) of BWM is represented by ξ * and the 
+corresponding consistency index (CI) values are computed by Eq. (3) . 
+Table 3 presents the CI for BWM models with different numbers of 
+criteria. 
+Table 1 
+Barriers to digital technologies for SPC in FSC.  
+Code Criteria (C
+1
+-C5) Barriers to Digital Technologies for 
+Sustainable Production and Consumption 
+Implied Meaning Reference 
+BSPC1 Regulations and 
+policy barriers (C
+1
+) 
+REG 
+Weak environmental regulations Environmental regulations are not stringent for SPC in FSC. Farooque et al. (2019) 
+BSPC2 Lack of global standard processes, rules 
+and frameworks 
+Organisations face problems in adopting digital technologies due 
+to the absence of global standard processes. 
+Kumar et al. (2021) . 
+BSPC3 Lack of stringent national policy for 
+sustainable production and consumption 
+/or CE policy 
+Absence of a policy for CE and also for technology adoption. Most 
+economies are still hesitant towards adoption due to the dynamic 
+environment. 
+Lorek and Spangenberg 
+(2014) ; Blok et al. (2015) 
+BSPC4 Financial barriers (C
+2
+) Limited funds Digital technologies are expensive and thus need funds in the initial 
+phase. Also, there is less awareness related to long-run payback and 
+investment opportunities. 
+K ¨ohler and Pizzol (2020) 
+BSPC5 High operational cost The cost is very high to develop digital technology enabled 
+sustainable supply chains. 
+Kamble et al. (2020) . 
+BSPC6 Organisational 
+barriers (C
+3
+) 
+Lack of experts Selection of the right personnel to use and develop SPC strategies 
+for food systems is a significant task. 
+Annosi et al. (2021) 
+BSPC7 Lack of change management capabilities Organisational culture sometimes has resistance to adopting any 
+change and hence is hesitant towards implementing digital 
+technologies. 
+Annosi et al. (2021) 
+BSPC8 Less skilled workforce Lack of technical, sound and knowledgeable workforce for SPC 
+implementation in food supply chains 
+Lezoche et al. (2020) 
+BSPC9 Benchmarking/standards There is less clarity in set standards to measure the performance of 
+firms. 
+Mathews and Tan (2016) 
+BSPC10 Risk-averse culture Perception towards potential risk may adversely affect the 
+stakeholder in the FSC. 
+Diaz-Ruiz et al. (2019) 
+BSPC11 Lack of physical and IT infrastructure/ 
+technical competency 
+Lack of infrastructure, interface platform, standardization and 
+compatibility issues. 
+Kamble et al. (2019) . 
+BSPC12 Supply chain related 
+barriers (C
+4
+) 
+Lack of cross-sector collaboration/ 
+inability to work across silos 
+Collaboration across industries is limited, and therefore digital 
+technology implementation is limited for sharing of information 
+and data. 
+Behnke and Janssen 
+(2020) 
+BSPC13 Low motivation towards information 
+exchange among SC actors 
+The fear of information loss due to shared information. Carter and Rogers (2008) 
+BS5C14 Lack of support from supply chain actors Food sector stakeholders are skeptical about using digital 
+technologies, especially in agri-food supply chains. 
+Mahdad et al. (2022) . 
+BSPC15 Behavioral barriers 
+(C
+5
+) 
+Less priority of firms Digital transformation is not a top priority for many businesses. Annosi et al. (2021) 
+BPSC16 Low-level commitment among top-level 
+management 
+Top-level management are less interested in changing the firm's 
+processes and thus avoid implementing digital technologies. 
+Dubey et al. (2015) 
+BSPC17 Strategic barriers (C
+6
+) Low technological know-how for 
+implementation 
+Lack of knowledge about digitalization of supply chain processes. Saberi (2018) ; Kamilaris 
+et al. (2019) 
+BSPC18 Lack of training to develop skilled 
+workers 
+Due to budgetary constraints, small food cooperatives lack the 
+resources to invest in the skill development of their employees. 
+Carter and Rogers (2008) 
+and Govindan et al. (2014) 
+BPSC19 Meager environmental education and 
+absence of environmental consciousness 
+There is a lack of environmental education and its links to SPC 
+orientation in food systems. 
+Tian and Wang (2016) 
+BPSC20 Lack of circular design aspect The circular design focusing on closed loops using digital 
+technologies like Industry 4.0 is still lacking in many firms. 
+Ranta et al. (2021) 
+BPSC21 Lack of agility Firms are not agile in embracing digital technology 
+implementation; there is insufficient encouragement towards 
+innovation. 
+Aiyar and Pingali (2020)  
+M. Sharma et al.

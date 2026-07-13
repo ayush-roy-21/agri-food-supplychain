@@ -1,111 +1,55 @@
 --- CHUNK HEADER ---
 Chunk ID: A-FSSAI-001-C15
 Parent Doc ID: A-FSSAI-001
-Page Range: Page 41 to Page 42
-Word Range: 20005 - 21377
-Word Count: 1,373
+Page Range: Page 6
+Word Range: 3704 - 3953
+Word Count: 250
 --------------------
 
-[Page 41]
-¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 105
-(8) All animals declared as "condemned" on ante-mortem inspection shall be marked as "condemned" and killed if
-not already dead. Such carcasses shall not be taken into the factory to be slaughtered or dressed, nor shall they be
-conveyed into any department of the factory used for edible products.
-8. Post-mortem inspection—
-1. A careful and detailed post-mortem examination and inspection of the carcasses and parts thereof of all animals
-slaughtered shall be made soon after slaughter. All organs and parts of the carcasses and blood to be used in the
-preparation of meat food products shall be held in such a manner as to preserve their identity till the completion of the
-post-mortem inspection so that they can be identified in the event of the carcasses being condemned.
-2. Every carcass including all detached parts and organs thereof which show evidence of any condition which will
-render the meat or any part or organ unfit for human consumption and which for that reason may require subsequent
-inspection, shall be retained by the Qualified Veterinary Doctor. The identity of such carcass including the detached parts
-and organs thereof shall be maintained until the final inspection is completed. Retained carcasses, detached parts and
-organs thereof shall be maintained until the final inspection is completed. Retained carcasses, detached parts and organs
-thereof shall in no case be washed, trimmed or mutilated in any manner unless otherwise authorized by the Qualified
-V eterinary Doctor.
-3. No air shall be blown by mouth into the tissues of any carcass or part of a carcass.
-4. Every carcass or part thereof which has been found to be unfit for human consumption shall be marked by the
-Qualified V eterinary Doctor as "Inspected and condemned".
-5. All such condemned carcasses, parts and organs thereof shall remain in the custody of the Qualified Veterinary
-Doctor pending disposal at or before the close of the day on which they are marked "Inspected and condemned" in
-accordance with sub-paragraphs (11),(12) and (13) below.
-6. Carcasses, parts and the organs thereof found to be sound, wholesome, healthful and fit for human consumption
-shall be marked as "Inspected and passed".
-7. Carcasses found affected with anthrax before evisceration shall not be eviscerated but condemned and disposed
-of immediately in accordance with sub-paragraph (12) below. Any part of a carcass contaminated with anthrax infected
-material through contact with soiled instruments or otherwise shall be immediately condemned and disposed of as
-provided in sub-paragraph (12) below.
-8. The portion of the slaughtering department including equipment, employees' boots and aprons, etc., contaminated
-by contact with anthrax material shall be cleaned and thoroughly disinfected immediately.
-9. When on inspection only a portion of a carcass on account of slight bruises is decided to be condemned, either
-the bruised portion shall be removed immediately and disposed of in accordance with sub-paragraph (13) below or the
-carcass shall be retained and kept till such time it is chilled and the bruised portion removed and disposed of as provided
-above.
-10. Post-mortem inspection shall be a detailed one and shall cover all parts of the carcass, the viscera, lymph glands
-and all organs and glands.
-11. The post-mortem inspection shall be in accordance with the general rules laid down for such inspection in public
-slaughter houses under the control of local bodies besides special instructions that may be issued from time to time by the
-licensing authority.
-12. All condemned carcasses, organs or parts thereof shall be completely destroyed in the presence of the Qualified
-Veterinary Doctor by incineration or denatured, after being slashed freely with a knife, with crude carbolic acid, cresylic-
-disinfectant or any other prescribed agent unless such carcasses, organs or parts thereof are sterilized for the preparation
-of bone-cum-meat meal before leaving the slaughter house premises, subject to sub-paragraph (13) below.
-13. Carcasses, organs or parts thereof condemned on account of anthrax shall be disposed of either by (i) complete
-incineration or (ii) thorough denaturing with prescribed denaturant in the manner prescribed in the foregoing paragraphs
-and also in accordance with the rules and regulations prescribed by the local authority.
-14. Destruction of condemned carcasses, organs or parts thereof shall be carried out under the direct supervision of
-the Qualified V eterinary Doctor.
-15. If in the opinion of the Qualified Veterinary Doctor a carcass, organ or part thereof is to be held back for further
-detailed examination, the carcass, organ or part concerned shall not be released till the examination in detail is completed
-by the Qualified V eterinary Doctor and it is declared thereafter by him as fit. When it is to be detained for detailed
-
-[Page 42]
-106 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
-examination, the carcass, organ or part thereof shall be marked as "Held". If on subsequent inspection, the carcass, organ
-or part thereof is found to be unwholesome and unfit for human food, the Qualified Veterinary Doctor shall mark such a
-carcass, organ or part thereof as "condemned" and shall dispose it of as described in the foregoing paragraphs.
-a. Sanitary and Hygienic Requirements for Meat processing units
-Following Sanitary and Hygienic requirements shall be satisfied by the meat processing unit.
-1. Location:
-1.1 Meat processing unit should be located in areas not subjected to regular and frequent flooding and
-free from objectionable odours, smoke dust and other contaminants;
-1.2 Roadways and areas serving the meat processing unit which are within its boundaries or in its
-immediate vicinity should have a hard paved surface suitable for wheeled traffic. There should be adequate
-drainage and provision for cleaning;
-1.3 Where appropriate, meat processing unit should be so designed that access can be controlled.
-2. Building and Facilities:
-2.1 The meat processing unit should provide adequate working space for the satisfactory performance
-of all operations.
-2.2 The construction should be sound and ensure adequate ventilation, good natural or artificial lighting
-and easy cleaning.
-2.3 The meat processing unit should be laid out and equipped so as to facilitate proper supervision of
-meat hygiene including performance of inspection and control;
-2.4 The meat processing unit should be of such construction as to protect against the entrance and
-harbouring of insects, birds, rodents or other vermin as well as the entry of environmental contaminants such
-as smoke, dust etc.
-2.5 Buildings and facilities should be designed to provide separation by partition, location or other
-effective means, between those operations which may cause cross-contamination;
-2.6 Meat processing unit should be laid out and equipped so as to ensure, that edible meat does not
-come into contact with floors, walls or other fixed structures, except those which are specifically designed for
-contact with meat;
-2.7 The construction and lay out of any chilling room, freezing room, freezer store or freezer should
-satisfy the requirements of these rules;
-2.8 In meat handling areas :
-— Floors should be of waterproof, non-absorbent, washable non-slippery and made of nontoxic
-materials, without crevices and should be easy to clean and slope sufficiently for liquids to drain
-to trapped outlets;
-— Walls should be of waterproof, non-absorbent, washable and nontoxic materials and should be
-light coloured. Up to a height of at least 1.5 metres, they should be smooth and without crevices,
-and should be easy to clean , space between walls and ceilings should be sealed and covered to
-facilitate cleaning;
-—  Ceilings should be so designed, constructed and finished as to prevent any accumulation of dirt
-and minimize condensation, mould development and flaking and should be easy to clean;
-— Windows and other openings should be so constructed as to avoid accumulation of dirt and
-those which open should be fitted with insect screen. Screens should be easily movable for
-cleaning and kept in good repair. Internal window sills, if present, should be sloped to prevent use
-as shelves;
-— Doors should have smooth, non-absorbent surfaces and where appropriate, be self-closing and
-close fitting; and
-— Stairs, lift cages and auxiliary structures such as platforms, ladders, chutes, should be so situated
-and constructed as not to cause contamination of meat. They should be capable of being effectively
-cleaned. Chutes should be constructed with inspection and cleaning hatches;
+[Page 6]
+70 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
+(a) the period of 90 days from the date of death of the holder of a Registration certificate or license; or
+(b) such longer period as the Designated Officer may allow, for reasons to be recorded in writing.
+(2) The legal representative or family member of the deceased holder of the registration certificate
+or license shall apply to the concerned Authority for transfer of such certificate or license in his favour.
+(3) The registering or Licensing Authority, as the case may be, may, after making such enquiry as
+it may deem fit, either approve the transfer of the Registration certificate or license if satisfied that the
+applicant is the legal representative, or refuse the request. Provided that the registering or licensing
+authority shall not refuse the request without giving the applicant an opportunity of being heard and
+for reasons to be recorded in writing.
+(4) Upon filing of application for transfer and pending the decision of the authority, the registration
+or license shall continue to be in force.
+2.1.12 Appeal
+(1) A Food Business Operator aggrieved by an order of the Registering Authority or Licensing Authority, as
+the case may be, under these Regulations may prefer an appeal to the concerned Designated Officer or the Food
+Safety Commissioner, as per provisions laid down under Section 31(8) and 32 (4) - (5) of the Act.
+2.1.13 Return
+(1) Every licensee shall on or before 31
+st   May  of each year, submit a return electronically or in physical form
+as may be prescribed by the concerned Food Safety Commissioner, in ‘Form D-1’ provided in Schedule 2 of these
+Regulations to the Licensing Authority in respect of each class of food products handled by him during the
+previous financial year.
+Provided however that every licensee engaged in manufacturing of milk and/or milk products shall file half
+yearly returns for the periods 1
+st April to 30th September and 1st October to 31st March of every financial year in the
+form D-2, as provided in Schedule-2 of these regulations. Such returns will be filed within a month from the end of
+the period.
+(2) A separate return shall be filed for every license issued under the Regulations, irrespective of whether the
+same Food Business Operator holds more than one license.
+(3) Any delay in filing return beyond 31
+st May of each year shall attract a penalty of Rs 100 per day of delay.
+2.1.14 Food Business Operator to be bound by directions or order
+(1) Every Food Business Operator to whom any direction or order is issued in pursuance of any provisions of
+this regulation shall be bound to comply with such directions or regulation and any failure on the part of the Food
+Business Operator to comply with such direction or order shall be deemed to be contravention of the provisions of
+these Regulations and will attract legal action under the provisions of the Act.
+(2) Guarantee  Every manufacturer, distributor or dealer selling an article of food to a vendor shall give either
+separately or in the bill, cash memo, or label a warranty in Form E. (Refer Form A for form of Guarantee)
+2.1.15 Power of State/UT governments to constitute advisory committee
+The state/UT Governments, may, if required designate an existing advisory committee at panchayat/district/
+state level or where such a committee does  not exist, constitute an advisory committee to assist, aid or advise on
+any matter concerning food safety.
+2.1.16: Jurisdiction of Designated officer
+The Commissioner of Food Safety shall, by an order, appoint the Designated officer, who shall not be below
+the rank of a Sub- Divisional Officer, to be in-charge of food safety administration for each district as defined under
+regulation 1.2.1 (2)

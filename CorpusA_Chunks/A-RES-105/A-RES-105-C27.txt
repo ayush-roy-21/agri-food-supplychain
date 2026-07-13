@@ -1,0 +1,27 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-105-C27
+Parent Doc ID: A-RES-105
+Page Range: Page 17
+Word Range: 7830 - 8054
+Word Count: 225
+--------------------
+
+[Page 17]
+Journal of Decision Analytics and Intelligent Computing 2(1) (2022) 36-52 Verma et al. 
+ 52  
+ 
+Valdez-Juárez, L. E., Gallardo-Vázquez, D., & Ramos-Escobar, E. A. (2018). CSR and the Supply Chain: Effects on the 
+Results of SMEs. Sustainability, 10(7), 2356. 
+Veskaisri, K., Chan, P., & Pollard, D. (2007). Relationship between strategic planning and SME success: empirical 
+evidence from Thailand. Asia and pacific DSI, 1-13. 
+Wang, Q., Chen, K., Wang, S., & Cao, X. (2022). Optimal decisions in a closed-loop supply chain: fairness concerns, 
+corporate social responsibility and information value. Annals of Operations Research, 1-28. 
+Wankhede, V. A., & Vinodh, S. (2022). Benchmarking Industry 4.0 readiness evaluation using fuzzy  
+Yacob, P., Wong, L. S., & Khor, S. C. (2018). An empirical investigation of green initi atives and environmental 
+sustainability for manufacturing SMEs. Journal of Manufacturing Technology Management, 30(1), 2-25. 
+YahiaMarzouk, Y., & Jin, J. (2022). Impact of environmental scanning on organizational resilience and competitive 
+advantage: a study of Egyptian SMEs. Continuity & Resilience Review, (ahead-of-print). 
+Yusoff, T., Wahab, S. A., Latiff, A. S., Osman, S. I., Zawawi, N. F., & Fazal, S. A. (2018). Sustainable growth in SMEs: 
+A review from the Malaysian perspective. J. Mgmt. & Sustainability, 8, 43. 
+Zaridis, A., Vlachos, I., & Bourlakis, M. (2021). SMEs strategy and scale constraints impact on agri-food supply chain 
+collaboration and firm performance. Production Planning & Control, 32(14), 1165-1178.

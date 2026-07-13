@@ -1,141 +1,90 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-108-C02
 Parent Doc ID: A-RES-108
-Page Range: Page 3
-Word Range: 1851 - 3166
-Word Count: 1,316
+Page Range: Page 1
+Word Range: 251 - 500
+Word Count: 250
 --------------------
 
-[Page 3]
+[Page 1]
 Sustainable Production and Consumption 39 (2023) 203–215
-205
-coordination of a circular economy. Mangla et al. (2018) identified the 
-most significant roadblocks hindering the circular FSC whereas Gait ´an- 
-Cremaschi et al. (2019) emphasised agent-based modelling for sustain -
-ability transition. Torkayesh et al. (2021) evaluated Eastern European 
-healthcare sectors using the BWM-LBWA-CoCoSo framework. The 
-compelling arguments made by researchers underscore the need to build 
-a more comprehensive SPC framework for food chains ( Lehtokunnas 
-et al., 2022 ). FSC have several challenges as a result of complicated 
-internal and external indicators, such as pre-harvesting seasonality, high 
-regularity, perishability, warehousing, in-transit losses and damages, 
-adulteration, recycling and reuse ( Matzembacher et al., 2020 ; Papar -
-gyropoulou et al., 2014 ; Yadav et al., 2022 ). The other issue is the in -
-crease in food production due to a shift in food consumption patterns 
-( Matzembacher et al., 2021 ). Consequently, SPC in the FSC is an abso -
-lute necessity for future generations ( Matzembacher et al., 2021 ). 
-A thorough examination of prior relevant works has scrutinized the 
-literature on SPC. The SLR timeline chosen was between 2010 and 2022. 
-This involved “ Sustainable production and consumption ” AND “ food 
-supply chain ” OR “ Sustainable Supply Chain Management ” AND “ Agri- 
-food ” OR “ Digitalisation ” AND “ Sustainable Production and Consump -
-tion ” OR “ Information technology ” AND “ Agri-food ” AND “ sustainabil -
-ity ” OR “ Digitalisation ” AND “ Agri-food ” AND “ sustainability. ” In the 
-initial round of searches, 214 articles were discovered. All conference 
-proceedings' papers, non-English papers and duplicate papers were 
-eliminated in the second round. In the third and final round, 49 papers 
-were chosen after examining the abstracts and eliminating articles 
-irrelevant to the current study. 
-2.1. Sustainable production and consumption, food supply chains and 
-digital technologies 
-During the Rio summit in 1992, world leaders generally agreed that 
-unsystematic patterns were causing ongoing degradation of the biolog -
-ical environment. Sustainable practices are relevant to economic shifts 
-and long-term economic prosperity ( European Commission, 2012 ). 
-Numerous highlighted theories, such as the theories of social practice 
-and resource-based view, demonstrate that SPC actions stimulate the 
-needs of individuals, groups, communities and society as a whole 
-( Takacs et al., 2022 ). The United Nations Environmental Program 
-( UNEP, 2020 ) described SPC as a sustainable approach that assures a 
-dignified and quality existence for all, cautious and optimum utilisation 
-of products and linked services to meet fundamental needs through 
-limiting the usage and waste of natural resources. 
-Global food waste amounts to around one-third of annual production 
-( Singh et al., 2022 ). According to previous studies, the magnitude of 
-food waste is a major concern for both developing and developed na -
-tions ( Gustavsson et al., 2011 ; Singh et al., 2022 ). However, there are 
-numerous reasons for this waste ( Luo et al., 2021 ). Due to structural 
-differences, only a few types of food waste are unfit for human con -
-sumption and must be reprocessed for value recovery ( Sonnino and 
-McWilliam, 2011 ; Lee and Stuckey, 2022 ). On the other hand, envi -
-ronmental hazards and hygiene difficulties are associated with food 
-waste management ( Aguilar et al., 2022 ). In light of the worrisome 
-socio-ecological problems in the ecosystem, short-term improvements or 
-adjustments are insufficient to tackle the challenges to sustainability. 
-Instead, a technology-driven systematic strategy is needed to address the 
-issue ( Fuchs and Lorek, 2005 ; Lorek and Fuchs (2013) ; Annosi et al., 
-2021 ; Sharma et al., 2022 ). Advanced technologies have the ability to 
-aid businesses in tackling difficulties and creating value ( Eshghali et al., 
-2023 ). There is a need for strong policy frameworks to encourage the 
-general population's consumption patterns that are sustainable ( Goyal 
-et al., 2022 ). 
-The circular economy (CE) gives a new perspective on SPC for FSC by 
-treating food waste as a vital source for co-creating value ( Kumar et al., 
-2022 ). According to the Ellen MacArthur Foundation (2013) , extraction 
-of organic food waste from landfills can generate economic and 
-environmental benefits. Santagata et al. (2021) outlined various op -
-portunities for the recovery of food waste in the CE. To focus on the 
-transition to CE is very relevant to FSC and waste management litera -
-ture; however studies have emphasised the importance of consumers 
-and consumption patterns as well ( Lehtokunnas et al., 2022 ). 
-2.2. Barriers to digitalisation technologies in the food industry 
-21 barriers preventing the deployment of digital technologies in FSC 
-to achieve SPC were identified from previous studies. Table 1 provides a 
-description of these barriers. 
-Thirty experts were contacted to analyse the barriers by question -
-naire, but only 18 responded. The experts were from the firms' middle 
-and upper management. These experts were divided into three cate -
-gories: retailers, food processors and distribution channels, which 
-included supermarkets. Table 2 gives information on the experts. 
-72.2 % of the experts were men, while 27.7 % were women. The age 
-distribution of experts is as follows: > 30 years (55.5 %), 30 – 40 years 
-(27.7 %) and > 40 years (16.5 %). The experts carefully examined the 
-barriers' descriptions in the survey instrument and evaluated them based 
-on their significance for achieving SPC in FSC. Each expert has more 
-than a decade of industrial experience and is familiar with digital 
-technology implementation, either partially or in supply chain proced -
-ures. In a variety of businesses, experts are recognised as production 
-planners, global operations managers, distribution managers, food 
-control managers, analysts, consultants or supervisors. Previous studies 
-based on expert judgement have considered 2 – 20 experts as an appro -
-priate sample; there is no limitation of sample size population ( Li et al., 
-2019 ; Yavas and Ozkan-Ozen, 2020 ). 
-3. Research methodology 
-The present investigation was conducted in two phases. The ques -
-tionnaire was shared with the experts (Supplementary File). All of the 
-experts were in senior managerial roles in the food sector in North In -
-dian companies. During the initial phase, barriers were identified, 
-validated and evaluated using BWM and LBWA techniques. These 
-techniques helped determine the aggregate weight of the barriers to 
-identify the most significant. During the second phase, the strategies 
-were investigated through a literature review, examined by the decision- 
-makers and evaluated using the CoCoSo method. The flow chart for the 
-research methodology is shown in Fig. 1 . 
-3.1. Best worst method 
-Razeai developed the Best Worst Method (BWM) in 2015; it is a 
-pairwise comparison-based method. This method has an advantage over 
-other pairwise comparison techniques due to its capacity to handle 
-discrepancies. This is a reliable method for determining pairwise com -
-parisons between criteria and determining their optimal weight. ( Mok -
-tadir et al., 2019 ; Orji et al., 2020 ). BWM has been successfully 
-implemented in a variety of fields, such as manufacturing, sustainability, 
-waste management, selection of supply chain partners, green perfor -
-mance etc. 
-Using a questionnaire containing a 1-to-9 linguistic scale, each 
-expert determines the pairwise comparisons between the best criterion 
-and the other criteria. Each expert is asked to comment on the degree to 
-which a particular criterion is considered superior to the others. The 
-score is ‘1 ’ if an expert believes the best criterion is ‘equally significant to 
-other criteria, ’ and ‘9 ’ if the pairwise comparison is ‘very important to ’ . 
-The following steps are included in this procedure: 
-Step1. The experts identify and define a set of criteria 
-as { c
-1
-, c
-2
-, ……… c
-n .
-}
-Step 2. Determination of the best (B) and worst (W) criteria by the 
-experts. 
-M. Sharma et al.
+Available online 18 April 2023
+2352-5509/© 2023 The Author(s). Published by Elsevier Ltd on behalf of Institution of Chemical Engineers. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+Overcoming barriers to implement digital technologies to achieve 
+sustainable production and consumption in the food sector: A circular 
+economy perspective 
+Manu Sharma
+a , g , 1
+, Sudhanshu Joshi
+b , h , 1
+, Kannan Govindan
+c , d , e , f , * , 1 
+a
+Department of Management Studies, Graphic Era Deemed to be University, India 
+b
+Operations and Supply Chain Management Area, School of Management, Doon University, India 
+c
+Center for Sustainable Supply Chain Engineering, Department of Technology and Innovation, Danish Institute for Advanced Study, University of Southern Denmark, 
+Campusvej 55, Odense M, Denmark 
+d
+China Institute of FTZ Supply Chain, Shanghai Maritime University, Shanghai 201306, China 
+e
+Yonsei Frontier Lab, Yonsei University, Seoul, Republic of Korea 
+f
+School of Business, Woxsen University, Sadasivpet, Telangana, India 
+g
+Guildhall School of Business and Law, London Metropolitan University, London 
+h
+Australian Artificial Intelligence Institute (AAII), University of Technology Sydney, Australia   
+ARTICLE INFO  
+Editor: Prof Konstantinos Tsagarakis  
+Keywords: 
+Sustainable production and consumption 
+Digital technologies 
+Food supply chains 
+Circular economy 
+ABSTRACT  
+Food security and waste minimisation are the main concerns for the management of food supply chains (FSC), as 
+> 33 % of global food production is wasted or lost due to mismanagement. Stakeholders must address the 
+ongoing issues, such as resource scarcity, climate change, waste creation etc. to create an environment conducive 
+to sustainable production and consumption (SPC) and to promote economic sustainability. Resource efficiency 
+and waste minimization are necessary for SPC in the FSC. Technologies from the Industry 4.0 era have 
+demonstrated their ability to address these problems effectively. However, there are barriers to the adoption of 
+digital technology because of internal or external issues. Therefore, it is necessary to examine the challenges 
+faced by the food industry while applying digital technology to attain SPC. The current study has adopted an 
+integrated methodology of Best-Worst-Method (BWM)-Level Based Weight Assessment (LBWA) and Combined 
+Compromise Solution (CoCoSo) methods to analyse the barriers in implementing digital technologies to achieve 
+SPC in FSC. Strategic measures to overcome these barriers are suggested. The BWM-LBWA-CoCoSo technique is 
+used for the first time in this study to evaluate the barriers and determine the most effective strategies. According 
+to the BWM-LBWA research, “ organisational barriers ” are the main impediment to the adoption of digital 
+technology for SPC in the FSC. According to CoCoSo findings, the best way to overcome the major barriers is to 
+“ focus on improving commitment from senior management towards SPC. ” The study gives decision-makers in -
+formation about the major barriers in utilizing advanced digital technology to achieve SPC in FSC.   
+1. Introduction 
+Sustainable production and consumption (SPC) is regarded as the 
+main driving force behind economic reform and sustainable growth. Its 
+importance is highlighted by Sustainable Development Goal-12 (SDG) of 
+the United Nations, which aims to promote sustainable development and 
+responsible production ( Beier et al., 2018 ; Guo et al., 2022 ). Recently, 
+reverse logistics, closed-loop supply chains, circular economy acts as an 
+environemnetal and sustainability tool in various supply chain 
+applications ( Kannan et al., 2023 ; Butt et al., 2023 ; Aryee and Adaku, 
+2023 ; Mondal et al., 2022 ). A new era in which the integration of triple 
+bottom line dimensions, including environmental, social and economic 
+progress, is required for the expansion of the economy in a sustainable 
+manner. National policies and strategies assist stakeholders in managing 
+tradeoffs and fostering synergy between SPC and SDGs ( Obersteiner 
+et al., 2016 ). Data management, real-time decision-making, creative 
+approaches for extending the end-of-life and shelf life of perishable 
+items etc. have changed throughout the present Industry 4.0 era; this has 
+unquestionably enhanced SPC in FSC ( G ¨olzer and Fritzsche, 2017 ; Ekren 
+* Corresponding author at: China Institute of FTZ Supply Chain, Shanghai Maritime University, Shanghai 201306, China. 
+E-mail address: kgov@iti.sdu.dk (K. Govindan).   
+1 
+The author's order is based on academic seniority. 
+Contents lists available at ScienceDirect 
+Sustainable Production and Consumption 
+journal homepag e: www.el sevier.com/loc ate/spc 
+https://doi.org/10.1016/j.spc.2023.04.002 
+Received 23 August 2022; Received in revised form 27 March 2023; Accepted 3 April 2023

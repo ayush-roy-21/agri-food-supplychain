@@ -1,0 +1,90 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C14
+Parent Doc ID: A-MSME-100
+Page Range: Page 18
+Word Range: 3780 - 4029
+Word Count: 250
+--------------------
+
+[Page 18]
+18 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Introduction
+215,000) when only manufacturing enterprises were 
+considered.18 In India, unsecured loans accounted for 
+only a quarter of the total credit disbursed by scheduled 
+commercial banks (as of March 2024); private banks 
+mainly lent this at relatively high-interest rates. 19 As 
+a result, MSMEs face higher borrowing costs than 
+larger firms due to the higher risk premiums charged 
+by lenders, exacerbated by informational asymmetries 
+that increase banks’ risk perception. 20,21
+MSMEs also lack adequate access to information and 
+markets, particularly international markets.  MSMEs 
+struggle to capitalise on market opportunities due 
+to their limited access to market information, the 
+high costs of accessing such information, and other 
+resource constraints. Additionally, trade barriers, 
+including standards, technical regulations, logistics, 
+and administrative procedures, disproportionately 
+affect MSMEs. 22 Their participation in global trade is 
+further hindered by asymmetric knowledge and a lack 
+of understanding of foreign markets. 23,24 
+Digitalisation can help address some of these issues and 
+accelerate enterprise development.  Digitalisation is a 
+key driver of enterprise development and an important 
+tool to address enterprises’ structural challenges. 
+Digitalisation brings operational efficiencies for SMEs, 
+directly supporting value creation and allowing these 
+firms to tap opportunities, enhance performance, 
+and embrace innovation and competitiveness. 25 
+Connectivity, Internet usage, and digital integration 
+help SMEs become sustainably competitive vis-à-
+vis larger firms. 26,27 Additionally, digital technologies 
+foster entrepreneurship by optimising processes, 
+improving decision-making, and enabling product 
+customisation.28 Therefore, enterprises must embrace 
+digitalisation and establish an online presence, 
+including developing websites, to enhance visibility and 
+recognition. Digitalisation promotes internal, systemic 
+efficiencies, and can also improve external linkages, 
+such as improved access to markets and finance, which 
+can contribute to enterprise development. 29 
+Although Internet usage is growing among 
+unincorporated-sector enterprises, its functions remain 
+limited. The use of the Internet for entrepreneurial 
+activities, such as online transactions, order placement, 
+and UPI payments, was about 26.7% in 2023-24 for 
+rural and urban areas combined. 30 In 2022-23, most 
+firms used the Internet for banking purposes (615 per 
+1000 establishments), followed by to access other 
+financial services (236 per 1000). A minute proportion 
+of firms used the Internet to make sales (81 per 1000) 
+and deliver products (27 per 1000). This suggests that 
+MSMEs are currently not optimally using the revenue 
+generating potential of digital interventions that can 
+significantly contribute to enterprise development. 
+Low usage is because MSMEs, particularly micro-
+enterprises, cannot independently innovate or 
+leverage full potential of technology-based tools and 
+platforms and often need external support to leverage 
+technology. Smaller businesses are often slow to 
+embrace digital technologies due to low awareness, 
+limited internal resources, skill gaps, and financial 
+constraints. Digitalising the vast and heterogeneous 
+MSME sector requires collaboration between the 
+various stakeholders. This can also create an enabling 
+environment for enterprise-level innovation, resource 
+sharing, skill development, and access to financial 
+and policy support. MSMEs require such assistance, 
+including access to common facility centres for 
+manufacturing, mentoring, and financial assistance, 
+particularly from large enterprises and government, for 
+their skill development and digital transformation. This 
+is where e-commerce platforms can play a role. 
+While some data on MSMEs’ internet usage exists, 
+qualitative insights on digitalisation’s impact on their 
+growth and development are lacking in the current 
+statistical system. Although the benefits of digitalisation 
+for small businesses are commonly acknowledged, 
+there is limited data to support these claims. To bridge 
+this gap, ICRIER surveyed 2,365 MSMEs across India

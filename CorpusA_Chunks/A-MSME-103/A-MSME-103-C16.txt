@@ -1,283 +1,83 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-103-C16
 Parent Doc ID: A-MSME-103
-Page Range: Page 63 to Page 65
-Word Range: 20699 - 22013
-Word Count: 1,315
+Page Range: Page 16
+Word Range: 4664 - 5027
+Word Count: 364
 --------------------
 
-[Page 63]
+[Page 16]
 Strategy for unlocking export potential for MSMEs in West Bengal
-63
-• To enhance procurement efficiency, the 
-government should promote export clusters 
-to consolidate the demands of cluster firms, 
-facilitating joint input purchases at the most 
-competitive rates. The government has the 
-option of establishing raw material banks and 
-purchase networks. 
-• West Bengal can draw valuable lessons from 
-states like Tamil Nadu and Gujarat. In these 
-regions, cluster firms have formed Special 
-Purpose Vehicles (SPVs) that collectively 
-aggregate the demand of the entire cluster. 
-These SPVs purchase raw materials and 
-consumables in bulk, offering the firms within 
-the cluster discounted rates compared to 
-market prices.
-• Trichy Engineering & Technology Cluster 
-(TREAT) – TREAT is one of its kind in the 
-country, providing common facilities for the 
-metal fabrication industries. The cluster runs a 
-successful raw material bank for mild steel. 
-• Jamnagar Brass Parts Cluster - The brass-
-based MSMEs in Jamnagar have significantly 
-impacted the global economy, being a key 
-consumer of the world's brass scrap and 
-producing vital yet often overlooked goods. 
-Notably, Jamnagar stands as one of the 
-world's largest manufacturers of automobile 
-and cycle tube valves. It remains a significant 
-cluster for the manufacturing of these valves, 
-accounting for about 70% of India's machined 
-brass components.
-SMART GOAL: Within the next two years, West 
-Bengal will to focus on facilitating the efficient 
-and cost-effective procurement of raw materials 
-for from MSMEs. The goal includes:
-• Establish linkages between 300 MSMEs and 
-Central/State organizations for the sourcing 
-of crucial raw materials within the next 18 
-months.
-• Promote two export clusters to consolidate 
-the demands of cluster firms and facilitate 
-joint input purchases at competitive rates 
-within the next year.
-• Investigate and pilot the concept of Raw 
-Material Banks and purchase networks, 
-with the aim of establishing at least one 
-operational raw material bank for MSMEs 
-within the next 24 months.
-In conclusion, the report emphasizes the 
-importance of collaborative efforts between 
-the government and industry stakeholders. 
-The recommendations aim to create a 
-conducive environment for sustainable export 
-growth in West Bengal, addressing specific 
-challenges faced by MSMEs in different sectors. 
-Implementation of these suggestions requires 
-coordinated action and ongoing dialogue 
-between all stakeholders involved.
-
-[Page 64]
-Strategy for unlocking export potential for MSMEs in West Bengal
-64
- Index No.Weights202020212022Coastal Average 
-(2022)
-National Average 
-(2022)
-IndicatorDefinition/Clarification
-OverallIndex Score 34.0539.7853.5765.5546.56  
-Policy (20%)
-Index Score 058.2079.5394.7274.71  
-1.1 Export 
-Promotion Policy 
-(10%)
- 062.8676.3096.3673.02
- The first sub-pillar evaluates the states’ performance in implementing 
-policies responsible for facilitating exports and enabling their growth. 
-1.1.11.50100100  
-Does state have a valid export 
-promotion policy/ strategy? (Yes 
-or no)
-This indicator captures whether a state has a targeted policy aimed at 
-enhanc- ing exports from the state
-1.1.21.50100100  
-Does state have a valid sector-
-specific policy for exports? (Yes/
-No)
-Every State has an edge in some sectors either due to the presence of 
-natural resources or due to human capital. Some States focus on these 
-sector specific ex- port policy rather than a common one.
-1.1.3
-1.1.3.A
- 
-1
- 
- 
- 
-0
- 
-32.00
- 
- 
- 
- 
-District-level Export Action Plan
-How many districts have district 
-export action plan out of total 
-number of districts?
- 
-District Level Export Promotion Plan is a key element of District as hub 
-initiative and is aimed at enhancing export activi- ty at District Level.
-1.1.41.5 0100 
- Has the State identified thrust 
-sectors for exports? (Yes/No)
-Each State has a competitive advantage in specific sectors. It is, 
-therefore, neces- sary that the States identify these thrust sectors and 
-focus on developing their export strategy around them.
-1.1.5 
-1.1.5.A
-1.1.5.B
- 
-1.5
-1
-0
-0
-100
- 
-100
-100
- 
- 
- 
- 
-Product quality and standards
-Whether there is infor- mation 
-publicly available in the form 
-of FAQs or website regarding 
-quality requirements to be com- 
-piled in export items ?(Yes/ No)
-Are there any workshops 
-conducted for generating 
-awareness on compliance of 
-quality requirements for exports? 
-(Yes/No; Details)
-To become a part of the global value chain, it is important to adhere to 
-in- ternational standards and quality for exports as defined by WTO’s 
-Agree- ment on Technical Barrier to Trade (TBT Agreement), Sanitary and 
-Phytosanitary Measures (SPS Agreements), Pre-ship- ment Inspection 
-(PSI Agreement), USDA Certification, Conformity European or any other 
-certification.
-For adhering to quality requirements, State have to take initiative in 
-sensitising exporters to comply with export quality requirements
-1.1.61.50100100
-  Marketing Support : Does state 
-government provide any form of 
-marketing support for products 
-and services in international 
-market? (Yes/No)
-It is crucial for the State Government to work towards enhancing the 
-visibility of State level products in international markets
-1.1.710100100
-  Facilitation measures around 
-export promotion: Does 
-state conduct any awards for 
-excellence in exports? (Yes/ No); 
-Details of the event & awardee
-A State level program to honour companies involved in international 
-business is a good way to encourage exporters. The selection committee 
-can evaluate the applications taking into consideration the value of 
-exports, ratio of exports to sales, level of value addi- tion, adoption of 
-best practices, product and process innovation, R&D activity, etc.
-ANNEXURE
-Table 1: Detailed comparison table for Export Preparedness Index
-
-[Page 65]
-Strategy for unlocking export potential for MSMEs in West Bengal
-65  Index No. Weights 2020 2021 2022 Coastal Average 
-(2022)
-National Average 
-(2022)
-Indicator Definition/Clarification
-1.1.8 1 0  0   
-ODOP - District export plan: How 
-many districts of the State are 
-covered under ODOP scheme ?
-The ODOP Initiative is aimed at fostering balanced regional 
-development across all districts of the country enabling holistic 
-socio- economic growth across all regions. The objective is to convert 
-each District of the country into a Manufacturing and Export Hub by 
-identifying products with export potential in the district.
-1.2 Institutional 
-Framework (10%)  0 53.54 82.75 93.08 76.40
- A sound policy environment cannot induce growth without a robust 
-institutional framework. Institutionalizing exports in a state helps reduce 
-uncertainty surrounding policy framework, as it facilitates access to the 
-services owed to the manufacturers and exporters. 
-1.2.1 2 0 100 100   
-Appointment of full time 
-export Commissioner: Has the 
-State appointed an Export 
-Commissioner? (Yes/No)
-In 2015, the Centre had asked States to ap- point Export Commissioners 
-and prepare ex- port strategies as a step to promote exports.
-1.2.2 2 0 100 100   
-Does the State have a State-
-Centre coordination cell? (Yes/
-No); Details of state-Centre 
-coordination cell.
-In order to ensure synergy between Centre and the States, State- Centre 
-coordination cell play a vital role. Such a coordination  cell is required 
-to review and act upon new developments that are important for State’s 
-exports
-1.2.3  0 100 100   
-Does the State Government 
-export Promotion website 
-provide details of domestic 
-events/workshops/B2B meet- 
-ings/ details of exportable 
-commodities etc to foster its 
-exports? (Yes/No)
-It is crucial for the State Government to work towards enhancing the 
-visibility of State level products in international markets.
-1.2.4 
-1.2.4.A 1.5 0 0 42.58
-  Existence of DEPCs
-How many districts in the State 
-have District Export Pro- motion 
-Council (DEPC) ?
-District level Export Promotion Councils are constituted for various 
-sectors to direct, promote and ensure monitoring of the export related 
-activities in the District.
-1.2.5 
-1.2.5.A
- 
-2
- 
-0
- 
-100
- 
-100
- 
- 
- 
- 
-Grievance redressal
-Whether State has a function- 
-al online grievance redressal 
-portal exclusively for export- 
-ers in which they can flag key 
-issues of concern that requires 
-government interven- tion Yes/
-No
- 
-Exporters need to have access to grievance redressal mechanism to 
-approach the Gov- ernment for flagging any concerns/issues that 
-requires government intervention & resolution of problems.
-Business 
-Ecosystem 
-(40%)
-Index Score  53.65 44.38 48.11 61.44
-43.40   
-2.1 Business 
-Environment 
-(15%)
- 38.03 72.41 52.66 61.82 51.17
- A composition of six indicators, this sub-pillar evaluates the 
-conduciveness of a state’s environment for inviting and growing 
-businesses. For a comprehensive assessment, the indicators range 
-from ease of doing business, availability of single window clearance 
-and investments into state, credit facilities, to the change in a state’s 
-economy.
+16
+Effective Strategies:
+• Tamil Nadu focuses on skill development and 
+EV component manufacturing to diversify 
+export products.
+The Export Preparedness Index also offers the 
+scope for specific recommendations to further 
+bolster West Bengal’s export readiness:
+• Strengthen District Export Promotion 
+Committees: Constituting District Export 
+Promotion Committees for a higher 
+percentage of its districts (currently at 44%) 
+can enhance the coordination and support for 
+exporters at the district level.
+• Establish Free Trade Zones: Exploring 
+the establishment of Free Trade Zones can 
+stimulate trade and investment within the 
+state, attracting businesses looking for tax 
+incentives and trade benefits.
+• Organize Capacity Building Workshops: 
+The state can consider organizing capacity-
+building workshops for its exporters. These 
+workshops can impart knowledge and 
+skills essential for businesses to engage in 
+international trade effectively.
+• Increase Import Export Code Registrations: 
+Encouraging a greater number of businesses 
+to obtain an Import Export Code can 
+facilitate and streamline their participation in 
+international trade activities.
+• Enhance District Export Action Plans: 
+Extend coverage of District Export Action 
+Plans, which are currently in place for only 
+32% of its districts. Expanding this coverage 
+can provide a more comprehensive roadmap 
+for boosting exports at the local level.
+Implementing these recommendations can 
+further elevate West Bengal’s position and foster 
+a conducive environment for trade and export 
+growth within the state.
+Chart 12: S.W.O.T. (Strengths, Weaknesses, Opportunities, Threats) ANALYSIS
+S
+W
+O
+T
+Strengths
+Institutional Framework: West Bengal’s institutional framework for export promotion is a significant strength. It maintains perfect scores in 
+various sub-pillars, indicating strong support for MSMEs.
+Infrastructure: The state’s infrastructure is another strength, with high power availability, which is essential for MSME operations. Cluster 
+strength, though declining, is high, showcasing opportunities for collaboration among MSMEs.
+Export Infrastructure: West Bengal’s export infrastructure is very strong, exceeding both the coastal and national averages. This provides a 
+solid foundation for MSMEs to grow.
+Trade Support: The state’s performance in trade support is ahead of the national average, which benefits MSMEs. Maintaining a district-wise/
+sector-wise database of exporters and conducting stakeholder interactions reflects support for MSME concerns.
+Weaknesses
+Business Environment: Recent shifts in the Ease of Doing Business metrics suggest opportunities for enhancing the operating landscape for 
+MSMEs. Current power tariffs and FDI patterns present areas where strategic interventions could help boost competitiveness. 
+R&D Infrastructure: The state's research and development framework shows potential for further development, particularly in supporting 
+MSMEs' innovation journey and product development capabilities. 
+Export Performance: While West Bengal has maintained a steady presence in international markets, there are promising avenues for 
+expanding the export portfolio, especially for MSMEs looking to broaden their global footprint.
+Opportunities
+Export Promotion Policy: By aligning policies with central government schemes and implementing district promotion plans across all districts, 
+the state can significantly improve its export promotion policy and create a conducive environment for MSMEs.
+Business Environment: Addressing the issues of high power costs and further improving FDI inflow can enhance the business environment for 
+MSMEs.
+Trade Support: Applying for the Trade Infrastructure for Export Schemes (TIES) and revitalizing trade fairs and orientation workshops can 
+improve support for MSMEs’ export activities.
+Threats
+Transport Connectivity: The logistics ecosystem presents opportunities for enhancement, particularly through the development of specialized 
+zones like Free Trade and Warehousing facilities, which could strengthen MSMEs' distribution networks and supply chain efficiency. 
+Export diversification: Recent trends in the Market Penetration index suggest scope for reinvigorating presence in established markets, 
+pointing to untapped potential in these proven territories.

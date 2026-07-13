@@ -1,0 +1,88 @@
+--- CHUNK HEADER ---
+Chunk ID: A-SPICE-005-C15
+Parent Doc ID: A-SPICE-005
+Page Range: Page 8
+Word Range: 3906 - 4160
+Word Count: 255
+--------------------
+
+[Page 8]
+Row Country of origin Food and feed (intended use) CN code ( 1)
+TARIC 
+sub- 
+division
+Hazard
+Frequency of 
+identity and 
+physical 
+checks (%)
+ex 2008 97 93 15
+ex 2008 97 94 15
+ex 2008 97 96 15
+ex 2008 97 97 15
+ex 2008 97 98 15
+— Flours, meals and powder 
+of hazelnuts
+ex 1106 30 90 40
+— Hazelnut oil ex 1515 90 99 20
+(Food)
+2 Bangladesh 
+(BD)
+Seem beans, helmet beans 
+(Lablab purpureus)
+(Food)
+ex 0708 90 00 30 Pesticide 
+residues (
+3) 30
+Zara lemons (Citrus medica)
+(Food)
+ex 0805 90 00 20 Pesticide 
+residues (3) 20
+3 Burkina Faso 
+(BF)
+Aubergines/eggplants 
+(Solanum aethiopicum)
+(Food)
+ex 0709 30 00 70 Pesticide 
+residues (
+3) 20
+4 Côte d’Ivoire 
+(CI)
+Palm oil (12)
+(Food)
+1511 10 90
+Sudan
+dyes (14) 30
+1511 90 11
+ex 1511 90 19 90
+1511 90 99
+5 China (CN)
+— Groundnuts (peanuts), in 
+shell
+1202 41 00
+Aflatoxins 10
+— Groundnuts (peanuts), 
+shelled
+1202 42 00
+— Peanut butter 2008 11 10
+— Groundnuts (peanuts), 
+otherwise prepared or 
+preserved
+2008 11 91
+2008 11 96
+2008 11 98
+— Oilcake and other solid 
+residues, whether or not 
+ground or in the form of 
+pellets, resulting from the 
+extraction of 
+groundnut oil
+2305 00 00
+— Groundnut flours and 
+meals
+ex 1208 90 00 20
+— Groundnuts paste ex 2007 10 10 80
+(Food and feed) ex 2007 10 99 50
+ex 2007 99 39 07; 08
+OJ L, 29.1.2026 EN 
+ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 7/25

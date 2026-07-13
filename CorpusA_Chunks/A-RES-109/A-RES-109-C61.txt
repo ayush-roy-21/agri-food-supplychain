@@ -1,0 +1,68 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-109-C61
+Parent Doc ID: A-RES-109
+Page Range: Page 30
+Word Range: 16441 - 16690
+Word Count: 250
+--------------------
+
+[Page 30]
+centrality is represented by the number of direct linkage between node i and other nodes, and it is
+given as follows:
+Degree centrality CI ¼
+X
+j
+mij ;
+where mij ¼ 1i fn o d e i and node j are linked in a network.
+Betweenness centrality
+The concept of betweenness is a measure of how often a node is located on the shortest path between
+other nodes in the network. Those nodes positioned on the shortest path between other nodes play the
+roles of mediator that influences any two nodes without direct contact. Nodes with higher betweenness
+centrality are those positioned at the core of the network:
+Betweenness centrality B
+iðÞ ¼
+X
+j;k a 1
+gjik
+gjk
+;
+where gjk is the shortest path between node j and node k; gjik the shortest path between node j and actor
+k that contain actor i.
+Closeness centrality
+The closeness centrality of a node is defined by the inverse of the average length of the shortest paths
+to/from all the other nodes in the network. Higher closeness centrality indicates higher influence on
+other nodes:
+Closeness centrality CC iðÞ ¼
+XN
+j¼1
+1
+dij
+;
+where dij is the shortest path between node j node i.
+Eigenvector centrality measures
+Consider an undirected network represented by a graph G ¼ (V, E), where V denotes the set of nodes
+(1, 2, …,c , …,d , …, v) and E the set of edges. Let A be the co-occurrence matrix for this graph and
+its element acd ¼ 1 (or edge weightage in case of weighted network) if nodes c and d are connected by
+an edge and acd ¼ 0 if they are not.
+Eigenvector centralityx can be defined in two equivalent ways via a matrix equation and a sum as
+Ax ¼ λx and lxc ¼ PV
+v¼1 acv xv, respectively, whereλ is the largest eigenvalue ofA (Bonacich, 1987). This
+centrality of a node is proportional to the sum of centralities of all other nodes to which it is connected, that is
+a node that has a high eigenvector score is one t hat is adjacent to nodes that have high scores.
+Appendix 2. Reviewed papers during 2002 –2014 with paper id [in bracket]
+Amekawa, Y. (2009), “Reflections on the growing influence of good agricultural practices in the Global
+South”, Journal of Agricultural and Environmental Ethics , Vol. 22, pp. 531-557, available at: https://doi.
+org/10.1007/s10806-009-9171-8 [67]
+Arumugam, N., Arshad, F.M., Chiew, D.F.C. and Abidin, M.Z. (2010), “Supply chain analysis of fresh
+fruits and vegetables (FFV ): prospects of contract farming ”, Agricultural Economics , Vol. 56 No. 9,
+pp. 435-442. [69]
+Banterle, A. and Stranieri, S. (2013), “Sustainability standards and the reorganization of private
+label supply chains: a transaction cost perspective ”, Sustainability, Vol. 5, pp. 5272-5288, available at:
+https://doi.org/10.3390/su5125272 [125]
+Bernard, F., Noordwijk, M.V., Luedeling, E., Villamor, G.B., Sileshi, G.W. and Namirembe, S. (2014),
+“Social actors and unsustainability of agriculture ”, Current Opinion in Environmental Sustainability ,
+Vol. 6, pp. 155-161, available at: https://doi.org/10.1016/j.cosust.2014.01.002 [145]
+48
+JAMR
+17,1
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

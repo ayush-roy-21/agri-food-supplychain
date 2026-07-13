@@ -1,106 +1,97 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-101-C06
 Parent Doc ID: A-EUDR-101
-Page Range: Page 11 to Page 12
-Word Range: 9213 - 10988
-Word Count: 1,776
+Page Range: Page 2
+Word Range: 1251 - 1500
+Word Count: 250
 --------------------
 
-[Page 11]
-end to the pr incipal actual and poten tial adverse im pacts connected with their activities and identifies how 
-under takings address those adverse im pacts. Im pacts connected with an under taking’s activities include im pacts 
-directly caused by the under taking, impa cts to which the under taking contr ibut es, and impacts which are other wise 
-linked to the under taking’s value c hain. The due dilig ence process concer ns the whole value chain of the under taking 
-including its o wn operations, its products and ser vices, its business relationships and its supply c hains. In line with 
-the UN Guiding Pr inciples on Business and Human Rights, an actual or poten tial adverse im pact is to be considered 
-a pr incipal impa ct where it ranks among the greate st impacts connected with the under taking’s activities based on: 
-the grav ity of the impact on people or the envi ronment ; the number of individuals that are or could be affe cted, or 
-the scale of damage to the en vironment ; and the ease with which the har m could be remediated , restor ing the 
-en vironment or affect ed people to their pr ior state.
-(32) Directive 2013/34/EU does not require the disclosure of inf or mation on intangible resources other than intangible 
-assets recognised in the balance sheet. It is widely recognised that inf or mation on intangible assets and other 
-intangible f actors, including inte r nally generat ed intangible resources, is under repor ted, im peding the proper 
-assessment of an under taking’s development, performa nce and position, and the monitori ng of inve stments. T o 
-enable inv estors to bette r understand the increasing g ap between the accounting book value of man y under takings 
-and their market valuation, which is obser ved in man y sectors of the economy , adequate repor ting on intangible 
-resources should be required of all larg e under takings and all under takings, excep t micro-under takings, whose 
-secur ities are admitted to trading on a regulate d market in the Uni on. Nonetheless, cer tain inf or mation on 
-intangible resources is intr insic to sustainability matt ers, and should theref ore be par t of sustainability repor ting. 
-For examp le, inf or mation about em plo ye es ’ skills, compet ences, exper ience, lo yalty to the under taking and 
-motivation f or impro ving processes, goods and ser vices, is sustainability inf or mation rega rding social matters that 
-could also be considered as inf or mation on intangible resources. Like wise, inf or mation about the quality of the 
-relationships between the under taking and its stak eholders, including customer s, suppliers and communities 
-affe cted by the activities of the under taking, is sustainability inf or mation relevant to social or governance matte rs 
-that could also be considered as inf or mation on intangible resources. Such examples illustrate how in some cases it 
-is not possible to distinguish inf or mation on intangible resources from inf or mation on sustainability matt ers.
-(33) Ar ticle 19a(1) and Ar ticle 29a(1) of Directive 2013/34/EU do not specify whether the inf or mation to be repor ted is 
-to be f or ward-looking or inf or mation about past performa nce. There is cur rently a lac k of f or ward-looking 
-disclosures, which users of sustainability inf or mation especially value. Ar ticles 19a and 29a of Directive 
-2013/34/EU should theref ore specify that the sustainability inf or mation repor ted is to include f or ward-looking and 
-retrospective inf or mation and both qualitative and quantitative inf or mation. Inf or mation should be based on 
-conclusive scientific evidence where appropr iat e. Inf or mation should also be har monized, comparable and based 
-on unif or m indicators where appropr iate, while allowing f or repor ting that is specif ic to individual under takings 
-and does not endange r the commercial position of the under taking. Repor ted sustainability inf or mation should also 
-take into account shor t-, medium- and long-t er m time hor izons and contain inf or mation about the under taking’s 
-whole value chain, including its own operations, its products and ser vices, its business relationships and its supply 
-c hain, as appropr iat e. Inf or mation about the under taking’s whole value chain w ould include inf or mation relat ed to 
-its value c hain within the Uni on and inf or mation that covers third countr ies if the under taking’s value c hain extends 
-outside the Union. For the fi rst three yea rs of the application of the measures to be adop ted by the Member Stat es in 
-accordance with this amending Directive, in the event that not all the necessar y inf or mation regar ding the value 
-c hain is av ailable, the under taking should explain the eff or ts made to obtain the inf or mation about its value c hain, 
-the reasons why that inf or mation could not be obtained, and the plans of the under taking to obtain such 
-inf or mation in the future.
-EN
-Offi cial Jour nal of the European Uni on 16.12.2022 L 322/25
-
-[Page 12]
-(34) It is not the objective of this amending Directive to require under takings to disclose intellectual capital, intellectual 
-proper ty , know-ho w or the results of innovati on that w ould qualify as trade secrets as defined in Directive (EU) 
-2016/943 of the European P arliament and of the Council (
-22
-) . Repor ting requirements pro vided f or in this 
-amending Directive should theref ore be without prejudice to Directive (EU) 2016/943.
-(35) Ar ticle 19a(1) and Ar ticle 29a(1) of Directive 2013/34/EU require under takings to include in their non-financial 
-repor ting refe rences to, and additional explanations of, amounts repor ted in the annual fi nancial statements. Those 
-Ar ticles do not, however , require under takings to make ref erences to other inf or mation in the management repor t 
-or to add additional explanations to that inf or mation. Thus, there is cur rently a lack of consist ency between non- 
-fi nancial inf or mation repor ted and the rest of the inf or mation disclosed in the management repor t. It is necessar y 
-to la y down clear requirements in this regard.
-(36) Ar ticle 19a(1) and Ar ticle 29a(1) of Directive 2013/34/EU require under takings to provid e a clear and reasoned 
-explanation f or not pursuing policies in relation to one or more of the matt ers list ed in those Ar ticles, where the 
-under taking does not do so. The differ ent treatment of disclosures on the policies that under takings ma y hav e, 
-compare d to the other repor ting areas included in those Ar ticles, has created confusion among repor ting 
-under takings and has not helped to im prove the quality of the repor ted inf or mation. Theref ore, there is no need to 
-maintain such diff erent treatment of policies in that Directive. The sustainability repor ting standards should 
-det er mine what inf or mation needs to be disclosed in relation to each of the repor ting areas mentioned in Ar ticles 
-19a and 29a of Directive 2013/34/EU as amended by this amending Directive.
-(37) U nder takings that fall under the scope of Ar ticle 19a(1) and Ar ticle 29a(1) of Directive 2013/34/EU ma y rely on 
-national, Union-based or international repor ting frameworks, and where they do so, they hav e to specify which 
-framewor k s they hav e relied upon. However , Directive 2013/34/EU does not require under takings to use a 
-common repor ting framewor k or standard, and it does not prevent under takings from choosing not to use an y 
-repor ting framew ork or standards at all. As required by Ar ticle 2 of Directive 2014/95/EU, on 5 July 2017 , the 
-Commission adopt ed a Communication entitled ‘Guidelines on non-financial repor ting (methodology f or repor ting 
-non-fi nancial inf or mation)’ (‘Guidelines on non-f inancial repor ting’), provi ding f or non-binding guidelines f or 
-under takings that fa ll under the scope of that Directive.
-On 17 June 2019 , the Commission adopt ed its Guidelines on repor ting climat e-relat ed inf or mation, containing 
-additional guidelines, specifi cally on repor ting climate -related inf or mation. Those Guidelines on repor ting climat e- 
-relat ed inf or mation explicitly incor porat ed the recommendations of the T ask Force on Climat e-related Financial 
-Disclosures. A vailable evidence indicates that the Guidelines on non-fi nancial repor ting did not hav e a signif icant 
-imp act on the quality of non-fi nancial repor ting by under takings under the scope of Ar ticles 19a and 29a of 
-Directive 2013/34/EU. The volun tar y nature of the guidelines means that under takings are free to decide whether 
-to apply them or not. The guidelines can theref ore not ensure on their own the comparab ility of the inf or mation 
-disclosed by diff erent under takings, or the disclosure of all inf or mation that users of that inf or mation consider 
-relevant. That is why there is a need f or mandatory common sustainability repor ting standards to ensure that 
-inf or mation is compara ble and that all relevant inf or mation is disclosed. Building on the double mater iality 
-pr inciple, standards should co ver all inf or mation that is mater ial to users of that inf or mation. Common 
-sustainability repor ting standards are also necessar y to enable the assurance and digitalisation of sustainability 
-repor ting and to f acilitate its super vision and enf orcement.
-The development of mandatory common sustainability repor ting standards is necessar y to reach a situation in whic h 
-sustainability inf or mation has a status compara ble to that of fi nancial inf or mation. The adoptio n of sustainability 
-repor ting standards by means of delegat ed acts would ensure har monised sustainability repor ting across the Union. 
+[Page 2]
+(2) In its Communication of 8 March 2018 entitled ‘ A ction Plan: Financing Sustainable Growth’ (the ‘ A ction Plan on 
+Financing Sustainable Gro wth’), the Commission set out measures to achi eve the f ollowing objectives: reor ient 
+capital f lows to wards sustainable inv estment in order to achieve sustainable and inclusive gro wth, manage fi nancial 
+r isks stemming from climat e chang e, resource depletion, en vironmental degradation and social issues, and f oster 
+transparency and long-t er mism in fi nancial and economic activity . The disclosure by cer tain catego r ies of 
+under takings of relevant, comparab le and reliable sustainability inf or mation is a prerequisite f or meeting those 
+objectives. The European P arliament and the Council have adop ted a number of legislative acts as par t of the 
+imp lementation of the A ction Plan on Financing Sustainable Growt h. Regulation (EU) 2019/2088 of the European 
+P arliament and of the Council (
+5
+) govern s how financial mark et par ticipants and fi nancial advisers are to disclose 
+sustainability inf or mation to end invest ors and asset owners.
+Regulation (EU) 2020/852 of the European P arliament and of the Council (
+6
+) creat es a classif ication system of 
+en vironmentally sustainable economic activities with the aim of scaling up sustainable inv estments and combatting 
+greenwashing of financial products that unduly claim to be sustainable. Regulation (EU) 2019/2089 of the 
+European Parliament and of the Council (
+7
+) , compl emented by Commission Delegat ed Regulations (EU) 
+2020/1816 (
+8
+) , (EU) 2020/1817 (
+9
+) and (EU) 2020/1818 (
+10
+) , introduces en vironmental, social and governance 
+(‘ESG’) disclosure requirements f or benc hmark administrators and minimum standards f or the constr uction of EU 
+Climate T ransition Benc hmark s and EU P ar is-aligned Benc hmark s.
+Regulation (EU) No 575/2013 of the European Parliament and of the Council (
+11
+) requires larg e institutions which 
+hav e issued secur ities that are admitt ed to trading on a regulated mark et to disclose inf or mation on ESG r isks from 
+28 June 2022 . The pr udential framework f or investment fir ms established by Regulation (EU) 2019/2033 of the 
+European P arliament and of the Council (
+12
+) and Directive (EU) 2019/2034 of the European Parliament and of the 
+Council (
+13
+) contains provisions concer ning the introduction of an ESG r isk dimension in the Super visor y Review 
+and Evaluation Process (‘SREP’) by compet ent author ities, and contains ESG r isk disclosure requirements f or 
+inve stment fir ms, applicable from 26 December 2022 . On 6 July 2021 , the Commission also adopt ed a proposal 
+f or a Regulation of the European P arliament and of the Council on European green bonds, f ollowing up on the 
+A ction Plan on Financing Sustainable Gro wth.
 (
-22
-) Directive (EU) 2016/943 of the European Parliament and of the Council of 8 June 2016 on the protection of undisclosed know-ho w 
-and business inf or mation (trade secrets) again st their unlawful acquisition, use and disclosure (OJ L 157, 15.6.2016, p. 1).
+5
+) Regulation (EU) 2019/2088 of the European P arliament and of the Council of 27 November 2019 on sustainability-related disclosures 
+in the financial ser vices secto r (OJ L 317, 9.12.2019, p. 1).
+(
+6
+) Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framewo rk t o 
+fac ilitate sustainable inv estment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).
+(
+7
+) Regulation (EU) 2019/2089 of the European P arliament and of the Council of 27 November 2019 amending Regulation (EU) 
+2016/1011 as regar ds EU Climate T ransition Benchmarks, EU P ar is-aligned Benchma rk s and sustainability-related disclosures f or 
+benc hmark s (OJ L 317, 9.12.2019, p. 17).
+(
+8
+) Commission Delegat ed Regulation (EU) 2020/1816 of 17 July 2020 supplementing Regulation (EU) 2016/1011 of the European 
+P arliament and of the Council as regar ds the explanation in the benchmark statement of how environmental, social and govern ance 
+fac tors are ref lected in each benchm ark provided and published (OJ L 406, 3.12.2020, p. 1).
+(
+9
+) Commission Delegat ed Regulation (EU) 2020/1817 of 17 July 2020 supplementing Regulation (EU) 2016/1011 of the European 
+P arliament and of the Council as regar ds the minimum content of the explanation on how environment al, social and go ver nance 
+fac tors are ref lected in the benchmark methodology (OJ L 406, 3.12.2020, p. 12).
+(
+10
+) Commission Delegat ed Regulation (EU) 2020/1818 of 17 July 2020 supplementing Regulation (EU) 2016/1011 of the European 
+Parliament and of the Council as regar ds minimum standards f or EU Climate T ransition Benchmarks and EU P ar is-aligned 
+Benchmarks (OJ L 406, 3.12.2020, p. 17).
+(
+11
+) Regulation (EU) No 575/2013 of the European P arliament and of the Council of 26 June 2013 on pr udential requirements f or credit 
+institutions and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).
+(
+12
+) Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the pr udential requirements of 
+investment fir ms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 
+(OJ L 314, 5.12.2019, p. 1).
+(
+13
+) Directive (EU) 2019/2034 of the European P arliament and of the Council of 27 November 2019 on the pr udential super vision of 
+investment fir ms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and 2014/65/EU 
+(OJ L 314, 5.12.2019, p. 64).
 EN
-Offi cial Jour nal of the European Uni on L 322/26 16.12.2022
+Offi cial Jour nal of the European Uni on L 322/16 16.12.2022

@@ -1,0 +1,110 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C40
+Parent Doc ID: A-MSME-100
+Page Range: Page 40
+Word Range: 11028 - 11312
+Word Count: 285
+--------------------
+
+[Page 40]
+40 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+than 10% exceeded INR 1 crore, and the majority (21%) 
+had loans between INR 10 lakhs and INR 20 lakhs 
+(Figure 18). Irrespective of the loan value, more than 
+98% of enterprises reported that the loan amount 
+was not enough to meet their credit requirement. For 
+46% of enterprises, the loan covered 25% or less of 
+their credit needs. The credit gap was larger for non-
+integrated firms and micro-enterprises (Figure 19). 
+Figure 18: Distribution of enterprises by ticket size (amount) of the current loan (in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+Figure 19: Distribution of enterprises by loan requirement met and e-commerce integration (in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+16.76 23.08
+37.36
+21.15
+1.65
+8.14
+27.91
+40.7
+17.44
+5.81
+9.195
+28.74
+39.08
+19.54
+3.45
+17.31
+36.06 33.17
+13.22
+0.24
+9.375
+57.81
+25
+4.688 3.13
+8.065
+41.94
+29.03
+16.13
+4.84
+0
+20
+40
+60
+80
+0
+20
+40
+60
+80
+0
+20
+40
+60
+80
+<25 25 50 75 100 <25 25 50 75 100
+Integrated, Micro
+Integrated, Small
+Integrated, Medium
+Not Integrated, Micro
+Not Integrated, Small
+Not Integrated, Medium
+Percent
+Loan Requirement Met (%)
+6%
+15%
+19%
+21%
+14%
+7%
+9%
+3%
+6%
+0%
+5%
+10%
+15%
+20%
+25%
+Up to INR 1
+Lakh
+> INR 1 - <
+INR 5 Lakhs
+>INR 5 - ≤
+10 Lakhs
+Overall Integrated Not integrated
+>INR 10 - ≤
+20 Lakhs
+>INR 20 - ≤
+30 Lakhs
+>INR 30 - ≤
+40 Lakhs
+>INR 40 - ≤
+50 Lakhs
+>INR 50 
+Lakhs - ≤ 1
+crore
+INR more 
+than 1
+crore
+MSMEs’ Access to Finance

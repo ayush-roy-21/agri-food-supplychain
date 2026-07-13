@@ -1,214 +1,58 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-100-C05
 Parent Doc ID: A-RES-100
-Page Range: Page 28 to Page 35
-Word Range: 5307 - 6582
-Word Count: 1,276
+Page Range: Page 8 to Page 9
+Word Range: 1298 - 1547
+Word Count: 250
 --------------------
 
-[Page 28]
-Engaging suppliers is a critical lever for reducing Scope 3 emissions, and companies employ a mix of
-approaches that generally fall into four categories:
-28
-Decarbonization Levers to Reduce Scope 3: Supplier Engagement
-Figure 15. Ways Companies Engage with Suppliers to Reduce Scope 3 Emissions (multiple response)
-State of Supply Chain Sustainability 2025
-Foundational procurement levers are the most common, which includes sustainability in supplier selection
-(~70%) and requesting emissions data from suppliers (~55%), as you can see in Figure 15. The commercial
-mechanisms lever is relatively underutilized (~42%), which is powerful for locking in change but is used by a
-smaller share of businesses, whereas the capability-building and assurance levers are used moderately.
-Regional differences are notable (see Figure 16). North American organizations spread their efforts across
-selection criteria, data requests, and training, while European companies lean more on audits, certifications,
-and supplier capacity building. Commercial mechanisms like financial incentives or long-term contracts
-remain underused in both regions, despite their potential to drive lasting change.
-Commercial Mechanisms: long-term contracts
-with sustainability commitments; financial
-incentives or penalties tied to performance
-Capability-Building: providing training or
-resources to help suppliers cut emissions
-Verification & Compliance: requiring 
-third-party audits or certifications
-Sustainable Sourcing: including sustainability
-criteria in supplier selection; requesting
-emissions data
-
-[Page 29]
-29
-Industry Collaborations
-Collaboration across industries is emerging as a powerful way to decarbonize, with companies working
-together to source sustainable inputs and create uniform standards. Industry partnerships help to progress
-Scope 3 decarbonization by relieving suppliers of the stress of handling numerous, conflicting requests.
-SteelZero , for instance, encourages steelmakers to invest in cleaner production by uniting purchasers such
-as Maersk and Volvo Cars to pledge to use 50% low-emission steel by 2030 and 100% net-zero steel by
-2050. Similar to this, RE100  brings together hundreds of businesses to source all of their electricity from
-renewable sources, generating a sizable and steady demand that aids in the development of new clean
-power and the decarbonization of suppliers. As a result, by pooling demand, standardizing practices, and
-exchanging non-proprietary knowledge, industry partnerships strengthen Scope 3 decarbonization
-initiatives. Figure 17 shows the variety of collaborations that businesses engage in. The most prevalent are
-sustainability coalitions (48.8%), followed by joint supplier programs (31.2%). A significant number of
-respondents are unclear or uninvolved, indicating inadequate awareness and participation.
-2
-3
-Figure 16. Regional Breakdown of Ways Companies Engage with Suppliers to Reduce Scope 3 Emissions  
-(multiple response)
-Issue No.06
-
-[Page 30]
-Regional differences again
-appear: European firms
-report slightly higher
-involvement in coalitions
-and joint supplier programs
-(42.3%) compared to North
-American firms (35.7%).
-30
-Figure 18. Regional Breakdown in Participation in Industry Collaborations (multiple response) State of Supply Chain Sustainability 2025
-Figure 17. Participation in Industry Collaborations (multiple response)
-In North America, firms rely
-more on cross-sector
-alliances (21.4%), and a
-similar share (21.4%) report
-not participating in any
-initiatives.  (see Figure 18).
-
-[Page 31]
-31
-Issue No.06
-When organizations collaborate, they unlock multiple
-advantages that strengthen both execution and
-economics. As illustrated in Figure 19, out of the
-companies that do participate in industry
-collaborations, the most commonly reported benefits
-include stronger supplier engagement, better
-alignment on sustainability goals, and enhanced
-access to emissions data and reporting frameworks,
-together cited by nearly four out of five respondents
-(87%). In addition, many organizations highlight gains
-from shared resources and expertise, as well as direct
-cost savings achieved through joint sustainability
-investments (64.2%). Nearly half of the companies
-also report improved regulatory compliance and
-greater influence on policy (46.3%).
+[Page 8]
+INTRODUCTION
+Sustainability has become an essential element of supply chain management, shaping how companies
+compete, grow, and build resilience in an uncertain world. The 2025 State of Supply Chain Sustainability
+Report, produced by the MIT Sustainable Supply Chain Lab, at the MIT Center for Transportation and
+Logistics, and the Council of Supply Chain Management Professionals, builds on six years of research to
+provide a clear picture of how businesses are translating commitments into action, where progress is
+accelerating, and which challenges continue to slow momentum.
  
-Figure 19. Benefits Gained From Participating in Industry Collaborations (multiple response)
-Industry
-collaboration
-pays off.
-80% of participants
-report gains in
-emissions data
-quality, supplier
-alignment, shared
-expertise, cost
-efficiencies, and
-policy influence.
-
-[Page 32]
-32 State of Supply Chain Sustainability 2025
-Therefore, the benefits of collaboration are clear:
-improved emissions data, better supplier
-alignment, shared expertise, cost savings, and
-policy influence. However, there can be several
-barriers constraining deeper or broader
-collaboration that should be noted. Organizations
-face a mix of practical and coordination hurdles
-when collaborating. The top barriers include cost
-and resource constraints, standardization issues,
-data-sharing concerns, and differences in
-priorities (see Figures 20 and 21).
-Figure 20. Challenges That Limit Industry Collaborations (multiple response)
-
-[Page 33]
-33
-Issue No.06
-Scope 3 remains the most material yet most difficult part of corporate emissions
-management. Companies are advancing in measurement, but supplier data gaps,
-methodological complexity, and limited resources continue to slow progress. While
-procurement levers and industry collaborations are beginning to drive engagement,
-lasting reductions will require clearer standards, stronger supplier partnerships, and
-collective action to turn measurement into meaningful decarbonization. Within Scope 3
-reporting, transportation consistently emerges as one of the largest contributors to
-emissions, often representing the biggest categories for many companies. Because
-freight movement is both essential to global supply chains and a major driver of carbon
-intensity, understanding technology pathways, adoption barriers, and strategic priorities
-in this sector is critical. For this reason, this year's report includes a dedicated
-transportation section to assess how organizations are approaching decarbonization of
-this high-impact area.
-Figure 21. Regional Difference in Challenges That Limit Industry Collaborations (multiple response)
-
-[Page 34]
-State of Supply Chain Sustainability 2025
-This year, the State of Supply Chain Sustainability
-study included a dedicated freight transportation
-module to gauge technology outlook, adoption
-hurdles, and strategic priorities in the sector. Freight
-transportation is often the largest component of
-Scope 3 emissions because of the reliance on long-
-distance trucking, extensive distribution networks,
-and energy-intensive logistics operations, especially
-in the United States. The sheer volume of goods
-moved across vast geographies, combined with
-limited visibility into carrier-level data, makes
-transportation a dominant category in Scope 3
-reporting. The survey assessed the perceived
-emissions‑reduction impact of key technologies in
-both the short term (1–3 years) and long term (4–10
-years), specifically focusing on biofuels,
-battery‑electric, and hydrogen. It also asked
-respondents to rank their decarbonization
-approaches by importance. Since freight is a major
-source of Scope 3 emissions, tracking technology
-expectations, adoption barriers, and strategy
-priorities shows where decarbonization is actually
-feasible in the next 1–10 years.
+This year’s report is based on a global survey of more than 1,200 professionals from 97 countries,
+representing supply chain, procurement, logistics, operations, and sustainability functions across sectors.
+Their insights provide a uniquely comprehensive view of how sustainability practices are evolving worldwide.
+We structured the research around three core themes: the first is the role of regulations, followed by the
+measurement and management of Scope 3 emissions, and lastly, the decarbonization of freight
+transportation. Together, these themes capture the forces shaping supply chain sustainability today and
+point to where action will have the greatest impact tomorrow.
+One of the defining questions in this year’s research was: How businesses respond to a shifting policy
+landscape? In recent years, governments around the world have advanced greenhouse gas (GHG)
+regulations and, in some cases, rolled them back, creating uncertainty for corporations. The study reveals,
+however, that corporate sustainability strategies are proving more resilient than policy cycles.
  
-TRANSPORTATION
-SECTOR
-34
-Insights from the Freight Transportation
-Sector and Pathways to Decarbonize
+8 State of Supply Chain Sustainability 2025
 
-[Page 35]
+[Page 9]
 Issue No.06
-These insights, in turn, guide investment, policy, and
-supplier programs toward the highest-impact levers
-and help remove the specific constraints slowing the
-scale of these technologies.
-To explore how businesses view the freight
-decarbonization pathway, our survey asked
-respondents to assess the expected emissions-
-reduction impact of biofuels, battery-electric, and
-hydrogen solutions in the short term (1–3 years) and
-long term (4–10 years). Across the three options,
-biofuels are viewed as the most immediately‑ useful
-lever for freight decarbonization, with many
-respondents already seeing moderate-to-high
-short‑term impact and confidence rising further over
-the long term as supply and standards mature. While
-this is the easiest transition for an older fleet to start
-using, it makes sense that it has the highest short-
-term impact.
-Hydrogen emerges as
-a long-term bet,
-particularly for heavy,
-long-haul transport,
-with expected impact
-building over the next
-4–10 years.
-35
-Battery‑electric solutions are typically perceived as
-high impact where duty cycles fit, urban and
-regional routes with depot or corridor charging, so
-expectations are strong in the near term and
-improve as vehicle ranges, charging networks, and
-total cost of ownership advance. Hydrogen, by
-contrast, is seen as a longer‑term play geared to
-heavy, long‑haul, and high‑utilization segments
-where fast refueling and high energy density
-matter; its perceived impact grows mainly over the
-4–10-year window, contingent on affordable green
-hydrogen, refueling build‑out, and vehicle cost
-declines. In sum, biofuels offer a broad near-term
-impact, batteries deliver strong near-term results on
-suitable routes, and hydrogen holds longer-term
-promise for heavy-duty cycles.
+Eighty percent of surveyed companies believe sustainability is important or extremely important to long-term
+success, with 73% reporting no change in their commitments following the U.S. withdrawal from the Paris
+Agreement, and 12% even increasing their efforts. Many organizations are moving forward with strategies
+that anticipate or exceed regulatory requirements, using the strictest applicable rules as benchmarks.
+Regional differences are clear. In Europe, regulations such as the Corporate Sustainability Reporting Directive
+(CSRD) serve as the primary driver of action, pushing companies toward standardized disclosures, better
+data governance, and value chain transparency. In North America, investor expectations and boardroom
+priorities are more influential than government mandates. Despite these differences, both regions show
+optimism: more than half of all respondents report high confidence in meeting sustainability goals, with
+European firms slightly more confident than their North American counterparts. But one thing is clear
+globally: companies with public sustainability goals are far more likely to integrate sustainability into daily
+decision-making and to invest in high-impact initiatives. This suggests that public accountability creates
+internal momentum, signaling that when companies make explicit commitments, they are more likely to
+follow through with meaningful execution.
+Scope 3 emissions, the indirect emissions from suppliers, transportation, product use, and all other parts of
+the value chain, remain the most difficult area of corporate climate management. It typically accounts for
+more than 75% of a company’s total emissions . Yet, reporting lags far behind Scope 1 and Scope 2. This
+year’s findings underscore both the scale of the challenge and the growing innovations to address it. More
+than 40% of companies now track Scope 1 and 2, but far fewer report on Scope 3. The main barrier is supplier
+data: about 70% of respondents cited a lack of supplier-specific information as the biggest challenge.
+Methodological fragmentation and calculation complexity followed closely, cited by more than half of
+respondents. Resource constraints, high costs of digital tools, and data privacy concerns further complicate
+measurement.
+1
+9

@@ -1,0 +1,104 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-103-C85
+Parent Doc ID: A-MSME-103
+Page Range: Page 68
+Word Range: 24399 - 24661
+Word Count: 263
+--------------------
+
+[Page 68]
+Strategy for unlocking export potential for MSMEs in West Bengal
+68  Index No.Weights202020212022Coastal Average 
+(2022)
+National Average 
+(2022)
+IndicatorDefinition/Clarification
+Export 
+Ecosystem 
+(20%)
+Index Score 44.2429.0353.0659.4941.55  
+3.1 Export 
+Infrastructure 
+(5%)
+ 86.0933.3994.8891.4967.47
+ To foster export growth in a state, there needs to exist an infrastructure 
+supported by the government which takes care of all the needs of 
+the exporters. This infrastructure includes knowledge transfer portals, 
+Special Economic Zones, dedicated export zones, and accessible trade 
+guides, which record and publish information pertaining to all products 
+available in the state, and the strategies required to push them to the 
+global markets. Across five indicators, this sub-pillar aims to evaluate the 
+existing infrastructure within a state. 
+3.1.11.5100100100  
+Does the State have online 
+portals for disseminating 
+knowledge and information for 
+exporters? (Yes/No)
+Presence of an online portal increases access to crucial information 
+required by the exporters for exports.
+3.1.21 5.706.58  
+What is the area covered under 
+Export Promotion Industrial 
+Parks, Export Promotion Zones 
+and Special Economic Zones 
+(as percentage of State area 
+excluding forest cover)?
+The establishment of EPIPs, EPZs and SEZs by states provide exporters 
+with attractive investment opportunities through incentives like tax 
+benefits.
+3.1.30.50100100  Does a Trade guide exist? (Yes/
+No)
+Publication of trade guide with geography - based information on 
+process, commodity, buyers/market intelligence etc. by state.
+3.1.40.571.43075.00  
+What is the number of Agri- 
+Export Zones?
+An Agri Export Zone or AEZ is a specific geographic region in a country 
+demarcated for setting up agriculture-based processing industries, 
+mainly for export.
+3.1.51.5  91.47  
+Regional disparity : How many 
+districts out of the total districts 
+are exporting districts?
+The role of existing regional disparity in India, becomes essential to 
+understand the export landscape at the State level and the factors 
+influencing the export performance.
+3.2 Trade Support 
+(10%) 05.8247.5056.9531.11
+ Enabling export infrastructure is not sufficient to improve export 
+performance, as it requires support from the manufacturers in the 
+region. The support can be in the shape of a trade exhibition, capacity 
+building workshop, or utilising trade promotion schemes to help 
+the manufacturers. Creating a database of exporters helps a state in 
+recording and analysing its export profile. This can also facilitate a state 
+in identifying niche products which require more assistance at first, but 
+can contribute to a region’s competitive advantage over the years. 
+3.2.1 
+3.2.1.A
+3.2.1.B
+ 
+1
+1
+ 
+0
+ 
+0
+0
+0
+ 
+ 
+ 
+ 
+Trade Infrastructure for Export 
+Schemes (TIES)
+Have the states applied for TIES 
+scheme ?
+Projects approved under Trade 
+Infrastructure for Export Schemes 
+(TIES)
+The Government of India has launched TIES with the objective to assist 
+Central and State Government Agencies for creation of appropriate 
+infrastructure for growth of exports from the States. The Scheme 
+provides financial assistance in the form of grant-in-aid to Central/State 
+Government owned agencies for setting up or for up- gradation of 
+export infrastructure as per the guidelines of the Scheme.

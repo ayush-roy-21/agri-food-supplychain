@@ -1,0 +1,96 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-104-C33
+Parent Doc ID: A-RES-104
+Page Range: Page 11
+Word Range: 8352 - 8601
+Word Count: 250
+--------------------
+
+[Page 11]
+Xue et al. 10.3389/fsufs.2025.1649834
+Frontiers in Sustainable Food Systems 11 frontiersin.org
+food and dietary health in Africa. As a result, many people are now 
+struggling with poverty and hunger. Agricultural food networks and 
+low-income communities are more exposed to increasing energy 
+costs, and high food prices worsen malnutrition and dietary 
+standards (Arndt et al., 2023). The war between Russia and Ukraine 
+has significantly impacted worldwide food availability. Across Africa 
+and other regions reliant on imports, the conflict underscores the 
+vulnerability of food systems. We require more positive approaches 
+toward improving the global food supply. Furthermore, creating 
+resilient and diversified supply chains is necessary (Ben Hassen and 
+El Bilali, 2022; Hatab, 2022).
+Natural disasters like floods in Pakistan, droughts in East Africa, 
+and wildfires in Australia damage agricultural food supply chains and 
+result in significant economic and social losses. In 2015/2016, 
+southern Africa experienced severe droughts associated with El Niño 
+that destroyed crops and livestock, leaving around 40 million 
+individuals requiring global support (Nhamo et al., 2019). Climate 
+change-related disasters like wildfires and droughts can devastate 
+agriculture, leading to crop failures, escalating food costs, heightened 
+poverty, and inadequate access to nutrition, especially in trade-
+dependent countries with vulnerable agricultural systems (Verschuur 
+et al., 2021). Natural calamities harm the economy in many ways. For 
+example, it will affect agricultural production, market access, trade, 
+and food supply. Also, it will negatively impact farm income and 
+employment generation. Increased food insecurity and malnutrition 
+is likely to impact the poorest communities most (Tirivangasi, 2018). 
+After climate-related shocks damage agriculture, it is essential to have 
+strong and resilient AFSC to ensure sustainable food systems. 
+Measures to mitigate these risks could be to adopt the Industry 4.0 
+technology, make traceability systems, cooperate and agility, and 
+invest in irrigated agriculture and more variety of crops (Zhao et al., 
+2017; Nhamo et  al., 2019 ; Ali and Govindan, 2021 ). Adaptation 
+interventions and policies that assist agricultural communities to 
+establish resilient systems are crucially important (Tirivangasi, 2018; 
+Nhamo et al., 2019).
+FIGURE 5
+Timeline of recent disruptions in agri-food systems.
+TABLE 3 Classification of agri-food disruptions by event type.
+Disruption type Nature of impact Region Outcome References
+COVID-19 Pandemic Labor shortages, supply chain 
+disruptions, shift from food service to 
+retail
+Global; Sri Lanka; 
+Developing nations
+Food losses, higher transport costs, 
+SME collapse, digitalization 
+acceleration
+Hobbs (2021), Abu Nahleh et al. 
+(2023), and Swinnen and Vos 
+(2021)
+Russia-Ukraine Conflict Grain and fertilizer supply shocks, 
+inflation, trade route disruption
+Africa, Middle East, 
+Global Importers
+Wheat shortages, rising fuel and 
+food prices, increased poverty and 
+hunger
+Hatab (2022), Hussein and Knol 
+(2023), and Liu L. et al. (2023)
+Pakistan Floods Massive crop and infrastructure 
+destruction due to heavy rainfall
+Pakistan Agricultural and economic loss, 
+food insecurity, displacement
+Referenced indirectly in broader 
+natural disasters context
+East African Drought Long-term drought reducing 
+agricultural productivity and increasing 
+food insecurity
+East Africa Food shortages, livestock deaths, 
+international aid requirement for 
+40 million people
+Nhamo et al. (2019) and 
+Tirivangasi (2018)
+Australian Wildfires Fires damaging farms and supply chains Australia Crop destruction, loss of 
+biodiversity, supply chain 
+interruption
+Verschuur et al. (2021) and 
+Tirivangasi (2018)
+Southern Africa El Niño 
+Drought (2015/16)
+El Niño-linked drought caused crop and 
+livestock loss
+Southern Africa Millions requiring food aid, income 
+and employment loss
+Nhamo et al. (2019)

@@ -1,0 +1,56 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C14
+Parent Doc ID: A-RES-100
+Page Range: Page 21
+Word Range: 4068 - 4345
+Word Count: 278
+--------------------
+
+[Page 21]
+Diagram adapted from Greenhouse Gas Protocol (2024)
+21
+Companies are under increasing pressure to measure and report
+emissions, especially those with public sustainability goals or
+operations in the EU. Under the Greenhouse Gas Protocol, Scope 1
+covers direct emissions, Scope 2 covers purchased energy, and
+Scope 3 covers all other indirect emissions across the value chain .
+Scope 3 is the most difficult to measure and manage, yet it typically
+accounts for more than 75% of a company’s total footprint. 
+5
+While many companies have become proficient at reporting Scope 1
+and 2, Scope 3 remains a major challenge. More than 40% of
+businesses track and reduce Scope 1 and 2 emissions, but less than
+half of those are tracking and reducing their Scope 3 emissions—
+especially in Categories 1 (Purchased Goods and Services), 4
+(Upstream Transport), and 9 (Downstream Transport/Distribution).
+The complexity of global supply chains, data availability, and
+methodological choices all contribute to this gap, underscoring why
+Scope 3 is the linchpin of credible climate strategies.
+Measuring What Matters: Insights into Scope 3 Emissions
+Challenges and Current State
+Issue No.06
+Spreadsheets
+dominate (66%)
+Scope 3
+measurement,
+underscoring
+both progress in
+coverage and the
+urgent need for
+scalable, tech-
+enabled solutions.
+Includes energy that your company
+purchases, but does not generate it or 
+its emissions, This is why it is indirect
+emissions.
+Includes fuels you burn directly and
+applies to your company if you pay
+the fuel bill or own the asset.
+Includes all other indirect emissions that occur in a
+company’s value chain and usually are the greatest
+source of emissions. These are the 15 categories
+that represent upstream and downstream activities
+classified as Scope 3 by GHG Protocol
+distribution
+distribution
+activities

@@ -1,0 +1,164 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-108-C31
+Parent Doc ID: A-RES-108
+Page Range: Page 8
+Word Range: 7659 - 7908
+Word Count: 250
+--------------------
+
+[Page 8]
+Sustainable Production and Consumption 39 (2023) 203–215
+210
+behavioral barriers (C5) and strategic barriers (C6). The critical barriers 
+were identified and assessed using BWM-LBWA methods. Section 4 
+presents the results obtained using both methods. 
+According to the findings, ‘organisational barriers’ are the most 
+important in the FSC for achieving SPC. The organisational context in -
+cludes internal focal firm concerns (Kouhizadeh et al. (2021). Interdis -
+ciplinary participation must be increased to instill sustainability into the 
+processes. According to Kouhizadeh et al. (2021), one of the primary 
+adoption barriers for sustainable supply chains is a lack of experts and 
+limited knowledge of blockchain technology; this is classified as an 
+‘organisational barrier’. A lack of commitment from top management is 
+also a critical issue in blockchain implementation (Mangla et al., 2017). 
+According to the findings, the most significant barriers are ‘organ -
+isational barriers,’ followed by ‘strategic barriers’. Organisations are 
+challenged to adapt to changes due to internal weaknesses and mindsets; 
+organisational barriers are the most significant barriers to environ -
+mental management. The current findings are consistent with previous 
+research. An organisation may be uneasy about implementing new 
+technology that would result in new sustainable practices that could 
+have a negative impact on perceived ease of use (Kamble et al., 2019; 
+Annosi et al., 2019). The current study lists the main criteria ‘organ -
+isational barriers’ containing six sub-barriers. ‘Lack of change manage -
+ment capabilities’ received the highest weight, followed by ‘less skilled 
+workforce.’ This demonstrates that organisational culture has always 
+acted as a barrier to change, causing businesses to be wary of digital 
+technologies (Bellantuono et al., 2021). Because of a scarcity of experts 
+in the field, organisations are sometimes unable to adapt to radical 
+changes that are required in production (Mukhuty et al., 2022). Previous 
+research has shown that technological advancements and upgrades are 
+required to facilitate resource/material efficiency and to improve sus -
+tainable production and processes (Balachandra et al., 2010; Mangla 
+et al., 2017). George et al. (2021) investigated innovative digital tech -
+nologies that provide an effective means of addressing sustainability- 
+related challenges. To achieve sustainable development, organisations 
+must undergo fundamental and transformative change in their capa -
+bilities. A significant concern for organisations is the lack of a skilled 
+workforce. This gap is widening as the pace of change quickens, 
+resulting in stagnant growth for the organisation (Kumar et al., 2021). 
+To achieve sustainable development, organisations must undergo 
+fundamental and transformative change in their capabilities. 
+Strategic barriers are the second most important. ‘Lack of training for 
+developing skilled workers’ received the second highest weight. Ac -
+cording to previous literature, the sources of long-term challenges are a 
+lack of a strategic approach by an organisation and its inability to 
+implement technologies in their supply chains to improve SPC (Guna -
+sekaran and Spalanzani, 2012; Dora et al., 2021). Strategic planning is 
+inadequate for digital technology implementation in order to create a 
+sustainable model for FSC production and consumption. This main 
+barrier has five sub-barriers, the most important of which is ‘lack of 
+training support’, highlighting the absence of a coordinated approach to 
+implementation. ‘Lack of agility and insufficient encouragement to 
+innovate’ is another barrier impeding the implementation of digital 
+technologies. Dora et al. (2021) discovered that technology readiness, 
+regulatory compliance, competitor pressure and information sharing 
+among partners are the primary factors driving AI adoption in the FSC. 
+Organisations must prioritise by responding quickly to the changing 
+needs of stakeholders, particularly customers. To cope with the dynamic 
+environment, supply chains must be made more agile (Farahani et al., 
+2014; Do et al., 2021). This is possible with the implementation of 
+advanced technologies in supply chains. 
+Table 7 
+Global weights.  
+Main Criteria Code Sub-Criteria Main criteria 
+(Weights) 
+Sub-criteria 
+(Weights) 
+Global 
+weights 
+Rank 
+Regulations and policy barriers, 
+REG (C
+1
+) 
+BSPC1 Weak environmental regulations for FSC  0.1660  0.114  0.0189  15 
+BSPC2 Lack of standardized framework and standards  0.133  0.0220  14 
+BSPC3 Lack of stringent national policy for sustainable production and 
+consumption / or CE policy  
+0.164  0.0271  13 
+Financial barriers, FIB (C
+2
+) BSPC4 Limited funds  0.1130  0.114  0.0129  16 
+BSPC5 High operational cost  0.142  0.0161  17 
+Organisational barriers (C
+3
+) BSPC6 Lack of experts  0.2742  0.107  0.0293  12 
+BSPC7 Lack of change management capabilities  0.318  0.0872  1 
+BSPC8 Less skilled workforce  0.158  0.0433  3 
+BSPC9 Benchmarking/Standards  0.152  0.0417  4 
+BSPC10 Risk-averse culture  0.137  0.0376  7 
+BSPC11 Lack of IT infrastructure/ technical incompetency  0.133  0.0365  9 
+Supply chain-related barriers, 
+SCB (C
+4
+) 
+BS5C12 Lack of cross-sector collaboration/ inability to work across silos  0.1028  0.318  0.0327  10 
+BSPC13 Aversion of the supply chain members to exchange information  0.100  0.0103  18 
+BPSC14 Lack of support from SC actors  0.085  0.0087  19 
+Behavioral barriers BAB (C
+5
+) BPSC15 Less priority of the firms  0.0955  0.065  0.0062  21 
+BSPC16 Lack of interest and commitment by top-level management  0.089  0.0085  20 
+Strategic barriers, SAB (C
+6
+) BSPC17 Lack of technology know-how for implementation  0.2484  0.153  0.0380  6 
+BPSC18 Lack of training to develop the skilled workforce  0.192  0.0477  2 
+BPSC19 Absence of environmental education  0.122  0.0303  11 
+BPSC20 Lack of circular design aspect  0.148  0.0368  8 
+BPSC21 A lack of agility and insufficient encouragement towards 
+innovation/lack of readiness  
+0.159  0.0395  5  
+Table 8 
+LBWA weightage of criteria.  
+Criteria LBWA weightage Ranking 
+C
+1  
+0.1689  2 
+C
+2  
+0.1206  4 
+C
+3  
+0.2816  1 
+C
+4  
+0.1299  3 
+C
+5  
+0.1299  3 
+C
+6  
+0.1689  2  
+Table 9 
+Aggregated weight calculations.  
+Criteria LBWA weightage BWM weightage Aggregated weightage Rank 
+C
+1  
+0.1689  0.1660  0.150  3 
+C
+2  
+0.1206  0.1130  0.073  4 
+C
+3  
+0.2816  0.2742  0.414  1 
+C
+4  
+0.1299  0.1028  0.072  5 
+C
+5  
+0.1299  0.0955  0.066  6 
+C
+6  
+0.1689  0.2484  0.225  2  
+M. Sharma et al.

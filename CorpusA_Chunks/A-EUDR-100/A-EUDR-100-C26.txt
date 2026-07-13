@@ -1,0 +1,132 @@
+--- CHUNK HEADER ---
+Chunk ID: A-EUDR-100-C26
+Parent Doc ID: A-EUDR-100
+Page Range: Page 7
+Word Range: 6364 - 6613
+Word Count: 250
+--------------------
+
+[Page 7]
+address corruption to gain recognition for audits and credibility of cer -
+tification schemes anchored in sustainability standards and conformity 
+assessments ( Castka et al., 2023 ; Hassani et al., 2021 ; Nygaard, 2023 ). 
+This would cut duplicative costs for audits and facilitate trade with the 
+EU as well as other trade partners ( Greenleaf and Cottier, 2022 ; Pham 
+et al., 2025 ).
+At the international level, regional bodies such as the African Union, 
+ASEAN or sub-regional economic communities could increase efforts to 
+develop new frameworks that support producer countries in developing 
+consistent data governance regimes. First, regional bodies could estab -
+lish a forum of data-protection authorities to coordinate enforcement 
+and redress ( Greenleaf and Cottier, 2022 ). Thus, producers are not 
+locked into bespoke buyer terms. Second, programs like the EU's Team 
+Europe Initiative could upscale support for producers through measures 
+such as training programs and joint procurement of traceability tools 
+( Burni et al., 2022 ; Directorate-General for International Partnerships, 
+2023 ; McDermott et al., 2025 ; Steinke et al., 2024 ). While participation 
+in these initiatives is at the discretion of the producer countries [EUDR- 
+Recital 29], broader awareness-raising by the EU is imperative to 
+encourage wider coverage and ensure the fair and inclusive imple -
+mentation of the Regulation ( Srivastava and Banerjee, 2025 ). Similarly, 
+producer countries should collaborate with the EU for expanded and 
+targeted technical and financial support through existing initiatives to 
+develop robust traceability systems ( Muradian et al., 2025 ; Srivastava 
+and Banerjee, 2025 ). For instance, together with the EU, producer 
+countries could define clear requirements for the data and documents 
+needed for each country, like the Country Conclusions and Country 
+Profile, developed for some countries under the EUTR ( EUTR Expert 
+Group, 2020 ; UNEP-WCMC, 2018 ). Finally, any data monetisation 
+should be paired with benefit-sharing, producer consent and sovereign 
+oversight to avoid undesirable outcomes in the growing field of data 
+transfer ( Gani and Marshall, 2022 ). Specifically, benefit-sharing mech -
+anisms could be executed by producer-controlled intermediaries e.g., 
+cooperatives or data trusts, that set purpose-limited access and use 
+conditions for shared datasets ( Delacroix and Lawrence, 2019 ; 
+ˇ
+Sestak 
+and Copot, 2023 ; van der Burg et al., 2021 ). Likewise, buyers of data- 
+enhanced claims or services can adopt revenue-sharing contracts with 
+explicit minimum producer shares e.g., a certain percentage of ex- 
+factory price or net surplus, and transparent escrowed payouts, consis -
+tent with supply chain coordination literature and cooperative-centred 
+models (
+ˇ
+Sestak and Copot, 2023 ; van der Burg et al., 2021 ).
+5. Conclusions
+The EUDR has been analysed through different lenses e.g. human 
+right and environmental due diligence ( Solar et al., 2025 ) or radical 
+transformation ( Verhaeghe and Ramcilovic-Suominen, 2024 ), and 
+compared to other supply chain legislations and voluntary sustainability 
+standards ( Cosimo et al., 2024 ; Partzsch, 2025 ). This article comple -
+ments existing work by applying an economic lens to analyse the im -
+plications of compliance data requirements. We investigated how the 
+distribution of the administrative cost depends on the supply and de -
+mand elasticities, outlined possibilities for data monetisation and 
+assessed data protection issues. We derive the following four main 
+conclusions:
+Firstly, in our small comparative statics analysis, we found that the 
+compliance cost may give rise to unintended price and quantity effects. 
+Price effects play out especially if consumers are elastic, i.e. can quickly 
+shift to a substitute product while producers are confronted with path 
+dependencies. Quantity effects are of concern when producers' supply is 
+elastic and the substitute is an illicit commodity. We recommend that EU 
+and producer country governments should vigilantly observe for such 
+undesirable shifts. Counter measures could include EU co-financing of 
+compliance cost or programs to support the cultivation of legal substi -
+tute commodities. However, it is important to note that this analysis was 
+done from a forward-looking perspective and remains purely 
+conceptual. Prior to the implementation of the EUDR, the findings of the 
+comparative statics analysis obviously cannot be tested empirically.
+Secondly, we discuss data monetisation as a potential way to offset 
+producer costs of collecting EUDR compliance data. However, this 
+pathway requires very careful consideration of the risks outlined. While 
+selling data can be an opportunity, it is key that this business is con -
+ducted under a robust data governance framework that was deliberated 
+with producers, especially in contexts of still nascent and emerging 
+national data laws and authorities.
+Thirdly, empirical evidence on whether analytics materially offset 
+compliance costs without creating privacy concerns ( Liu, 2022 ) or eq -
+uity risks remains limited. We therefore recommend pilot projects with 
+independent evaluation before data commercialisation. This will help to 
+ensure that progress on the EUDR is consistent with fairness, inclusion 
+and the broader aims of sustainable global value chains.
+Fourthly, we argue that data justice is a relevant instrument with 
+various dimensions: procedural, instrumental, distributive, rights-based 
+and structural ( Ruder and Wittman, 2025 ). It can be defined as ‘fairness 
+in the way people are made visible, represented and treated as a result of 
+their production of digital data ’ ( Taylor, 2017 ) and revolves around 
+giving people choices of being (in)visible, (dis)engaging with technol -
+ogy as well as antidiscrimination. We emphasise data justice as a focal 
+point for governance. Hence, integrating it into extension work and 
+raising awareness on data rights and responsibilities among producers 
+could advance fair use and equitable benefit sharing ( Ofulue and 
+Benyoucef, 2024 ; Ruder and Wittman, 2025 ).
+Future research could evaluate the benefits of traceability-based 
+datafication of sustainability transition policies and the potential of 
+jurisdictional approaches to reduce compliance complexity for small -
+holders. Furthermore, research should explore privacy-preserving data 
+technologies to strengthen protection and fairness in the use of big data 
+( Tajabadi et al., 2024 ). Finally, producer countries, especially African 
+countries, should see the EUDR as an opportunity to strengthen regional 
+integration and to focus more on intra-continental trade, to prospec -
+tively reduce dependency on foreign trade partners like the EU.
+CRediT authorship contribution statement
+Lydia Afriyie-Kraft: Writing – original draft, Methodology, Inves -
+tigation, Formal analysis, Conceptualization. Astrid Zabel: Writing – 
+original draft, Supervision, Funding acquisition, Conceptualization. 
+Thomas Breu: Writing – review & editing, Supervision, Funding 
+acquisition.
+Declaration of competing interest
+The authors declare the following financial interests/personal re -
+lationships which may be considered as potential competing interests: 
+Professor Thomas Breu reports financial support was provided by Velux 
+Stiftung. If there are other authors, they declare that they have no known 
+competing financial interests or personal relationships that could have 
+appeared to influence the work reported in this paper.
+Acknowledgements
+This research was supported by the Velux Stiftung Grant number 
+2157.
+Data availability 
+No data was used for the research described in the article.
+L. Afriyie-Kraft et al.                                                                                                                                                                                                                           Forest Policy and Economics 184 (2026) 103709 
+7

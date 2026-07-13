@@ -1,0 +1,92 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C43
+Parent Doc ID: A-RES-103
+Page Range: Page 26 to Page 27
+Word Range: 11637 - 11886
+Word Count: 250
+--------------------
+
+[Page 26]
+25 
+kidney, fat & skin, body fluid (serum), farm water and feed.  At the time of the visit, no 
+validation had been performed for these other matrices. In this respect there has been no 
+change to what was found during the 2018 audit  and thus Recommendation 3 of that 
+audit report has not been addressed fully.  The use of unvalidated methods for official 
+controls testing is contrary to what would be required in the EU (55). Evidence was seen 
+of the inclusion of a recovery check spiked matrix for non- validated matrices in recent 
+analysis batches for anticoccidials (B2b) in liver.  Whilst this is a sensible approach, 
+there was no documented procedure indicating how the recovery data was applied to 
+mitigate the non-validated status of these matrices and the laboratory had yet to analyse 
+these recovery data with a view to validating matrices other than poultry muscle.  
+73. During the audit, the laboratory proposed to submit data for a two- day mini validation 
+for the outstanding matrices. After the audit, validation results  were submitted to the 
+audit team for tetracyclines, quinolones and sulphonamides (Group B1) in kidney, liver 
+and fat by LC -MS/MS. The files r eceived did not include a comparison of the 
+calculated validation parameters for the new matrices to poultry muscle. Thus the audit 
+team could still not conclude that the method was fit for purpose for matrices other than 
+muscle. No further validation details were received for any of the other laboratory 
+methods in poultry matrices.  
+5.1.6.4 MPEDA Kochi 
+74. The audit team assessed the validation files for the following methods: 
+- nitrofurans and chloramphenicol (Group A6) in shrimp and fish by LC-MS/MS; 
+- malachite green (Group B3e) in shrimp and fish by LC-MS/MS; 
+- tetracyclines, sulphonamides and beta-lactams (Group B1) in shrimp and fish by LC-
+MS/MS. 
+All of these methods were found to be adequately validated with appropriate validation 
+criteria and concentration ranges applied in line with Decision 2002/657/EC which was 
+in force at the time of the validation . H owever, not all methods met the validation 
+requirements laid down in the most recent EU legislation (Regulation (EU) 2021/808).  
+The laboratory indicated that activities have already commenced to meet these more 
+recent EU requirements. 
+5.1.6.5 MPEDA Bhubaneswar 
+75. The audit team assessed the validation files for the following methods: 
+- nitrofurans (Group A6) in shrimp and finfish by LC-MS/MS; 
+- dyes (Group B3e) in shrimp and finfish by LC-MS/MS; 
+- tetracyclines and quinolones (Group B1) in shrimp and finfish by LC-MS/MS; 
+- chloramphenicol (Group A6) screening in shrimp by ELISA (PHT); 
+- nitrofurans (Group A6) screening in shrimp by ELISA (PHT). 
+ 
+(55) Article 3 of Regulation (EU) 2021/808.
+
+[Page 27]
+26 
+In spite of the fact that the laboratory no longer tests finfish (in either the 2021 or 2022 
+residue monitoring plans), t he majority of these methods were found to be adequately 
+validated with appropriate validation criteria and concentration ranges applied in line 
+with the EU Decision (2002/657/EC)  in force at the time of the validation , though not 
+all methods met the validation requirements laid down in Regulation (EU) 2021/808.  
+ 
+Conclusions on laboratories 
+76. Relative to the 2018 audit, improvements have  been made in  the performance 
+of 
+residue testing laboratories, particularly in respect of aquaculture products.  
+Nevertheless, there is still a sizable number of analytical methods for residues in 
+poultry matrices (other than muscle) which have yet to be validated, and in this respect 
+there has been little progress since 2018.   
+5.2 VETERINARY MEDICINAL PRODUCTS 
+5.2.1 Authorisation, distribution and use of veterinary medicinal products  
+77. The manufacture, import, sale and distribution of drugs and drug products are regulated 
+under the Drugs and Cosmetics Act (1940) and Rules (1945) both for human and 
+veterinary medicinal products. It is implemented at national level by the Central Drugs 
+Standard Control Organisation (CDSCO) (under the Directorate -General of Health 
+Services of the Ministry of Health and Family Welfare) an d at state level by their State 
+Drug Licensing Authorities  (SDLA). The CDSCO is responsible, inter alia , for the 
+approval of new drugs (granted for 4 years), based on which the SDLA can approve the 
+manufacturing of the drug in their state with a license validity of 5 years. 
+78. Drug manufacturers and wholesalers for veterinary medicinal products must be 
+authorised ( licensed) similar to what is required in the EU  (56). R etail outlets also 
+require a licence prior to being allowed to sell veterinary medical products. This is done 
+by the SDLA in the state / state region in which they operate  with licenses that are up 
+for renewal every five years. The CDSCO stated that there are ap proximately 600,000 
+registered drug outlets/pharmacies registered in India.  All of the wholesalers and 
+pharmacies visited during the audit had valid licenses. 
+79. Drugs (for veterinary or human use) which include substances that require a 
+prescription by a qualified practitioner (doctor or veterinarian) are listed in schedule H 
+and H1 of the Drugs and Cosmetics Act and Rules. The most recent version of schedule 
+H (31.12. 2016) lists 536 substances , of which only a few are relevant for use in food-
+producing animals. Schedule H1, includes 46 substances which include antimicrobials 
+such as 3rd and 4th generation cephalosporins and some quinolones. 
+80. The list of schedule H substances includes the term “ antibiotics” and lists furthermore 
+several specific anti microbial substances. The competent authority informed the audit 
+ 
+(56) Articles 88 and 99 of Regulation (EU) 2019/6.

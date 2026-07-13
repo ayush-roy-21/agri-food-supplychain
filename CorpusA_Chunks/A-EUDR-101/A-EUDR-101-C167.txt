@@ -1,0 +1,53 @@
+--- CHUNK HEADER ---
+Chunk ID: A-EUDR-101-C167
+Parent Doc ID: A-EUDR-101
+Page Range: Page 50
+Word Range: 43733 - 43982
+Word Count: 250
+--------------------
+
+[Page 50]
+(b) the f ollowi ng point is inser ted:
+‘16a. “k ey sustainability par tner(s)” means:
+(a) the statut or y auditor(s) designate d by an audit fi r m f or a par ticular assurance engag ement concer ning 
+sustainability repor ting as being pr imar ily responsible f or car r ying out the assurance of sustainability 
+repor ting on behalf of the audit fi r m; or
+(b) in the case of the assurance of consolidate d sustainability repor ting at least the statutor y auditor(s) 
+designate d by an audit fir m as being pr imar ily responsible f or car r ying out the assurance of 
+sustainability repor ting at the level of the group and the statutor y auditor(s) designat ed as being 
+pr imar ily responsible at the level of mater ial subsidiar ies; or
+(c) the statut or y auditor(s) who sign(s) the assurance repor t on sustainability repor ting ref er red to in 
+Ar ticle 28a;’;
+(c) the f ollowi ng points are added:
+‘21. “sustainability repor ting” means sustainability repor ting as def ined in point (18) of Ar ticle 2 of Directive 
+2013/34/EU;
+22. “assurance of sustainability repor ting” means the perf or mance of procedures resulting in the opinion 
+expressed by the statutor y auditor or audit fi r m in accordance with point (aa) of the second subparagraph 
+of Ar ticle 34(1) and Ar ticle 34(2) of Directive 2013/34/EU;
+23. “independent assurance ser vices provider” means a conf or mity assessment body accredit ed in accordance 
+with Regulation (EC) No 765/2008 of the European Parliament and of the Council (*) f or the specifi c 
+conf or mity assessment activity ref er red to in point (aa) of the second subparagraph of Ar ticle 34(1) of 
+Directive 2013/34/EU.
+_____________
+(*) Regulation (EC) No 765/2008 of the European P arliament and of the Council of 9 July 2008 setting out the 
+requirements f or accreditation and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).’;
+(3) Ar ticle 6 is replaced by the f ollowi ng:
+‘ Ar ticle 6
+Educational qualif ications
+1. Without prejudice to Ar ticle 11, a natural person ma y be approved to car r y out a statutor y audit only af ter 
+hav ing attained university entrance or equivalent level, then compl eted a course of theoretical instr uction, undergone 
+practical training and passed an examination of profe ssional compet ence of university final or equivalent examination 
+level, organised or recognised by the Member State concer ned.
+2. A natural person ma y , in addition to the approval to car r y out statutor y audits provid ed f or in paragraph 1 of 
+this Ar ticle, be appro ved to car r y out the assurance of sustainability repor ting when the additional specifi c 
+requirements of Ar ticle 7(2), Ar ticle 8(3), the second subparagraph of Ar ticle 10(1) and the f our th subparagraph of 
+Ar ticle 14(2) of this Directive are met.
+3. The compe tent author ities refer red to in Ar ticle 32 shall cooperate with each other with a view to achi eving a 
+conver gence of the requirements set out in this Ar ticle. When engaging in such cooperation, those compet ent 
+author ities shall take into account developments in auditing and in the audit profes sion and, in par ticular , 
+conver gence that has already been achieve d by the profess ion. They shall cooperate with the Committ ee of European 
+Aud iting Oversight Bodies (CEA OB) and the compe tent author ities refe r red to in Ar ticle 20 of Regulation (EU) 
+No 537/2014 in so f ar as such converg ence relates to the statut or y audit and assurance of sustainability repor ting of 
+public-inte rest entities.’;
+EN
+Offi cial Jour nal of the European Uni on L 322/64 16.12.2022

@@ -1,134 +1,111 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-109-C18
 Parent Doc ID: A-RES-109
-Page Range: Page 43 to Page 44
-Word Range: 24079 - 25417
-Word Count: 1,339
+Page Range: Page 9
+Word Range: 4763 - 5012
+Word Count: 250
 --------------------
 
-[Page 43]
-O’Neill, K.J. (2014), “Situating the ‘alternative’ within the ‘conventional’– local food experiences
-from the East Riding of Yorkshire, UK ”, Journal of Rural Studies , Vol. 35, pp. 112-122, available at:
-https://doi.org/10.1016/j.jrurstud.2014.04.008 [277]
-Othman, B., Md. Shaarani, S. and Bahron, A. (2017), “The influence of knowledge, attitude
-and sensitivity to government policies in halal certification process on organizational performance”, Journal
-of Islamic Marketing, Vol. 8 No. 3, pp. 393-408, available at: https://doi.org/10.1108/JIMA-09-2015-0067 [67]
-Othman, B., Shaarani, S.M. and Bahron, A. (2016), “Evaluation of knowledge, halal quality
-assurance practices and commitment among food industries in Malaysia ”, British Food Journal ,
-Vol. 118 No. 8, pp. 2033-2052, available at: https://doi.org/10.1108/BFJ-12-2015-0496 [179]
-Palmieri, N., Forleo, M.B. and Salimei, E. (2017), “Environmental impacts of a dairy cheese chain
-including whey feeding: an Italian case study ”, Journal of Cleaner Production , Vol. 140, pp. 881-889,
-available at: https://doi.org/10.1016/j.jclepro.2016.06.185 [93]
-Pascucci, S., Dentoni, D., Lombardi, A. and Cembalo, L. (2016), “Sharing values or sharing costs?
-Understanding consumer participation in alternative food networks ”, NJAS – Wageningen Journal of
-Life Sciences , Vol. 78, pp. 47-60, available at: https://doi.org/10.1016/j.njas.2016.03.006 [123]
-Pascucci, S., Cicatiello, C., Franco, S., Pancino, B. and Marino, D. (2011), “Back to the future?
-Understanding change in food habits of farmers ’ market customers ”, International Food and
-Agribusiness Management Review , Vol. 14 No. 4, pp. 105-126. [383]
-Payen, S., Falconer, S. and Ledgard, S.F. (2018), “Water scarcity footprint of dairy milk production
-in New Zealand – a comparison of methods and spatio-temporal resolution ”, Science of the Total
-Environment, Vol. 639, pp. 504-515, available at: https://doi.org/10.1016/j.scitotenv.2018.05.125 [445]
-Pérez Neira, D., Soler Montiel, M., Delgado Cabeza, M. and Reigada, A. (2018), “Energy use and
-carbon footprint of the tomato production in heated multi-tunnel greenhouses in Almeria within an
-exporting agri-food system context ”, Science of the Total Environment , 628-629, pp. 1627-1636,
-available at: https://doi.org/10.1016/j.scitotenv.2018.02.127 [467]
-Perrett, A. and Jackson, C. (2015), “Local food, food democracy, and food hubs ”, Journal of
-Agriculture, Food Systems, and Community Development , Vol. 6 No. 1, pp. 7-18, available at: https://doi.
-org/10.5304/jafscd.2015.061.003 [211]
-Perrin, A., Basset-Mens, C. and Gabrielle, B. (2014), “Life cycle assessment of vegetable products: a
-review focusing on cropping systems diversity and the estimation of field emissions ”, International
-Journal of Life Cycle Assessment , Vol. 19 No. 6, pp. 1247-1263, available at: https://doi.org/10.1007/
-s11367-014-0724-3 [283]
-Peter, A., Dibden, J., Higgins, V. and Cocklin, C. (2010), “Competitive productivism and Australia ’s
-emerging ‘alternative’ agri-food networks: producing for farmers ’ markets in Victoria and beyond ”,
-Australian Geographer , Vol. 41 No. 3, pp. 307-322, available at: https://doi.org/10.1080/00049182.2010.
-498038 [395]
-Pinna, S. (2017), “Alternative farming and collective goals: towards a powerful relationships for
-future food policies ”, Land Use Policy , Vol. 61, pp. 339-352, available at: https://doi.org/10.1016/j.
-landusepol.2016.11.034 [59]
-Pokrivcak, J. and Rajcaniova, M. (2014), “Price transmission along the food supply chain in
-Slovakia”, Post-Communist Economies, Vol. 26 No. 4, pp. 555-568, available at: https://doi.org/10.1080/
-14631377.2014.937111 [265]
-Porter, S.D., Reay, D.S., Bomberg, E. and Higgins, P. (2018), “Avoidable food losses and associated
-production-phase greenhouse gas emissions arising from application of cosmetic standards to fresh
-fruit and vegetables in Europe and the UK ”, Journal of Cleaner Production , Vol. 201, pp. 869-878,
-available at: https://doi.org/10.1016/j.jclepro.2018.08.079 [439]
-Porter, S.D., Reay, D.S., Bomberg, E. and Higgins, P. (2018), “Production-phase greenhouse gas
-emissions arising from deliberate withdrawal and destruction of fresh fruit and vegetables under the
-EU’s Common Agricultural Policy ”, Science of the Total Environment , Vols 631-632, pp. 1544-1552,
-available at: https://doi.org/10.1016/j.scitotenv.2018.03.089 [449]
-Poulton, C., Dorward, A. and Kydd, J. (2010), “The future of small farms: new directions for services,
-institutions, and intermediation ”, World Development , Vol. 38 No. 10, pp. 1413-1428, available at:
-https://doi.org/10.1016/j.worlddev.2009.06.009 [387]
-Ramos, S., Larrinaga, L., Albinarrate, U., Jungbluth, N., Ingolfsdottir, G.M., Yngvadottir, E. and
-Perez-Villareal, B. (2016), “SENSE tool: easy-to-use web-based tool to calculate food product
-environmental impact ”, International Journal of Life Cycle Assessment , Vol. 21 No. 5, pp. 710-721,
-available at: https://doi.org/10.1007/s11367-015-0980-x [149]
-61
+[Page 9]
+105 99
+103115 101
+12755
+141
+25
+13
+15
+41
+27
+6539
+111 137
+47
+5133
+3531
+75
+61 69
+81
+109
+5963
+79
+129
+119
+49
+117
+91
+143 145
+85
+125
+13973
+121
+9
+89
+95
+29
+71
+87
+37
+7
+123
+53
+17
+107
+43
+23
+57
+21
+19
+77
+45
+83 97
+1
+67
+135
+Cluster 1
+Cluster 2
+Cluster 3
+Cluster 4
+Figure 3.
+Clustering of the
+bibliographic coupled
+network (2002– 2014)
+Centrality
+Cluster Article[ID] Degree Closeness Betweenness Eigenvector
+1 Reardon et al. (2012) [119] 28 [1] 0.5666 [1] 210.72 [1] 0.3863 [1]
+Blandon et al. (2010) [79] 21 [4] 0.5312 [4] 25.4390 0.3083 [2]
+Minten et al. (2009) [61] 23 [2] 0.5440 [2] 47.14 [5] 0.2977 [3]
+Dries et al. (2009) [63] 23 [3] 0.5440 [3] 49.95 [3] 0.2945 [4]
+Amekawa (2009) [67] 19 0.5037 25.1237 0.2852 [5]
+Neilson (2007) [29] 21 [5] 0.5312 [5] 24.5658 0.283423
+Dries et al. (2014) [129] 17 0.527132 97.33 [2] 0.255
+Gorton et al. (2007a) [35] 13 0.503704 47.35 [4] 0.177016
+2 Freidberg et al. (2011) [89] 35 [1] 0.6415 [1] 216.88 [2] 1 [1]
+Ilbery et al. (2006a) [17] 34 [2] 0.6238 [2] 162.59 [3] 0.9990 [2]
+Higgins et al. (2008) [43] 29 [3] 0.5762 [5] 39.92 [4] 0.9379 [3]
+Peter et al. (2010) [73] 27 [5] 0.561983 11.92 0.9136 [4]
+Risku Norja et al. (2008) [37] 29 [4] 0.5913 [3] 333.50 [1] 0.9133 [5]
+Miewald et al. (2013) [121] 26 0.5862 [4] 20.18 0.895454
+Connell et al. (2008) [45] 24 0.548387 38.54 [5] 0.80648
+3 Croom et al. (2007) [27] 27 [4] 0.5913 [3] 30.25 [5] 0.9057 [1]
+Kottila et al. (2008) [39] 31 [1] 0.6071 [1] 125.37 [3] 0.8916 [2]
+Fischer et al. (2009) [65] 31 [2] 0.6071 [2] 136.75 [2] 0.8512 [3]
+Leat et al. (2008) [41] 28 [3] 0.5862 [4] 192.25 [1] 0.7931 [4]
+Zander et al. (2014) [141] 12 [5] 0.4892 [5] 35.60 [4] 0.1918 [5]
+4 Mueller et al. (2014) [127] 6 [1] 0.3976 [1] 59.49 [2] 0.0442 [1]
+Van der Werf et al. (2009) [55] 5 [3] 0.3908 [2] 40.34 [4] 0.0431 [2]
+Flysjö et al. (2011) [103] 5 [4] 0.3906 [3] 68.28 [1] 0.0430 [3]
+Tarawali et al. (2011) [105] 3 0.3617 [4] 46.64 [3] 0.0127 [4]
+Christie et al. (2011) [101] 6 [2] 0.3177 [5] 14.60 [5] 0.0102 [5]
+Christie et al. (2012) [115] 4 [5] 0.290598 0.66 0.006975
+Table VI.
+The values and ranks
+[in bracket] of top 5
+articles based on at
+least one of the four
+measures of centrality
+during the period
+2002– 2014
+27
 Supply chain
 issues in SME
 food sector
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 44]
-Raut, R.D., Gardas, B.B., Kharat, M. and Narkhede, B. (2018), “Modeling the drivers of post-harvest
-losses – MCDM approach”, Computers and Electronics in Agriculture, Vol. 154, pp. 426-433, available at:
-https://doi.org/10.1016/j.compag.2018.09.035 [441]
-Reardon, T. and Timmer, C.P. (2012b), “The economics of the food system revolution ”, Annual
-Review of Resource Economics , Vol. 4, pp. 14.1-14.40, available at: https://doi.org/10.1146/annurev.
-resource.050708.144147 [357]
-Reardon, T., Timmer, C.P. and Minten, B. (2012a), “Supermarket revolution in Asia and emerging
-development strategies to include small farmers ”, Proceedings of the National Academy of Sciences ,
-Vol. 109 No. 31, pp. 12332-12337, available at: https://doi.org/10.1073/pnas.1003160108 [345]
-Repar, N., Jan, P., Dux, D., Nemecek, T. and Doluschitz, R. (2017), “Implementing farm-level
-environmental sustainability in environmental performance indicators: a combined global-local
-approach”, Journal of Cleaner Production , Vol. 140, pp. 692-704, available at: https://doi.org/10.1016/j.
-jclepro.2016.07.022 [89]
-Ridoutt, B.G., Sanguansri, P., Freer, M. and Harper, G.S. (2012), “Water footprint of livestock:
-comparison of six geographically defined beef production systems ”, International Journal
-of Life Cycle Assessment , Vol. 17 No. 2, pp. 165-175, available at: https://doi.org/10.1007/s11367-0
-11-0346-y [353]
-Risku-Norja, H., Hietala, R., Virtanen, H., Ketomäki, H. and Helenius, J. (2008), “Localisation of
-primary food production in Finland: production potential and environmental impacts of food
-consumption patterns ”, Agricultural and Food Science , Vol. 17 No. 2, pp. 127-145, available at:
-https://doi.org/10.2137/145960608785328233 [417]
-Roibás, L., Elbehri, A. and Hospido, A. (2016), “Carbon footprint along the Ecuadorian banana
-supply chain: methodological improvements and calculation tool ”, Journal of Cleaner Production ,
-Vol. 112 No. 4, pp. 2441-2451, available at: https://doi.org/10.1016/j.jclepro.2015.09.074 [167]
-Ross, N.J. (2006), “How civic is it? Success stories in locally focused agriculture in Maine”, Renewable
-Agriculture and Food Systems , Vol. 21 No. 2, pp. 114-123, available at: https://doi.org/10.1079/RAF200
-5134 [429]
-Roy, H., Hall, C.M. and Ballantine, P.W. (2017), “Trust in local food networks: the role of trust
-among tourism stakeholders and their impacts in purchasing decisions ”, Journal of Destination
-Marketing and Management , Vol. 6 No. 4, pp. 309-317, available at: https://doi.org/10.1016/j.jdmm.20
-17.07.002 [3]
-Roy, V., Charan, P., Schoenherr, T. and Sahay, B.S. (2016), “Ensuring supplier participation towards
-addressing sustainability-oriented objectives of the mid-day meal supply chain: insights from the
-Akshaya Patra Foundation ”, The International Journal of Logistics Management , Vol. 19 No. 1,
-pp. 456-475, available at: https://doi.org/10.1108/IJLM-12-2016-0297 [461]
-Sage, C. (2003), “Social embeddedness and relations of regard: alternative ‘good food’
-networks in
-south-west Ireland”, Journal of Rural Studies , Vol. 19 No. 1, pp. 47-60, available at: https://doi.org/10.10
-16/S0743-0167(02)00044-X [437]
-Saltini, R., Akkerman, R. and Frosch, S. (2013), “Optimizing chocolate production through
-traceability: a review of the influence of farming practices on cocoa bean quality ”, Food Control, Vol. 29
-No. 1, pp. 167-187, available at: https://doi.org/10.1016/j.foodcont.2012.05.054 [341]
-Sauer, J., Gorton, M. and White, J. (2012), “Marketing, cooperatives and price heterogeneity:
-evidence from the CIS dairy sector ”, Agricultural Economics , Vol. 43 No. 2, pp. 165-177, available at:
-https://doi.org/10.1111/j.1574-0862.2011.00574.x [351]
-Schifani, G., Romeo, P., Dara Guccione, G., Schimmenti, E., Columba, P. and Migliore, G. (2016),
-“Conventions of quality in consumer preference toward local honey in southern Italy ”, Quality – Access
-to Success , Vol. 17, pp. 92-97. [131]
-Schneider, S., Salvate, N. and Cassol, A. (2016), “Nested markets, food networks, and new pathways
-for rural development in Brazil ”, Agriculture, Vol. 6 No. 4, pp. 61, available at: https://doi.org/10.3390/
-agriculture6040061 [101]
-Schulze-Ehlers, B., Steffen, N., Busch, G. and Spiller, A. (2014), “Supply chain orientation in SMEs
-as an attitudinal construct ”, Supply Chain Management: An International Journal , Vol. 19 No. 4,
-pp. 395-412, available at: https://doi.org/10.1108/SCM-07-2013-0241 [299]
-Schupp, J.L. (2017), “Cultivating better food access? The role of farmers ’ markets in the US
-local food movement ”, Rural Sociology, Vol. 82 No. 2, pp. 318-348, available at: https://doi.org/10.1111/
-ruso.12124 [39]
-62
-JAMR
-17,1
 Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

@@ -1,276 +1,53 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-102-C04
 Parent Doc ID: A-MSME-102
-Page Range: Page 29 to Page 33
-Word Range: 3932 - 5272
-Word Count: 1,341
+Page Range: Page 16 to Page 17
+Word Range: 859 - 1108
+Word Count: 250
 --------------------
 
-[Page 29]
-29
-To successfully address these barriers, it’s essential to focus beyond cost reduction 
-techniques. Enhancing efficiency, improving the quality of products and services, and 
-speeding up production and delivery are key. This improvement relies on better use of 
-resources and labor, fostering a culture of learning and innovation, upgrading processes, 
-and broadening sales avenues. Adopting such a comprehensive approach is vital for MSMEs 
-aiming to integrate themselves in the global value chain. (Caspari, 2003)
-A low FVA-to-DVX ratio, where 
-a lower (or higher) ratio implies 
-a more active involvement in 
-upstream (or downstream) 
-tasks within global value chains 
-(GVCs). A lower ratio indicates 
-a heightened concentration on 
-supplying primary products or 
-engaging in natural resource-
-intensive and low-value-added 
-activities. This characteristic 
-positions India among 
-developing countries, offering 
-insights into its distinct role in 
-GVCs and its focus on specific 
-segments of the production 
-chain.
-1200000000
-1000000000
-800000000
-600000000
-400000000
-200000000
-0.00
-China
-China
-China
-India
-India
-India
-Indonesia
-Indonesia
-Indonesia
-Thailand
-Thailand
-Thailand
-Viet Nam
-Viet Nam
-Viet Nam
-Source: UNCTAD-Eora 
-Global Value Chain 
-Database
-GVC participation 
-in selected Asian 
-Economies
-Fig. 1
-DVX
-FVA
+[Page 16]
+16
+Executive 
+Summary
 
-[Page 30]
-30
-From the above graphs, it is clear that India's performance relative to peer Asian countries 
-has remained stagnant in backward global value chain (GVC) participation, while witnessing 
-a decline in forward GVC participation reveals important insights into the country's 
-positioning within the global economic landscape. This insight suggests both challenges and 
-opportunities for India, particularly in the context of its economic development and the role 
-of micro, small, and medium enterprises (MSMEs). India has been successful in integrating 
-into upstream stages but is facing challenges in downstream activities as the dynamics shift. 
-In that case, the country's strength lies in supplying essential components, raw materials, and 
-intermediate goods to global value chains. The declining trend in forward GVC participation 
-implies a need to address challenges in distribution, marketing, and sales of finished goods. 
-In this context, the emphasis shifts to enhancing India's capabilities in marketing, branding, 
-and accessing international markets for the final products. Indian MSMEs, recognising this 
-strength in upstream integration, can focus on building stronger connections with global 
-manufacturers and optimising their role as suppliers of critical components.
-Source: OECD TIVA 
-Database
-GVC participation 
-in selected Asian 
-Economies
-Fig. 2
-Japan
-Japan
-Indonesia
-Indonesia
-India
-India
-South Korea
-South Korea
-China
-China
-Viet Nam
-Viet Nam
-Bangladesh
-Bangladesh
-0.00
-0.00
-19981998
-Forward GVC ParticipationBackward GVC Participation
-20002000
-20022002
-20042004
-20062006
-20082008
-20102010
-20122012
-2014
-2014
-2016
-2016
-2018
-2018
-2020
-2020
-2022
-2022
-0.02
-0.05
-0.04
-0.10
-0.06
-0.15
-0.08
-0.20
-0.10
-0.25
-0.12
-0.30
-0.14
-0.35
-0.16
-0.40
-0.18
-0.45
-0.20
-0.50
-0.22
-0.24
-0.26
-
-[Page 31]
-31
-In India, the Micro, Small, and Medium Enterprises (MSME) sector is of significant importance 
-due to its substantial contribution to employment, production, and exports. Based on the latest 
-data from the Ministry of Statistics & Programme Implementation, in the fiscal year 2021-22, 
-the MSME Gross Value Added (GVA) accounted for 29.2% of India’s Gross Domestic Product 
-(GDP). Likewise, the share of MSME manufacturing output in India’s total manufacturing output 
-for the same period stood at 36.2%, and MSME-specified products represented 45% of India’s 
-total exports (PIB, 2023). 
-Role of 
-MSMEs in 
-India’s GVC 
-participation 
-rate
-120 Million Jobs
-MSMEs have also created a total of
-generated across various industries in India.
-They are an important link in the supply chain in various sectors like food processing, agriculture, 
-chemicals, electronics, textiles, and so on. The Indian government's strategic efforts in areas like 
-competitiveness, quality improvement, finance, and technology have led to a significant shift in 
-the sector, moving from basic consumer goods production to the manufacturing of advanced 
-products (Ghouse, 2014). Indian MSMEs, despite their impressive 
-metrics, remain a step behind global MSMEs. They hold a 
-strategic advantage with supportive domestic demand 
-and a thriving manufacturing sector. Yet, they are 
-predominantly engaged in midstream activities that 
-yield low-value addition and a lack of trade efficiency. 
-Strategic improvements in these areas could elevate 
-Indian MSMEs to meet international benchmarks and 
-norms, consequently fortifying their roles in supply 
-chains and facilitating their integration into 
-global value chains.
-According to World Bank data on Micro, 
-Small, and Medium Enterprises (MSMEs) 
-2022, there are significant differences in 
-the performance of MSMEs businesses 
-((World Bank, 2022), (PIB, 2022)).
-
-[Page 32]
-32
-Performance 
-Comparison of 
-India’s MSMEs 
-with other 
-Countries.
-Table: 1 MSME obstacles/challenges India South Asia All countries
-Biggest Obstacle
-Access to 
-Financial 
-Sources 
-(21.5%)
-Political 
-Instability 
-(17.9%)
-Access to 
-Financial 
-Sources 
-(15.3%)
-Gender Representation (enterprises 
-having female ownership participation) 
-(%)
-3.9% 13.8% 32.9%
-Annual Labour Productivity Growth (%) -4.3% -3.1% -2.8%
-Real annual sales growth (%) -1.5% 0.8 0.7
-Innovation and Technology (firms 
-globally introduce new products or 
-services) (%)
-5.8% 24.9% 36%
-Customs (number of days to clear 
-direct exports and imports from 
-customs)
-Exports - 17.3 
-days
-Imports - 31.5 
-days
-Exports – 12 
-days
-Imports – 7.4 
-days
-Exports – 14.1 
-days
-Imports – 12.3 
-days
-Source- (World Bank, 2022)
-However, the comparison of MSMEs across the different economies is difficult and can 
-be misleading as the criteria for categorizing MSMEs vary globally. They are defined by a 
-number of factors and criteria, such as location, size, age, structure, organization, number of 
-employees, sales volume, worth of assets, and ownership through innovation and technology 
-(OECD, 2018), (Sobir, 2020). In many countries, SMEs are defined primarily by the number of 
-employees, while India, under the MSMED Act of 2006, defines MSMEs based on investment in 
-plant and machinery (Khatri, 2019).
-In response to evolving economic dynamics, India underwent a significant overhaul of its 
-MSME definition in 2020. Recognising the limitations of the earlier framework, particularly 
-with distinct thresholds for manufacturing and service units featuring relatively low financial 
-limits, a reformed definition was introduced. Implemented on July 1, 2020, this new definition 
-incorporates a composite set of criteria, considering both investment in plant and machinery/
-equipment and annual turnover. The revisions sought to achieve several overarching goals. 
-Firstly, they aimed to expand the MSME sector by increasing the investment and turnover 
-thresholds, providing a more comprehensive evaluation of business size across sectors. 
-By removing limitations on growth for existing MSMEs, the government incentivized their 
-expansion without compromising access to crucial support programmes.
-Additionally, the adjustments targeted the simplification of classification and the reduction of 
-regulatory burdens for MSMEs. A single set of criteria applicable to both the manufacturing 
-and service sectors streamlined the classification process, contributing to a more business-
-friendly environment. Furthermore, the government's vision extends to promoting a
-
-[Page 33]
-33
-more competitive MSME sector. The reforms incentivize these enterprises to enhance 
-competitiveness and efficiency by allowing MSMEs to grow within the MSME classification. 
-This strategic approach positions them to effectively compete with larger companies and 
-facilitates better integration into the broader economy. Revisions in the MSME definition 
-also influence the extent to which MSMEs are influenced by tariff liberalisation. Higher 
-benefits of liberalisation can be accrued by introducing more flexible limits on investment 
-for MSMEs (Mukherjee & Chanda, 2021). This adjustment aims to align with contemporary 
-economic realities, establish a more objective classification system, and facilitate a conducive 
-environment for business operations. (Ministry of MSME, 2023). 
-Prioritizing the government's capacity to flexibly adapt and adopt a forward-thinking policy 
-approach is crucial for effectively addressing the growing complexities within and around 
-the MSME sector. This takes precedence over mere alterations in definitions and is essential 
-for ensuring true inclusivity. This adaptability is crucial in creating an enabling ecosystem 
-that supports the growth and resilience of businesses in an ever-changing world. The 
-first step towards this is understanding the challenges faced by MSMEs and what drives 
-the competitiveness of MSMEs across regions and industries is a prerequisite. This paper 
-aims to comprehensively analyse India-centric policies affecting MSMEs, evaluate their 
-competitiveness, examine their integration into Global Value Chains (GVCs), and offer strategic 
-policy recommendations to navigate future challenges.
-The first step towards this is understanding the challenges faced 
-by MSMEs and what drives the competitiveness of MSMEs across 
-regions and industries is a prerequisite.
+[Page 17]
+17
+This report is structured into four key chapters, each designed 
+to deepen our understanding of India’s Micro, Small and 
+Medium Enterprises ( MSMEs) competitiveness. 
+T 
+he exploration begins by examining the challenges faced by Micro, Small, and Medium Enterprises (MSMEs) and 
+progresses toward a detailed analysis of competitive frameworks, cluster dynamics, and policy effectiveness. Each 
+chapter builds upon the previous one, culminating in robust recommendations for strengthening MSME competitiveness. 
+The opening chapter “Understanding MSMEs Challenges for Enhancing Competitiveness” delves into the array 
+of challenges confronting MSMEs—ranging from financial constraints and technological gaps to skill shortages and 
+regulatory hurdles. By thoroughly examining these barriers, the chapter lays a foundation for identifying key areas that 
+require strategic intervention. Overcoming these challenges is pivotal for creating an environment where MSMEs can 
+thrive and compete effectively.
+Building on the insights from the first chapter, the second chapter “Competitiveness Framework – MSMEs and the 
+Path to Prosperity ” introduces a competitiveness framework rooted in cluster theory. This framework charts a path 
+to prosperity by emphasizing the role of collaborative ecosystems, where enterprises, suppliers, and institutions work 
+in synergy. By leveraging these clusters, MSMEs can enhance efficiency, spur innovation, and respond more adeptly to 
+market demands, thus gaining a competitive edge.
+The third chapter “Understanding MSMEs Competitiveness in India Using Clusters Approach”. The cluster approach 
+is employed to comprehensively understand the performance and dynamics of Small and Medium Enterprises (SMEs) 
+within the Indian economy. Periodic Labour Force Survey (PLFS) data indicates that 74.3 percent of workers engaged 
+in proprietary and partnership enterprises are involved in the non-agriculture sector. This information is instrumental in 
+comprehending the nature of employment within these enterprises and highlights the significance of activities in informal 
+sector. Understanding SMEs’ performance from PLFS data allows for a more nuanced analysis of their contribution, 
+employment patterns, and overall impact on the informal sector. This, in addition to UDYAM registration portal, can 
+contribute to filling the gaps in understanding the MSMEs. The UDYAM portal data reveals that a significant proportion, 
+specifically 81 per cent, of MSMEs operate as proprietorships, with 80 per cent falling into the Microenterprise category. 
+Recognising the prevalence of such ownership structures, it becomes crucial to analyse and assess the performance 
+of these enterprises collectively, which the cluster approach 
+facilitates.
+The final chapter is the review of  the policy landscape governing 
+MSMEs at national and state level, evaluating the effectiveness of 
+current measures aimed at bolstering competitiveness. It reveals 
+that despite numerous policies, gaps in awareness, stakeholder 
+engagement, and adaptability limit their impact. The chapter 
+concludes with recommendations for a more robust, adaptive 
+policy framework that responds to the evolving needs of MSMEs, 
+emphasizing continuous monitoring, feedback integration, and 
+data-driven adjustments.

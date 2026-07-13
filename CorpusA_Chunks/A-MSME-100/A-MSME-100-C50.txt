@@ -1,0 +1,71 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C50
+Parent Doc ID: A-MSME-100
+Page Range: Page 49 to Page 50
+Word Range: 14319 - 14678
+Word Count: 360
+--------------------
+
+[Page 49]
+49 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Tavengerwei, R. (2018). Using trade facilitation to assist 
+MSMEs in E-commerce in developing countries. Journal 
+of International Economic Law, 21(2), 349–378.
+The Micro, Small and Medium Enterprises Development 
+Act, 2006. (2006). Ministry of Law and Justice. Retrieved 
+from https://samadhaan.msme.gov.in/WriteReadData/
+DocumentFile/ MSMED2006act.pdf
+Trade Facilitation Implementation Guide (2022). 
+Retrieved from https://tfig.unece.org/contents/market-
+access-challenges-SMEs.html
+White, O. and Madgavkar, A. (2024). Why closing the 
+small business productivity gap can create enormous 
+value for economies. World Economic Forum. Retrieved 
+from https://www.weforum.org/stories/2024/06/
+msme-productivity-gap- global-economy/
+Wrede, M., Velamuri, V.K. & Dauth, T. (2020). Top 
+managers in the digital age: Exploring the role and 
+practices of top managers in firms’ digital transformation. 
+Managerial and Decision Economics. 41(8). 1549-1567. 
+https://doi.org/10.1002/mde.3202
+References
+
+[Page 50]
+50 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+Table A1: Distribution of the enterprises by their characteristics (in numbers)
+Particulars
+E-commerce Integration and Size of Enterprises 
+Not Integrated Integrated
+Micro Small Medium Overall Micro Small Medium Overall
+OWNER DEMOGRAPHICS
+Age of Primary Owner
+18-24 Years 16 7 3 26 17 6 3 26
+25-35 Years 501 92 53 646 514 91 96 701
+36-50 Years 262 89 70 421 244 80 78 402
+Over 50 Years 38 19 24 81 31 12 19 62
+Gender of Primary Owner
+Female 47 8 9 64 58 5 22 85
+Male 770 199 141 1,110 748 184 174 1,106
+Education of Primary Owner
+School up to 4 
+Years     1   1
+School 5-9 years 7 5 6 18 8 2 4 14
+SSC/HSC 
+(completed 
+10th/12th class)
+146 29 27 202 103 20 39 162
+Graduate and 
+above 664 173 117 954 693 167 153 1,013
+Any other     1   1
+FIRM CHARACTERISTICS
+Location
+Agra 56 5 1 62 39 4 1 44
+Ahmedabad 28 18 1 47 27 21 4 52
+Asansol 43 5  48 35 1 1 37
+Bangalore 78 9 12 99 64 15 14 93
+Bhubaneshwar 49 3 12 64 44 12 5 61
+Chennai 24 4 10 38 25 4 10 39
+Coimbatore 4 4 20 28 5 1 36 42
+Delhi 31 15 8 54 38 12 10 60
+Appendix
+Appendix

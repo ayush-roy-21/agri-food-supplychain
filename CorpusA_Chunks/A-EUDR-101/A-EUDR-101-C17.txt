@@ -1,94 +1,62 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-101-C17
 Parent Doc ID: A-EUDR-101
-Page Range: Page 33 to Page 34
-Word Range: 27980 - 29362
-Word Count: 1,383
+Page Range: Page 5
+Word Range: 4231 - 4480
+Word Count: 250
 --------------------
 
-[Page 33]
-(6) Ar ticle 23 is amended as f ollows :
-(a) in paragraph 4, point (b) is replaced by the f ollo wing:
-‘(b) the consolidate d fi nancial stat ements refer red to in point (a) and the consolidated manag ement repor t of the 
-larg er body of under takings are drawn up by the parent under taking of that body , in accordance with the la w 
-of the Member Stat e by whic h that parent under taking is governed, in accordance with this Directive, with 
-the excep tion of the requirements laid down in Ar ticle 29a, or in accordance with internati onal accounting 
-standards adopt ed in accordance with Regulation (EC) No 1606/2002;’;
-(b) in paragraph 8, point (b)(i) is replaced by the f ollo wing:
-‘(i) in accordance with this Directive, with the excep tion of the requirements laid down in Ar ticle 29a,’;
-(c) in paragraph 8, point (b)(iii) is replaced by the f ollo wing:
-‘(iii) in a manner equivalent to consolidated financial state ments and consolidated manag ement repor ts dra wn up 
-in accordance with this Directive, with the excep tion of the requirements laid down in Ar ticle 29a, or ’;
-(7) Ar ticle 29a is replaced by the f ollowing:
-‘ Ar ticle 29a
-Consolidated sust ainability repor ting
-1. P arent under takings of a large group as refe r red to in Ar ticle 3(7) shall include in the consolidated manag ement 
-repor t inf or mation necessar y to understand the group’s impacts on sustainability matters, and inf or mation necessar y 
-to understand how sustainability matters aff ect the group’s development, performa nce and position.
-The inf or mation refe r red to in the fi rst subparagraph shall be clearly identif iable within the consolidated manag ement 
-repor t, through a dedicate d section of the consolidated manage ment repor t.
-2. The inf or mation refer red to in paragraph 1 shall contain:
-(a) a br ief descr iption of the group’s business model and strategy , including:
-(i) the resilience of the group’s business model and strateg y in relation to r isks relat ed to sustainability matte rs;
-(ii) the oppor tunities f or the group related to sustainability matt ers;
-(iii) the plans of the group, including im plementing actions and related financia l and inv estment plans, to ensure 
-that its business model and strategy are compatible with the transition to a sustainable econom y and with the 
-limiting of g lobal war ming to 1,5 °C in line with the P ar is Agreement and the objective of achi eving climat e 
-neutrality by 2050 as established in Regulation (EU) 2021/1119 and where relevant, the exposure of the 
-group to coal-, oil- and g as-related activities;
-(iv) how the group’s business model and strategy take account of the inter ests of the group’s stak eholders and of 
-the im pacts of the group on sustainability matte rs;
-(v) how the group’s strateg y has been im plemented with regar d to sustainability matters;
-(b) a descr iption of the time-bound targe ts relat ed to sustainability matters set by the group, including, where 
-appropr iat e, absolute greenhouse ga s emission reduction targets at least f or 2030 and 2050, a descr iption of the 
-progress the group has made to wards achieving those targets , and a statement of whether the group’s targets 
-related to environmental fact ors are based on conclusive scientific evidence;
-(c) a descr iption of the role of the administrative, manag ement and super visor y bodies with regar d to sustainability 
-matte rs, and of their exper tise and skills in relation to fulfilling that role or the access such bodies hav e to such 
-exper tise and skills;
+[Page 5]
+(13) The Commission repor t of 21 Apr il 2021 on the review clauses in Directives 2013/34/EU, 2014/95/EU, 
+and 2013/50/EU and its accompan ying fitness c heck on the EU framewor k f or public repor ting by companies 
+(‘Commission repor t on the review clauses and its accompan ying fitness c heck’) identified problems as to the 
+effe ctiveness of Directive 2014/95/EU. There is signif icant evidence that many under takings do not disclose 
+mater ial inf or mation on all major sustainability-related topics, including climate -related inf or mation such as all 
+GHG emissions, and fa ctors that affect biodiversity . The repor t also identif ied the limited compar ability and 
+reliability of sustainability inf or mation as signif icant problems. Ad ditionally , man y under takings from which users 
+need sustainability inf or mation are not oblig ed to repor t such inf or mation. A ccording ly , there is a clear need f or a 
+robust and aff ordable repor ting framework that is accompanied by eff ective auditing practices to ensure the 
+reliability of data and av oid greenwashing and double counting.
+(14) In the absence of policy action, the g ap between users’ inf or mation needs and the sustainability inf or mation 
+provid ed by under takings is expect ed to grow . That g ap has signif icant nega tive consequences. Invest ors are unable 
+to tak e suff icient account of sustainability-relate d r isks and oppor tunities in their investment decisions. The 
+aggregation of multiple inv estment decisions that do not take adequate account of sustainability-related r isks has 
+the poten tial to creat e system ic r isks that threaten financial stability . The European Central Bank (ECB) and 
+internati onal org anisations, such as the Financial Stability Board, hav e dra wn att ention to those systemic r isks, in 
+par ticular as regards climat e. Invest ors are also less able to c hannel fi nancial resources to under takings and 
+economic activities that address and do not exacerbate social and environmental problems, which under mines the 
+objectives of the Green Deal, the A ction Plan on Financing Sustainable Growth and the Par is Agreement. Non- 
+governmental organisations, social par tners, communities affect ed by under takings’ activities, and other 
+stake holders are less able to hold under takings accountable f or their impa cts on people and the environment. This 
+creat es an accountability def icit and could lead to lower levels of citizen tr ust in businesses, which in tur n could 
+hav e negativ e impa cts on the effi cient functioning of the social mark et econom y . The lack of generally accept ed 
+metr ics and methods f or measur ing, valuing, and managing sustainability-related r isks is also an obstacle to the 
+eff or ts of under takings to ensure that their business models and activities are sustainable. The lac k of sustainability 
+inf or mation provi ded by under takings also limits the ability of stake holders, including civil society actors, trade 
+unions and w orke rs’ representatives, to enter into dialogue with under takings on sustainability matt ers.
+(15) The Commission repor t on the review clauses and its accompan ying fitness c heck also identified a signif icant 
+increase in requests to under takings f or inf or mation about sustainability matte rs aimed at addressing the existing 
+inf or mation g ap between users’ inf or mation needs and the av ailable cor porate sustainability inf or mation. In 
+addition, ongoing expectations on under takings to use a var iety of diffe rent framew ork s and standards are lik ely to 
+continue and ma y even intensify as the value placed on sustainability inf or mation continues to gro w . In the absence 
+of policy action to build consensus on the inf or mation that under takings should repor t, there will be signif icant 
+increases in term s of cost and burden f or repor ting under takings and f or users of such inf or mation.
+(16) The existing inf or mation gap makes it more like ly that individual Member Stat es will introduce increasing ly 
+diverg ent national r ules or standards. Diff erent repor ting requirements in differ ent Member State s could create 
+additional costs and compl exity f or under takings operating across borders and theref ore under mine the internal 
+mark et, and could under mine the r ight of establishment and the free mov ement of capital across the U nion. Such 
+differ ent repor ting requirements could also mak e repor te d inf or mation less comparable across borders, 
+under mining the capital mark ets union.
+(17) Ar ticles 19a and 29a of Directive 2013/34/EU apply to larg e under takings that are public-interest entities with an 
+av erage number of emplo y ees in excess of 500, and to public-interest entities that are parent under takings of a larg e 
+group with an av erage number of emplo y ees in excess of 500 on a consolidate d basis, respectively . In view of the 
+gro wth of users’ needs f or sustainability inf or mation, additional catego r ies of under takings should be required to 
+repor t sustainability inf or mation. It is theref ore appropr iate to require all larg e under takings and all under takings, 
+excep t micro under takings, whose secur ities are admitte d to trading on a regulated mark et in the U nion to repor t 
+sustainability inf or mation. The provisions of this amending Directive amending Ar ticles 19a and 29a of Directive 
+2013/34/EU explicitly set out the scope of the repor ting requirements with reference to Ar ticles 2 and 3 of Directive 
+2013/34/EU. Theref ore, they do not simplify or modify another requirement and the restr iction of exem ptions f or 
+public-inte rest entities provided f or in Ar ticle 40 of Directive 2013/34/EU does not apply . In par ticular , public- 
+inter est entities should not be treated as larg e under takings f or the pur poses of the application of the sustainability 
 EN
-Offi cial Jour nal of the European Uni on 16.12.2022 L 322/47
-
-[Page 34]
-(d) a descr iption of the group’s policies in relation to sustainability matters;
-(e) inf or mation about the existen ce of incentive sche mes linke d to sustainability matt ers which are offered to 
-members of the administrative, management and super visor y bodies;
-(f) a descr iption of:
-(i) the due dilig ence process im plemented by the group with regar d to sustainability matt ers, and, where 
-applicable, in line with Union requirements on under takings to conduct a due diligence process;
-(ii) the pr incipal actual or poten tial adverse impact s connecte d with the group’s o wn operations and with its 
-value c hain, including its products and ser vices, its business relationships and its supply c hain, actions taken 
-to identify and monitor those im pacts, and other adverse im pacts which the parent under taking is required 
-to identify pursuant to other Union requirements to conduct a due dilig ence process;
-(iii) any actions taken by the group to prevent, mitig ate, remediate or br ing an end to actual or pote ntial adverse 
-imp acts, and the result of such actions;
-(g) a descr iption of the pr incipal r isks to the group relat ed to sustainability matters, including the group’s pr incipal 
-dependencies on those matters, and how the group manages those r isks ;
-(h) indicators relevant to the disclosures refer red to in points (a) to (g).
-P arent under takings shall repor t the process car r ied out to identify the inf or mation that the y have included in the 
-consolidate d manage ment repor t in accordance with paragraph 1 of this Ar ticle. The inf or mation liste d in the first 
-subparagraph of this paragraph shall include inf or mation relat ed to shor t-, medium- and long-t er m time hor izons, as 
-applicable.
-3. Where applicable, the inf or mation refe r red to in paragraphs 1 and 2 shall contain inf or mation about the 
-group’s o wn operations and about its value c hain, including its products and ser vices, its business relationships and 
-its supply c hain.
-For the first three y ears of the application of the measures to be adopt ed by the Member States in accordance with 
-Ar ticle 5(2) of Directive (EU) 2022/2464, and in the event that not all the necessar y inf or mation regar ding its value 
-c hain is available, the parent under taking shall explain the eff or ts made to obtain the necessar y inf or mation about its 
-value chain, the reasons why not all of the necessar y inf or mation could be obtained, and its plans to obtain the 
-necessar y inf or mation in the future.
-Where applicable, the inf or mation refer red to in paragraphs 1 and 2 shall also include refe rences to, and additional 
-explanations of, the other inf or mation included in the consolidat ed management repor t in accordance with 
-Ar ticle 29 of this Directive and the amounts repor ted in the consolidat ed f inancial state ments.
-Member States ma y allow inf or mation relating to im pending developments or matte rs in the course of negotiation to 
-be omitted in exce ptional cases where, in the duly justified opinion of the members of the administrative, 
-manage ment and super visor y bodies, acting within the compet ences assigned to them by national la w and hav ing 
-collective responsibility f or that opinion, the disclosure of such inf or mation w ould be ser iously prejudicial to the 
-commercial position of the group, pro vided that such omission does not prevent a f air and balanced understanding 
-of the group’s development, performa nce, and position, and the impact of its activity .
-4. Where the repor ting under taking identifies significant differ ences between the r isks f or , or impacts of, the group 
-and the r isks f or , or impacts of, one or more of its subsidiar y under takings, the under taking shall pro vide an adequat e 
-understanding of, as appropr iat e, the r isks f or , and impacts of, the subsidiar y under taking or subsidiar y under takings 
-concer ned.
-EN
-Offi cial Jour nal of the European Uni on L 322/48 16.12.2022
+Offi cial Jour nal of the European Uni on 16.12.2022 L 322/19

@@ -1,168 +1,60 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-102-C02
 Parent Doc ID: A-EUDR-102
-Page Range: Page 4 to Page 6
-Word Range: 1706 - 3352
-Word Count: 1,647
+Page Range: Page 1
+Word Range: 251 - 555
+Word Count: 305
 --------------------
 
-[Page 4]
+[Page 1]
 International Journal of Environmental Sciences 
 ISSN: 2229-7359 
 Vol. 11 No. 11s, 2025 
 https://theaspd.com/index.php 
  
  
-591 
+588 
  
-6. Environmental Justice and Power Asymmetries 
-Environmental justice scholars emphasise that sustainability transitions must be assessed not only by their 
-ecological outcomes but also by their socio -political dimensions , particularly who bears the cost, who 
-participates in decision-making, and who benefits (Coenen et al., 2025). In this view, the EUDR represents a 
-case study in how well -intentioned environmental laws may fail to recognise structural injustices embedded 
-in global commodity chains (Avelino et al., 2024). The unequal distribution of responsibility, where Northern 
-buyers set standards and Southern smallholders must comply without adequate support, raises fundamental 
-concerns about justice and fairness. Furthermore, failure to include smallholder voices in the formulation of 
-trade-linked environmental regulations may undermine both legitimacy and long -term effectiveness 
-(Bradford, 2020). 
-7. Implementation Gaps and Institutional Readiness 
-The success of the EUDR depends heavily on national and subnational institutions in producer countries 
-being able to monitor land use, validate legality, and support compliance. However, many countries in the 
-Global South face limited institutional capacity, fragmented land governance, and challenges in integrating 
-traditional land tenure systems into formal regulatory frameworks (Jelsma et al., 2017) . In regions such as 
-West Africa and Southeast Asia, smallholder supply chains are often informal and unregistered, further 
-complicating traceability. Without substantial technical and financial cooperation from the EU, there is a 
-risk that implementation gaps will penalise the most vulnerable actors while allowing large-scale plantations 
-with existing infrastructure to dominate compliance pathways (Sumbo, 2022). 
-8. Beyond Compliance: Toward a More Inclusive Sustainability 
-An emerging body of literature argues for a rethinking of sustainability standards to centre equity and 
-inclusiveness rather than mere compliance. Scholars propose co -governance models that involve producer 
-governments, local communities, and civil society organisations in regulatory design and monitoring 
-(Birnbaum, 2016). Others advocate for differentiated compliance mechanisms based on farm size, access to 
-technology, and socio -economic context, recognising that “one -size-fits-all” policies are inherently 
-exclusionary. For the EUDR to avoid becoming a new instrument of ecological extraction, it must incorporate 
-meaningful collaboration with producer regions and reallocate some responsibility to downstream actors with 
-more resources and power (Doukas et al., 2023). 
+Green Néo -colonialism or Sustainable Trade: EUDR's 
+Equity Implications for Global South Smallholders  
  
-METHOD 
-This study employs a qualitative research method, specifically a qualitative literature review, to explore the 
-equity implications of the European Union Deforestation Regulation (EUDR) for smallholders in the Global 
-South. Unlike empirical qualitative appr oaches such as focus group discussions or field observations, this 
-research is grounded solely in secondary data sources drawn from existing academic literature, policy 
-documents, legal texts, and critical commentaries published between 2015 and 2025. The literature review 
-methodology enables an in -depth and systematic examination of diverse perspectives and theoretical 
-frameworks related to green neo -colonialism, sustainable trade, and global environmental governance. The 
-primary instrument of this study i s a carefully constructed literature matrix used to organise and categorise 
-the sources according to thematic relevance, conceptual frameworks, and empirical findings. Data collection 
-involved comprehensive searches in reputable academic databases includin g Scopus, Web of Science, and 
-Google Scholar, using keywords such as “EUDR,” “deforestation regulation,” “smallholders,” “green neo -
-colonialism,” and “sustainable trade,” with a deliberate focus on peer-reviewed journals, institutional reports, 
-and policy analyses published within the last decade to ensure contemporaneity and relevance. The selected 
-literature underwent rigorous screening based on inclusion criteria emphasising relevance to the research
-
-[Page 5]
-International Journal of Environmental Sciences 
-ISSN: 2229-7359 
-Vol. 11 No. 11s, 2025 
-https://theaspd.com/index.php 
+Loso Judijanto 
+IPOSS Jakarta, Indonesia, losojudijantobumn@gmail.com 
  
+ABSTRACT  
+The European Union Deforestation Regulation (EUDR), enacted in 2023, aims to curb deforestation linked to imported 
+commodities. However, its implementation has sparked global concern over its equity implications, particularly for 
+smallholders in the Global South who often lack the resources and infrastructure to comply with the regulation’s strict due 
+diligence requirements. This study explores whether the EUDR reinforces green neo-colonial dynamics or offers a pathway 
+toward sustainable trade. The research  aims to analyse how the regulation affects smallholder inclusion in global value 
+chains and the broader socio -economic impacts it triggers.  This study employs a qualitative literature review approach, 
+synthesising findings from 2015 to 2025 across academic journals, policy reports, and NGO publications. Data collection 
+involved structured literature mapping and thematic categorisation using Mendeley Desktop as the primary reference 
+management tool. Thematic content analysis was applied to identify recurring patterns related to regulatory burden, market 
+exclusion, and institutional asymmetry.  The findings indicate that the EUDR disproportionately burdens smallholders 
+with compliance costs ranging from 10 –30% of their income, leading to exclusion from EU markets in up to 50% of 
+documented cases. Moreover, the regulation risks perpetuating power imbalances reminiscent of colonial trade structures. 
+While inclusive implementation models show promise, they remain underutilised. In conclusion, the EUDR’s success in 
+promoting sustainable trade depends on its ability to integrate equity considerations. Future research should investigate 
+participatory and context-sensitive compliance models across diverse agricultural sectors. 
+Keywords: EUDR, smallholders, Global South, equity in trade, Green Neo-colonialism 
  
-592 
- 
-questions, methodological robustness, and credibility of the sources. For data analysis, the study applied 
-thematic synthesis, enabling the identification, coding, and interpretation of recurring themes and patterns 
-within the literature corpus. This appro ach facilitates a critical understanding of how the EUDR intersects 
-with issues of equity, power asymmetry, and socio-economic impacts on small-scale producers, while situating 
-the regulation within broader discourses on environmental justice and postcolon ial theory. Through 
-systematic comparison and synthesis of the findings across diverse sources, this research provides a nuanced 
-and evidence-based assessment of whether the EUDR functions as a tool for sustainable trade or perpetuates 
-dynamics of green neo-colonialism. By relying exclusively on qualitative literature review methods, this study 
-maintains academic rigour and avoids the pitfalls of unverifiable primary data collection, thereby producing 
-insights grounded in established knowledge while identifying gaps for future empirical inquiry. 
- 
-RESULTS AND DISCUSSION 
-1. Results The qualitative literature review compiled over 80 peer -reviewed articles, institutional reports, 
-policy briefs, and critical analyses published between 2015 and 2025. Data sources were retrieved primarily 
-from Scopus, Web of Science, and specialised environmental governance repositories. The literature spans 
-multiple disciplines, including environmental law, development studies, postcolonial theory, and agricultural 
-economics. The selected documents addressed the implementation, socio-economic impact, and geopolitical 
-dimensions of the European Union Deforestation Regulation (EUDR), focusing specifically on Global South 
-smallholders. Inclusion criteria emphasised empirical data, policy evaluation, and critical commentary, 
-ensuring comprehensive coverage of both quantitative outcomes and qualitative interpretations (Hanson-
-DeFusco, 2023). 
-a. Overview of EUDR’s Compliance Burden on Smallholders 
-The analysis revealed that EUDR’s due diligence and traceability requirements pose significant challenges for 
-smallholders, who constitute approximately 40%–70% of agricultural producers in key commodity-producing 
-regions such as West Africa, Southeast Asia, and Latin America (Renier et al., 2023). Literature estimates that 
-over 60 million smallholders globally cultivate commodities targeted by the EUDR, with average farm sizes 
-below 2 hectares in many cases (Berning & Sotirov, 2023). Due to limited access to technology and formal 
-land registries, only an estimated 15%–25% of smallholders currently meet traceability standards aligned with 
-EUDR’s geolocation mandates (Steinke et al., 2024). This gap exposes approximately 75% of smallholders to 
-potential exclusion from EU supply chains unless significant capacity -building interventions occur 
-(Carodenuto & Buluran, 2021). 
-b. Economic and Social Impacts on Smallholder Livelihoods 
-Several studies indicate that compliance costs linked to EUDR due diligence can increase production 
-expenses by 10%–30% for small-scale farmers, predominantly due to requirements for satellite monitoring, 
-certification, and legal documentation (Heldt, 2024). For many, these added costs exacerbate preexisting 
-economic vulnerabilities, with poverty rates among smallholders in deforestation -risk zones often exceeding 
-50% (Gilbert, 2024). Furthermore, the literature highlights social impacts such as reduced market access, 
-where estimates show that non -compliant smallholders risk losing up to 40% of their traditional export 
-markets (Melo-Velasco et al., 2025) . This market contraction may trigger secondary effects , including land 
-abandonment, rural -urban migration, and increased food insecurity (Meemken, 2020) . Conversely, well -
-supported smallholders who engage in sustainability initiatives report yield improvements of 5% –12% and 
-premium price benefits averaging 8%–15%, suggesting that targeted interventions can offset some regulatory 
-burdens (McLeman, 2017).
-
-[Page 6]
-International Journal of Environmental Sciences 
-ISSN: 2229-7359 
-Vol. 11 No. 11s, 2025 
-https://theaspd.com/index.php 
- 
- 
-593 
- 
-c. Institutional and Governance Capacity Gaps 
-A critical body of literature underscores the weak institutional frameworks in many Global South countries 
-to support EUDR compliance. National land registries remain incomplete or non-digitised in up to 65% of 
-producer countries, complicating the verification of legal land tenure required by the regulation (Deininger 
-& Goyal, 2023). Government agencies often lack sufficient resources and expertise to monitor deforestation 
-in smallholder landscapes, especially where mixed land -use systems prevail (Muradian et al., 2025). Reports 
-indicate that less than 30% of smallholder -dominated regions have operational mechanisms for integrating 
-traditional land claims into formal compliance structures (Kuusaana & Gerber, 2015). These deficits heighten 
-the risk that enforcement of EUDR will disproportionately penalise smallholders relative to large -scale 
-industrial producers who benefit from better infrastructure and governance linkages (Macchi & Bijman, 
-2024). 
-d. Green Neo-colonialism: Power Dynamics and Equity Concerns 
-The review identifies a recurring theme describing EUDR as a manifestation of “green neo -colonialism,” 
-whereby environmental regulations from the Global North impose unilateral standards that reproduce 
-historical inequities (Setiyanto, 2024). Approximately 70% of the literature analysed frames EUDR within 
-this critical perspective, highlighting asymmetrical power relations in standard -setting and compliance 
-enforcement (Zhunusova et al., 2022). Smallholders are often excluded from consultation processes, and local 
-socio-cultural contexts are insufficiently considered, further entrenching inequities (Eggen et al., 2024) . 
-Empirical evidence suggests that the regulation’s effects risk transforming smallholder landscapes into “no-go 
-zones” for EU imports unless producers meet stringent external criteria, effectively limiting their participation 
-in lucrative global markets (Craglia & Granell, 2014). 
-e. Pathways Toward Sustainable and Equitable Trade 
-Despite the challenges, the literature identifies promising approaches for mitigating EUDR’s adverse equity 
-impacts. Multilateral development programs integrating capacity -building, financial support, and 
-technological transfer have proven effective in increasing smallholder compliance rates by up to 40% in pilot 
-projects across Southeast Asia and Latin America (Boonaert et al., 2024). Collaborative governance models 
-involving producer communities, local governments, and international buyers are associated with enhanced 
-legitimacy and compliance effectiveness, with stakeholder participation improving by an average of 25% in 
-documented cases (Tetteh et al., 2025) . Moreover, differentiated compliance mechanisms that adjust 
-requirements based on farm size and socio -economic context receive growing scholarly support, potentially 
-reducing exclusion risks by 30% –50% (Khan et al., 2025) . These findings underscore the need for policy 
-frameworks that balance environmental goals with social justice and economic viability.This comprehensive 
-qualitative literature review elucidates that while the EUDR aims to promote deforestation-free supply chains, 
-its current design imposes disproportionate burdens on Global South smallholders, who face significant 
-structural and institutional barriers. Data indicate high non-compliance risks for the majority of smallholders 
-due to technological, economic, and governance deficits. Moreover, power asymmetries inherent in the 
-regulatory architecture amplify concerns about green neo-colonialism and equity. However, targeted support 
-programs and inclusive governance offer pathways to reconcile sustainability wit h smallholder livelihoods. 
-This nuanced understanding informs ongoing debates on how to operationalise global environmental 
-governance without perpetuating historical injustices. 
- 
-2. DISCUSSION 
-The findings of this qualitative literature review offer a critical examination of the equity challenges embedded 
-within the European Union Deforestation Regulation (EUDR) as it pertains to smallholder farmers in the
+INTRODUCTION 
+In the wake of intensifying global climate commitments and the growing urgency of biodiversity preservation, 
+international regulatory mechanisms have increasingly focused on forest conservation and the reduction of 
+land-use emissions. Among these, the European Union Deforestation Regulation (EUDR), adopted in 2023, 
+marks a significant legal and normative development aimed at eliminating deforestation-linked commodities 
+from European supply chains. The EUDR seeks to ensure that products entering the EU market , such as 
+palm oil, coffee, cocoa, rubber, and timber, are not associated with deforestation or forest degradation post-
+December 31, 2020 (Li, 2024). It mandates due diligence obligations on companies to trace the origin of 
+commodities and verify their deforestation-free status (Simonnet, 2023). While environmentally progressive 
+in appearance, such frameworks have provoked critical debates about their equity implications, particularly 
+for smallholders in the Global South whose livelihoods are deeply intertwined with these very commodities 
+(Stek & Ata, 2024). 
+At a structural level, global environmental governance has long been criticised for its asymmetrical 
+architecture, wherein policies driven by the Global North disproportionately affect producers in the Global 
+South (Jorgenson, 2016). The legacy of colonial trade routes, power imbalances in multilateral negotiations, 
+and the continued dominance of Western standards in sustainability certifications contribute to what scholars 
+term “green neo -colonialism” (Apostolopoulou & Adams, 2015) . In this view, the Global North, while 
+outsourcing environmental harms historically, now reasserts control over land-use decisions in the South via 
+environmental trade conditionalities and market access regimes (Pedregal & Luki ć, 2024) . The EUDR,

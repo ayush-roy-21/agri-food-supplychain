@@ -1,0 +1,128 @@
+--- CHUNK HEADER ---
+Chunk ID: A-SPICE-005-C17
+Parent Doc ID: A-SPICE-005
+Page Range: Page 10 to Page 11
+Word Range: 4441 - 4690
+Word Count: 250
+--------------------
+
+[Page 10]
+Row Country of origin Food and feed (intended use) CN code ( 1)
+TARIC 
+sub- 
+division
+Hazard
+Frequency of 
+identity and 
+physical 
+checks (%)
+— Peppers of the genus Piper; 
+dried or crushed or ground 
+fruit of the genus Capsicum
+or of the genus Pimenta
+0904
+Aflatoxins 30— Ginger, saffron, turmeric 
+(curcuma), thyme, bay 
+leaves, curry and other 
+spices
+(Food – dried spices)
+0910
+10 Georgia (GE)
+— Hazelnuts (Corylus sp.), in 
+shell
+0802 21 00
+— Hazelnuts (Corylus sp.), 
+shelled
+0802 22 00
+— Mixtures of nuts or dried 
+fruits containing hazelnuts
+ex 0813 50 39 70
+ex 0813 50 91 70
+ex 0813 50 99 70
+— Hazelnut paste ex 2007 10 10 70
+ex 2007 10 99 40
+ex 2007 99 39 05; 06
+ex 2007 99 50 33
+ex 2007 99 97 23
+— Hazelnuts, otherwise 
+prepared or preserved, 
+including mixtures
+ex 2008 19 12 30
+ex 2008 19 19 30
+ex 2008 19 92 30
+ex 2008 19 95 20
+ex 2008 19 99 30
+ex 2008 97 12 15
+ex 2008 97 14 15 Aflatoxins 20
+ex 2008 97 16 15
+ex 2008 97 18 15
+ex 2008 97 32 15
+ex 2008 97 34 15
+ex 2008 97 36 15
+ex 2008 97 38 15
+ex 2008 97 51 15
+ex 2008 97 59 15
+ex 2008 97 72 15
+OJ L, 29.1.2026 EN 
+ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 9/25
+
+[Page 11]
+Row Country of origin Food and feed (intended use) CN code ( 1)
+TARIC 
+sub- 
+division
+Hazard
+Frequency of 
+identity and 
+physical 
+checks (%)
+ex 2008 97 74 15
+ex 2008 97 76 15
+ex 2008 97 78 15
+ex 2008 97 92 15
+ex 2008 97 93 15
+ex 2008 97 94 15
+ex 2008 97 96 15
+ex 2008 97 97 15
+ex 2008 97 98 15
+— Flours, meals and powder 
+of hazelnuts
+ex 1106 30 90 40
+— Hazelnut oil ex 1515 90 99 20
+(Food)
+11 Ghana (GH)
+— Groundnuts (peanuts), in 
+shell
+1202 41 00
+Aflatoxins 50
+— Groundnuts (peanuts), 
+shelled
+1202 42 00
+— Peanut butter 2008 11 10
+— Groundnuts (peanuts), 
+otherwise prepared or 
+preserved, including 
+mixtures
+2008 11 91
+2008 11 96
+2008 11 98
+ex 2008 19 12 40
+ex 2008 19 19 50
+ex 2008 19 92 40
+ex 2008 19 95 40
+ex 2008 19 99 50
+— Oilcake and other solid 
+residues, whether or not 
+ground or in the form of 
+pellets, resulting from the 
+extraction of 
+groundnut oil
+2305 00 00
+— Groundnut flours and 
+meals
+ex 1208 90 00 20
+— Groundnuts paste ex 2007 10 10 80
+(Food and feed) ex 2007 10 99 50
+ex 2007 99 39 07; 08
+EN OJ L, 29.1.2026 
+10/25 ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj

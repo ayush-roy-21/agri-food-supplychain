@@ -1,0 +1,108 @@
+--- CHUNK HEADER ---
+Chunk ID: A-EUDR-101-C100
+Parent Doc ID: A-EUDR-101
+Page Range: Page 26 to Page 27
+Word Range: 25839 - 26088
+Word Count: 250
+--------------------
+
+[Page 26]
+(79) Directive 2004/109/EC assigns to national super visors the task of enf orcing compl iance with cor porat e repor ting 
+requirements by under takings whose secur ities are admitted to trading on a regulated market in the U nion. 
+Ar ticle 4 of that Directive specifi es the content to be included in the annual fi nancial repor ts, but lacks an explicit 
+referen ce to Ar ticles 19a and 29a of Directive 2013/34/EU, whic h require the preparation of a non-financial 
+state ment and a consolidated non-fi nancial statement. As a consequence, national compet ent author ities of some 
+Member Stat es hav e no leg al mandate to super vise those non-fi nancial statements, especially where those non- 
+fi nancial statements are published in a separate repor t, outside of the annual fi nancial repor t, whic h Member States 
+ma y cur rently allow . It is theref ore necessar y to inser t into Ar ticle 4(5) of Directive 2004/109/EC a referen ce to 
+sustainability repor ting. It is also necessar y to require that the persons responsible within the issuer confir m in the 
+annual fi nancial repor t that, to the best of their kno wledge, the manage ment repor t is prepared in accordance with 
+the sustainability repor ting standards.
+In addition, given the novel c haracter of the sustainability repor ting requirements, ESMA should issue guidelines f or 
+national compet ent author ities to promote converg ent super vision of sustainability repor ting by issuers subject to 
+Directive 2004/109/EC. Those guidelines should only apply to the super vision of under takings whose secur ities are 
+admitte d to trading on a regulated mark et in the Union.
+(80) In order to specify the requirements set out in this amending Directive, the po wer to adopt acts in accordance with 
+Ar ticle 290 of the T reaty on the Functioning of the European U nion should be delega ted to the Commission in 
+respect of establishing sustainability repor ting standards and establishing standards f or the assurance of 
+sustainability repor ting. It is of par ticular im por tance that the Commission car r y out appropr iate consultations 
+dur ing its preparatory w ork, including at exper t level, and that those consultations be conduct ed in accordance with 
+the pr inciples laid down in the Inte r institutional Agreement of 13 Apr il 2016 on Bett er La w-Making (
+38
+) . In 
+par ticular , to ensure equal par ticipation in the preparation of delegat ed acts, the European Parliament and the 
+Council receive all documents at the same time as Member Stat es ’ exper ts, and their exper ts systematically hav e 
+access to meetings of Commission exper t groups dealing with the preparation of delegat ed acts.
+(81) The Commission should submit a repor t to the European P arliament and to the Council on the im plementation of 
+this amending Directive, including, inte r alia: an assessment of the achi evement of the goals of this amending 
+Directive, including the converg ence of repor ting practices between Member Stat es; an assessment of the number of 
+small and medium-sized under takings using sustainability repor ting standards v oluntar ily ; an assessment of whether 
+and how the scope of the repor ting requirements should be fur ther exte nded, in par ticular in relation to small and 
+medium-sized under takings and to third-countr y under takings operating directly on the U nion inte r nal mark et 
+without a subsidiar y under taking or a branch on the terr itory of the U nion; an assessment of the im plementation of 
+the repor ting requirements on subsidiar y under takings and branches of third-countr y under takings introduced by 
+this amending Directive, including an assessment of the number of third-countr y under takings whic h hav e a 
+subsidiar y under taking or a branch subject to repor ting requirements in accordance with Directive 2013/34/EU; an 
+assessment of the enf orcement mechanis m and of the relevant thresholds set out in Directive 2013/34/EU; an 
+assessment of whether and how to ensure the accessibility f or people with disabilities to the sustainability repor ting 
+published by under takings falling under the scope of this amending Directive.
+The repor t on the im plementation of this amending Directive should be published by 30 Apr il 2029 and ever y three 
+ye ars thereaf ter , and should be accompanied , if appropr iat e, by legislative proposals. By 31 December 2028 , the 
+Commission should review and repor t on the level of concentration of the sustainability assurance mark et. The 
+review should take into account the national regimes applicable to independent assurance ser vices provi ders and 
+assess whether and to what extent such national regimes contr ibute to opening up the assurance market. By 
+31 December 2028 , the Commission should assess possible legal measures to ensure suffic ient diversification of the 
+sustainability assurance mark et and appropr iate sustainability repor ting quality . The repor t on the level of 
+concentration of the sustainability assurance market should be transmitted to the European P arliament and the 
+Council by 31 December 2028 and be accompan ied, if appropr iate, by legislative proposals.
+(
+38
+) OJ L 123, 12.5.2016, p. 1.
+EN
+Offi cial Jour nal of the European Uni on L 322/40 16.12.2022
+
+[Page 27]
+(82) Since the objectives of this amending Directive cannot be suffic iently achi eved by the Member Stat es but can rather , 
+by reason of the scale or effe cts of the action, be bett er achi eved at Union level, the U nion ma y adopt measures, in 
+accordance with the pr inciple of subsidiar ity as set out in Ar ticle 5 of the T reaty on European Union. In accordance 
+with the pr inciple of propor tionality as set out in that Ar ticle, this amending Directive does not go be y ond what is 
+necessar y in order to achi eve those objectives.
+(83) Regulation (EU) No 537/2014, Directive 2004/109/EC, Directive 2006/43/EC and Directive 2013/34/EU should 
+theref ore be amended according ly .
+(84) The ECB was consult ed and delivered an opinion on 7 Sept ember 2021 ,
+HA VE ADOPTED THIS DIRECTIVE:
+Ar ticle 1
+Amendments to Directiv e 2013/34/EU
+Directive 2013/34/EU is amended as f ollows :
+(1) in Ar ticle 1, the f ollowi ng paragraphs are added:
+‘3. The coordination measures prescr ibed by Ar ticles 19a, 29a, 29d, 30 and 33, point (aa) of the second 
+subparagraph of Ar ticle 34(1), Ar ticle 34(2) and (3) and Ar ticle 51 of this Directive shall also apply to the la ws, 
+regulations and administrative provisions of the Member Stat es relating to the f ollowing under takings regar dless of 
+their leg al f or m, provi ded that those under takings are larg e under takings, or small and medium-sized under takings, 
+excep t micro under takings, whic h are public-inte rest entities as defined in point (a) of point (1) of Ar ticle 2 of this 
+Directive:
+(a) insurance under takings within the meaning of Ar ticle 2(1) of Council Directive 91/674/EEC (*);
+(b) credit institutions as defined in point (1) of Ar ticle 4(1) of Regulation (EU) No 575/2013 of the European 
+Parliament and of the Council (**).
+Member Stat es ma y c hoose not to apply the coordination measures refer red to in the first subparagraph of this 
+paragraph to the under takings listed in points (2) to (23) of Ar ticle 2(5) of Directive 2013/36/EU of the 
+European P arliament and of the Council (***).
+4. The coordination measures prescr ibed by Ar ticles 19a, 29a and 29d shall not apply to fi nancial products liste d 
+in points (b) and (f) of point (12) of Ar ticle 2 of Regulation (EU) 2019/2088 of the European P arliament and of the 
+Council (****).
+5. The coordination measures prescr ibed by Ar ticles 40a to 40d shall also apply to the laws, regulations and 
+administrative provis ions of the Member State s relating to subsidiar y under takings and branche s of under takings 
+which are not go ver ned by the la w of a Member State but whose leg al f or m is compar able with the types of 
+under takings liste d in Annex I.
+_____________
+(*) Council Directive 91/674/EEC of 19 December 1991 on the annual accounts and consolidate d accounts of 
+insurance under takings (OJ L 374, 31.12.1991, p. 7).
+(**) Regulation (EU) No 575/2013 of the European P arliament and of the Council of 26 June 2013 on pr udential 
+requirements f or credit institutions and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).
+(***) Directive 2013/36/EU of the European P arliament and of the Council of 26 June 2013 on access to the activity 
+of credit institutions and the pr udential super vision of credit institutions, amending Directive 2002/87/EC and 
+repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).
+(****) Regulation (EU) 2019/2088 of the European P arliament and of the Council of 27 No vember 2019 on 
+sustainability-related disclosures in the fi nancial ser vices sect or (OJ L 317, 9.12.2019, p. 1).’;
+EN
+Offi cial Jour nal of the European Uni on 16.12.2022 L 322/41

@@ -1,0 +1,85 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C70
+Parent Doc ID: A-MSME-102
+Page Range: Page 82 to Page 83
+Word Range: 20094 - 20343
+Word Count: 250
+--------------------
+
+[Page 82]
+82
+In the last five years, from 2018-19 to 2022-23, the number of approved guarantees has 
+increased significantly, with 2022-23 reaching 11,65,786 approvals, a substantial rise from 
+4,35,520 in 2018-19 at a CAGR of 27.91%. The guarantee amount has shown consistent 
+growth, especially a sharp rise in 2022-23 to ₹1,06,474 crore, almost doubling the previous 
+year's amount of ₹55,218 crore. The dip observed in the above graph in 2020-21 can be 
+attributed to the Covid-19 pandemic. The sharp increase starting 2021-22 perhaps resulted 
+from the launch of PM SVANidhi Scheme.
+Additionally, the CGTMSE’s average loan size peaked in 2022-23 at ₹8,98,801, the highest in 
+the last five years, rising from ₹6,92,689 in 2018-19 at a CAGR of 6.73%.
+Approved 
+Guarantees 
+and Amount by 
+CGTMSE
+Average size of 
+Loans approved 
+by CGTMSE
+Fig. 16
+Fig. 17
+₹ 0.00
+0
+₹ 1,00,000
+200000
+₹ 2,00,000
+400000
+₹ 3,00,000
+600000
+₹ 4,00,000
+800000
+₹ 5,00,000
+1000000
+₹ 6,00,000
+1200000
+₹ 7,00,000
+1400000
+₹ 8,00,000
+₹ 9,00,000
+₹ 10,00,000
+2018-19
+2018-19
+2019-20
+2019-20
+2020-21
+2020-21
+2021-22
+2021-22
+2022-23
+2022-23
+
+[Page 83]
+83
+Issues in the Scheme
+This concern remained in the committee’s 68th report about “Action taken by the Government 
+on the Observations/Recommendations contained in the Forty-Sixth Report (17th Lok Sabha) 
+on the subject ‘Strengthening Credit Flows to the MSME Sector”.
+The CGTMSE, operating as a registered trust, relies on a 4:1 ratio of contributions from the 
+Government of India and SIDBI to its corpus fund. Member Lending Institutions (MLIs) must 
+register and form a formal agreement with CGTMSE to access guarantees for MSE credit. MLIs 
+include commercial banks that enter into an agreement CGTMSE and can apply guarantee 
+cover in respect of eligible credit facility sanctioned to any eligible borrower11. However, 
+procedural inefficiencies are evident.
+These issues affect both the institutions and the MSMEs they serve. Institutions struggle with 
+a lack of regulatory support and procedural consistency, leading to resource misallocation. 
+Operational challenges include accountability lapses, delayed settlements, and a slow claim 
+process. 
+“Strengthening Credit Flows to the MSME Sector”, it was highlighted
+In the 46th report of the Standing Committee on Finance (17th Lok Sabha) titled
+that only a few MSME enterprises are 
+managing to get collateral-free loans under 
+the Government schemes, with majority being 
+compelled to furnish adequate collateral even 
+after being eligible for collateral-free loans. As 
+more than 99 percent of the MSMEs belong 
+to the micro sector they typically have no 
+collateral to offer to banks.
+11     https://www.cgtmse.in/Home/VS/94

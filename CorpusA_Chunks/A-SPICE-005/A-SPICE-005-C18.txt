@@ -1,0 +1,159 @@
+--- CHUNK HEADER ---
+Chunk ID: A-SPICE-005-C18
+Parent Doc ID: A-SPICE-005
+Page Range: Page 11 to Page 12
+Word Range: 4691 - 4940
+Word Count: 250
+--------------------
+
+[Page 11]
+Row Country of origin Food and feed (intended use) CN code ( 1)
+TARIC 
+sub- 
+division
+Hazard
+Frequency of 
+identity and 
+physical 
+checks (%)
+ex 2008 97 74 15
+ex 2008 97 76 15
+ex 2008 97 78 15
+ex 2008 97 92 15
+ex 2008 97 93 15
+ex 2008 97 94 15
+ex 2008 97 96 15
+ex 2008 97 97 15
+ex 2008 97 98 15
+— Flours, meals and powder 
+of hazelnuts
+ex 1106 30 90 40
+— Hazelnut oil ex 1515 90 99 20
+(Food)
+11 Ghana (GH)
+— Groundnuts (peanuts), in 
+shell
+1202 41 00
+Aflatoxins 50
+— Groundnuts (peanuts), 
+shelled
+1202 42 00
+— Peanut butter 2008 11 10
+— Groundnuts (peanuts), 
+otherwise prepared or 
+preserved, including 
+mixtures
+2008 11 91
+2008 11 96
+2008 11 98
+ex 2008 19 12 40
+ex 2008 19 19 50
+ex 2008 19 92 40
+ex 2008 19 95 40
+ex 2008 19 99 50
+— Oilcake and other solid 
+residues, whether or not 
+ground or in the form of 
+pellets, resulting from the 
+extraction of 
+groundnut oil
+2305 00 00
+— Groundnut flours and 
+meals
+ex 1208 90 00 20
+— Groundnuts paste ex 2007 10 10 80
+(Food and feed) ex 2007 10 99 50
+ex 2007 99 39 07; 08
+EN OJ L, 29.1.2026 
+10/25 ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj
+
+[Page 12]
+Row Country of origin Food and feed (intended use) CN code ( 1)
+TARIC 
+sub- 
+division
+Hazard
+Frequency of 
+identity and 
+physical 
+checks (%)
+12 Israel (IL) (15) Basil (Ocimum basilicum)
+(Food)
+ex 1211 90 86 20 Pesticide 
+residues (3) 10
+13 India (IN)
+Betel leaves (Piper betle L.)
+(Food)
+ex 1404 90 00 (11) 10 Salmonella (4) 50
+Okra
+(Food – fresh, chilled or 
+frozen)
+ex 0709 99 90
+ex 0710 80 95
+20
+30
+Pesticide 
+resi­
+dues (
+3) (7)
+30
+Rice
+(Food)
+1006 Pesticide 
+residues (
+3) 10
+Guava (Psidium guajava)
+(Food)
+ex 0804 50 00 30 Pesticide 
+residues (3) 30
+Peppers of the genus Capsicum
+(sweet or other than sweet)
+(Food – dried, roasted,
+crushed or ground)
+0904 21 10
+Aflatoxins 10
+ex 0904 22 00 11; 19
+ex 0904 21 90 20
+ex 2005 99 10 10; 90
+ex 2005 99 80 94
+— Cumin seeds 0909 31 00
+Pesticide 
+residues (3) 30— Cumin seeds crushed or 
+ground
+(Food)
+0909 32 00
+Mixtures of food additives 
+containing locust bean gum or 
+guar gum
+(Food)
+ex 2106 90 92
+ex 2106 90 98
+ex 3824 99 93
+ex 3824 99 96
+Pesticide 
+residues (
+13) 20
+Peppers of the genus Piper, 
+dried or crushed or ground 
+fruit of the genus Capsicum or 
+of the genus Pimenta
+(Food – dried spices)
+0904
+Pesticide 
+residues (
+13) 20
+Calcium carbonate
+(Food and feed)
+ex 2106 90 92 55
+Pesticide 
+residues (13) 30
+ex 2106 90 98 60
+ex 25 30 90 70 10
+2836 50 00
+Bottle gourd (Lagenaria 
+siceraria)
+(Food – fresh and chilled)
+ex 0709 93 90 10 Pesticide 
+residues (3) 20
+OJ L, 29.1.2026 EN 
+ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 11/25

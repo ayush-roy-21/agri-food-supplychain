@@ -1,0 +1,43 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C52
+Parent Doc ID: A-MSME-102
+Page Range: Page 63
+Word Range: 14506 - 14797
+Word Count: 292
+--------------------
+
+[Page 63]
+63
+NIC Code Description Share
+10 Manufacture of food products 18.58
+13 Manufacture of textiles 8.83
+14 Manufacture of wearing apparel 7.65
+20 Manufacture of chemicals and chemical products 2.38
+27 Manufacture of electrical equipment 2.13
+21 Manufacture of pharmaceuticals, medicinal 
+chemical and botanical products 0.90
+29 Manufacture of motor vehicles, trailers and semi-
+trailers 0.81
+11 Manufacture of beverages 0.87
+30 Manufacture of other transport equipment 0.59
+Understanding SMEs' performance from PLFS data allows for a more nuanced analysis of their 
+contribution, employment patterns, and overall impact on the informal sector. This, in addition 
+to UDYAM data, can contribute to filling the gaps in understanding the MSMEs. Understanding 
+SME performance using PLFS data offers a holistic perspective on economic activity, aiding in 
+the formulation of cluster programmes, targeted strategies and policies to foster the growth 
+and sustainability of these enterprises.
+When we look at formalisation of MSMEs in these manufacturing 
+sectors, we find that: 
+Source: UDYAM (2020- jan 13 2025) 
+The firm-level data utilized in this study is sourced from the Prowess database, which 
+is administered by the Centre for Monitoring the Indian Economy. Prowess aggregates 
+information predominantly derived from the income statements and balance sheets of publicly 
+listed companies. The database encompasses companies that collectively contribute to over 
+70 percent of the economic activity within the organized industrial sector of India. (Topalova, 
+2004)
+To further gauge the value added by Micro, Small, and Medium Enterprises (MSMEs) across 
+various industries—food processing, manufacture of transport equipment, textile, chemical, 
+and pharmaceuticals—we leveraged firm-level data from the Centre for Monitoring Indian 
+Economy’s (CMIE) Prowess database. This database encompasses crucial information 
+extracted from profit and loss accounts and balance sheets of Indian enterprises to offer 
+insights into sales, investments, assets, and ownership type of firms.

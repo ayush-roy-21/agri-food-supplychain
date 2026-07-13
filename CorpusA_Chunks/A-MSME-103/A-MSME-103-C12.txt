@@ -1,272 +1,98 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-103-C12
 Parent Doc ID: A-MSME-103
-Page Range: Page 50 to Page 53
-Word Range: 14699 - 16170
-Word Count: 1,472
+Page Range: Page 14
+Word Range: 3484 - 3733
+Word Count: 250
 --------------------
 
-[Page 50]
+[Page 14]
 Strategy for unlocking export potential for MSMEs in West Bengal
-50
-D&B Data Insights
-Key observations:
-• West Bengal stands 11th in terms of coverage 
-of Agri Products & Food Processing 
-businesses in India with 82 thousand 
-businesses as of 12
-th October 2023.
-• West Bengal stands 9th where customers 
-have shown interest on Agri Products & Food 
-Processing businesses in India.
-• West Bengal stands 10th where customers 
-have shown interest on Agri Products & Food 
-Processing MSME businesses in India.
-• MSMEs account for close to 65% of the 
-overall checks done by global customers on 
-Food processing companies in West Bengal. 
-The count of inquiries related to MSMEs has 
-doubled since the fiscal year 2019.
-• Whilst ‘USA’ continues to be top inquir er on 
-Food processing MSMEs in West Bengal, we 
-have observed increased interest by European 
-countries. The most inquiring top 3 countries 
-namely USA, UK, and Bangladesh account to 
-90% of total inquiries.
-(% share of Total Coverage of Agricultural products 
-and Food processing Businesses in India)
-(% share of Total Inquiries on Agricultural products 
-and Food processing Businesses in India)
-Top 15 countries
-Region US & Canada Europe Asia
-FY19 86% 4% 10%
-FY23 67% 24% 8%
-(% share of Total Inquiries on Agriculture products 
-and Food Processing MSME Business)
-
-[Page 51]
-Strategy for unlocking export potential for MSMEs in West Bengal
-51
-Leveraging Opportunities
-To comprehend the challenges faced on 
-the ground, we engaged in discussions with 
-several exporters and importers in the state of 
-West Bengal. The ensuing section provides a 
-synopsis of the primary issues they encounter, 
-offering glimpses into some of the potential 
-recommendations they have suggested to 
-mitigate these challenges. These conversations 
-serve as the foundation for our recommendations, 
-outlined in the S.M.A.R.T. goals section. Through 
-the adoption of these recommendations, West 
-Bengal has the potential to enhance its standing 
-as a significant player in the global export market.
-Exporter/Importer
-Perspectives
-• The importance of port and logistics 
-infrastructure in determining West Bengal's 
-competitiveness is underscored by these 
-interactions. Improving port logistics 
-infrastructure is crucial for reducing shipping 
-costs and enhancing overall efficiency. 
-Notably, businesses find it more cost-effective 
-to ship exports from Kolkata to Mumbai 
-before reaching the destination, revealing 
-exorbitantly higher shipping charges from 
-Kolkata port, primarily due to lower import 
-volumes.
-• Despite the locational advantage of Kolkata 
-port, draft problems arising from perennial 
-siltation in the Ganges result in ships having 
-to reduce their load or dock at other Indian 
-ports. Similar draft issues are observed at 
-the Haldia port. Challenges at Haldia include 
-high clearing prices, limited accessibility for 
-capesize vessels, and difficulties in availing 
-trucks due to fixed quotas. The absence of an 
-effective grievance redressal system at Haldia 
-port adds to these challenges, portraying a 
-scenario of limited accountability.
-• Investing in a deep-sea port is deemed 
-essential to overcome limitations posed 
-by riverine ports like Kolkata and Haldia. 
- Export Cycle Import Cycle
-Ports December 2023 OADT December 2023 OADT
-Western Region 85.1 89.9 23 25.8
-JNPA 70.4 72 18.4 22.2
-Mundra 101.9 109.7 31.3 29.3
-Pipavav 84.8 94.2 87.8 71
-Kandla 78.1 132.9 45.3 47.8
-Hazira 110.9 109.2 21.7 24.5
-Southern Region 83.3 91.2 66.2 52.6
-Chennai 90.5 96.6 67.9 57.2
-Kochi 82.9 101.6 33.7 41.3
-Kattupalli 99 103.7 90.1 76.1
-Tuticorin 58.2 66.1 19.8 21.9
-Krishnapatnam 74.7 76.2 31.5 32.1
-Ennore 89 104.6 85.4 69.1
-New Mangalore 81.3 110.4 73.4 69.9
-Eastern Region 93.8 107 48.5 45.4
-Vizag 92.4 102.8 50.6 55.2
-Kolkata 87.2 105.7 43.5 35.8
-Haldia 141.2 125.3 83.6 86.4
-Table: Port Dwell Time (in hours)
-Note: OADT is the Overall Average Dwell Time, overall average since inception
-Source: NICDC Logistics Data Services Ltd.
-
-[Page 52]
-Strategy for unlocking export potential for MSMEs in West Bengal
-52
-Upgrading these ports to global standards 
-and fostering partnerships with initiatives 
-like Sagarmala can amplify West Bengal's 
-role in international trade. The ongoing 
-development of Sagar deep-sea Port, Tajpur 
-Port, and Kulpi port projects is crucial for 
-enhancing the state's export potential.
-• The coastal shipping agreement with 
-Myanmar presents promising opportunities 
-for maritime connectivity, linking Sittwe 
-Port and Kolkata port directly. Additionally, 
-prioritizing inland waterway connectivity 
-through projects like the Jal Marg Vikas 
-Project can significantly reduce transportation 
-costs and create employment opportunities, 
-positioning West Bengal as a key player in 
-regional trade.
-• Aligning these port development initiatives 
-with the UN Sustainable Development Goals 
-(SDGs) is emphasized for bolstering economic 
-growth while fostering an environmentally 
-sustainable business environment. Equitable 
-public financing, green subsidies allocation, 
-and business nurturing are proposed to 
-contribute to West Bengal's overall progress 
-in achieving developmental objectives.
-• Infrastructure in as well as around port 
-facilities also emerge as a common thread. 
-The absence of dedicated warehousing 
-facilities, particularly in the agricultural and 
-allied sectors, poses a logistical hurdle. 
-Extended time for goods to reach Container 
-Freight Stations after berthing from ships 
-exacerbates this challenge. Moreover, lower 
-import demand at the Kolkata port results 
-in vessels returning empty, causing elevated 
-freight rates. Significant congestions near 
-the Babu Bazar area for the Kolkata port and 
-at Talpukur and the City Centre area on the 
-Kolkata highway for the Haldia port lead to 
-increased transit time between ports and 
-nearby Container Freight Stations for both 
-import and export cycles.
-• Addressing these challenges involves 
-improving warehousing facilities and 
-enhancing connectivity to industrial zones. 
-Proposals to establish a dedicated logistics 
-hub in Kolkata aim to leverage the city's 
-strategic position for enhanced export 
-potential. Businesses also highlight the poor 
-rail connectivity at Kolkata port compared to 
-ports on the western and southern coasts, 
-urging for improvements.
-• Cross-border challenges, particularly 
-with Bangladesh, are emphasized, and 
-recommendations include institutionalizing 
-advance documentation filling mechanisms 
-and advocating for government-to-
-government initiatives to streamline cross-
-border goods movement. To address 
-concerns about long Land border crossing 
-times, the SUVIDHA facility has been initiated, 
-but further encouragement is needed.
-• A holistic approach is recommended for 
-industrial parks, addressing transportation, 
-accommodation, and institutional facilities in 
-surrounding areas. Creating a self-sustaining 
-ecosystem around industrial parks is urged to 
-foster talent and overcome challenges.
-• Skilled manpower shortage is identified, 
-and suggestions involve improving synergy 
-between industry and academia. Courses 
-on export-related subjects and providing 
-additional training to existing skilled 
-laborlabour for increased forex earnings are 
-proposed.
-• Recognizing collaboration as imperative, 
-participants in the survey suggest the creation 
-of a committee comprising government 
-officials and private sector representatives. 
-Regular roundtable discussions are 
-recommended to facilitate ongoing dialogue 
-and timely problem resolution.
-• Acknowledging the precarious financial 
-position of MSMEs, respondents suggest 
-exploring options for consolidated forex 
-demand/supply to secure better exchange 
-rates. Ensuring equitable credit terms is 
-identified as a key pillar for fostering a 
-conducive financial ecosystem for MSMEs. 
-• Difficulties in accessing up-to-date 
-information about schemes and challenges 
-while approaching banks for credit are 
-noted, prompting recommendations for 
-improving online information dissemination 
-and simplifying navigation on government 
-websites.
-
-[Page 53]
-Strategy for unlocking export potential for MSMEs in West Bengal
-53
-• There exists an awareness gap among 
-MSMEs regarding Foreign Trade Agreements 
-(FTAs) which can be addressed through 
-recommendations for periodic circulation of 
-comprehensive circulars detailing existing and 
-new FTAs. 
-• Fast-tracking the development of industrial 
-and economic corridors, coupled with 
-promoting the tourism industry, is suggested 
-to bolster the state's export potential. MSMEs 
-propose more government-organized trade 
-fairs and expos for increased awareness.
-• Young entrepreneurs express a lack of 
-scheme-related information, and feedback 
-includes improving internet services for online 
-processes. Challenges in getting approvals 
-and licenses on time, particularly for the 
-factory, are highlighted, along with the need 
-for faster grievance redressal and better 
-internet services for online processes.
-• Certain exporters, particularly those in the 
-tea and gems and jewellery sectors, have 
-conveyed that government attention tends 
-to be predominantly directed towards small 
-growers (with an area below 5 hectares) or 
-artisans. They observe that policymaking 
-often favours these smaller players. However, 
-a critical perspective shared is that larger 
-players constitute the foundation of the 
-supply chain. There is a concern that if these 
-significant players were to exit West Bengal, 
-the entire supply chain might face challenges 
-in sustainability. 
-• Regarding the exploration and outreach 
-to potential export markets, a common 
-approach among most exporters is to 
-collaborate through associations rather than 
-engaging directly with the government. This 
-preference stems from exporters' lack of 
-awareness regarding effective government 
-outreach programs or the perception that 
-such programs are not sufficiently effective. 
-A specific instance of feedback highlighted 
-the arrival of Zara in West Bengal. The 
-suggestion was for the government to create 
-an opportunity for small manufacturers or 
-exporters to participate in a public dialogue 
-between Zara and major export houses. This 
-interactive session would have served as a 
-platform for learning and posing questions 
-about how they can effectively engage with 
-significant foreign firms.
+14
+indicating an area for potential improvement.
+Effective Strategies:
+• In Maharashtra’s new MIDC industrial estates, 
+20% area shall be reserved for MSMEs. 
+Out of this, 20% area shall be reserved for 
+SC/ST entrepreneurs and 5% for women 
+entrepreneurs and industrial units of Women’s 
+Savings Groups. For rehabilitation of Ex-
+Servicemen & to promote self-employment 
+among Ex-Servicemen 2% plots will be 
+reserved for Ex-servicemen.
+•
+ Tamil Nadu Small Industries Development 
+Corporation Ltd., (TANSIDCO) will co-
+ordinate for the provision of water, sewage 
+facilities, uninterrupted power supply, and 
+road connectivity to industrial estates located 
+in the recognized industrial corridors.
+Transport Connectivity : The logistics sector 
+is a specific area where West Bengal needs 
+significant improvement. Its value in this category 
+is lower than the national average and well below 
+the average for coastal states. While the state 
+performs averagely in the LEADS index, which 
+assesses international trade logistics perception, 
+there has been a noticeable decline in its value. 
+West Bengal has only made marginal progress 
+in establishing multi-modal logistics hubs and 
+lacks Free Trade Zones, Free Trade Warehousing 
+Zones, and Integrated Logistics Parks. The 
+number of operational air cargo terminals, inland 
+container depots, cold storage facilities, and 
+export-oriented warehousing facilities needs to 
+be increased.
+Effective Strategies:
+• Tamil Nadu has focused on the development 
+of Inland Container Depots (ICDs) and Export-
+Oriented Warehousing Facilities to improve 
+cargo handling and storage solutions for 
+export-oriented industries.
+• Odisha has invested in Cold Storage Facilities 
+and operational Air Cargo Terminals to 
+support the storage of perishable goods 
+and facilitate air transportation, enhancing 
+transport connectivity for industries in the 
+state.
+Export Ecosystem
+Export Infrastructure : West Bengal 
+demonstrates a very strong export infrastructure, 
+with potential for marginal improvement, 
+surpassing both the coastal and national 
+averages. The state has made significant strides in 
+maintaining online portals for export promotion 
+and information, setting up a Trade Guide, Agri-
+export zones, and reducing regional disparity. 
+However, West Bengal lags in the establishment 
+of Export Promotion Industrial Parks, Export 
+Promotion Zones, and Special Economic Zones, 
+offering room for improvement.
+Effective Strategies:
+• Tamil Nadu has invested in Export Promotion 
+Industrial Parks (EPIPs) and established Trade 
+Guides to improve infrastructure for export-
+oriented industries and provide guidance to 
+exporters.
+Trade Support : This area provides an 
+opportunity for West Bengal. Although it lags 
+behind the coastal average, it is well ahead of the 
+national average. To improve its score, the state 
+can apply for the Trade Infrastructure for Export 
+Schemes (TIES), which is a straightforward means 
+of enhancing its performance. West Bengal 
+already maintains a district-wise/sector-wise 
+database of exporters and conducts stakeholder 
+interactions/meetings to understand exporters’ 
+concerns. However, the number of trade fairs/
+exhibitions and capacity-building or orientation 
+workshops for exporters has declined compared 
+to 2021, impacting the score.
+Effective Strategies:
+• Tamil Nadu focuses on developing Export 
+Promotion Industrial Parks (EPIPs) and offers 
+Capacity-Building and Orientation Workshops 
+for Exporters to improve trade support.
+R&D Infrastructure : West Bengal has an area 
+for improvement in R&D infrastructure. Its overall 
+score is low, both concerning the coastal and

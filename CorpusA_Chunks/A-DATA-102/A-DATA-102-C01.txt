@@ -1,9 +1,9 @@
 --- CHUNK HEADER ---
 Chunk ID: A-DATA-102-C01
 Parent Doc ID: A-DATA-102
-Page Range: Page 1 to Page 3
-Word Range: 1 - 612
-Word Count: 612
+Page Range: Page 1 to Page 2
+Word Range: 1 - 250
+Word Count: 250
 --------------------
 
 [Page 1]
@@ -75,13 +75,3 @@ Carpet 1767 1792 1.4 145 180 23.9 155 16.4 268 335 25.1 0.4
 28 Tea 924 988 7.0 66 56 -15.1 57 -1.9 136 113 -16.5 0.1 
 29 Jute Mfg. Including Floor 
 Covering 384 358 -6.9 32 29 -8.1 28 2.9 60 57 -4.5 0.1
-
-[Page 3]
-30 Cashew 338 379 12.1 20 20 -1.6 16 27.7 39 36 -7.4 0.0 
-31 Others 24565 23994 -2.3 2012 2245 11.6 2344 -4.2 3940 4588 16.4 5.2 
-Total Export 437705 441730 0.9 38304 45197 18.0 43560 3.8 76587 88909 16.1 100.0 
-Total Export Excluding Petroleum 
-Products 374321 387902 3.6 32867 36776 11.9 33966 8.3 64027 70742 10.5 79.6 
-Total Export Excl Petroleum Prod and 
-Gems & Jwlry               344503 359694 4.4 30491 34241 12.3 31644 8.2 59150 65886 11.4 74.1 
-Source: DGCIS, based on Quick Estimate May, 2026

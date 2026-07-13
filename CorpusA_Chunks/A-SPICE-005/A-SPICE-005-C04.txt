@@ -1,436 +1,54 @@
 --- CHUNK HEADER ---
 Chunk ID: A-SPICE-005-C04
 Parent Doc ID: A-SPICE-005
-Page Range: Page 10 to Page 14
-Word Range: 4171 - 5499
-Word Count: 1,329
+Page Range: Page 3
+Word Range: 871 - 1120
+Word Count: 250
 --------------------
 
-[Page 10]
-Row Country of origin Food and feed (intended use) CN code ( 1)
-TARIC 
-sub- 
-division
-Hazard
-Frequency of 
-identity and 
-physical 
-checks (%)
-— Peppers of the genus Piper; 
-dried or crushed or ground 
-fruit of the genus Capsicum
-or of the genus Pimenta
-0904
-Aflatoxins 30— Ginger, saffron, turmeric 
-(curcuma), thyme, bay 
-leaves, curry and other 
-spices
-(Food – dried spices)
-0910
-10 Georgia (GE)
-— Hazelnuts (Corylus sp.), in 
-shell
-0802 21 00
-— Hazelnuts (Corylus sp.), 
-shelled
-0802 22 00
-— Mixtures of nuts or dried 
-fruits containing hazelnuts
-ex 0813 50 39 70
-ex 0813 50 91 70
-ex 0813 50 99 70
-— Hazelnut paste ex 2007 10 10 70
-ex 2007 10 99 40
-ex 2007 99 39 05; 06
-ex 2007 99 50 33
-ex 2007 99 97 23
-— Hazelnuts, otherwise 
-prepared or preserved, 
-including mixtures
-ex 2008 19 12 30
-ex 2008 19 19 30
-ex 2008 19 92 30
-ex 2008 19 95 20
-ex 2008 19 99 30
-ex 2008 97 12 15
-ex 2008 97 14 15 Aflatoxins 20
-ex 2008 97 16 15
-ex 2008 97 18 15
-ex 2008 97 32 15
-ex 2008 97 34 15
-ex 2008 97 36 15
-ex 2008 97 38 15
-ex 2008 97 51 15
-ex 2008 97 59 15
-ex 2008 97 72 15
-OJ L, 29.1.2026 EN 
-ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 9/25
-
-[Page 11]
-Row Country of origin Food and feed (intended use) CN code ( 1)
-TARIC 
-sub- 
-division
-Hazard
-Frequency of 
-identity and 
-physical 
-checks (%)
-ex 2008 97 74 15
-ex 2008 97 76 15
-ex 2008 97 78 15
-ex 2008 97 92 15
-ex 2008 97 93 15
-ex 2008 97 94 15
-ex 2008 97 96 15
-ex 2008 97 97 15
-ex 2008 97 98 15
-— Flours, meals and powder 
-of hazelnuts
-ex 1106 30 90 40
-— Hazelnut oil ex 1515 90 99 20
-(Food)
-11 Ghana (GH)
-— Groundnuts (peanuts), in 
-shell
-1202 41 00
-Aflatoxins 50
-— Groundnuts (peanuts), 
-shelled
-1202 42 00
-— Peanut butter 2008 11 10
-— Groundnuts (peanuts), 
-otherwise prepared or 
-preserved, including 
-mixtures
-2008 11 91
-2008 11 96
-2008 11 98
-ex 2008 19 12 40
-ex 2008 19 19 50
-ex 2008 19 92 40
-ex 2008 19 95 40
-ex 2008 19 99 50
-— Oilcake and other solid 
-residues, whether or not 
-ground or in the form of 
-pellets, resulting from the 
-extraction of 
-groundnut oil
-2305 00 00
-— Groundnut flours and 
-meals
-ex 1208 90 00 20
-— Groundnuts paste ex 2007 10 10 80
-(Food and feed) ex 2007 10 99 50
-ex 2007 99 39 07; 08
+[Page 3]
+(3) Recent notifications received through the RASFF indicate the existence of serious direct or indirect risk for human 
+health deriving from certain food or feed. Additionally, official controls performed by the Member States on certain 
+food and feed of non-animal origin in the first semester of 2025 indicate that the lists set out in Annexes I and II to 
+Implementing Regulation (EU) 2019/1793 should be amended in order to protect human health in the Union.
+(4) In relation to consignments of seem beans and helmet beans ( Lablab purpureus) from Bangladesh, a high rate of non- 
+compliance with the relevant requirements provided for in Union legislation with respect to pesticide residues was 
+detected during official controls performed by the Member States in accordance with Articles 5 and 6 of 
+Implementing Regulation (EU) 2019/1793. It is therefore appropriate to increase the frequency of identity and 
+physical checks to be performed on those consignments entering the Union to 30 % in Annex I to Implementing 
+Regulation (EU) 2019/1793.
+(5) In relation to consignments of palm oil packed for direct human consumption from Côte d’Ivoire, a high rate of non- 
+compliance with the relevant requirements provided for in Union legislation with respect to contamination by Sudan 
+dyes was detected during official controls performed by the Member States in accordance with Articles 5 and 6 of 
+Implementing Regulation (EU) 2019/1793. It is therefore appropriate to increase the frequency of identity and 
+physical checks to be performed on those consignments entering the Union to 30 % in Annex I to Implementing 
+Regulation (EU) 2019/1793. However, for bulk consignments of palm oil, the official controls carried out by the 
+Member States show compliance with the relevant requirements provided for in Union legislation. Therefore, an 
+increased level of official controls of bulk consignments of palm oil from Côte d’Ivoire is no longer justified and a 
+note to limit official controls to consignments of palm oil packed for direct human consumption should be added to 
+the entry of palm oil from Côte d’Ivoire in Annex I to Implementing Regulation (EU) 2019/1793.
+(6) Oranges from Egypt have been subjected to an increased level of official controls due to the risk of the presence of 
+pesticide residues since July 2022. The official controls carried out by the Member States show improvement in 
+compliance with the relevant requirements provided for in Union legislation. Therefore, while an increased level of 
+official controls is still appropriate, the level of 20 % of consignments entering the Union is no longer justified for 
+that commodity and the frequency of controls should be decreased to 10 % of consignments entering the Union in 
+Annex I to Implementing Regulation (EU) 2019/1793.
+(7) In relation to consignments of strawberries from Egypt, data from RASFF notifications and information regarding 
+official controls performed by the Member States indicate the emergence of new risks for human health, due to 
+possible pesticide residues. It is therefore necessary to require an increased level of official controls on entries of that 
+commodity from Egypt. That commodity should therefore be included in Annex I to Implementing Regulation 
+(EU) 2019/1793, with a frequency of identity and physical checks set at 20 % of consignments entering the Union.
+(8) Okra from India has been subjected to an increased level of official controls due to the risk of the presence of pesticide 
+residues and ethylene oxide since July 2018. The official controls carried out on that commodity in relation to 
+ethylene oxide by the Member States indicate an overall satisfactory degree of compliance with the relevant 
+requirements provided for in Union legislation. Therefore, an increased level of official controls for ethylene oxide is 
+no longer justified for that commodity and the relevant note in the entry of that commodity in Annex I to 
+Implementing Regulation (EU) 2019/1793 should be deleted.
+(9) Rice from India has been subjected to an increased level of official controls due to the risk of contamination by 
+aflatoxins and ochratoxin A since January 2022. The official controls carried out on that commodity in relation to 
+aflatoxins and ochratoxin A by the Member States indicate an overall satisfactory degree of compliance with the 
+relevant requirements provided for in Union legislation. Therefore, an increased level of official controls for 
+aflatoxins and ochratoxin A is no longer justified for that commodity and the entry related to those contaminants in 
+Annex I to Implementing Regulation (EU) 2019/1793 should be deleted.
 EN OJ L, 29.1.2026 
-10/25 ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj
-
-[Page 12]
-Row Country of origin Food and feed (intended use) CN code ( 1)
-TARIC 
-sub- 
-division
-Hazard
-Frequency of 
-identity and 
-physical 
-checks (%)
-12 Israel (IL) (15) Basil (Ocimum basilicum)
-(Food)
-ex 1211 90 86 20 Pesticide 
-residues (3) 10
-13 India (IN)
-Betel leaves (Piper betle L.)
-(Food)
-ex 1404 90 00 (11) 10 Salmonella (4) 50
-Okra
-(Food – fresh, chilled or 
-frozen)
-ex 0709 99 90
-ex 0710 80 95
-20
-30
-Pesticide 
-resi­
-dues (
-3) (7)
-30
-Rice
-(Food)
-1006 Pesticide 
-residues (
-3) 10
-Guava (Psidium guajava)
-(Food)
-ex 0804 50 00 30 Pesticide 
-residues (3) 30
-Peppers of the genus Capsicum
-(sweet or other than sweet)
-(Food – dried, roasted,
-crushed or ground)
-0904 21 10
-Aflatoxins 10
-ex 0904 22 00 11; 19
-ex 0904 21 90 20
-ex 2005 99 10 10; 90
-ex 2005 99 80 94
-— Cumin seeds 0909 31 00
-Pesticide 
-residues (3) 30— Cumin seeds crushed or 
-ground
-(Food)
-0909 32 00
-Mixtures of food additives 
-containing locust bean gum or 
-guar gum
-(Food)
-ex 2106 90 92
-ex 2106 90 98
-ex 3824 99 93
-ex 3824 99 96
-Pesticide 
-residues (
-13) 20
-Peppers of the genus Piper, 
-dried or crushed or ground 
-fruit of the genus Capsicum or 
-of the genus Pimenta
-(Food – dried spices)
-0904
-Pesticide 
-residues (
-13) 20
-Calcium carbonate
-(Food and feed)
-ex 2106 90 92 55
-Pesticide 
-residues (13) 30
-ex 2106 90 98 60
-ex 25 30 90 70 10
-2836 50 00
-Bottle gourd (Lagenaria 
-siceraria)
-(Food – fresh and chilled)
-ex 0709 93 90 10 Pesticide 
-residues (3) 20
-OJ L, 29.1.2026 EN 
-ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 11/25
-
-[Page 13]
-Row Country of origin Food and feed (intended use) CN code ( 1)
-TARIC 
-sub- 
-division
-Hazard
-Frequency of 
-identity and 
-physical 
-checks (%)
-14 Kenya (KE)
-Beans (Vigna spp., Phaseolus
-spp.)
-(Food – fresh or chilled)
-0708 20 Pesticide 
-residues (
-3) 10
-Peppers of the genus Capsicum
-(other than sweet)
-(Food – fresh, chilled or 
-frozen)
-ex 0709 60 99
-ex 0710 80 59
-20
-20 Pesticide 
-residues (
-3) 20
-15 Sri Lanka (LK)
-Mukunuwenna (Alternanthera 
-sessilis)
-(Food)
-ex 0709 99 90 35 Pesticide 
-residues (3) 50
-Yardlong beans
-(Vigna unguiculata ssp. 
-sesquipedalis, Vigna unguiculata
-ssp. unguiculata)
-(Food – fresh, chilled or 
-frozen
-vegetables)
-ex 0708 20 00
-ex 0710 22 00
-10
-10
-Pesticide 
-residues (
-3) 30
-Peppers of the genus Capsicum
-(sweet or other than sweet)
-(Food – dried, rosted, crushed 
-or ground)
-0904 21 10
-Aflatoxins 50
-ex 0904 21 90 20
-ex 0904 22 00 11; 19
-ex 2005 99 10 10; 90
-ex 2005 99 80 94
-16 Madagascar 
-(MG)
-Black-eyed beans (Vigna 
-unguiculata)
-(Food)
-0713 35 00 Pesticide 
-residues (3) 50
-17 Mexico (MX) Green papaya (Carica papaya)
-(Food – fresh and chilled)
-0807 20 00 Pesticide 
-residues (3) 20
-18 Malaysia (MY)
-Jackfruit (Artocarpus 
-heterophyllus)
-(Food – fresh)
-ex 0810 90 20 20 Pesticide 
-residues (3) 50
-19 Pakistan (PK)
-Spice mixes
-(Food)
-0910 91 10
-0910 91 90 Aflatoxins 30
-Rice
-(Food)
-1006 Aflatoxins 
-and
-Ochratoxin 
-A
-10
-Pesticide 
-residues (
-3) 10
-20 Rwanda (RW)
-Peppers of the genus Capsicum
-(other than sweet)
-(Food – fresh, chilled or 
-frozen)
-ex 0709 60 99
-ex 0710 80 59
-20
-20 Pesticide 
-residues (
-3) 50
-EN OJ L, 29.1.2026 
-12/25 ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj
-
-[Page 14]
-Row Country of origin Food and feed (intended use) CN code ( 1)
-TARIC 
-sub- 
-division
-Hazard
-Frequency of 
-identity and 
-physical 
-checks (%)
-21 Syria (SY)
-Tahini and halva from 
-Sesamum seeds
-(Food)
-ex 1704 90 99
-ex 1806 20 95
-ex 1806 90 50
-ex 1806 90 60
-ex 2008 19 19
-ex 2008 19 99
-12; 92
-13; 93
-10
-11; 91
-41
-41
-Salmonella (
-2) 30
-22 Thailand (TH)
-Peppers of the genus Capsicum
-(other than sweet)
-(Food – fresh, chilled or 
-frozen)
-ex 0709 60 99
-ex 0710 80 59
-20
-20 Pesticide 
-resi­
-dues (
-3) (8)
-50
-Granadilla and passion fruit 
-(Passiflora ligularis and 
-Passiflora edulis)
-(Food – fresh)
-ex 0810 90 20
-ex 0810 90 20
-40
-50 Pesticide 
-residues (
-3)
-10
-23 Türkiye (TR)
-Lemons (Citrus limon, Citrus
-limonum)
-(Food – fresh, chilled or dried )
-0805 50 10 Pesticide 
-residues (3) 20
-Pomegranates
-(Food – fresh or chilled)
-ex 0810 90 75 30 Pesticide 
-resi­
-dues (
-3) (9)
-30
-— Sweet peppers ( Capsicum 
-annuum)
-0709 60 10
-0710 80 51
-Pesticide 
-resi­
-dues (3) (10)
-20— Peppers of the genus 
-Capsicum (other than 
-sweet)
-(Food – fresh, chilled or 
-frozen)
-ex 0709 60 99
-ex 0710 80 59
-20
-20
-Dried oregano
-(Food)
-ex 1211 90 86 40 Pyrrolizidine 
-alkaloids 30
-Sesamum seeds
-(Food)
-1207 40 90
-Salmonella (
-2) 30 ex 2008 19 1949
-ex 2008 19 99 49
-Tomatoes (Solanum 
-lycopersicum L.)
-(Food – fresh, chilled or 
-frozen
-vegetables)
-0702 00
-0710 80 70 Pesticide 
-residues (
-3) 20
-24 Uganda (UG)
-Peppers of the genus Capsicum
-(other than sweet)
-(Food – fresh, chilled or 
-frozen)
-ex 0709 60 99
-ex 0710 80 59
-20
-20 Pesticide 
-residues (
-3) 50
-OJ L, 29.1.2026 EN 
-ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 13/25
+2/25 ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj

@@ -1,0 +1,125 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-107-C61
+Parent Doc ID: A-RES-107
+Page Range: Page 17
+Word Range: 15911 - 16160
+Word Count: 250
+--------------------
+
+[Page 17]
+Marques et al. 1073
+Funding
+The author(s) disclosed receipt of the following ﬁnancial sup-
+port for the research, authorship, and/or publication of this arti-
+cle: The authors acknowledge the support of Laudes Foundation
+(formerly C&A Foundation - ref nº GR-068791) and Instituto-e (ref
+Blockchain) during research design and data collection.
+Supplemental Material
+Supplemental material for this article is available online (doi:
+10.1177/10591478231224928).
+Notes
+1. T ex Brasil (2020) ‘Dados da ind ́ustria têxtil e de confecção ref-
+erentes à 2019’, available at: http://texbrasil.com.br/pt/imprensa/
+dados-da-industria-textil-e-de-confeccao-em-2015/ (accessed 25
+Nov 2020).
+2. Among other defeats, in 2019 the Federal Government extin-
+guished the Ministry of Labour and transferred its responsibili-
+ties to the Minister of Economy. As a counterbalance, in 2020,
+the Supreme Court considered the Dirty List constitutional. The
+dispute continues.
+3. A vailable at: https://g1.globo.com/sp/sao-paulo/noticia/2022/01/
+29/numero-de-trabalhadores-resgatados-de-situacoes-de-trabal-
+ho-analogo-a-escravidao-na-cidade-de-sp-aumenta-quase-200-
+percent-em-2021-diz-mpt.ghtml and https://www.cnnbrasil.com.
+br/nacional/pandemia-impoe-retrocesso-ao-enfrentamento-do-
+traﬁco-de-pessoas-no-brasil/ (both accessed 25 Feb 2022).
+4. W e avoid the pejorative term sweatshop and opt for the term
+‘sewing cell’. W e do not use the term ‘workshop’ also often
+applied in the fashion industry for tier-2 suppliers, because we
+make many references to the ﬁve workshops conducted as full day
+activities during the project.
+References
+Agrawal TK, Kumar V, Pal R, et al. (2021) Blockchain-based frame-
+work for supply chain traceability: A case example of textile and
+clothing industry. Computers and Industrial Engineering 154:
+107130.
+Aguinis H, Villamor I, Lazzarini SG, et al. (2020) Conducting man-
+agement research in Latin America: Why and what’s in it for you?
+Journal of Management 46(5): 615–636.
+Asif M (2020) Supplier socioenvironmental compliance: A survey
+of the antecedents of standards decoupling. Journal of Cleaner
+Production 246: 1–18.
+Barratt M and Choi TY (2007) Mandated RFID and institutional
+responses: Cases of decentralized business units. Production and
+Operations Management 16(5): 569–585.
+Benstead A V, Hendry LC and Stevenson M (2018) Horizontal col-
+laboration in response to modern slavery legislation: An action
+research project. International Journal of Operations & Produc-
+tion Management 38(12): 2286–2312.
+Benstead A V, Hendry LC and Stevenson M (2021) Detecting and
+remediating modern slavery in supply chains: A targeted audit
+approach. Production Planning & Control 32(13): 1136–1157.
+Benstead A V, Mwesiumo D, Moradlou H, et al. (2022) Entering the
+world behind the clothes that we wear: Practical applications of
+blockchain technology. Production Planning & Control, Ahead-
+of-Print: 1–18.
+Bromley P and Powell WW (2012) From smoke and mirrors to walk-
+ing the talk: Decoupling in the contemporary world. The Academy
+of Management Annals 6(1): 483–530.
+Busse C, Schleper MC, Niu M, et al. (2016) Supplier development
+for sustainability: Contextual barriers in global supply chains.
+International Journal of Physical Distribution & Logistics Man-
+agement 46(5): 442–468.
+Carmagnac L, Touboulic A and Carbone V (2022) A wolf in
+sheep’s clothing: The ambiguous role of multistakeholder meta-
+organisations in sustainable supply chains. M@n@Gement 25(4):
+45–63.
+Caruana R, Crane A, Gold S, et al. (2020) Modern slavery in business:
+The sad and sorry state of a non-ﬁeld. Business & Society 60(2):
+251–287.
+Chandrasekaran A, Treville S and Browning T (2020) Editorial:
+Intervention-based research (IBR) - what, where, and how to use
+it in operations management. Journal of Operations Management
+66(4): 370–378.
+Checkland P (1985) From optimizing to learning: A development of
+systems thinking for the 1990s. The Journal of the Operational
+Research Society 36(9): 757–767.
+Chen L, Lee HL and Tang CS (2022) Supply chain fairness. Produc-
+tion and Operations Management 31(12): 4304–4318.
+Christ KL, Burritt RL and Schaltegger S (2020) Accounting for
+work conditions from modern slavery to decent work.Accounting,
+Auditing & Accountability Journal 33(7): 1481–1504.
+Cole R and Shirgholami Z (2021) The outlook for modern slavery
+in the apparel sector in a post-lockdown economy. Supply Chain
+Management: An International Journal 27(4): 526–537.
+Danese P, Mocellin R and Romano P (2021) Designing blockchain
+systems to prevent counterfeiting in wine supply chains: A
+multiple-case study. International Journal of Operations & Pro-
+duction Management 41(13): 1–33.
+Doorey DJ (2011) The transparent supply chain: From resistance
+to implementation at Nike and Levi-Strauss. Journal of Business
+Ethics 103(4): 587–603.
+Efanov D and Roschin P (2018) The all-pervasiveness of the
+blockchain technology. Procedia Computer Science 123:
+116–121.
+Emery GW and Marques MA (2011) The effect of transaction costs,
+payment terms and power on the level of raw materials inventories.
+Journal of Operations Management 29(3): 236–249.
+Fendt J and Kaminska-Labb ́e R (2011) Relevance and creativity
+through design-driven action research: Introducing pragmatic
+adequacy. European Management Journal 29(3): 217–233.
+Fudge J and McCann D (2015) Unacceptable forms of work:
+A global and comparative study . Retrieved from Geneva:
+https://www.ilo.org/global/publications/WCMS_436165/lang–
+en/index.htm.
+Glover J and Touboulic A (2020) Tales from the countryside: Unpack-
+ing “passing the environmental buck” as hypocritical practice in
+the food supply chain. Journal of Business Research 121: 33–46.
+Gold S, Hahn R and Seuring S (2013) Sustainable supply chain man-
+agement in “Base of the Pyramid” food projects—A path to triple
+bottom line approaches for multinationals?International Business
+Review 22(5): 784–799.
+Greve HR, Palmer D and Pozner JE (2010) Organizations gone
+wild: The causes, processes, and consequences of organizational
+misconduct. The Academy of Management Annals 4(1): 53–
+107.

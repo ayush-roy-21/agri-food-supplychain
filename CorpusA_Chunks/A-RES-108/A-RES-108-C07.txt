@@ -1,201 +1,141 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-108-C07
 Parent Doc ID: A-RES-108
-Page Range: Page 12 to Page 13
-Word Range: 10923 - 12877
-Word Count: 1,955
+Page Range: Page 2
+Word Range: 1530 - 1779
+Word Count: 250
 --------------------
 
-[Page 12]
+[Page 2]
 Sustainable Production and Consumption 39 (2023) 203–215
-214
-Kamble, S.S., Gunasekaran, A., Parekh, H., Joshi, S., 2019. Modeling the internet of 
-things adoption barriers in food retail supply chains. J. Retail. Consum. Serv. 48, 
-154 – 168 . 
-Kamble, S.S., Gunasekaran, A., Sharma, R., 2020. Modeling the blockchain enabled 
-traceability in agriculture supply chain. Int. J. Inf. Manag. 52, 101967 . 
-Kamilaris, A., Fonts, A., Prenafeta-Bold ύ , F.X., 2019. The rise of blockchain technology in 
-agriculture and FSC. Trends Food Sci. Technol. 91, 640 – 652 . 
-Kannan, D., Solanki, R., Darbari, J.D., Govindan, K., Jha, P.C., 2023. A novel bi-objective 
-optimization model for an eco-efficient reverse logistics network design 
-configuration. J. Clean. Prod. 394, 136357 . 
-Kaufmann, L., Mayer, A., Matej, S., Kalt, G., Lauk, C., Theurl, M.C., Erb, K.H., 2022. 
-Regional self-sufficiency: a multi-dimensional analysis relating agricultural 
-production and consumption in the European Union. Sustain. Prod. Consum. https:// 
-doi.org/10.1016/j.spc.2022.08.014 . 
-Kayikci, Y., Subramanian, N., Dora, M., Bhatia, M.S., 2022. Food supply chain in the era 
-of industry 4.0: blockchain technology implementation opportunities and 
-impediments from the perspective of people, process, performance, and technology. 
-Prod. Plan. Control 33 (2 – 3), 301 – 321 . 
-K ¨ohler, S., Pizzol, M., 2020. Technology assessment of blockchain-based technologies in 
-the food supply chain. J. Clean. Prod. 269, 122193 . 
-Kouhizadeh, M., Saberi, S., Sarkis, J., 2021. Blockchain technology and the sustainable 
-supply chain: theoretically exploring adoption barriers. Int. J. Prod. Econ. 231, 
-107831 . 
-Kumar, S., Raut, R.D., Nayal, K., Kraus, S., Yadav, V.S., Narkhede, B.E., 2021. To identify 
-industry 4.0 and circular economy adoption barriers in the agriculture supply chain 
-by using ISM-ANP. J. Clean. Prod. 293, 126023 . 
-Kumar, A., Mangla, S.K., Kumar, P., 2022. An integrated literature review on sustainable 
-food supply chains: exploring research themes and future directions. Sci. Total 
-Environ. 821, 153411, 15 May .  
-Kurniawan, T.A., Othman, M.H.D., Hwang, G.H., Gikas, P., 2022. Unlocking digital 
-technologies for waste recycling in industry 4.0 era: a transformation towards a 
-digitalization-based circular economy in Indonesia. J. Clean. Prod. 357, 131911 . 
-Latka, Catharina, Parodi, Alejandro, van Hal, Ollie, Heckelei, Thomas, Leip, Adrian, 
-Witzke, Heinz-Peter, van Zanten, Hannah H.E., 2022. Competing for food 
-waste – Policies ’ market feedbacks imply sustainability tradeoffs. Resour. Conserv. 
-Recycl. 186, 106545 . 
-Lee, S.Y., Stuckey, D.C., 2022. Separation and biosynthesis of value-added compounds 
-from food-processing wastewater: towards sustainable wastewater resource 
-recovery. J. Clean. Prod. 357, 131975, 10 July .  
-Lehtokunnas, T., Mattila, M., N ¨arv ¨anen, E., Mesiranta, N., 2022. Towards a circular 
-economy in food consumption: food waste reduction practices as ethical work. 
-J. Consum. Cult. 22 (1), 227 – 245 . 
-Lezoche, M., Hernandez, J.E., Díaz, M.D.M.E.A., Panetto, H., Kacprzyk, J., 2020. Agri- 
-food 4.0: a survey of the supply chains and technologies for the future agriculture. 
-Comput. Ind. 117, 103187 . 
-Li, Y., Shou, Y., Ding, R., Sun, T., Zhou, Q., 2019. Governing local sourcing practices of 
-overseas projects for the belt and road initiative: a framework and evaluation. 
-Transport Res E-Log 126, 212 – 226 . 
-Li, Y., Dai, J., Cui, L., 2020. The impact of digital technologies on economic and 
-environmental performance in the context of industry 4.0: a moderated mediation 
-model. Int. J. Prod. Econ. 229, 107777 . 
-Lopes de Sousa Jabbour, A.B., Frascareli, F.C.D.O., Santibanez Gonzalez, E.D., 
-Chiappetta Jabbour, C.J., 2021. Are FSC taking advantage of the circular economy? 
-A research agenda on tackling food waste based on Industry 4.0 technologies. Prod. 
-Plan. Control 1 – 17 . 
-Lorek, S., Fuchs, D., 2013. Strong sustainable consumption governance – precondition for 
-a degrowth path? J. Clean. Prod. 38, 36 – 43 . 
-Lorek, S., Spangenberg, J.H., 2014. Sustainable consumption within a sustainable 
-economy – beyond green growth and green economies. J. Clean. Prod. 63, 33 – 44 . 
-Ludlow, J., Jalil-Vega, F., Rivera, X.S., Garrido, R.A., Hawkes, A., Staffell, I., 
-Balcombe, P., 2021. Organic waste to energy: resource potential and barriers to 
-uptake in Chile. Sustain. Prod. Consum. 28, 1522 – 1537 . 
-Luo, Y., Wu, L., Huang, D., Zhu, J., 2021. Household food waste in rural China: a 
-noteworthy reality and a systematic analysis. Waste Manag. Res. 39 (11), 
-1389 – 1395 . 
-Mahdad, M., Hasanov, M., Isakhanyan, G., Dolfsma, W., 2022. A smart web of firms, 
-farms and internet of things (IOT): enabling collaboration-based business models in 
-the agri-food industry. Br. Food J. 124 (6), 1857 – 1874 . 
-Mak, T.M., Xiong, X., Tsang, D.C., Iris, K.M., Poon, C.S., 2020. Sustainable food waste 
-management towards circular bioeconomy: policy review, limitations and 
-opportunities. Bioresour. Technol. 297, 122497 . 
-Mangla, S.K., Govindan, K., Luthra, S., 2017. Prioritizing the barriers to achieve 
-sustainable consumption and production trends in supply chains using fuzzy 
-analytical hierarchy process. J. Clean. Prod. 151, 509 – 525 . 
-Mangla, S.K., Luthra, S., Rich, N., Kumar, D., Rana, N.P., Dwivedi, Y.K., 2018. Enablers to 
-implement sustainable initiatives in agri-FSC. Int. J. Prod. Econ. 203, 379 – 393 . 
-Marvin, H.J., Bouzembrak, Y., van der Fels-Klerx, H.J., Kempenaar, C., Veerkamp, R., 
-Chauhan, A., Tekinerdogan, B., 2022. Digitalisation and artificial intelligence for 
-sustainable food systems. Trends Food Sci. Technol. 821, 153411, 15 May .  
-Massaro, M., Secinaro, S., Dal Mas, F., Brescia, V., Calandra, D., 2021. Industry 4.0 and 
-circular economy: an exploratory analysis of academic and practitioners' 
-perspectives. Bus. Strateg. Environ. 30 (2), 1213 – 1231 . 
-Mathews, J.A., Tan, H., 2016. Circular economy: lessons from China. Nature 531 (7595), 
-440 – 442 . 
-Matzembacher, D.E., Brancoli, P., Maia, L.M., Eriksson, M., 2020. Consumer ’ s food waste 
-in different restaurants configuration: a comparison between different levels of 
-incentive and interaction. Waste Manag. 114, 263 – 273 . 
-Matzembacher, D.E., Vieira, L.M., de Barcellos, M.D., 2021. An analysis of multi- 
-stakeholder initiatives to reduce food loss and waste in an emerging country – Brazil. 
-Ind. Mark. Manag. 93, 591 – 604 . 
-Mensi, A., Udenigwe, C.C., 2021. Emerging and practical food innovations for achieving 
-the sustainable development goals (SDG) target. Trends Food Sci. Technol. 111, 
-783 – 789 . 
-Moktadir, M.A., Ali, S.M., Jabbour, C.J.C., Paul, A., Ahmed, S., Sultana, R., Rahman, T., 
-2019. Key factors for energy-efficient supply chains: implications for energy policy in 
-emerging economies. Energy 189, 116129 . 
-Mondal, C., Giri, B.C., Biswas, S., 2022. Integrating corporate social responsibility in a 
-closed-loop supply chain under government subsidy and used products collection 
-strategies. Flex. Serv. Manuf. J. 34, 65 – 100 . 
-Mukhuty, S., Upadhyay, A., Rothwell, H., 2022. Strategic sustainable development of 
-industry 4.0 through the lens of social responsibility: the role of human resource 
-practices. Bus. Strateg. Environ. https://doi.org/10.1002/bse.3008 . 
-Obersteiner, M., Walsh, B., Frank, S., Havlík, P., Cantele, M., Liu, J., van Vuuren, D., 
-2016. Assessing the land resource – food price nexus of the sustainable development 
-goals. Sci. Adv. 2 (9), e1501499 . 
-Orji, I.J., Kusi-Sarpong, S., Gupta, H., 2020. The critical success factors of using social 
-media for supply chain social sustainability in the freight logistics industry. Int. J. 
-Prod. Res. 58 (5), 1522 – 1539 . 
-O'Rourke, D., Lollo, N., 2015. Transforming consumption: from decoupling, to behavior 
-change, to system changes for sustainable consumption. Annu. Rev. Environ. Resour. 
-40, 233 – 259 . 
-Papargyropoulou, E., Lozano, R., Steinberger, J.K., Wright, N., Bin Ujang, Z., 2014. The 
-food waste hierarchy as a framework for the management of food surplus and food 
-waste. J. Clean. Prod. 76, 106 – 115 . 
-Ranta, V., Aarikka-Stenroos, L., V ¨ais ¨anen, J.M., 2021. Digital technologies catalyzing 
-business model innovation for circular economy — multiple case study. Resour. 
-Conserv. Recycl. 164, 105155 . 
-Roy, V., Singh, S., 2017. Mapping the business focus in sustainable production and 
-consumption literature: review and research framework. J. Clean. Prod. 150, 
-224 – 236 . 
-Roy, T., Garza-Reyes, J.A., Kumar, V., Kumar, A., Agrawal, R., 2022. Redesigning 
-traditional linear supply chains into circular supply chains – a study into its 
-challenges. Sustain. Prod. Consum. 31, 113 – 126 . 
-Saberi, S., 2018. Sustainable, multiperiod supply chain network model with freight 
-carrier through reduction in pollution stock. Transport Res E-Log 118, 421 – 444 . 
-Sachs, J.D., Schmidt-Traub, G., Mazzucato, M., Messner, D., Nakicenovic, N., 
-Rockstr ¨om, J., 2019. Six transformations to achieve the sustainable development 
-goals. Nat. Sustain. 2 (9), 805 – 814 . 
-Santagata, R., Ripa, M., Genovese, A., Ulgiati, S., 2021. Food waste recovery pathways: 
-challenges and opportunities for an emerging bio-based circular economy. A 
-systematic review and an assessment. J. Clean. Prod. 286, 125490 . 
-Seyedan, M., Mafakheri, F., 2020. Predictive big data analytics for supply chain demand 
-forecasting: methods, applications, and research opportunities. J. Big Data 7 (1), 
-1 – 22 . 
-Sharma, M., Joshi, S., Luthra, S., Kumar, A., 2022. Managing disruptions and risks amidst 
-COVID-19 outbreaks: role of blockchain technology in developing resilient food 
-supply chains. Oper. Manag. Res. 15 (1), 268 – 281 . 
-Singh, A., Singhania, R.R., Soam, S., Chen, C.W., Haldar, D., Varjani, S., Patel, A.K., 
-2022. Production of bioethanol from food waste: status and perspectives. Bioresour. 
-Technol. 360, 127651. September .  
-Sonnino, R., McWilliam, S., 2011. Food waste, catering practices and public 
-procurement: a case study of hospital food systems in Wales. Food Policy 36 (6), 
-823 – 829 . 
-Strotmann, C., Baur, V., B ¨ornert, N., Gerwin, P., 2022. Generation and prevention of food 
-waste in the German food service sector in the COVID-19 pandemic – digital 
-approaches to encounter the pandemic related crisis. Socio Econ. Plan. Sci. 82 (Part 
-A), 101104. August .  
-Takacs, F., Brunner, D., Frankenberger, K., 2022. Barriers to a circular economy in small- 
-and medium-sized enterprises and their integration in a sustainable strategic 
-management framework. J. Clean. Prod. 362, 132227, 15 August .  
-Tian, Y., Wang, C., 2016. Environmental education in China: development, difficulties 
-and recommendations. J. Soc. Sci. Stud. 3 (1), 31 – 43 . 
-Torkayesh, A.E., Pamucar, D., Ecer, F., Chatterjee, P., 2021. An integrated BWM-LBWA- 
-CoCoSo framework for evaluation of healthcare sectors in Eastern Europe. Socio 
-Econ. Plan. Sci. 78, 101052 . 
-Tseng, M.L., Lin, C.W.R., Sujanto, R.Y., Lim, M.K., Bui, T.D., 2021. Assessing sustainable 
-consumption in packaged food in Indonesia: corporate communication drives 
-consumer perception and behavior. Sustainability 13 (14), 8021 . 
-UN, 2015. Transforming our world. The 2030 agenda on sustainable development. htt 
-ps://sustainabledevelopment.un.org/post2015/transformingourworld . 
-UNEP, 2020. Stockholm Convention - Status of Ratification [Online]. Online: United 
-Nations Environment Programme. Available. http://chm.pops.int/Countries/Stat 
-usofRatifications/PartiesandSignatoires/tabid/4500/Default.aspx . (Accessed 5 May 
-2020). 
-Von der Leyen, U., 2019. A Union that strives for more. My agenda for Europe. Political 
-guidelines for the next European Commission, 2024, 2019. https://ec.europa.eu/in 
-fo/sites/default/files/political-guidelines-next-commission_en_0.pdf . 
-Xu, S., Nupur, R., Kannan, D., Sharma, R., Sharma, P., Kumar, S., Bai, C., 2023. An 
-integrated fuzzy MCDM approach for manufacturing process improvement in 
-MSMEs. Ann. Oper. Res. 1 – 37 . 
-M. Sharma et al.
-
-[Page 13]
-Sustainable Production and Consumption 39 (2023) 203–215
-215
-Yadav, V.S., Singh, A.R., Gunasekaran, A., Raut, R.D., Narkhede, B.E., 2022. A systematic 
-literature review of the agro-food supply chain: challenges, network design, and 
-performance measurement perspectives. Sustain. Prod. Consum. 29, 685 – 704 . 
-Yavas, V., Ozkan-Ozen, Y.D., 2020. Logistics centers in the new industrial era: a proposed 
-framework for logistics center 4.0. Transport Res E-Log 135, 101864 . 
-Yazdani, M., Zarate, P., Zavadskas, E.K., Turskis, Z., 2019. A combined compromise 
-solution (CoCoSo) method for multi-criteria decision-making problems. Manag. 
-Decis. 57 (9), 2501 – 2519 . 
-Zhao, X., Wang, P., Pal, R., 2021. The effects of agro-food supply chain integration on 
-product quality and financial performance: evidence from Chinese agro-food 
-processing business. Int. J. Prod. Econ. 231, 107832 . 
-ˇ
-Zi ˇzovi ´c, M., Pamucar, D., 2019. New model for determining criteria weights: level based 
-weight assessment (LBWA) model. Decis. Mak. 2 (2), 126 – 137 . 
+204
+et al., 2021 ). It is clear that digitalization has the potential to improve 
+the SPC in FSC, but it still faces challenges including a conservative 
+perception, a risk-averse culture, lack of technical expertise etc. 
+( Mathews and Tan, 2016 ; Lezoche et al., 2020 ; Diaz-Ruiz et al., 2019 ). 
+Some research papers have looked at environmental studies on SPC but 
+there are few empirical studies on how digital technologies are being 
+used in FSC to study SPC patterns ( Berkhout and Hertin, 2004 ; Li et al., 
+2020 ; Heidenstr ø m and Hebrok, 2022 ). Beier et al. (2018) explored how 
+the industry might achieve sustainable production growth, transparency 
+and resource efficiency through digitization. The dynamic changes in 
+society production and consumption requirements have been addressed 
+by the Sustainable Development Agenda of the United Nations. Addi -
+tionally, UN-SDG-12 guarantees SPC in all economies ( Bengtsson et al., 
+2018 ; Gjorgievski et al., 2022 ). SPC barriers have not been thoroughly 
+researched, and it is yet unknown which barriers prevent the deploy -
+ment of digital technologies. Additionally, the path towards a circular 
+economy (is less explored to achieve SPC in FSC. In emerging economies, 
+the use of digital technology is still in its early stages, necessitating 
+prompt evaluation ( Kurniawan et al., 2022 ). 
+SPC focuses primarily on efficient resource mobilisation and catering 
+to the basic needs of every household. It aims to bring about systemic 
+changes such as minimising the dependence on scarce resources, 
+changing practices and processes for reducing food waste, and 
+enhancing food security ( O'Rourke and Lollo, 2015 ; Deka and Goswami, 
+2022 ). SPC is based on three significant objectives:  
+(a) Decoupling the environmental dilapidation caused by economic 
+growth at the expense of environmental degradation and non- 
+recycled waste; 
+(b) Building the circularity approach across production and con -
+sumption processes from cradle to gate to a cradle to cradle life 
+cycle;  
+(c) Building support systems for new developing countries to become 
+self-reliant and eradicate poverty through low-cost, new and 
+highly competitive technologies. 
+Using modern digital technology, food waste management in a cir -
+cular economy can accomplish the SDGs ( Mak et al., 2020 ). Moreover, 
+food waste circularity will improve the value chain to minimize global 
+greenhouse gas emissions ( Latka et al., 2022 ). The SPC patterns of food 
+products are responsible for numerous environmental and climate 
+changes which have a negative impact on human lifestyles and threaten 
+future generations. As part of the compliance with the Paris Climate 
+Agreement (2015), the SPC pattern is regarded as a strategic method of 
+addressing these issues. As an integral aspect of the SDGs is aimed at 
+achieving sustainable food systems, the European Union suggested a 
+farm-to-fork strategy that ensures an SPC path towards sufficient and 
+healthy food value chains ( UN, 2015 ; Von der Leyen, 2019 ; Kaufmann 
+et al., 2022 ). 
+Previous research indicates that digital technologies are essential for 
+performance improvements ( Govindan et al., 2014 ) and the transition to 
+sustainable food systems ( Joshi and Sharma, 2021 ; Marvin et al., 2022 ). 
+It is noted that utilizing innovative technologies for pre- and post- 
+harvest operations within agri-food value chains is a common aspect 
+of digitalizing agricultural systems. Digital technologies encompass a 
+broader array of tools and technologies, such as big data analytics 
+(BDA), blockchain technology, the Internet of Things (IoT) and others. 
+These technologies together reconfigure, realign and relink processes 
+across organisational processes through continuously innovating busi -
+ness models that aim to increase the value chain and firm-level profit -
+ability ( Cane and Parra, 2020 ; Chauhan et al., 2021 ). Digital 
+technologies provide advantages such as the assurance of inter-firm 
+information exchange throughout supply chains to address lead time, 
+in-transit losses and damages, end-user consumption habits, and overall 
+food safety and security ( Strotmann et al., 2022 ). Additionally, digitally 
+enabled supply chains generate downstream integration to fulfil the 
+needs of the end client ( Annosi et al., 2021 ; Kurniawan et al., 2022 ). 
+Multiple technologies, including BDA, machine learning and deep 
+learning, are used to facilitate connectivity, information gathering and 
+distribution, and data-driven decision-making ( Jun et al., 2021 ). 
+Farooque et al. (2019) studied challenges to the circular food supply 
+chain. Kamble et al. (2019) developed the modelling of IoT adoption 
+hurdles in FSC; Annosi et al. (2019) highlighted the potential of digital 
+technologies to prevent food waste. While earlier studies have addressed 
+the challenges associated with building circular supply chains in the 
+food industry, less attention has been dedicated to the barriers associ -
+ated with applying digital technology to achieve SPC. In addition, 
+strategic options to improve SPC in FSC have not been investigated in 
+previous research. Consequently, the purpose of this study is to address 
+the following two significant research questions: 
+RQ1: What barriers exist in the implementation of digital technology 
+to achieve SPC in the FSC? 
+RQ2: What are the potential strategic solutions for overcoming bar -
+riers in the FSC's deployment of digital technology to attain SPC? 
+The current study proposes a framework for investigating and 
+assessing the most significant barriers to the use of digital technologies 
+in FSC in order to achieve SPC. Integrated BWM-LBWA-CoCoSo meth -
+odologies have been utilised in this work. Based on the food sector de -
+cision-makers' responses, the proposed framework has been evaluated. 
+The study's most significant implications are the analysis of barriers to 
+the application of digital technologies in FSC from a CE perspective. The 
+study provides the following significant contributions:  
+• Critical barriers to implementing digital technologies in FSC to 
+achieve SPC are identified, assessed and ranked.  
+• Strategic solutions for mitigating the adverse effect of barriers in 
+implementing digital technologies for SPC in FSC are offered. 
+The order of the subsequent sections of the paper is as follows. 
+Section 2 discusses the literature review on the existing barriers to 
+digitization in FSC in order to attain SPC. The third section describes the 
+study's research methodology. In Section 4 , the achieved results are 
+discussed. Strategy mapping is presented in Section 5 . Section 6 con -
+cludes the study. 
+2. Literature review 
+Prior studies have evaluated sustainability of the FSC. Govindan and 
+Hasanagic (2018) demonstrated the barriers and possible solutions for 
+Nomenclature 
+A
+B 
+Best-to-Others vector 
+Aw Others-to-Worst vector 
+BWM Best Worst Method 
+CoCoSo Combined Compromise Solution 
+CI Consistency Index 
+CR Consistency Ratio 
+CE Circular Economy 
+LBWA Level Based Weight Assessment 
+w Weights 
+SDG Sustainable Development Goals 
+ξ * Consistency index 
+r
+0 
+the elasticity coefficient 
+K
+ia 
+arithmetic mean of WSM and WPM scores 
+K
+ib 
+sum of WSM and WPM scores 
+K
+ic 
+balanced compromise score of WSM and WPM  
 M. Sharma et al.

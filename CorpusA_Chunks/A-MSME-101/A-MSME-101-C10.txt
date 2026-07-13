@@ -1,0 +1,100 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-101-C10
+Parent Doc ID: A-MSME-101
+Page Range: Page 15 to Page 60
+Word Range: 2794 - 3082
+Word Count: 289
+--------------------
+
+[Page 15]
+Therefore, exporting is crucial for Indian MSMEs to break away from dwarfism and unlock their true 
+growth potential. Exporting can allow 54 lakh manufacturing MSMEs to tap into new markets and 
+expand their customer base, leading to an increased revenue and profit. Additionally, it helps businesses 
+diversify their customer base and increase their revenues. Moreover, exporting can enhance a producer's 
+reputation as a global player and a credible business partner, leading to increased visibility and 
+marketability. 
+Theoretically, India has a competitive advantage in exporting low skilled manufacturing products, 
+but the country consistently underperformed. India's market size is on average less than 1 % of the 
+Global market size for low skilled manufacturing exports even though Indian MSMEs are characterized by 
+low skilled and labor-intensive manufacturing12• These manufacturing units employ approximately 10% of 
+entire the Indian labor force13• Despite India's large working-age population (20% of the global 
+working-age population 14) and significant employment in manufacturing MSMEs, its share of global
+exports of low-skilled manufacturing products is only 5%15• 
+Figure 2.3 is a scatter plot of non-high income countries which plots the share of low skilled 
+manufacturing on the x axis and share of working age population on the y axis. Compared to India, 
+Vietnam, Bangladesh, and China have a more disproportionate share of low-skilled goods exports given 
+the size of their working age population. By unlocking MSMEs, we can boost our export share in 
+low-skilled goods export. 
+QI 
+·.s
+C: 
+0 
+� 
+J: 
+0 
+z 
+C: 
+0 
+"' 
+Ill 
+0 
+0 
+QI 
+Ill 
+0.5 
+0.4 
+0.3 
+0.2 
+0.1 
+0 0.05 0.1 0.15 0.2 0.25 
+Share of Working Age Population among Non-HIC countries 
+Figure 2.3: Labor endowment and low skill manufacturing export performance of non- high-income countries 
+Source: India's Export-Led Growth: Exemplar and Exception, Shoumitro Chatterjee and Arvind Subramanian, 2018 
+Despite the opportunity for MSMEs to pursue exports, only 0.95% of MSME engage in it 16• Over 1.5
+lakh units out of 1.58 crore registered MSMEs on the portal claimed to export their goods and services 7 7• 
+Figure 2.4 showcases the distribution of MSMEs by annual turnover. It is worth noting that for a significant 
+number of MSMEs, the annual turnover from exports is less than INR 1 crore. 
+12KLEMS,2019-20,FED Analysis 
+13Udyam Dashboard 
+14 World Bank Estimate of Population ages 15-64 
+15 India's Export-Led Growth: Exemplar and Exception, Shoumitro Chatterjee and Arvind Subramanian, 2018 
+16 Udyam Registration Publication 
+17 Udyam Dashboard 
+13
+
+[Page 60]
+58
+Appendix 
+Table 1: Product categories well suited for MSME exports and subsequent size 
+of global exports36 
+Product Category Product HS Code Global Export 
+Herbal 
+Supplements and 
+Ayurveda 
+Products 
+Essential oils, whether 
+terpene less, incl. concretes 
+and absolutes; resinoids 
+3301 USD 6.06 Bn 
+Ayurvedic products 3004901
+1 
+USD 7.08 Bn 
+Total USD 13.14 
+Bn 
+Wood Products Furniture and parts thereof 
+Wooden furniture for offices 
+Wooden furniture 
+Furniture of bamboo 
+Total USD 152.89 
+Bn 
+Handicrafts Candles and the like 3406001
+0 
+USD 4.69 Bn 
+Agarbatti and other 
+odoriferous preparation 
+which operate by burning 
+330741 
+Handbags of other materials 
+excluding wicker 
+420229 USD 1.11 Bn 
+36 ITC Trade Data, 2021

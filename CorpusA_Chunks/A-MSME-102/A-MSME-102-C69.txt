@@ -1,0 +1,55 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C69
+Parent Doc ID: A-MSME-102
+Page Range: Page 81
+Word Range: 19718 - 20093
+Word Count: 376
+--------------------
+
+[Page 81]
+81
+Examination 
+of Key 
+policies 
+designed 
+to assist 
+MSMEs
+Credit Guarantees Trust 
+for MSMEs 
+1.
+Financial inclusion for MSMEs is imperative for economic growth. However, the persistent 
+credit gap excludes them from India’s formal financial institutions. A significant reason for the 
+limited access to bank financing in this industry is the banks’ perception of high risk when 
+lending to micro and small enterprises (MSEs). The challenge of providing collateral, especially 
+for very small businesses seeking small loans and first-generation entrepreneurs, makes it 
+harder for them to access finance for their enterprise. (Ministry of Micro, Small & Medium 
+Enterprises)
+In response, the Ministry of Micro, Small, and Medium Enterprises, in collaboration with the 
+Small Industries Development Bank of India (SIDBI), established the Credit Guarantee Fund 
+Trust for Micro and Small Enterprises (CGTMSE) in 2000. The main objective was to offer 
+a collateral-free guarantee for loans and advances, which include term loans and working 
+capital assistance, provided by lending institutions to both new and existing Micro and Small 
+Enterprises. Additionally, lending institutions are required to pay guarantee fees, annual 
+service fees, and other charges as determined by the Government of India and SIDBI (About 
+CGTMSE, 2023).
+Credit Guarantee Scheme for Banks (CGS-I): 
+Credit Guarantee Scheme for NBFCs (CGS-II): 
+Credit Guarantee Scheme for Subordinate Debt (CGSSD): 
+Credit Guarantee Scheme for PM SVANidhi (CGS-PMS): 
+Credit Guarantee Scheme for Co-Lending (CGSCL): 
+The scheme provides credit guarantees of up to ₹5 crore for unsecured loans to MSMEs. This 
+includes special benefits for certain groups, such as women, SC/ST entrepreneurs, and those 
+in aspirational districts. A ‘Hybrid Security Model’ is available for partially collateralised loans.
+It was launched in 2017 to help NBFCs provide easier access to credit 
+for MSMEs. 
+The Scheme, launched in June 2020, provided credit to stressed MSMEs. It ended on March 
+31, 2023. The aim was to help MSME promoters infuse funds into their businesses through 
+equity, quasi-equity, or sub-debt.
+This scheme was launched to help street vendors affected by the COVID-19 pandemic. It 
+provided working capital loans and encouraged them to formalise their businesses and adopt 
+digital payments.
+The RBI introduced the co-lending model, which aims to improve credit access for 
+underserved sectors. It combines the lower cost of funds from banks with the wider reach of 
+NBFCs. The CGTMSE launched the CGSCL in February 2022 to further support this model, 
+providing guarantee coverage for loans extended jointly by banks and NBFCs.
+CGTMSE has five schemes under its umbrella:

@@ -1,0 +1,77 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-103-C54
+Parent Doc ID: A-MSME-103
+Page Range: Page 51
+Word Range: 15639 - 16034
+Word Count: 396
+--------------------
+
+[Page 51]
+Strategy for unlocking export potential for MSMEs in West Bengal
+51
+Leveraging Opportunities
+To comprehend the challenges faced on 
+the ground, we engaged in discussions with 
+several exporters and importers in the state of 
+West Bengal. The ensuing section provides a 
+synopsis of the primary issues they encounter, 
+offering glimpses into some of the potential 
+recommendations they have suggested to 
+mitigate these challenges. These conversations 
+serve as the foundation for our recommendations, 
+outlined in the S.M.A.R.T. goals section. Through 
+the adoption of these recommendations, West 
+Bengal has the potential to enhance its standing 
+as a significant player in the global export market.
+Exporter/Importer
+Perspectives
+• The importance of port and logistics 
+infrastructure in determining West Bengal's 
+competitiveness is underscored by these 
+interactions. Improving port logistics 
+infrastructure is crucial for reducing shipping 
+costs and enhancing overall efficiency. 
+Notably, businesses find it more cost-effective 
+to ship exports from Kolkata to Mumbai 
+before reaching the destination, revealing 
+exorbitantly higher shipping charges from 
+Kolkata port, primarily due to lower import 
+volumes.
+• Despite the locational advantage of Kolkata 
+port, draft problems arising from perennial 
+siltation in the Ganges result in ships having 
+to reduce their load or dock at other Indian 
+ports. Similar draft issues are observed at 
+the Haldia port. Challenges at Haldia include 
+high clearing prices, limited accessibility for 
+capesize vessels, and difficulties in availing 
+trucks due to fixed quotas. The absence of an 
+effective grievance redressal system at Haldia 
+port adds to these challenges, portraying a 
+scenario of limited accountability.
+• Investing in a deep-sea port is deemed 
+essential to overcome limitations posed 
+by riverine ports like Kolkata and Haldia. 
+ Export Cycle Import Cycle
+Ports December 2023 OADT December 2023 OADT
+Western Region 85.1 89.9 23 25.8
+JNPA 70.4 72 18.4 22.2
+Mundra 101.9 109.7 31.3 29.3
+Pipavav 84.8 94.2 87.8 71
+Kandla 78.1 132.9 45.3 47.8
+Hazira 110.9 109.2 21.7 24.5
+Southern Region 83.3 91.2 66.2 52.6
+Chennai 90.5 96.6 67.9 57.2
+Kochi 82.9 101.6 33.7 41.3
+Kattupalli 99 103.7 90.1 76.1
+Tuticorin 58.2 66.1 19.8 21.9
+Krishnapatnam 74.7 76.2 31.5 32.1
+Ennore 89 104.6 85.4 69.1
+New Mangalore 81.3 110.4 73.4 69.9
+Eastern Region 93.8 107 48.5 45.4
+Vizag 92.4 102.8 50.6 55.2
+Kolkata 87.2 105.7 43.5 35.8
+Haldia 141.2 125.3 83.6 86.4
+Table: Port Dwell Time (in hours)
+Note: OADT is the Overall Average Dwell Time, overall average since inception
+Source: NICDC Logistics Data Services Ltd.

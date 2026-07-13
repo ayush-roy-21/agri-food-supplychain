@@ -1,0 +1,109 @@
+--- CHUNK HEADER ---
+Chunk ID: A-SPICE-005-C16
+Parent Doc ID: A-SPICE-005
+Page Range: Page 9
+Word Range: 4161 - 4440
+Word Count: 280
+--------------------
+
+[Page 9]
+Row Country of origin Food and feed (intended use) CN code ( 1)
+TARIC 
+sub- 
+division
+Hazard
+Frequency of 
+identity and 
+physical 
+checks (%)
+Sweet peppers (Capsicum
+annuum)
+(Food – crushed or ground)
+ex 0904 22 00 11
+Salmonella (4) 10
+Tea, whether or not flavoured
+(Food)
+0902 Pesticide 
+resi­
+dues (3) (5)
+20
+6 Colombia (CO)
+Granadilla and passion fruit 
+(Passiflora ligularis and 
+Passiflora edulis)
+(Food)
+ex 0810 90 20
+ex 0810 90 20
+40
+50 Pesticide 
+residues (
+3) 20
+7 Dominican 
+Republic (DO)
+— Sweet peppers ( Capsicum 
+annuum)
+0709 60 10
+Pesticide 
+resi­
+dues (3) (16)
+50
+0710 80 51
+— Peppers of the genus 
+Capsicum (other than 
+sweet)
+(Food – fresh, chilled or 
+frozen)
+ex 0709 60 99 20
+ex 0710 80 59 20
+8 Egypt (EG)
+— Sweet peppers (Capsicum 
+annuum)
+0709 60 10
+0710 80 51
+Pesticide 
+resi­
+dues (3) (6)
+30— Peppers of the genus 
+Capsicum (other than 
+sweet)
+(Food – fresh, chilled or 
+frozen)
+ex 0709 60 99 20
+ex 0710 80 59 20
+Oranges
+(Food – fresh or dried)
+0805 10 Pesticide 
+residues (
+3) 10
+Sugar apple (Annona squamosa)
+(Food – fresh or chilled)
+ex 0810 90 75 20 Pesticide 
+residues (3) 20
+Vine leaves
+(Food)
+ex 2008 99 99
+ex 2008 99 99
+11
+19
+Pesticide 
+residues (
+3) 50
+Mango (Mangifera indica)
+(Food)
+ex 0804 50 00 40 Pesticide 
+residues (3) 20
+Strawberries
+(Food – fresh, chilled or 
+frozen)
+0810 10 00
+0811 10 Pesticide 
+residues (
+3) 20
+9 Ethiopia (ET)
+Sesamum seeds
+(Food)
+1207 40 90
+Salmonella (2) 50 ex 2008 19 1949
+ex 2008 19 99 49
+EN OJ L, 29.1.2026 
+8/25 ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj

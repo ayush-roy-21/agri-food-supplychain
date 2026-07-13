@@ -1,0 +1,58 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-106-C46
+Parent Doc ID: A-RES-106
+Page Range: Page 21
+Word Range: 12080 - 12473
+Word Count: 394
+--------------------
+
+[Page 21]
+incomes, preserving local identity, environmental integrity, and consumer trust in sustainable and ethical 
+products (Bennett, 2021 ).
+4.5.6. Leveraging VSSs contribution to the SDGs
+It is widely acknowledged that there is significant alignment between VSSs and the SDGs, with clear 
+potential for a mutually supportive relationship, making VSSs valuable tools for governments as well 
+(Akrong et al., 2022 ; Kosolapova et al., 2023 ). In line with Bissinger et al. ( 2020 ), we found that the three 
+SDGs most widely addressed by VSSs are SDG 2, 8 and 12. Although VSSs are oriented towards the 
+sustainability of value chains, some of the impacts on farmers, producer organisations and local communi -
+ties may not be explicitly linked to SDG targets but can create enabling conditions for their achievement 
+(Bissinger et al., 2020 ). Additionally, VSSs can support governments by collecting disaggregated data to 
+understand the situation of vulnerable groups, such as women and indigenous minorities, and by reporting 
+on SDG progress through sharing impact data (Kosolapova et al., 2023 ). With the aim of leveraging VSSs’ 
+contribution to the achievement of the SDGs, the recommendations of this study are twofold: i) better align 
+the socioeconomic and environmental objectives of different VSSs with the SDG indicators; ii) promote and 
+develop an independent monitoring and evaluation system to assess the actual impacts of VSS initiatives in 
+the agricultural sector.
+5. Conclusions
+The adoption of the SLF provides a comprehensive understanding of the significant effects of VSSs on the 
+livelihoods of Ghanaian and Vietnamese smallholder farmers producing crop-based food commodities for 
+international markets. VSSs can reduce smallholders' production constraints, expand market opportunities, 
+and enhance farmers' livelihoods by addressing various forms of capital - human, financial, social, physical 
+and natural - to varying extents. They are effective market-based tools for promoting sustainability across 
+agricultural commodity value chains, although not without limitations. Despite their generally positive 
+effects, the systematic review highlights the context-specific nature of VSS impacts, which differ across 
+value chains and between countries.
+On the one hand, VSSs need to better align their interventions with the social and economic characteristics of 
+farmers while considering the site-specific and biophysical contexts in which they operate. This involves tailoring 
+service packages to farmers' needs and addressing critical issues, such as improving input management (e.g. 
+pesticides, certified seeds, and water), implementing innovative initiatives to increase women's participation in 
+value chains, eliminating persistent child labour practices, and establishing robust monitoring and reporting 
+systems. It is also essential to enhance the gender and youth sensitivity of certification systems to ensure that 
+VSSs contribute to more inclusive and equitable rural development outcomes. Additionally, VSSs should avoid 
+encouraging over-specialisation and its associated risks, such as commodity price volatility and climate change 
+effects, by promoting crop diversification and integrated farming approaches.
+On the other hand, governments should focus on overcoming structural barriers, such as insecure land rights, 
+poor market infrastructure (e.g. storage and market facilities) and limited access to credit for smallholder 
+farmers. These challenges underscore the need for investments in Ghana and Vietnam to close sustainability 
+gaps, develop policies that address market constraints for certified products, improve extension services, 
+enhance stakeholder integration and coordination in the value chain, and raise sustainability standards.
+As outlined in SDG 17, revitalising global partnerships for sustainable development is essential. This 
+should not only strengthen public-private partnerships but also foster broader societal collaboration among 
+producers, consumers, researchers, and civil society organisations to create a foundation for a meaningful 
+transition to sustainable food systems.
+Acknowledgements
+The authors thank two anonymous reviewers who provided excellent feedback to improve the quality of 
+this manuscript. This research was conducted within the framework of the Trade4Sustainable Development 
+project (https://www.trade4sd.eu/).
+20
+ R. D’ANNOLFO AND F. DEMARIA

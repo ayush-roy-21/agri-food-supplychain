@@ -1,109 +1,80 @@
 --- CHUNK HEADER ---
 Chunk ID: A-FSSAI-001-C17
 Parent Doc ID: A-FSSAI-001
-Page Range: Page 45 to Page 46
-Word Range: 22769 - 24291
-Word Count: 1,523
+Page Range: Page 6 to Page 7
+Word Range: 4204 - 4453
+Word Count: 250
 --------------------
 
-[Page 45]
-¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 109
-(vi) Immediately after the cessation of work for the day or at such other times as may be required, the floors
-and wails should be cleaned to remove contamination. Floor drains should be kept in good condition and repair with
-strainers in place; and
-(vii) Roadways and yards in the immediate vicinity of and serving the meat processing unit should be kept
-clean.
-5.3 Hygiene Control Programme.-It is desirable that each meat processing unit in its own interest designates a single
-individual whose duties are diverted from production, to be held responsible for the cleanliness of the meat processing
-unit. His staff should be a permanent part of the organisation or employed by the organisation and should be well trained
-in the use of special cleaning tools, methods of dismantling the equipment for cleaning and in the significance of
-contamination and the hazards involved. A permanent cleaning and disinfection schedule should be drawn up to ensure
-that all parts of the meat processing unit are cleaned appropriately and that critical areas, equipment and material and
-designed for cleaning and/or disinfection daily or more frequently if required.
-5.4 Storage and Disposal of Waste - Waste material should be handled in such a manner so as to exclude contamination
-of food or potable water. Precautions should be taken to prevent access to waste by pests. Waste should be removed from
-the meat handling and other working areas at intervals and at least daily. Immediately after disposal of the waste, receptacles
-used for storage and any equipment which has come into contact with the taste should be cleaned and disinfected. At
-least daily the waste storage area should also be cleaned and disinfected.
-5.5 Dogs, cats or other pet animals should be not allowed to enter meat processing unit.
-6. Pest Control
-6.1 There should be an effective and continuous programme for the control of insects, birds, rodents or other
-vermin. Meat processing unit and surrounding areas should be regularly examined for evidence of infestation.
-6.2 Should pests gain entrance to the meat processing unit or surrounding areas, eradication measures should be
-instituted. Control measures involving treatment with physical or chemical or biological agents should only be undertaken
-by or under direct supervision of personnel who have a thorough understanding of the potential hazards to health
-resulting from the use of these agents, including those which may arise from residues retained in the product. Such
-measures should be carried out in accordance with the recommendation of the official agency having jurisdiction and with
-the full knowledge of its inspector, and
-6.3 Pesticides should only be employed if other precautionary methods cannot be used effectively. Only pesticides
-approved for use in the meat processing unit by competent authority should be used and the greatest care should be
-exercised to prevent any contamination of the meat equipment or utensils. Before pesticides are applied all meat should be
-removed from the room and all equipment and utensils should be thoroughly washed prior to being used again.
-6.4 Handling and Storage of Hazardous substances - Pesticides or other substance which may represent a hazard
-should be labelled with a warning about their toxicity and use. Except as required for purpose of hygiene such substance
-which may contaminate meat packing material and ingredients should be handled and stored in a part of the meat
-processing unit which is not used for preparation, processing, handling, packing or storage of meat. They should be
-handled and dispensed only by authorised and properly trained personnel. Extreme care should be taken to avoid
-contamination of meat. However, materials employed in the construction and maintenance of an establishment may be
-used at any time with the approval of Food Safety Officer.
-6.5 Personal Effects and Clothing : - Personal effects and clothing should not be deposited in meat handling areas.
-6.6 Maintenance Tools - Cleaning and maintenance tools and products should not be stored in meat handling area.
-7. Personnel Hygiene and Health Requirements :
-7.1 Medical examination - Persons who come into contact with meat in the course of their work should have a medical
-examination prior to their employment. Medical examination of a meat handler shall be carried out routinely and when
-clinically or epidemiologically indicated, at least once in 12 months.
-7.2 Communicable Diseases - The management should take care to ensure that no person, while known or suspected
-to be suffering from, or to be a carrier of a disease likely to be transmitted through meat or while afflicted with infected
-wounds, skin infections, sores or with diarrhoea, is permitted to work in any area in any capacity in which there is any
-likelihood of such a person directly or indirectly contaminating meat with pathogenic microorganisms. Any person so
-affected should immediately report to the management that he is ill.
+[Page 6]
+70 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
+(a) the period of 90 days from the date of death of the holder of a Registration certificate or license; or
+(b) such longer period as the Designated Officer may allow, for reasons to be recorded in writing.
+(2) The legal representative or family member of the deceased holder of the registration certificate
+or license shall apply to the concerned Authority for transfer of such certificate or license in his favour.
+(3) The registering or Licensing Authority, as the case may be, may, after making such enquiry as
+it may deem fit, either approve the transfer of the Registration certificate or license if satisfied that the
+applicant is the legal representative, or refuse the request. Provided that the registering or licensing
+authority shall not refuse the request without giving the applicant an opportunity of being heard and
+for reasons to be recorded in writing.
+(4) Upon filing of application for transfer and pending the decision of the authority, the registration
+or license shall continue to be in force.
+2.1.12 Appeal
+(1) A Food Business Operator aggrieved by an order of the Registering Authority or Licensing Authority, as
+the case may be, under these Regulations may prefer an appeal to the concerned Designated Officer or the Food
+Safety Commissioner, as per provisions laid down under Section 31(8) and 32 (4) - (5) of the Act.
+2.1.13 Return
+(1) Every licensee shall on or before 31
+st   May  of each year, submit a return electronically or in physical form
+as may be prescribed by the concerned Food Safety Commissioner, in ‘Form D-1’ provided in Schedule 2 of these
+Regulations to the Licensing Authority in respect of each class of food products handled by him during the
+previous financial year.
+Provided however that every licensee engaged in manufacturing of milk and/or milk products shall file half
+yearly returns for the periods 1
+st April to 30th September and 1st October to 31st March of every financial year in the
+form D-2, as provided in Schedule-2 of these regulations. Such returns will be filed within a month from the end of
+the period.
+(2) A separate return shall be filed for every license issued under the Regulations, irrespective of whether the
+same Food Business Operator holds more than one license.
+(3) Any delay in filing return beyond 31
+st May of each year shall attract a penalty of Rs 100 per day of delay.
+2.1.14 Food Business Operator to be bound by directions or order
+(1) Every Food Business Operator to whom any direction or order is issued in pursuance of any provisions of
+this regulation shall be bound to comply with such directions or regulation and any failure on the part of the Food
+Business Operator to comply with such direction or order shall be deemed to be contravention of the provisions of
+these Regulations and will attract legal action under the provisions of the Act.
+(2) Guarantee  Every manufacturer, distributor or dealer selling an article of food to a vendor shall give either
+separately or in the bill, cash memo, or label a warranty in Form E. (Refer Form A for form of Guarantee)
+2.1.15 Power of State/UT governments to constitute advisory committee
+The state/UT Governments, may, if required designate an existing advisory committee at panchayat/district/
+state level or where such a committee does  not exist, constitute an advisory committee to assist, aid or advise on
+any matter concerning food safety.
+2.1.16: Jurisdiction of Designated officer
+The Commissioner of Food Safety shall, by an order, appoint the Designated officer, who shall not be below
+the rank of a Sub- Divisional Officer, to be in-charge of food safety administration for each district as defined under
+regulation 1.2.1 (2)
 
-[Page 46]
-110 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
-7.3 Injuries - Any person who is cut or injured should discontinue working with meat and until he is suitably
-bandaged should not be engaged in any meat processing unit in the preparation, handling, packing or transportation of
-meat. No person working in any meat processing unit should wear exposed bandage unless the bandage is completely
-protected by a water proof covering which is conspicuous in colour and is of such a nature that it cannot become
-accidentally detached. first aid facilities should be provided for this purpose.
-7.4 Washing of Hands : Every person engaged in a meat handling area should wash his hands frequently and
-thoroughly with a suitable hand cleaning preparation under running potable water while on duty. Hands should always be
-washed before commencing work, immediately after using the toilets, after handling contaminated material and whenever
-else necessary. After handling diseased or suspect materials hands should be washed and disinfected immediately.
-Notices requiring hand-washing should be displayed.
-8. Personnel Cleanliness:
-8.1 Every person engaged in an area in meat processing unit where meat is handled should maintain a high degree
-of personnel cleanliness while on duty, and should at all times while so engaged wear suitable protective clothing
-including head covering and foot wear, all of which should be washed unless designed to be disposed and which should
-be maintained in a clean condition consistent with the nature of the work in which the person is engaged.
-8.2 Aprons and similar items should not be washed on the floor; and
-8.3 Such items should not be left on equipment in the working area.
-8.4 Personal Behavior : Any behavior which can potentially contaminate the meat such as eating, use of tobacco,
-chewing, spitting, should be prohibited in any part of meat processing unit used for the preparation, handling, packaging
-or transportation of meat.
-8.5 Visitors: Every person who visits an area in any meat processing unit where meat is handled should wear clean
-protective clothing and head cover.
-b) Sanitary &Hygienic Requirements for the Retail Meat Shops
-For ensuring the hygiene and safety of meat being sold at retail meat shops, the following requirements
-should be followed under the supervision of the qualified Veterinary staff.
-1. Location of Meat Shop
-1. The meat shop / sale outlet should preferably be a unit of meat market located away from Vegetable, fish or other
-food markets and shall be free from undesirable odour, smoke, dust or other contaminants. Wherever a meat market is not
-available, individual meat shop can be set up considering the above factors, which have a direct bearing on the hygiene
-conditions of the premises and health of consumers.
-(a) The minimum distance between the licensed meat shop and any place of worship should not be less than
-50 meters;
-(b) The condition of 100 meters distance will apply in case the premises situated directly opposite to the entry
-gate of religious place of any community.
-2. All the meat shops located in the vicinity of religious places shall be fitted with black glass doors, which must be
-kept closed all times except in case of entry or exit. It must be the responsibility of the meat shop owners to maintain a high
-standard of hygiene not only inside the shops, but also in the way leading to the shops road pavements or other adjoining
-place, particularly for insanitary materials originating from the meat business for example, blood, part of offal, meat scraps
-etc.
-2. Size of Meat Shops
-2.1 Considering the constraints of commercial space in residential areas in concerned Panchayats / Municipalities
-the size of meat shops may vary according to the size of business and activities being carried out there in the meat shops.
-2.2 The height of shop in all above categories of meat shops should be not less than 3 meters, while in case of air-
-conditioned meat shops, it should not be less than 2.5 meters.
-3. Premises
-3.01 The premises shall be structurally sound. The walls up to the height of minimum 5 feet from the floor level shall
-be made of impervious concrete material (e.g. glazed tiles or hygienic panels, etc.) for easy washing and cleaning purposes.
+[Page 7]
+¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 71
+SCHEDULE 1
+[See Regulation 2.1.2 (3)]
+List of food business falling under the purview of Central Licensing Authority
+I. Dairy units including milk chilling units equipped to handle or process more than 50,000 litres of liquid milk/day or
+2500 MT of milk solid per annum.
+II. Vegetable oil processing units and units producing vegetable oil by the process of solvent extraction and refineries
+including oil expeller unit having installed capacity more than 2 MT per day.
+III. All slaughter houses equipped to slaughter more than 50 large animals or 150 or more small animals including sheep
+and goats or 1000 or more poultry birds per day.
+IV . Meat processing units equipped to handle or process more than 500 kg of meat per day or 150 MT per annum.
+V. All food processing units other than mentioned under (I) to (IV) including relabellers and repackers having installed
+capacity more than 2 MT/day except grains, cereals and pulses milling units.
+VI. 100 % Export Oriented Units.
+VII. All Importers importing food items including food ingredients and additives for commercial use.
+VIII. All food business operators manufacturing any article of food containing ingredients or substances or using
+technologies or processes or combination thereof whose safety has not been established through these regulations
+or which do not have a history of safe use or food containing ingredients which are being introduced for the first
+time into the country.
+IX. Food Business Operator  operating in two or more states.
+X. Food catering services in establishments and unit
+s under Central government Agencies like Railways, Air and
+airport, Seaport, Defence etc.

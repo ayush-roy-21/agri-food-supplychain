@@ -1,0 +1,91 @@
+--- CHUNK HEADER ---
+Chunk ID: A-EUDR-101-C168
+Parent Doc ID: A-EUDR-101
+Page Range: Page 50 to Page 51
+Word Range: 43983 - 44232
+Word Count: 250
+--------------------
+
+[Page 50]
+(b) the f ollowi ng point is inser ted:
+‘16a. “k ey sustainability par tner(s)” means:
+(a) the statut or y auditor(s) designate d by an audit fi r m f or a par ticular assurance engag ement concer ning 
+sustainability repor ting as being pr imar ily responsible f or car r ying out the assurance of sustainability 
+repor ting on behalf of the audit fi r m; or
+(b) in the case of the assurance of consolidate d sustainability repor ting at least the statutor y auditor(s) 
+designate d by an audit fir m as being pr imar ily responsible f or car r ying out the assurance of 
+sustainability repor ting at the level of the group and the statutor y auditor(s) designat ed as being 
+pr imar ily responsible at the level of mater ial subsidiar ies; or
+(c) the statut or y auditor(s) who sign(s) the assurance repor t on sustainability repor ting ref er red to in 
+Ar ticle 28a;’;
+(c) the f ollowi ng points are added:
+‘21. “sustainability repor ting” means sustainability repor ting as def ined in point (18) of Ar ticle 2 of Directive 
+2013/34/EU;
+22. “assurance of sustainability repor ting” means the perf or mance of procedures resulting in the opinion 
+expressed by the statutor y auditor or audit fi r m in accordance with point (aa) of the second subparagraph 
+of Ar ticle 34(1) and Ar ticle 34(2) of Directive 2013/34/EU;
+23. “independent assurance ser vices provider” means a conf or mity assessment body accredit ed in accordance 
+with Regulation (EC) No 765/2008 of the European Parliament and of the Council (*) f or the specifi c 
+conf or mity assessment activity ref er red to in point (aa) of the second subparagraph of Ar ticle 34(1) of 
+Directive 2013/34/EU.
+_____________
+(*) Regulation (EC) No 765/2008 of the European P arliament and of the Council of 9 July 2008 setting out the 
+requirements f or accreditation and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).’;
+(3) Ar ticle 6 is replaced by the f ollowi ng:
+‘ Ar ticle 6
+Educational qualif ications
+1. Without prejudice to Ar ticle 11, a natural person ma y be approved to car r y out a statutor y audit only af ter 
+hav ing attained university entrance or equivalent level, then compl eted a course of theoretical instr uction, undergone 
+practical training and passed an examination of profe ssional compet ence of university final or equivalent examination 
+level, organised or recognised by the Member State concer ned.
+2. A natural person ma y , in addition to the approval to car r y out statutor y audits provid ed f or in paragraph 1 of 
+this Ar ticle, be appro ved to car r y out the assurance of sustainability repor ting when the additional specifi c 
+requirements of Ar ticle 7(2), Ar ticle 8(3), the second subparagraph of Ar ticle 10(1) and the f our th subparagraph of 
+Ar ticle 14(2) of this Directive are met.
+3. The compe tent author ities refer red to in Ar ticle 32 shall cooperate with each other with a view to achi eving a 
+conver gence of the requirements set out in this Ar ticle. When engaging in such cooperation, those compet ent 
+author ities shall take into account developments in auditing and in the audit profes sion and, in par ticular , 
+conver gence that has already been achieve d by the profess ion. They shall cooperate with the Committ ee of European 
+Aud iting Oversight Bodies (CEA OB) and the compe tent author ities refe r red to in Ar ticle 20 of Regulation (EU) 
+No 537/2014 in so f ar as such converg ence relates to the statut or y audit and assurance of sustainability repor ting of 
+public-inte rest entities.’;
+EN
+Offi cial Jour nal of the European Uni on L 322/64 16.12.2022
+
+[Page 51]
+(4) Ar ticle 7 is replaced by the f ollowi ng:
+‘ Ar ticle 7
+Exa mination of professional competence
+1. The examination of professional compet ence refer red to in Ar ticle 6 shall guarant ee the necessar y level of 
+theoretical knowledg e of subjects relevant to statut or y audit and the ability to apply such knowledg e in practice. At 
+least par t of that examination shall be wr itt en.
+2. In order f or the statutor y auditor to also be approved to car r y out the assurance of sustainability repor ting, the 
+examination of professional compet ence refer red to in Ar ticle 6 shall guarantee the necessar y level of theoretical 
+knowle dge of subjects relevant to the assurance of sustainability repor ting and the ability to apply such knowledg e in 
+practice. At least par t of that examination shall be wr itt en.’;
+(5) in Ar ticle 8, the f ollowi ng paragraph is added:
+‘3. In order f or the statut or y auditor to also be appro ved to car r y out the assurance of sustainability repor ting, the 
+test of theoretical kno wledge refe r red to in paragraph 1 shall also cover at least the f ollowi ng subjects:
+(a) legal requirements and standards relating to the preparation of annual and consolidat ed sustainability repor ting;
+(b) sustainability analysis;
+(c) due diligence processes with regard to sustainability matte rs;
+(d) legal requirements and assurance standards f or the sustainability repor ting refe r red to in Ar ticle 26a.’;
+(6) in Ar ticle 10(1), the f ollowi ng subparagraph is added:
+‘In order f or the statutor y auditor or the trainee to also be approved to car r y out the assurance of sustainability 
+repor ting, at least eight months of the practical training ref er red to in the fi rst subparagraph shall be on the 
+assurance of annual and consolidated sustainability repor ting or on other sustainability-related ser vices.’;
+(7) Ar ticle 12 is replaced by the f ollowing:
+‘ Ar ticle 12
+Combination of practical training and theoretical instr uction
+1. Member States ma y provid e that per iods of theoretical instr uction in the subjects refe r red to in Ar ticle 8(1) 
+and (2) shall count to wards the per iods of profes sional activity refer red to in Ar ticle 11, provided that such 
+instr uction is attest ed by an examination recognised by the Member State . Such instr uction shall not last less than 
+one ye ar , nor ma y it reduce the per iod of profes sional activity by more than f our ye ars.
+2. The per iod of professional activity and practical training shall not be shor ter than the course of theoretical 
+instr uction tog ether with the practical training required under the f irst subparagraph of Ar ticle 10(1).’;
+(8) in Ar ticle 14(2), the f ollowi ng subparagraph is added:
+‘In order f or the statut or y auditor to also be approved to car r y out the assurance of sustainability repor ting, the 
+apti tude test refe r red to in the fi rst subparagraph shall cover the statut or y auditor ’s adequate kno wledge of the la ws 
+and regulations of the host Member Stat e in so f ar as it is relevant to the assurance of sustainability repor ting.’;
+EN
+Offi cial Jour nal of the European Uni on 16.12.2022 L 322/65

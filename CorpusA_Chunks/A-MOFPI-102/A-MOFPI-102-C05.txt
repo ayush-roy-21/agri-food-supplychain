@@ -1,142 +1,82 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MOFPI-102-C05
 Parent Doc ID: A-MOFPI-102
-Page Range: Page 19 to Page 21
-Word Range: 5079 - 6486
-Word Count: 1,408
+Page Range: Page 8 to Page 9
+Word Range: 1243 - 1492
+Word Count: 250
 --------------------
 
-[Page 19]
-14
+[Page 8]
+3
 MODULE 1 - INTRODUCTION TO FOOD PROCESSING SECTOR
 COMPILED AND PREPARED FOR PMFME BENEFICIARY TRAINING
  
-In a simple way, we can say, that a farmer grows the food and transforms it into a specific 
-ingredient. Then, a manufacturer processes the ingredients and packag e them before sending 
-them out to distributors. From there, th e distributors sell the food to consumers and 
-restaurants, who ultimately eat and consume the food at the end of the chain.  There are few 
-new technologies which makes the Supply chain process easier and effective. They are: 
-2.2. Some of the Applications of New Technologies in Food Supply Chain 
-1. Cloud-Based Communication 
-With cloud-based communication, there’s no more reliance on in -person meetings and 
-consistent scheduled interaction with each person within the supply chain. When your 
-communication is cloud-based, you can lay out the guidelines of each process, making it easy 
-for staff, executives, and other professionals involved in the chain to understand their part and 
-responsibilities. 
-This allows for real -time data exchanges that can help you make important decisions on 
-inventory, procedures, and transportation. With this constant communication, all links in the 
-supply chain can mitigate problems quickly and m ake choices based on accurate and updated 
-data throughout every step in the process. 
-2. Inventory Systems 
-An efficient inventory system within supply chain management is crucial to profitability. 
-Taking advantage of the latest technologies in inventory system s, such as automated 
-inventory counts and order tracking, helps ensure you have the most accurate and updated 
-numbers at all times. With access to inventory numbers and statistics at the touch of a button, 
-supply chain management is quick and reliable. 
-2.3. Understanding the Backward Linkages and Forward Linkages 
-It is really important to understand that What is Backward Linkages and Forward 
-Linkages? 
-These linkages involve the sale of goods and services from one business to another and are 
-often the most efficient way of ensuring that the supply chain is working. 
- 
-manufacturing plants.   To understand each  step in bringing food to someone’s table can 
-generate a better idea of how to tackle certain problems and ensure that more people gain 
-access to food. 
-How It Works? 
-A food supply chain or network is an end -to-end logistics integration that regulates the food 
-supply’s working and assures robust management. The food supply chain network begins 
-from the input supplier integrating a chain for end -to-end fulfilment. The input supplier 
-sources the commodities for the integration through inventory management, transport, and 
-storage, followed by distribution to the  end-users. The network of the food supply chain 
-differs from the cold chain management, as the requirement varies for storage, transport, and 
-distribution. However, several channels play an integral role in determining the syst em’s 
-efficiency apart from that the forecasting, planning, and consumer behaviour. These channels 
-significantly impact the supply chain’s working dynamics and work on the newly introduced 
-concept of valued integration of supply chains. According to this concept, the supply chain 
-management companies in India understand the system from the perspective of the end -user, 
-analyse from the demand -pull approach, and consistently make an effort to encourage 
-innovation and development in the food supply chain and networking.  It is essential to  
-understand the working dynamics of the food supply networks while entering the business 
-and arranging a fully functional end -to-end supply chain integration; it is also important to 
-source the arrangement from top supply chain companies in India. 
- 
-Fig: Flow Process of Food Supply Chain
+products grew by 50%.  
+Food Processing is the transformation of agricultural products  into food, or of one form of 
+food into other forms. It includes many forms of processing foods, from grinding grains  to 
+make raw flour  to home cookin g to complex industrial methods that are employed to  make 
+convenience foods.  
+Food processing sector with higher level of processing helps in  
+ Reduction of wastage 
+ Improves value addition 
+ Promotes crop diversification 
+ Ensures better return to the farmers 
+ Promotes employment  
+ Increases export earnings  
+1.2 Market Size 
+On a worldwide scale, India is the largest country in terms of food production, processing, 
+supply, and consumption. Indian food market is ranked 6th in the world, with 70% of sales and 
+5th in production, consumption, and export. India exports 13% of its o verall manufacturing 
+output and 6% of its industrial investment. Manufacturing and agriculture contribute 8.80 
+percent and 8.39 percent, respectively, to India Gross Value Addition. The Indian food industry 
+was valued at USD 143.51 Billion in 2020 and is p rojected to reach USD 235.67 Billion by 
+2028, growing at a CAGR of 6.6% from 2021 to 2028 . The food processing sector will be led 
+by the demand in retail and the rise of health-conscious consumers.
 
-[Page 20]
-15
+[Page 9]
+4
 MODULE 1 - INTRODUCTION TO FOOD PROCESSING SECTOR
 COMPILED AND PREPARED FOR PMFME BENEFICIARY TRAINING
  
-Backward Linkages refers to the consolidating chains from farm to proc essing centres and to 
-integrate with ancillary industries. It measures the impact of final demand changes on output . 
-Whereas, the Forward Linkages refers to the part of the non-farm sector that uses agricultural 
-output as an input. It measures the impact of value-added changes on price. 
+Consumer preferences of Indian Market 
  
-KEY ADVANTAGES OF FORWARD AND BACKWARD LINKAGES 
-1. In food processing industry, the input as well as output products are perishable. So, effective 
-and seamless backward and forward linkages are crucial for success of any business . In fact, 
-inputs such as fruits, vegetables, dairy products, meat, poultry an d fish are so much 
-perishable that lack of transportation and backward links would result in their waste.  
-2. Further, for industry players, effective links add value to the brand by ensuring high quality 
-end to end and better control over the factors of prod uction resulting in cost saving and 
-enhanced efficiency. These links provide the industry players better hold over the market and 
-aid in facing competition. 
-3. However, such links may also lead to monopolization thus may curtail the freedom for 
-producer and consumer in the long run.  
-4. The forward and backward integration favours large businesses and MNCs thus it may 
-adversely impact the small ventures and start - ups due to centralization. It may result in
-
-[Page 21]
-16
-MODULE 1 - INTRODUCTION TO FOOD PROCESSING SECTOR
-COMPILED AND PREPARED FOR PMFME BENEFICIARY TRAINING
  
-diverged attention and may hinder the specialization pro cess which may result in decreased 
-efficiency. 
-There are various interventions for strengthening Forward and Backward Integration in Food 
-Processing Industry. As the result of interventions by the government the sector is undergoing 
-a formalization thus opening avenues for forward and backward integration.  
-In context with Food Processing Industry, a Food Processing Unit needs to have strong 
-backward linkages with the farmers, farmer producer organizations (FPOs) , self-help 
-groups (SHGs), farmer’s groups etc. Further, to be able to sell its processed food, it needs to 
-develop strong forward linkages with wholesalers, retailers, exporters etc. 
-2.3.1 What is BACKWARD LINKAGE? 
-• The feedback effects generated by a base industry on the development of the base 
-sector is called backward linkage. The development of the food pr ocessing industry 
-has many feedback effects on the agriculture sector itself. 
-• Once a food processing industry is established, it results in increasing the demand of 
-raw materials provided by the agriculture sector. The establishment of processing 
-facilities is itself an essential first step towards stimulating both consumer demand for 
-the processed product and an adequate supply of the raw material. 
-• The provision of transport, power and other infr a-structural facilities required for 
-agro-industries also benefits agricultural production. The development of these and 
-other industries provides a more favourable atmosphere for technical progress and the 
-acceptance of new ideas in farming itself. 
-Over 70% of the rural households depend on agriculture. Agriculture is an important sector of 
-Indian economy as it contributes about 17% to the total GDP and  provides employment to 
-over 60% of the population. Farmers are the driving force of the economy. T hat’s why, a 
-major sum of our population is directly or indirectly involved in farming. Furthermore, each 
-industry is dependent on the agriculture products to produce the final products in food 
-processing sector. 
-2.3.1.1Farmer Producer Organization (FPO): 
- FPOs are voluntary organizations controlled by their farmer -members who actively 
-participate in setting their policies and making decisions. 
+Segments in Food Processing Sector 
+1. Primary food processing  turns agricultural products, such as raw wheat kernels 
+or livestock, into something that can eventually be eaten . This category includes 
+ingredients that are produced by ancient processes such as drying, th reshing, 
+winnowing and milling grain, shelling nuts, and butchering animals for meat . 
+2. Secondary food processing  is the everyday process of creating food from 
+ingredients that are ready to use  like b aking bread, fermenting fish and making 
+wine, beer, and other alcoholic products are traditional forms of secondary food 
+processing . 
+3. Tertiary food processing  is the commercial production of what is commonly 
+called processed food . These are ready -to-eat or heat -and-serve foods, such as TV 
+dinners and re -heated airline meals  
+Nutrition
+Novel product range
+Convenience and taste
+Value for Money
+Awareness about health concerns
  
-Backward Linkages refers to the consolidating chains from farm to proc essing centres and to 
-integrate with ancillary industries. It measures the impact of final demand changes on output . 
-Whereas, the Forward Linkages refers to the part of the non-farm sector that uses agricultural 
-output as an input. It measures the impact of value-added changes on price. 
- 
-KEY ADVANTAGES OF FORWARD AND BACKWARD LINKAGES 
-1. In food processing industry, the input as well as output products are perishable. So, effective 
-and seamless backward and forward linkages are crucial for success of any business . In fact, 
-inputs such as fruits, vegetables, dairy products, meat, poultry an d fish are so much 
-perishable that lack of transportation and backward links would result in their waste.  
-2. Further, for industry players, effective links add value to the brand by ensuring high quality 
-end to end and better control over the factors of prod uction resulting in cost saving and 
-enhanced efficiency. These links provide the industry players better hold over the market and 
-aid in facing competition. 
-3. However, such links may also lead to monopolization thus may curtail the freedom for 
-producer and consumer in the long run.  
-4. The forward and backward integration favours large businesses and MNCs thus it may 
-adversely impact the small ventures and start - ups due to centralization. It may result in
+products grew by 50%.  
+Food Processing  is the transformation of agricultural products  into food, or of one form of 
+food into other forms. It includes many forms of processing foods, from grinding grains  to 
+make raw flour  to home cookin g to complex industrial methods that are employed to  make 
+convenience foods.  
+Food processing sector with higher level of processing helps in  
+ Reduction of wastage 
+ Improves value addition 
+ Promotes crop diversification 
+ Ensures better return to the farmers 
+ Promotes employment  
+ Increases export earnings  
+1.2 Market Size 
+On a worldwide scale, India is the largest country in terms of food production, processing, 
+supply, and consumption. Indian food market is ranked 6th in the world, with 70% of sales and 
+5th in production, consumption, and export. India exports 13% of its o verall manufacturing 
+output and 6% of its industrial investment. Manufacturing and agriculture contribute 8.80 
+percent and 8.39 percent, respectively, to India Gross Value Addition. The Indian food industry 
+was valued at USD 143.51 Billion in 2020 and is p rojected to reach USD 235.67 Billion by 
+2028, growing at a CAGR of 6.6% from 2021 to 2028 . The food processing sector will be led 
+by the demand in retail and the rise of health-conscious consumers.

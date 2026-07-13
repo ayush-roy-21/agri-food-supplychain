@@ -1,97 +1,53 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-103-C12
 Parent Doc ID: A-RES-103
-Page Range: Page 38 to Page 39
-Word Range: 15563 - 16012
-Word Count: 450
+Page Range: Page 9
+Word Range: 3118 - 3390
+Word Count: 273
 --------------------
 
-[Page 38]
-Reg. 2019/2090 OJ L 317, 9.12.2019, 
-p. 28–37
-Commission Delegated Regulation (EU) 
-2019/2090 of 19 June 2019 supplementing 
-Regulation (EU) 2017/625 of the European 
-Parliament and Council regarding cases of 
-suspected or established non-compliance 
-with Union rules applicable to the use or 
-residues of pharmacologically active 
-substances authorised in veterinary medicinal 
-products or as feed additives or with Union 
-rules applicable to the use or residues of 
-prohibited or unauthorised pharmacologically 
-active substances
-Reg. 470/2009 OJ L 152, 16.6.2009, 
-p. 11-22
-Regulation (EC) No 470/2009 of the 
-European Parliament and of the Council of 6 
-May 2009 laying down Community 
-procedures for the establishment of residue 
-limits of pharmacologically active substances 
-in foodstuffs of animal origin, repealing 
-Council Regulation (EEC) No 2377/90 and 
-amending Directive 2001/82/EC of the 
-European Parliament and of the Council and 
-Regulation (EC) No 726/2004 of the 
-European Parliament and of the Council
-Reg. 37/2010 OJ L 15, 20.1.2010, 
-p. 1-72
-Commission Regulation (EU) No 37/2010 of 
-22 December 2009 on pharmacologically 
-active substances and their classification 
-regarding maximum residue limits in 
-foodstuffs of animal origin
-Reg. 2021/808 OJ L 180, 21.5.2021, 
-p. 84–109
-Commission Implementing Regulation (EU) 
-2021/808 of 22 March 2021 on the 
-performance of analytical methods for 
-residues of pharmacologically active 
-substances used in food-producing animals 
-and on the interpretation of results as well as 
-on the methods to be used for sampling and 
-repealing Decisions 2002/657/EC and 
-98/179/EC
-Reg. 396/2005 OJ L 70, 16.3.2005, 
-p. 1-16 
-Regulation (EC) No 396/2005 of the 
-European Parliament and of the Council of 
-23 February 2005 on maximum residue 
-levels of pesticides in or on food and feed of 
-plant and animal origin and amending 
-Council Directive 91/414/EEC
-
-[Page 39]
-Reg. 1881/2006 OJ L 364, 
-20.12.2006, p. 5-24
-Commission Regulation (EC) No 1881/2006 
-of 19 December 2006 setting maximum 
-levels for certain contaminants in foodstuffs
-Reg. 333/2007 OJ L 88, 29.3.2007, 
-p. 29-38 
-Commission Regulation (EC) No 333/2007 
-of 28 March 2007 laying down the methods 
-of sampling and analysis for the control of 
-the levels of trace elements and processing 
-contaminants in foodstuffs
-Dec. 2002/657/EC OJ L 221, 17.8.2002, 
-p. 8-36 
-2002/657/EC: Commission Decision of 12 
-August 2002 implementing Council Directive 
-96/23/EC concerning the performance of 
-analytical methods and the interpretation of 
-results
-Reg. 2019/1871 OJ L 289, 8.11.2019, 
-p. 41–46
-Commission Regulation (EU) 2019/1871 of 7 
-November 2019 on reference points for 
-action for non-allowed pharmacologically 
-active substances present in food of animal 
-origin and repealing Decision 2005/34/EC
-Authorisation and use of veterinary medicinal products
-Reg. 2019/6 OJ L 4, 7.1.2019, p. 
-43–167
-Regulation (EU) 2019/6 of the European 
-Parliament and of the Council of 11 
-December 2018 on veterinary medicinal 
-products and repealing Directive 2001/82/EC
+[Page 9]
+8 
+2. As regards residue monitoring in samples drawn from aquaculture farms and processing 
+establishments several other competent authorities are involved: 
+- MPEDA which is a statutory body under the same Ministry , implements the residue 
+monitoring plan for aquaculture products under the guidance of the EIC. MPEDA’s 
+regional and subregional division offices are responsible for s ampling at processing 
+establishments, aquaculture farms, hatcheries and feed mills. 
+Furthermore, MPEDA, i n line with national legal provisions  (5), has been appointed 
+as one of the designated authorities for the enrolment of farms supplying aquaculture 
+products for export, as well as of hatcheries and feed mills supplying feed to 
+exporting aquaculture farms. MPEDA ´s tasks includ e ensuring that enrolment 
+numbers for farms are unique and not in conflict with any numbering system of other 
+recognised registration authorities (e.g. the CAA  and State Fishery Authorities 
+(SFAs). 
+- The CAA has the responsibility for aquaculture farms and hatcheries in salt and 
+brackish waters in coastal areas (i.e. within two kilometers of the high tide lines of the 
+coast and rivers). Other aquaculture farms (e.g. inland freshwater farms) fall under the 
+responsibility of the individual SFAs. 
+3. All aquaculture farms with a n enrolment  number provided by MPEDA can supply 
+(farmed) finfish or shrimp to EIC -approved establishments  for export to the EU , 
+provided that they request and pass successfully a Pre-Harvest Test (PHT) showing that 
+the products to be harvested do not contain nitrofurans and chloramphenicol. 
+5.1.2 Planning of residue monitoring 
+Findings 
+4. The EIC stated that the residue monitoring plans for aquaculture  finfish and 
+crustaceans, milk and poultry  are based on the EU requirements  (
+6) and the audit team 
+could confirm that the residue monitoring plans largely follow these.  
+5. The planning process for residue monitoring begins early enough to ensure sufficient 
+time for the implementation of the sampling plan for aquaculture from January to  
+December and for milk and poultry from April to March the following year. 
+6. With regard to the 2021 residue monitoring plan, t he planned sample numbers per 
+commodity fulfil the overall minimum requirements indicated in EU legislation (7). For 
+ 
+from 1995; b) milk: S .O. 4031(E) dated 9th November, 2020 notifying Milk and Milk Products for q uality 
+control and inspection prior to export plus S .O. 4032(E) dated 9th November, 2020 called as the Export of 
+Milk and Milk Products (Quality Control, Inspection and Monitoring) Rules, 2020;  and c) poultry: Order 
+No S.O. 1377(E) dated 30.12.2002 notify ing Fresh Poultry Meat and Poultry Meat Products for quality 
+control and inspection prior to export plus Notification No S.O. 1378(E) dated 30.12.2002 called as the 
+Export of Fresh Poultry Meat and Poultry Meat Products (Quality Control and Inspection and Monitoring) 
+Rules, 2002 and amendments thereof. 
+(5) O rder EIC/D(Q/C)/T-1/11-12. 
+(6) Annexes II and IV to Directive 96/23/EC and the Annex to Commission Decision 97/747/EC. 
+(7) Annex IV to Directive 96/23/EC, Article 1 and the Annex to Decision 97/747//EC.

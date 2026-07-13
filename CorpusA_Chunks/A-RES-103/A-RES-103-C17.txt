@@ -1,0 +1,53 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C17
+Parent Doc ID: A-RES-103
+Page Range: Page 12
+Word Range: 4392 - 4641
+Word Count: 250
+--------------------
+
+[Page 12]
+11 
+EU requirements  (12). In line with these instructions, sa mpling is unforeseen, spread 
+throughout the year  and covers the main production area s. Furthermore, residue 
+monitoring samples are collected  using adequate sampling material , sealed and 
+transported ensuring their integrity, traceability and legal validity.  
+13. The 2021 residue monitoring plan for aquaculture (including samples at all hatcheries 
+to be analysed for nitrofurans and chloramphenicol) and the 2021/22 plans for milk and 
+poultry were implemented as planned.  
+14. For milk the EIC instruction on how to implement the residue monitoring plan reduces 
+the likelihood of detecting substances included in Group A6 (banned antimicrobials) 
+and Group B1 (antimicrobials)  and in Group B2a (anthelmintics) .  This is due to the 
+fact that the EIC instructed their laboratory to divide the total number of samples in to 7 
+subsets that are each analysed with a multiresidue method, but where only certain 
+substances included in the multi -residue method had to be reported in a given subset . 
+Thus, if a non- compliance had been found for any of the other substances included in 
+the subset´s multiresidue method it would not have been reported as a non -compliance.  
+This is contrary to what would be expected in the EU (13). 
+15. Similar to EU rules, aquaculture s amples to be analysed for Group A were taken at 
+farm/hatchery level at all stages of farming  (14). Milk samples were taken from 
+individual farms when delivered to  milk collection centres  (15) and poultry samples to 
+be analysed for  substances in Group A were taken both at farm and at slaughterhouse 
+level (16). There was a mechanism to  avoid that samples were taken from the same 
+farms, either at farm level or at processing establishment level. At one poultry 
+processing plant visited by the audit team all 9 2 of the farms supplying it (and all of 
+which intend to provide for the EU market, should India be successfully listed in the 
+requisite EU Regulations for animal health, public health and residues)  were eligible to 
+be sampled.  For the second processor visited, 723 out of the 1,937 farms supplying it 
+were deemed to be able to supply to the EU market (as per the caveats above)  and this 
+second processor had specific days on which only poultry from thos e 723 farms would 
+be processed and from which residue monitoring samples were taken.  
+16. The implementation of the aquaculture national residue monitoring plan is  regularly 
+monitored through an on- line data base by MPEDA which notifies all of the MPEDA 
+offices/centres and the EIC about the plan’s implementation status and the non -
+compliant results found . Monthly updates on t he implementation of the poultry and 
+milk residue monitoring plans are reported by the respective EIA offices to the EIC.  
+17. The residue mo nitoring plan for aquaculture specifies  that samples have to be 
+forwarded to the designated laboratory within three days and reach the laboratory after 
+ 
+(12) Annex III to Directive 96/23/EC, Annex II to Regulation (EU) 2021/808. 
+(13) Point 1(a) of Article 5 of Regulation (EU) 2017/625 (read in conjunction with Points 1 and 2 of the Annex 
+III to Directive 96/23/EC and Point 1(B) of Chapter 1 of the Annex to Decision 97/747/EC).  
+(14) Point 1 of Chapter III of the Annex IV to Directive 96/23/EC. 
+(15) Point 3 of the Annex II to Regulation (EU) 2021/808. 
+(16) Chapter 2 of the Annex IV to Directive 96/23/EC.

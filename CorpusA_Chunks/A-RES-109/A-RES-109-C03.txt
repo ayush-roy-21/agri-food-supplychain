@@ -1,187 +1,74 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-109-C03
 Parent Doc ID: A-RES-109
-Page Range: Page 6 to Page 8
-Word Range: 2931 - 4462
-Word Count: 1,532
+Page Range: Page 1
+Word Range: 501 - 756
+Word Count: 256
 --------------------
 
-[Page 6]
-2.4 Text mining (TM)
-To find out the research focus of each sub-field, the contents of either all or the lead papers
-in each sub-field are analysed and evaluated. The interpretation and analysis of sub-field
-depend greatly on subjective factors and require expertise in the specific research field. To
-avoid the reviewer bias and for a deeper understanding of the concepts addressed in each
-sub-field, researchers have further used text mining (TM) as a content analysis technique to
-retrieve the co-occurred words from the documents and to build a conceptual structure of
-the domain (Ghadge et al., 2012; Song and Chambers, 2014). In this research, the co-occurred
-words from the research articles in each sub-field are retrieved using TM to identify
-research concept precisely. Co-word analysis presumes that a group of aggregated terms/
-words could indicate the underlying themes and that co-occurrences of terms/words could
-show the associations with the underlying themes. Title and abstract of all articles in each
-sub-field are downloaded from the WoS database in .txt format and text mined separately
-using Standford NLP core 3.6.0. StanfordcoreNLP 3.6.0 software is used in this research for
-TM since it is flexible and simple (Song and Chambers, 2014).
-Using Stanford metrics conversion Handler Programme, the output extensible markup
-language file from the Standford NLP is converted to a GraphML network file from the
-identified co-occurred words. The GraphML file is then used as input in Gephi for visualization
-and further analysis of the co-word network. After establishing a co-word network, the
-research concept of each cluster is then identified by measuring the relative frequency of these
-co-occurred words and by measuring the network properties based on node and network-level
-metrics (Barbara and Wichmann, 2016). The node-level metrics can be divided into local:
-degree centrality, and the ones relative to the rest of the network (i.e. based on node’s location
-within a network): closeness, betweenness and eigenvector centrality (Milojevic, 2013). The
-number of direct links between a node and other nodes in the cluster is defined by degree
-centrality. A word with a higher degree will be in the centre of the network and considered as
-the information hub. The closeness centrality is defined by the inverse of the average length of
-the shortest paths to or from all the other nodes in the network. Higher closeness centrality
-refers to higher influence on other nodes. The betweenness centrality is a measure of how often
-a node is located on the shortest path between other nodes in the network. Eigenvector
-centrality is based on the principle that importance of a node in a network may increase with
-having links to the other nodes that are themselves important. It is calculated by providing a
-relative score for each node proportional to the sum of the scores of its neighbours (Bonacich,
-2007). The equations used to calculate the node centrality are given in Appendix 1.
-3. Results
-3.1 Bibliometric analysis
-The time period distribution of 1,091 articles is shown in Figure 2. It is noted that the
-number of articles was limited to 377 during the period 2002 – 2014, and the remaining
-18 47 78
-141
-384
-423
-0
-100
-200
-300
-400
-500
-600
-2002–2004 2005–2007 2008–2010 2011–2013 2014–2016 2017–2018
-Publication Frequency
-Year
-Figure 2.
-Distribution of
-reviewed papers by
-year (up to
-December 2018)
-24
-JAMR
-17,1
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 7]
-714 articles were published in the last four years, showing a sharp rise in the number of
-research publications. From the year 2002, there were a moderate number of articles;
-however, the time period 2011 – 2018 witnessed a significant growth in the number of
-articles. The spike in the research articles from the year 2011 can be attributed to the
-transdisciplinary and cross-disciplinary journals such as Sustainability, Agricultural
-Systems, Journal of Cleaner Production and International Food and Agribusiness
-Management Review that encouraged the publication in the FSC domain.
-The number of reviewed articles published in leading journals is shown in Table III.
-Among the leading journals, British Food Journal , Supply Chain Management – An
-International Journal and Food Policy have published more number of papers during the
-period 2002– 2014. However, during the period 2015– 2018, the Journal of Cleaner Production,
-British Food Journal , Sustainability, Agricultural Systems , Food Control and International
-Food and Agribusiness Management Review have contributed significantly. It is observed
-that the Journal of Rural Studies is among the top contributing journals with publications
-related to alternative and local food network, even though it is of limited relevance to the
-research domain.
-The distribution of reviewed papers by countries is shown in Table IV. It is found that
-most of the research articles are from developed countries where the USA accounts for
-19.25 per cent of the publications, making it the country with the most publications globally,
-followed by the UK (10.82 per cent), Italy (10.45 per cent), Germany (7.15 per cent), Australia
-(6.87 per cent) and the Netherlands (6.14 per cent). Among the developing countries, China
-(5.41 per cent) and India (4.86 per cent) lead on the publications. Developed countries have
-the advanced infrastructure, availability of funds and research environment, whereas the
-limited funds, infrastructure and awareness result in a very few research publications in
-developing countries (Siddh et al. , 2015).
-The frequently used keywords are shown in Table V. Since authors use different words
-to describe the same meaning, keywords often should be standardized. By following Su and
-Lee (2010), the keywords are standardized in such a way that plural words are converted to
-singular form, and similar words such as “SCM”, “value chain”, “supply chain management”
-are standardized to “supply chain management ” on the basis of the popularity.
-3.2 Bibliographic coupled network for the period 2002 – 2014
-The node in a bibliographic coupled network refers to the citing documents, and the edges
-represent the number of references shared by any two nodes. Following the work of Vogel
-and Güttel (2013), we included only those articles that had at least four couplings with a
-minimum of two other articles to obtain more clarity. Through this procedure, the number of
-articles is reduced from 377 to 66 most interconnected papers. The input files in .csv format
-Journals 2002 – 2014 2015 – 2018 Total
-Journal of Cleaner Production 65 8 6 4
-British Food Journal 15 42 57
-Sustainability 23 1 3 3
-Food Control 81 9 2 7
-Food Policy 91 5 2 4
-Agricultural Systems 42 0 2 4
-International Food and Agribusiness Management Review 51 8 2 3
-Journal of Rural Studies 99 1 8
-International Journal of Life Cycle Assessment 61 2 1 8
-Supply Chain Management – An International Journal 11 4 15
-Table III.
-Distribution of
-reviewed papers
-by journal
-25
+[Page 1]
+Supply chain issues in SME food
+sector: a systematic review
+Arun Jose and PrasannaVenkatesan Shanmugam
+Department of Production Engineering,
+National Institute of Technology, Tiruchirappalli, India
+Abstract
+Purpose – The purpose of this paper is to investigate the significant supply chain issues in the small and
+medium-sized enterprise (SME) food industry. The objectives are to identify the major themes and the
+dynamic evolution of SME food supply chain (FSC) issues, the current research trends, the different modelling
+approaches used in SME FSC, and the most addressed SME food sector.
+Design/methodology/approach – In all, 3,733 published articles from 2002 to 2018 in the Clarivate
+Analytics Web of Science database were collected, from which 1,091 articles were shortlisted for the review.
+The authors used bibliographic coupling combined with co-word analysis to identify the historical relations of
+the research themes that emerged during the periods 2002 – 2014 and 2002 – 2018.
+Findings – This research identified five major research themes such as production and distribution in
+alternative food networks, relationship, safety and standards in the FSC, greenhouse gas (GHG) emission
+impact of the farm food system, traceability and product quality in FSC and asymmetric price transmission in
+the FSC. Among the identified themes, GHG emission impact of the farm food system and traceability and
+product quality in the FSC have received increasing attention in recent years. The dairy sector is the most
+addressed sector (36 per cent), followed by fruits and vegetables (27 per cent), meat and poultry (18 per cent),
+seafood (10 per cent) and grains and oilseed (8 per cent). It is also identified that the dairy sector has received
+significant attention in the “GHG Emission impact of farm food system ” theme. Similarly, meat and poultry
+sectors have received much attention in the “Traceability and product quality in the food supply chain ”
+theme. Also, the authors identified that the empirical modelling approaches are the most commonly used
+solution methodology, followed by the conceptual/qualitative methods in the SME FSC.
+Originality/value – This study maps and summarizes the existing knowledge base of supply chain issues in the
+SME food sector. The results of this review provide the major research areas, most commonly used approaches and
+food sectors addressed. This study also highlights the research gaps and potential future research direction.
+Keywords SME, Literature review, Supply chain, Dairy, Meat, Fruit and vegetables
+Paper type Literature review
+1. Introduction
+The food supply chain (FSC) technically spans the entire“farm-to-fork” process. A typical FSC
+includes farmer, marketer who supplies produc ts to food processors/producers, wholesaler,
+retailers/caterer and consumer (Mattevi and Jones, 2016a). However, the exact supply chain path
+for a particular food product depends on the product characteristics, size and market power of
+the supply chain members (Dani and Deep, 2010). Managing FSC is complex as compared to
+other supply chains due to the factors like the freshness of food, quality, safety, etc. (Zhonget al.,
+2017). A major portion of the food industries pa rticipating in the FSC comprises of small and
+medium-sized enterprises (SMEs) (Mertins et al., 2012). The annual statistics of Food Drink
+Europe (2016) shows that about 99.1 per cent of all food processing industries in the EU are
+SMEs. The food processing SMEs comprise dairy, beverages, food chains, spice trading, meat,
+fruits, vegetables, etc. In most of the developing countries, including India, food SMEs provide
+not only huge employment opportunities but they also ensure regional balance by taking
+industrialization to rural and backward areas.The evaluation and advancement of FSCs from
+SMEs are essential, from the point of view of SMEperformance and for the health of the society
+(Henchion and McIntyre, 2005). With the increasingdigital technologies, designing/restructuring
+Journal of Advances in
+Management Research
+Vol. 17 No. 1, 2020
+pp. 19-65
+© Emerald Publishing Limited
+0972-7981
+DOI 10.1108/JAMR-02-2019-0010
+Received 4 February 2019
+Revised 11 May 2019
+Accepted 15 June 2019
+The current issue and full text archive of this journal is available on Emerald Insight at:
+www.emeraldinsight.com/0972-7981.htm
+The authors like to acknowledge the Associate Editor and the two anonymous reviewers for their
+valuable and constructive comments.
+19
 Supply chain
 issues in SME
 food sector
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 8]
-are imported into Gephi, and a raw network of 66 nodes and 599 edges is created with a
-random positioning of the nodes. By applying the default Louvain algorithm in the Gephi
-software, the bibliographic coupled articles are grouped into four clusters, as shown in
-Figure 3. The modularity index of the network is 0.398, indicating a strong relationship
-between the nodes within and between the clusters (Rajagopal et al. , 2017).
-Clusters 1 and 2 have received much attention, and they include 25 and 24 papers,
-respectively, among the 66 articles. Clusters 3 and 4 have received limited attention, as they
-include only 10 and 7 papers, respectively. The number within each node denotes the article
-ID (see Appendix 2). The size of nodes in each cluster is proportional to their degree
-centrality. The top five articles (with article ID in curly bracket) in each cluster, based on at
-least one of the four measures of centrality, are given in Table VI. The influence of an article
-in a cluster can be identified from its degree, closeness, betweenness and eigenvector
-centrality. The article with a higher degree centrality exerts a heavier influence on the
-cluster and acts as an information hub. For example, the research work of {89} Freidberg
-et al. (2011) and {17} Ilbery et al. (2006a) are identified as the lead articles of Cluster 2 with
-degree centrality of 35 and 34, respectively, which indicates that these articles share
-Countries/regions No. of articles Percentage
-USA 210 19.25
-UK 118 10.82
-Italy 114 10.45
-Germany 78 7.15
-Australia 75 6.87
-The Netherlands 67 6.14
-Peoples R China 59 5.41
-Canada 55 5.04
-India 53 4.86
-France 52 4.77
-Belgium 38 3.48
-Spain 35 3.21
-Brazil 33 3.02
-Scotland 30 2.75
-South America 29 2.66
-Kenya 29 2.66
-Sweden 27 2.47
-Indonesia 17 1.56
-Portugal 13 1.19
-Pakistan 8 0.73
-Table IV.
-Global contribution
-of authors
-Keyword Frequency
-Supply Chain Management 180
-Life Cycle Assessment 89
-Food Quality 84
-Agriculture 77
-Sustainability 51
-Food Waste 41
-Food Safety 39
-Food Industry 31
-Traceability 23
-Carbon Footprint 23
-Table V.
-Top 10 keywords
-26
-JAMR
-17,1
 Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

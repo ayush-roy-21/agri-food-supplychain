@@ -1,298 +1,68 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-109-C05
 Parent Doc ID: A-RES-109
-Page Range: Page 12 to Page 14
-Word Range: 5981 - 7628
-Word Count: 1,648
+Page Range: Page 2
+Word Range: 1007 - 1256
+Word Count: 250
 --------------------
 
-[Page 12]
-The top 10 co-occurred words in each cluster are identified, and results are presented in
-Table IX. The degree measure shows that the production and distribution in AFN,
-relationship, safety and standards in FSC, greenhouse gas (GHG) emission impact of farm
-food system, traceability and product quality in FSC and asymmetric price transmission in
-the FSC are the research concepts of Clusters 1, 2, 3,4 and 5, respectively. It is observed from
-Table IX that Supply, Chain, Farmer, Food and Market are the bridge keywords as they are
-found in more than one cluster. Also, Clusters 1 and 2 have more bridge keywords with high
-betweenness centrality indicating their close association. The keyword “SME” appeared
-only in the first and fourth cluster, based on co-occurrence, as shown in Table IX. However,
-from Figure 6, it is observed that “SME” is associated with Clusters 2 and 3, indicating the
-association of this keyword with the corresponding clusters. It is also observed that the
-Centrality
-Cluster No. Co-occurred words Degree Closeness Betweenness Eigenvector
-1 Farmer 48 0.9000 176.77 0.9731
-Chain 48 0.9000 140.09 1.0000
-Supply 46 0.8710 128.30 0.9689
-Food 34 0.7297 60.02 0.7640
-Economics 33 0.7200 49.16 0.7729
-SME 38 0.7714 72.11 0.8471
-Change 27 0.6667 22.68 0.6703
-Market 33 0.7200 56.62 0.7522
-Contract 13 0.5684 7.04 0.3335
-System 24 0.6429 17.39 0.6048
-2 Food 53 0.8955 457.70 1.000
-Farmer 35 0.7059 130.77 0.775
-Market 27 0.6452 69.19 0.627
-Production 27 0.6452 53.58 0.617
-Supply 29 0.6593 54.50 0.694
-Chain 32 0.6818 85.16 0.741
-AFN 62 0.8284 285.34 0.812
-SME 44 0.7357 89.64 0.736
-Marketing 21 0.5769 27.43 0.555
-Quality 16 0.5714 10.55 0.448
-3 Supply 28 1.0000 76.25 1.000
-Chain 27 0.9655 67.89 0.976
-Relationship 18 0.7368 16.73 0.748
-Food 16 0.7000 10.26 0.700
-Collaboration 11 0.6222 1.81 0.533
-Industry 18 0.7368 14.02 0.760
-Approach 15 0.6829 8.77 0.653
-Sector 16 0.7000 10.82 0.682
-Management 12 0.6364 3.09 0.570
-Framework 11 0.6222 2.94 0.516
-4 Emission 23 0.8966 34.35 1.0000
-Farm 20 0.8125 19.71 0.9204
-GHG 18 0.7647 14.49 0.8524
-Impact 20 0.8125 21.86 0.9054
-Production 16 0.7222 8.52 0.7982
-System 16 0.7222 6.94 0.8023
-Milk 22 0.8667 28.85 0.9677
-Land 14 0.6842 12.94 0.6446
-Use 18 0.7647 23.15 0.8139
-Livestock 8 0.5909 0.34 0.4646
-Table VII.
-Top 10 co-occurred
-words in the clusters
-based on centralities
-during 2002– 2014
-30
-JAMR
-17,1
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 13]
-eigenvector and degree centralities of the word SME in Clusters 1 and 2 are high, albeit its
-low co-occurrence frequency compared to the previous period.
-The historical relations of the research themes emerged during the periods 2002– 2014 and
-2002– 2018, as shown in Figure 7. The broader thematic context is obtained for the period
-2002– 2014, whereas the inclusion of recent articles (i.e. 2015– 2018) resulted in identifying the
-emerging research directions out of these broader issues. Through this approach, we are able
-to identify the dynamic evolution of the research domain. The first cluster “Production and
-distribution in AFN” has emerged from the Cluster 2 of period 2002– 14, as shown in Figure 7.
-In recent years, AFN research is focussed on online spaces for reconnection (Bos and Owen,
-2016), consumer behaviour towards buying in short food supply chains (SFSC) (Giampietri
-et al., 2016a), trust and relationship in AFN (Roy et al., 2017; Pinna, 2017), farmer ’sm a r k e t
-(Schupp, 2017), economic sharing in AFN (Miralles et al., 2017) and so on.
-The second cluster “Relationship, safety, and standards in the food supply chain ” has
-emerged from Cluster 3 of 2002 – 2014, which focussed on improving the performance of the
-supply chain through the relationship among members. Recent articles in this sub-theme
-are focussed on retailers ’ adoption of safety standards and its impact on organizations
-sourcing methodology. It is observed that the publications on the contractual relationship
-among supply chain members from the first cluster (market economics of contract farming
-in the FSC) during 2002 – 2014 are clustered with this subgroup (e.g. Reardon et al. , 2014;
-Poulton et al. , 2010).
-229
-16335 301 355
-69379
-363 325
-335
-77 303
-265197
-24171351
-357
-239373 193
-255 279
-345387
-389
-185409
-403
-287 243 365 399
-359319
-333
-269
-401
-103 109 337
-299
-305
-423
-75
-449
-65
-147
-33
-413
-157
-73
-51 275
-397
-453
-291 169
-215
-205
-375107
-329
-149 195
-105165
-283353
-223
-347 189
-221
-231
-281
-331
-87
-167
-349
-315317339
-153
-445 451
-369 371
-357
-181 57
-361 455
-321
-143
-11
-15
-1
-323
-289
-447
-93 43
-89
-91
-209
-225285
-137 67
-115 7
-179
-32734185253
-405
-183
-441
-443
-29561
-2914581
-55
-191 251
-261
-293
-4599
-47
-19249
-95 12783
-311273
-199
-219
-439
-129 151 461 233
-26363
-121
-217
-171
-411
-427
-Cluster 5
-Cluster 2
-Cluster 4
-Cluster 3
-Cluster 1
-201 131 211 247
-267 429 383 39 27 53
-42539543530743723117
-381 421 259 377 391 407 343 245
-3 415
-271
-431 335 177
-123 187
-463 161 227
-119 9
-417
-113
-135 459 313
-125 1751714179
-457 277 393 111 101
-237 97
-419 309
-155
-433 173 59 159 49 25
-213385367207139
-Figure 5.
-Clustering of the
-bibliographic coupled
-articles based on the
-modularity index
-using Gephi
-(2002– 2018)
-31
-Supply chain
-issues in SME
-food sector
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 14]
-Cluster 3 “GHG Emission impact of farm food system ” included 45 articles and it received
-great attention in recent years. This subgroup has emerged from Cluster 4 “Land use and
-emission impact of livestock systems ” of 2002 – 2014. Recent articles in this subgroup are
-related to the emission impact of different types of food products other than livestock such as
-seafood ( Jenningset al., 2016; Ziegler et al., 2016), fruits and vegetables (Leeet al., 2015; Theurl
-et al., 2017), meat and poultry (Wiedemann et al., 2015a; Cottle et al., 2016) and so on.
-Cluster 4 “Traceability and product quality in the food supply chain ” has received much
-attention in recent years, as food scandals and scares all over the world have resulted in a
-reduced consumer’s confidence. Recently in Chennai, the capital of the Indian state of Tamil
-Nadu, nearly two tonnes of meat, which was meant for supply to hotels in the city, was
-seized by the food safety officials, as it was suspected to be that of dog ( The Times of India ,
-2018). The food traceability system is required to reduce the numerous cases of food safety
-incidents and fraudulence. Designing and implementing effective food traceability systems
-is a complex process, which requires an understanding of not only technical issues, but also
-of business, organizational, economic and social aspects (Giagnocavo1 et al. , 2017).
-Innovations in ICT that support research on traceability and food safety need attention.
-Cluster 5 “Asymmetric price transmission in food supply chain ” has received considerable
-attention in the agro-food sectors (Von Cramon Taubadel, 2017). It is observed that among
-Centrality
-Cluster Article[ID] Degree Closeness Betweenness Eigenvector
-1 Forssell et al. (2015) [227] 91 [1] 0.6045 [1] 581.46 [1] 1 [1]
-Ilbery et al. (2006a) [431] 84 [2] 0.5691 262.77 [4] 0.9767 [2]
-Giampietri et al. (2016a) [187] 80 [4] 0.5815 [2] 250.69 [5] 0.9725 [3]
-Oglethorpe et al. (2013) [335] 77 0.5706 [5] 67.32 0.9661 [4]
-Higgins et al. (2008) [419] 83 [3] 0.5752 [3] 210.25 0.9643 [5]
-Freidberg et al. (2011) [381] 79 [5] 0.5633 293.91 [3] 0.9642
-Bos et al. (2016) [139] 77 0.5706 [4] 181.53 0.9612
-Risku Norja et al. (2008) [417] 79 [5] 0.5519 352.28 [2] 0.9289
-2 Fischer et al. (2009) [397] 79 [1] 0.5799 [1] 1003.00 [2] 0.7412 [1]
-Gómez et al. (2013) [311] 72 [2] 0.5768 [2] 749.81 [3] 0.5328 [2]
-Freidberg (2014) [275] 63 [3] 0.5558 [3] 1362.04 [1] 0.2562 [3]
-Trifković (2014) [269] 54 [4] 0.5417 [4] 334.19 [5] 0.2078 [4]
-Bloom (2015) [217] 41 [5] 0.5095 108.75 0.1984 [5]
-Brooks et al. (2017) [51] 35 0.5165 [5] 273.78 0.1624
-Touboulic et al. (2014) [273] 33 0.5082 393.25 [4] 0.1444
-3 Kulak et al. (2016) [169] 84 [1] 0.5863 [1] 601.90 [2] 0.8829 [1]
-Kulak et al. (2015) [225] 78 [2] 0.5487 [3] 330.26 [5] 0.8608 [2]
-Torquati et al. (2015) [215] 76 [3] 0.5706 [2] 665.20 [1] 0.7971 [3]
-Theurl et al. (2017) [43] 45 [5] 0.5119 [5] 265.34 0.3396 [4]
-Keyes et al. (2015) [209] 50 [4] 0.5194 [4] 394.82 [3] 0.3308 [5]
-Repar et al. (2017) [89] 37 0.4628 330.54 [4] 0.1768
-4 Bourlakis et al. (2014) [285] 52 [2] 0.5459 [2] 890.16 [2] 0.4631 [1]
-Tsolakis et al. (2014) [291] 59 [1] 0.5572 [1] 1563.23 [1] 0.2579 [2]
-Banterle et al. (2014) [293] 17 [5] 0.4458 129.73 0.1480 [3]
-Lefebvre et al. (2014) [261] 17 [5] 0.4602 [5] 109.76 0.0777 [4]
-Abd Rahman et al. (2016) [55] 21 [3] 0.4830 [3] 277.00 [3] 0.0633 [5]
-Manzini et al. (2013) [327] 18 [4] 0.4618 [4] 202.88 [5] 0.0520
-Giagnocavo et al. (2017) [19] 14 0.4476 249.50 [4] 0.0375
-5 Aysoy et al. (2015) [197] 14 [2] 0.4155 [1] 505.96 [1] 0.0752 [1]
-Bakucs et al. (2012) [363] 23 [1] 0.4015 [2] 190.21 [2] 0.0315 [2]
-Bakucs et al. (2014) [303] 13 [3] 0.3566 [4] 48.38 [3] 0.0138 [3]
-Dai et al. (2017) [69] 10 [4] 0.3620 [3] 28.75 [4] 0.0074 [4]
-Pokrivcak et al. (2014) [265] 9 [5] 0.3292 [5] 13.78 [5] 0.0058 [5]
-Table VIII.
-The values and ranks
-[in bracket] of top 5
-articles based on at
-least one of the four
-measures of centrality
-during the period
-2002– 2018
-32
+[Page 2]
+t h eF S Ci n v o l v i n gS M E si sac h a l l e n g i n gt a s k .T h eS M E so ft h eF S Cn e t w o r k ss h o u l dw o r k
+collaboratively to deliver high-quality food to consumers (Mertinset al., 2012). Prakash (2018)
+investigated the food processing supply chain (FPSC) in the bilateral context of the UK and India
+and reported that the UK FPSC is highly integrated with a high degree of consolidation in
+upstream and downstream stages, whereas the Indian FPSC is long and fragmented.
+In the last few years, many food quality and safety issues are frequently reported. For
+instance, the milk scam disclosed in India fou nd that saturated fatty oil and powder were
+blended with the milk to increase the sale (Dandageet al., 2017). The FSC has received increasing
+attention from both academia and practitioners,as consumers are concerned about food quality
+a n ds a f e t y( M a h a j a net al., 2017). For a better understanding of this research domain, it is
+important to map and summarize the existing knowledge base through an effective literature
+review. However, reviews on this research area were focussed only on a specific food sector
+(Ganeshkumaret al.,2 0 1 7 ;B e get al., 2017; Denham et al., 2015) or a particular issue like food
+safety (Auler et al., 2017; Manning and Soon, 2016), food traceability (Dandage et al., 2017),
+environmental issues (Borodin et al. ,2 0 1 6 ;D e n h a met al. , 2015; Wiedemann et al. , 2015a),
+perishable food products (Siddhet al., 2015) and processed FSC (Prakash, 2018; Mahajanet al.,
+2017). It is observed that none of the previous literature map and summarize the existing
+knowledge base in the SME FSC domain (Luoet al., 2018). Most of the past reviews on the FSC
+are narrative as shown in Table I. A systemati c literature review (SLR) is preferred, as it
+outperforms other review methods since its characteristics, explanatory, heuristic nature,
+transparency and inclusivity, eliminate an y errors and bias occurred, thereby making the
+research result more objective (Denyer and Tranfield, 2009). To address this research gap, we
+present a SLR of SME FSC. A total of 1,091 resea rch articles published from 2002 to 2018 are
+collected from the Web of Science (WoS) database. We use bibliographic coupling (BC) combined
+with co-word analysis to identify the historical relations of the research themes that emerged
+during the periods 2002– 2014 and 2002– 2018. The broader thematic context is obtained for the
+period 2002– 2014, whereas the inclusion of recent articles (i.e. 2015– 2018) resulted in identifying
+the emerging research directions out of these broader issues.
+Research focus Review type
+Sl No. Author(s) Supply chain SMEs Food sector NLR SLR
+1 Prakash (2018) * * *
+2 Mahajan et al. (2017) * * *
+3 Beg et al. (2017) * * * *
+4 Gharehgozli et al. (2017) * * *
+5 Notarnicola et al. (2017) * * * *
+6 Dandage et al. (2017) * * * *
+7 Zhong et al. (2017) * * *
+8 Fassam and Dani (2017) * *
+9 Ganeshkumar et al. (2017) * * * *
+10 Auler et al. (2017) * * *
+11 Mahajan et al. (2017) * * *
+12 Manning and Soon (2016) * * *
+13 Fraser et al. (2016) * * *
+14 Borodin et al. (2016) * * * *
+15 Sjauw et al. (2016) * * * *
+16 Berti et al. (2016) * * * *
+17 Siddh et al. (2015) * * *
+18 Wiedemann et al. (2015a) * * * *
+19 Denham et al. (2015) * * *
+20 Fredriksson and Liljestrand (2015) * * *
+Notes: NLR, narrative literature review; SLR, systematic literature review. *Highlights the research focus
+and review type reported
+Table I.
+Recent reviews on
+food supply chain
+20
 JAMR
 17,1
 Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

@@ -1,0 +1,54 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C19
+Parent Doc ID: A-RES-100
+Page Range: Page 28 to Page 29
+Word Range: 5481 - 5730
+Word Count: 250
+--------------------
+
+[Page 28]
+Engaging suppliers is a critical lever for reducing Scope 3 emissions, and companies employ a mix of
+approaches that generally fall into four categories:
+28
+Decarbonization Levers to Reduce Scope 3: Supplier Engagement
+Figure 15. Ways Companies Engage with Suppliers to Reduce Scope 3 Emissions (multiple response)
+State of Supply Chain Sustainability 2025
+Foundational procurement levers are the most common, which includes sustainability in supplier selection
+(~70%) and requesting emissions data from suppliers (~55%), as you can see in Figure 15. The commercial
+mechanisms lever is relatively underutilized (~42%), which is powerful for locking in change but is used by a
+smaller share of businesses, whereas the capability-building and assurance levers are used moderately.
+Regional differences are notable (see Figure 16). North American organizations spread their efforts across
+selection criteria, data requests, and training, while European companies lean more on audits, certifications,
+and supplier capacity building. Commercial mechanisms like financial incentives or long-term contracts
+remain underused in both regions, despite their potential to drive lasting change.
+Commercial Mechanisms: long-term contracts
+with sustainability commitments; financial
+incentives or penalties tied to performance
+Capability-Building: providing training or
+resources to help suppliers cut emissions
+Verification & Compliance: requiring 
+third-party audits or certifications
+Sustainable Sourcing: including sustainability
+criteria in supplier selection; requesting
+emissions data
+
+[Page 29]
+29
+Industry Collaborations
+Collaboration across industries is emerging as a powerful way to decarbonize, with companies working
+together to source sustainable inputs and create uniform standards. Industry partnerships help to progress
+Scope 3 decarbonization by relieving suppliers of the stress of handling numerous, conflicting requests.
+SteelZero , for instance, encourages steelmakers to invest in cleaner production by uniting purchasers such
+as Maersk and Volvo Cars to pledge to use 50% low-emission steel by 2030 and 100% net-zero steel by
+2050. Similar to this, RE100  brings together hundreds of businesses to source all of their electricity from
+renewable sources, generating a sizable and steady demand that aids in the development of new clean
+power and the decarbonization of suppliers. As a result, by pooling demand, standardizing practices, and
+exchanging non-proprietary knowledge, industry partnerships strengthen Scope 3 decarbonization
+initiatives. Figure 17 shows the variety of collaborations that businesses engage in. The most prevalent are
+sustainability coalitions (48.8%), followed by joint supplier programs (31.2%). A significant number of
+respondents are unclear or uninvolved, indicating inadequate awareness and participation.
+2
+3
+Figure 16. Regional Breakdown of Ways Companies Engage with Suppliers to Reduce Scope 3 Emissions  
+(multiple response)
+Issue No.06
