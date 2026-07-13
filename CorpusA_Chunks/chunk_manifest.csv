@@ -5,6 +5,11 @@ A-RES-100-C03,A-RES-100,A,Page 12 to Page 19,2592 - 3888,1297,CorpusA_Chunks\A-R
 A-RES-100-C04,A-RES-100,A,Page 20 to Page 27,3889 - 5306,1418,CorpusA_Chunks\A-RES-100\A-RES-100-C04.txt,"M,A,A,A,A,A",supplychain_research-compliance-framework,direct-institutional-or-academic-extraction
 A-RES-100-C05,A-RES-100,A,Page 28 to Page 35,5307 - 6582,1276,CorpusA_Chunks\A-RES-100\A-RES-100-C05.txt,"M,A,A,A,A,A",supplychain_research-compliance-framework,direct-institutional-or-academic-extraction
 A-RES-100-C06,A-RES-100,A,Page 36 to Page 44,6583 - 7933,1351,CorpusA_Chunks\A-RES-100\A-RES-100-C06.txt,"M,A,A,A,A,A",supplychain_research-compliance-framework,direct-institutional-or-academic-extraction
+A-APEDA-001-C01,A-APEDA-001,A,N/A (Web Scraped / Text Extract),1 - 1000,1000,CorpusA_Chunks\A-APEDA-001\A-APEDA-001-C01.txt,"A,A,A,A,A,A",organic-certification-framework,third-party-accreditation-and-farm-inspection
+A-APEDA-001-C02,A-APEDA-001,A,N/A (Web Scraped / Text Extract),1001 - 2140,1140,CorpusA_Chunks\A-APEDA-001\A-APEDA-001-C02.txt,"A,A,A,A,A,A",organic-certification-framework,third-party-accreditation-and-farm-inspection
+A-APEDA-007-C01,A-APEDA-007,A,N/A (Web Scraped / Text Extract),1 - 1050,1050,CorpusA_Chunks\A-APEDA-007\A-APEDA-007-C01.txt,"A,A,A,A,A,A",cereals-export-protocol,phytosanitary-and-pesticide-mrl-screening
+A-APEDA-008-C01,A-APEDA-008,A,N/A (Web Scraped / Text Extract),1 - 1044,1044,CorpusA_Chunks\A-APEDA-008\A-APEDA-008-C01.txt,"A,A,A,A,A,A",fresh-produce-hortinet,packhouse-recognition-and-orchard-registration
+A-APEDA-009-C01,A-APEDA-009,A,N/A (Web Scraped / Text Extract),1 - 647,647,CorpusA_Chunks\A-APEDA-009\A-APEDA-009-C01.txt,"A,A,A,A,A,A",animal-products-governance,abattoir-haccp-and-ante-mortem-inspection
 A-FSSAI-001-C01,A-FSSAI-001,A,Page 1 to Page 3,1 - 1880,1880,CorpusA_Chunks\A-FSSAI-001\A-FSSAI-001-C01.txt,"A,A,A,A,A,A",domestic-manufacturing-licensing,schedule-4-sanitary-hygiene-and-haccp-mandate
 A-FSSAI-001-C02,A-FSSAI-001,A,Page 4 to Page 5,1881 - 3403,1523,CorpusA_Chunks\A-FSSAI-001\A-FSSAI-001-C02.txt,"A,A,A,A,A,A",domestic-manufacturing-licensing,schedule-4-sanitary-hygiene-and-haccp-mandate
 A-FSSAI-001-C03,A-FSSAI-001,A,Page 6 to Page 9,3404 - 4801,1398,CorpusA_Chunks\A-FSSAI-001\A-FSSAI-001-C03.txt,"A,A,A,A,A,A",domestic-manufacturing-licensing,schedule-4-sanitary-hygiene-and-haccp-mandate
@@ -25,27 +30,30 @@ A-FSSAI-001-C17,A-FSSAI-001,A,Page 45 to Page 46,22769 - 24291,1523,CorpusA_Chun
 A-FSSAI-001-C18,A-FSSAI-001,A,Page 47 to Page 48,24292 - 25605,1314,CorpusA_Chunks\A-FSSAI-001\A-FSSAI-001-C18.txt,"A,A,A,A,A,A",domestic-manufacturing-licensing,schedule-4-sanitary-hygiene-and-haccp-mandate
 A-FSSAI-001-C19,A-FSSAI-001,A,Page 49 to Page 51,25606 - 27073,1468,CorpusA_Chunks\A-FSSAI-001\A-FSSAI-001-C19.txt,"A,A,A,A,A,A",domestic-manufacturing-licensing,schedule-4-sanitary-hygiene-and-haccp-mandate
 A-FSSAI-001-C20,A-FSSAI-001,A,Page 52 to Page 54,27074 - 28462,1389,CorpusA_Chunks\A-FSSAI-001\A-FSSAI-001-C20.txt,"A,A,A,A,A,A",domestic-manufacturing-licensing,schedule-4-sanitary-hygiene-and-haccp-mandate
-A-MPEDA-004-C01,A-MPEDA-004,A,Page 1 to Page 10,1 - 1636,1636,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C01.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C02,A-MPEDA-004,A,Page 11 to Page 14,1637 - 2957,1321,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C02.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C03,A-MPEDA-004,A,Page 15 to Page 17,2958 - 4204,1247,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C03.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C04,A-MPEDA-004,A,Page 18 to Page 22,4205 - 5412,1208,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C04.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C05,A-MPEDA-004,A,Page 23 to Page 28,5413 - 6939,1527,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C05.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C06,A-MPEDA-004,A,Page 29 to Page 34,6940 - 8235,1296,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C06.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C07,A-MPEDA-004,A,Page 35 to Page 41,8236 - 9467,1232,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C07.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C08,A-MPEDA-004,A,Page 42 to Page 45,9468 - 10715,1248,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C08.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C09,A-MPEDA-004,A,Page 46 to Page 50,10716 - 12092,1377,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C09.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C10,A-MPEDA-004,A,Page 51 to Page 55,12093 - 13480,1388,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C10.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C11,A-MPEDA-004,A,Page 56 to Page 61,13481 - 14857,1377,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C11.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C12,A-MPEDA-004,A,Page 62 to Page 68,14858 - 16221,1364,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C12.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C13,A-MPEDA-004,A,Page 69 to Page 75,16222 - 17424,1203,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C13.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C14,A-MPEDA-004,A,Page 76 to Page 85,17425 - 19009,1585,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C14.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C15,A-MPEDA-004,A,Page 86 to Page 90,19010 - 20272,1263,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C15.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C16,A-MPEDA-004,A,Page 91 to Page 95,20273 - 21498,1226,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C16.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C17,A-MPEDA-004,A,Page 96 to Page 101,21499 - 22971,1473,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C17.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C18,A-MPEDA-004,A,Page 102 to Page 107,22972 - 24305,1334,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C18.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-MPEDA-004-C19,A-MPEDA-004,A,Page 108 to Page 112,24306 - 25558,1253,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C19.txt,"A,A,A,M,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
-A-SPICE-001-C01,A-SPICE-001,A,N/A (Web Scraped / Text Extract),1 - 1008,1008,CorpusA_Chunks\A-SPICE-001\A-SPICE-001-C01.txt,"A,A,A,A,A,A",digital-export-services,ess-online-certificate-and-sampling-request
-A-SPICE-001-C02,A-SPICE-001,A,N/A (Web Scraped / Text Extract),1009 - 1456,448,CorpusA_Chunks\A-SPICE-001\A-SPICE-001-C02.txt,"A,A,A,A,A,A",digital-export-services,ess-online-certificate-and-sampling-request
+A-MPEDA-004-C01,A-MPEDA-004,A,Page 1 to Page 10,1 - 1636,1636,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C01.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C02,A-MPEDA-004,A,Page 11 to Page 14,1637 - 2957,1321,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C02.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C03,A-MPEDA-004,A,Page 15 to Page 17,2958 - 4204,1247,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C03.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C04,A-MPEDA-004,A,Page 18 to Page 22,4205 - 5412,1208,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C04.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C05,A-MPEDA-004,A,Page 23 to Page 28,5413 - 6939,1527,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C05.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C06,A-MPEDA-004,A,Page 29 to Page 34,6940 - 8235,1296,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C06.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C07,A-MPEDA-004,A,Page 35 to Page 41,8236 - 9467,1232,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C07.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C08,A-MPEDA-004,A,Page 42 to Page 45,9468 - 10715,1248,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C08.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C09,A-MPEDA-004,A,Page 46 to Page 50,10716 - 12092,1377,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C09.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C10,A-MPEDA-004,A,Page 51 to Page 55,12093 - 13480,1388,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C10.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C11,A-MPEDA-004,A,Page 56 to Page 61,13481 - 14857,1377,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C11.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C12,A-MPEDA-004,A,Page 62 to Page 68,14858 - 16221,1364,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C12.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C13,A-MPEDA-004,A,Page 69 to Page 75,16222 - 17424,1203,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C13.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C14,A-MPEDA-004,A,Page 76 to Page 85,17425 - 19009,1585,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C14.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C15,A-MPEDA-004,A,Page 86 to Page 90,19010 - 20272,1263,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C15.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C16,A-MPEDA-004,A,Page 91 to Page 95,20273 - 21498,1226,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C16.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C17,A-MPEDA-004,A,Page 96 to Page 101,21499 - 22971,1473,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C17.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C18,A-MPEDA-004,A,Page 102 to Page 107,22972 - 24305,1334,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C18.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-MPEDA-004-C19,A-MPEDA-004,A,Page 108 to Page 112,24306 - 25558,1253,CorpusA_Chunks\A-MPEDA-004\A-MPEDA-004-C19.txt,"A,A,A,A,A,A",export-impact-evaluation,marine-trade-policy-assessment-metrics
+A-SPICE-001-C01,A-SPICE-001,A,N/A (Web Scraped / Text Extract),1 - 1000,1000,CorpusA_Chunks\A-SPICE-001\A-SPICE-001-C01.txt,"A,A,A,A,A,A",digital-export-services,ess-online-certificate-and-sampling-request
+A-SPICE-001-C02,A-SPICE-001,A,N/A (Web Scraped / Text Extract),1001 - 1456,456,CorpusA_Chunks\A-SPICE-001\A-SPICE-001-C02.txt,"A,A,A,A,A,A",digital-export-services,ess-online-certificate-and-sampling-request
+A-SPICE-002-C01,A-SPICE-002,A,Page 1 to Page 3,1 - 874,874,CorpusA_Chunks\A-SPICE-002\A-SPICE-002-C01.txt,"A,A,A,A,A,A",exporter-registration-rcmc,statutory-spices-board-licensing-verification
+A-SPICE-003-C01,A-SPICE-003,A,Page 1 to Page 2,1 - 608,608,CorpusA_Chunks\A-SPICE-003\A-SPICE-003-C01.txt,"A,A,A,A,A,A",analytical-testing-matrix,qel-laboratory-multi-residue-pesticide-screen
+A-SPICE-004-C01,A-SPICE-004,A,Page 1 to Page 4,1 - 1097,1097,CorpusA_Chunks\A-SPICE-004\A-SPICE-004-C01.txt,"A,A,A,A,A,A",quality-evaluation-labs,iso-17025-accredited-instrumental-analysis
 A-SPICE-005-C01,A-SPICE-005,A,Page 2 to Page 3,1 - 1329,1329,CorpusA_Chunks\A-SPICE-005\A-SPICE-005-C01.txt,"A,A,A,A,A,A",eu-spices-export-protocol,mandatory-eto-and-aflatoxin-sampling-scheme
 A-SPICE-005-C02,A-SPICE-005,A,Page 4 to Page 5,1330 - 2940,1611,CorpusA_Chunks\A-SPICE-005\A-SPICE-005-C02.txt,"A,A,A,A,A,A",eu-spices-export-protocol,mandatory-eto-and-aflatoxin-sampling-scheme
 A-SPICE-005-C03,A-SPICE-005,A,Page 6 to Page 9,2941 - 4170,1230,CorpusA_Chunks\A-SPICE-005\A-SPICE-005-C03.txt,"A,A,A,A,A,A",eu-spices-export-protocol,mandatory-eto-and-aflatoxin-sampling-scheme
@@ -53,51 +61,56 @@ A-SPICE-005-C04,A-SPICE-005,A,Page 10 to Page 14,4171 - 5499,1329,CorpusA_Chunks
 A-SPICE-005-C05,A-SPICE-005,A,Page 15 to Page 18,5500 - 6815,1316,CorpusA_Chunks\A-SPICE-005\A-SPICE-005-C05.txt,"A,A,A,A,A,A",eu-spices-export-protocol,mandatory-eto-and-aflatoxin-sampling-scheme
 A-SPICE-005-C06,A-SPICE-005,A,Page 19 to Page 24,6816 - 8599,1784,CorpusA_Chunks\A-SPICE-005\A-SPICE-005-C06.txt,"A,A,A,A,A,A",eu-spices-export-protocol,mandatory-eto-and-aflatoxin-sampling-scheme
 A-SPICE-005-C07,A-SPICE-005,A,Page 25 to Page 26,8600 - 8963,364,CorpusA_Chunks\A-SPICE-005\A-SPICE-005-C07.txt,"A,A,A,A,A,A",eu-spices-export-protocol,mandatory-eto-and-aflatoxin-sampling-scheme
-A-SPICE-006-C01,A-SPICE-006,A,N/A (Web Scraped / Text Extract),1 - 1000,1000,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C01.txt,"A,A,A,A,M,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
-A-SPICE-006-C02,A-SPICE-006,A,N/A (Web Scraped / Text Extract),1001 - 2080,1080,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C02.txt,"A,A,A,A,M,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
-A-SPICE-006-C03,A-SPICE-006,A,N/A (Web Scraped / Text Extract),2081 - 3156,1076,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C03.txt,"A,A,A,A,M,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
-A-SPICE-006-C04,A-SPICE-006,A,N/A (Web Scraped / Text Extract),3157 - 4203,1047,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C04.txt,"A,A,A,A,M,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
-A-SPICE-006-C05,A-SPICE-006,A,N/A (Web Scraped / Text Extract),4204 - 5059,856,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C05.txt,"A,A,A,A,M,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
+A-SPICE-006-C01,A-SPICE-006,A,N/A (Web Scraped / Text Extract),1 - 1000,1000,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C01.txt,"A,A,A,A,A,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
+A-SPICE-006-C02,A-SPICE-006,A,N/A (Web Scraped / Text Extract),1001 - 2000,1000,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C02.txt,"A,A,A,A,A,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
+A-SPICE-006-C03,A-SPICE-006,A,N/A (Web Scraped / Text Extract),2001 - 3000,1000,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C03.txt,"A,A,A,A,A,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
+A-SPICE-006-C04,A-SPICE-006,A,N/A (Web Scraped / Text Extract),3001 - 4000,1000,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C04.txt,"A,A,A,A,A,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
+A-SPICE-006-C05,A-SPICE-006,A,N/A (Web Scraped / Text Extract),4001 - 5059,1059,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C05.txt,"A,A,A,A,A,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
 A-MOFPI-100-C01,A-MOFPI-100,A,Page 2 to Page 6,1 - 1570,1570,CorpusA_Chunks\A-MOFPI-100\A-MOFPI-100-C01.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
 A-MOFPI-100-C02,A-MOFPI-100,A,Page 7 to Page 9,1571 - 2940,1370,CorpusA_Chunks\A-MOFPI-100\A-MOFPI-100-C02.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
 A-MOFPI-100-C03,A-MOFPI-100,A,Page 10 to Page 12,2941 - 4179,1239,CorpusA_Chunks\A-MOFPI-100\A-MOFPI-100-C03.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
 A-MOFPI-100-C04,A-MOFPI-100,A,Page 13 to Page 16,4180 - 4896,717,CorpusA_Chunks\A-MOFPI-100\A-MOFPI-100-C04.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-100-C01,A-MSME-100,A,Page 1 to Page 8,1 - 1212,1212,CorpusA_Chunks\A-MSME-100\A-MSME-100-C01.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-100-C02,A-MSME-100,A,Page 9 to Page 14,1213 - 2757,1545,CorpusA_Chunks\A-MSME-100\A-MSME-100-C02.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-100-C03,A-MSME-100,A,Page 15 to Page 18,2758 - 4166,1409,CorpusA_Chunks\A-MSME-100\A-MSME-100-C03.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-100-C04,A-MSME-100,A,Page 19 to Page 23,4167 - 5428,1262,CorpusA_Chunks\A-MSME-100\A-MSME-100-C04.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-100-C05,A-MSME-100,A,Page 24 to Page 27,5429 - 6771,1343,CorpusA_Chunks\A-MSME-100\A-MSME-100-C05.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-100-C06,A-MSME-100,A,Page 28 to Page 32,6772 - 7989,1218,CorpusA_Chunks\A-MSME-100\A-MSME-100-C06.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-100-C07,A-MSME-100,A,Page 33 to Page 36,7990 - 9429,1440,CorpusA_Chunks\A-MSME-100\A-MSME-100-C07.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-100-C08,A-MSME-100,A,Page 37 to Page 40,9430 - 10712,1283,CorpusA_Chunks\A-MSME-100\A-MSME-100-C08.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-100-C09,A-MSME-100,A,Page 41 to Page 44,10713 - 12172,1460,CorpusA_Chunks\A-MSME-100\A-MSME-100-C09.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-100-C10,A-MSME-100,A,Page 45 to Page 48,12173 - 13658,1486,CorpusA_Chunks\A-MSME-100\A-MSME-100-C10.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-100-C11,A-MSME-100,A,Page 49 to Page 56,13659 - 15422,1764,CorpusA_Chunks\A-MSME-100\A-MSME-100-C11.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-B-GD-007-C01,B-GD-007,B,N/A (Web Scraped / Text Extract),1 - 1338,1338,CorpusB_Chunks\B-GD-007\B-GD-007-C01.txt,"M,A,A,A,A,A",gdelt-seafood-dwpe-alerts,media-signaling-and-border-rejections (external trade friction)
-B-GD-007-C02,B-GD-007,B,N/A (Web Scraped / Text Extract),1339 - 2431,1093,CorpusB_Chunks\B-GD-007\B-GD-007-C02.txt,"M,A,A,A,A,A",gdelt-seafood-dwpe-alerts,media-signaling-and-border-rejections (external trade friction)
-B-GD-007-C03,B-GD-007,B,N/A (Web Scraped / Text Extract),2432 - 3757,1326,CorpusB_Chunks\B-GD-007\B-GD-007-C03.txt,"M,A,A,A,A,A",gdelt-seafood-dwpe-alerts,media-signaling-and-border-rejections (external trade friction)
-B-GD-007-C04,B-GD-007,B,N/A (Web Scraped / Text Extract),3758 - 4922,1165,CorpusB_Chunks\B-GD-007\B-GD-007-C04.txt,"M,A,A,A,A,A",gdelt-seafood-dwpe-alerts,media-signaling-and-border-rejections (external trade friction)
-B-GD-007-C05,B-GD-007,B,N/A (Web Scraped / Text Extract),4923 - 5515,593,CorpusB_Chunks\B-GD-007\B-GD-007-C05.txt,"M,A,A,A,A,A",gdelt-seafood-dwpe-alerts,media-signaling-and-border-rejections (external trade friction)
-B-GD-020-C01,B-GD-020,B,N/A (Web Scraped / Text Extract),1 - 1010,1010,CorpusB_Chunks\B-GD-020\B-GD-020-C01.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
-B-GD-020-C02,B-GD-020,B,N/A (Web Scraped / Text Extract),1011 - 1626,616,CorpusB_Chunks\B-GD-020\B-GD-020-C02.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
-B-GD-025-C01,B-GD-025,B,N/A (Web Scraped / Text Extract),1 - 1047,1047,CorpusB_Chunks\B-GD-025\B-GD-025-C01.txt,"M,M,M,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
-B-GD-025-C02,B-GD-025,B,N/A (Web Scraped / Text Extract),1048 - 1834,787,CorpusB_Chunks\B-GD-025\B-GD-025-C02.txt,"M,M,M,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
-B-GD-029-C01,B-GD-029,B,N/A (Web Scraped / Text Extract),1 - 1009,1009,CorpusB_Chunks\B-GD-029\B-GD-029-C01.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
-B-GD-029-C02,B-GD-029,B,N/A (Web Scraped / Text Extract),1010 - 1502,493,CorpusB_Chunks\B-GD-029\B-GD-029-C02.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
-B-GD-057-C01,B-GD-057,B,N/A (Web Scraped / Text Extract),1 - 1015,1015,CorpusB_Chunks\B-GD-057\B-GD-057-C01.txt,"M,M,M,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
-B-GD-057-C02,B-GD-057,B,N/A (Web Scraped / Text Extract),1016 - 1458,443,CorpusB_Chunks\B-GD-057\B-GD-057-C02.txt,"M,M,M,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
-B-GD-089-C01,B-GD-089,B,N/A (Web Scraped / Text Extract),1 - 1003,1003,CorpusB_Chunks\B-GD-089\B-GD-089-C01.txt,"M,A,A,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
-B-GD-089-C02,B-GD-089,B,N/A (Web Scraped / Text Extract),1004 - 1408,405,CorpusB_Chunks\B-GD-089\B-GD-089-C02.txt,"M,A,A,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
-B-GD-101-C01,B-GD-101,B,N/A (Web Scraped / Text Extract),1 - 1021,1021,CorpusB_Chunks\B-GD-101\B-GD-101-C01.txt,"A,M,A,A,A,A",gdelt-dgft-icegate-glitches,media-signaling-and-border-rejections (external trade friction)
-B-GD-101-C02,B-GD-101,B,N/A (Web Scraped / Text Extract),1022 - 2030,1009,CorpusB_Chunks\B-GD-101\B-GD-101-C02.txt,"A,M,A,A,A,A",gdelt-dgft-icegate-glitches,media-signaling-and-border-rejections (external trade friction)
-B-GD-101-C03,B-GD-101,B,N/A (Web Scraped / Text Extract),2031 - 3152,1122,CorpusB_Chunks\B-GD-101\B-GD-101-C03.txt,"A,M,A,A,A,A",gdelt-dgft-icegate-glitches,media-signaling-and-border-rejections (external trade friction)
-B-GD-108-C01,B-GD-108,B,N/A (Web Scraped / Text Extract),1 - 1001,1001,CorpusB_Chunks\B-GD-108\B-GD-108-C01.txt,"M,A,A,A,A,A",gdelt-customs-clearance-holds,media-signaling-and-border-rejections (external trade friction)
-B-GD-108-C02,B-GD-108,B,N/A (Web Scraped / Text Extract),1002 - 1557,556,CorpusB_Chunks\B-GD-108\B-GD-108-C02.txt,"M,A,A,A,A,A",gdelt-customs-clearance-holds,media-signaling-and-border-rejections (external trade friction)
+A-MSME-100-C01,A-MSME-100,A,Page 1 to Page 8,1 - 1212,1212,CorpusA_Chunks\A-MSME-100\A-MSME-100-C01.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-100-C02,A-MSME-100,A,Page 9 to Page 14,1213 - 2757,1545,CorpusA_Chunks\A-MSME-100\A-MSME-100-C02.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-100-C03,A-MSME-100,A,Page 15 to Page 18,2758 - 4166,1409,CorpusA_Chunks\A-MSME-100\A-MSME-100-C03.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-100-C04,A-MSME-100,A,Page 19 to Page 23,4167 - 5428,1262,CorpusA_Chunks\A-MSME-100\A-MSME-100-C04.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-100-C05,A-MSME-100,A,Page 24 to Page 27,5429 - 6771,1343,CorpusA_Chunks\A-MSME-100\A-MSME-100-C05.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-100-C06,A-MSME-100,A,Page 28 to Page 32,6772 - 7989,1218,CorpusA_Chunks\A-MSME-100\A-MSME-100-C06.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-100-C07,A-MSME-100,A,Page 33 to Page 36,7990 - 9429,1440,CorpusA_Chunks\A-MSME-100\A-MSME-100-C07.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-100-C08,A-MSME-100,A,Page 37 to Page 40,9430 - 10712,1283,CorpusA_Chunks\A-MSME-100\A-MSME-100-C08.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-100-C09,A-MSME-100,A,Page 41 to Page 44,10713 - 12172,1460,CorpusA_Chunks\A-MSME-100\A-MSME-100-C09.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-100-C10,A-MSME-100,A,Page 45 to Page 48,12173 - 13658,1486,CorpusA_Chunks\A-MSME-100\A-MSME-100-C10.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-100-C11,A-MSME-100,A,Page 49 to Page 56,13659 - 15422,1764,CorpusA_Chunks\A-MSME-100\A-MSME-100-C11.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+B-GD-007-C01,B-GD-007,B,N/A (Web Scraped / Text Extract),1 - 1000,1000,CorpusB_Chunks\B-GD-007\B-GD-007-C01.txt,"M,A,A,A,A,A",gdelt-seafood-dwpe-alerts,media-signaling-and-border-rejections (external trade friction)
+B-GD-007-C02,B-GD-007,B,N/A (Web Scraped / Text Extract),1001 - 2000,1000,CorpusB_Chunks\B-GD-007\B-GD-007-C02.txt,"M,A,A,A,A,A",gdelt-seafood-dwpe-alerts,media-signaling-and-border-rejections (external trade friction)
+B-GD-007-C03,B-GD-007,B,N/A (Web Scraped / Text Extract),2001 - 3000,1000,CorpusB_Chunks\B-GD-007\B-GD-007-C03.txt,"M,A,A,A,A,A",gdelt-seafood-dwpe-alerts,media-signaling-and-border-rejections (external trade friction)
+B-GD-007-C04,B-GD-007,B,N/A (Web Scraped / Text Extract),3001 - 4000,1000,CorpusB_Chunks\B-GD-007\B-GD-007-C04.txt,"M,A,A,A,A,A",gdelt-seafood-dwpe-alerts,media-signaling-and-border-rejections (external trade friction)
+B-GD-007-C05,B-GD-007,B,N/A (Web Scraped / Text Extract),4001 - 5000,1000,CorpusB_Chunks\B-GD-007\B-GD-007-C05.txt,"M,A,A,A,A,A",gdelt-seafood-dwpe-alerts,media-signaling-and-border-rejections (external trade friction)
+B-GD-007-C06,B-GD-007,B,N/A (Web Scraped / Text Extract),5001 - 5515,515,CorpusB_Chunks\B-GD-007\B-GD-007-C06.txt,"M,A,A,A,A,A",gdelt-seafood-dwpe-alerts,media-signaling-and-border-rejections (external trade friction)
+B-GD-020-C01,B-GD-020,B,N/A (Web Scraped / Text Extract),1 - 1000,1000,CorpusB_Chunks\B-GD-020\B-GD-020-C01.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
+B-GD-020-C02,B-GD-020,B,N/A (Web Scraped / Text Extract),1001 - 1626,626,CorpusB_Chunks\B-GD-020\B-GD-020-C02.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
+B-GD-025-C01,B-GD-025,B,N/A (Web Scraped / Text Extract),1 - 1000,1000,CorpusB_Chunks\B-GD-025\B-GD-025-C01.txt,"M,M,M,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
+B-GD-025-C02,B-GD-025,B,N/A (Web Scraped / Text Extract),1001 - 1834,834,CorpusB_Chunks\B-GD-025\B-GD-025-C02.txt,"M,M,M,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
+B-GD-029-C01,B-GD-029,B,N/A (Web Scraped / Text Extract),1 - 1000,1000,CorpusB_Chunks\B-GD-029\B-GD-029-C01.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
+B-GD-029-C02,B-GD-029,B,N/A (Web Scraped / Text Extract),1001 - 1502,502,CorpusB_Chunks\B-GD-029\B-GD-029-C02.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
+B-GD-057-C01,B-GD-057,B,N/A (Web Scraped / Text Extract),1 - 1000,1000,CorpusB_Chunks\B-GD-057\B-GD-057-C01.txt,"M,M,M,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
+B-GD-057-C02,B-GD-057,B,N/A (Web Scraped / Text Extract),1001 - 1458,458,CorpusB_Chunks\B-GD-057\B-GD-057-C02.txt,"M,M,M,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
+B-GD-071-C01,B-GD-071,B,N/A (Web Scraped / Text Extract),1 - 1000,1000,CorpusB_Chunks\B-GD-071\B-GD-071-C01.txt,"M,M,M,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
+B-GD-071-C02,B-GD-071,B,N/A (Web Scraped / Text Extract),1001 - 1497,497,CorpusB_Chunks\B-GD-071\B-GD-071-C02.txt,"M,M,M,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
+B-GD-089-C01,B-GD-089,B,N/A (Web Scraped / Text Extract),1 - 1000,1000,CorpusB_Chunks\B-GD-089\B-GD-089-C01.txt,"M,A,A,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
+B-GD-089-C02,B-GD-089,B,N/A (Web Scraped / Text Extract),1001 - 1408,408,CorpusB_Chunks\B-GD-089\B-GD-089-C02.txt,"M,A,A,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
+B-GD-101-C01,B-GD-101,B,N/A (Web Scraped / Text Extract),1 - 1000,1000,CorpusB_Chunks\B-GD-101\B-GD-101-C01.txt,"A,M,A,A,A,A",gdelt-dgft-icegate-glitches,media-signaling-and-border-rejections (external trade friction)
+B-GD-101-C02,B-GD-101,B,N/A (Web Scraped / Text Extract),1001 - 2000,1000,CorpusB_Chunks\B-GD-101\B-GD-101-C02.txt,"A,M,A,A,A,A",gdelt-dgft-icegate-glitches,media-signaling-and-border-rejections (external trade friction)
+B-GD-101-C03,B-GD-101,B,N/A (Web Scraped / Text Extract),2001 - 3152,1152,CorpusB_Chunks\B-GD-101\B-GD-101-C03.txt,"A,M,A,A,A,A",gdelt-dgft-icegate-glitches,media-signaling-and-border-rejections (external trade friction)
+B-GD-108-C01,B-GD-108,B,N/A (Web Scraped / Text Extract),1 - 1000,1000,CorpusB_Chunks\B-GD-108\B-GD-108-C01.txt,"M,A,A,A,A,A",gdelt-customs-clearance-holds,media-signaling-and-border-rejections (external trade friction)
+B-GD-108-C02,B-GD-108,B,N/A (Web Scraped / Text Extract),1001 - 1557,557,CorpusB_Chunks\B-GD-108\B-GD-108-C02.txt,"M,A,A,A,A,A",gdelt-customs-clearance-holds,media-signaling-and-border-rejections (external trade friction)
 A-MSME-101-C01,A-MSME-101,A,Page 2 to Page 10,1 - 1218,1218,CorpusA_Chunks\A-MSME-101\A-MSME-101-C01.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
 A-MSME-101-C02,A-MSME-101,A,Page 11 to Page 14,1219 - 2453,1235,CorpusA_Chunks\A-MSME-101\A-MSME-101-C02.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
 A-MSME-101-C03,A-MSME-101,A,Page 15 to Page 65,2454 - 3698,1245,CorpusA_Chunks\A-MSME-101\A-MSME-101-C03.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
 A-MSME-101-C04,A-MSME-101,A,Page 66 to Page 72,3699 - 5052,1354,CorpusA_Chunks\A-MSME-101\A-MSME-101-C04.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
 A-MSME-101-C05,A-MSME-101,A,Page 73 to Page 75,5053 - 5528,476,CorpusA_Chunks\A-MSME-101\A-MSME-101-C05.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-DATA-100-C01,A-DATA-100,A,Page 1 to Page 2,1 - 829,829,CorpusA_Chunks\A-DATA-100\A-DATA-100-C01.txt,"M,A,A,A,A,A",datagov-compliance-framework,direct-institutional-or-academic-extraction
+A-DATA-101-C01,A-DATA-101,A,Page 1 to Page 2,1 - 863,863,CorpusA_Chunks\A-DATA-101\A-DATA-101-C01.txt,"M,A,A,A,A,A",datagov-compliance-framework,direct-institutional-or-academic-extraction
 A-CSR-100-C01,A-CSR-100,A,Page 1 to Page 3,1 - 1585,1585,CorpusA_Chunks\A-CSR-100\A-CSR-100-C01.txt,"M,A,A,A,A,A",csr-compliance-framework,direct-institutional-or-academic-extraction
 A-CSR-100-C02,A-CSR-100,A,Page 4,1586 - 1941,356,CorpusA_Chunks\A-CSR-100\A-CSR-100-C02.txt,"M,A,A,A,A,A",csr-compliance-framework,direct-institutional-or-academic-extraction
 A-EUDR-100-C01,A-EUDR-100,A,Page 1 to Page 2,1 - 2057,2057,CorpusA_Chunks\A-EUDR-100\A-EUDR-100-C01.txt,"M,A,A,A,A,A",eudr_csddd-compliance-framework,direct-institutional-or-academic-extraction
@@ -146,31 +159,31 @@ A-EUDR-101-C29,A-EUDR-101,A,Page 59 to Page 60,45625 - 47061,1437,CorpusA_Chunks
 A-EUDR-101-C30,A-EUDR-101,A,Page 61 to Page 62,47062 - 48568,1507,CorpusA_Chunks\A-EUDR-101\A-EUDR-101-C30.txt,"M,A,A,M,A,A",eudr_csddd-compliance-framework,direct-institutional-or-academic-extraction
 A-EUDR-101-C31,A-EUDR-101,A,Page 63 to Page 64,48569 - 49895,1327,CorpusA_Chunks\A-EUDR-101\A-EUDR-101-C31.txt,"M,A,A,M,A,A",eudr_csddd-compliance-framework,direct-institutional-or-academic-extraction
 A-EUDR-101-C32,A-EUDR-101,A,Page 65 to Page 66,49896 - 50619,724,CorpusA_Chunks\A-EUDR-101\A-EUDR-101-C32.txt,"M,A,A,M,A,A",eudr_csddd-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C01,A-MSME-102,A,Page 1 to Page 17,1 - 1250,1250,CorpusA_Chunks\A-MSME-102\A-MSME-102-C01.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C02,A-MSME-102,A,Page 18 to Page 20,1251 - 2656,1406,CorpusA_Chunks\A-MSME-102\A-MSME-102-C02.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C03,A-MSME-102,A,Page 21 to Page 28,2657 - 3931,1275,CorpusA_Chunks\A-MSME-102\A-MSME-102-C03.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C04,A-MSME-102,A,Page 29 to Page 33,3932 - 5272,1341,CorpusA_Chunks\A-MSME-102\A-MSME-102-C04.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C05,A-MSME-102,A,Page 34 to Page 39,5273 - 6586,1314,CorpusA_Chunks\A-MSME-102\A-MSME-102-C05.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C06,A-MSME-102,A,Page 40 to Page 44,6587 - 8248,1662,CorpusA_Chunks\A-MSME-102\A-MSME-102-C06.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C07,A-MSME-102,A,Page 45 to Page 47,8249 - 9477,1229,CorpusA_Chunks\A-MSME-102\A-MSME-102-C07.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C08,A-MSME-102,A,Page 48 to Page 51,9478 - 10731,1254,CorpusA_Chunks\A-MSME-102\A-MSME-102-C08.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C09,A-MSME-102,A,Page 52 to Page 56,10732 - 11978,1247,CorpusA_Chunks\A-MSME-102\A-MSME-102-C09.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C10,A-MSME-102,A,Page 57 to Page 59,11979 - 13255,1277,CorpusA_Chunks\A-MSME-102\A-MSME-102-C10.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C11,A-MSME-102,A,Page 60 to Page 65,13256 - 14700,1445,CorpusA_Chunks\A-MSME-102\A-MSME-102-C11.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C12,A-MSME-102,A,Page 66 to Page 71,14701 - 16187,1487,CorpusA_Chunks\A-MSME-102\A-MSME-102-C12.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C13,A-MSME-102,A,Page 72 to Page 75,16188 - 17528,1341,CorpusA_Chunks\A-MSME-102\A-MSME-102-C13.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C14,A-MSME-102,A,Page 76 to Page 80,17529 - 18906,1378,CorpusA_Chunks\A-MSME-102\A-MSME-102-C14.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C15,A-MSME-102,A,Page 81 to Page 84,18907 - 20170,1264,CorpusA_Chunks\A-MSME-102\A-MSME-102-C15.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C16,A-MSME-102,A,Page 85 to Page 87,20171 - 21448,1278,CorpusA_Chunks\A-MSME-102\A-MSME-102-C16.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C17,A-MSME-102,A,Page 88 to Page 91,21449 - 22788,1340,CorpusA_Chunks\A-MSME-102\A-MSME-102-C17.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C18,A-MSME-102,A,Page 92 to Page 97,22789 - 24385,1597,CorpusA_Chunks\A-MSME-102\A-MSME-102-C18.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C19,A-MSME-102,A,Page 98 to Page 100,24386 - 25647,1262,CorpusA_Chunks\A-MSME-102\A-MSME-102-C19.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C20,A-MSME-102,A,Page 101 to Page 104,25648 - 27096,1449,CorpusA_Chunks\A-MSME-102\A-MSME-102-C20.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C21,A-MSME-102,A,Page 105 to Page 107,27097 - 28307,1211,CorpusA_Chunks\A-MSME-102\A-MSME-102-C21.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C22,A-MSME-102,A,Page 108 to Page 111,28308 - 29694,1387,CorpusA_Chunks\A-MSME-102\A-MSME-102-C22.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C23,A-MSME-102,A,Page 112 to Page 115,29695 - 31067,1373,CorpusA_Chunks\A-MSME-102\A-MSME-102-C23.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C24,A-MSME-102,A,Page 116 to Page 118,31068 - 32442,1375,CorpusA_Chunks\A-MSME-102\A-MSME-102-C24.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-102-C25,A-MSME-102,A,Page 119 to Page 124,32443 - 33912,1470,CorpusA_Chunks\A-MSME-102\A-MSME-102-C25.txt,"M,A,A,A,A,M",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C01,A-MSME-102,A,Page 1 to Page 17,1 - 1250,1250,CorpusA_Chunks\A-MSME-102\A-MSME-102-C01.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C02,A-MSME-102,A,Page 18 to Page 20,1251 - 2656,1406,CorpusA_Chunks\A-MSME-102\A-MSME-102-C02.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C03,A-MSME-102,A,Page 21 to Page 28,2657 - 3931,1275,CorpusA_Chunks\A-MSME-102\A-MSME-102-C03.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C04,A-MSME-102,A,Page 29 to Page 33,3932 - 5272,1341,CorpusA_Chunks\A-MSME-102\A-MSME-102-C04.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C05,A-MSME-102,A,Page 34 to Page 39,5273 - 6586,1314,CorpusA_Chunks\A-MSME-102\A-MSME-102-C05.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C06,A-MSME-102,A,Page 40 to Page 44,6587 - 8248,1662,CorpusA_Chunks\A-MSME-102\A-MSME-102-C06.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C07,A-MSME-102,A,Page 45 to Page 47,8249 - 9477,1229,CorpusA_Chunks\A-MSME-102\A-MSME-102-C07.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C08,A-MSME-102,A,Page 48 to Page 51,9478 - 10731,1254,CorpusA_Chunks\A-MSME-102\A-MSME-102-C08.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C09,A-MSME-102,A,Page 52 to Page 56,10732 - 11978,1247,CorpusA_Chunks\A-MSME-102\A-MSME-102-C09.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C10,A-MSME-102,A,Page 57 to Page 59,11979 - 13255,1277,CorpusA_Chunks\A-MSME-102\A-MSME-102-C10.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C11,A-MSME-102,A,Page 60 to Page 65,13256 - 14700,1445,CorpusA_Chunks\A-MSME-102\A-MSME-102-C11.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C12,A-MSME-102,A,Page 66 to Page 71,14701 - 16187,1487,CorpusA_Chunks\A-MSME-102\A-MSME-102-C12.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C13,A-MSME-102,A,Page 72 to Page 75,16188 - 17528,1341,CorpusA_Chunks\A-MSME-102\A-MSME-102-C13.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C14,A-MSME-102,A,Page 76 to Page 80,17529 - 18906,1378,CorpusA_Chunks\A-MSME-102\A-MSME-102-C14.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C15,A-MSME-102,A,Page 81 to Page 84,18907 - 20170,1264,CorpusA_Chunks\A-MSME-102\A-MSME-102-C15.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C16,A-MSME-102,A,Page 85 to Page 87,20171 - 21448,1278,CorpusA_Chunks\A-MSME-102\A-MSME-102-C16.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C17,A-MSME-102,A,Page 88 to Page 91,21449 - 22788,1340,CorpusA_Chunks\A-MSME-102\A-MSME-102-C17.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C18,A-MSME-102,A,Page 92 to Page 97,22789 - 24385,1597,CorpusA_Chunks\A-MSME-102\A-MSME-102-C18.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C19,A-MSME-102,A,Page 98 to Page 100,24386 - 25647,1262,CorpusA_Chunks\A-MSME-102\A-MSME-102-C19.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C20,A-MSME-102,A,Page 101 to Page 104,25648 - 27096,1449,CorpusA_Chunks\A-MSME-102\A-MSME-102-C20.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C21,A-MSME-102,A,Page 105 to Page 107,27097 - 28307,1211,CorpusA_Chunks\A-MSME-102\A-MSME-102-C21.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C22,A-MSME-102,A,Page 108 to Page 111,28308 - 29694,1387,CorpusA_Chunks\A-MSME-102\A-MSME-102-C22.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C23,A-MSME-102,A,Page 112 to Page 115,29695 - 31067,1373,CorpusA_Chunks\A-MSME-102\A-MSME-102-C23.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C24,A-MSME-102,A,Page 116 to Page 118,31068 - 32442,1375,CorpusA_Chunks\A-MSME-102\A-MSME-102-C24.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-102-C25,A-MSME-102,A,Page 119 to Page 124,32443 - 33912,1470,CorpusA_Chunks\A-MSME-102\A-MSME-102-C25.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
 A-MOFPI-101-C01,A-MOFPI-101,A,Page 1 to Page 4,1 - 1313,1313,CorpusA_Chunks\A-MOFPI-101\A-MOFPI-101-C01.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
 A-MOFPI-101-C02,A-MOFPI-101,A,Page 5 to Page 8,1314 - 2077,764,CorpusA_Chunks\A-MOFPI-101\A-MOFPI-101-C02.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
 A-RES-103-C01,A-RES-103,A,Page 1 to Page 5,1 - 1431,1431,CorpusA_Chunks\A-RES-103\A-RES-103-C01.txt,"M,A,A,M,A,A",supplychain_research-compliance-framework,direct-institutional-or-academic-extraction
@@ -229,24 +242,25 @@ A-CSR-101-C09,A-CSR-101,A,Page 12 to Page 13,12698 - 14443,1746,CorpusA_Chunks\A
 A-CSR-101-C10,A-CSR-101,A,Page 14,14444 - 15691,1248,CorpusA_Chunks\A-CSR-101\A-CSR-101-C10.txt,"M,A,A,A,A,A",csr-compliance-framework,direct-institutional-or-academic-extraction
 A-CSR-101-C11,A-CSR-101,A,Page 15,15692 - 17103,1412,CorpusA_Chunks\A-CSR-101\A-CSR-101-C11.txt,"M,A,A,A,A,A",csr-compliance-framework,direct-institutional-or-academic-extraction
 A-CSR-101-C12,A-CSR-101,A,Page 16,17104 - 18137,1034,CorpusA_Chunks\A-CSR-101\A-CSR-101-C12.txt,"M,A,A,A,A,A",csr-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C01,A-MSME-103,A,Page 1 to Page 7,1 - 1222,1222,CorpusA_Chunks\A-MSME-103\A-MSME-103-C01.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C02,A-MSME-103,A,Page 8 to Page 11,1223 - 2486,1264,CorpusA_Chunks\A-MSME-103\A-MSME-103-C02.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C03,A-MSME-103,A,Page 12 to Page 14,2487 - 3910,1424,CorpusA_Chunks\A-MSME-103\A-MSME-103-C03.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C04,A-MSME-103,A,Page 15 to Page 17,3911 - 5139,1229,CorpusA_Chunks\A-MSME-103\A-MSME-103-C04.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C05,A-MSME-103,A,Page 18 to Page 23,5140 - 6736,1597,CorpusA_Chunks\A-MSME-103\A-MSME-103-C05.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C06,A-MSME-103,A,Page 24 to Page 25,6737 - 7936,1200,CorpusA_Chunks\A-MSME-103\A-MSME-103-C06.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C07,A-MSME-103,A,Page 26 to Page 28,7937 - 9660,1724,CorpusA_Chunks\A-MSME-103\A-MSME-103-C07.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C08,A-MSME-103,A,Page 29 to Page 35,9661 - 10878,1218,CorpusA_Chunks\A-MSME-103\A-MSME-103-C08.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C09,A-MSME-103,A,Page 36 to Page 39,10879 - 12160,1282,CorpusA_Chunks\A-MSME-103\A-MSME-103-C09.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C10,A-MSME-103,A,Page 40 to Page 44,12161 - 13472,1312,CorpusA_Chunks\A-MSME-103\A-MSME-103-C10.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C11,A-MSME-103,A,Page 45 to Page 49,13473 - 14698,1226,CorpusA_Chunks\A-MSME-103\A-MSME-103-C11.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C12,A-MSME-103,A,Page 50 to Page 53,14699 - 16170,1472,CorpusA_Chunks\A-MSME-103\A-MSME-103-C12.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C13,A-MSME-103,A,Page 54 to Page 56,16171 - 17473,1303,CorpusA_Chunks\A-MSME-103\A-MSME-103-C13.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C14,A-MSME-103,A,Page 57 to Page 59,17474 - 19156,1683,CorpusA_Chunks\A-MSME-103\A-MSME-103-C14.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C15,A-MSME-103,A,Page 60 to Page 62,19157 - 20698,1542,CorpusA_Chunks\A-MSME-103\A-MSME-103-C15.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C16,A-MSME-103,A,Page 63 to Page 65,20699 - 22013,1315,CorpusA_Chunks\A-MSME-103\A-MSME-103-C16.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C17,A-MSME-103,A,Page 66 to Page 68,22014 - 23431,1418,CorpusA_Chunks\A-MSME-103\A-MSME-103-C17.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
-A-MSME-103-C18,A-MSME-103,A,Page 69 to Page 72,23432 - 24980,1549,CorpusA_Chunks\A-MSME-103\A-MSME-103-C18.txt,"M,M,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C01,A-MSME-103,A,Page 1 to Page 7,1 - 1222,1222,CorpusA_Chunks\A-MSME-103\A-MSME-103-C01.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C02,A-MSME-103,A,Page 8 to Page 11,1223 - 2486,1264,CorpusA_Chunks\A-MSME-103\A-MSME-103-C02.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C03,A-MSME-103,A,Page 12 to Page 14,2487 - 3910,1424,CorpusA_Chunks\A-MSME-103\A-MSME-103-C03.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C04,A-MSME-103,A,Page 15 to Page 17,3911 - 5139,1229,CorpusA_Chunks\A-MSME-103\A-MSME-103-C04.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C05,A-MSME-103,A,Page 18 to Page 23,5140 - 6736,1597,CorpusA_Chunks\A-MSME-103\A-MSME-103-C05.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C06,A-MSME-103,A,Page 24 to Page 25,6737 - 7936,1200,CorpusA_Chunks\A-MSME-103\A-MSME-103-C06.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C07,A-MSME-103,A,Page 26 to Page 28,7937 - 9660,1724,CorpusA_Chunks\A-MSME-103\A-MSME-103-C07.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C08,A-MSME-103,A,Page 29 to Page 35,9661 - 10878,1218,CorpusA_Chunks\A-MSME-103\A-MSME-103-C08.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C09,A-MSME-103,A,Page 36 to Page 39,10879 - 12160,1282,CorpusA_Chunks\A-MSME-103\A-MSME-103-C09.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C10,A-MSME-103,A,Page 40 to Page 44,12161 - 13472,1312,CorpusA_Chunks\A-MSME-103\A-MSME-103-C10.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C11,A-MSME-103,A,Page 45 to Page 49,13473 - 14698,1226,CorpusA_Chunks\A-MSME-103\A-MSME-103-C11.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C12,A-MSME-103,A,Page 50 to Page 53,14699 - 16170,1472,CorpusA_Chunks\A-MSME-103\A-MSME-103-C12.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C13,A-MSME-103,A,Page 54 to Page 56,16171 - 17473,1303,CorpusA_Chunks\A-MSME-103\A-MSME-103-C13.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C14,A-MSME-103,A,Page 57 to Page 59,17474 - 19156,1683,CorpusA_Chunks\A-MSME-103\A-MSME-103-C14.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C15,A-MSME-103,A,Page 60 to Page 62,19157 - 20698,1542,CorpusA_Chunks\A-MSME-103\A-MSME-103-C15.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C16,A-MSME-103,A,Page 63 to Page 65,20699 - 22013,1315,CorpusA_Chunks\A-MSME-103\A-MSME-103-C16.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C17,A-MSME-103,A,Page 66 to Page 68,22014 - 23431,1418,CorpusA_Chunks\A-MSME-103\A-MSME-103-C17.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-MSME-103-C18,A-MSME-103,A,Page 69 to Page 72,23432 - 24980,1549,CorpusA_Chunks\A-MSME-103\A-MSME-103-C18.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
+A-DATA-102-C01,A-DATA-102,A,Page 1 to Page 3,1 - 612,612,CorpusA_Chunks\A-DATA-102\A-DATA-102-C01.txt,"M,A,A,A,A,A",datagov-compliance-framework,direct-institutional-or-academic-extraction
 A-RES-107-C01,A-RES-107,A,Page 1 to Page 2,1 - 1590,1590,CorpusA_Chunks\A-RES-107\A-RES-107-C01.txt,"M,A,A,A,A,M",supplychain_research-compliance-framework,direct-institutional-or-academic-extraction
 A-RES-107-C02,A-RES-107,A,Page 3 to Page 4,1591 - 3441,1851,CorpusA_Chunks\A-RES-107\A-RES-107-C02.txt,"M,A,A,A,A,M",supplychain_research-compliance-framework,direct-institutional-or-academic-extraction
 A-RES-107-C03,A-RES-107,A,Page 5 to Page 6,3442 - 5316,1875,CorpusA_Chunks\A-RES-107\A-RES-107-C03.txt,"M,A,A,A,A,M",supplychain_research-compliance-framework,direct-institutional-or-academic-extraction
@@ -267,6 +281,9 @@ A-RES-108-C07,A-RES-108,A,Page 12 to Page 13,10923 - 12877,1955,CorpusA_Chunks\A
 A-MOFPI-103-C01,A-MOFPI-103,A,Page 1 to Page 5,1 - 1245,1245,CorpusA_Chunks\A-MOFPI-103\A-MOFPI-103-C01.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
 A-MOFPI-103-C02,A-MOFPI-103,A,Page 6 to Page 10,1246 - 2591,1346,CorpusA_Chunks\A-MOFPI-103\A-MOFPI-103-C02.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
 A-MOFPI-103-C03,A-MOFPI-103,A,Page 11 to Page 17,2592 - 3568,977,CorpusA_Chunks\A-MOFPI-103\A-MOFPI-103-C03.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
+A-MOFPI-104-C01,A-MOFPI-104,A,Page 1 to Page 6,1 - 1155,1155,CorpusA_Chunks\A-MOFPI-104\A-MOFPI-104-C01.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
+A-MOFPI-105-C01,A-MOFPI-105,A,Page 1 to Page 6,1 - 1057,1057,CorpusA_Chunks\A-MOFPI-105\A-MOFPI-105-C01.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
+A-MOFPI-106-C01,A-MOFPI-106,A,Page 1 to Page 7,1 - 1348,1348,CorpusA_Chunks\A-MOFPI-106\A-MOFPI-106-C01.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
 A-MSME-104-C01,A-MSME-104,A,Page 1 to Page 5,1 - 1636,1636,CorpusA_Chunks\A-MSME-104\A-MSME-104-C01.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
 A-MSME-104-C02,A-MSME-104,A,Page 6 to Page 9,1637 - 3387,1751,CorpusA_Chunks\A-MSME-104\A-MSME-104-C02.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
 A-MSME-104-C03,A-MSME-104,A,Page 10 to Page 13,3388 - 5013,1626,CorpusA_Chunks\A-MSME-104\A-MSME-104-C03.txt,"M,A,A,A,A,A",niti_msme-compliance-framework,direct-institutional-or-academic-extraction
