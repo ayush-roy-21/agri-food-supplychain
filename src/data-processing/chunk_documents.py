@@ -48,23 +48,30 @@ def main():
         lookup_by_id[doc_id] = info
         lookup_by_file[title_val] = info
         # Also map clean filename if title_url_query contains path or URL
-        clean_name = Path(title_val.split("/")[-1]).name
-        lookup_by_file[clean_name] = info
+        split_part = title_val.split("/")[-1]
+        if split_part and len(split_part) > 2:
+            clean_name = Path(split_part).name
+            if clean_name and len(clean_name) > 2:
+                lookup_by_file[clean_name] = info
 
     # Helper to resolve exact parent info from file path
-    def get_parent_info(txt_path: Path):
+    def get_parent_info(txt_path: Path, expected_tier: str = None):
         base_id = txt_path.stem
-        if base_id in lookup_by_id:
+        if base_id in lookup_by_id and (not expected_tier or lookup_by_id[base_id]["corpus_tier"] == expected_tier):
             return lookup_by_id[base_id]
             
         pdf_name = txt_path.with_suffix(".pdf").name
-        if pdf_name in lookup_by_file:
+        if pdf_name in lookup_by_file and (not expected_tier or lookup_by_file[pdf_name]["corpus_tier"] == expected_tier):
             return lookup_by_file[pdf_name]
-        if txt_path.name in lookup_by_file:
+        if txt_path.name in lookup_by_file and (not expected_tier or lookup_by_file[txt_path.name]["corpus_tier"] == expected_tier):
             return lookup_by_file[txt_path.name]
             
         # Fallback partial match in lookup_by_file
         for k, v in lookup_by_file.items():
+            if not k or len(k) < 4:
+                continue
+            if expected_tier and v["corpus_tier"] != expected_tier:
+                continue
             if pdf_name in k or k in pdf_name:
                 return v
                 
@@ -100,8 +107,8 @@ def main():
     for f in all_corpus_b_txts:
         try:
             words = open(f, encoding="utf-8", errors="replace").read().split()
-            # User specifically noted B-GD-007 and B-GD-101 plus borderline files
-            if f.stem in ["B-GD-007", "B-GD-101"] or len(words) >= 1400:
+            # User specifically noted B-GD-007, B-GD-101, and B-GD-071 plus borderline files
+            if f.stem in ["B-GD-007", "B-GD-101", "B-GD-071"] or len(words) >= 1400:
                 candidates.append((f, "B"))
         except Exception:
             pass
@@ -112,7 +119,7 @@ def main():
     total_chunks = 0
     
     for txt_path, tier in sorted(candidates, key=lambda x: x[0].name):
-        parent_info = get_parent_info(txt_path)
+        parent_info = get_parent_info(txt_path, tier)
         if not parent_info:
             print(f"[!] Warning: Could not resolve parent ID for {txt_path.name}. Skipping.")
             continue
@@ -177,11 +184,17 @@ def main():
                 else:
                     chunks.append((curr_pages[:], curr_words[:], "\n\n".join([f"[Page {n}]\n{t}" for n, t in pages if n in curr_pages])))
                     
-            if len(chunks) <= 1:
-                print(f"    -> Parent [{parent_id}] ({txt_path.name[:45]}...) produced only 1 chunk. Skipping separate chunk storage.")
+            if len(chunks) == 0:
                 if out_dir.exists() and not any(out_dir.iterdir()): out_dir.rmdir()
                 if data_out_dir.exists() and not any(data_out_dir.iterdir()): data_out_dir.rmdir()
                 continue
+            if len(chunks) == 1:
+                group_word_count = len(chunks[0][1])
+                if (parent_tier == "A" and group_word_count < 600) or (parent_tier == "B" and group_word_count < 1400 and parent_id not in ["B-GD-007", "B-GD-101", "B-GD-071"]):
+                    print(f"    -> Parent [{parent_id}] ({txt_path.name[:45]}...) produced only 1 chunk ({group_word_count} words). Skipping separate chunk storage.")
+                    if out_dir.exists() and not any(out_dir.iterdir()): out_dir.rmdir()
+                    if data_out_dir.exists() and not any(data_out_dir.iterdir()): data_out_dir.rmdir()
+                    continue
                 
             # Format chunks
             word_offset = 1
@@ -243,10 +256,11 @@ def main():
                 curr_paras.append(para)
                 curr_words.extend(p_words)
                 
-                if len(curr_words) >= 1000:
-                    chunks.append((curr_words[:], "\n\n".join(curr_paras)))
-                    curr_paras = []
-                    curr_words = []
+                while len(curr_words) >= 1000:
+                    chunk_w = curr_words[:1000]
+                    chunks.append((chunk_w, " ".join(chunk_w)))
+                    curr_words = curr_words[1000:]
+                    curr_paras = [" ".join(curr_words)] if curr_words else []
                     
             if curr_words:
                 if len(curr_words) < 250 and chunks:
@@ -256,11 +270,17 @@ def main():
                 else:
                     chunks.append((curr_words[:], "\n\n".join(curr_paras)))
                     
-            if len(chunks) <= 1:
-                print(f"    -> Parent [{parent_id}] ({txt_path.name[:45]}...) produced only 1 chunk. Skipping separate chunk storage.")
+            if len(chunks) == 0:
                 if out_dir.exists() and not any(out_dir.iterdir()): out_dir.rmdir()
                 if data_out_dir.exists() and not any(data_out_dir.iterdir()): data_out_dir.rmdir()
                 continue
+            if len(chunks) == 1:
+                group_word_count = len(chunks[0][0])
+                if (parent_tier == "A" and group_word_count < 600) or (parent_tier == "B" and group_word_count < 1400 and parent_id not in ["B-GD-007", "B-GD-101", "B-GD-071"]):
+                    print(f"    -> Parent [{parent_id}] ({txt_path.name[:45]}...) produced only 1 chunk ({group_word_count} words). Skipping separate chunk storage.")
+                    if out_dir.exists() and not any(out_dir.iterdir()): out_dir.rmdir()
+                    if data_out_dir.exists() and not any(data_out_dir.iterdir()): data_out_dir.rmdir()
+                    continue
                 
             word_offset = 1
             for idx, (c_words, c_text) in enumerate(chunks, 1):
