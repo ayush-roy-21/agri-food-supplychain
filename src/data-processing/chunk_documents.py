@@ -13,7 +13,35 @@ import os
 import re
 import shutil
 import pandas as pd
+import numpy as np
 from pathlib import Path
+
+def stratify_document_chunks(df, doc_id_col='doc_id', text_col='chunk_text'):
+    """
+    Applies sub-linear down-weighting (square root) and stratified sampling 
+    to document chunks to prevent clustering dominance.
+    """
+    sampled_rows = []
+    
+    # Group the dataframe by the parent document ID
+    for doc_id, group in df.groupby(doc_id_col, sort=False):
+        total_chunks = len(group)
+        
+        # 1. Calculate the sub-linear target (ceiling of square root)
+        target_chunk_count = int(np.ceil(np.sqrt(total_chunks)))
+        
+        # 2. Generate evenly spaced indices across the document
+        # linspace gives float values, so we cast to integer to get exact row indices
+        stratified_indices = np.linspace(0, total_chunks - 1, target_chunk_count, dtype=int)
+        
+        # 3. Extract those specific chunks
+        sampled_group = group.iloc[stratified_indices]
+        sampled_rows.append(sampled_group)
+        
+    # Recombine into a new, balanced dataframe
+    balanced_df = pd.concat(sampled_rows, ignore_index=True)
+    
+    return balanced_df
 
 def main():
     project_root = Path(__file__).resolve().parent.parent.parent
@@ -140,9 +168,6 @@ def main():
         else:
             out_dir = chunks_root_b / parent_id
             data_out_dir = data_chunks_b / parent_id
-            
-        out_dir.mkdir(parents=True, exist_ok=True)
-        data_out_dir.mkdir(parents=True, exist_ok=True)
         
         chunks = []
         
@@ -240,13 +265,7 @@ def main():
                 )
                 
                 chunk_file = out_dir / f"{c_id}.txt"
-                data_chunk_file = data_out_dir / f"{c_id}.txt"
                 
-                with open(chunk_file, "w", encoding="utf-8") as f:
-                    f.write(header)
-                with open(data_chunk_file, "w", encoding="utf-8") as f:
-                    f.write(header)
-                    
                 manifest_rows.append({
                     "chunk_id": c_id,
                     "parent_doc_id": parent_id,
@@ -257,7 +276,8 @@ def main():
                     "chunk_path": str(chunk_file.relative_to(project_root)),
                     "parent_dqa_score": dqa_score,
                     "parent_locus_tag": locus_tag,
-                    "parent_verification_logic": verif_logic
+                    "parent_verification_logic": verif_logic,
+                    "_chunk_header": header
                 })
                 total_chunks += 1
                 
@@ -330,13 +350,7 @@ def main():
                 )
                 
                 chunk_file = out_dir / f"{c_id}.txt"
-                data_chunk_file = data_out_dir / f"{c_id}.txt"
                 
-                with open(chunk_file, "w", encoding="utf-8") as f:
-                    f.write(header)
-                with open(data_chunk_file, "w", encoding="utf-8") as f:
-                    f.write(header)
-                    
                 manifest_rows.append({
                     "chunk_id": c_id,
                     "parent_doc_id": parent_id,
@@ -347,14 +361,37 @@ def main():
                     "chunk_path": str(chunk_file.relative_to(project_root)),
                     "parent_dqa_score": dqa_score,
                     "parent_locus_tag": locus_tag,
-                    "parent_verification_logic": verif_logic
+                    "parent_verification_logic": verif_logic,
+                    "_chunk_header": header
                 })
                 total_chunks += 1
 
         print(f"    -> Chunked parent [{parent_id}] ({txt_path.name[:45]}...) into {len(chunks)} chunks.")
         
-    # Save Manifest
+    # Apply sub-linear down-weighting (ceiling square-root) and stratified sampling
     df_manifest = pd.DataFrame(manifest_rows)
+    raw_total = len(df_manifest)
+    print(f"\n[*] Total raw chunks generated across all candidate documents: {raw_total}")
+    
+    df_manifest = stratify_document_chunks(df_manifest, doc_id_col="parent_doc_id", text_col="_chunk_header")
+    balanced_total = len(df_manifest)
+    print(f"[*] Total balanced chunks after sub-linear down-weighting (stratified square-root): {balanced_total}")
+    
+    # Write only the sampled chunk files to disk
+    for _, row in df_manifest.iterrows():
+        chunk_file = project_root / row["chunk_path"]
+        data_chunk_file = project_root / "data" / row["chunk_path"]
+        
+        chunk_file.parent.mkdir(parents=True, exist_ok=True)
+        data_chunk_file.parent.mkdir(parents=True, exist_ok=True)
+        
+        with open(chunk_file, "w", encoding="utf-8") as f:
+            f.write(row["_chunk_header"])
+        with open(data_chunk_file, "w", encoding="utf-8") as f:
+            f.write(row["_chunk_header"])
+            
+    # Drop temporary header column and save Manifest
+    df_manifest = df_manifest.drop(columns=["_chunk_header"])
     manifest_out = project_root / "data" / "chunk_manifest.csv"
     manifest_out_a = chunks_root_a / "chunk_manifest.csv"
     
@@ -362,7 +399,7 @@ def main():
     df_manifest.to_csv(manifest_out_a, index=False, encoding="utf-8")
     
     print("\n==========================================================================")
-    print(f"  CHUNKING COMPLETE! Total Chunks Generated: {total_chunks}")
+    print(f"  CHUNKING COMPLETE! Total Chunks Generated: {balanced_total} (down-weighted from {raw_total})")
     print(f"  Manifest saved to: data/chunk_manifest.csv ({len(df_manifest)} records)")
     print("==========================================================================")
 
