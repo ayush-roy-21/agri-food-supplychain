@@ -2,9 +2,11 @@
 Chunk ID: B-GD-057-C02
 Parent Doc ID: B-GD-057
 Page Range: N/A (Web Scraped / Text Extract)
-Word Range: 1016 - 1458
-Word Count: 443
+Word Range: 1001 - 1458
+Word Count: 458
 --------------------
+
+Ministry of Commerce and Industry has sought a report from the Tea Board after consultations.
 
 Darjeeling factories rely heavily on LPG for withering and drying leaves. Over the past decade, estates shifted from coal to LPG after export consignments were found to contain anthraquinone residues, creating trade-related complications. The industry is now almost entirely dependent on 47.5-kg commercial LPG cylinders, whose prices have also risen sharply.
 

@@ -2,9 +2,11 @@
 Chunk ID: B-GD-108-C02
 Parent Doc ID: B-GD-108
 Page Range: N/A (Web Scraped / Text Extract)
-Word Range: 1002 - 1557
-Word Count: 556
+Word Range: 1001 - 1557
+Word Count: 557
 --------------------
+
+levels.
 
 In contrast, India’s export prices have remained relatively stable, supported by:
 

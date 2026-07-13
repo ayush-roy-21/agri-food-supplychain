@@ -2,73 +2,8 @@
 Chunk ID: B-GD-108-C01
 Parent Doc ID: B-GD-108
 Page Range: N/A (Web Scraped / Text Extract)
-Word Range: 1 - 1001
-Word Count: 1,001
+Word Range: 1 - 1000
+Word Count: 1,000
 --------------------
 
-Doc ID: B-GD-108
-Title: DGFT Extends India Honey MEP at US$1 , 400 / MT Until Dec 2026 : What Exporters Must Know
-Source Domain: india-briefing.com | Publish Date: 20260415T184500Z
-URL: https://www.india-briefing.com/news/india-honey-export-mep-extension-2026-44161.html
-Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer
-Targeted Query: India export DGFT
-Retrieval Date: 2026-07-09
-Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening)
-DQA 6-Dimension Score: M,A,A,A,A,A
-DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (3 agri + 6 trade friction terms) | Gran: Substantive depth (1433 words, 5 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (1433 words) | Mach: Clean UTF-8 newspaper3k full-text extraction
-Locus Tag: gdelt-customs-clearance-holds
-
-================================================================================
-
-FULL SUBSTANTIVE ARTICLE TEXT:
-In 2026, India is positioned to fill the global ‘honey gap’ caused by the continued decline of bee colonies in the US. With stable production and a strategic MEP of US$1,400/MT, India currently stands as the world’s third-largest exporter, providing a critical alternative for disrupted global markets.
-
-India has extended the Minimum Export Price (MEP) for natural honey exports as part of its ongoing efforts to stabilize domestic markets and protect producer interests. As per notification No. 09/2026-27 issued by the Directorate General of Foreign Trade in April 2026, the existing MEP of US$1,400/metric ton (Free on Board) for natural honey (ITC(HS) Code 04090000) will remain in force until December 31, 2026.
-
-MEP is a regulatory price floor set by the DGFT that determines the minimum permissible export price for specific goods. For natural honey, the current MEP is US$1,400/MT (FOB), and it operates as a mandatory compliance requirement for exporters.
-
-The continuation of the MEP for honey reflects a calibrated policy approach to managing agri-exports. While natural honey exports are officially classified as “free,” the imposition of a minimum price threshold effectively regulates outbound trade by preventing exports below a specified value.
-
-By maintaining the MEP, the central government is emphasizing value realization over volume expansion. This signals a shift away from price-led competition toward sustaining margins and pricing discipline in international markets.
-
-Once the central government or trade authority specifies minimum FOB price per metric ton, exporters are not allowed to ship honey below the said price. Customs authorities verify export declarations to ensure compliance.
-
-India’s honey industry is supported by abundant natural resources, as honey production relies on nectar and pollen derived from a wide range of flowering plants. The diverse ecosystem, comprising both wild and cultivated vegetation, offers added advantage for apiculture, with nearly 500 plant species serving as important sources of nectar and pollen.
-
-India has established itself as a notable exporter of natural honey in the global market. As of 2025, the country stands as the third-largest exporter.
-
-World’s Top Honey-Exporting Regions-HS Code 0409 (Value in US$ Thousand)
-
-In FY 2024-25, the country exported approximately 100,773 metric tons of honey, valued at around US$206.47 million, according to data from the Directorate General of Commercial Intelligence and Statistics (DGCIS).
-
-India’s Top Honey Export Destinations-HS Code 0409 (Value in US$ Thousand)
-
-This export performance underscores India’s growing integration into international agri-value chains and the rising demand for its honey products.
-
-India produces a wide range of honey varieties, driven by its diverse flora and climatic conditions. Key types include rapeseed and mustard honey, eucalyptus honey, lychee honey, sunflower honey, karanj (pongamea) honey, acacia honey, and wild flora honey.
-
-Multi-floral and mono-floral variants, particularly those sourced from Himalayan regions, are also prominent in both domestic and export markets.
-
-Honey production in India is geographically dispersed, with a few states accounting for a significant share of output. According to the Agricultural and Processed Food Products Export Development Authority (APEDA), major honey producing states include Uttar Pradesh (17.11 percent), West Bengal (16.20 percent), Punjab (14.08 percent), Bihar (12.33 percent), and Rajasthan (9.15 percent).
-
-Unlock India Honey Export Opportunities – Get a Business Intelligence Report
-
-Assess how the extended MEP impacts your export pricing, margins, and global market positioning. Identify demand hotspots and optimize your processed food products’ export strategy. Make an inquiry: india@dezshira.com
-
-India’s honey industry is largely driven by small-scale producers and decentralized beekeeping networks. In such a structure, producers often face limited bargaining power and are vulnerable to price suppression.
-
-The MEP acts as a protective mechanism by ensuring that export transactions meet a minimum valuation, thereby improving price transmission across the supply chain. This helps stabilize producer incomes and reduces the likelihood of distress selling, particularly during periods of global price volatility and oversupply.
-
-Extension of the MEP is not merely a regulatory continuation but a strategic intervention aimed at reshaping India’s honey export landscape. By retaining the current threshold through 2026, India is reinforcing a long-term shift toward premiumization, quality assurance, and sustainable value creation.
-
-Central government’s policy’s effectiveness will ultimately depend on industry alignment, particularly investments in traceability, quality enhancement, and market diversification, to strengthen India’s position as a competitive and reliable supplier in global honey markets.
-
-Global honey market is undergoing a structural disruption, led by a severe production crisis in the United States. As per 2025 estimates, the US honeybee colonies declined by over 55 percent, with some regions reporting losses as high as 70 percent. This has drastically reduced honey output, with yields per colony also falling.
-
-The crisis has been driven by a combination of climate-related stress, pesticide exposure, and disease outbreaks, including the spread of Varroa mites. Similar trends are emerging across Europe, pointing to a broader global supply-demand imbalance, often described as a growing “honey gap.”
-
-A sustained supply shortage in key consuming markets is pushing up import dependence, creating a strategic opening for export-oriented producers like India.
-
-ALSO READ: India’s Food Processing Industry in 2026: Growth Trends, PLI Impact, and Export Performance
-
-Global honey prices have surged sharply, particularly in the US, where prices have increased by 30-50 percent due to supply constraints. Other major exporters such as Brazil (premium organic positioning), Ukraine (supply disruptions), and Argentina (high-quality exports) are also witnessing elevated price levels.
+Doc ID: B-GD-108 Title: DGFT Extends India Honey MEP at US$1 , 400 / MT Until Dec 2026 : What Exporters Must Know Source Domain: india-briefing.com | Publish Date: 20260415T184500Z URL: https://www.india-briefing.com/news/india-honey-export-mep-extension-2026-44161.html Platform: GDELT 2.0 DOC API / newspaper3k Full-Text Layer Targeted Query: India export DGFT Retrieval Date: 2026-07-09 Section 10 DQA Status: ADEQUATE (Survived deduplication & MSME trade friction screening) DQA 6-Dimension Score: M,A,A,A,A,A DQA Justification: Auth: Secondary/regional media or trade aggregator | Rel: High relevance (3 agri + 6 trade friction terms) | Gran: Substantive depth (1433 words, 5 regulatory/quantitative parameters) | Curr: Recent active trade period (2026) | Comp: Full operative article text (1433 words) | Mach: Clean UTF-8 newspaper3k full-text extraction Locus Tag: gdelt-customs-clearance-holds ================================================================================ FULL SUBSTANTIVE ARTICLE TEXT: In 2026, India is positioned to fill the global ‘honey gap’ caused by the continued decline of bee colonies in the US. With stable production and a strategic MEP of US$1,400/MT, India currently stands as the world’s third-largest exporter, providing a critical alternative for disrupted global markets. India has extended the Minimum Export Price (MEP) for natural honey exports as part of its ongoing efforts to stabilize domestic markets and protect producer interests. As per notification No. 09/2026-27 issued by the Directorate General of Foreign Trade in April 2026, the existing MEP of US$1,400/metric ton (Free on Board) for natural honey (ITC(HS) Code 04090000) will remain in force until December 31, 2026. MEP is a regulatory price floor set by the DGFT that determines the minimum permissible export price for specific goods. For natural honey, the current MEP is US$1,400/MT (FOB), and it operates as a mandatory compliance requirement for exporters. The continuation of the MEP for honey reflects a calibrated policy approach to managing agri-exports. While natural honey exports are officially classified as “free,” the imposition of a minimum price threshold effectively regulates outbound trade by preventing exports below a specified value. By maintaining the MEP, the central government is emphasizing value realization over volume expansion. This signals a shift away from price-led competition toward sustaining margins and pricing discipline in international markets. Once the central government or trade authority specifies minimum FOB price per metric ton, exporters are not allowed to ship honey below the said price. Customs authorities verify export declarations to ensure compliance. India’s honey industry is supported by abundant natural resources, as honey production relies on nectar and pollen derived from a wide range of flowering plants. The diverse ecosystem, comprising both wild and cultivated vegetation, offers added advantage for apiculture, with nearly 500 plant species serving as important sources of nectar and pollen. India has established itself as a notable exporter of natural honey in the global market. As of 2025, the country stands as the third-largest exporter. World’s Top Honey-Exporting Regions-HS Code 0409 (Value in US$ Thousand) In FY 2024-25, the country exported approximately 100,773 metric tons of honey, valued at around US$206.47 million, according to data from the Directorate General of Commercial Intelligence and Statistics (DGCIS). India’s Top Honey Export Destinations-HS Code 0409 (Value in US$ Thousand) This export performance underscores India’s growing integration into international agri-value chains and the rising demand for its honey products. India produces a wide range of honey varieties, driven by its diverse flora and climatic conditions. Key types include rapeseed and mustard honey, eucalyptus honey, lychee honey, sunflower honey, karanj (pongamea) honey, acacia honey, and wild flora honey. Multi-floral and mono-floral variants, particularly those sourced from Himalayan regions, are also prominent in both domestic and export markets. Honey production in India is geographically dispersed, with a few states accounting for a significant share of output. According to the Agricultural and Processed Food Products Export Development Authority (APEDA), major honey producing states include Uttar Pradesh (17.11 percent), West Bengal (16.20 percent), Punjab (14.08 percent), Bihar (12.33 percent), and Rajasthan (9.15 percent). Unlock India Honey Export Opportunities – Get a Business Intelligence Report Assess how the extended MEP impacts your export pricing, margins, and global market positioning. Identify demand hotspots and optimize your processed food products’ export strategy. Make an inquiry: india@dezshira.com India’s honey industry is largely driven by small-scale producers and decentralized beekeeping networks. In such a structure, producers often face limited bargaining power and are vulnerable to price suppression. The MEP acts as a protective mechanism by ensuring that export transactions meet a minimum valuation, thereby improving price transmission across the supply chain. This helps stabilize producer incomes and reduces the likelihood of distress selling, particularly during periods of global price volatility and oversupply. Extension of the MEP is not merely a regulatory continuation but a strategic intervention aimed at reshaping India’s honey export landscape. By retaining the current threshold through 2026, India is reinforcing a long-term shift toward premiumization, quality assurance, and sustainable value creation. Central government’s policy’s effectiveness will ultimately depend on industry alignment, particularly investments in traceability, quality enhancement, and market diversification, to strengthen India’s position as a competitive and reliable supplier in global honey markets. Global honey market is undergoing a structural disruption, led by a severe production crisis in the United States. As per 2025 estimates, the US honeybee colonies declined by over 55 percent, with some regions reporting losses as high as 70 percent. This has drastically reduced honey output, with yields per colony also falling. The crisis has been driven by a combination of climate-related stress, pesticide exposure, and disease outbreaks, including the spread of Varroa mites. Similar trends are emerging across Europe, pointing to a broader global supply-demand imbalance, often described as a growing “honey gap.” A sustained supply shortage in key consuming markets is pushing up import dependence, creating a strategic opening for export-oriented producers like India. ALSO READ: India’s Food Processing Industry in 2026: Growth Trends, PLI Impact, and Export Performance Global honey prices have surged sharply, particularly in the US, where prices have increased by 30-50 percent due to supply constraints. Other major exporters such as Brazil (premium organic positioning), Ukraine (supply disruptions), and Argentina (high-quality exports) are also witnessing elevated price
