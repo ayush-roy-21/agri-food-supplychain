@@ -2,9 +2,11 @@
 Chunk ID: B-GD-089-C02
 Parent Doc ID: B-GD-089
 Page Range: N/A (Web Scraped / Text Extract)
-Word Range: 1004 - 1408
-Word Count: 405
+Word Range: 1001 - 1408
+Word Count: 408
 --------------------
+
+CECAs, and CEPAs.
 
 The scheme applies only to goods manufactured in facilities operating under valid industrial approvals, such as an Industrial Entrepreneur Memorandum (IEM), Industrial License, or Letter of Intent. Approval as an “Approved Exporter” is granted based on an assessment of the applicant’s infrastructure, production capacity, and availability of adequately trained personnel to ensure compliance with rules of origin.
 

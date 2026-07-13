@@ -2,9 +2,11 @@
 Chunk ID: B-GD-029-C02
 Parent Doc ID: B-GD-029
 Page Range: N/A (Web Scraped / Text Extract)
-Word Range: 1010 - 1502
-Word Count: 493
+Word Range: 1001 - 1502
+Word Count: 502
 --------------------
+
+a strong balance between factual accuracy and reader engagement.
 
 Who Was the First Female Referee in FIFA World Cup History?
 
