@@ -1,0 +1,42 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-106-C18
+Parent Doc ID: A-RES-106
+Page Range: Page 11
+Word Range: 4721 - 4970
+Word Count: 250
+--------------------
+
+[Page 11]
+value chain integration (13), such as the setting of production groups and cooperatives. Although natural 
+capital presented mainly positive outcomes (20), a relatively high number of observations (10) indicated 
+some negative effects in terms of biodiversity, water management, and the adoption of agrochemicals at 
+the farm level associated with VSSs ( Table 4 and Figure 4 ).
+Figure 5 illustrated a comparison of the effects of VSSs on the SLF across social, economic, and 
+environmental indicators in Vietnam and Ghana. Overall, VSSs had positive impacts in both countries; 
+however, the extent and nature of these effects varied also according to the specific value chain. Ghana 
+generally exhibited more substantial positive outcomes across most indicators, particularly in economic and 
+social aspects. In Ghana, VSSs significantly increased income levels for local farmers, with 18 positive 
+outcomes compared to only 6 in Vietnam. Similarly, the impact of VSSs on agricultural yield was stronger in 
+Ghana, where 9 positive outcomes were reported, whereas in Vietnam recorded only 3. In terms of labour 
+rights, Ghana saw improvements with 5 positive outcomes, reflecting enhanced working conditions and fair 
+labour practices. In contrast, Vietnam showed 1 positive outcome, indicating that improvements in labour 
+rights were less pronounced. Additionally, VSSs improved market access in Ghana, with 9 positive 
+outcomes, while Vietnam had only 2 positive outcomes in this area. VSSs in Vietnam displayed more 
+neutral and variable impacts, suggesting that, while there were benefits, they were less consistent or 
+pronounced compared to those observed in Ghana. In Vietnam, capacity building received 3 positive 
+outcomes, which was significantly lower than Ghana's 11 positive outcomes, indicating a less extensive 
+impact. Similarly, although VSSs in Vietnam made some progress in reducing child labour, with 1 positive 
+outcome, in Ghana, VSSs achieved more success with 4 positive results. Moreover, the use of agrochemicals 
+had a more negative effect in Vietnam: there were 3 negative outcomes associated with the use of 
+agrochemicals in Vietnam, whereas 1 negative outcome in Ghana.
+A few indicators, including ‘biodiversity’, ‘tools and equipment’, and ‘land access’, were not covered by 
+the reviewed studies conducted in Vietnam. This gap in indicators reflects the thematic focus of the 
+available evidence: most of the studies examined financial capital (e.g. yield, income, costs) rather than 
+physical and natural capital indicators. Moreover, some assessments and evaluation reports in Vietnam 
+were conducted at the farm or cooperative level and did not systematically collect and analyse land tenure 
+and biodiversity data.
+Figure 5. Comparison of the effects of VSSs on the SLF indicators in Vietnam and Ghana, using a traffic-light 
+visualisation. Note: The following indicators - biodiversity, tools and equipment and land access - were not addressed 
+by the selected studies on the effects of VSSs in Vietnam.
+10
+ R. D’ANNOLFO AND F. DEMARIA

@@ -1,101 +1,70 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-101-C28
 Parent Doc ID: A-EUDR-101
-Page Range: Page 57 to Page 58
-Word Range: 44073 - 45624
-Word Count: 1,552
+Page Range: Page 8
+Word Range: 7180 - 7429
+Word Count: 250
 --------------------
 
-[Page 57]
-By wa y of derog ation from the third subparagraph, where an y independent assurance ser vices provider(s), third- 
-countr y auditor(s) or audit entity(ies) that hav e no w orking ar rangements car r ied out the assurance of sustainability 
-repor ting of a parent under taking or a subsidiar y under taking of a group of under takings, the group auditor shall, 
-when requested, also be responsible f or ensur ing proper deliver y of the additional documentation on the assurance 
-w ork performed by such independent assurance ser vices provid er(s), third-countr y auditor(s) or audit entity(ies), 
-including the w orking papers relevant to the assurance of consolidat ed sustainability repor ting. In order to ensure 
-such deliver y , the group auditor shall retain a cop y of such documentation, or alternatively agree with the 
-independent assurance ser vices provid er(s), third-countr y auditor(s) or audit entity(ies) that he, she or it is to be given 
-unrestr ict ed access to such documentation upon request, or take any other appropr iate action. Where assurance 
-w orking papers cannot, f or legal or other reasons, be passed from a third countr y to the group auditor , the 
-documentation retained by the group auditor shall include evidence that he, she or it has under tak en the appropr iat e 
-procedures in order to gain access to the assurance documentation, and in the case of impediments other than leg al 
-ones ar ising from the legislation of the third countr y concer ned, evidence suppor ting the existen ce of such 
-im pediments.’;
-(17) in Ar ticle 28(2), point (e) is replaced by the f ollo wing:
-‘(e) include an opinion and a stat ement, both of which shall be based on the w ork under taken in the course of the 
-audit, pursuant to points (a) and (b) of the second subparagraph of Ar ticle 34(1) of Directive 2013/34/EU;’;
-(18) the f ollo wing Ar ticle is inser ted :
-‘ Ar ticle 28a
-Assurance repor t on sust ainability repor ting
-1. The statutor y auditor(s) or the audit fi r m(s) shall present the results of the assurance of sustainability repor ting 
-in an assurance repor t on sustainability repor ting. That repor t shall be prepared in accordance with the requirements 
-of assurance standards adopt ed by the Commission by means of the delegat ed acts adopt ed pursuant to Ar ticle 26a(3), 
-or , pending adop tion by the Commission of those assurance standards, in accordance with national assurance 
-standards, as refer red to in Ar ticle 26a(2).
-2. The assurance repor t on sustainability repor ting shall be in wr iting and shall:
-(a) identify the entity whose annual or consolidated sustainability repor ting is the subject of the assurance 
-engag ement ; specify the annual or consolidat ed sustainability repor ting and the dat e and per iod it covers; and 
-identify the sustainability repor ting framewor k that has been applied in its preparation;
-(b) include a descr ipt ion of the scope of the assurance of sustainability repor ting whic h shall, as a minimum, identify 
-the assurance standards in accordance with whic h the assurance of sustainability repor ting was conducted;
-(c) include the opinion ref er red to in point (aa) of the second subparagraph of Ar ticle 34(1) of Directive 2013/34/EU.
-3. Where the assurance of sustainability repor ting was car r ied out by more than one statutor y auditor or audit 
-fir m, the statut or y auditor (s) or the audit fir m(s) shall agree on the results of the assurance of sustainability repor ting 
-and submit a joint repor t and opinion. In the case of disagreement, each statutor y auditor or audit fir m shall submit 
-his, her or its opinion in a separate paragraph of the assurance repor t on sustainability repor ting and shall state the 
-reason f or the disagreement.
-4. The assurance repor t on sustainability repor ting shall be signed and date d by the statut or y auditor car r ying out 
-the assurance of sustainability repor ting. Where an audit fi r m car r ies out the assurance of sustainability repor ting, the 
-assurance repor t on sustainability repor ting shall bear the signature of at least the statutor y auditor(s) car r ying out the 
-assurance of sustainability repor ting on behalf of the audit fir m. Where more than one statutor y auditor or audit fir m 
-hav e been simultaneously engag ed, the assurance repor t on sustainability repor ting shall be signed by all statut or y 
-auditors or at least by the statut or y auditors car r ying out the assurance of sustainability repor ting on behalf of ever y 
-audit fir m. In excep tional circumstances, Member States ma y pro vide that such signature(s) need not be disclosed to 
-the public if such disclosure could lead to an imminent and significant threat to the personal secur ity of any person.
+[Page 8]
+(23) Directive 2004/109/EC of the European P arliament and of the Council (
+17
+) applies to under takings whose secur ities 
+are admitted to trading on a regulated mark et in the Union. In order to ensure that under takings whose secur ities 
+are admitted to trading on a regulated market in the U nion, including third-countr y issuers, fall under the same 
+sustainability repor ting requirements, Directive 2004/109/EC should contain the necessar y cross-ref erences to an y 
+requirement on sustainability repor ting in the annual financial repor t.
+(24) P oint (i) of the f irst subparagraph of Ar ticle 23(4) and the f our th subparagraph of Ar ticle 23(4) of Directive 
+2004/109/EC empo wer the Commission to adop t measures to set up a mechanism f or the det er mination of 
+equivalence of inf or mation required under that Directive, and f or the establishment of general equivalence cr it er ia 
+regarding accounting standards, respectively . The third subparagraph of Ar ticle 23(4) of Directive 2004/109/EC 
+also empo wers the Commission to tak e the necessar y decisions on the equivalence of accounting standards whic h 
+are used by third-countr y issuers. In order to ref lect the inclusion of the sustainability requirements in Directive 
+2004/109/EC, the Commission should be em powered to establish a mec hanism f or the deter mination of 
+equivalence of sustainability repor ting standards applied by third-countr y issuers, similar to what is provided f or in 
+Commission Regulation (EC) No 1569/2007 (
+18
+) whic h sets out the cr iter ia f or the det er mination of equivalence of 
+accounting standards applied by third-countr y issuers. For the same reason, the Commission should also be 
+empo wered to take the necessar y decisions on the equivalence of sustainability repor ting standards that are used by 
+third-countr y issuers. The amendments introduced by this amending Directive will ensure consistent equivalence 
+regimes f or sustainability repor ting requirements and f or fi nancial repor ting requirements regar ding the annual 
+fi nancial repor t.
+(25) Ar ticle 19a(3) and Ar ticle 29a(3) of Directive 2013/34/EU exem pt all subsidiar y under takings from the obligation to 
+repor t non-fi nancial inf or mation where such under takings and their subsidiar y under takings are included in the 
+consolidated manag ement repor t of their parent under taking, provid ed that repor t includes non-fi nancial 
+inf or mation repor ted pursuant to that Directive. It is necessar y , however , to ensure that sustainability inf or mation is 
+easily accessible f or users, and to ensure that there is transparency as regar ds which parent under taking of the 
+exem pt ed subsidiar y under taking is repor ting at group level. It is theref ore necessar y to require those subsidiar y 
+under takings to include in their managemen t repor t the name and register ed office of the parent under taking that is 
+repor ting sustainability inf or mation at group level, the weblink s to the consolidated manage ment repor t of their 
+parent under taking and a reference in their manag ement repor t to the f act that they are exem pt ed from 
+sustainability repor ting. Member Stat es should be able to require that the parent under taking publish the 
+consolidated manag ement repor t in the languag es they accept and that the parent under taking provid e an y 
+necessar y translation in such language s. Such exem pti on should also apply where the parent under taking repor ting 
+at group level is a third-countr y under taking repor ting sustainability inf or mation in accordance with equivalent 
+sustainability repor ting standards.
+Directive 2004/109/EC, as amended by this amending Directive, should provide f or appropr iate mec hanisms to 
+det er mine the equivalence of sustainability repor ting standards, and under takings whose secur ities are admitted to 
+trading on a regulated mark et in the U nion and under takings whose secur ities are not admitted to trading on a 
+regulated mark et in the U nion should be required to repor t in accordance with the same sustainability repor ting 
+standards. In this context, the im plementing acts adopt ed by the Commission pursuant to point (i) of the first 
+subparagraph of Ar ticle 23(4) and the f our th subparagraph of Ar ticle 23(4) of Directive 2004/109/EC establishing 
+a mechani sm f or the det er mination of equivalence of standards should be used to det er mine whether to exem pt 
+subsidiar y under takings of third-countr y parent under takings under the regime of Directive 2013/34/EU. 
+Theref ore, the subsidiar y under taking should be exem pt ed when the consolidate d sustainability repor ting is car r ied 
+out in accordance with the sustainability repor ting standards adopt ed by the Commission pursuant to Ar ticle 29b 
+of Directive 2013/34/EU introduced by this amending Directive or in a manner equivalent to those sustainability 
+repor ting standards, as det er mined in accordance with an implementing act on the equivalence of sustainability 
+(
+17
+) Directive 2004/109/EC of the European P arliament and of the Council of 15 December 2004 on the har monisation of transparency 
+requirements in relation to inf or mation about issuers whose secur ities are admitted to trading on a regulated market and amending 
+Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).
+(
+18
+) Commission Regulation (EC) No 1569/2007 of 21 December 2007 establishing a mechanism f or the determination of equivalence of 
+accounting standards applied by third countr y issuers of secur ities pursuant to Directives 2003/71/EC and 2004/109/EC of the 
+European Parliament and of the Council (OJ L 340, 22.12.2007, p. 66).
 EN
-Offi cial Jour nal of the European Uni on 16.12.2022 L 322/71
-
-[Page 58]
-In any event, the name(s) of the person(s) inv olved shall be known to the relevant compet ent author ities.
-5. Member State s ma y require that, where the same statutor y auditor car r ies out the statut or y audit of annual 
-financia l statements and the assurance of sustainability repor ting, the assurance repor t on sustainability repor ting 
-ma y be included as a separate section of the audit repor t.
-6. The repor t of the statut or y auditor or the audit fi r m on the consolidated sustainability repor ting shall compl y 
-with the requirements set out in paragraphs 1 to 5.’;
-(19) Ar ticle 29 is amended as f ollows :
-(a) in paragraph 1, point (d) is replaced by the f ollowing:
-‘(d) the persons who car r y out quality assurance reviews shall hav e appropr iat e professional education and 
-relevant exper ience in statutor y audit and fi nancial repor ting and, where applicable, in sustainability 
-repor ting and in the assurance of sustainability repor ting or in other sustainability-related ser vices, 
-combined with specifi c training on quality assurance reviews;’;
-(b) in paragraph 1, point (f) is replaced by the f ollowi ng:
-‘(f) the scope of the quality assurance review , suppor ted by adequate tes ting of selected audit files and, where 
-applicable, assurance files, shall include an assessment of compl iance with applicable auditing standards and 
-independence requirements and, where applicable, with assurance standards, and an assessment of the 
-quantity and quality of resources spent, of the audit fe es and f ees charg ed f or the assurance of sustainability 
-repor ting, and of the intern al quality control system of the audit fir m;’;
-(c) in paragraph 1, point (h) is replaced by the f ollo wing:
-‘(h) quality assurance reviews shall take place on the basis of an analysis of the r isk and, in the case of statut or y 
-auditors and audit fir ms car r ying out statut or y audits as defined in point (a) of point 1 of Ar ticle 2 and, 
-where applicable, car r ying out assurance of sustainability repor ting, at least ever y six years;’;
-(d) in paragraph 2, point (a) is replaced by the f ollo wing:
-‘(a) reviewers shall hav e appropr iate professional education and relevant exper ience in statut or y audit and 
-fi nancial repor ting and, where applicable, in sustainability repor ting and in the assurance of sustainability 
-repor ting or in other sustainability-related ser vices, combined with specific training on quality assurance 
-reviews;’;
-(e) the f ollowi ng paragraph is inser te d:
-‘2a. Member States ma y exem pt, until 31 December 2025 , persons who car r y out quality assurance reviews 
-relating to the assurance of sustainability repor ting from the requirement to hav e relevant exper ience in 
-sustainability repor ting and in the assurance of sustainability repor ting or in other sustainability-related ser vices.’;
-(20) in Ar ticle 30, paragraphs 1 and 2 are replaced by the f ollowing:
-‘1. Member Stat es shall ensure that there are eff ective systems of inv estigations and sanctions to det ect, cor rect and 
-prevent inadequate execution of the statutor y audit and the assurance of sustainability repor ting.
-2. Without prejudice to their civil liability regimes, Member Stat es shall provide f or effective, propor tionate and 
-dissuasive sanctions in respect of statutor y auditors and audit fir ms, where statutor y audits or assurance of 
-sustainability repor ting are not car r ied out in conf or mity with the provis ions adopt ed in the imp lementation of this 
-Directive, and, where applicable, with Regulation (EU) No 537/2014.
-Member States ma y decide not to la y do wn r ules f or administrative sanctions f or infr ingements which are already 
-subject to national cr iminal law . In that event, the y shall communicate to the Commission the relevant cr iminal la w 
-provis ions.’;
-EN
-Offi cial Jour nal of the European Uni on L 322/72 16.12.2022
+Offi cial Jour nal of the European Uni on L 322/22 16.12.2022

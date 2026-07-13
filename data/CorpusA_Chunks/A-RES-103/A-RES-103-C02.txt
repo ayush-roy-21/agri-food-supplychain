@@ -1,148 +1,52 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-103-C02
 Parent Doc ID: A-RES-103
-Page Range: Page 6 to Page 8
-Word Range: 1432 - 2657
-Word Count: 1,226
+Page Range: Page 2
+Word Range: 251 - 500
+Word Count: 250
 --------------------
 
-[Page 6]
-5 
-The following table lists meetings held and the sites visited in order to achieve the audit 
-objective. 
-MEETINGS/VISITS  COMMENTS 
-COMPETENT AUTHORITIES 
-Central 2 
-Opening and closing meetings with representatives of  
-- Export Inspection Council  
-- Export Inspections Agencies from Delhi, Mumbai, Kochi, Kolkata, 
-Chennai and Kochi. 
-- Marine Products Export Development Authority 
-- Coastal Aquaculture Authority  
-- Central Drugs Standard Control Organisation  
-- Department of Animal Husbandry 
-- Food Safety and Standards Authority of India  
-Regional 4 Meetings at the States (Kerala, Odisha, Gujarat, and Tamil Nadu) visited 
-and meetings with local authorities at establishments visited 
-LABORATORIES 7 
-- EIA Pilot Test House laboratory Mumbai (milk residue monitoring 
-plan) 
-- EIA laboratory Chennai (poultry residue monitoring plan) 
-- MPEDA laboratory Kochi (aquaculture residue monitoring plan) 
-- MPEDA laboratory Odisha -Bhubaneswar (aquaculture residue 
-monitoring plan) 
-- EIA laboratory Kochi (aquaculture pre-export testing) 
-- EIA laboratory Chennai (aquaculture pre-export testing) 
-- MPEDA Laboratory Odisha-Bhubaneswar (aquaculture pre-harvest 
-testing) 
-OPERATORS 22 
-1 dairy plant, 2 milk collection centres and 2 dairy farms 
-2 poultry meat establishment and 2 poultry farms 
-3 aquaculture processing plants, 3 aquaculture farms, 2 hatcheries 
-3 veterinary medicines wholesaler/retailers, 2 aquaculture supply shops 
-3 LEGAL BASIS  
-The audit was carried out under the general provisions of EU legislation, and in 
-particular Articles 120, 122 and 150 of Regulation (EU) 2017/625 of the European 
-Parliament and of the Council. 
-Full legal references are provided in Annex  I. Legal acts quoted in this report refer, 
-where applicable, to the last amended version. Relevant provisions of the EU legal acts 
-cited in Annex I are referred to in the individual findings. 
-4 BACKGROUND 
-4.1 COUNTRY STATUS IN RELATION TO EU-APPROVAL OF RESIDUE MONITORING PLANS 
-India is listed in the Annex to Decision 2011/163/EU with approved residue monitoring 
-plans for aquaculture products (finfish and crustaceans), eggs, honey and casings.  
-India has requested to be listed in said  Decision for poultry and milk.  Given India’s 
-listing for dairy products required to undergo a specific risk- mitigating treatment 
-against foot and mouth disease in Annex XVIII to Reg ulation (EU) 2021/404, residue 
-plan approval is required for  the country to be  listed in Reg ulation (EU) 2021/40 5, 
-pursuant to Article 16 thereof.  For poultry, India is neither listed in Annex XIV to 
-Regulation (EU) 2021/404 (animal health – fresh meat) nor in Annex XV to that
-
-[Page 7]
-6 
-Regulation for meat products from poultry.  Thus, residue plan approval for poultry 
-would not in itself, permit exports of either fresh or processed poultry meat to the EU.   
-4.2 SUMMARY OF PREVIOUS COMMISSION AUDITS 
-The most recent audit during which residue controls in India were evaluated was 
-carried out in 2018 (audit reference DG (SANTE) 201 8-6345 MR-Final- hereafter: the 
-2018 audit ( 2)). It concluded that the planning and implementation of residue 
-monitoring for aquaculture products was largely in line with the legal requirements  and 
-supported by a functioning laboratory network and extensive additional pre-harvest 
-testing and pre-export testing programmes which focussed  on a limited range of  
-substances. However, its effectiveness was weakened by a limited scope of analysis for 
-certain pharmacologically active substances available on the market  and weak follow -
-up of non-compliances that often did not identify their origin  and lacked the legal tools 
-to sanction producers.  
-The monitoring plans for milk and poultry were not deemed to provide guarantees 
-equivalent to those foreseen in EU legislation with regard to the number of samples 
-taken, the scope of testing (range of substances tested for) and laboratory performance .  
-These issues militated against listing of either commodity in the Annex to Decision 
-2011/163/EU.  
-With regard to veterinary medicinal product s, it found that labelling had improved 
-relative to previous audits.  In comparison to the EU, prescription requirements  were 
-limited and there was a lack of requirements for the maintenance of treatment records 
-on farms.  The availability of many substances not authorised for use in food-producing 
-animals in the EU was also noted, a long-standing issue.   
-There were four recommendations made, three of which were addressed satisfactorily 
-by the competent authorities . The one recommendation regarding validation of 
-laboratory methods was followed up during this audit. 
-4.3 R
-APID ALERT SYSTEM FOR FOOD AND FEED (RASFF) NOTIFICATIONS 
-Commission Decisio n 2010/381/EU  (3), as last amended, requires that 50% of the 
-aquaculture consignments of Indian origin arriving at EU borders are tested for residues 
-of chloramphenicol, tetracycline, oxytetracycline, chlortetracycline  and metabolites of 
-nitrofurans 3-amino-2-oxazolidinone (AOZ), semicarbazide (SEM), 1-aminohydrantoin 
-(AHD) and 3-amino-5-morpholinomethyl-2-oxazolidone (AMOZ).  The same decision 
-requires that all consignments are accompanied by a laboratory result from the place of 
-origin ( hereafter, the pre -export testing - PET) for the same substances . The data for 
-2020 to 2022 indicate (see below) that without the 100% PET obligation, the number of 
-RASFFs in the EU would have been much higher.  
-  
+[Page 2]
+I 
+Executive Summary 
+This report describes the outcome of an audit of India, carried out from 7 to 29 September 2022 as 
+part of the European Commission's Directorate -General for Health and Food Safety planned work 
+programme. 
+The objective of the audit was to evaluate the effectiveness of official controls on residues and 
+contaminants in live animals and animal products eligible for export to the European Union and for 
+which India is seeking approval of its residues monitoring plans . The audit assessed the 
+implementation of the residue monitoring plan for the commodities in question and the reliability of 
+the guarantees offered by India in ensuring that the commodities concerned do not contain residues 
+of veterinary medicinal products, pesticides and contaminants exceeding EU maximum limits. It 
+also assessed the authorisation, distribution and use of veterinary medicinal p roducts, given that 
+these areas have an impact on the monitoring of residues.  
+Overall, this report concludes that the residue monitoring plan for aquaculture compl ies with the 
+minimum requirements established in EU legislation and is implemented as planned. The  
+implementation of the residue monitoring plan for milk , for which India is not approved, is 
+weakened by the fact that the sampling and reporting strategy  reduces the likelihood of non-
+compliances for certain substances  being reported. Furthermore, a very high incidence of non-
+compliant results for aflatoxin M1 was noted for that programme.   
+With regard to  follow-up of non- compliant results  in aquaculture , invest igations are undertaken  
+quickly, but in many cases did not  identify the origin of the non- compliance.  The number of non-
+compliant results for residues of substances banned from use in food- producing animals in the EU 
+and in Indian aquaculture, found in both the national residue monitoring plan and in the pre-export 
+testing programme has not decreased in the last three years. In particular, there is a 20% 
+noncompliance rate for such substances in samples taken in  hatcheries and the over -the-counter 
+availability of these substances on the Indian market is likely to contribute to the problem .  The fact 
+that the number of RASFF notifications for EU-banned substances in aquaculture products remains 
+low, is more a reflection of  the effectiveness of the mandatory pre -export testing programme in 
+identifying and preventing the export of non-compliant consignments to the EU.  
+Concerning the laboratory network, there has been clear progress in their analytical performance 
+since the previous Commission audit in 2018.  Notwithstanding this, the  effectiveness of testing in 
+poultry is weakened by shortcomings in method validation as not all of the matrices tested  have 
+been validated to date.   
+With regard to veterinary medicinal products, there are few changes in comparison to the findings 
+of previous Commission audit reports.  Substances that are banned in the EU  for use in food-
+producing animals remain on the market in India as ov er-the-counter medications (albeit not for 
+aquaculture animals).  Whilst there  is a  control system on the distribution and use of veterinary 
+medicinal products, it contains many gaps in comparison to what is required in the EU and does not 
+contribute to the guarantees on the residues status of food of animal origin provided by the various 
+residue testing programmes in place.  
  
-(2) https://ec.europa.eu/food/audits-analysis/audit_reports/details.cfm?rep_id=4055. 
-(3) Commission Decision 2010/381/EU of 8 July 2010 on emergency measures applicable to consignments of 
-aquaculture products imported from India and intended for human consumption (OJ L 174, 8.7.2010, p. 
-51).
-
-[Page 8]
-7 
- 
-The following table shows the implementation and results from 2020 to 2022: 
-Year No of non-compliant PET results No of non-compliant tests at EU border 
-2020 31(AOZ) - 0.9% of export consignments 4 (AOZ) 
-2021 24 (AOZ) – 0.47% of export 
-consignments 
-3 (2x AOZ, 1 chloramphenicol) 
-2022 (Jan-Aug) 39 (AOZ) – 1.1% of export consignments 0 
- 
-4.4 PRODUCTION AND TRADE INFORMATION 
-With regard to product s either currently being exported to the EU (aquaculture finfish 
-and crustaceans) or intended for export to the EU (poultry and milk) , India applies a 
-segregated market model whereby only this defined population of animals/products is 
-eligible for the EU market.  It is based on the annual production volume that 
-theoretically could be export ed to the EU  in a given year . In 2021, for aquaculture , it 
-covered 259 hatcheries and 73.872 farms registered for export, plus 393 processing 
-plants approved for exports that produced in 2 021 approximately 851,000 tonnes of 
-crustaceans and 3,290 tonnes of finfish. In 2021 India exported 52,889 tonnes of 
-aquacultured crustaceans and 637 tonnes of finfish to the EU. 
-For milk the model covers one dairy plant  that receives milk from approximately 1,200 
-collection centres and 710,000 farms which produced, 962,314 tonnes of raw milk  in 
-2020/21. 
-For poultry the model covers 4 processing establishments that received poultry from 
-958 farms and produced 77,107 tonnes of poultry meat in 2020/21.  
-5 F
-INDINGS AND CONCLUSIONS 
-5.1 RESIDUE MONITORING 
-5.1.1 Competent authorities 
-1. The central competent authority is the EIC under the Ministry of Commerce and 
-Industry. The EIC and its five regional EIA offices are  responsible for the planning, 
-implementation, and supervision of the residue monitoring plan as well as for the 
-approval, registration and execution of official controls on aquaculture, poultry and 
-dairy production, processing, trading and export establishments , in line with national 
-provisions (4). EIA officials also collect the residue monitoring samples for milk and 
-poultry. 
- 
-(4) The Export (Qual ity Control and Inspection) Act, 1963, and amendments thereof, for the sound 
-development of the export trade of India through quality control and inspection and for matters connected 
-therewith for: a) aquaculture: Notification No S.O. 497 (E) of 10 March 2011 amended the Export of Fresh, 
-Frozen and Processed Fish & Fishery Products (Quality Control and Inspection and Monitoring) Rules
+The report contains recommendations to the competent authorities of India aimed at rectifying the 
+shortcomings identified and enhancing the implementation of the control measures in place.

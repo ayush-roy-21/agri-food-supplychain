@@ -1,171 +1,76 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-104-C13
 Parent Doc ID: A-MSME-104
-Page Range: Page 42 to Page 44
-Word Range: 18251 - 19525
-Word Count: 1,275
+Page Range: Page 10 to Page 11
+Word Range: 3568 - 3817
+Word Count: 250
 --------------------
 
-[Page 42]
+[Page 10]
 UNDESA – Report on MSMEs and the Sustainable Development Goals  
  
-42 
+10 
+e-Health MSMEs in Africa  
  
-99 Gurria, A. (2018). SMEs are Key for more Inclusive Growth OECD Observer. 
-100 United Nations Industrial Development Organization (UNIDO) (2019). Statistical Indicators of Inclusive and 
-Sustainable Industrialization - Biennial Progress Report 2019. 
-101 Ibid.  
-102 Organisation for Economic Co-operation and Development. OECD (2017). Enhancing the Contributions of 
-SMEs in a Global and Digitalised Economy.  
-103 Ibid.  
-104 Edwards, C. (2018). UN's Sustainable Development Goals for Small Businesses.  
-105 Ibid. 
-106 Business & Sustainable Development Commission. (2017). Better Business Better World.  
-107 United Nations Development Programme (UNDP) (2019). The SDGs as a Lever for Business Innovation – 
-Celebration of the 13 Participating Companies in SDG Accelerator for SMEs.  
-108  Royal Society for the encouragement of Arts, Manufactures and Commerce (RSA) (2013). How Small and 
-Micro Businesses Could Reduce Inequality.  
-109 Organisation for Economic Co-operation and Development (OECD) (2018). Strengthening SMEs and 
-Entrepreneurship for Productivity and Inclusive Growth – Issue Paper. SME Ministerial Conference.  
-110 Ibid. 
-111 Organisation for Economic Co-operation and Development (OECD) (2017). Enhancing the Contributions of 
-SMEs in a Global and Digitalised Economy. 
-112 Ibid. 
-113 Ibid.  
-114 United Nations Development Programme and Deloitte (2016). Unchartered Waters Blending Value and 
-Values for Social Impact through the SDGs. 
-115 https://projectdignity.sg/ 
-116 Business & Sustainable Development Commission (2017). Better Business Better World.  
-117 Creative industries include the publishing, production and broadcasting of literature and media services, 
-such as design, PR and advertising agencies, library and museum activities, artistic education and creation. 
-Digital includes software and computer consultancy, programming and the reproduction of sound, video and 
-information technology media. Certain news media activities and the manufacturing and wholesale of 
-computer related equipment. Professional services include legal, accounting, administrative and management 
-consultancy work, as well as scientific research and development and other professional activities.  
-118  Business Advice (2016). Innovative “new work” small businesses are fuelling growth, but only in certain 
-cities.  
-119 Ibid.  
-120 Ibid.  
-121 Edwards, C. (2018). UN's Sustainable Development Goals for Small Businesses.  
-122 Ibid.  
-123 Business & Sustainable Development Commission (2017) Better Business Better World.  
-124 Ibid.  
-125 Ibid.  
-126 Business & Sustainable Development Commission (2017). Better Business Better World.  
-127 Ibid.  
-128 Ibid.  
-129 Ibid.  
-130 www.dailydump.org 
-131 Liu, C.K. (undated) Policy Brief: The Role of Micro-Small and Medium Enterprises in Achieving SDGs. United 
-Nations. 
-132 Organisation for Economic Co-operation and Development (OECD). (2017). Enhancing the Contributions of 
-SMEs in a Global and Digitalised Economy.  
-133 Aguilar, S. (2016). Promoting the Participation of Small and Medium Size Enterprises (SMEs) in Green 
-Public Procurement. The Sustainable Public Procurement (SPP) Programme of The 10-Year Framework Of 
-Programmes on Sustainable Consumption and Production Patterns (10YFP). CEGESTI.
+E-health includes a range of products and services that integrate technology to deliver healthcare and are lucrative for 
+MSMEs. Emerging technology products include wearable patches that can diagnose heart conditions, sensors that monitor 
+asthma medication intake and detect poor air quality, and glucose monitors that send diabetics’ data straight to 
+smartphones. In 2017, e-health represented one third of African start-ups.31 Select e-health MSME examples are:  
+Helium Health 32 is a small company that originated from Nigeria, which has developed a software system for health 
+records and hospital management. It supports hospitals and clinics in Africa, the Middle East and Asia, with a user-friendly 
+electronic health record and hospital management system that helps client hospitals to streamline their practices, reduce 
+waste and increase their standards of care. 
+Peek Vision33 is a Kenyan company that saw a market opportunity in the bulky, fragile and expensive equipment used for 
+eye examinations. The firm’s mobile application and US $5 clip allows anyone with a smartphone to turn their handset 
+into a diagnostic tool with the ophthalmological accuracy of a US $25,000 camera, able to spot conditions from cataracts 
+to glaucoma. 
+Kasha is an online store that provides healthcare products to women in Africa. They include hard-to-get products, such as 
+emergency contraceptives and condoms with a guaranteed traceability.34
 
-[Page 43]
+[Page 11]
 UNDESA – Report on MSMEs and the Sustainable Development Goals  
  
-43 
+11 
+Goal 4. Ensure inclusive and equitable quality education and 
+promote lifelong learning opportunities for all  
  
-134 Ibid.  
-135 Ibid. 
-136 Business & Sustainable Development Commission (2017). Better Business Better World.  
-137 Ibid. 
-138 Stichting Global Reporting Initiative (GRI) and the International Organization of Employers (IOE) (2016). 
-Small Business Big Impact SME Sustainability Reporting - From Vision to Action. 
-139 Ibid.  
-140 Edwards, C. (2018). UN's Sustainable Development Goals for Small Businesses.  
-141 Ibid. 
-142 Karlstrom, C. (2018). What impact can SMEs have on the Sustainable Development Goals? Royal Society 
-for the encouragement of Arts, Manufactures and Commerce (RSA). 
-143 Business & Sustainable Development Commission (2017). Better Business Better World.  
-144 The Climate and Development Knowledge Network (CDKN) (2015). Increasing MSME Access to Climate 
-Finance. 
-145 Ibid.  
-146 Ibid.  
-147 Deutsche Gesellschaft für Internationale (GIZ) and Small Industries Development Bank of India (SIBDI). 
-(undated) Facing the Impacts of Climate Change: Indian MSMEs and Adaptation  GIZ India.. 
-148 Edwards, C. (2018). UN's Sustainable Development Goals for Small Businesses.  
-149 Ibid.  
-150 Ibid.  
-151 Karlstrom, C. 2018. What impact can SMEs have on the Sustainable Development Goals? Royal Society for 
-the encouragement of Arts, Manufactures and Commerce (RSA). 
-152 Terpstra, P and Ofstedahl, A. 2013. Micro, Small, and Medium Enterprises: Key Players in Climate 
-Adaptation World Resources Institute (WRI). 
-153 Ibid. 
-154 United Nations Development Programme (UNDP) 2015. Using SMS Texts to Provide Weather Forecasts for 
-Small Farmers in West Africa. Relief Web. 
-155 BCtA is a global initiative that encourages companies to fight poverty through inclusive business models. It 
-is supported by the United Nations Development Programme (UNDP) and other international organizations.  
-156 United Nations (2017). Oceans Conference Concept Paper Partnership dialogue 5: Increasing Economic 
-Benefits to Small Islands Developing States and Least Developed Countries and Providing Access for Small -
-Scale Artisanal Fishers to Marine Resources and Markets.  
-157 Ibid.  
-158 Ibid.  
-159 BioTrade is a programme of UNCTAD and refers to the collection, production, transformation and 
-commercialization of goods and services derived from native biodiversity in environmentally, socially and 
-economically sustainable ways. The sustainability of BioTrade is guaranteed by adherence to principles and the 
-working approach focusing on three areas: value chain, ecosystem and adaptive management. 
-(https://unctad.org/en/PublicationsLibrary/UNCTAD_DITC_TED_2012_6.pdf ). 
-160 Ibid.   
-161 Edwards, C. (2018). UN's Sustainable Development Goals for Small Businesses.  
-162 Ibid.  
-163 Organisation for Economic Co-operation and Development (OECD).2019. Rethinking Innovation for a 
-Sustainable Ocean Economy.  
-164 Ibid.  
-165 Michalt. (2019). Small businesses with a BIG vision Turn UN Sustainable Development Goals into Concrete 
-Actions. ECOncrete. 
-166 Cook, C.D. (undated). Farming for the Future: Agro-ecological Solutions to Feed the World. Friends of the 
-Earth. 
-167 Agro-ecological methods include farming methods include intercropping, cover cropping, crop rotation, 
-conservation tillage, composting, managed livestock grazing and combined animal and plant production. These
-
-[Page 44]
-UNDESA – Report on MSMEs and the Sustainable Development Goals  
+The goal has 10 targets, which focus on provision of universal and equitable primary and 
+secondary education, increasing access to early childhood education (ECE) and vocational 
+and tertiary education, and achieving literacy and numeracy. The targets emphasize 
+sustainable education and upgrading education facilities with gender-sensitive and disability-
+friendly features. Other targets include increasing global cooperation to improve learning 
+environments, scholarships, training opportunities and skill development of educators.    
  
-44 
+Can MSMEs help achieve Goal 4? 
  
-methods foster biodiversity, natural soil fertility, water conservation and biological control of insects 
-168 Edwards, C. (2018). UN's Sustainable Development Goals for Small Businesses.   
-169 Ibid. 
-170 Business & Sustainable Development Commission (2017). Better Business Better World.  
-171 Ibid. 
-172 Wu, A. et. al. (2017). Growing Trees and Growing Profit: Is Your Business a “Restoration Enterprise?”  World 
-Resources Institute (WRI).  
-173 Ibid. 
-174 Ibid.  
-175 Ibid.  
-176 The Sustainable Development Goals Fund (SDG Fund), University of Pennsylvania Law School an d 
-McDermott Will & Emery LLP. (2017). Business and SDG 16, Contributing to Peaceful, Just and Inclusive 
-Societies. 
-177 Ibid.  
-178 Edwards, C. (2018). UN's Sustainable Development Goals for Small Businesses.  
-179 The United Nations Global Compact defines “supply chain sustainability” as the management of 
-environmental, social and economic impacts, and the encouragement of good governance practices 
-throughout the lifecycles of goods and services 
-180 United Nations Global Compact. (2016). A Guide to Traceability for SMEs The Drivers, Opportunities, 
-Challenges and Implementation Steps for Small and Medium-Sized Enterprises (SMEs) Looking to Adopt 
-Traceability in their Supply Chains.  
-181 Ibid.  
-182 https://www.baselgovernance.org/ 
-183 Wannenwetsch, S. (2018). The Integrity App: an Innovative Tool to Support SMEs in Sustainable 
-Compliance. Basel Institute on Governance. 
-184 Organisation for Economic Co-operation and Development (OECD) (2017). Enhancing the Contributions of 
-SMEs in a Global and Digitalised Economy.  
-185 Ibid.  
-186 United Nations Independent Expert Advisory Group (IEAG) on the Data Revolution for Sustainable 
-Development (2014). A World that Counts: Mobilising the Data Revolution for Sustainable Development. 
-187 Karlstrom, C. (2018). What impact can SMEs have on the Sustainable Development Goals? Royal Society 
-for the encouragement of Arts, Manufactures and Commerce (RSA). 
-188 Edwards, C. (2018). UN's Sustainable Development Goals for Small Businesses.  
-189 Koreen, M. and Cusmano, L. (2019). Fostering Greater SME Participation in a Globally Integrated Economy. 
-SME Policy Faced With Development of Financial Technology.  
-190 Organisation for Economic Co-operation and Development (OECD) (2017). Enhancing the Contributions of 
-SMEs in a Global and Digitalised Economy. 
-191 Ibid.  
-192 Ibid.  
-193 United Nations Development Programme (UNDP) (2019).  Danish BLUETOWN has Developed a Wi-Fi 
-Solution that Runs Entirely on Solar Energy. SDG Accelerator for SMEs. 
-194 https://www.ushahidi.com/
+MSMEs as providers of technical and vocational 
+education. MSMEs, through work-based learning 
+programmes (e.g. apprenticeship, career 
+education and internship), could become 
+informal educational service providers, and 
+share technical and competency skills required 
+by employers. Contributions of MSMEs to 
+Technical and Vocational Education and Training 
+(TVET) programmes have been noted in different 
+countries in addressing the skill gaps and 
+promoting lifelong learning. More efforts would 
+still be needed to collect evidence on 
+contributions of MSMEs to expanding access to 
+formal and informal education services.  
+MSMEs as complementary formal education providers. In many developing countries, p ublic schools alone are 
+insufficient to ensure the inclusiveness of education services needed to reach the targets included in SDG 4. In 
+many countries, MSMEs conducting business in the education sector c ould provide complementary education 
+services, expanding the access to educational services to  the general public. 35 For example, in a recent study 
+conducted by the Center for Education Innovations tracks, the growth of low-cost private schools had more than 
+doubled in India since 1993, while in Kenya, low cost private school enrolment has tripled since 1997 , which 
+has contributed to expanding access to educational services . MSMEs could contribute to achieving SDG 4 by 
+expanding inclusive access to education services and improving skills of youth and women for obtaining decent 
+jobs.  
+Individual MSMEs have the potential to adopt actions in their business practice to contribute to the goal.  
+They can: 
+▪ Create programmes (e.g., apprentice, career education, internships, work-based learning 
+programmes, etc.) that give students earlier access to the corporate environment. 36 
+▪ Provide employees with continuous learning opportunities to improve their skills for their current 
+and future employment.37 
+▪ Improve awareness of employees on the importance of ECE, support access of employees to 
+quality childcare, mental stimulation and learning through play. 38

@@ -1,0 +1,61 @@
+--- CHUNK HEADER ---
+Chunk ID: A-EUDR-102-C17
+Parent Doc ID: A-EUDR-102
+Page Range: Page 8
+Word Range: 4533 - 4843
+Word Count: 311
+--------------------
+
+[Page 8]
+International Journal of Environmental Sciences 
+ISSN: 2229-7359 
+Vol. 11 No. 11s, 2025 
+https://theaspd.com/index.php 
+ 
+ 
+595 
+ 
+reduce market exclusion by up to 50% while promoting reforestation and sustainable practices (Seymour et 
+al., 2020). This highlights that the challenge is not the intent of EUDR, but the lack of context -sensitive 
+implementation strategies.Additionally, the review underscores the role of multinational corporations as 
+intermediaries that can either reinforce or offset re gulatory inequities. Companies that invest in supplier 
+training, farm-level traceability systems, and price premiums contribute to inclusive sustainability transitions 
+(Ravanello, 2022) . Yet, when corporations pass compliance costs downstream without equitable 
+redistribution, they exacerbate precarity and deepen the marginalisation of smallholders (Baur et al., 2024). 
+This raises important questions about corporate accountability and the need for binding obligations under 
+the EUDR framework for upstream and downstream actors alike.Finally, the lack of robust monitoring and 
+grievance mechanisms within EUDR raises conce rn. There is limited institutional architecture to capture 
+local perspectives, assess socio -economic fallout, or revise implementation procedures based on empirical 
+outcomes (Cattivelli, 2021) . Without such feedback loops, the regulation risks becoming static and 
+technocratic, rather than adaptive and just (Farber, 2023) .The findings of this literature review carry 
+significant implications for policymakers, researchers, and international development agencies. The EUDR, 
+though well -intentioned, could inadvertently deepen historical inequities unless implemented through 
+inclusive, context -aware mechanisms. A “one -size-fits-all” regulatory model undermines the livelihoods of 
+smallholders and limits their ability to participate in sustainable trade. Equitable transition requires shared 
+responsibility across the value chain, in vestment in institutional capacity, and the formal inclusion of 
+smallholder voices in decision -making processes.Future research should focus on empirically validating the 
+differentiated impacts of EUDR across commodities and geographies. Longitudinal studi es combining 
+geospatial analysis with socio-economic data can reveal hidden costs and adaptation patterns. Additionally, 
+comparative case studies of successful local compliance models may offer transferable frameworks for policy 
+innovation. Collaboration b etween academia, civil society, and producer communities will be vital to 
+ensuring that environmental regulations such as EUDR advance not only ecological integrity but also social 
+justice. 
+ 
+CONCLUSION 
+The European Union Deforestation Regulation (EUDR), while aiming to combat global deforestation, 
+imposes asymmetrical burdens that disproportionately affect smallholders in the Global South. The evidence 
+suggests that although the regulation promotes environmental accountability, its current implementation 
+reflects structural inequities, particularly in terms of compliance costs, institutional capacity gaps, and limited 
+technological infrastructure. These challenges are  exacerbated by the historical legacy of trade imbalances, 
+where producer countries bear the burden of verification without commensurate support from consumer 
+markets. 
+Smallholders who constitute over 80% of agricultural producers in regions such as Southeast Asia, Sub -
+Saharan Africa, and Latin America are frequently excluded from value chains due to the complexity and cost 
+of due diligence requirements. Estimates from recent literature indicate that compliance costs can consume 
+between 10–30% of their already limited incomes, with some studies highlighting a 50% exclusion rate from 
+formal EU markets in the absence of external support. This structural exclusion raises critical questions about 
+procedural and distributive justice, particularly in rural communities where livelihoods remain precariously 
+dependent on export agriculture. 
+The regulatory asymmetry embedded in the EUDR framework inadvertently reproduces dynamics akin to 
+green neo-colonialism, where normative environmental standards set in the Global North are imposed upon 
+producers in the South without equitable participation, contextual adaptation, or compensatory mechanisms.

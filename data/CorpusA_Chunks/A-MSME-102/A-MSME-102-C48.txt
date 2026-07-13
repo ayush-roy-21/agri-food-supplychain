@@ -1,0 +1,63 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C48
+Parent Doc ID: A-MSME-102
+Page Range: Page 59
+Word Range: 13247 - 13496
+Word Count: 250
+--------------------
+
+[Page 59]
+59
+Clusters are not just sectors – they capture the geographic footprint of economic activities, 
+not because they belong to the same statistical classification but because industries are 
+systematically related through local spillovers and linkages. Clusters that emerge around specific 
+factors and compete primarily on factor endowments tend to be shallow (Ketels, 2017). Porter 
+also highlights the role of natural clusters that arise without significant government intervention. 
+While government policies can influence clusters, the emphasis is on the organic development of 
+clusters driven by market forces. While the Indian definition does touch upon factors like common 
+challenges, it doesn't explicitly emphasize the determinants outlined in Porter's Diamond Model. 
+The Indian definition of clusters aligns more closely with the concepts of Collective Efficiency 
+(as proposed by Schmitz) and certain elements of Flexible Specialization (according to Piore 
+and Sabel), rather than adhering strictly to Porter's Diamond Model. However, users of these 
+models, whether directly or indirectly, often appear disjointed in their application, seeking 
+answers beyond the confines of the chosen framework and underscoring the need for a more 
+comprehensive approach. In this context, Porter's Diamond Model emerges as inherently superior, 
+with its foundational principles grounded in extensive research that spans various countries and 
+industries, providing a more robust and versatile framework for analysis. The consequence of a 
+narrow definition of clusters results in a myopic outlook, which undermines the growth potential 
+of these clusters and directly impacts their scalability and competitiveness.
+In India, the Porter framework has not been tested to a great extent, but there are case studies 
+that have used it have affirmed its validity and called for more extensive applications of the model 
+in this setting. An examination of the Textile Cluster in Tirupur, also known as Textile hub of India 
+(Trivikram, Bhalla, Fraser, & Nicholson, 2011) indicates a prevalence of small enterprises and a 
+deficiency in brand equity. However, there has been an improvement in competitiveness observed 
+in Tirupur, as well as in other international knitwear clusters, after the termination of the Multi-
+Fiber Agreement. Constraint-free access to primary materials (cotton) and robust Institutions for 
+Collaboration (IFCs) bolster the Tirupur cluster. The cluster is renowned for its capacity to fulfil 
+orders with short lead periods of two to four weeks and for the entrepreneurial spirit of its SME 
+members. Poor infrastructure support (in terms of electricity, ports, and roads), inadequate R&D, 
+pollution, and relatively high logistics costs plague the cluster. A Study of Andhra Pradesh Clusters 
+(Joshi, 2020) shows that the labour-intensive manufacturing sectors, like Food Processing and 
+textile and apparel, that currently build their competitiveness based on Government facilitation 
+need labour management and a change of orientation to cater towards global markets. Capital 
+as well as labour-intensive manufacturing sectors such as Minerals and Metals and Heavy 
+Engineering, which are already embedded into the national value chain, should undertake a 
+series of steps to elevate their competitiveness and integrate themselves into the global value 
+chain. A study (Jhamb, 2016) which utilised Porter's model to analyse the different determinants 
+of competitive advantage of the Sports Goods Cluster at Jalandhar concludes that the cluster 
+mainly depends on factor conditions, i.e., raw material availability and skilled labour. Along with 
+this, sophisticated customers, machinery suppliers and competitors enhance the cluster's growth. 
+The study suggests that the cluster should focus on developing specialised and advanced factors 
+and timely implementation of government policies to upgrade competitive advantage from 
+fundamental factors of production. These national and international studies reveal that specific 
+issues hindering growth within various industries can be discerned and effectively addressed 
+through cluster analysis using the diamond model.
+ 
+Porter also 
+highlights the 
+role of natural 
+clusters that 
+arise without 
+significant 
+government 
+intervention.

@@ -1,0 +1,159 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-104-C54
+Parent Doc ID: A-RES-104
+Page Range: Page 15
+Word Range: 13970 - 14347
+Word Count: 378
+--------------------
+
+[Page 15]
+Xue et al. 10.3389/fsufs.2025.1649834
+Frontiers in Sustainable Food Systems 15 frontiersin.org
+systematic literature review. Front. Sustain. Food Syst.  9:1546851. doi: 
+10.3389/fsufs.2025.1546851
+Moberg, C. R., Whipple, T. W ., Speh, T. W ., and Cutler, B. D. (2004). Do the 
+management components of supply chain management affect logistics performance? Int. 
+J. Logist. Manag. 15, 15–30. doi: 10.1108/09574090410700284
+Mohsin, M., Mehak, A., Shafqat, M. M., and Luyao, Z. (2024). Risk identification and 
+mitigation among rice farmers in Pakistan: a fuzzy-AHP multi-criteria decision-making 
+approach. Front. Sustain. Food Syst. 8:1404524. doi: 10.3389/fsufs.2024.1404524
+Nakandala, D., Chen, J., and Chikweche, T. (2025). SME supply chain resilience in disruptive 
+times: the effects of supply chain robustness, access to government assistance and 
+disruption intensity. Bus. Process. Manag. J. 31, 467–496. doi: 10.1108/BPMJ-02-2024-0073
+Nhamo, L., Mpandeli, S., Matchaya, G., Nhlengethwa, S., Nhemachena, C., and 
+Mabhaudhi, T. (2019). Cereal production trends under climate change: impacts and 
+adaptation strategies in southern Africa. Agriculture 9:30. doi: 
+10.3390/agriculture9020030
+Nicola, M., Alsafi, Z., Sohrabi, C., Kerwan, A., Al-Jabir, A., Iosifidis, C., et al. (2020). 
+The socio-economic implications of the coronavirus pandemic (COVID-19): a review. 
+Int. J. Surg. 78, 185–193. doi: 10.1016/j.ijsu.2020.04.018
+Odimarha, A., Ayodeji, S., and Abaku, E. (2024). The role of technology in supply 
+chain risk management: innovations and challenges in logistics. Magna Sci. Adv. Res. 
+Rev. 10, 138–145. doi: 10.30574/msarr.2024.10.2.0052
+Oriekhoe, O., Ilugbusi, B., and Adisa, O. (2024). Ensuring global food safety: 
+integrating blockchain technology into food supply chains. Eng. Sci. Technol. Int. J. 5, 
+811–820. doi: 10.51594/estj.v5i3.905
+Ortmann, G. F ., and King, R. P . (2010). Research on Agri-food supply chains in 
+southern Africa involving small-scale farmers: current status and future possibilities. 
+Agrekon 49, 397–417. doi: 10.1080/03031853.2010.526428
+Preibisch, K. (2010). Pick-your-own labor: migrant workers and flexibility in 
+Canadian agriculture. Int. Migr. Rev. 44, 404–441. doi: 10.1111/j.1747-7379.2010.00811.x
+Quayson, M., Bai, C., and Osei, V . (2020). Digital inclusion for resilient post-
+COVID-19 supply chains: smallholder farmer perspectives. IEEE Eng. Manag. Rev. 48, 
+104–110. doi: 10.1109/EMR.2020.3006259
+Ramanathan, U., Aluko, O., and Ramanathan, R. (2021). Supply chain resilience and 
+business responses to disruptions of the COVID-19 pandemic. Benchmarking 29, 
+2275–2290. doi: 10.1108/bij-01-2021-0023
+Rao, N. C., Sutradhar, R., and Reardon, T. (2017). Disruptive innovations in food value 
+chains and small farmers in India. Indian J. Agric. Econ. 72, 24–48.
+Rathor, K., Mandawat, A., Pandya, K. A., Teja, B., Khan, F ., and Khan, Z. T. 
+Management of shipment content using novel practices of supply chain management 
+and big data analytics. In: 2022 International Conference on Augmented Intelligence 
+and Sustainable Systems (ICAISS). Trichy, India, IEEE (2022). p. 884–887.
+Rejeb, A., Rejeb, K., Appolloni, A., Iranmanesh, M., Treiblmaier, H., and Jagtap, S. 
+(2022). Exploring food supply chain trends in the COVID-19 era: a bibliometric review. 
+Sustainability 14:12437. doi: 10.3390/su141912437
+Rejeb, A., Rejeb, K., and Keogh, J. G. (2021). Enablers of augmented reality in the food 
+supply chain: a systematic literature review. J. Foodserv. Bus. Res.  24, 415–444. doi: 
+10.1080/15378020.2020.1859973
+Renard, D., Noack, F ., and Mahaut, L. (2023). Crop diversity buffers the impact of 
+droughts and high temperatures on food production. Environ. Res. Lett. 18:045002. doi: 
+10.1088/1748-9326/acc2d6
+Requier-Desjardins, D., Boucher, F ., and Cerdan, C. (2003). Globalization, competitive 
+advantages and the evolution of production systems: rural food processing and localized 
+Agri-food systems in Latin-American countries. Entrep. Reg. Dev.  15, 49–67. doi: 
+10.1080/08985620210144983
+Rui, F ., and Sundram, V . P . K. (2024). Technological innovation for sustainable supply 
+chain management in the food industry. Inf. Manag. Bus. Rev.  16, 892–903. doi: 
+10.22610/imbr.v16i3s(i)a.4173
+Saghafian, S., and Van Oyen, M. P . (2016). Compensating for dynamic supply 
+disruptions: backup flexibility design. Oper. Res.  64, 390–405. doi: 
+10.1287/opre.2016.1478
+Saha, A., Kumar, M., and Raut, R. D. (2024). Leveraging blockchain technology to 
+combat food fraud in the Agri-food supply chain. Int. J. Food Sci. Technol. 59, 3469–3477. 
+doi: 10.1111/ijfs.16889
+Sannou, R. O., Kirschke, S., and Günther, E. (2023). Integrating the social perspective 
+into the sustainability assessment of Agri-food systems: a review of indicators. Sustain. 
+Prod. Consum. 39, 175–190. doi: 10.1016/j.spc.2023.05.014
+Sengupta, T., Narayanamurthy, G., Moser, R., Pereira, V ., and Bhattacharjee, D. 
+(2022). Disruptive technologies for achieving supply chain resilience in COVID-19 
+era: an implementation case study of satellite imagery and blockchain technologies 
+in fish supply chain. Inform. Syst. Front.  24, 1107–1123. doi: 
+10.1007/s10796-021-10228-3
+Sharma, R., Wahbeh, S., Sundarakani, B., Manikas, I., and Pachayappan, M. (2023). 
+Enhancing domestic food supply in the UAE: a framework for technology-driven urban 
+farming systems. J. Clean. Prod. 434:139823. doi: 10.1016/j.jclepro.2023.139823
+Sid, S., Gahlawat, V . K., Mor, R. S., Panghal, A., and Kumar, D. (2021). Agri-food 
+supply chain and disruptions due to COVID-19: effects and strategies. Braz. J. Oper. 
+Prod. Manag. 18, 1–14. doi: 10.14488/bjopm.2021.031
+Singh, A., Pandey, A. K., Santhosh, D. T., Ganavi, N. R., Sarma, A., Deori, C., et al. 
+(2024). A comprehensive review on greenhouse gas emissions in agriculture and 
+evolving agricultural practices for climate resilience. Int. J. Environ. Clim. Change 14, 
+455–464. doi: 10.9734/ijecc/2024/v14i54206
+Skees, J. R., and Barnett, B. J. (2006). Enhancing microfinance using index-based 
+risk-transfer products. Agric. Financ. Rev.  66, 235–250. doi: 
+10.1108/00214660680001189
+Srivastava, A., and Dashora, K. (2021). A fuzzy ISM approach for modeling electronic 
+traceability in Agri-food supply chain in India. Ann. Oper. Res. 315, 2115–2133. doi: 
+10.1007/s10479-021-04072-6
+Suali, A. S., Srai, J. S., and Tsolakis, N. (2024). The role of digital platforms in 
+e-commerce food supply chain resilience under exogenous disruptions. Supply Chain 
+Manag. Int. J. 29, 573–601. doi: 10.1108/scm-02-2023-0064
+Subervie, J. (2008). The variable response of agricultural supply to world price instability 
+in developing countries. J. Agric. Econ. 59, 72–92. doi: 10.1111/j.1477-9552.2007.00136.x
+Sun, Y . Y . (2018). Global value chains and national tourism carbon competitiveness. 
+J. Travel Res. 58, 808–823. doi: 10.1177/0047287518781072
+Swinnen, J., and Vos, R. (2021). COVID-19 and impacts on global food systems and 
+household welfare: introduction to a special issue. Agric. Econ.  52, 365–374. doi: 
+10.1111/agec.12623
+Tan, C., Guan, D., Wang, D., Yin, H., Lu, H., Duan, J., et al. (2024). Global supply 
+chains amplify economic costs of future extreme heat risk. Nature 627, 797–804. doi: 
+10.1038/s41586-024-07147-z
+Tan, S. P ., Ng, L. C., Che Ibrahim, M. S., Hashim, K., Aman, Z., Lyndon, N., et al. 
+(2023). A review on post-COVID-19 impacts and opportunities of Agri-food supply 
+chain in Malaysia. PeerJ 11:e15228. doi: 10.7717/peerj.15228
+Taşkıner, T., and Bilgen, B. (2021). Optimization models for harvest and production 
+planning in Agri-food supply chain: a systematic review. Logistics 5:52. doi: 
+10.3390/logistics5030052
+Taylor, D. H. (2006). Strategic considerations in the development of lean Agri-food 
+supply chains: a case study of the UK pork sector. Supply Chain Manag. Int. J.  11, 
+271–280. doi: 10.1108/13598540610662185
+Teye, E. S., and Quarshie, P . T. (2021). Impact of agricultural finance on technology 
+adoption, agricultural productivity and rural household economic wellbeing in Ghana: 
+a case study of rice farmers in Shai-Osudoku District. S. Afr. Geogr. J. 104, 231–250. doi: 
+10.1080/03736245.2021.1962395
+Tirivangasi, H. M. (2018). Regional disaster risk management strategies for food 
+security: probing southern African development community channels for influencing 
+national policy. Jamba: J. Disaster Risk Stud. 10, 1–7. doi: 10.4102/jamba.v10i1.468
+Toader, D. C., Toader, C., and Radulescu, C. M. (2024). Investigating the adoption of 
+blockchain technology in Agri-food supply chains: analysis of an extended UTAUT 
+model. Agriculture 14:614. doi: 10.3390/agriculture14040614
+Tomlin, B. (2006). On the value of mitigation and contingency strategies for managing 
+supply chain disruption risks. Manag. Sci. 52, 639–657. doi: 10.1287/mnsc.1060.0515
+Trivellas, P ., Malindretos, G., and Reklitis, P . (2020). Implications of green logistics 
+management on sustainable business and supply chain performance: evidence from a 
+survey in the Greek Agri-food sector. Sustainability 12:10515. doi: 
+10.3390/su122410515
+Umar, M., and Wilson, M. M. J. (2023). Inherent and adaptive resilience of logistics 
+operations in food supply chains. J. Bus. Logist. 45:e12362. doi: 10.1111/jbl.12362
+Vallejo-Rojas, V ., Rivera-Ferre, M. G., and Ravera, F . (2015). Developing an integrated 
+framework to assess Agri-food systems and its application in the Ecuadorian Andes. Reg. 
+Environ. Chang. 16, 2171–2185. doi: 10.1007/s10113-015-0887-x
+van Ginkel, M., and Biradar, C. (2021). Drought early warning in Agri-food systems. 
+Climate 9:134. doi: 10.3390/cli9090134
+Vellakkal, S., Fledderjohann, J., Basu, S., Agrawal, S., Ebrahim, S., Campbell, O., 
+et al. (2015). Food price spikes are associated with increased malnutrition among 
+children in Andhra Pradesh, India. J. Nutr.  145, 1942–1949. doi: 
+10.3945/jn.115.211250
+Verschuur, J., Wolski, P ., Otto, F . E. L., and Li, S. (2021). Climate change as a driver of 
+food insecurity in the 2007 Lesotho-South  Africa drought. Sci. Rep.  11:3852. doi: 
+10.1038/s41598-021-83375-x
+Wang, G., Li, S., Yi, Y ., Wang, Y ., and Shin, C. (2024). Digital technology increases the 
+sustainability of cross-border agro-food supply chains: a review. Agriculture 14:900. doi: 
+10.3390/agriculture14060900
+Wang, Z., Salin, V ., Hooker, N. H., and Leatham, D. (2002). Stock market reaction to 
+food recalls: a GARCH application. Appl. Econ. Lett.  9, 979–987. doi: 
+10.1080/13504850210148125
+Welch, R. M., and Graham, R. D. (2000). A new paradigm for world agriculture: 
+productive, sustainable, nutritious, healthful food systems. Food Nutr. Bull. 21, 361–366. 
+doi: 10.1177/156482650002100404

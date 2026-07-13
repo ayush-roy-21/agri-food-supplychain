@@ -1,0 +1,48 @@
+--- CHUNK HEADER ---
+Chunk ID: A-EUDR-101-C148
+Parent Doc ID: A-EUDR-101
+Page Range: Page 43
+Word Range: 38460 - 38856
+Word Count: 397
+--------------------
+
+[Page 43]
+If a Member Stat e, pursuant to the first subparagraph, decides to allow an independent assurance ser vices provider 
+to express the opinion refe r red to in point (aa) of the second subparagraph of paragraph 1, it shall also allo w a 
+statutor y auditor other than the one(s) car r ying out the statutor y audit of fi nancial stat ements to do so, as 
+provided f or in paragraph 3.
+5. From 6 Januar y 2027 , a Member State that has made use of the option provided f or in paragraph 4 (the 
+“host Member State ”) shall allow independent assurance ser vices provid er established in a Member State other 
+than the host Member State (the “home Member State ”) to car r y out the assurance of sustainability repor ting.
+The home Member State shall be responsible f or the super vision of the independent assurance ser vices providers 
+established in its terr itory , unless the host Member State decides to super vise the assurance of sustainability 
+repor ting car r ied out by independent assurance ser vices provid ers in its terr itory .
+If the host Member Stat e decides to super vise the assurance of sustainability repor ting car r ied out in its te r r it or y 
+by independent assurance ser vices pro viders register ed in another Member State , the host Member State shall:
+(a) not im pose more str ing ent requirements or liability on such independent assurance ser vices provi ders than 
+those required f or assurance of sustainability repor ting by the national laws f or the independent assurance 
+ser vices provid ers or auditor s established in that host Member State; and
+(b) inf or m other Member Stat es about its decision to super vise the assurance of sustainability repor ting car r ied 
+out by independent assurance ser vices providers established in other Member Stat es.
+6. Member State s shall ensure that where an under taking is required by Union law to have elements of its 
+sustainability repor ting ver if ied by an accredited independent third par ty , the repor t of the accredit ed 
+independent third par ty is made ava ilable either as an annex to the manage ment repor t or by other publicly 
+accessible means.
+_____________
+(*) Directive 2006/43/EC of the European P arliament and of the Council of 17 Ma y 2006 on statut or y audits of 
+annual accounts and consolidate d accounts, amending Council Directives 78/660/EEC and 83/349/EEC and 
+repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87).’;
+(14) the f ollo wing chap te r is inser ted:
+‘CHAPTER 9a
+REPORTING CONC ERNING THIRD-COUNTR Y UNDERT AKINGS
+Ar ticle 40a
+Sust ainability repor ts concer ning third-countr y under tak ings
+1. A Member Stat e shall require that a subsidiar y under taking established in its terr it or y whose ultimate parent 
+under taking is govern ed by the la w of a third countr y publish and make accessible a sustainability repor t co ver ing 
+the inf or mation specifi ed in points (a)(iii) to (a)(v), points (b) to (f) and, where appropr iate, point (h) of Ar ticle 29a(2) 
+at the group level of that ultimate third-countr y parent under taking.
+The first subparagraph shall only apply to larg e subsidiar y under takings and to small and medium-sized subsidiar y 
+under takings, excep t micro under takings, which are public-int erest entities as def ined in point (a) of point (1) of 
+Ar ticle 2.
+EN
+Offi cial Jour nal of the European Uni on 16.12.2022 L 322/57

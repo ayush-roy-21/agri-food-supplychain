@@ -1,0 +1,60 @@
+--- CHUNK HEADER ---
+Chunk ID: A-EUDR-102-C10
+Parent Doc ID: A-EUDR-102
+Page Range: Page 5
+Word Range: 2641 - 2958
+Word Count: 318
+--------------------
+
+[Page 5]
+International Journal of Environmental Sciences 
+ISSN: 2229-7359 
+Vol. 11 No. 11s, 2025 
+https://theaspd.com/index.php 
+ 
+ 
+592 
+ 
+questions, methodological robustness, and credibility of the sources. For data analysis, the study applied 
+thematic synthesis, enabling the identification, coding, and interpretation of recurring themes and patterns 
+within the literature corpus. This appro ach facilitates a critical understanding of how the EUDR intersects 
+with issues of equity, power asymmetry, and socio-economic impacts on small-scale producers, while situating 
+the regulation within broader discourses on environmental justice and postcolon ial theory. Through 
+systematic comparison and synthesis of the findings across diverse sources, this research provides a nuanced 
+and evidence-based assessment of whether the EUDR functions as a tool for sustainable trade or perpetuates 
+dynamics of green neo-colonialism. By relying exclusively on qualitative literature review methods, this study 
+maintains academic rigour and avoids the pitfalls of unverifiable primary data collection, thereby producing 
+insights grounded in established knowledge while identifying gaps for future empirical inquiry. 
+ 
+RESULTS AND DISCUSSION 
+1. Results The qualitative literature review compiled over 80 peer -reviewed articles, institutional reports, 
+policy briefs, and critical analyses published between 2015 and 2025. Data sources were retrieved primarily 
+from Scopus, Web of Science, and specialised environmental governance repositories. The literature spans 
+multiple disciplines, including environmental law, development studies, postcolonial theory, and agricultural 
+economics. The selected documents addressed the implementation, socio-economic impact, and geopolitical 
+dimensions of the European Union Deforestation Regulation (EUDR), focusing specifically on Global South 
+smallholders. Inclusion criteria emphasised empirical data, policy evaluation, and critical commentary, 
+ensuring comprehensive coverage of both quantitative outcomes and qualitative interpretations (Hanson-
+DeFusco, 2023). 
+a. Overview of EUDR’s Compliance Burden on Smallholders 
+The analysis revealed that EUDR’s due diligence and traceability requirements pose significant challenges for 
+smallholders, who constitute approximately 40%–70% of agricultural producers in key commodity-producing 
+regions such as West Africa, Southeast Asia, and Latin America (Renier et al., 2023). Literature estimates that 
+over 60 million smallholders globally cultivate commodities targeted by the EUDR, with average farm sizes 
+below 2 hectares in many cases (Berning & Sotirov, 2023). Due to limited access to technology and formal 
+land registries, only an estimated 15%–25% of smallholders currently meet traceability standards aligned with 
+EUDR’s geolocation mandates (Steinke et al., 2024). This gap exposes approximately 75% of smallholders to 
+potential exclusion from EU supply chains unless significant capacity -building interventions occur 
+(Carodenuto & Buluran, 2021). 
+b. Economic and Social Impacts on Smallholder Livelihoods 
+Several studies indicate that compliance costs linked to EUDR due diligence can increase production 
+expenses by 10%–30% for small-scale farmers, predominantly due to requirements for satellite monitoring, 
+certification, and legal documentation (Heldt, 2024). For many, these added costs exacerbate preexisting 
+economic vulnerabilities, with poverty rates among smallholders in deforestation -risk zones often exceeding 
+50% (Gilbert, 2024). Furthermore, the literature highlights social impacts such as reduced market access, 
+where estimates show that non -compliant smallholders risk losing up to 40% of their traditional export 
+markets (Melo-Velasco et al., 2025) . This market contraction may trigger secondary effects , including land 
+abandonment, rural -urban migration, and increased food insecurity (Meemken, 2020) . Conversely, well -
+supported smallholders who engage in sustainability initiatives report yield improvements of 5% –12% and 
+premium price benefits averaging 8%–15%, suggesting that targeted interventions can offset some regulatory 
+burdens (McLeman, 2017).

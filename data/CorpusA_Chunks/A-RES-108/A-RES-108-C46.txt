@@ -1,0 +1,164 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-108-C46
+Parent Doc ID: A-RES-108
+Page Range: Page 11
+Word Range: 11575 - 11824
+Word Count: 250
+--------------------
+
+[Page 11]
+Sustainable Production and Consumption 39 (2023) 203–215
+213
+is significant as it could facilitate the growth of a local FSC. To make 
+business competitive on the global market, intelligent networks should 
+be developed in which businesses share their resources. 
+This study has revealed that the internal environment, including 
+organisational barriers such as aversion to change or a lack of priority 
+from top management, imposes limitations on developing positive 
+employee behaviour. This study provides insights to business decision- 
+makers regarding the primary barriers to digital technologies that 
+limit the SPC of FSC. The strategies were identified and evaluated using 
+CoCoSo, and the results indicate that “ focus on enhancing commitment 
+from top management towards SPC processes in supply chains ” is the 
+most preferred strategy. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Acknowledgment 
+This research was partially supported by a Grant from the Danida 
+Fellowship Centre (Project no. 20- M11SDU). 
+Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.spc.2023.04.002 . 
+References 
+Aguilar, M.G., Jaramillo, J.F., Ddiba, D., P ´aez, D.C., Rueda, H., Andersson, K., Dickin, S., 
+2022. Governance challenges and opportunities for implementing resource recovery 
+from organic waste streams in urban areas of Latin America: insights from Chía, 
+Colombia. Sustain. Prod. Consum. 30, 53 – 63 . 
+Aiyar, A., Pingali, P., 2020. Pandemics and food systems-towards a proactive food safety 
+approach to disease prevention & management. Food Secur. 12 (4), 749 – 756 . 
+Alkhuzaim, L., Zhu, Q., Sarkis, J., 2021. Evaluating emergy analysis at the nexus of 
+circular economy and sustainable supply chain management. Sustain. Prod. Consum. 
+25, 413 – 424 . 
+Annosi, M.C., Brunetta, F., Monti, A., Nati, F., 2019. Is the trend your friend? An analysis 
+of technology 4.0 investment decisions in agricultural SMEs. Comput. Ind. 109 , 
+59 – 71 . 
+Annosi, M.C., Brunetta, F., Bimbo, F., Kostoula, M., 2021. Digitalization within food 
+supply chains to prevent food waste. Drivers, barriers and collaboration practices. 
+Ind. Mark. Manag. 93, 208 – 220 . 
+Aryee, R., Adaku, E., 2023. A review of current trends and future directions in reverse 
+logistics research. Flex. Serv. Manuf. J. 1 – 30 . 
+Balachandra, P., Nathan, H.S.K., Reddy, B.S., 2010. Commercialization of sustainable 
+energy technologies. Renew. Energy 35 (8), 1842 – 1851 . 
+Barbosa, M.W., Vicente, A.D.L.C., Ladeira, M.B., Oliveira, M.P.V.D., 2018. Managing 
+supply chain resources with big data analytics: a systematic review. Int J Log Res 
+Appl 21 (3), 177 – 200 . 
+Behnke, K., Janssen, M.F.W.H.A., 2020. Boundary conditions for traceability in FSC using 
+blockchain technology. Int. J. Inf. Manag. 52, 101969 . 
+Beier, G., Niehoff, S., Xue, B., 2018. More sustainability in industry through industrial 
+internet of things? Appl. Sci. 8 (2), 219 . 
+Bellantuono, N., Nuzzi, A., Pontrandolfo, P., Scozzi, B., 2021. Digital transformation 
+models for the I4. 0 transition: lessons from the change management literature. 
+Sustainability 13 (23), 12941 . 
+Bengtsson, M., Alfredsson, E., Cohen, M., Lorek, S., Schroeder, P., 2018. Transforming 
+systems of consumption and production for achieving the sustainable development 
+goals: moving beyond efficiency. Sustain. Sci. 13 (6), 1533 – 1547 . 
+Berkhout, F., Hertin, J., 2004. De-materialising and re-materialising: digital technologies 
+and the environment. Futures 36 (8), 903 – 920 . 
+Blok, V., Wesselink, R., Studynka, O., Kemp, R., 2015. Encouraging sustainability in the 
+workplace: a survey on the pro-environmental behaviour of university employees. 
+J. Clean. Prod. 106, 55 – 67 . 
+Butt, A.S., Ali, I., Govindan, K., 2023. The role of reverse logistics in a circular economy 
+for achieving sustainable development goals: a multiple case study of retail firms. 
+Prod. Plan. Control 1 – 13 . 
+Cane, M., Parra, C., 2020. Digital platforms: mapping the territory of new technologies to 
+fight food waste. Br. Food J. 122 (5), 1647 – 1669. https://doi.org/10.1108/BFJ-06- 
+2019-0391 . 
+Carter, C.R., Rogers, D.S., 2008. A framework of sustainable supply chain management: 
+moving toward new theory. Int. J. Phys. Distrib. Logist. Manag. 38 (5), 360 – 387 . 
+Chauhan, C., Dhir, A., Akram, M.U., Salo, J., 2021. Food loss and waste in FSC. A 
+systematic literature review and framework development approach. J. Clean. Prod. 
+295, 126438 . 
+Deka, N., Goswami, K., 2022. Organic cultivation and sustainable value chain 
+development for tea smallholders: findings from Assam, India. Sustain. Prod. 
+Consum. 32, 562 – 579 . 
+Diaz-Ruiz, R., Costa-Font, M., L ´opez-i-Gelats, F., Gil, J.M., 2019. Food waste prevention 
+along the food supply chain: a multi-actor approach to identify effective solutions. 
+Resour. Conserv. Recycl. 149, 249 – 260 . 
+Do, Q.N., Mishra, N., Wulandhari, N.B.I., Ramudhin, A., Sivarajah, U., Milligan, G., 2021. 
+Supply chain agility responding to unprecedented changes: empirical evidence from 
+the UK food supply chain during COVID-19 crisis. Supply Chain Manag. 26 (6), 
+737 – 752 . 
+Dora, M., Kumar, A., Mangla, S.K., Pant, A., Kamal, M.M., 2021. Critical success factors 
+influencing artificial intelligence adoption in FSC. Int. J. Prod. Res. 1 – 20 . 
+Dubey, R., Gunasekaran, A., Papadopoulos, T., Childe, S.J., 2015. Green supply chain 
+management enablers: mixed methods research. Sustain. Prod. Consum. 4, 72 – 88 . 
+Dubey, R., Gunasekaran, A., Childe, S.J., Blome, C., Papadopoulos, T., 2019. Big data and 
+predictive analytics and manufacturing performance: integrating institutional 
+theory, resource-based view and big data culture. Br. J. Manag. 30 (2), 341 – 361 . 
+Ekren, B.Y., Mangla, S.K., Turhanlar, E.E., Kazancoglu, Y., Li, G., 2021. Lateral inventory 
+share-based models for IoT-enabled E-commerce sustainable food supply networks. 
+Comput. Oper. Res. 130, 105237 . 
+Ellen MacArthur Foundation, 2013. https://ellenmacarthurfoundation.org/eliminating-f 
+ood-waste . 
+Eshghali, M., Kannan, D., Salmanzadeh-Meydani, N., Esmaieeli Sikaroudi, 2023. 
+Machine learning based integrated scheduling and rescheduling for elective and 
+emergency patients in the operating theatre. Ann. Oper. Res. 1 – 24 . 
+European Commission, 2012. Communication from the Commission to the Council and 
+the European Parliament — Common actions for growth and employment: The 
+Community Lisbon Programme [SEC(2005) 981]/* COM/2005/0330 final */ . 
+Farahani, R.Z., Rezapour, S., Drezner, T., Fallah, S., 2014. Competitive supply chain 
+network design: an overview of classifications, models, solution techniques and 
+applications. Omega 45, 92 – 118 . 
+Farooque, M., Zhang, A., Liu, Y., 2019. Barriers to circular food supply chains in China. 
+Supply Chain Manag. 24 (5), 677 – 696 . 
+Feng, H., Wang, X., Duan, Y., Zhang, J., Zhang, X., 2020. Applying blockchain 
+technology to improve agri-food traceability: a review of development methods, 
+benefits and challenges. J. Clean. Prod. 260, 121031 . 
+Fuchs, D.A., Lorek, S., 2005. Sustainable consumption governance: a history of promises 
+and failures. J. Consum. Policy 28 (3), 261 – 288 . 
+Gait ´an-Cremaschi, D., Klerkx, L., Duncan, J., Trienekens, J.H., Huenchuleo, C., 
+Dogliotti, S., Rossing, W.A., 2019. Characterizing diversity of food systems in view of 
+sustainability transitions. A review. Agron. Sustain. Dev. 39 (1), 1 – 22 . 
+George, G., Merrill, R.K., Schillebeeckx, S.J., 2021. Digital sustainability and 
+entrepreneurship: how digital innovations are helping tackle climate change and 
+sustainable development. Enterp. Theory Pract. 45 (5), 999 – 1027 . 
+Gjorgievski, V.Z., Mihajloska, E., Abazi, A., Markovska, N., 2022. Sustainable 
+development goals — climate action nexus: quantification of synergies and tradeoffs. 
+Clean Techn. Environ. Policy 24 (1), 303 – 313 . 
+G ¨olzer, P., Fritzsche, A., 2017. Data-driven operations management: organisational 
+implications of the digital transformation in industrial practice. Prod. Plan. Control 
+28 (16), 1332 – 1343 . 
+Govindan, K., Hasanagic, M., 2018. A systematic review on drivers, barriers, and 
+practices towards circular economy: a supply chain perspective. Int. J. Prod. Res. 56 
+(1 – 2), 278 – 311 . 
+Govindan, K., Kaliyan, M., Kannan, D., Haq, A.N., 2014. Barriers analysis for green 
+supply chain management implementation in indian industries using analytic 
+hierarchy process. Int. J. Prod. Econ. 147, 555 – 568 . 
+Goyal, S., Garg, D., Luthra, S., 2022. Analyzing critical success factors to adopt 
+sustainable consumption and production linked with circular economy. Environ. 
+Dev. Sustain. 24 (4), 5195 – 5224 . 
+Gunasekaran, A., Spalanzani, A., 2012. Sustainability of manufacturing and services: 
+investigations for research and applications. Int. J. Prod. Econ. 140 (1), 35 – 47 . 
+Guo, A., Wei, Y., Zhong, F., Wang, P., 2022. In: How do Climate Change Perception and 
+Value Cognition Affect Farmers' Sustainable Livelihoods? An Analysis Based on an 
+Improved DFID Sustainable Livelihood Framework, 3, pp. 636 – 650 . 
+Gustavsson, J., Cederberg, C., Sonesson, U., Van Otterdijk, R., Meybeck, A., 2011. Global 
+Food Losses and Food Waste . 
+Heidenstr ø m, N., Hebrok, M., 2022. Towards realizing the sustainability potential within 
+digital food provisioning platforms: the case of meal box schemes and online grocery 
+shopping in Norway. Sustain. Prod. Consum. 29, 831 – 850 . 
+Irani, Z., Sharif, A.M., Lee, H., Aktas, E., Topalo ˘glu, Z., van't Wout, T., Huda, S., 2018. 
+Managing food security through food waste and loss: small data to big data. Comput. 
+Oper. Res. 98, 367 – 383 . 
+Jagtap, S., Duong, L.N.K., 2019. Improving the new product development using big data: 
+a case study of a food company. Br. Food J. 121 (11), 2835 – 2848 . 
+Joshi, S., Sharma, M., 2021. Digital technologies (DT) adoption in agri-FSC amidst 
+COVID-19: an approach towards food security concerns in developing countries. 
+J. Glob. Oper. Strateg. Sourcing 15 (2), 262 – 282 . 
+Jun, W., Nasir, M.H., Yousaf, Z., Khattak, A., Yasir, M., Javed, A., Shirazi, S.H., 2021. 
+Innovation performance in digital economy: does digital platform capability, 
+improvisation capability and organizational readiness really matter? Eur. J. Innov. 
+Manag. 25 (5), 1309 – 1327 . 
+M. Sharma et al.

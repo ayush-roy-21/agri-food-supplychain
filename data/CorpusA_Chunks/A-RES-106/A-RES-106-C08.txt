@@ -1,111 +1,84 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-106-C08
 Parent Doc ID: A-RES-106
-Page Range: Page 20 to Page 21
-Word Range: 10270 - 11543
-Word Count: 1,274
+Page Range: Page 4
+Word Range: 1897 - 2146
+Word Count: 250
 --------------------
 
-[Page 20]
-smallholder farmers (Tu et al., 2019 ). In this regard, national and local governments, along with relevant 
-stakeholders in the value chain, should collaborate to improve smallholder farmers' access to land while 
-ensuring equitable land rights for women.
-4.5.3.  Fostering food security
-Although this study does not directly address food security, the effects of VSSs on food availability and 
-nutrition patterns remain widely debated in the literature, with no clear consensus (Meemken et al., 2017 ). 
-Oosterveer et al. ( 2014 ) reported that the Government of Mozambique introduced a national legal 
-framework for sustainable crop-based biofuel production to address food security gaps in certification 
-schemes. This framework requires international companies operating in the country to supply a portion of 
-their production domestically and meet specific food security indicators (Schut et al., 2014 ). Similarly, 
-policies that promote agrobiodiversity in Ghana and Vietnam could encourage private companies and 
-farmers to diversify their marketable products and adopt sustainable agricultural practices, such as 
-intercropping and integrated rice-fish system, moving beyond the conventional systems based on mono -
-cropping (Oosterveer et al., 2014 ). Finally, as highlighted by Tu et al. ( 2019 ), policies at various levels should 
-be targeted and designed to address multiple sustainability indicators simultaneously.
-4.5.4.  Boosting partnerships and legal requirements
-According to Ponte ( 2019 ), governments should ensure the effective implementation of sustainability 
-standards in food commodity value chains by creating legally binding commitments (e.g. mandatory 
-sustainability reports) and fostering partnerships with various stakeholders, such as firms, producer 
-associations, and NGOs. In this regard, Akrong et al. ( 2022 ) found that the Government of Ghana partnered 
-with multinational firms and organisations to improve certification among small-scale farmers through 
-training and capacity development programmes in the mango sector. In Vietnam, the Cooperative Law of 
-1997, along with its subsequent revisions, aimed to establish a national legal framework to promote the 
-development and growth of commercial agricultural cooperatives (Tu et al., 2019 ). Nonetheless, the 
-effectiveness of these governmental initiatives depends on several key factors, including local administra -
-tive support and farmer participation (Cox & Le, 2014 ). Boshoven et al. ( 2021 ) and zu Ermgassen et al. ( 2022 ) 
-emphasised that governments should also promote measures, such as facilitating traceability and transpar -
-ency requirements, setting minimum standards for fair labour conditions, and implementing region-specific 
-sourcing strategies for certified products to enhance accountability and promote sustainable practices 
-across commodity value chains.
-4.5.5.  Strengthening marketing collaborations
-According to Padhiary and Roy ( 2025 ), the expansion of certified products’ global outreach depends on 
-collaborative marketing strategies that foster stronger connections between international buyers and local 
-producer organisations. Collaborative marketing in agriculture, defined as cooperation among farmers, 
-marketers, distributors, and consumers working toward shared goals, enables resource sharing, collective 
-branding, and enhanced bargaining power, which are vital for smallholders operating under VSSs (Grabs & 
-Carodenuto, 2021 ; Schoneveld, 2022 ). In addition, farmer cooperatives and public-private partnerships can 
-develop joint marketing platforms to showcase certified products through e-commerce channels and 
-sustainable branding initiatives (Padhiary & Roy, 2025 ). The use of digital marketing tools, such as online 
-marketplaces, traceability apps, and social media can increase producers’ visibility and consumer engage -
-ment, while appealing to growing demand for ethical products (Ravi & Rajasekaran, 2023 ). Similarly, 
-authentic storytelling that highlights product origin, community values, and sustainability commitments 
-helps build consumer trust and long-term brand loyalty (Yueh & Zheng, 2019 ).
-Collaborative approaches also support sustainable supply chains, where transparent relationships 
-among producers, retailers, and consumers ensure product authenticity and equitable benefit sharing 
-(Flora & Bregendahl, 2012 ). As emphasised by Padhiary and Roy ( 2025 ), partnerships with local distributors 
-and retailers in target markets provide critical market intelligence and facilitate compliance with import 
-regulations, enhancing smallholders’ competitiveness in global trade. By developing collaborative market -
-ing strategies, VSSs can strengthen the competitiveness of certified products while improving farmers’ 
+[Page 4]
+2.2. Literature search
+The selected studies considered for this analytical assessment have been retrieved from Evidensia Library 
+(https://www.evidensia.eco), a multi-stakeholder initiative and knowledge platform providing evidence on 
+supply chain sustainability tools, including VSSs. To ensure the comparability and reliability of the results, 
+the Evidensia database includes only studies that meet stringent quality criteria in terms of research design 
+(Evidensia, 2024 ). For the analysis of the literature, scientific articles and reports have been searched within 
+the Evidensia database using filters for the specific tool we were interested in, namely ‘Voluntary 
+Sustainability Standards’, and the countries of interest, ‘Ghana’ and ‘Vietnam’. As of the end of January 
+2024, 49 publications have been retrieved in total.
+2.3. Paper selection and classification criteria
+The PRISMA 2020 framework was adopted for the selection of relevant studies (Page et al., 2021 ) ( Figure 1 ). 
+Several criteria were applied to screen and classify the 49 studies for this analytical assessment:
+1. Studies that were not strictly focused on the production of crop-based food-agricultural commodities 
+were excluded. Therefore, non-food agricultural commodities such as cotton and flowers, as well as fish, 
+meat, and dairy products, were not considered.  
+2. Only empirical studies based on primary data collection in the field were included. These studies had to 
+explicitly investigate the relationship between VSSs and farmers’ livelihood outcomes in Ghana and Vietnam. 
+3. Publications that merely described the contribution of VSSs to specific outcomes (e.g. gender, bio -
+diversity) without explaining the impact of VSSs on these indicators were excluded.
+Table 1. Definition of capitals and related socioeconomic and environmental indicators according to the SLF.    
+Capital Indicator
+Human: the competencies, knowledge, ability to work and health 
+status that together enable farmers to pursue livelihood 
+strategies and achieve personal and family goals
+✓ Gender parity: the level of participation and benefits received by 
+women in the value chains  
+✓ Labour rights: the adherence to fair labour practices, including the 
+provision of formal contracts, equal remuneration without 
+discrimination, and safe working conditions  
+✓ Capacity building: the provision of training and extension services to 
+enhance the skills and knowledge of farmers, enabling them to adopt 
+sustainable farming practices
+Financial: the economic resources derived from available stocks 
+and inflows of money at household level
+✓ Yield: the total production of a specific commodity, including the 
+output per hectare  
+✓ Costs: the expenses incurred by farmers, including certification and 
+labour costs   
+✓ Income: the total and net income derived from the production of 
+certified commodities, including price premiums and profitability 
+received for sustainably produced goods
+Social: the social resources (e.g. networks, affiliations, associations) 
+and relationships (e.g. trust and reciprocity) which farmers draw 
+on in pursuit of their livelihood objectives 
+✓ Market access: the ability of farmers to sell their products in national 
+and international markets  
+✓ Value chain integration: the extent to which farmers are integrated 
+into horizontal (collaboration with other producers) and vertical 
+(linkages with processors and retailers) value chains  
+✓ Child labour: the prohibition of child labour, ensuring that children 
+are not involved in hazardous agricultural tasks
+Physical: the availability of fixed capital (e.g. land), tools and 
+equipment (e.g. pruning knives, protective equipment, 
+packaging) to support farmers’ business
+✓ Land access: the rights and accessibility of land for farmers, including 
+secure land tenure  
+✓ Tools & equipment: the availability of essential farming tools and 
+protective equipment, such as pruning knives and safety gear  
+✓ Access to credit: the accessibility of financial services and credit for 
+farmers
+Natural: the availability of natural resources (e.g. crop and 
+livestock diversity) and environmental services (e.g. water 
+provisions) which promote the sustainable use of the 
+environment
+✓ Biodiversity: the variety of plant and animal species present at the 
+farm level, including the diversity of vegetables, fruits and livestock  
+✓ Water management: the adoption and implementation of practices 
+that improve water use efficiency, such as irrigation techniques, 
+recycling and conservation methods  
+✓ Use of agrochemicals: the regulation and control of chemical inputs 
+in farming, including the prohibition of hazardous chemicals and the 
+limitation of chemical treatments
+Note: Authors’ elaboration based on DFID ( 1999 ). 
 INTERNATIONAL JOURNAL OF AGRICULTURAL SUSTAINABILITY
- 19
-
-[Page 21]
-incomes, preserving local identity, environmental integrity, and consumer trust in sustainable and ethical 
-products (Bennett, 2021 ).
-4.5.6. Leveraging VSSs contribution to the SDGs
-It is widely acknowledged that there is significant alignment between VSSs and the SDGs, with clear 
-potential for a mutually supportive relationship, making VSSs valuable tools for governments as well 
-(Akrong et al., 2022 ; Kosolapova et al., 2023 ). In line with Bissinger et al. ( 2020 ), we found that the three 
-SDGs most widely addressed by VSSs are SDG 2, 8 and 12. Although VSSs are oriented towards the 
-sustainability of value chains, some of the impacts on farmers, producer organisations and local communi -
-ties may not be explicitly linked to SDG targets but can create enabling conditions for their achievement 
-(Bissinger et al., 2020 ). Additionally, VSSs can support governments by collecting disaggregated data to 
-understand the situation of vulnerable groups, such as women and indigenous minorities, and by reporting 
-on SDG progress through sharing impact data (Kosolapova et al., 2023 ). With the aim of leveraging VSSs’ 
-contribution to the achievement of the SDGs, the recommendations of this study are twofold: i) better align 
-the socioeconomic and environmental objectives of different VSSs with the SDG indicators; ii) promote and 
-develop an independent monitoring and evaluation system to assess the actual impacts of VSS initiatives in 
-the agricultural sector.
-5. Conclusions
-The adoption of the SLF provides a comprehensive understanding of the significant effects of VSSs on the 
-livelihoods of Ghanaian and Vietnamese smallholder farmers producing crop-based food commodities for 
-international markets. VSSs can reduce smallholders' production constraints, expand market opportunities, 
-and enhance farmers' livelihoods by addressing various forms of capital - human, financial, social, physical 
-and natural - to varying extents. They are effective market-based tools for promoting sustainability across 
-agricultural commodity value chains, although not without limitations. Despite their generally positive 
-effects, the systematic review highlights the context-specific nature of VSS impacts, which differ across 
-value chains and between countries.
-On the one hand, VSSs need to better align their interventions with the social and economic characteristics of 
-farmers while considering the site-specific and biophysical contexts in which they operate. This involves tailoring 
-service packages to farmers' needs and addressing critical issues, such as improving input management (e.g. 
-pesticides, certified seeds, and water), implementing innovative initiatives to increase women's participation in 
-value chains, eliminating persistent child labour practices, and establishing robust monitoring and reporting 
-systems. It is also essential to enhance the gender and youth sensitivity of certification systems to ensure that 
-VSSs contribute to more inclusive and equitable rural development outcomes. Additionally, VSSs should avoid 
-encouraging over-specialisation and its associated risks, such as commodity price volatility and climate change 
-effects, by promoting crop diversification and integrated farming approaches.
-On the other hand, governments should focus on overcoming structural barriers, such as insecure land rights, 
-poor market infrastructure (e.g. storage and market facilities) and limited access to credit for smallholder 
-farmers. These challenges underscore the need for investments in Ghana and Vietnam to close sustainability 
-gaps, develop policies that address market constraints for certified products, improve extension services, 
-enhance stakeholder integration and coordination in the value chain, and raise sustainability standards.
-As outlined in SDG 17, revitalising global partnerships for sustainable development is essential. This 
-should not only strengthen public-private partnerships but also foster broader societal collaboration among 
-producers, consumers, researchers, and civil society organisations to create a foundation for a meaningful 
-transition to sustainable food systems.
-Acknowledgements
-The authors thank two anonymous reviewers who provided excellent feedback to improve the quality of 
-this manuscript. This research was conducted within the framework of the Trade4Sustainable Development 
-project (https://www.trade4sd.eu/).
-20
- R. D’ANNOLFO AND F. DEMARIA
+ 3

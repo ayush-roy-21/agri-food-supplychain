@@ -1,0 +1,101 @@
+--- CHUNK HEADER ---
+Chunk ID: A-CSR-101-C76
+Parent Doc ID: A-CSR-101
+Page Range: Page 16
+Word Range: 19554 - 19803
+Word Count: 250
+--------------------
+
+[Page 16]
+Michelson, G., Wray-Bliss, E., 2024. Overcoming evil with good: the role of NGOs in 
+combating modern slavery. In: Krambia Kapardis, M., Clark, C., Warria, A., Dion, M. 
+(Eds.), The Palgrave Handbook on Modern Slavery, pp. 663 – 677 .
+Mol, A.P., 2010. The future of transparency: power, pitfalls and promises. Glob. Environ. 
+Polit. 10, 132 – 143 .
+Mosch, P., Schweikl, S., Obermaier, R., 2021. Trapped in the supply chain? Digital 
+servitization strategies and power relations in the case of an industrial technology 
+supplier. Int. J. Prod. Econ. 236, 108141 .
+Moussa, T., Allam, A., Elmarzouky, M., 2022. Global modern slavery and sustainable 
+development goals: does institutional environment quality matter? Bus. Strat. 
+Environ. 31, 2230 – 2244 .
+Murray, A., Kuban, S., Josefy, M., Anderson, J., 2021. Contracting in the smart era: the 
+implications of blockchain and decentralized autonomous organizations for 
+contracting and corporate governance. Acad. Manag. Perspect. 35, 622 – 641 .
+New, S.J., 2015. Modern slavery and the supply chain: the limits of corporate social 
+responsibility? Supply Chain Manag.: Int. J. 20, 697 – 707 .
+Nidumolu, R., Ellison, J., Whalen, J., Billman, E., 2014. The collaboration imperative. 
+Harv. Bus. Rev. 92, 76 – 84 .
+Nolan, J., Bott, G., 2018. Global supply chains and human rights: spotlight on forced 
+labour and modern slavery practices. Aust. J. Hum. Right 24, 44 – 69 .
+Nunes, M.F., 2018. Supply chain contamination: an exploratory approach on the 
+collateral effects of negative corporate events. Eur. Manag. J. 36, 573 – 587 .
+Oliveira, F., Kakabadse, N., Khan, N., 2022. Board engagement with digital technologies: 
+a resource dependence framework. J. Bus. Res. 139, 804 – 818 .
+Ozturk, O., 2021. Bibliometric review of resource dependence theory literature: an 
+overview. Manag. Rev. Quart. 71, 525 – 552 .
+Pannekoek, F., Breugewm, T., Van Wassenhove, L.N., 2023. How Tony ’ s chocolonely 
+created a purpose-driven (and profitable) supply chain. Harv. Bus. Rev. (online 
+article, 11 September) . 
+Pfeffer, J., Salancik, G., 1978. The External Control of Organizations: A Resource 
+Dependence Perspective. Harper & Row, NY . 
+Prajogo, D., Castka, P., Searcy, C., 2021. Paymasters and assurance providers: exploring 
+firms ’ discrection in selecting non-financial auditors. J. Bus. Ethics 173, 795 – 811 .
+Raineri, L., Strazzari, F., 2022. Drug smuggling and the stability of fragile states: the 
+diverging trajectories of Mali and niger. J. Interv. Statebuilding 16, 222 – 239 .
+Raj-Reichert, G., 2020. The powers of a social auditor in a global production network: the 
+case of Verit ´e and the exposure of forced labour in the electronics industry. J. Econ. 
+Geogr. 20, 653 – 678 .
+Reid, J., Castka, P., 2023. The impact of remote sensing on monitoring and reporting - 
+the case of conformance systems. J. Clean. Prod. 393, 136331 .
+Rockmann, K.W., Vough, H.C., 2024. Using quotes to present claims: practices for the 
+writing stages of qualitative research. Organ. Res. Methods 27, 621 – 649 .
+Schaper, S., Pollach, I., 2021. Modern slavery statements: from regulation to substantive 
+supply chain reporting. J. Clean. Prod. 313, 127872 .
+Scott, W.R., Davis, G., 2015. Organizations and Organizing: Rational, Natural and Open 
+Systems Perspectives. Routledge, NY . 
+Shilling, H.J., Wiedmann, T., Malik, A., 2021. Modern slavery footprints in global supply 
+chains. J. Ind. Ecol. 25, 1518 – 1528 .
+Shiu, J.-M., Dallas, M.P., Huang, H.-H., 2023. A friend of a friend? Informal authority, 
+social capital, and networks in telecommunications standard-setting organizations. 
+Technol. Forecast. Soc. Change 189, 122346 .
+Simatupang, T.M., Sridharan, R., 2002. The collaborative supply chain. Int. J. Logist. 
+Manag. 13, 15 – 30 .
+Simpson, D., Segrave, M., Quarshie, A., Kach, A., Handfield, R., Panas, G., Moore, H., 
+2021. The role of psychological distance in organizational responses to modern 
+slavery risk in supply chains. J. Oper. Manag. 67, 926 – 963 .
+Sodhi, M.S., Seyedghorban, Z., Tahernejad, H., Samson, D., 2022. Why emerging supply 
+chain technologies initially disappoint: blockchain, IoT, and AI. Prod. Oper. Manag. 
+31, 2517 – 2537 .
+Solymosi, R., Bowers, K., 2018. The Role of Innovative Data Collection Methods in 
+Advancing Criminological Understanding. The Oxford Handbook of Environmental 
+Criminology, pp. 210 – 237 .
+Stevenson, M., 2022. Hidden in plain sight: the bystander effect and the mobilisation of 
+modern slavery whistleblowing. Supply Chain Manag.: Int. J. 27, 128 – 139 .
+Stevenson, M., Cole, R., 2018. Modern slavery in supply chains: a secondary data analysis 
+of detection, remediation and disclosure. Supply Chain Manag.: Int. J. 23, 81 – 99 .
+Strand, V., Lotfi, M., Flynn, A., Walker, H., 2024. A systematic literature review of 
+modern slavery in supply chain management: state of the art, framework 
+development and research opportunities. J. Clean. Prod. 435, 140301 .
+Stringer, C., Michailova, S., 2018. Why modern slavery thrives in multinational 
+corporations ’ global value chains. Multinatl. Bus. Rev. 26, 194 – 206 .
+Taylor, L.R., Shih, E., 2019. Worker feedback technologies and combatting modern 
+slavery in global supply chains. J. British Acad. 7 (Suppl. issue 1), 131 – 165 .
+Touboulic, A., Walker, H., 2015. Theories in sustainable supply chain management: a 
+structured literature review. Int. J. Phys. Distrib. Logist. Manag. 45, 16 – 42 .
+Wernerfelt, B., 1984. A resource-based view of the firm. Strateg. Manag. J. 5, 171 – 180 .
+Cory Searcy is a professor of industrial engineering at Toronto Metropolitan University 
+(TMU). He currently serves as the Assistant Vice-President, International at TMU, as well 
+as a corporate sustainability section editor at the Journal of Business Ethics .
+Pavel Castka is a professor of supply chain management and sustainability at Xi ’ an Jiao -
+tong- Liverpool University (XJTLU), China. He currently serves as Associate Dean for 
+Professional Engagement at International Business School Suzhou (IBSS) as well as com -
+mittee member at TC176, International Organization for Standardization (ISO).
+Grant Michelson is a professor of management at Macquarie Business School, Sydney, 
+Australia. His interests include corporate social responsibility and employee experiences of 
+contemporary workplaces.
+Xiaoli Zhao is an assistant professor of strategic management at Xi ’ an Jiaotong-Liverpool 
+University (XJTLU), China. Her interests include strategic aspects of networks providing 
+plant-based dietary alternatives, wisdom leadership and international joint venture 
+management.
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+16

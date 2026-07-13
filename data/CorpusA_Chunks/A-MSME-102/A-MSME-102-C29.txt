@@ -1,0 +1,77 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C29
+Parent Doc ID: A-MSME-102
+Page Range: Page 42 to Page 43
+Word Range: 7679 - 7928
+Word Count: 250
+--------------------
+
+[Page 42]
+42
+Additionally, credit growth in the Micro and Small and Medium Segments from September 
+2020 to September 2024, at a CAGR of 17.15% and 29.08%, respectively, was much higher 
+than the industrial average of 7.64%.
+However, even with these metrics of rising credit availability to MSMEs, there has been high 
+incidence of credit gap in the sector. The perception of SMEs as high-risk and commercially 
+unviable entities has resulted in limited SMEs receiving formal financial assistance (Ambrose, 
+2012). Indian banks, in particular, are hesitant to finance small enterprises due to reasons such 
+as the inability to provide collateral, high levels of nonperforming assets, high transaction 
+costs, and difficulties in verifying the creditworthiness of applicants (Prasad, 2006). Along with 
+this, the financial services that banks offer are often insufficient to meet the needs of early-
+stage SMEs in India (Banerjee, 2006).
+₹80 Lakh crores
+FY21 MSME credit
+Total MSME demand of debt ₹69.3 lakh crore as of FY 17
+Formal sources of ₹10.9 lakh crore
+Increased to
+Informal sources/Credit Gap MSME 
+demand of ₹58.4lakh crores
+The credit gap is met 
+through informal sources
+Source: IFC Report on Financing India’s MSME Nov 2018; Industry Report on Small Business Loans in India, Five-Star Business Finance and 
+CRISIL, November 2021 
+In fiscal 2017, only 16% of the Rs 69.3 trillion MSME credit demand was met through formal 
+financing, leaving a credit gap of Rs 58.4 trillion, primarily filled by informal sources with 
+interest rates of 30% to 60%. The gap widened further due to the 2020 economic slowdown 
+and the COVID-19 pandemic. Despite relief from schemes like ECLGS, by fiscal 2021, only 19% 
+of the Rs99 lakh crore credit demand was formally met, with CRISIL estimating the credit gap 
+to have grown to Rs80 lakh crore.
+Accessing external finance from sources other than banks is costly, limited, and poses a 
+challenge to SMEs despite being essential for long-term growth and goals (Biswas, 2014). 
+Due to constraints in accessing bank credit, MSMEs are forced to employ alternative sources 
+of finance. While accessing finance from formal institutions, MSMEs face several barriers, 
+including the need for collateral or guarantees, inflexible policies, high lending rates, lengthy 
+procedures, entrepreneurs' limited financial knowledge of available schemes, high service fees 
+and complex regulatory frameworks (Singh & Wasdani, 2016) , (Ambrose, 2012)). This restricted 
+access to financial resources hampers the growth and survival prospects of Indian MSMEs. 
+Barriers have also been examined in the context of gender (Irwin & Scott, 2010), firm size, the
+
+[Page 43]
+43
+length of lending relationships, and the use of overdraft credit (Bebczuk, 2004). The Reserve 
+Bank of India (2005) has identified several issues in financing SMEs, including inadequate 
+access to finance for small firms due to a lack of financial information and non-formal business 
+practices, limited access to private equity, venture capital, and secondary market instruments, 
+fragmented markets for inputs and vulnerability of products to market fluctuations, limited 
+access to technology and product innovations, lack of awareness of global best practices, and 
+significant delays in settlement of dues and payment of bills by large-scale buyers. A reduction 
+in the cost of credit, time barriers and documentation is necessary to ease the procurement of 
+finance (Grant Thornton, FICCI, 2011)
+Some of the reasons for the low financial inclusion of SMEs are no effective management tool 
+in place, lack of knowledge of banking guidelines, and ineffective mechanisms to weigh the 
+creditworthiness of the company (Subramanian & Nehru, 2012). To increase access to finance, 
+confidence in the abilities of MSMEs and remedial measures for investors is necessary.
+To increase access to finance, confidence in the abilities of MSMEs and 
+remedial measures for investors is necessary.
+Skill Gap3.
+Between 2014 and 2022, the number of skilled employees in medium, small, and large 
+enterprises witnessed significant growth, with increases of 19.94%, 20%, and 12.72%, 
+respectively, as reported in the World Bank Enterprise Survey data. 
+Large enterprises Medium enterprises Small enterprises 
+19.94%12.72% 20%
+Nonetheless, the increase in skilled labour is relatively modest compared to the development 
+pace seen in the past decade. A significant mismatch exists between the quantity and 
+calibre of available skills and the skills needed. This discrepancy is highlighted by the Global 
+Innovation Index ranking (WIPO, 2023), revealing a 3.9 percentage point decline in knowledge-
+intensive hiring from the already modest 12.96% recorded in 2022. This continues to hinder 
+the development of MSMEs.

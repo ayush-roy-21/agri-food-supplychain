@@ -1,190 +1,119 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-107-C08
 Parent Doc ID: A-RES-107
-Page Range: Page 15 to Page 16
-Word Range: 12570 - 14090
-Word Count: 1,521
+Page Range: Page 3
+Word Range: 1961 - 2210
+Word Count: 250
 --------------------
 
-[Page 15]
-Marques et al. 1071
-Figure 2. Conceptual framework.
-PROPOSITION 4. The victimisation of focal ﬁrms and diver-
-sion of attention to consumers (‘unwilling to pay’) and sup-
-pliers (‘not behaving as expected’) conﬁgure the drivers of
-organisational misconduct that support focal ﬁrm decoupling
-(policy–practice).
-Although the mechanisms depicted in Propositions 1–4 do
-not ensure modern slavery, they eroded the assurance that
-modern slavery could be under control. Complexity related to
-the fact that in isolation, each brand was not to blame. Rather,
-industry-wide practices produced price pressure and demand
-instability, which hurt the supply chain, pushing suppliers to
-engage with informality (Soundararajan et al., 2021) and thus
-providing fertile soil for modern slavery. However, blurred lia-
-bility and focal ﬁrm practices that eroded margins, intensiﬁed
-pressure on suppliers, and could lead to working condition
-infringements were less likely to be systemically challenged.
-As a result, focal ﬁrms did not engage in reﬂections regard-
-ing their own commercial practices (Meehan and Pinnington,
-2021).
-Modern slavery instances tend to spread in the supply
-chain, worsening during crises, such as COVID-19 (Cole
-and Shirgholami, 2021), but advancing as a gradual, con-
-tinuous threat (Stevenson, 2022). In this scenario, supply
-chain transparency is promised and implied but never truly
-conﬁrmed (Meehan and Pinnington, 2021). Our ﬁnal propo-
-sition summarises decoupling’s impact on the risk of modern
-slavery:
-P
-ROPOSITION 5. Supplier decoupling (means–ends) and
-focal ﬁrm decoupling (policy–practice) increase the risk of
-modern slavery.
-In Figure 2, we return to the iceberg analogy, with the ﬁve
-propositions and a conceptual framework.
-6 Conclusion
-Thus far, little research has focused on the justiﬁcations that
-focal ﬁrms provide for not investing in supply chain trans-
-parency. The OSCM scholarship will continue to provide an
-‘unhelpful caricature’ of the problem without an in-depth anal-
-ysis of ‘the organisational and supply chain dynamics that give
-rise to it; and the business actors and models through which
-it ﬂourishes’ (Caruana et al., 2020, p. 252). Our study sheds
-light on the dynamics that allow organisational misconduct
-and decoupling to persist, particularly in the Global South
-context (Huq and Stevenson, 2018; Nath et al., 2020). In this
-way, we offer a methodological contribution to our ﬁeld by
-conducting IBR.
-Only extreme cases of opportunism become public. By
-the same token, most occurrences of misconduct pass unno-
-ticed. In both cases, most incidents are opaque, as (a) per-
-petrators try to hide them due to social desirability, and (b)
-potential informants and whistle-blowers often see the costs
-as higher than the beneﬁts of denouncing. However, there
-is a key difference between the two: While opportunism
-looks at wrongdoing due to self-interest, making it an inside-
-out perspective (Lumineau and Oliveira, 2020), organisa-
-tional misconduct looks at wrongdoing as socially constructed,
-therefore making it an outside-in perspective (Greve et al.,
-2010).
-When misconduct is a widespread practice, addressing it
-requires systemic interventions. Focal ﬁrms are the supply
-chain leader, engaging in explicit coordination and hold-
-ing the most power. Thus, as much as they can support
-small suppliers, they can also impose on them disadvan-
-tages if misconduct is accepted (Glover and Touboulic, 2020).
-Although our ﬁeld has devoted increasing attention to the
-role of social dynamics (Kim et al., 2011; Marques et al.,
-2020), there is scant research on how misconduct becomes
-
-[Page 16]
-1072 Production and Operations Management 34(5)
-widespread in supply chains (Skilton and Bernardes, 2022).
-W e address this based on theory elaboration, and we offer ﬁve
-propositions.
-In our ﬁrst proposition, we argue for the limitations of
-blockchain solutions in reducing transaction costs. W e show
-that a lack of trust leads to governance costs that outweigh the
-potential for reducing audit costs (Murray et al., 2021). High
-governance costs call for coopetition. Our conclusions clash
-with those of OSCM research that has focused on the beneﬁts
-of blockchain (Saberi et al., 2018; Treiblmaier, 2018). Such
-ﬁndings have strong implications for practice. Blockchain
-projects must incorporate governance and implementation
-costs, which can only be accomplished with industry-level
-adoption.
-W e then provide four propositions that unpack the underly-
-ing reasons why transaction costs alone cannot explain barriers
-to supply chain transparency and why the project was hijacked
-by drivers of organisational misconduct deeply rooted in the
-sector’s culture that allowed decoupling to emerge, perpetuat-
-ing the risk of modern slavery. The ﬁndings inform practice
-by showing that decoupling should be addressed within focal
-ﬁrms’ realms as much as along the supply base. However,
-we offer guidance not only to practice but also to policy. If
-industry-level misconduct is not addressed by policy, and mal-
-practice is widespread, no focal ﬁrm can be easily blamed in
-isolation.
-Our study resonates with previous research on whistle-
-blowing. Whistle-blowers have often been framed as ille-
-gitimate and have suffered retaliation. Moreover, retalia-
-tion has been stronger when whistle-blowers have disclosed
-information about systemic and deep-seated wrongdoing
-as opposed to isolated incidents (Kenny, 2018). Our work
-reveals how organisational misconduct blocks an interven-
-tion that would allow workers’ voices to be heard and expose
-well-established detrimental practices towards suppliers and
-workers.
-Could blockchain technology offer a complement to
-whistle-blowing strategies as a crowd-sourced worker voice?
-According to Reinecke and Donaghey (2020, p. 28), ‘Ideally,
-worker-driven supply chain governance will involve worker
-v o i c e a c r o s s d i f f e r e n t l e v e l s ( ...) a n d g i v i n g t h e m a n a c t i v e
-role in monitoring and enforcement ensures accountability
-towards the intended beneﬁciaries of decent work initiatives
-– the workers themselves’. W e show that any socio-technical
-solution must build a common ground to pacify different
-stakeholders with competing demands (e.g., labour, capital,
-consumers) if we are to advance to a more transparent and
-fairer society. Future research should dig further into how tech-
-nology can complement traditional whistle-blowing strategies
-to support workers’ voices in supply chains (Stevenson, 2022).
-Y et, technology can only serve fairness and justice if we trig-
-ger a shift away from labour as risk towards labour as care
-and stewardship (Caruana et al., 2020). Without the social
-dimension, the technical dimension is powerless (Mithas et al.,
-2022).
-W e advance OSCM research on modern slavery. Despite
-the ﬁt between OSCM and modern slavery research, the ﬂow
-of people in supply chains has been overlooked compared to
-the ﬂow of goods. Caruana et al. (2020) called for horizon-
-tal (vs. vertical), multitier (vs. singular), and bottom-up (vs.
-top-down) conceptions of supply chain relations. Our work
-also dives deeply into such relations. W e show convergence
-among focal ﬁrms in building a discourse that shifts liability
-to both ends of the supply chain: ‘consumers are unwilling to
-pay’ and ‘suppliers are hard to trace’. The endorsement of such
-discourse, however, is not explicit.
-Recent research has discussed the failure of interventions
-to address modern slavery due to the stickiness of a dominant
-logic. Hasle and V ang (2021) called for unpacking how this
-dominant logic obstructs decent work interventions. In our
-study, we unpack the mechanisms through which the follow-
-ing problem can be answered: ‘While buyers typically blame
-suppliers for decoupling, the problem is in reality related to
-the fact that both buyers and suppliers pursue strategies based
-on cost-cutting’ (Hasle and V ang, 2021, p. 59). W e expose
-a dominant logic deeply rooted in organisational misconduct
-that is widespread among focal ﬁrms. Focal ﬁrms associate
-instances of modern slavery with supplier misconduct or acci-
-dents rather than reﬂecting on their own practices. They also
-tend to blame the complexity and costs associated with trans-
-parency when explaining their supply chain opacity (Chen
-et al., 2022). Thus, a victimisation discourse serves as the
-‘alibi’ they need. Future research could look at the condi-
-tions that can break this dominant logic and reshape ﬁrm
-behaviour.
-Our work reveals the underlying social conditions of mod-
-ern slavery in the Global South supply chains. The reconceptu-
-alisation of the Global South under a postcolonial framework
-explores the notions of mimicry and hybridity (Özkazanç–
-Pan, 2008). Mimicry emerges as the attempt of the coloniser
-to make the colonised copy their culture. Furthermore, to
-dominate lands and people by way of mimicry, the coloniser
-needs the colonised nation to be articulated as a homoge-
-neous space. Meanwhile, according to the notion of hybridity,
-(supply chain) practices emerge through encounters rather
-than through static, nation-based cultural differences. Future
-research could utilise a postcolonial lens in considering ways
-of reframing capital–work relations and supply chain power
-dynamics that sustain organisational misconduct and hinder
-workers’ voices.
-Predominantly, OSCM scholarship seems to echo focal
-ﬁrms’ voices and reasoning, positioning misconduct at the feet
-of suppliers rather than the other way around. If we do not truly
-change and ensure that suppliers and workers are heard, the
-behind-the-scenes truth in fashion will never meet the eyes of
-society.
-Declaration of Conﬂicting Interests
-The authors declared no potential conﬂicts of interest with respect to
-the research, authorship, and/or publication of this article.
+[Page 3]
+Marques et al. 1059
+at the supplier (means–end decoupling) and at the focal ﬁrm
+(policy–practice decoupling).
+The Global South offers opportunities to research unstable
+macroeconomic conditions and unique social issues (Aguinis
+et al., 2020; Özkazanç-Pan, 2008). OSCM scholarship has so
+far emphasised the misbehaviour of Global South suppliers
+as the key cause of unsustainability (see: Asif, 2020; Vil-
+lena, 2018) while proposing that Global North focal ﬁrms
+are the ones responsible for changing the status quo (see:
+Gold et al., 2013; Villena and Gioia, 2018). The predomi-
+nant assumptions have ascribed power and autonomy to focal
+ﬁrms while blaming weaker partners in the Global South
+for risks related to greenwashing or modern slavery condi-
+tions (Carmagnac et al., 2022; Glover and Touboulic, 2020).
+Y et, (North)buyer–(South)supplier relationships are often dis-
+guised as collaborative, even though they are actually detri-
+mental to the supplier side (Chen et al., 2022). Moreover,
+focal ﬁrm collaboration through third-party certiﬁcation can
+‘fracture over time’, therefore ‘eroding’ trust in joint auditing
+efforts (Benstead et al., 2018, p. 2307). The failure of supplier
+audit schemes has often been used an excuse to support the vic-
+timisation of focal ﬁrms (Parmigiani and Rivera-Santos, 2015;
+Silvestre, 2015; Wu and Jia, 2018). Thus, our work offers a
+critique of such dynamics, exposing focal ﬁrm liability for per-
+petuating unfair purchasing practices that lead to decoupling
+and modern slavery risk.
+In the remainder of this article, we discuss the theoretical
+background, followed by the methodology and the elements of
+IBR. Next, we present the ﬁndings and discussion, including
+ﬁve propositions. Finally, conclusions are provided along with
+future research directions.
+2 Theoretical Background
+2.1 T ransaction Costs in Supply Chain T ransparency
+Transaction costs include the costs of negotiating, implement-
+ing and monitoring a focal ﬁrm’s supply contracts (Emery
+and Marques, 2011). Transaction costs are driven by bounded
+rationality and opportunism. The former assumes that cog-
+nitive competence is a limited resource. Thus, transactions
+that demand signiﬁcant cognitive capacity will tend to be
+costly, and contracts will be incomplete (Williamson, 2008).
+The latter assumes that economic actors pursuing self-interest
+may engage in incomplete or distorted information disclosure
+(McIvor, 2009). Bounded rationality and opportunism thus
+increase transaction costs, which are barriers to market gov-
+ernance. As noted by Lumineau and Oliveira (2020, p. 74),
+‘if individuals never engaged in opportunistic behaviour, then
+the market would sufﬁce for the mediation of all transactions’.
+Therefore, focal ﬁrms tend to be attracted by alternatives,
+such as those offered by new technology, which can alleviate
+transaction costs.
+Opportunistic behaviour and the associated transaction
+costs that are incurred to prevent it from happening have
+been widely discussed. Moreover, transaction cost theory has
+become a top-of-mind lens in OSCM scholarship (Touboulic
+and Walker, 2015b), which has expanded on the notions
+of transaction costs from the dyad to discussing challenges
+related to multitier supply chains (Meinlschmidt et al., 2018).
+In the Global South context, research has emphasised insti-
+tutional voids, that is, the lack of legislation enforcement,
+mock compliance from suppliers and focal ﬁrms’ disregard for
+supplier violations, all pointing towards supplier opportunism
+(Huq and Stevenson, 2018). In 2020, Lumineau and Oliveira
+(2020) called for an increased focus the study of opportunism
+and for future research on new technologies (e.g., blockchain).
+The authors also invited research on empirical contexts
+beyond the US and Europe. The more complex the supply
+chain, the higher the transaction costs will be to control suppli-
+ers and the higher the information asymmetry, which prevents
+the exposure of organisational misconduct. Information asym-
+metry thus hinders public scrutiny and supports misconduct
+(Marshall et al., 2016).
+Fashion supply chains are particularly salient regarding
+misconduct for two main reasons. First, misconduct is par-
+ticularly hard to trace, given its complexity and dispersion,
+and modern slavery often does not occur within the focal
+ﬁrms’ direct purview but rather beyond the ﬁrst-tier suppli-
+ers (Busse et al., 2016; Nath et al., 2020; Tachizawa and
+W ong, 2015). Further, multi-sourcing is a common practice
+in the fashion industry, and such strategies have been posited
+as a way to conceal buyer misconduct (Kim et al., 2019).
+Multi-sourcing accompanied by multitiered structures thus
+concentrate the labour force in labour-intensive (tier-2) sewing
+cells,
+4 also called sweatshops to denote modern slavery. In
+these sewing cells, which are mostly located in low-cost coun-
+tries, informal arrangements prevail and fragile regulation
+limits social control. Ultimately, supply network complexity
+may result in a strain between the means and ends, which
+may be used as justiﬁcations for inaction (Caruana et al.,
+2020).
+The second reason fashion supply chains are rife with mis-
+conduct is the difﬁculty in deﬁning how unacceptable working
+conditions must be to constitute modern slavery. Modern
+slavery involves workers’ physical and mental conditions at
+work (Christ et al., 2020). Even when freedom of move-
+ment may be preserved, precarious working conditions may
+constitute modern slavery (Kahya, 2007; Wiengarten et al.,
+2021). Appendix 1 presents the associated terminologies (see:
+e-companion).
+Improving supply chain transparency to trace instances of
+less-extreme versions of poor working conditions in supply
+chains can reveal darker versions of forced labour, which are
+the most difﬁcult to expose. Tracing modern slavery within
+multitiered structures is a particular challenge (Busse et al.,
+2016). The transaction costs of third-party audits are high,
+even for large focal ﬁrms that resort to cooperation and
+resource sharing in audit schemes (Benstead et al., 2021).
+However, some large focal ﬁrms have developed their own
+standards based on the argument that there is no one-size-

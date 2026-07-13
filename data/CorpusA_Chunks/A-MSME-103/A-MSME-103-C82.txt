@@ -1,0 +1,129 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-103-C82
+Parent Doc ID: A-MSME-103
+Page Range: Page 67
+Word Range: 23649 - 23898
+Word Count: 250
+--------------------
+
+[Page 67]
+Strategy for unlocking export potential for MSMEs in West Bengal
+67  Index No. Weights 2020 2021 2022 Coastal Average 
+(2022)
+National Average 
+(2022)
+Indicator Definition/Clarification
+2.3 Transport 
+Connectivity
+(15%)
+ 53.32 33.86 28.94 58.63 32.10  For businesses to be able to export, access to reliable modes of transport 
+is necessary. Therefore, to evaluate a state’s connectivity, this subpillar 
+evaluates the number of Air cargo terminals, logistics parks, inland 
+container depots, and storage facilities present in the state in the shape 
+of cold storage and warehouses. 
+2.3.1 2.75 82.60 82.60 50.00
+  
+LEADS index
+LEADS makes a perception-based assessment of international 
+trade logistics across Indian states and UTs – focusing on users and 
+stakeholders. It also provides indicator-level assessments of performance 
+on specific dimensions.
+2.3.2 
+2.3.2.1
+ 
+2.75 0 0 1.37
+  Multi-Modal Logistics Hubs 
+(MMLH)
+Whether State has Free Trade 
+Zones (FTZ), Free Trade 
+Warehousing Zones (FTWZ) and 
+Integrated Logistics Parks, if yes 
+how many ?
+The indicator captures how MMLH and Free Trade Zones (FTZ), Free 
+Trade Warehousing Zones (FTWZ) and Integrated Logistics Parks cater to 
+exports of region
+2.3.3
+ 
+2.3.3.1
+ 
+2.75
+ 
+8.84
+ 
+0.28
+ 
+11.11
+ 
+ 
+ 
+ 
+Air Cargo facilities
+What is the number of 
+Operational Air cargo terminals?
+The indicator identifies the number of air cargo terminals in a state to 
+assess its air connectivity.
+2.3.4 1.75 0 0 5.52
+  What is the area covered by 
+Inland container depots in a 
+state?
+The last leg of the supply chain, denoting the transportation of goods 
+from a transportation hub to its final destination. This final destination 
+could be the location of an end customer or inland container depots 
+(ICDs)
+2.3.5 
+2.3.5.A
+2.3.5.B
+ 
+1.5
+1.5
+ 
+ 
+ 
+ 
+26.40
+36.61
+ 
+ 
+ 
+ 
+Cold Storage Facility
+What is the number of Cold 
+storage facilities in a state?
+What is the capacity of Cold 
+storage facilities (in MT)?
+Cold storages minimizes wastage & ensures easy availability of packaged 
+or processed food to end-users. It will allow the exporters to preserve 
+perishable items fresh in case there is a delay in flight movement or 
+consignments missed the flight.
+ 
+2.3.6 
+2.3.6.A
+2.3.6.B
+ 
+1.5
+1.5
+ 
+ 
+ 
+ 
+0.60
+0
+ 
+ 
+ 
+ 
+Export oriented Warehousing 
+facility
+What is the number of 
+warehouses (for export 
+purposes)?
+What is the capacity of 
+warehouses (in MT)?
+The warehouses are to be appointed/ licensed at particular places only 
+which have been so declared by Central Board of Excise and Customs. 
+Warehouse can be defined as the commercial building or godown for 
+storage of goods. It is used for storing the goods by traders that will be 
+distributed later. It is mainly used for preventing losses and damages 
+that may arise out of defective and unsecured storage. Traders usually 
+store the cargo in a warehouse and get it released when it is required for 
+manufacturing or sales.

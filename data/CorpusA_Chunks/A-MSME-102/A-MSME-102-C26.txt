@@ -1,0 +1,119 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C26
+Parent Doc ID: A-MSME-102
+Page Range: Page 40 to Page 41
+Word Range: 6925 - 7174
+Word Count: 250
+--------------------
+
+[Page 40]
+40
+provides Unique Registration Numbers (URN) and Udyam Assist Certificates (UAC). URN is 
+crucial for MSMEs to access priority sector lending. However, several of the estimated 6.34 
+crore MSMEs, mainly Informal Micro Enterprises (IMEs), remain unregistered due to various 
+barriers. To help IMEs formalize, an ‘Assist Methodology’ is proposed. Designated Agencies 
+(DAs) like banks, NBFCs, and MFIs will assist IMEs in registration. The central URN will play 
+a key role in MSME formalization, making Udyam-registered IMEs eligible for priority sector 
+loans and facilitating digitalization  (MSME Formalisation project, 2023). Along with this, GST 
+has eased tax compliance and influenced formalization. However, stringent labour laws, tax 
+burden, complex regulations and extensive costs as a result of formalization acts as deterrents 
+for the formalization of MSMEs
+Adoption of an all-of-economy approach that addresses a multitude of challenges faced by 
+enterprises at all levels- from reasons to stay unregistered and issues after formalization to 
+assessing the degree of formalization necessary in an economy is vital.
+
+[Page 41]
+41
+Access to Finance2.
+Released by RBI, Statements I and II set out data on the sectoral deployment of bank 
+credit collected from 41 select scheduled commercial banks, accounting for about 95% of 
+the total non-food credit deployed by all scheduled commercial banks.
+A compilation of data from these statements for the latest month, which is September, in 
+conjunction with older data released by RBI for the same months in the past four years, shows 
+that the credit share of 
+14%
+in September 
+2020 to 20%
+in September 
+2024
+Micro and Small enterprises has consistently increased, rising from
+to
+While the growth is slower compared to micro and small enterprises, the share of medium 
+enterprises has gradually increased from 4% in September 2020 to 9% in September 2024. 
+This reflects a positive trend for MSMEs in terms of bank credit deployment. Efforts by 
+financial institutions and governments to enhance credit flow to these sectors have been 
+successful. 
+Change in share of 
+Sectoral Deployment 
+of bank credit in the 
+across industries
+Fig. 4
+Sep,2020
+Mar,2021
+Sep,2021
+Mar,2022
+Sep,2022
+Mar,2023
+Sep,2023
+Mar,2024
+Sep,2024
+0%
+20%
+40%
+60%
+80%
+100%
+Source: RBI Sectoral 
+Deployment of Bank 
+Credit – September 
+2024, September 2023, 
+and September 2022
+Micro and Small
+Medium
+Large
+14
+82
+4 5 6 7 8 8 8 8 9
+15
+81
+16
+78
+17
+76
+18
+74
+19
+73
+19
+73
+20
+72
+20
+71
+CAGR of the Sectoral 
+Deployment of Bank 
+Credit
+Fig. 5
+Industry Micro and Small Medium Large
+Source: RBI Sectoral 
+Deployment of Bank Credit – 
+September 2024, September 
+2023, and September 2022
+Sep 2020 to Sep 2024
+Mar 2021 to Mar 2024
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+7.64%
+7.15%
+29.08%
+4.11%
+7.57%
+18.80%
+29.93%
+3.54%

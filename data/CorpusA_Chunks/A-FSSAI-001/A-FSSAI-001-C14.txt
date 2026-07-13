@@ -1,107 +1,59 @@
 --- CHUNK HEADER ---
 Chunk ID: A-FSSAI-001-C14
 Parent Doc ID: A-FSSAI-001
-Page Range: Page 39 to Page 40
-Word Range: 18725 - 20004
-Word Count: 1,280
+Page Range: Page 5
+Word Range: 3406 - 3703
+Word Count: 298
 --------------------
 
-[Page 39]
-¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 103
-(2) V ocalization is an indicator of animal discomfort and need to be watched for.
-(3) Use of electric pods for moving animal should be discouraged. Movement of animals can be managed by
-grouping, use of plastic wrapped sticks etc.
-(4) Pen stocking density should be monitored. All animals should have room to lie down simultaneously. The
-condition of animals arriving for slaughter should be closely monitored so that injured, diseased animals are not
-slaughtered.
-(5) High pitch sounds such as whistling and yelling should be avoided to spare distress to animals.
-b. The following factors have been identified as critical to animal welfare:
-(a) supervision and training of employees.
-(b) Designing of animal transport cart and unloading bay.
-(c) Proper construction of holding/resting pen, stunning box, maintenance of stunning equipment,
-restraining systems, gates and other animal handling equipment.
-(d) Avoiding distractions that make animals refuse to move.
-(e) Monitoring the condition of animals arriving at the plant.
-(f) Proper design of equipment in the slaughter house.
-Keeping this in view, the following need to be observed to ensure humane treatment of animals brought for
-slaughter:—
-z Pre-slaughter handling of animal should be carefully done to reduce stress. Resting of the animals is
-essential. Only animals which are disease free and in a condition to walk should be brought for
-slaughter.
-z Distractions that impede animal movements such as, reflections, air blowing towards animals and
-movement or high pitch noise, need to be avoided. Herding of animals should not be done through
-electric prods but with the help of plastic bags or sticks.
-z A high standard of training is required for employees to ensure that the basic hygiene and safety
-practices are followed while handling animals.
-z Equipment which is used for slaughter such as captive bolt stunner, gates, hooks etc should be kept
-in good working condition and cleanliness of floors etc. needs to be ensured. There should be daily
-check to ensure the smooth working of equipment and cleanliness of floors.
-z The condition of the animals arriving at the plant should be monitored. Animals which are injured or
-not in a condition to walk should not be slaughtered.
-z Inspecting personnel should pay particular attention to these points to ensure reasonable standards
-of animal welfare.
-6. Poultry welfare:
-Welfare programme
-The conditions under which broilers are housed and the way that they are managed during their growing
-phase, transportation and slaughter are set down in several government/industry endorsed Model Codes of Practice
-designed to safeguard their welfare.
-A model welfare program needs to be developed for pick-up, transport and broiler/chicken processing sectors.
-Processing unit shall incorporate elements of this welfare audit in their own quality plans and manuals.
-A Model programme shall envisage following:
-Poultry Suppliers and processors must have a documented program for poultry welfare envisaging following;
-(a) Catching: Poultry intended for slaughter plant should be clean and in good health. Every reasonable
-precaution should be taken to minimize injury to poultry. The catcher needs to be trained to this effect.
-(b) Transport: For transport of poultry crates shall be in good repair. There shall be no crate/cage
-damage that would allow injury to poultry or allow crates to accidentally open. Transport crates should not be
-over-filled and enough space should be provided to allow all poultry to lie down.
-
-[Page 40]
-104 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
-(c) Holding: Poultry held in storage sheds should be provided adequate ventilation and climate control
-such as fans or curtains.
-(d) Stunning: Stunning equipment should be properly maintained to confirm that poultry are insensible
-prior to slaughter, and the time between stunning and slaughter should be limited to minimize any likelihood
-that poultry may regain consciousness prior to slaughter.
-Economic performance and welfare:
-High standards of poultry welfare and high levels of flock performance and economic performance are not
-incompatible - quite the contrary, they go hand in hand. It simply makes good economic sense as well as being in the
-poultry's best interests to ensure that flocks are maintained in an environment, in which they are thermally comfortable,
-protected from injury, fed optimally and kept healthy. Therefore, all measures described elsewhere to ensure that
-chickens are kept in conditions which optimize their comfort (in terms of temperature, humidity, air flow and air
-quality), in which they are provided with water, shelter, and a high quality diet that matches their physiological
-needs, and which optimize their health have just as important effect in terms of poultry welfare as they do on the
-overall efficiency of the farming operation.
-Poultry health and welfare:
-When producing chicken meat in a welfare-friendly manner it is also important that the poultry receive prompt
-and appropriate medication and treatment to prevent and treat diseases if this should become necessary, and that
-they do not suffer any unnecessary pain, distress, fear or physical injury. It is also important that sick or injured
-poultry that cannot be adequately or successfully treated are culled quickly and in a humane manner so that they do
-not suffer.
- Humane slaughter (poultry):
-While the chickens are reared specifically for human consumption and they therefore at some stage have to
-be slaughtered, they should be slaughtered in a humane manner, and all poultry should be stunned (rendered
-insensible to pain) prior to slaughter.
-Slaughter equipment at all supply facilities should be properly maintained to confirm that the poultry are
-slaughtered quickly.
-7. Ante-mortem inspection
-(1) All animals shall be rested before slaughter and shall be subjected to ante-mortem examination and inspection
-well in advance of the time of slaughter.
-(2) No animal which has been received into a slaughter hall for the purpose of being slaughtered shall be removed
-from the slaughter hall before being slaughtered except with the written consent of the Qualified V eterinary Doctor. An
-animal which, on inspection is found to be not fit for slaughter shall be marked as "suspect" and kept separately. Each
-such animal shall be marked as "suspect" only by or under the personal supervision of the Qualified Veterinary Doctor
-and the marking shall not be removed or obliterated except by the Qualified Veterinary Doctor himself.
-(3) An animal showing signs of any disease at the time of ante-mortem inspection that would cause its carcass being
-ultimately condemned on post-mortem shall be marked as "condemned" and rejected.
-(4) An animal declared as "suspect" on ante-mortem inspection but which does not plainly show any disease or
-condition that would cause its entire carcass to be condemned shall maintain its identity as "suspect" until its carcass and
-all organs are finally inspected by the Qualified V eterinary Doctor.
-(5) No animal in a febrile condition shall be permitted for slaughter. No suspect animal shall be slaughtered until all
-other animals intended for slaughter on the same day have been slaughtered. All animals which, on ante-mortem inspection,
-show symptoms of railroad sickness, parturient paresis, rabies, tetanus or any other communicable diseases shall be
-marked as "condemned" and disposed of in accordance with the provisions contained in sub paragraph (8) below.
-(6) Animals presented for slaughter and found in a dying condition on the premises of a factory due to recent
-disease shall be marked as "condemned" and disposed of as provided for "condemned" animals.
-(7) Every animal which, upon examination, is found to show symptoms of or is suspected of being diseased or
-animals declared as "suspect" shall at once be removed for treatment to such special pen and kept there for observation
-for such period as may be considered necessary to ascertain whether the animal is diseased or not.
+[Page 5]
+¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 69
+(6) Food Business Operator having valid certificate of an accredited food safety auditor or from an agency
+accredited by Food Authority or any other organisation notified by food Authority for this purpose will not be
+normally required to be inspected before renewal of license.
+Provided that Designated Officer may order an inspection before renewal if considered necessary for reasons
+to be recorded in writing.
+2.1.8 Suspension or cancellation of Registration Certificate or license
+(1) The Registering or Licensing Authority in accordance with the provisions of section 32 of the Act may,
+after giving the concerned Food Business Operator a reasonable opportunity of being heard, suspend any registration
+or license in respect of all or any of the activities for which the registration/license has been  granted under these
+Regulations after recording a brief statement of the reasons for such suspension, if there is reason to believe that
+the Food Business Operator has failed to comply with the conditions within the period mentioned in any Improvement
+Notice served under Section 32 of the Act. A copy of such statement shall be furnished to the concerned Food
+Business Operator whose Registration or license has been suspended.
+(2) The registering or Licensing Authority, as the case may be, may direct an inspection of the Food Business
+Operator’s premise(s) within a reasonable period which shall not be less than 14 days from the date of order of
+suspension.
+(3) In the event that the Registering or Licensing Authority is of the opinion, on a review of the inspection
+report, that the Food Business Operator has still failed to rectify the defects or omissions or comply with the
+conditions of the improvement notice causing the suspension, such authority may cancel the license/registration of
+the Food Business Operator after giving him an opportunity to show cause as provided under Section 32 (3) of the
+Act.
+(4) Notwithstanding anything contained in these Regulations, the Registering or Licensing Authority may
+suspend or cancel any registration or license forthwith in the interest of public health for reasons to be recorded in
+writing.
+(5) A suspension or cancellation of registration or license under these Regulations shall not entitle the Food
+Business Operator for any compensation or refund of fee(s) paid in respect of the registration certificate or license
+or renewal thereof.
+(6) After a period of 3 months from the date of cancellation under Regulation 2.1.8 (3) above the Food Business
+Operator may make fresh application for Registration or license to the concerned authority if all  observations made
+in the improvement notice have been complied with. .
+2.1.9 Modifications, Expansion or Changes in premise(s) after grant of license or registration
+(1) Food Business Operators shall ensure that the Registering or Licensing Authority always has up-to-date
+information on their food business establishments and shall inform the relevant Authority of any modifications or
+additions or changes in product category, layout, expansion, closure, or any other material information based on
+which the license was granted and such information shall be conveyed before the changes occur.
+Provided that any change that alters the information contained in the license certificate shall require an
+approval or endorsement in license prior to start of business with such changes. The Food Business Operator shall
+submit the original license to the Licensing Authority along with a fee equivalent to one year license fee for effecting
+necessary changes. The licensing Authority may approve and issue an amended license incorporating such changes
+in activities within 30 days from the date of receipt of such information. While approving the afore mentioned
+changes the concerned registering or Licensing Authority shall take into account the feasibility of carrying on the
+business and the legal and other relevant aspects of the desired modifications or additions or changes in activities
+and, if required, may order an inspection of the premises before granting the approval.
+2.1.10 Mode of payment:
+All fees and charges payable under these regulations shall be paid vide pay order or demand draft or any online
+mode of payment as may be prescribed in this regard, by the concerned Food Safety Commissioner.
+2.1.11 Transfer of registration certificate or License in case of death
+(1) In the event of death of the holder of a  Registration certificate or license, such certificate or license shall
+subsist for the benefit of the legal representative or any family member of the deceased or until the expiry of:—

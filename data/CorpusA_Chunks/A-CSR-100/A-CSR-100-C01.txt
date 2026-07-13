@@ -1,9 +1,9 @@
 --- CHUNK HEADER ---
 Chunk ID: A-CSR-100-C01
 Parent Doc ID: A-CSR-100
-Page Range: Page 1 to Page 3
-Word Range: 1 - 1585
-Word Count: 1,585
+Page Range: Page 1
+Word Range: 1 - 250
+Word Count: 250
 --------------------
 
 [Page 1]
@@ -47,95 +47,3 @@ Disciplinary policies and procedures shall be clearly defined and communicated t
  
 DHL GROUP SUPPLIER 
 CODE OF CONDUCT
-
-[Page 2]
-DHL Group Supplier Code of Conduct – Version 2020.5 – Page 2 of 4 
- 
-COMPENSATION AND WORKING HOURS  
-The supplier shall comply with all applicable local laws and mandatory industry standards regarding working 
-hours, including overtime, rest breaks and paid vacation. 
-The supplier shall compensate its workers in accordance with local minimum wage legislation and terms of 
-applicable collective bargaining agreements as well as with industry standards. The supplier shall pay workers 
-in a timely manner and clearly convey the basis on which workers are being paid (i.e. receive employment 
-documents in a language they understand). Deductions from wages as a disciplinary measure shall not be 
-allowed, if not legally permitted. 
-FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING 
-The employees of the supplier must be free to join or not to join a union/employee representation of their 
-choice, free from threat or intimidation. The supplier recognizes and respects the right to collective bargaining 
-in accordance with applicable local laws. 
-DIVERSITY AND INCLUSION 
-The supplier shall promote an inclusive work environment that values the diversity of its employees. 
-The supplier shall be committed to equal opportunities and not discriminate or tolerate discrimination or 
-harassment with respect to gender, ethnic and national origin, race, color, religion, age, disability, sexual 
-orientation and identity, or any other characteristic protected by law. 
-HEALTH & SAFETY  
-We expect our suppliers to strive to implement the standards of occupational health and safety at a high level by 
-applying a health and safety management approach appropriate for the business. 
-The supplier shall comply with applicable occupational health and safety regulations and provide a work environment 
-that is safe and conducive to good health e.g. drinking water, in order to preserve the safety and health of employees, 
-safeguard third parties and prevent accidents, injuries and work-related illnesses. This includes regular workplace risk 
-assessments and the implementation of adequate hazard control and precautionary measures, including the provision of 
-appropriate Personal Protective Equipment (PPE). Employees are to be adequately educated and trained in health and 
-safety issues in a language they understand. 
-DATA PROTECTION, INFORMATION SECURITY, AND DISCLOSURE OF INFORMATION 
-The supplier shall adhere to applicable data protection laws, including security of personal data, as well as to respective 
-regulation, e.g. GDPR, in particular with regard to personal data of customers, consumers, employees and shareholders. 
-The supplier shall comply with all said requirements when personal data is collected, recorded, hosted, processed, 
-transmitted, used or erased. 
-The information security requirements applicable to suppliers with regards to any data entrusted to their control during 
-and after their engagement with DHL Group are based on international standards, such as the Code of Practice for 
-Information Security Management. Suppliers should take account of the need to protect the confidentiality, integrity and 
-availability of information. At all times the required level of information security and control to be ensured by suppliers 
-must be commensurate with the sensitivity, value and criticality of the information being processed throughout the 
-lifecycle of the information. 
-The supplier shall safeguard and make only appropriate use of confidential information. The supplier shall comply with 
-any contractual requirements on data protection and information security and shall not disclose any information that is 
-not known to the general public. 
-BRIBERY AND CORRUPTION 
-The supplier shall comply with all applicable national and international anti-corruption laws and regulations. The 
-supplier shall not (neither directly nor indirectly) offer, provide or accept anything of value to improperly influence an 
-official act or to secure an improper advantage in order to obtain or retain business. This includes so-called facilitation 
-payments or other benefits provided to public officials for routine non-discretionary actions.
-
-[Page 3]
-DHL Group Supplier Code of Conduct – Version 2020.5 – Page 3 of 4 
- 
-TRADE REGULATION 
-The supplier shall comply with all applicable export control, sanctions and customs laws and regulations, including 
-Prohibitions & Restrictions ("Trade Laws"). The supplier in particular ensures that the supplier, its beneficial owner(s), all 
-its agents and any other subcontractors used by the supplier are not listed on any applicable Denied Party sanctions lists. 
-MONEY LAUNDERING & FINANCIAL RECORDS 
-The supplier shall comply with applicable laws and regulations designed to combat money laundering activities. The 
-supplier shall maintain financial records and reports according to applicable laws and regulations. 
-FREE COMPETITION 
-The supplier shall comply with applicable competition and anti-trust laws.  
-CONFLICTS OF INTEREST 
-A conflict of interest is any personal or financial interest, any business or personal activity or relationship, prior or current 
-employment, or any obligation that may interfere with the ability to objectively perform job duties and responsibilities or 
-impair independence and objectivity. Such conflict of interest situations include critical relationships such as a 
-relationship by blood or marriage, partnership, participation or an investment in business partners or competitors. The 
-supplier shall immediately disclose any actual or potential conflict of interest related to its activities with DHL Group. 
-ENVIRONMENT  
-The supplier shall comply with all applicable environmental laws, regulations and standards as well as implement an 
-effective system to identify and eliminate potential hazards to the environment.  
-We expect our suppliers to strive to support DHL Group’s environmental and climate protection commitments through 
-the products and services they deliver, which should be done efficiently by taking the environmental impact into 
-consideration. 
-DHL Group also expects its suppliers to report relevant data on environmental and climate protection upon request. 
-We expect our suppliers to take environmental and climate protection appropriately into account in their own 
-operations, for example, by setting climate protection goals for themselves and achieving them. 
-CONFLICT MINERALS 
-The supplier shall comply with all applicable laws and resulting due diligence obligations with respect to the sourcing of 
-minerals and materials from conflict affected regions and high-risk areas, which may contribute to human rights abuses, 
-corruption, the financing of armed groups or similar negative effects. 
-COMMUNITY OUTREACH 
-DHL Group encourages suppliers to give back to their local communities and engage in initiatives and activities that 
-reflect the UN Sustainable Development Goals. 
-BUSINESS CONTINUITY PLANNING  
-The supplier shall be prepared for any disruptions of its business (e.g. natural disasters, terrorism, supply chain 
-disruptions, communicable disease outbreaks – epidemics or pandemics, information security issues, cyber-attacks). 
-This preparedness includes business continuity plans that protect both employees as well as the environment from the 
-effects of possible serious disruptions that may arise within the domain of operations. 
-BUSINESS PARTNER DIALOGUE 
-The supplier shall implement equivalent standards e.g. ethical standards, to the ones laid out in this SCoC for their own 
-suppliers, as part of fulfilling their contractual obligations.

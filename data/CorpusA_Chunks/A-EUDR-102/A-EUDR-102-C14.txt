@@ -1,0 +1,61 @@
+--- CHUNK HEADER ---
+Chunk ID: A-EUDR-102-C14
+Parent Doc ID: A-EUDR-102
+Page Range: Page 7
+Word Range: 3783 - 4032
+Word Count: 250
+--------------------
+
+[Page 7]
+International Journal of Environmental Sciences 
+ISSN: 2229-7359 
+Vol. 11 No. 11s, 2025 
+https://theaspd.com/index.php 
+ 
+ 
+594 
+ 
+Global South. The discussion herein draws from the synthesis of more than 80 scholarly works, policy briefs, 
+and technical reports, emphasising the regulatory asymmetries, socio -economic consequences, and 
+institutional gaps that affect compliance outcomes and sustainability trajectories.The first dimension that 
+emerges from the analysis is the structural imbalance between regulatory expectations and on-the-ground 
+capacities of smallholders in tropical commodity -producing countries. While EUDR promotes trace ability 
+and legality in global value chains, its operational mechanisms largely assume a level of technological and 
+administrative sophistication rarely accessible to small-scale producers (Melati & Jintarith, 2024; Naranjo et 
+al., 2024). Most smallholders operate outside formal cadastral systems and lack the GPS mapping, digital 
+reporting tools, or certification frameworks required to demonstrate compliance (Arenas Alonso, 2024; 
+Gallemore et al., 2025) . Consequently, these actors find themselves excluded from regulatory design and 
+vulnerable to supply chain marginalisation, a dynamic that exacerbates their historical peripheral position in 
+global trade structures (Sorokin, 2024).Moreover, the cost of compliance creates a disproportionate economic 
+burden. The literature consistently identifies increased production costs ranging from 10% to 30% due to 
+documentation, auditing, and monitoring requirements associated with EUDR enforcement (van Vliet et al., 
+2021). This is especially problematic given that smallholder incomes already hover near subsistence levels in 
+many producer countries. For instance, cocoa farmers in Ghana and Côte d’Ivoire often earn below USD 
+1.20 per day, well under the World Bank’s poverty threshold (Boysen et al., 2023). When required to absorb 
+additional compliance costs without systemic support or price premiums, these farmers may be compelled to 
+exit the formal market altogether.In addition to direct economic impacts, institutional deficiencies in 
+producing countries magnify the regulatory burden. Government agencies tasked with facilitating land 
+registration, legal compliance, and deforestation monitoring are frequently under -resourced and plagued by 
+overlapping jurisdictions (Reydon et al., 2020) . The lack of integrated land -use databases and transparent 
+legal frameworks makes it difficult to issue timely verification or compliance certificates, especially in remote 
+rural regions. As a result, a system that purports to be neutral and objective becomes selectively exclusionary, 
+privileging exporters with access to international certification schemes and digital infrastructures (Furumo et 
+al., 2024) .Another recurring theme in the literature is the power asymmetry in environmental standard -
+setting, which frames the EUDR as a manifestation of “green neo-colonialism.” Scholars argue that while the 
+regulation advances environmental objectives, it does so  by imposing unilateral rules without adequate 
+consultation with affected stakeholders in the Global South (Bruckner et al., 2023). This reproduces colonial 
+dynamics wherein Northern institutions define what is deemed sustainable, effectively externalising the cost 
+of transition onto producers who historically contributed least to global deforestation (Verhaeghe & 
+Ramcilovic-Suominen, 2024) . For example, while EU policymakers emphasise traceability, they rarely 
+acknowledge the embedded inequalities in land governance, labour relations, and capital access that shape 
+compliance capacity (Luetkemeier et al., 2021) .In this context, EUDR’s implementation risks reversing 
+progress made in inclusive development models. Many donor-funded sustainability schemes, such as Fairtrade 
+or Rainforest Alliance , prioritise participatory approaches, shared value, and capacity -building. However, 
+EUDR’s punitive approach threatens to displace these by imposing binary compliance outcomes that do not 
+accommodate the lived realities of smallholder production systems (Von Loeper et al., 2016) . Smallholders 
+cultivating less than two hectares of land are often embedded in complex agroecological and socio -cultural 
+contexts that defy simple monitoring techniques or legal classifications (Duffy et al., 2021).A nuanced insight 
+from this review is the potential for differentiated compliance pathways to mitigate exclusion. Several sources 
+document pilot programs in Southeast Asia and Latin America where flexible verification models combined 
+with cooperative certification and NGO facilitation  significantly improve smallholder compliance rates 
+(Carlson et al., 2018) . Such interventions, when aligned with financial incentives and local participation,

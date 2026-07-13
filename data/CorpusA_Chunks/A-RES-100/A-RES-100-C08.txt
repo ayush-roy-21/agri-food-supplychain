@@ -1,0 +1,38 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C08
+Parent Doc ID: A-RES-100
+Page Range: Page 11
+Word Range: 2292 - 2651
+Word Count: 360
+--------------------
+
+[Page 11]
+Yet optimism is tempered by clear barriers. Respondents identified infrastructure gaps, high upfront costs,
+and range limitations as the most pressing obstacles. Regional differences again shape the outlook: North
+American firms are most concerned with cost and industry resistance, while European respondents highlight
+regulatory support, reliability, and return on investment.
+Despite these challenges, companies are prioritizing action. Operational efficiency, such as route
+optimization, load consolidation, and fuel management, was ranked as the most important near-term
+strategy, delivering cost savings alongside emissions reductions, with investment in low-emission assets
+coming next. The sequence reflects pragmatism: focus first on achievable, cost-effective measures, then
+scale transformative technologies as economics and infrastructure align.
+This annual report offers professionals a comprehensive overview of the aforementioned topics, aiming to
+assist organizations in making sustainable decisions in the current context. Our objective is to advance our
+discussions on sustainability efforts by incorporating research findings on supply chain sustainability and
+gathering insights from practitioners. The aim is to collectively shape the future of this field and together
+create a more sustainable future for the world.
+The remainder of the report is structured as follows. The Methodology Section of our study focuses on the
+research approach and provides descriptive information about the data collected. The section titled The Role
+of Regulations examines the impact of government regulations on achieving sustainability objectives and
+what impact of changing regulations on organizations. In the section titled Managing Scope 3: From
+Measurement to Mitigation, the report examines what technologies companies are using to track and
+measure their emissions and the need to engage with suppliers to ensure accurate data is collected. Also
+covering what can be gained from industry collaborations and how that can be beneficial for the
+decarbonization effort. Finally, in the Transportation Sector section, we provide a thorough examination to
+address which technologies the industry thinks will be the most successful in the efforts to decarbonize and
+what hurdles they are facing in transitioning to the more sustainable options. We then present the findings
+and implications of this report in the Conclusions Section.
+11
+SUSTAINABILITY STILL MATTERS — AND IN 2025, THE
+EVIDENCE SHOWS THAT IT MATTERS MORE THAN EVER.
+Issue No.06

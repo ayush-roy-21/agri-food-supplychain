@@ -1,176 +1,76 @@
 --- CHUNK HEADER ---
 Chunk ID: A-CSR-102-C02
 Parent Doc ID: A-CSR-102
-Page Range: Page 5 to Page 7
-Word Range: 1424 - 1897
-Word Count: 474
+Page Range: Page 2
+Word Range: 264 - 513
+Word Count: 250
 --------------------
 
-[Page 5]
-Nestlé’s Supply Chain (Scope 3) and Sourcing Landscape Removals Framework 
-REMOVAL 
-PROJECT 
-ZONES 
-1. ON-FARM 2. SUPPLY SHED FARM 
-– 
- COMMODITY 
- SPECIFIC 
-3. SUPPLY SHED FARM – 
-NON-COMMODITY SPECIFIC  
-4. SOURCING 
-LANDSCAPE 
+[Page 2]
+Role of Natural Climate 
+Solutions in mitigating climate 
+change 
+The latest IPCC report is clear. There is no 
+pathway to 1.5°C without a near immediate halt 
+to deforestation and significant restoration of 
+forests and natural ecosystems. 
+And the food system has a key role to play. 
+Agriculture is the primary driver of deforestation, 
+natural habitat loss and degradation as well as 
+biodiversity loss. The food system is estimated to 
+contribute to more than a third of man -made 
+greenhouse gas emissions.  
+To feed the world for generations to come, we 
+need to transition towards a regenerative food 
+system that helps protect and restore the 
+environment, improve farmers’ livelihoods, 
+enhance the well-being of farming communities, 
+and protect human rights.  
+NCS can play a crucial role in reducing land 
+sector emissions and keeping to the 1.5°C 
+pathway. When done right, NCS can have 
+multiple additional benefits, including 
+safeguarding biodiversity, improving water 
+supplies and supporting livelihoods for l ocal 
+communities. Implementing NCS does not 
+replace, but go hand in hand with the need for 
+companies to reduce emissions from production 
+practices.  
  
-DESCRIPTION 
-On-farm, commodity 
-specific: Project occurs 
-on a farm that is a known  
-supplier (direct or indirect) 
-of an 
-ingredient or raw material 
-procured 
-by Nestlé. 
-On-farm, commodity-
-specific:  
-Project occurs on a farm 
-that is part of a group of 
-suppliers in a specifically 
-defined geography (for 
-example, part of an 
-agricultural cooperative) 
-that Nestlé sources an 
-ingredient or multiple  
-ingredients from, directly 
-or indirectly.  
- 
-It may not be feasible to 
-demonstrate which 
-specific farm supplies 
-Nestlé. However, we can 
-demonstrate the farm is 
-in the group that do, for 
-example by 
-demonstrating that these 
-farms provide 
-ingredients to Nestlé’s 
-direct  
-suppliers. This group of 
-suppliers are also 
-referred to as supply 
-shed1.  
- 
-On-farm, non-commodity specific:  
-Project occurs on a neighboring 
-farm  
-that is very closely connected  
-(environmentally and/or 
-socioeconomically) to a farm from 
-which  
-Nestlé sources an ingredient or  
-multiple ingredients from; however, 
-this specific farm does not grow the 
-ingredient(s) Nestlé sources. 
-On land, connected to 
-supply shed: 
-Project occurs on land that 
-is connected  
-environmentally and/or 
-socio-economically to the 
-supply shed from  
-which Nestlé sources 
-ingredients, and  
-as such, the project is 
-highly likely to  
-provide direct or indirect 
-benefits to the  
-sustainability and socio-
-economic  
-health of the supply shed 
-and wider  
-sourcing landscape. 
- 
-1 This follows the definition from Value Change’s Value Chain (Scope 3) Interventions – Greenhouse Gas Accounting & Reporting Guidance, version 1.1, May 2021.
-
-[Page 6]
-EXAMPLES 
-OF PROJECT 
-TYPES 
-• Agroforestry 
-• Silvopasture 
-• Natural 
-Regeneration on 
-farm 
-• Reforestation on 
-farm 
-• Agroforestry 
-• Silvopasture 
-• Natural Regeneration 
-on farm 
-• Reforestation on 
-farm 
-• Agroforestry 
-• Silvopasture 
-• Natural Regeneration 
-• Reforestation on farm  
-• Agroforestry (IF 
-project occurs on 
-farm) 
-• Silvopasture (IF 
-project occurs on 
-farm) 
-• Reforestation  
-• Natural Regeneration 
-• Restoration within 
-riparian zones 
-• Wildlife corridor 
-restoration between 
-farms 
-• Wetland, peatland, 
-or other types of 
-natural landscape 
-restoration 
-• Mangroves 
-MONITORING 
-FREQUENCY Early monitoring:   
-Planting partner first 3 
-years    
-AND carbon partner first 
-1-3 years   
-  
-Long-term monitoring:   
-Planting partner punctual 
-all 3-5 years AND Carbon 
-partner all 3-5 years for 
-carbon  
-If remote sensing 
-available, then more 
-frequent (annually)  
-  
-General:   
-Early monitoring:   
-Planting partner first 3 years    
-AND carbon partner first 1-3 years   
-  
-Long-term monitoring:   
-Planting partner punctual all 3-5 years AND Carbon partner all 3 
-years for carbon  
-If remote sensing available, then more frequent (annually)  
-  
-General:   
-Minimum duration to 20 years   
-Continuous remote sensing beyond 20 years  
-According to certification  
-scheme requirements.
-
-[Page 7]
-Minimum duration to 20 
-years   
-Continuous remote 
-sensing beyond 20 years  
-MINIMUM 
-LEVEL OF 
-VERIFICATION 
-2nd party verification   
-(With third party audit/verification check recommended)  
-3rd party certification (with 
-verified carbon credits 
-required)
+Nestlé’s Supply Chain (Scope 3) 
+and Sourcing Landscape 
+Removals Framework 
+Companies within the food and agricultural 
+sectors are uniquely suited to implement NCS 
+projects within their value chain. They have a 
+vested interest in the long -term resilience and 
+productivity of their sourcing landscapes. They 
+recognize the importance of addressing carbon 
+impacts as well as promoting broader co -
+benefits, such as livelihood improvement, 
+economic development and biodiversity 
+enhancement in these landscapes. 
+However, despite the continued development 
+of global standards, compan ies are still faced 
+with a certain level of ambiguity and 
+uncertainty. They need clearer guidance 
+regarding what can count towards science -
+based net -zero targets and how to execute 
+carbon removal projects. 
+To navigate  the ambiguity and uncertainty 
+without delaying our action, Nestlé,  together 
+with our partners, developed the Nestlé’s 
+Supply Chain (Scope 3) and Sourcing 
+Landscape Removals Framework  This 
+framework allows us to identify which NCS 
+projects to invest in and implement in 
+collaboration with our partners, and ultimately 
+enables us to take immediate action at the scale 
+we need. 
+Nestlé’s Removals Framework takes a risk -
+based approach to ensure carbon removals can 
+be claimed towards Nestl é’s climate 
+commitments following the most updated 
+global standards and best practice s (e.g. ….). It  
+defines the level of assurance, the type of 
+evidence and frequency of measurement and

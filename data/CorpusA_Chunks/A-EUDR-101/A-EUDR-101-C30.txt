@@ -1,101 +1,70 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-101-C30
 Parent Doc ID: A-EUDR-101
-Page Range: Page 61 to Page 62
-Word Range: 47062 - 48568
-Word Count: 1,507
+Page Range: Page 8
+Word Range: 7680 - 8011
+Word Count: 332
 --------------------
 
-[Page 61]
-(a) such secur ities ha ve been admitted to trading on a regulat ed market in a Member Stat e, defined in point (21) 
-of Ar ticle 4(1) of Directive 2014/65/EU pr ior to 31 December 2010 and the denomination per unit of whic h 
-is, at the dat e of issue, at least EUR 50 000 or , in the case of debt secur ities denominated in another cur rency , 
-equivalent, at the date of issue, to at least EUR 50 000 ;
-(b) such secur ities are admitted to trading on a regulated mark et in a Member State , def ined in point (21) of 
-Ar ticle 4(1) of Directive 2014/65/EU from 31 December 2010 and the denomination per unit of which is, at 
-the date of issue, at least EUR 100 000 or , in case of debt secur ities denominat ed in another cur rency , 
-equivalent, at the date of issue, to at least EUR 100 000 .
-_____________
-(*) Directive 2014/65/EU of the European P arliament and of the Council of 15 Ma y 2014 on markets in fi nancial 
-instr uments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).’;
-(b) paragraphs 4 to 6 are replaced by the f ollowing:
-‘4. Without prejudice to Ar ticle 46, audit repor ts concer ning annual accounts or consolidated accounts or , 
-where applicable, the assurance repor ts concer ning annual or consolidated sustainability repor ting refer red to in 
-paragraph 1 of this Ar ticle issued by third-countr y auditor s or audit entities that are not register ed in the 
-Member Stat e shall hav e no leg al eff ect in that Member Stat e.
-5. A Member Stat e ma y register a third-countr y audit entity f or the pur pose of the audit of fi nancial state ments 
-only if:
-(a) the major ity of the members of the administrative or manage ment body of the third-countr y audit entity 
-meet requirements whic h are equivalent to those laid down in Ar ticles 4 to 10, with the excep tion of Ar ticle 
-7(2), Ar ticle 8(3) and the second subparagraph of Ar ticle 10(1);
-(b) the third-countr y auditor car r ying out the audit on behalf of the third-countr y audit entity meets 
-requirements which are equivalent to those laid down in Ar ticles 4 to 10, with the excep tion of Ar ticle 7(2), 
-Ar ticle 8(3) and the second subparagraph of Ar ticle 10(1);
-(c) the audits of the annual or consolidated financia l state ments refer red to in paragraph 1 of this Ar ticle are 
-car r ied out in accordance with inte r national auditing standards as refer red to in Ar ticle 26, as well as the 
-requirements laid down in Ar ticles 22, 22b and 25, or with equivalent standards and requirements;
-(d) the third-countr y audit entity publishes on its website an annual transparency repor t whic h includes the 
-inf or mation refer red to in Ar ticle 13 of Regulation (EU) No 537/2014 or it complies with equivalent 
-disclosure requirements.
-A Member State ma y register a third-countr y audit entity f or the pur pose of the assurance of sustainability 
-repor ting only if:
-(a) the major ity of the members of the administrative or manage ment body of the third-countr y audit entity 
-meet requirements which are equivalent to those laid down in Ar ticles 4 to 10;
-(b) the third-countr y auditor car r ying out the assurance on behalf of the third-countr y audit entity meets 
-requirements which are equivalent to those laid down in Ar ticles 4 to 10;
-(c) the assurance of the annual or consolidated sustainability repor ting refe r red to in paragraph 1 is car r ied out 
-in accordance with the assurance standards refer red to in Ar ticle 26a, as well as the requirements laid down 
-in Ar ticles 22, 22b, 25 and 25b, or with equivalent standards and requirements;
-(d) the third-countr y audit entity publishes on its website an annual transparency repor t whic h includes the 
-inf or mation refer red to in Ar ticle 13 of Regulation (EU) No 537/2014 or it complies with equivalent 
-disclosure requirements.
+[Page 8]
+(23) Directive 2004/109/EC of the European P arliament and of the Council (
+17
+) applies to under takings whose secur ities 
+are admitted to trading on a regulated mark et in the Union. In order to ensure that under takings whose secur ities 
+are admitted to trading on a regulated market in the U nion, including third-countr y issuers, fall under the same 
+sustainability repor ting requirements, Directive 2004/109/EC should contain the necessar y cross-ref erences to an y 
+requirement on sustainability repor ting in the annual financial repor t.
+(24) P oint (i) of the f irst subparagraph of Ar ticle 23(4) and the f our th subparagraph of Ar ticle 23(4) of Directive 
+2004/109/EC empo wer the Commission to adop t measures to set up a mechanism f or the det er mination of 
+equivalence of inf or mation required under that Directive, and f or the establishment of general equivalence cr it er ia 
+regarding accounting standards, respectively . The third subparagraph of Ar ticle 23(4) of Directive 2004/109/EC 
+also empo wers the Commission to tak e the necessar y decisions on the equivalence of accounting standards whic h 
+are used by third-countr y issuers. In order to ref lect the inclusion of the sustainability requirements in Directive 
+2004/109/EC, the Commission should be em powered to establish a mec hanism f or the deter mination of 
+equivalence of sustainability repor ting standards applied by third-countr y issuers, similar to what is provided f or in 
+Commission Regulation (EC) No 1569/2007 (
+18
+) whic h sets out the cr iter ia f or the det er mination of equivalence of 
+accounting standards applied by third-countr y issuers. For the same reason, the Commission should also be 
+empo wered to take the necessar y decisions on the equivalence of sustainability repor ting standards that are used by 
+third-countr y issuers. The amendments introduced by this amending Directive will ensure consistent equivalence 
+regimes f or sustainability repor ting requirements and f or fi nancial repor ting requirements regar ding the annual 
+fi nancial repor t.
+(25) Ar ticle 19a(3) and Ar ticle 29a(3) of Directive 2013/34/EU exem pt all subsidiar y under takings from the obligation to 
+repor t non-fi nancial inf or mation where such under takings and their subsidiar y under takings are included in the 
+consolidated manag ement repor t of their parent under taking, provid ed that repor t includes non-fi nancial 
+inf or mation repor ted pursuant to that Directive. It is necessar y , however , to ensure that sustainability inf or mation is 
+easily accessible f or users, and to ensure that there is transparency as regar ds which parent under taking of the 
+exem pt ed subsidiar y under taking is repor ting at group level. It is theref ore necessar y to require those subsidiar y 
+under takings to include in their managemen t repor t the name and register ed office of the parent under taking that is 
+repor ting sustainability inf or mation at group level, the weblink s to the consolidated manage ment repor t of their 
+parent under taking and a reference in their manag ement repor t to the f act that they are exem pt ed from 
+sustainability repor ting. Member Stat es should be able to require that the parent under taking publish the 
+consolidated manag ement repor t in the languag es they accept and that the parent under taking provid e an y 
+necessar y translation in such language s. Such exem pti on should also apply where the parent under taking repor ting 
+at group level is a third-countr y under taking repor ting sustainability inf or mation in accordance with equivalent 
+sustainability repor ting standards.
+Directive 2004/109/EC, as amended by this amending Directive, should provide f or appropr iate mec hanisms to 
+det er mine the equivalence of sustainability repor ting standards, and under takings whose secur ities are admitted to 
+trading on a regulated mark et in the U nion and under takings whose secur ities are not admitted to trading on a 
+regulated mark et in the U nion should be required to repor t in accordance with the same sustainability repor ting 
+standards. In this context, the im plementing acts adopt ed by the Commission pursuant to point (i) of the first 
+subparagraph of Ar ticle 23(4) and the f our th subparagraph of Ar ticle 23(4) of Directive 2004/109/EC establishing 
+a mechani sm f or the det er mination of equivalence of standards should be used to det er mine whether to exem pt 
+subsidiar y under takings of third-countr y parent under takings under the regime of Directive 2013/34/EU. 
+Theref ore, the subsidiar y under taking should be exem pt ed when the consolidate d sustainability repor ting is car r ied 
+out in accordance with the sustainability repor ting standards adopt ed by the Commission pursuant to Ar ticle 29b 
+of Directive 2013/34/EU introduced by this amending Directive or in a manner equivalent to those sustainability 
+repor ting standards, as det er mined in accordance with an implementing act on the equivalence of sustainability 
+(
+17
+) Directive 2004/109/EC of the European P arliament and of the Council of 15 December 2004 on the har monisation of transparency 
+requirements in relation to inf or mation about issuers whose secur ities are admitted to trading on a regulated market and amending 
+Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).
+(
+18
+) Commission Regulation (EC) No 1569/2007 of 21 December 2007 establishing a mechanism f or the determination of equivalence of 
+accounting standards applied by third countr y issuers of secur ities pursuant to Directives 2003/71/EC and 2004/109/EC of the 
+European Parliament and of the Council (OJ L 340, 22.12.2007, p. 66).
 EN
-Offi cial Jour nal of the European Uni on 16.12.2022 L 322/75
-
-[Page 62]
-5a. A Member State ma y register a third-countr y auditor f or the pur pose of the audit of financial stat ements 
-only if he or she meets the requirements set out in points (b), (c) and (d) of the first subparagraph of paragraph 5 
-of this Ar ticle.
-A Member Stat e ma y registe r a third-countr y auditor f or the pur pose of the assurance f or sustainability repor ting 
-only if he or she meets the requirements set out in points (b), (c) and (d) of the second subparagraph of paragraph 
-5 of this Ar ticle.
-6. In order to ensure unif or m conditions f or the application of point (c) of the fi rst subparagraph of paragraph 
-5 and point (c) of the second subparagraph of paragraph 5 of this Ar ticle, the Commission shall be emp owered to 
-decide upon the equivalence refer red to therein by means of im plementing acts. Those implementing acts shall be 
-adopt ed in accordance with the examination procedure refe r red to in Ar ticle 48(2).
-Member Stat es ma y assess the equivalence refe r red to point (c) of the first subparagraph of paragraph 5 and point 
-(c) of the second subparagraph of paragraph 5 of this Ar ticle, as long as the Commission has not taken any such 
-decision.
-The Commission shall be em powered to adop t delegat ed acts in accordance with Ar ticle 48a supplementing this 
-Directive f or the pur pose of establishing the general equivalence cr it er ia to be used in assessing whether the audits 
-of the fi nancial state ments and, where applicable, the assurance of sustainability repor ting refer red to in 
-paragraph 1 of this Ar ticle are car r ied out in accordance with internati onal auditing standards as def ined in 
-Ar ticle 26 and with assurance standards f or sustainability repor ting refe r red to in Ar ticle 26a, respectively , and 
-with the requirements laid down in Ar ticles 22, 24 and 25. Such cr iter ia, which are applicable to all third 
-countr ies, shall be used by Member States when assessing equivalence at national level.’;
-(29) Ar ticle 48a is amended as f ollo ws:
-(a) in paragraph 2, the f ollowi ng subparagraph is added:
-‘ The power to adopt delega ted acts refer red to in Ar ticle 26a(2) shall be confe r red on the Commission f or an 
-indetermi nat e per iod of time.’;
-(b) paragraph 3 is replaced by the f ollowi ng:
-‘3. The delegatio n of power refer red to in Ar ticle 26(3), Ar ticle 26a(3), Ar ticle 45(6), Ar ticle 46(2) and Ar ticle 
-47(3) ma y be revok ed at an y time by the European P arliament or by the Council. A decision to revok e shall put an 
-end to the delegatio n of the po wer specified in that decision. It shall take effect the da y f ollo wing the publication 
-of the decision in the Off icial Jour nal of the Eur opean Union or at a later date specifi ed therein. It shall not affect the 
-validity of an y delegat ed acts already in f orce.’;
-(c) paragraph 5 is replaced by the f ollowi ng:
-‘5. A delegat ed act adopt ed pursuant to Ar ticle 26(3), Ar ticle 26a(3), Ar ticle 45(6), Ar ticle 46(2) or Ar ticle 
-47(3) shall ent er into f orce only if no objection has been expressed either by the European Parliament or the 
-Council within a per iod of f our months of notifi cation of that act to the European P arliament and the Council or 
-if, bef ore the expir y of that per iod, the European P arliament and the Council hav e both inf or med the Commission 
-that the y will not object. That per iod shall be ext ended by two months at the initiative of the European P arliament 
-or of the Council.’.
-Ar ticle 4
-Amendments t o Regulation (EU) No 537/2014
-Regulation (EU) No 537/2014 is amended as f ollows:
-(1) in Ar ticle 4(2), the second subparagraph is replaced by the f ollo wing:
-‘For the pur poses of the limits specified in the first subparagraph of this paragraph, the assurance of sustainability 
-repor ting, and non-audit ser vices other than those refer red to in Ar ticle 5(1), required by Union or national legislation, 
-shall be excluded.’;
-EN
-Offi cial Jour nal of the European Uni on L 322/76 16.12.2022
+Offi cial Jour nal of the European Uni on L 322/22 16.12.2022

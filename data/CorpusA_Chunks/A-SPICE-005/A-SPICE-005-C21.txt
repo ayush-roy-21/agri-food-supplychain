@@ -1,0 +1,121 @@
+--- CHUNK HEADER ---
+Chunk ID: A-SPICE-005-C21
+Parent Doc ID: A-SPICE-005
+Page Range: Page 14
+Word Range: 5526 - 5829
+Word Count: 304
+--------------------
+
+[Page 14]
+Row Country of origin Food and feed (intended use) CN code ( 1)
+TARIC 
+sub- 
+division
+Hazard
+Frequency of 
+identity and 
+physical 
+checks (%)
+21 Syria (SY)
+Tahini and halva from 
+Sesamum seeds
+(Food)
+ex 1704 90 99
+ex 1806 20 95
+ex 1806 90 50
+ex 1806 90 60
+ex 2008 19 19
+ex 2008 19 99
+12; 92
+13; 93
+10
+11; 91
+41
+41
+Salmonella (
+2) 30
+22 Thailand (TH)
+Peppers of the genus Capsicum
+(other than sweet)
+(Food – fresh, chilled or 
+frozen)
+ex 0709 60 99
+ex 0710 80 59
+20
+20 Pesticide 
+resi­
+dues (
+3) (8)
+50
+Granadilla and passion fruit 
+(Passiflora ligularis and 
+Passiflora edulis)
+(Food – fresh)
+ex 0810 90 20
+ex 0810 90 20
+40
+50 Pesticide 
+residues (
+3)
+10
+23 Türkiye (TR)
+Lemons (Citrus limon, Citrus
+limonum)
+(Food – fresh, chilled or dried )
+0805 50 10 Pesticide 
+residues (3) 20
+Pomegranates
+(Food – fresh or chilled)
+ex 0810 90 75 30 Pesticide 
+resi­
+dues (
+3) (9)
+30
+— Sweet peppers ( Capsicum 
+annuum)
+0709 60 10
+0710 80 51
+Pesticide 
+resi­
+dues (3) (10)
+20— Peppers of the genus 
+Capsicum (other than 
+sweet)
+(Food – fresh, chilled or 
+frozen)
+ex 0709 60 99
+ex 0710 80 59
+20
+20
+Dried oregano
+(Food)
+ex 1211 90 86 40 Pyrrolizidine 
+alkaloids 30
+Sesamum seeds
+(Food)
+1207 40 90
+Salmonella (
+2) 30 ex 2008 19 1949
+ex 2008 19 99 49
+Tomatoes (Solanum 
+lycopersicum L.)
+(Food – fresh, chilled or 
+frozen
+vegetables)
+0702 00
+0710 80 70 Pesticide 
+residues (
+3) 20
+24 Uganda (UG)
+Peppers of the genus Capsicum
+(other than sweet)
+(Food – fresh, chilled or 
+frozen)
+ex 0709 60 99
+ex 0710 80 59
+20
+20 Pesticide 
+residues (
+3) 50
+OJ L, 29.1.2026 EN 
+ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 13/25

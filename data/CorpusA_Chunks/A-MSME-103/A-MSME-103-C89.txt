@@ -1,0 +1,134 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-103-C89
+Parent Doc ID: A-MSME-103
+Page Range: Page 70 to Page 71
+Word Range: 25464 - 25713
+Word Count: 250
+--------------------
+
+[Page 70]
+Strategy for unlocking export potential for MSMEs in West Bengal
+70  Index No.Weights202020212022Coastal Average 
+(2022)
+National Average 
+(2022)
+IndicatorDefinition/Clarification
+Export Per-
+formance 
+(20%)
+Index Score 18.6922.9036.5551.5530.40  
+4.1 Growth & 
+Orientation (10%) 11.1319.8739.6353.0535.85
+ Growth of exports in a state reflects the effort of a state government in 
+creating a conducive environment for the same. Conversely, the lack of 
+such growth implores the governments to address their problems and 
+tackle them. 
+4.1.11.5 019.53  
+Import Export Code (IEC) [as a 
+percentage of total business]
+IEC is a registration code required by companies for importing and 
+exporting from India, making them eligible for recognition as a status 
+holder.
+4.1.22.5  41.41  Export growth in 3 yearsThis indicator calculates average incremental growth of exports over 3 
+years.
+4.1.3221.3123.9123.27  Merchandise exports to GDP 
+ratio
+This indicator gives the contribution of merchandise exports of a state to 
+its GDP
+4.1.41  50.00  GI Products
+This indicator looks at Geographical Indications protect signs that 
+indicate that a product originates in a given geographical area and its 
+qualities, reputation, or other characteristics are essentially due to its 
+geographical origin. Products with a GI tag get premium pricing, thus 
+helping exporters earn better, and which in turn incentivizes producers. 
+For these producers the GI tag helps create brand equity
+4.1.5210.0910028.93  Increase in number of exportersIncrease in number of exporters in a State will indicate whether the 
+business environment in States promotes exports.
+4.1.61  40.93  
+Ratio of number of exporters 
+availing Certificate of origin 
+certificate to the total number of 
+exporters in the State
+Certificate of Origin is an instrument which establishes evidence on origin 
+of goods imported into any country. These certificates are essential for 
+exporters to prove where their goods come from.
+4.2 Export 
+Diversification 
+(10%)
+ 26.2425.9433.4650.0424.95
+ Diversification of the export basket of a state helps it increase stability, as 
+it becomes resilient to market shocks, and increase channels of revenue. 
+In order to diversify exports, state governments need to identify target 
+areas which can produce quality products within the state, and formulate 
+a strategy on how to market them and take to the global market. 
+4.2.1519.9524.0226.81  Export Concentration
+Product Concentration Index is used to measure the dispersion of trade 
+value across an exporter's products. it is also an indicator of an exporter's 
+vulnerability to trade shocks
+4.2.2551.0440.3333.04  Market Penetration Index
+Market Penetration Index measures the extent to which exports from 
+a State reach already proven markets. It is calculated as the number of 
+countries to which a State exports a particular product divided by the 
+number of total countries that import that product in a year.
+
+[Page 71]
+Strategy for unlocking export potential for MSMEs in West Bengal
+71
+Table 2: Mapping of HS and SIC codes considered in the analysis:
+HS 2 HS 6 SIC INDUSTRY 
+5 50100 2011, 2013, 2015 Agriculture & Food Processing 
+3 30617 5146, 5421, 2091, 2092 Agriculture & Food Processing 
+17 170390 2061, 2062, 2063, 2064, 2066, 2067, 2068 Agriculture & Food Processing 
+4 40120, 40630, 40229 5451, 2021, 2022, 2023, 2024, 2026 Agriculture & Food Processing 
+11 110812 2041, 2043, 2044, 2045, 2046, 2047, 2048 Agriculture & Food Processing 
+19 190531 2051, 2051, 2053, 5461 Agriculture & Food Processing 
+15 151550 2074, 2075, 2076, 2077, 2079 Agriculture & Food Processing 
+24 240110, 240319 5159 Agriculture & Food Processing 
+12 121190 2032, 2033, 2034, 2037, 2038, 5191 Agriculture & Food Processing 
+14 140190 5191, 5431, 2032, 2033, 2034, 2035, 2037, 
+2038 
+Agriculture & Food Processing 
+21 210690 2082, 2083, 2084, 2085, 2086, 2087, 2091, 
+2092, 2095, 2096, 2097, 2098, 2099, 5411, 
+5421, 5431, 5441, 5451, 5461, 5499 
+Agriculture & Food Processing 
+34 340231 2841 Chemicals 
+28 280300 2812, 2813, 2816, 2819 Chemicals 
+29 290124, 290220, 293979, 290919, 
+292429, 294000, 293590 
+2861, 2865, 2869 Chemicals 
+33 330190, 330290 2841 Chemicals 
+27 271012, 271019, 271119, 270400 2911, 5983, 5989 Chemicals 
+38 382499, 382440 2873, 2874, 2875, 2879, 2892, 2899, 5169  Chemicals 
+71 711319 1041, 1044, 3911, 3914, 3915, 3961, 3965, 
+5094, 5944 
+Gems and Jewellery 
+67 670300 2395, 3999, 5945, 7336 Handicraft 
+83  3312, 3313, 3315, 3316, 3317, 3321, 3322, 
+3324, 3325, 3331, 3334, 3339, 3341, 3351, 
+3353, 3354, 3355, 3356, 3357, 3363, 3364, 
+3365, 3366, 3369, 3398, 3399, 3411, 3412, 
+3421, 3423, 3425, 3429, 3431, 3432, 3433, 
+3441, 3442, 3443, 3444, 3446, 3448, 3449, 
+3451, 3452, 3462, 3463, 3466, 3469, 3471, 
+3479, 3482, 3483, 3484, 3489, 3491, 3492, 
+3493, 3494, 3495, 3496, 3497, 3498, 3499, 
+5051 
+Metal 
+53 530310, 531010 2251, 2252, 2253, 2254, 2257, 2258, 2259, 
+2261, 2262, 2269, 2273, 2281 
+Textiles 
+63 630510 2311, 2321, 2322, 2323, 2325, 2326, 2329, 
+2331, 2335, 2337, 2339, 2341, 2342, 2353, 
+2361, 2369, 2371 
+Textiles 
+51 510710, 511219 2211, 2221, 2231, 2241, 2281 Textiles 
+62 621440, 621143 2381, 2384, 2385, 2387, 2389, 2391, 2392, 
+2393, 2394, 2396, 2397, 2399, 5131, 5136, 
+5137, 5139, 5611, 5621, 5632, 5641, 5651, 
+5661, 5699 
+Textiles 
+54 540710, 540773 2296, 2297, 2298, 2299 Textiles 
+42 420222, 420329, 420221, 420231 2386, 3111, 3131, 3142, 3143, 3144, 3149, 
+3151, 3161, 3171, 3172, 3199, 5948 
+Leather

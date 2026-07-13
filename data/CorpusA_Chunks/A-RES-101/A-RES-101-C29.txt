@@ -1,0 +1,141 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-101-C29
+Parent Doc ID: A-RES-101
+Page Range: Page 8
+Word Range: 7579 - 7828
+Word Count: 250
+--------------------
+
+[Page 8]
+2. The capital ﬂow coordination in the organization's supply chain
+is enhanced with Supply chain ﬁnancing.
+3. A high level of Supply chain ef ﬁciency comes with supply chain
+ﬁnancing.
+4. A high-risk prevention capability of an organization is enhanced
+with supply chain ﬁnance.
+5. A high degree of technology is required for supply chain ﬁnance
+applications.
+Supply Chain Effectiveness (SCE) (Adapted from Fugate et al.,
+2009).
+1. Supply chain ﬁnancing helps in reducing Transportation Cost
+2. Supply chain ﬁnancing helps in reducing warehousing Costs
+3. Supply chain ﬁnancing helps in reducing Inventory Cost
+4. Supply chain ﬁnancing helps in reducing Logistics Cost
+Digitizing Technologies (DT) (Adapted from Choi, 2013).
+1 The use of Digital technologies offers new ways of engaging
+buyers and suppliers
+2 To trade with Buyers and Suppliers, training in digital technol-
+ogies is required.
+3 Relationship with buyers and suppliers is essential for the future
+of digital trading.
+Collaboration (CO) (Adapted from Simatupang & Sridharan,
+2005).
+1. Our organization constantly shares Demand Forecast with
+suppliers
+2. Our organization constantly shares Inventory Policy with
+Suppliers
+3. Our organization constantly shares Price Changes with Suppliers
+4. Our organization constantly shares any Supply Disruption with
+Suppliers
+Financial Institutions (FI) (Adapted from Zhang, 2015).
+1. A supportive attitude is shown by ﬁnancial institutions while
+applying supply chain ﬁnance.
+2. The Commercial banks have a perfect structure for imple-
+menting supply chain ﬁnance.
+3. When an organization applies supply chain ﬁnance, risk pre-
+vention is better.
+Negotiation (NE) (Adapted from Janda & Seshadri, 2001 ).
+1. We as an organization seek a Win-Win opportunity
+2. We as an organization spend time on the process of negotiation
+3. We as an organization reach a mutual consensus on the problem
+situation
+External Environment (EE) (Adapted from Zhang, 2015).
+1. The macro-economic condition of an organization has a signif-
+icant impact on Supply chain Finance
+2. Laws and regulations in a country affect the choice of supply
+chain ﬁnance
+3. The development of Supply chain ﬁnance technology helps in
+implementing supply chain ﬁnance.
+References
+Adair, W. L. (2003). Integrative sequences and negotiation outcome in same-and
+mixed-culture negotiations. International Journal of Con ﬂict Management, 14 (3/
+4), 273e296.
+Ali, Z., Gongbing, B., & Mehreen, A. (2018). Does supply chain ﬁnance improve SMEs
+performance? The moderating role of trade digitization. Business Process
+Management Journal, 26 (1), 150 e167. https://doi.org/10.1 108/BPMJ-05-2018-
+0133
+Ali, Z., Gongbing, B., & Mehreen, A. (2019). Predicting supply chain effectiveness
+through supply chain ﬁnance. International Journal of Logistics Management,
+30(2), 488 e505.
+Alolah, T., Stewart, R. A., Panuwatwanich, K., & Mohamed, S. (2014). Determining
+the causal relationships among balanced scorecard perspectives on school
+safety performance: Case of Saudi Arabia. Accident Analysis & Prevention, 68 ,
+57e74.
+Altay, N., Gunasekaran, A., Dubey, R., & Childe, S. J. (2018). Agility and resilience as
+antecedents of supply chain performance under moderating effects of organi-
+zational culture within the humanitarian setting: A dynamic capability view.
+Production Planning & Control, 29 (14), 1 158e1174.
+Aneja, R., & Ahuja, V. (2020). An assessment of socioeconomic impact of COVID-19
+pandemic in India. Journal of Public Affairs, 21 (2), Article e2266 .
+Basu, P., & Nair, S. K. (2012). Supply chain ﬁnance enabled early pay: Unlocking
+trapped value in B2B logistics. International Journal of Logistics Systems and
+Management, 12(3), 334 e353. https://doi.org/10.1504/IJLSM.2012.047605
+Bhatnagar, R., & Teo, C. C. (2009). Role of logistics in enhancing competitive advantage .
+International Journal of Physical Distribution & Logistics Management. https://
+doi.org/10.1 108/09600030910951700
+Caniato, F., Gelsomino, L. M., Perego, A., & Ronchi, S. (2016). Does ﬁnance solve the
+supply chain ﬁnancing problem? Supply Chain Management: International
+Journal, 21(5), 534 e549. https://doi.org/10.1 108/SCM-1 1-2015-0436
+Capaldo, A., & Giannoccaro, I. (2015). Interdependence and network-level trust in
+supply chain networks: A computational study. Industrial Marketing Manage-
+ment, 44 ,1 8 0e195.
+Carnevale, P. J., & Isen, A. M. (1986). The in ﬂuence of positive affect and visual access
+on the discovery of integrative solutions in bilateral negotiation. Organizational
+Behavior and Human Decision Processes, 37 (1), 1
+e13.
+Carri/C19on, G. C., Henseler, J., Ringle, C. M., & Rold /C19an, J. L. (2016). Prediction-oriented
+modeling in business research by means of PLS path modeling: Introduction to
+a JBR special section. Journal of Business Research, 69 (10), 4545e4551.
+Chen, X., & Hu, C. (201 1). The value of supply chain ﬁnance. Supply Chain
+Management-Applications and Simulations , 111e132.
+Choi, E. (2013). Digitalising Korea etransformations and tensions: The case of audio
+visual service trade and intellectual property rights ”. Loughborough: Lough-
+borough University. unpublished doctoral dissertation .
+Coulibaly, B., Sapriza, H., & Zlate, A. (2013). Financial frictions, trade credit, and the
+2008e09 global ﬁnancial crisis. International Review of Economics & Finance, 26,
+25e38. https://doi.org/10.1016/j.iref.2012.08.006
+Craighead, C. W., Blackhurst, J., Rungtusanatham, M. J., & Hand ﬁeld, R. B. (2007). The
+severity of supply chain disruptions: Design characteristics and mitigation ca-
+pabilities. Decision Sciences, 38 (1), 131e156.
+Creazza, A., Dallari, F., & Melacini, M. (2010). Evaluating logistics network con ﬁg-
+urations for a global supply chain. Supply Chain Management: International
+Journal, 15(2), 154e164. https://doi.org/10.1 108/1359854101 1028750
+Erol, S., J €ager, A., Hold, P., Ott, K., & Sihn, W. (2016). Tangible industry 4.0: A
+scenario-based approach to learning for the future of production. Procedia CiRp,
+54,1 3e18.
+Esfandiar, K., Shari ﬁ-Tehrani, M., Pratt, S., & Altinay, L. (2019). Understanding
+entrepreneurial intentions: A developed integrated structural model approach.
+Journal of Business Research, 94 ,1 7 2e182.
+Fairchild, A. (2005). Intelligent matching: Integrating ef ﬁciencies in the ﬁnancial
+supply chain. Supply Chain Management: International Journal, 10 (4), 244 e248.
+https://doi.org/10.1 108/13598540510612703
+Fawcett, S. E., Fawcett, A. M., Watson, B. J., & Magnan, G. M. (2012). Peeking inside
+the black box: Toward an understanding of supply chain collaboration dy-
+namics. Journal of Supply Chain Management, 48 (1), 44
+e72.
+Fei, Y., & Yi-na, L. (2006). Research on relationship of supply chain partnership,
+information sharing, and operation performance. Industrial Engineering &
+Management, 6 (1), 89 e95.
+Fernandes, N. (2020). Economic effects of coronavirus outbreak (COVID-19) on the
+world economy. Working Paper. https://doi.org/10.2139/ssrn.3557504
+Fornell, C., & Larcker, D. F. (1981). Structural equation models with unobservable
+variables and measurement error: Algebra and statistics. Journal of Marketing
+Research, 18(3), 382 e388.
+Fugate, B. S., Stank, T. P., & Mentzer, J. T. (2009). Linking improved knowledge
+management to operational and organizational performance. Journal of Oper-
+ations Management, 27 (3), 247e264.
+Gelsomino, L. M., Mangiaracina, R., Perego, A., & Tumino, A. (2016). Supply chain
+ﬁnance: A literature review. International Journal of Physical Distribution & Lo-
+gistics Management, 46 (4), 1e19.
+K. Mulchandani, S.S. Jasrotia and K. Mulchandani Asia Paci ﬁc Management Review 28 (2023) 90 e98
+97

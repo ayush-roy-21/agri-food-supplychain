@@ -1,0 +1,72 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C21
+Parent Doc ID: A-RES-100
+Page Range: Page 31 to Page 33
+Word Range: 5995 - 6364
+Word Count: 370
+--------------------
+
+[Page 31]
+31
+Issue No.06
+When organizations collaborate, they unlock multiple
+advantages that strengthen both execution and
+economics. As illustrated in Figure 19, out of the
+companies that do participate in industry
+collaborations, the most commonly reported benefits
+include stronger supplier engagement, better
+alignment on sustainability goals, and enhanced
+access to emissions data and reporting frameworks,
+together cited by nearly four out of five respondents
+(87%). In addition, many organizations highlight gains
+from shared resources and expertise, as well as direct
+cost savings achieved through joint sustainability
+investments (64.2%). Nearly half of the companies
+also report improved regulatory compliance and
+greater influence on policy (46.3%).
+ 
+Figure 19. Benefits Gained From Participating in Industry Collaborations (multiple response)
+Industry
+collaboration
+pays off.
+80% of participants
+report gains in
+emissions data
+quality, supplier
+alignment, shared
+expertise, cost
+efficiencies, and
+policy influence.
+
+[Page 32]
+32 State of Supply Chain Sustainability 2025
+Therefore, the benefits of collaboration are clear:
+improved emissions data, better supplier
+alignment, shared expertise, cost savings, and
+policy influence. However, there can be several
+barriers constraining deeper or broader
+collaboration that should be noted. Organizations
+face a mix of practical and coordination hurdles
+when collaborating. The top barriers include cost
+and resource constraints, standardization issues,
+data-sharing concerns, and differences in
+priorities (see Figures 20 and 21).
+Figure 20. Challenges That Limit Industry Collaborations (multiple response)
+
+[Page 33]
+33
+Issue No.06
+Scope 3 remains the most material yet most difficult part of corporate emissions
+management. Companies are advancing in measurement, but supplier data gaps,
+methodological complexity, and limited resources continue to slow progress. While
+procurement levers and industry collaborations are beginning to drive engagement,
+lasting reductions will require clearer standards, stronger supplier partnerships, and
+collective action to turn measurement into meaningful decarbonization. Within Scope 3
+reporting, transportation consistently emerges as one of the largest contributors to
+emissions, often representing the biggest categories for many companies. Because
+freight movement is both essential to global supply chains and a major driver of carbon
+intensity, understanding technology pathways, adoption barriers, and strategic priorities
+in this sector is critical. For this reason, this year's report includes a dedicated
+transportation section to assess how organizations are approaching decarbonization of
+this high-impact area.
+Figure 21. Regional Difference in Challenges That Limit Industry Collaborations (multiple response)

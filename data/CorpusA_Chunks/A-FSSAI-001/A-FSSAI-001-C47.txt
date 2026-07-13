@@ -1,0 +1,105 @@
+--- CHUNK HEADER ---
+Chunk ID: A-FSSAI-001-C47
+Parent Doc ID: A-FSSAI-001
+Page Range: Page 27 to Page 28
+Word Range: 12252 - 12501
+Word Count: 250
+--------------------
+
+[Page 27]
+¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 91
+4.5 Drainage and waste disposal
+4.5.1 Food waste and other waste materials shall be removed periodically from the place where food is being
+handled or cooked or manufactured to avoid building up. A refuse bin of adequate size with a proper cover
+preferably one which need not be touched for opening shall be provided in the premises for collection of waste
+material. This shall be emptied and washed daily with a disinfectant and dried before next use.
+4.5.2 The disposal of sewage and effluents (solid, liquid and gas) shall be in conformity with requirements of
+Factory / Environment Pollution Control Board. Adequate drainage, waste disposal systems and facilities shall be
+provided and they shall be designed and constructed in such manner so that the risk of contaminating food or the
+potable water supply is eliminated.
+4.5.3 Waste storage shall be located in such manner that it does not contaminate the food process, storage
+areas, the environment inside and outside the food establishment and waste shall be kept in covered containers and
+shall be removed at regular intervals.
+4.5.4 Periodic disposal of the refuse / waste should be made compulsory. No waste shall be kept open inside
+the premise and shall be disposed of in an appropriate manner as per local rules and regulations including those for
+plastics and other non environment friendly materials.
+4.6 Personnel facilities and toilets
+4.6.1 Personnel facilities shall include those for proper washing and drying of hands before touching food
+materials including wash basins and a supply of hot and /or cold water as appropriate; separate lavatories, of
+appropriate hygienic design, for males and females separately; and changing facilities for personnel and such
+facilities shall be suitably located so that they do not open directly into food processing, handling or storage areas.
+4.6.2 Number of toilets should be adequate depending on the number of employees (male /female) in the
+establishment and they should be made aware of the cleanliness requirement while handling food.
+4.6.3 Rest and refreshments rooms shall be separate from food process and service areas and these areas shall
+not lead directly to food production, service and storage areas.
+4.6.4 A display board mentioning do's & don'ts for the workers shall be put up inside at a prominent place in
+the premise in English or in local language for everyone's understanding.
+4.7 Air quality and ventilation
+Ventilation systems natural and /or mechanical including air filters, exhaust fans, wherever required, shall be
+designed and constructed so that air does not flow from contaminated areas to clean areas.
+4.8 Lighting
+Natural or artificial lighting shall be provided to the food establishment, to enable the employees/workers to
+operate in a hygienic manner. Lighting fixtures must wherever appropriate, be protected to ensure that food is not
+contaminated by breakages of electrical fittings.
+5 FOOD OPERATIONS AND CONTROLS
+5.1 Procurement of raw materials
+5.1.1 No raw material or ingredient thereof shall be accepted by an establishment if it is known to contain
+parasites, undesirable micro-organisms, pesticides, veterinary drugs or toxic items, decomposed or extraneous
+substances, which would not be reduced to an acceptable level by normal sorting and/or processing.
+5.1.2 All raw materials, food additives and ingredients, wherever applicable, shall conform to all the Regulations
+and standards laid down under the Act.
+5.1.3 Records of raw materials, food additives and ingredients as well as their source of procurement shall be
+maintained in a register for inspection.
+5.1.4 All raw materials should be checked & cleaned physically thoroughly.
+5.1.5 Raw materials should be purchased in quantities that correspond to storage/ preservation capacity.
+5.1.6 Packaged raw material must be checked for 'expiry date'/ 'best before'/ 'use by' date, packaging integrity
+and storage conditions.
+
+[Page 28]
+92 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
+5.1.7 Receiving temperature of potentially high risk food should be at or below 5 0C
+5.1.8 Receiving temperature of frozen food should be -18 0C or below.
+5.2 Storage of raw materials and food
+5.2.1 Food storage facilities shall be designed and constructed to enable food to be effectively protected from
+contamination during storage; permit adequate maintenance and cleaning, to avoid pest access and accumulation.
+5.2.2 Cold Storage facility, wherever required, shall be provided to raw, processed / packed food according to
+the type and requirement.
+5.2.3 Segregation shall be provided for the storage of raw, processed, rejected, recalled or returned materials
+or products which will be distinguishably marked and secured. Raw materials and food shall be stored in separate
+areas from printed packaging materials, stationary, hardware and cleaning materials / chemicals.
+5.2.4 Raw food, particularly meat, poultry and seafood products shall be cold stored separately from the area
+of work-in-progress, processed, cooked and packaged products. The conditions of storage in terms of temperature
+and humidity requisite for enhancing the shelf life of the respective food materials / products shall be maintained.
+5.2.5 Storage of raw materials, ingredients, work-in-progress and processed / cooked or packaged food
+products shall be subject to FIFO (First in, First Out), FEFO (First Expire First Out) stock rotation system as
+applicable.
+5.2.6 Containers made of non-toxic materials shall be provided for storage of raw materials, work-in-progress
+and finished / ready to serve products. The food materials shall be stored on racks / pallets such that they are
+reasonably well above the floor level and away from the wall so as to facilitate effective cleaning and prevent
+harbouring of any pests, insects or rodents.
+5.3 Food Processing / Preparation, Packaging and Distribution / Service
+5.3.1.Time and temperature control
+5.3.1.1 The Food Business shall develop and maintain the systems to ensure that time and temperature are
+controlled effectively where it is critical to the safety and suitability of food. Such control shall include time and
+temperature of receiving, processing, cooking, cooling, storage, packaging, distribution and food service upto the
+consumer, as applicable.
+5.3.1.2 Whenever frozen food / raw materials are being used / handled / transported, proper care should be
+taken so that defrosted / thawed material are not stored back after opening for future use.
+5.3.1.3 If thawing is required then only required portion of the food should be thawed at a time.
+5.3.1.4 Wherever cooking is done on open fire, proper outlets for smoke/steam etc. like chimney, exhaust fan
+etc. shall be provided.
+5.4 Food Packaging
+5.4.1 Packaging materials shall provide protection for all food products to prevent contamination, damage and shall
+accommodate required labelling as laid down under the FSS Act & the Regulations there under.
+5.4.2 For primary packaging (i.e packaging in which the food or ingredient or additive comes in direct contact with
+the packaging material), only Food grade packaging materials are to be used . For packaging materials like aluminium
+plastic and tin, the standards to be followed are as mentioned under the FSS Regulations and rules framed there under.
+5.4.3 Packaging materials or gases where used, shall be non-toxic and shall not pose a threat to the safety and
+suitability of food under the specified conditions of storage and use.
+5.5 Food Distribution / Service
+5.5.1 All critical links in the supply chain need to be identified and provided for to minimize food spoilage during
+transportation. Processed / packaged and / or ready-to-eat food shall be protected as per the required storage conditions
+during transportation and / or service.
+5.5.2 Temperatures and humidity which are necessary for sustaining food safety and quality shall be maintained.
+The conveyances and /or containers shall be designed, constructed and maintained in such manner that they can
+effectively maintain the requisite temperature, humidity, atmosphere and other conditions necessary to protect food

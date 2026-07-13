@@ -1,0 +1,110 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-107-C42
+Parent Doc ID: A-RES-107
+Page Range: Page 12
+Word Range: 10932 - 11181
+Word Count: 250
+--------------------
+
+[Page 12]
+1068 Production and Operations Management 34(5)
+and tier-2 suppliers almost as their own property, while the
+owners of the sewing cells obviously had a very different
+view. Despite the workers’ receptivity, the suppliers them-
+selves saw no beneﬁt and only an additional burden. W e were
+supposed to survey 30 workers from each supplier during the
+second ﬁeldwork tour, but we only visited half of the suppli-
+ers, and we collected feedback from fewer than 10 workers
+at each facility. As a result, instead of 360 responses, we
+were left with 60 feedback points, most of them informal
+and poorly registered due to time pressure to conclude the
+visit.
+In fact, although we aimed at developing a socio-technical
+solution by improving quality/frequency while reducing trans-
+action costs, we found that the very nature of purchasing
+practices induced supplier instability and eventually could
+elicit modern slavery. Most importantly, supplier resistance
+sabotaged the project. Surprisingly, the focal ﬁrms seemed
+to wish to enhance traceability without reconsidering their
+own purchasing practices and their impact on supplier costs or
+working conditions. Moreover, social and institutional dynam-
+ics seemed to help ﬁrms rationalise their reasons for not
+changing their purchasing practices, which were detrimental
+to their supply base.
+4.4 Phase 4. Project Interruption (And a Lesson
+About the Status Quo)
+Vignette 2: The gut punch of the status quo
+January 14, 2020. Today is probably my last trip to São Paulo
+funded by the project. T wo full years have passed since my
+ﬁrst contact with NGO-A, approximately one year for the pro-
+posal and another year for the intervention. After visiting a
+candidate global retailer that could be interested in the project,
+even though they raised multiple restrictions, and after my last
+phone call with NGO-A and the start-up team at the hotel
+room, I order a taxi while a feeling of frustration engulf me.
+A project borne to transform the industry is about to die ...o r
+at the very least, evolve into something that I did not dream of
+when we started this journey . . .
+It became clear that the intervention affected each stakeholder
+in different ways, raising competing constraints that prevented
+it from moving further from pilot to full implementation. The
+truth is that governance costs to please all stakeholders take the
+investment to a level where industry engagement is needed.
+NGO-A has always told us that their initial investment was
+‘seed money’ and that fashion brands’ buy-in was key to their
+continued support. At the same time, fashion brands’ partic-
+ipation came conditional on a focus on visibility (their own
+control), thus delaying true transparency. As a result, NGO-
+A’s interest was clearly fading away. NGO-B and Brand-B are
+small players and have offered us all they had during the pilot
+stage. They are eager to move ahead, as long as someone else
+takes over the ﬁnancial burden. Last, but not least, the Associa-
+tion has emphasised high heterogeneity across fashion brands.
+Most are interested only in visibility, and even the front run-
+ners seem to be waiting for the others to make the ﬁrst move.
+This puts us in a vicious cycle, where everyone is waiting for
+someone else to ‘open the dance ﬂoor’. As a result, there is no
+dancing.
+I ﬂy off from São Paulo to Rio de Janeiro not knowing this was
+not only my last project trip but also my last trip to the fourth
+largest city in the world for a long time (Covid-19 struck us
+exactly two months after...)
+During the last two months of the project, we had multi-
+ple calls for combinatorial analysis with the start-up, NGOs,
+brands, and the Association. W e ended up having more calls in
+March 2020 (calls on 10 of 22 working days, sometimes more
+than one per day) than at any other time in the project. Y et, no
+concrete results came out of them. It became clear that fash-
+ion brands were not yet suffering enough pressure to increase
+transparency, as expressed by one brand manager: ‘ Have you
+ever heard the phrase: Sweatshop is wrong unless the shoes
+are cute?’ (Manager, Brand-A).
+The project slowly entered fadeout mode. After March
+2020, contacts with industry players revealed that our project
+had inspired advancements in traceability but with no intent of
+offering transparency to consumers and stakeholders. As this
+research project concluded, true fashion supply chain trans-
+parency is still non-existent in Brazil (or anywhere else, as far
+as we are aware).
+5 Discussion
+5.1 Exposing the T rue Cost of Blockchain (RQ1)
+W e begin the discussion by answering RQ1:To what extent can
+blockchain reduce transaction costs while improving supply
+chain transparency?
+The fashion supply chain is dispersed and hard to control.
+Focal ﬁrms often source from hundreds of tier-1 suppliers
+that each employ dozens of sewing cells (tier-2 suppliers).
+The further upstream one goes in the supply chain, the more
+dispersed, and consequently, opaque, it becomes. Growing
+pressures to improve control and transparency have led to audit
+schemes that translate into transaction costs. A lack of trust
+and redundance of controls (parallel audit schemes) further
+add to transaction costs. Our intervention revealed that each
+tier-2 sewing cell was usually visited monthly by its tier-1
+suppliers and audited by each focal ﬁrm once per year. Fur-
+ther, the national association also ran its own audit scheme,
+again locally and once per year. As a result, one sewing cell
+– that supplied to, for example, three focal ﬁrms – was likely
+to be audited 16 times per year. However, the focal ﬁrms still
+lacked control, while differences in audit schemes were over-
+burdening suppliers. In response, tier-1 suppliers often acted

@@ -1,0 +1,110 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-109-C35
+Parent Doc ID: A-RES-109
+Page Range: Page 18 to Page 19
+Word Range: 9260 - 9575
+Word Count: 316
+--------------------
+
+[Page 18]
+Solution methodology Food sector
+Cluster
+Case study/
+empirical
+Conceptual/
+qualitative Review Quantitative Dairy
+Meat and
+poultry
+Fruits and
+vegetables Seafood
+Grain and oil
+seeds
+Production and distribution in AFN 45 25 6 3 1 2 5 0 1
+Relationship, safety and standards in food
+supply chain 17 30 11 0 12 3 9 3 3
+GHG emission impact of farm food system 29 8 8 5 20 5 6 6 3
+Traceability and product quality in food
+supply chain 3 13 8 8 0 6 5 0 1
+Asymmetric price transmission in the food
+supply chain 0 7 2 0 2 2 2 1 0
+Total 94 83 35 16 35 18 27 10 8
+Table X.
+Solution methodology
+and food sector
+addressed in the
+reviewed articles
+36
+JAMR
+17,1
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
+
+[Page 19]
+3.3.1 Cluster 1: production and distribution in alternative food network (AFN) . AFN may be
+defined as the networks of production, distribution and consumption of food that propose and
+practice models that can be considered as an alternative to the ones of the conventional/
+standardized food supply system (Bazzani and Canavari, 2013). AFNs are defined by the
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100Number of Articles
+Methods Used
+Conceptual/
+Qualitative
+Review QuantitativeCase study/
+Empirical
+Figure 8.
+Pattern of
+research methods
+0
+10
+20
+30
+40
+50
+60
+Frequency
+Data analysis method
+Descriptive
+Survey
+Regression
+LCA
+Simulation
+Structural equation model
+Factor analysis
+Sensitivity analysis
+MCDM
+SWOT analysis
+ANOV A
+Networ
+k analysis
+Figure 9.
+Pattern of data
+analysis method
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Dairy Fruits and
+Vegetables
+Meat Seafood Grain and
+oil Seeds
+Frequency
+Figure 10.
+Type of food products
+37
+Supply chain
+issues in SME
+food sector
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

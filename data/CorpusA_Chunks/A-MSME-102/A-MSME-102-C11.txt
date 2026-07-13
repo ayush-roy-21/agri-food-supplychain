@@ -1,214 +1,78 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-102-C11
 Parent Doc ID: A-MSME-102
-Page Range: Page 60 to Page 65
-Word Range: 13256 - 14700
-Word Count: 1,445
+Page Range: Page 20 to Page 21
+Word Range: 2638 - 2887
+Word Count: 250
 --------------------
 
-[Page 60]
-60
-Understanding 
-MSMEs
-Chapter 3 
-competitiveness in 
-India using Clusters
+[Page 20]
+20
+Increasing Institutes for 
+Collaboration (IFCs)
+4.
+Institutions for Collaboration (IFCs), as conceptualized by Porter and Emmons, include both formal and informal actors 
+that foster cluster development. These bodies support R&D, productivity enhancement, and process innovation, all 
+vital to MSMEs that typically struggle with limited resources. India’s Micro and Small Enterprises-Cluster Development 
+Programme (MSE-CDP) has instituted Common Facilitation Centres (CFCs). Still, there is a pressing need to elevate 
+them to align with the standards of robust IFCs.Strengthening existing or emerging IFCs could involve consolidating 
+membership, fostering knowledge networks among universities, private entities, and research institutes, and promoting 
+consistent information sharing. Such collaborative entities can accelerate product development, bridge skill gaps, and 
+ensure that MSMEs have better access to the latest technologies. Additionally, re-examining property rights frameworks 
+is important to build trust among stakeholders, so that proprietary information shared within IFCs remains protected.
+The widespread adoption of state-level MSME policies has fostered a conducive environment for enterprise growth, yet 
+awareness and effective utilization remain limited. States should improve information dissemination through targeted 
+awareness campaigns, ensuring that MSMEs fully understand and access available schemes. Enhanced stakeholder 
+engagement during policy formulation, incorporating direct feedback from MSMEs and industry stakeholders, can 
+tailor support measures to actual needs, addressing critical gaps like inadequate financial and technical support. Not 
+all states have MSME specific policies, states which have those policies it is not updated.  In access to finance, states 
+should reconsider existing interest subsidy schemes that often exclude micro-enterprises due to restrictive turnover 
+requirements. Alternative financing mechanisms—such as cash-flow-based lending, equity financing, factoring, and 
+venture capital—should be explored to meet the unique needs of smaller firms. Expanding structured insurance 
+frameworks beyond isolated examples can offer essential risk mitigation, enabling MSMEs to invest more confidently.
+Market access for MSMEs can be improved by addressing capacity constraints in diversification and scaling. Expanding 
+export incentives to include smaller enterprises and investing in digital marketing and e-commerce training can bridge 
+skills and resource gaps. Partnerships with logistics providers and investments in infrastructure will facilitate seamless 
+supply chains, allowing MSMEs to penetrate broader domestic and global markets. States should design modular, short-
+term, and flexible training programs to bolster skill development, particularly targeting rural micro-enterprises. Free or 
+highly subsidised online or on-site training can reduce opportunity costs and update workforce skills in line with industry 
+advancements. 
+Improving access to technology and infrastructure requires a tiered approach. States should focus on foundational 
+needs such as reliable power, co-working spaces, and shared machinery for micro-units while supporting advanced R&D 
+for medium and larger enterprises. Efforts to reduce infrastructure costs—through renewable energy solutions, shared 
+power facilities, and affordable industrial park rentals—will enhance operational stability. Finally, consistent monitoring, 
+Learnings from the State’s MSME 
+policies
 
-[Page 61]
-61
-GVCs serve as critical facilitators of the international exchange 
-of investment, knowledge, and managerial practices that are 
-in line with global standards, thereby significantly bolstering 
-domestic businesses
-C
-lusters play a vital role in enhancing the competitiveness of MSMEs, particularly 
-in the current era of globalisation. Various theoretical frameworks, such as flexible 
-specialization and collective efficiency, have been crafted to examine the dynamics 
-of clusters. Notably, one widely recognized paradigm, Porter’s diamond model, has 
-found extensive application in advanced economies but has been notably overlooked 
-in research on developing nations, especially in the context of India. This section of the 
-paper would critically evaluate the relevance and applicability of Porter’s cluster approach 
-for 5 sectors in India: 
-This is based on data sourced from the Periodic Labour Force Survey (PLFS), the 
-panorama benefits from extensive coverage of the Indian labour force, offering detailed 
-information on wages and employment within 5-digit National Industrial Classification 
-(NIC) industries at the district level. The data is aggregated into cluster categories, 
-formulated by aligning the 5-digit NIC codes with Benchmark Cluster Definitions initially 
-developed in the U.S. and subsequently applied in various other economies. This Indian 
-cluster database affords a comprehensive view of the overall configuration of the Indian 
-economy, the spatial distribution of specific cluster categories across the country, and 
-the cluster portfolios of each Indian district and state. The information derived from this 
-database is instrumental in identifying India’s prominent clusters, as well as evaluating the 
-robustness of cluster portfolios in different districts and states.
-Automotive
-Pharmaceutical and 
-Food Processing
-Textile Manufacturing
-Manufacturing 
-Clusters
-Chemical
-
-[Page 62]
-62
-This methodology is based on India cluster panorama report. ( Kapoor, Ketels, Debroy, & Negi, 
-2023). The objective of this section of paper is to bridge the gap between these two realms 
-of literature, bringing attention to the untapped potential of Porter’s model in unravelling the 
-intricacies of clusters in countries like India.
-Under-
-standing 
-Cluster 
-approach 
-using PLFS & 
-Prowess data 
-The cluster approach is employed to comprehensively understand the performance and 
-dynamics of Small and Medium Enterprises (SMEs) within the Indian economy. The UDYAM 
-portal data reveals that a significant proportion, specifically 81 percent, of MSMEs operate 
-as proprietorships, with 80 per cent falling into the Microenterprise category. Recognising 
-the prevalence of such ownership structures, it becomes crucial to analyse and assess the 
-performance of these enterprises collectively, which the cluster approach facilitates.
-Performance 
-Comparison of 
-India’s MSMEs 
-with other 
-Countries.
-Table: 2 Percentage
-Organisation Type Micro Small Medium
-Proprietary 98.67 1.28 0.05
-Hindu Undivided Family 97.42 2.41 0.17
-Partnership 90.00 9.28 0.72
-Co-Operative 97.54 1.97 0.48
-Private Limited Company 90.70 7.90 1.39
-Public Limited Company 91.64 5.80 2.56
-Self Help Group 99.87 0.12 0.01
-Others 99.78 0.20 0.02
-Limited Liability Partnership 92.77 6.33 0.90
-Society 96.91 2.62 0.47
-Trust 96.47 2.79 0.73
-Source: UDYAM (2020- jan 13 2025) 
-PLFS data contributes valuable insights by classifying proprietary and partnership enterprises 
-as part of the informal sector. PLFS is a household-level survey conducted by the National 
-Statistical Office (NSO) to assess India's labour market. It gathers data on employment, 
-demographics, industry, education, and wages. For our analysis, we use data from surveys 
-between 2017-18 and 2022-23, which cover annually both formal and informal economic 
-activities at the state and district levels. and is a longitudinal exercise. This categorisation is 
-pivotal in understanding the landscape within which a substantial portion of SMEs operates. 
-Specifically, the data indicates that 74.3 percent of workers engaged in proprietary and 
-partnership enterprises are involved in the non-agriculture sector. This information is 
-instrumental in comprehending the nature of employment within these enterprises and 
-highlights the significance of activities in informal sector.
-
-[Page 63]
-63
-NIC Code Description Share
-10 Manufacture of food products 18.58
-13 Manufacture of textiles 8.83
-14 Manufacture of wearing apparel 7.65
-20 Manufacture of chemicals and chemical products 2.38
-27 Manufacture of electrical equipment 2.13
-21 Manufacture of pharmaceuticals, medicinal 
-chemical and botanical products 0.90
-29 Manufacture of motor vehicles, trailers and semi-
-trailers 0.81
-11 Manufacture of beverages 0.87
-30 Manufacture of other transport equipment 0.59
-Understanding SMEs' performance from PLFS data allows for a more nuanced analysis of their 
-contribution, employment patterns, and overall impact on the informal sector. This, in addition 
-to UDYAM data, can contribute to filling the gaps in understanding the MSMEs. Understanding 
-SME performance using PLFS data offers a holistic perspective on economic activity, aiding in 
-the formulation of cluster programmes, targeted strategies and policies to foster the growth 
-and sustainability of these enterprises.
-When we look at formalisation of MSMEs in these manufacturing 
-sectors, we find that: 
-Source: UDYAM (2020- jan 13 2025) 
-The firm-level data utilized in this study is sourced from the Prowess database, which 
-is administered by the Centre for Monitoring the Indian Economy. Prowess aggregates 
-information predominantly derived from the income statements and balance sheets of publicly 
-listed companies. The database encompasses companies that collectively contribute to over 
-70 percent of the economic activity within the organized industrial sector of India. (Topalova, 
-2004)
-To further gauge the value added by Micro, Small, and Medium Enterprises (MSMEs) across 
-various industries—food processing, manufacture of transport equipment, textile, chemical, 
-and pharmaceuticals—we leveraged firm-level data from the Centre for Monitoring Indian 
-Economy’s (CMIE) Prowess database. This database encompasses crucial information 
-extracted from profit and loss accounts and balance sheets of Indian enterprises to offer 
-insights into sales, investments, assets, and ownership type of firms.
-
-[Page 64]
-64
-CMIE 
-Prowess 
-database – 
-Methodology 
-Definition of Segments and 
-Value-Added Calculation
-Identification of Enterprises 
-Step: 1
-Step: 3
-In the initial step of this analysis, segments for the computation of value added were identified 
-using the National Industrial Classification Codes. The chosen segments for this calculation 
-are outlined as follows:
-Data Extraction 
-Step: 2
-For the fiscal years 2014-2022, data extraction was performed, covering indicators such 
-as changes in stock, compensation to employees, insurance premiums, miscellaneous 
-expenditures, packaging costs, power/fuel/water charges, purchase of finished goods, raw 
-materials, rent/lease, repairs/maintenance, sales, and total income.
-In the process of ‘Filtering and Identification Based on Sales Thresholds,’ a meticulous 
-approach was adopted to specifically delineate Micro, Small, and Medium Enterprises 
-(MSMEs). This involved the application of a discerning sales-based filter, isolating companies 
-NIC Division/
-Group Code
-NIC Name
-101 Processing and preserving of meat
-102 Processing and preserving of fish, crustaceans and molluscs
-103 Processing and preserving of fruit and vegetables
-104 Manufacture of vegetable and animal oils and fats
-105 Manufacture of dairy products
-106 Manufacture of grain mill products, starches and starch products
-107 Manufacture of other food products
-108 Manufacture of prepared animal feeds
-110 Manufacture of beverages
-13 Manufacture of textiles
-14 Manufacture or wearable apparel
-201 Manufacture of basic chemicals, fertilizer and nitrogen compounds, plastics 
-and synthetic rubber in primary forms
-202 Manufacture of other chemical products
-203 Manufacture of man-made fibres
-29 Manufacture of motor vehicles, trailers and semi-trailers
-30 Manufacture of other transport equipment
-
-[Page 65]
-65
-Data Cleaning
-Value-Added Calculation and Analysis
-Step: 4
-Step: 5
-To ensure data accuracy, firms with missing values on the aforementioned indicators were 
-systematically filtered out during the cleaning process.
-The cost of intermediate consumption was computed by aggregating relevant expenses, 
-enabling the determination of value added (total income minus cost of intermediate 
-consumption) for each fiscal year. Subsequently, the year-on-year percentage increase in 
-value-added was calculated and visually presented, providing a comprehensive overview of 
-industry dynamics.
-Limitations
-The dataset's relatively small sample size may limit its representativeness of the 
-broader MSME landscape in India, as it predominantly includes firms adhering 
-to standardised bookkeeping practices. This exclusion may introduce potential 
-inaccuracies in assessing the true value added by diverse enterprises, especially 
-micro-enterprises that may not follow such practices.
-Limited Sample Size: 
-with sales figures falling within the Rs.2500 million range. The primary objective of this 
-filter is to precisely identify and distinguish MSMEs from larger corporations. The analysis is 
-strategically tailored to concentrate on enterprises within the delineated MSME category by 
-implementing a defined sales threshold. This deliberate refinement enhances the precision of 
-the examination of MSMEs, allowing for a more nuanced understanding which distinguishes 
-MSMEs from larger corporations. 
-A significant number of missing values in the dataset poses a challenge to the 
-reliability and comprehensiveness of the analysis. The absence of data points may 
-result in gaps in crucial indicators, affecting the accuracy of value-added calculations. 
-This limitation underscores the need for cautious interpretation of findings.
-The proprietary data collection methodology employed by the Centre for Monitoring 
-the Indian Economy (CMIE) may deviate from national and international standards. 
-This distinction should be considered in interpreting the analysis’s findings.
-Missing Values:
-Methodological Variations:
+[Page 21]
+21
+Rethinking Clusters for MSME 
+Development
+1.
+India’s cluster policy dates back to 1987 and draws upon ideas of collective efficiency. However, it diverges from global 
+best practices from developed countries such as the United States and the European Union. These regions use cluster 
+mapping as a sophisticated tool for informing policy decisions and promoting cross-border collaborations. 
+There is a need for India to reimagine its cluster development approach; policymakers must redefine clusters . Clusters 
+are not just sectors – they capture the geographic footprint of economic activities, not because they belong to the 
+same statistical classification but because industries are systematically related through local spillovers and linkages. The 
+Indian definition of clusters aligns more closely with the concepts of Collective Efficiency (as proposed by Schmitz) and 
+certain elements of Flexible Specialization (according to Piore and Sabel) A well-structured cluster policy can unlock 
+synergies between SMEs, research institutions, universities, and Institutes for collaborations, forming robust ecosystems. 
+Personalized services to SMEs—such as diagnosing innovation capabilities, mapping out growth roadmaps, and bridging 
+technology gaps—can catalyze productivity gains. By fostering stronger ties between universities and industries, clusters 
+can facilitate knowledge transfer and accelerate the commercialization of research.
+Learnings from Cluster-Level 
+Analysis
+evaluation, and transparent communication would benefit policy formulation and implementation. Strengthening 
+stakeholder participation via MSME-specific forums, refining industrial statistics, and public sharing of policy evaluation 
+data will foster evidence-based decision-making and continuous improvement, ultimately creating a more resilient and 
+competitive MSME ecosystem at the state level.
+Many textile clusters rely heavily on upstream activities like raw material processing.Policymakers can encourage a move 
+toward downstream activities that add higher value—such as designing finished garments or specialized fabric. This 
+pivot could involve partnering with design schools, modernizing capital equipment, and fostering digital supply chain 
+linkages, as highlighted by the Economic Survey 2024’s emphasis on upgrading weaving and processing segments. 
+Notable regions with strong textile specializations include Surat, Ludhiana, and Tiruppur, where reinforcing cluster 
+efficiency can foster economies of scale, streamline production, and improve branding for global markets.
+Cluster-Specific Recommendations2.
+Textile Manufacturing 
+and Apparel

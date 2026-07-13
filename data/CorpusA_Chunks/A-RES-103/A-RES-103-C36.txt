@@ -1,0 +1,52 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C36
+Parent Doc ID: A-RES-103
+Page Range: Page 22
+Word Range: 9522 - 9920
+Word Count: 399
+--------------------
+
+[Page 22]
+21 
+assessment status was verified by the audit  team and is reflected in each laboratory’ s 
+scope of accreditation with the inclusion of the date of assessment and  the official seal 
+of the EIC on each page of the respective document describing the scope. 
+56. The laboratories visited were: 
+Laboratory Area of testing covered during the visit 
+EIA Mumbai milk – residue monitoring plan 
+EIA Kochi  aquaculture – PET 
+EIA Chennai poultry – residue monitoring plan 
+aquaculture – PET 
+MPEDA Kochi aquaculture – residue monitoring plan 
+MPEDA Bhubaneswar aquaculture – residue monitoring plan 
+aquaculture – PHT 
+ 
+57. Similar to measures required in the EU  (38), in all of the laboratories visited there were 
+procedures and instructions for sample reception and handling and these were adhered 
+to. In the sample reception areas, sample seals, temperature, quantity and sample 
+submission forms are checked, and details recorded with evidence seen of the recording 
+of sample deviations and follow -up communications to flag rejected samples and 
+request additional sampling. Additionally, residue monitoring samples were stored in 
+appropriate and adequately monitored conditions. 
+58. The EIA and MPEDA laboratories use electronic systems such as an in -house 
+laboratory information management system used by the EIA and an electronic tool 
+called “e -National Residue Control Plan”  used by MPEDA to log and track sample 
+analysis in the laboratory. Furthermore, seals for samples drawn under the residue 
+monitoring plans, the PET and the P HT have a unique ID number which is checked  
+against the details recorded on the sample form at the time of reception and sample 
+login at the laboratory. These measures are similar to what is required in the EU with 
+regard to sample traceability (
+39). 
+59. The laboratories visited indicated that they operated an agreed sampl e analysis 
+turnaround time of 10 days (EIA laboratories Mumbai, Kochi, Chennai), 15 or 20 days 
+(MPEDA Bhubaneswar, MPEDA Kochi) from the receipt of the samples. The 
+documents inspected by the audit team indicated that these analysis turnaround times 
+were largely achieved and in the case of the EIA, Mumbai, this was an improvement 
+relative to the 2018 report.  
+60. The storage and management of reference standards was found to be adequate in all of 
+the laboratories visited. Internal standards and matrix -matched c alibration were used 
+routinely for the  Liquid Chromatography-(Tandem) Mass Spectrometry  (LC-MS/MS) 
+methods evaluated. In the case of ELISA for PHT , the test kits used are supplied with 
+ 
+(38) Points 1, 5 and 7 of Annex II to Regulation (EU) 2021/808.  
+(39) Point 3 of Annex II to Regulation (EU) 2021/808.

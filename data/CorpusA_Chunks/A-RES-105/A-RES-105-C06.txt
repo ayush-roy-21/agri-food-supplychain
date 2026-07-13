@@ -1,0 +1,62 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-105-C06
+Parent Doc ID: A-RES-105
+Page Range: Page 5
+Word Range: 1516 - 1903
+Word Count: 388
+--------------------
+
+[Page 5]
+Journal of Decision Analytics and Intelligent Computing 2(1) (2022) 36-52 Verma et al. 
+ 40  
+ 
+From secondary database, scopus has been used for identifying the critical factors for sustainable supply chains in 
+SMEs and to evaluate the underpinning theories. It is crucial to decide the essential metrics to be measured when 
+assessing individual SSCM regions' significance. T his system is especially relevant when empirical field research 
+contradicts the hypothetical conceptualization of a study by Ashby (1986).  The Table 2 presents survey of 
+literature emphases on 3 factors of industry, social, and, most notably, ecological factors.  
+Table 2. Critical success factors for sustainable supply chain 
+  
+S.No. Critical Success Factors (CSFs) Author(s) 
+ Organizational commitment 
+1.  Initiation and commitment of top management Bhadu et al (2022); Joseph et al.,(2022); Joshi et 
+al. (2020);  Gao et al. (2022) 
+2.  Strategic planning 
+Araújo et al. (2022); Joshi et al. (2020); Veskaisri 
+et al., (2007); Bautista et al. (2019); Prakash et al 
+(2020);Sharma et al. (2022) 
+3.  Enhanced brand image Joshi et al. (2017); M'zungu et al. (2019)  
+4.  Human resources management practices Li et al. (2019); Singh et al. (2020); Sharma et al. 
+(2021); L'Écuyer et al. (2019).   
+5.  Long-term vision for survival and growth 
+Didonet et al. (2020); Yusoff (2018);  
+Manzaneque-Lizano et al. (2019); Makhloufi et 
+al. (2022);  Prasad et al. (2015) 
+6.  Focus on core strengths 
+Bada, and Nurse (2019); Ng et al. (2019); 
+Mohammad and Oduoza, (2019); Mou et al. 
+(2018).   
+7.  Development of effective SCM strategy Valdez-Juárez  et al., (2018); Wang et al. (2022); 
+Zaridis et al. (2021) 
+8.  R&D spending by organizations 
+Brouthers, and Nakos, (2004); Ćudić et al., 
+(2022); Dinnetz and Mireles, (2022); Shantanu et 
+al., (2018); Tsai et al.(2022).  
+9.  Willingness towards investment 
+Khandelwal and Singh (2022); Joshi, S. (2018); 
+Côté et al. (2022);   Kalinic, I., & Brouthers, K. D. 
+(2022). 
+Joshi et al. (2018); Luthra et al. (2022);  
+Rodríguez-Espíndola et al., (2022) 
+10.  Benchmarking system 
+Joshi, S., & Sharma, M. (2014); Gress and 
+Kalafsky (2022); Garcia-Alonso et al. (2022) 
+Gress, D. R., & Kalafsky, R. V. (2022).;  García-
+Alonso Wankhede, V. A., & Vinodh, S. (2022). 
+Benchmarking Industry 4.0 readiness evaluation 
+using fuzzy approaches. Benchmarking: An 
+International Journal. 
+11.  Performance measurement system Tsai et al. (2022); Naeem, and  Garengo,(2022);  
+Kim (2022).   
+             Legislation/ Government support 
+12.  Central government legalizations Joshi, and Sharma (2021); Reim et al. (2022);

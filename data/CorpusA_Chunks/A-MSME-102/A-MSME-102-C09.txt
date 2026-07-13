@@ -1,166 +1,48 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-102-C09
 Parent Doc ID: A-MSME-102
-Page Range: Page 52 to Page 56
-Word Range: 10732 - 11978
-Word Count: 1,247
+Page Range: Page 19
+Word Range: 2127 - 2387
+Word Count: 261
 --------------------
 
-[Page 52]
-52
-Competitiveness 
-Framework: 
-Chapter 2 
-MSMEs and the Path to Prosperity
-
-[Page 53]
-53
-While the crucial role played by MSMEs in fostering shared prosperity is widely 
-recognised, both government and business leaders continue to grapple with the 
-question of how to effectively address the challenges hampering SME development 
-and competitiveness. This acknowledgement is coupled with the acceptance of 
-various challenges MSMEs face that impede their growth and competitiveness.  The 
-urgency of addressing longstanding challenges such as limited access to credit 
-markets, inadequate market linkages, and outdated technology has become even more 
-pronounced (Daño-Luna, Maribel, & Francisco, 2018). This heightened urgency is driven 
-by the evolving structure of the marketplace, the constraints posed by limited resources, 
-the management capabilities (Deniz, 2013), (Hautz, 2014), and the ongoing need for 
-continuous capacity building. In this context, improving competitiveness emerges as the 
-sole pathway to survival (Chobanyan & Laurence, 2006).
-Emerging in the 1980s, the concept of competitiveness was studied by Buckley, 
-Pass, and Prescott (1988) by examining extant literature which reveals the difficulty 
-in measuring competitiveness at the levels of country, industry, firm, and product 
-(Buckley, 1988). Michael Porter (1990), in his book ‘The Competitive Advantage of 
-Nations’, outlined a new approach to competitiveness. A concept that was approached 
-mainly through a macroeconomic lens or a focus on resources inherent to a location, 
-took on a productivity-based framework in this seminal work.  This break-away from 
-other conceptions of competitiveness emphasized that it is not about what a location 
-possesses, but how productively the firm or the nation uses available resources. 
-Porter highlights the importance of building microeconomic capabilities in the national 
-business environment where firms compete, without which the broader macro-framework 
-would not bear fruit . This understanding is especially significant in the Indian business 
-scenario which harbours a majority of small enterprises. The expectations and actions of 
-firms, customers, suppliers, and associated institutions must be taken into consideration. 
-The competitiveness framework thrust on assessing microeconomic foundations of 
-economic activity will help in capturing this aspect. 
-Porter highlights the importance of building microeconomic 
-capabilities in the national business environment where firms 
-compete, without which the broader macro-framework would 
-not bear fruit . This understanding is especially significant in 
-the Indian business scenario which harbours a majority of small 
-enterprises.
-
-[Page 54]
-54
-This approach transcends the mere geographic proximity of producers or industries. It 
-considers the interconnections between diverse firms and institutions within a given location. 
-Porter’s 
-Diamond 
-Model
-&
-The Microeconomic pillar is composed of two essential components 
-The presence of related and 
-supporting industries. 
-The quality of the business 
-environment in the nation
-Using the diamond model as a tool to measure national competitiveness, Porter has proposed 
-a competitiveness gauge to assess the business environment of a nation or a firm. The 
-diamond model is, thus, an integral aspect of the microeconomic pillar of the competitiveness 
-framework (Ketels, 2017). This model comprehensively considers factor conditions, demand 
-conditions, related and supporting industries, the structure of strategy, and rivalry. These 
-factors make up the national environment where companies are born and learn how to 
-compete.
-Firm strategy, Structure 
-and Rivalry
-Related and supporting 
-industries
-Factor Conditions Demand Conditions
-Source: Michael Porter, On Competition, 1990
-Factor Conditions encompass a nation's intrinsic resources and capabilities, spanning 
-skilled labor, infrastructure, and natural resources. The quality and quantity of these 
-factors intricately shape the overall competitiveness of a country. Demand Conditions, 
-another facet of the model, pivot on the nature and extent of demand within the domestic 
-market, acting as catalysts for innovation and product development. A sophisticated and 
-demanding local market serves as a driving force, compelling firms to enhance their offerings 
-through continuous improvement and innovation. The aspect of Related and Supporting 
-Industries underscores the significance of robust, interconnected industries and supportive 
-infrastructure, collectively contributing to the competitiveness of a particular industry. The
-
-[Page 55]
-55
-Macroeconomic Policy
-Microeconomic Policy DIAMOND 
-CLUSTER
-Firm Level (Large Enterprises 
-MSMEs etc)
-synergy among these industries within clusters creates a mutually reinforcing environment, 
-fostering overall competitiveness. Lastly, Firm Strategy, Structure, and Rivalry delineate the 
-conditions governing the creation, organization, and management of companies, coupled 
-with the intensity of domestic competition. The presence of vigorous domestic competition is 
-highlighted for its potential to spur innovation and operational efficiency among firms. Each 
-factor in this model and the interplay of the four together affect essential ingredients for 
-achieving international competitive success. Some economies have an interplay of these four 
-factors that harbours an environment conducive to growth for certain companies. 
-The diamond model provides nuanced insights into the dynamics of competitiveness. 
-Transitioning from this microeconomic perspective, the overarching business environment 
-illustrated in the figure below, exerts deterministic forces originating from historical, 
-geographical, and culturally-bound institutions (1). In contrast, policy choices provide 
-opportunities for citizens to actively sculpt the future of their society. On the economic front, 
-macroeconomic policies (2) wield influence over the general business environment, while 
-microeconomic policies (3), inclusive of cluster initiatives designed to optimize the functioning 
-of the microeconomic "engine," directly impact the diamond and clusters. Furthermore, 
-strategies formulated within firms and entrepreneurial activities (4) serve as proactive forces 
-that significantly contribute to shaping both clusters and society at large (Sölvell, Lindqvist, & 
-Ketels, 2003). This interconnected framework underscores the symbiotic relationship between 
-macroeconomic forces, microeconomic dynamics, and entrepreneurial endeavors in driving 
-national competitiveness.
-Source: The Cluster Initiative Greenbook (modified version)
-We move forth to understand the other essential component of the microeconomic aspect of 
-competitiveness – i.e., Related and Supporting Industries or the presence of clusters in the 
-next section.  
-General Business Environment
-3
-2
-1
-4
-
-[Page 56]
-56
-Clusters 
-Concept 
-Evolution 
-Cluster 
-Approach: 
-Unravelling 
-Divergences 
-in Adoption in 
-India 
-The role of clusters in enhancing the competitiveness at firm level (including MSMEs is 
-exceedingly important particularly in the current era of globalization. It was first mentioned 
-by Alfred Marshall, who laid the foundation for understanding the externalities within clusters 
-(Marshall, 1920). Post this various models, such as the Collective Efficiency Model (Schmitz, 
-1995), Flexible Specialization Model ,and Diamond Model (Porter M. E., Clusters and the New 
-Economies of Competition, 1998) were employed for the analysis of clusters (Neven & Dröge, 
-2001). 
-There are differences in each model: Piore and Sabel’s Flexible Specialization Model views 
-a cluster as an industrial district comprised of small enterprises engaged in a complex 
-network of competition and cooperation, emphasizing value creation, holistic approaches, 
-and the dynamic aspects of the cluster. Each model contributes unique insights, collectively 
-enriching the understanding of clusters in diverse contexts. In contrast, Schmitz’s Collective 
-Efficiency Model conceptualizes a cluster as a group of producers engaged in similar activities 
-in close proximity, focusing on factor conditions, demand conditions, externalities, joint action, 
-flexibility, economies of scope, innovation, and product differentiation.  Whereas Porter’s 
-Diamond Model defines a cluster as a network of interconnected firms and institutions in 
-a specific field located within a particular geographical area, emphasizing firm strategy, 
-structure, rivalry, factor conditions, demand conditions, and related and supporting industries. 
-Out of all models, Porter’s definition of cluster has found extensive application in advanced 
-economies but has been notably overlooked in research on developing nations7.  
-While acknowledging the advantages, the Government of India 
-has initiated cluster-forming endeavours and devised strategies 
-to amplify this ecosystem’s scale for MSMEs. The Ministry of 
-Micro, Small and Medium Enterprises (MSME), Government of 
-India (GoI) has adopted the Cluster Development approach 
-as a key strategy for enhancing the productivity and 
-competitiveness as well as capacity building of Micro 
-and Small Enterprises (MSEs) and their collectives in 
-the country.
+[Page 19]
+19
+Technological Development in 
+MSMEs
+3.
+Enhancing Supply Chains
+The technological development of MSMEs is closely linked with robust supply chain integration. Improved supply chains 
+can help MSMEs harness global value chains (GVCs), boosting their exports and competitiveness. Although India’s 
+GVC participation has risen over the years, it remains below that of major economies and regional competitors. The 
+government can facilitate process innovation, reduce costs, and improve product management within MSME clusters 
+by prioritising efficient logistics, digital linkages, and smart trade infrastructure. Streamlining supply chains also brings 
+broader benefits, such as stabilizing food prices by reducing bottlenecks in essential commodities. In sectors like 
+textiles and food processing, targeted initiatives—ranging from building electronic linkage platforms to funding trade 
+fairs—can spur innovation and market access. 
+between government bodies, educational institutions, and industries can prove invaluable. These collaborations can 
+create new, dynamic curricula and training modules, including shorter, flexible programs, that meet the evolving 
+needs of MSMEs. To ensure training relevancy, boards or councils mandated with periodically reviewing and updating 
+occupational standards should be formed. Further, cost-sharing or grant-based models to subsidize the costs of 
+training and technology adoption for micro-enterprises can go a long way in encouraging widespread participation. 
+By identifying granular skill demands, states can better align training programs with industrial requirements, thus 
+boosting MSME productivity.
+Artificial Intelligence (AI) holds immense potential for MSMEs, but adoption barriers remain high. Many MSMEs lack 
+familiarity with India’s data protection laws and are unaware of how to ensure data compliance when integrating AI. 
+Government-led awareness campaigns and simplified guidelines on data protection can encourage responsible AI use 
+and reduce the risk of non-compliance. A shortage of qualified AI professionals is another critical hurdle: many MSMEs 
+lack the in-house expertise to evaluate, select, and implement AI solutions. Collaborative platforms connecting MSMEs 
+with academic institutions, AI consultants, and larger tech companies can bridge this skills gap. Affordability is another 
+persistent challenge, especially with AI tools, as computing infrastructure and training costs remain prohibitive for 
+smaller enterprises. Targeted financial assistance—such as grants, subsidies, tax incentives, or low-interest loans—and 
+cloud-based, pay-as-you-go AI solutions can make advanced technologies more accessible. Such interventions would 
+align with the finding that most MSMEs want AI to be both affordable and equitably accessible.
+Enhance Risk Management through Digital and Insurance Solutions
+Integrating AI in MSMEs
+MSMEs benefit greatly from affordable digital risk management solutions, particularly those in sectors with extended 
+supply chains like food processing. Real-time monitoring tools, such as sensor-based tracking, can reduce inventory 
+risks, optimize logistics, and limit damage during transit. Insurance combined with these digital tools adds another 
+layer of protection against operational shocks. Drawing on experiences from countries like Thailand and Malaysia, 
+where combining sensor-based tracking with insurance has proven successful, India could encourage a similar model 
+for its MSMEs. Collaborations between insurance providers and technology firms that offer training, awareness, and 
+affordable insurance packages could greatly enhance MSME resilience.

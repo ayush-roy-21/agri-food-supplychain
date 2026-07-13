@@ -1,0 +1,128 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-104-C30
+Parent Doc ID: A-RES-104
+Page Range: Page 9 to Page 10
+Word Range: 7521 - 7770
+Word Count: 250
+--------------------
+
+[Page 9]
+Xue et al. 10.3389/fsufs.2025.1649834
+Frontiers in Sustainable Food Systems 09 frontiersin.org
+presence while also promoting long-term environmental, social, and 
+economic sustainability ( Rui and Sundram, 2024 ; Odimarha 
+et al., 2024).
+5.4 Local food systems and supply chain 
+flexibility
+By shortening supply chains, forming farmer cooperatives, and 
+engaging in urban agriculture, local and regional food systems are 
+strengthened with a view to increasing resilience and sustainability, 
+lessening dependence on global networks, as well as enhancing 
+nutritional stability in areas like the UAE (Sharma et al., 2023). The 
+COVID-19 pandemic underscores that managing interruptions 
+strategically starts with a careful assessment of options available in 
+supply chain design and flexibility. Supplier diversification and 
+multiple procurement are strategies that can help manage disruption 
+effects by reducing the chances of reliance on a single source (Tomlin, 
+2006; Saghafian and Van Oyen, 2016 ). Effective inventory 
+management strategies, like positional strategies, help reduce risks 
+in the supply chain. Techniques such as Risk Exposure Index (REI) 
+and Conditional Value at Risk (CVaR) can identify the optimal 
+inventory layout (Gao et al., 2019). The transition from food services 
+to food retail demands readjustments within the agricultural product 
+supply network, since interruptions could occur ( Tomlin, 2006; 
+Hobbs, 2021). By investing in strategies like flexible sourcing and 
+multiple delivery locations, supply chain issues can be  resolved. 
+Reliability of AFSC can be  further improved with supplier 
+diversification. Also, strategic inventory management will help 
+enhance agricultural food supply chain resilience. Building on the 
+earlier points about the importance of flexibility and strategic 
+management in supply chains, investing in automation, digitization, 
+and online deliveries will be  key to strengthening resilience and 
+lessen dependence on global networks ( Hobbs, 2021 ). These 
+technologies can directly address the vulnerabilities as discussed 
+before, like disruptions in supply chains, by boosting efficiency, 
+enabling real-time monitoring, and increasing adaptability within 
+agricultural food systems. These shifts, if properly implemented, 
+might be a game-changer in tackling future disruptions.
+5.5 Collaborative education and capacity 
+building
+The importance of public-private partnerships is to use resources, 
+share infrastructure, and plan for the long-term disruptions a 
+man-made or natural disaster can cause, to increase robustness as well 
+as efficiency of AFSC (Gabler et al., 2017). It is especially important 
+that there be public-private cooperation in urban water distribution 
+design. Regional cooperation between public utilities can contribute 
+to enhancing the reliability along with financial stability of the water 
+provision (Gold et al., 2022). Collaborating with public authorities and 
+private enterprises, alongside global cooperation and capacity 
+building, may enhance food supply resilience by improving access to 
+FIGURE 3
+Technological interventions in the agri-food supply chain.
+
+[Page 10]
+Xue et al. 10.3389/fsufs.2025.1649834
+Frontiers in Sustainable Food Systems 10 frontiersin.org
+resources, knowledge, and innovations while reducing risks associated 
+with AFSC. According to Zhao et  al. (2022), developing training 
+programs and coordinating the efforts of farmers, associations, and 
+other stakeholders can improve adaptability and supply chain 
+resilience. When farmers and workers interact regularly and share 
+knowledge, they better handle challenges that could cause disruption. 
+Digital technology also aids in the design of resilience strategies and 
+uncertainty management in AFSCs (Belhadi et al., 2024 ). Figure 4 
+presents the resilience solutions framework comprising five pillars that 
+enhance AFS resilience. These include policy and governance 
+(strategies and regulations), financial instruments (insurance and 
+credit), technological innovations (IoT, AI, blockchain), local food 
+systems (shorter supply chains and diversification), and capacity 
+building (training and partnerships). Together, they improve 
+resilience, reduce vulnerability, and strengthen food security and 
+risk management.
+6 Case studies of recent disruptions
+The COVID-19 pandemic caused labor shortages within 
+meatpacking and produce cultivation due to employee infections of 
+COVID-19 at manufacturing facilities and farms (Hobbs, 2021), as 
+shown in Figure 5. This figure illustrates a timeline of key global 
+disruptions from 2015 to 2024 and their cascading impacts on 
+AFSC. Events such as El Niño droughts, COVID-19, the Russia–
+Ukraine war, and ongoing inflation are linked with impacts including 
+food insecurity, rising prices, and supply chain fragility. The figure 
+emphasizes how overlapping crises have compounded vulnerabilities, 
+highlighting the urgent need for more resilient, adaptive, and 
+diversified AFSs. Food losses occurred because of labor disruptions, 
+higher transportation costs, and poor storage facilities during the 
+pandemic (Abu Nahleh et al., 2023). As dietary habits shifted from 
+hospitality sectors to grocery retail, the associated supply chains faced 
+supply, logistics, and distribution challenges that destabilized the 
+economy, especially among SMEs (Hobbs, 2021; Ramanathan et al., 
+2021). The coronavirus pandemic caused adverse impacts on 
+nutritional stability and income sources worldwide, particularly in 
+areas that had weak supply chains, high poverty, and market 
+informality before the pandemic ( Swinnen and Vos, 2021 ). The 
+agricultural food sector fast-tracked the implementation of intelligent 
+technologies and Industry 4.0 solutions during the worldwide health 
+crisis, resulting in improved business processes and reduced 
+operational risks ( Ali and Govindan, 2021 ). Investment in online 
+delivery infrastructure has permanently altered the food retailing 
+landscape. The COVID-19 crisis exposed both the vulnerabilities as 
+well as resilience of AFSC. It has led to not only a growth in online 
+retailing of food and agricultural goods but also a rise in the use of 
+digital technologies. Many believe these changes may last long, 
+leading to greater automation and digitalization, and possibly more 
+flexible supply chain configurations (Hobbs, 2021; Ali and Govindan, 
+2021; Suali et al., 2024).
+Due to the war, pre-existing problems in AFSC have worsened, 
+as illustrated in Table 3. Panic, inflation, and food insecurity have 
+crippled import-dependent regions (Hussein and Knol, 2023). The 
+halt in cereal shipments out of Russia and Ukraine has caused serious 
+disruption to global grain trade, particularly wheat. Many countries 
+have faced wheat supply shocks, with nearly 30 countries suffering. 
+Fertilizer supply has also seen disruption, given that Russia is a major 
+supplier of natural gas and fertilizers (Ben Hassen and El Bilali, 2022; 
+Esfandabadi et  al., 2022; Liu L. et  al., 2023 ). According to Hatab 
+(2022), the war affects the food supply chain via fuel sectors, transport 
+corridors, farm supplies, rising food costs, and commercial 
+restrictions. This has especially adverse effects on access to adequate 
+FIGURE 4
+Resilience solutions framework for agri-food systems.

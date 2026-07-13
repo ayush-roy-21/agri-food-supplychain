@@ -1,319 +1,86 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-102-C05
 Parent Doc ID: A-MSME-102
-Page Range: Page 34 to Page 39
-Word Range: 5273 - 6586
-Word Count: 1,314
+Page Range: Page 17 to Page 18
+Word Range: 1109 - 1358
+Word Count: 250
 --------------------
 
-[Page 34]
-34
-01
-Outline
-of the Paper
-This paper is structured into four key chapters, 
-each meticulously designed to contribute to 
-the comprehensive understanding of Small and 
-Medium Enterprises (SMEs) competitiveness.
-Chapter
-Understanding MSMEs Challenges 
-for Enhancing Competitiveness Competitiveness 
-Framework: MSMEs and the 
-Path to Prosperity
-In this initial chapter, we explore the challenges faced 
-by Micro, Small, and Medium 
-Enterprises (MSMEs). 
-By scrutinizing these 
-challenges, we aim to lay the 
-groundwork for a profound 
-comprehension of the 
-intricate dynamics influencing 
-their competitiveness.
-Building upon the insights garnered from the 
-challenges delineated in the first chapter; the 
-second chapter explores the competitiveness 
-framework and cluster approach’s concept. This 
-framework serves as a guiding compass, charting 
-the trajectory for MSMEs on the path to prosperity.
-Chapter
-02
+[Page 17]
+17
+This report is structured into four key chapters, each designed 
+to deepen our understanding of India’s Micro, Small and 
+Medium Enterprises ( MSMEs) competitiveness. 
+T 
+he exploration begins by examining the challenges faced by Micro, Small, and Medium Enterprises (MSMEs) and 
+progresses toward a detailed analysis of competitive frameworks, cluster dynamics, and policy effectiveness. Each 
+chapter builds upon the previous one, culminating in robust recommendations for strengthening MSME competitiveness. 
+The opening chapter “Understanding MSMEs Challenges for Enhancing Competitiveness” delves into the array 
+of challenges confronting MSMEs—ranging from financial constraints and technological gaps to skill shortages and 
+regulatory hurdles. By thoroughly examining these barriers, the chapter lays a foundation for identifying key areas that 
+require strategic intervention. Overcoming these challenges is pivotal for creating an environment where MSMEs can 
+thrive and compete effectively.
+Building on the insights from the first chapter, the second chapter “Competitiveness Framework – MSMEs and the 
+Path to Prosperity ” introduces a competitiveness framework rooted in cluster theory. This framework charts a path 
+to prosperity by emphasizing the role of collaborative ecosystems, where enterprises, suppliers, and institutions work 
+in synergy. By leveraging these clusters, MSMEs can enhance efficiency, spur innovation, and respond more adeptly to 
+market demands, thus gaining a competitive edge.
+The third chapter “Understanding MSMEs Competitiveness in India Using Clusters Approach”. The cluster approach 
+is employed to comprehensively understand the performance and dynamics of Small and Medium Enterprises (SMEs) 
+within the Indian economy. Periodic Labour Force Survey (PLFS) data indicates that 74.3 percent of workers engaged 
+in proprietary and partnership enterprises are involved in the non-agriculture sector. This information is instrumental in 
+comprehending the nature of employment within these enterprises and highlights the significance of activities in informal 
+sector. Understanding SMEs’ performance from PLFS data allows for a more nuanced analysis of their contribution, 
+employment patterns, and overall impact on the informal sector. This, in addition to UDYAM registration portal, can 
+contribute to filling the gaps in understanding the MSMEs. The UDYAM portal data reveals that a significant proportion, 
+specifically 81 per cent, of MSMEs operate as proprietorships, with 80 per cent falling into the Microenterprise category. 
+Recognising the prevalence of such ownership structures, it becomes crucial to analyse and assess the performance 
+of these enterprises collectively, which the cluster approach 
+facilitates.
+The final chapter is the review of  the policy landscape governing 
+MSMEs at national and state level, evaluating the effectiveness of 
+current measures aimed at bolstering competitiveness. It reveals 
+that despite numerous policies, gaps in awareness, stakeholder 
+engagement, and adaptability limit their impact. The chapter 
+concludes with recommendations for a more robust, adaptive 
+policy framework that responds to the evolving needs of MSMEs, 
+emphasizing continuous monitoring, feedback integration, and 
+data-driven adjustments.
 
-[Page 35]
-35
-04
-Chapter
-Policies for MSMEs in India
-The final chapter of this paper delves into the policy landscape governing MSMEs in 
-India. We aim to unravel their efficacy in enhancing competitiveness by scrutinising 
-existing policies. This evaluation serves as a crucial step towards proposing 
-recommendations for a more robust and adaptive policy framework.
-03
-Chapter
-Understanding MSMEs Competitiveness in 
-India Using Clusters Approach
-In the third chapter, we adopt a nuanced approach by leveraging the 
-Clusters methodology to comprehend the competitiveness of MSMEs in 
-5 sectors in the Indian context. By exploring the synergies and dynamics 
-within clusters, we seek to uncover unique insights that contribute to a 
-more tailored understanding of competitiveness.
-Throughout this exploration, our 
-overarching objective is to identify 
-challenges and provide a forward-
-thinking perspective on understanding 
-MSME competitiveness. We emphasize 
-the importance of adaptability in policy 
-formulation and strategic approaches, 
-essential for addressing the evolving 
-intricacies within and surrounding the 
-MSME sector. Through this paper, 
-we have strived to contribute 
-meaningfully to the ongoing discourse 
-on SME competitiveness.
-
-[Page 36]
-36
-Understanding 
-MSMEs Challenges
-Chapter 1 
-for Enhancing Competitiveness
-
-[Page 37]
-37
-GVCs serve as critical facilitators of the international exchange 
-of investment, knowledge, and managerial practices that are 
-in line with global standards, thereby significantly bolstering 
-domestic businesses
-I
-ndian MSMEs grapple with a myriad of challenges, ranging from difficulties in timely 
-access to information, irregular and inappropriate financial resources, shortage of 
-quality human capital, access to credit and low-cost technology, and the prevalence of 
-large-scale informality that impedes their growth trajectory (Kapoor, 2023). According to 
-an enterprise survey by the World Bank, the following are the biggest obstacles SMEs face 
-in India.  
-Existing research highlights key obstacles hindering the growth and competitiveness 
-of Micro, Small, and Medium Enterprises (MSMEs) in India. A thorough examination and 
-comprehension of these concerns are crucial for developing successful strategies and 
-interventions to overcome the challenges MSMEs encounter, thereby enhancing their 
-resilience and competitiveness in the Indian economy.
-Biggest Obstacles 
-faced: By 
-manufacturing and 
-services SMEs in 
-India- 2022
-Fig. 3
-0
-2
-4
-6
-8
-10
-12
-14
-16
+[Page 18]
 18
-20
-Percent 
-of firms 
-choosing 
-customs 
-and trade 
-regulations as 
-their biggest 
-obstacle
-Percent 
-of firms 
-choosing 
-electricity as 
-their biggest 
-obstacle
-Percent 
-of firms 
-choosing 
-inadequately 
-educated 
-workforce as 
-their biggest 
-obstacle
-Percent 
-of firms 
-choosing 
-labor 
-regulations 
-as their 
-biggest 
-obstacle
-Percent 
-of firms 
-choosing 
-political 
-instability 
-as their 
-biggest 
-obstacle
-Percent 
-of firms 
-choosing 
-practices of 
-the informal 
-sector 
-as their 
-biggest 
-obstacle
-Percent 
-of firms 
-choosing tax 
-administration 
-as their 
-biggest 
-obstacle
-Percent 
-of firms 
-choosing 
-tax rates as 
-their biggest 
-obstacle
-Source: Enterprise 
-Survey, World Bank 
-2022
-2022 Manufacturing
-2022 Services
-
-[Page 38]
-38
-Challenges 
-MSMEs face 
-are: 
-Formalisation1.
-Informal firms rarely undergo formalisation. Only 9% of the 
-registered firms start out as unregistered. (Porta & Shleifer, 
-2014). MSMEs dominate the informal sector, ILO estimates 
-about 90% of the informal sector are MSMEs3  (ILO, 
-2023). These unregistered, informal firms tend to 
-be constrained to an ecosystem associated with 
-low income and low entry barriers; disjoint from 
-the formal space (Ishengoma & Kappe, 2006) 
-(Mehrotra & Giri, 2019)). This informality within firms 
-significantly hampers their integration into Global 
-Value Chains (GVCs). Enhanced integration into 
-GVCs is predominantly influenced by two critical 
-factors: competitiveness and connectivity (ADB, 
-2015). For firms to bolster their competitiveness and 
-connectivity, an enabling environment must allow 
-them to effectively leverage policy frameworks and 
-market mechanisms.
-Existing research highlights key obstacles hindering the growth and competitiveness of Micro, 
-Small, and Medium Enterprises (MSMEs) in India. A thorough examination and comprehension 
-of these concerns are crucial for developing successful strategies and interventions 
-to overcome the challenges MSMEs encounter, thereby enhancing their resilience and 
-competitiveness in the Indian economy.
-3      https://www.ilo.org/employment/units/emp-invest/informal-
-economy/lang--en/index.htm#:~:text=The%20informal%20
-economy%20comprises%20more,Small%20Enterprises%20
-(MSEs)%20worldwide
-Percent 
-of firms 
-choosing 
-access to 
-finance as 
-their biggest 
-obstacle
-Percent 
-of firms 
-choosing 
-access to 
-land as their 
-biggest 
-obstacle
-Percent 
-of firms 
-choosing 
-business 
-licensing and 
-permits as 
-their biggest 
-obstacle
-Percent 
-of firms 
-choosing 
-corruption 
-as their 
-biggest 
-obstacle
-Percent 
-of firms 
-choosing 
-courts 
-as their 
-biggest 
-obstacle
-Percent 
-of firms 
-choosing 
-crime, theft 
-and disorder 
-as their 
-biggest 
-obstacle
-Percent of 
-firms choosing 
-transportation 
-as their 
-biggest 
-obstacle
-0
-5
-10
-15
-25
-20
-Biggest Obstacles 
-faced: By 
-manufacturing and 
-services SMEs in 
-India- 2022
-Source: Enterprise 
-Survey, World Bank 
-2022
-2022 Manufacturing
-2022 Services
-
-[Page 39]
-39
-The contribution of MSMEs compared to their proportion in the total firms is abysmal due 
-to multiple internal, external, and firm-level factors. Internal factors include the quality of 
-human capital, utilization of technology, and working capital; external factors include access 
-to financial services, social and business security services, infrastructure, and so on. Other 
-firm-level factors, such as linkages with other firms, hinder their growth (Ishengoma & Kappe, 
-2006).  
-Against this background, formalization can be a solution. The advantage of formalization is 
-access to a range of government subsidies and rewards, legally binding business agreements, 
-tax advantages, access to established financial channels, and additional motivators. With 
-improved access to these resources, enhancing productivity becomes more feasible through 
-technological advancements in production and digitalization and is the primary step toward 
-establishing MSMEs in the Global Value Chain. (Kapoor & Kowadkar, Gradual shift from 
-informal to formal for MSMEs, 2022). However, there are disadvantages to formalization as 
-well in the current business and regulatory environment, especially in developing economies. 
-Research points out that small and medium enterprises (SMEs) with a higher degree of 
-formality still face the same obstacles as those with a higher level of informality, along with 
-high cost of operation and reduction in government exemptions (Weder, 2003).
-Various countries have been addressing the need to formalize small businesses. Kenya 
-introduced the Micro and Small Enterprise Act in 2012, creating an authority to support these 
-enterprises. China has established Employment Service Organizations, like the SCESO in 
-Shanghai, to help informal businesses with various aspects of establishment and operation. 
-South Africa’s 1994 national small business strategy aims to assist SMEs in becoming more 
-competitive and connected to formal markets, with the National Productivity Institute 
-providing training and support. These efforts highlight a global commitment to empowering 
-small and informal businesses.
-In India, there have been a few initiatives that are changing the formalization landscape of 
-MSMEs. The Aadhaar Memorandum (UAM), the previous platform for registering MSMEs in 
-India, had 1.02 crore registrations from September 2015 to June 30, 2020. The Udyam portal 
-replaced UAM on July 1, 2020, to simplify registration. In just two years, Udyam has garnered 
-over 90 lakh registrations, nearing the 1 crore mark  (MSME Desk, 2022). The Udyam database 
-is merging with NCS, e-Shram, and ASEEM portals to formalize micro-enterprises. 
-Currently, Udyam has around 95 lakh MSMEs registered. The MSME Ministry is addressing 
-the delayed payments issue by collaborating with state governments. The Udyam Registration 
-Portal (URP) by the Ministry of MSME, Govt. of India, facilitates online MSME registration and 
-In India, there have been a few initiatives that are changing the 
-formalization landscape of MSMEs. The Aadhaar Memorandum (UAM), 
-the previous platform for registering MSMEs in India, had 1.02 crore 
-registrations from September 2015 to June 30, 2020.
+Learnings and Recommendations 
+from National-Level Policies
+Access to Finance1.
+ » One of the foremost learnings at the national level pertains to the crucial role of the Credit Guarantee Fund Trust 
+for Micro and Small Enterprises (CGTMSE) in facilitating credit for MSMEs. However, the Trust currently operates 
+without the desired level of regulatory oversight, leading to challenges in balancing fund availability with the financial 
+discipline required for sustainable growth. Bringing the CGTMSE under a robust regulatory authority could help 
+mitigate these concerns. 
+ » Another important measure is to use CGTMSE to promote women’s entrepreneurship. This could be done by 
+increasing the guaranteed coverage to 100% for businesses led by women founders. Additionally, reducing CGTMSE 
+premium rates can significantly increase its adoption by micro and small enterprises, which often struggle to afford 
+higher premiums. Transparency around premium rates is also essential, and banks should be required to disclose 
+these details on their websites or on the CGTMSE portal. 
+ » Beyond strengthening CGTMSE, Non-Banking Financial Companies (NBFCs) have emerged as a vital source of credit 
+for MSMEs, especially micro-sized enterprises in remote areas. Their quicker lending decisions, niche specialization, 
+and faster services have contributed to NBFCs’ rapid growth in the MSME credit space. However, NBFCs’ borrowing 
+costs from banks are typically high due to collateral requirements and risk premiums, making it challenging for them 
+to offer competitive interest rates to MSMEs. This situation underlines the need for better on-lending structures 
+and the provision of lower-rate wholesale funding to NBFCs. The Standing Committee on Finance (17th Lok Sabha) 
+acknowledged this gap and suggested the Small Industries Development Bank of India (SIDBI) expand its balance 
+sheet to provide more extensive wholesale financing to NBFCs. While the Ministry of Finance has indicated that 
+SIDBI is well-capitalized for its projected growth, the Committee insists on further scaling SIDBI’s role to directly 
+invest in smaller NBFCs, thereby improving their governance, operational capacity, and access to affordable funds. 
+ » Another recommendation involves reinstating earlier norms under Priority Sector Lending (PSL), allowing bank 
+loans extended to NBFCs for further lending to MSMEs to be classified as indirect finance to MSMEs. This would 
+incentivize banks to support NBFCs, especially when combined with credit insurance schemes by IRDAI that could 
+mitigate NBFCs’ risk perceptions and encourage the flow of credit to micro-enterprises. In combination, these 
+reforms aim to strengthen the credit ecosystem for MSMEs and promote financial inclusivity.
+Addressing Skilling Challenges 
+Faced by MSMEs
+2.
+Skilling remains a cornerstone for MSME competitiveness and growth. Present data indicates that a significant percentage 
+of India’s workforce falls under Skill Level 1 (low-skilled) and Skill Level 2 (semi-skilled), with fewer workers at higher skill 
+levels. According to the Periodic Labour Force Survey (PLFS), the proportion of the workforce aged 15 to 59 lacking formal 
+vocational or technical training, while declining, still remains substantial.  To bridge this skills gap, forging partnerships

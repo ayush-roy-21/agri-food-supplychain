@@ -1,0 +1,79 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-100-C44
+Parent Doc ID: A-MSME-100
+Page Range: Page 44
+Word Range: 12437 - 12772
+Word Count: 336
+--------------------
+
+[Page 44]
+44 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+(24%) reported untapped export potential. Integrated 
+firms (24%) recognise this potential more than non-
+integrated (18%) ones. About 83% of integrated and 
+75% of non-integrated firms expressed a desire to start 
+exporting within the next 2-3 years (Figure 24). 
+Figure 24:
+Distribution of enterprises by 
+the plan to start exporting in 
+next 2-3 years and e-commerce 
+integration (in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+Information gaps and limited access to finance hinder 
+MSMEs’ foray into export markets . Nearly 46% of the 
+enterprises reported a lack of information on potential 
+partners and about 42% reported a lack of information 
+on opportunities and requirements in international 
+markets as the most prominent challenges hindering 
+their export potential. Other factors include non-
+conformity to product standards and a lack of financial 
+resources for export activities. 
+E-commerce linkages can help in addressing some of 
+these issues.  About 38% of the respondents believed 
+that by integrating on e-commerce platforms, they 
+can overcome certain challenges. Of these, about 
+56% pointed out that e-commerce has the potential 
+to improve access to finance, 53% perceived that they 
+can access markets through e-commerce platforms, 
+and 40% perceived that their presence on e-commerce 
+platforms can help improve product quality to meet 
+international standards (Figure 25). 
+Figure 25: Distribution of enterprises by perceived benefits of e-commerce integration in building 
+export potential (in %)
+Source: Authors’ computation of data from ICRIER’s MSME survey
+83%
+17%
+75%
+25%
+0%
+20%
+40%
+60%
+80%
+100%
+Yes No
+Integrated with Ecommerce
+Not integrated with Ecommerce
+8%
+27%
+29%
+31%
+33%
+34%
+37%
+40%
+53%
+56%
+0% 20% 40% 60%
+Better understanding of regulatory policies
+Better understanding of product packaging requirements
+Improved inventory management skills
+Improved access to information about export markets
+Design improvement
+Improved understanding of product cataloguing
+Better understanding of product standards and
+requirements
+Improved quality of products
+Improved access to markets directly through platforms
+Improved access to ﬁnance
+Export Orientation of Enterprises

@@ -1,0 +1,195 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-108-C23
+Parent Doc ID: A-RES-108
+Page Range: Page 6
+Word Range: 5659 - 5908
+Word Count: 250
+--------------------
+
+[Page 6]
+Sustainable Production and Consumption 39 (2023) 203–215
+208
+r
+ij
+=
+x
+ij
+
+minx
+ij
+i
+max
+i
+x
+ij
+
+min
+i
+x
+ij
+For benefit criteria (11)  
+rij =
+maxx ij
+i
+ x
+ij
+maxx ij
+i
+
+maxx ij
+i
+for cost criteria (12)   
+Step 3. Calculation of the sum of the weighted comparability (S i ) and 
+power weighted comparability (Pi) sequences for each alternative 
+using Eqs. (13) and (14) : 
+S
+i
+= Σ
+n
+j = 1
+
+w
+j
+r
+ij
+)
+(13)  
+P
+i
+= Σ
+n
+j = 1
+
+w
+j
+)
+r
+ij
+(14)   
+Step 4. Calculation of relative weights on the basis of three aggre -
+gated scores. 
+K
+ia
+=
+P
+i
++ S
+i
+Σ
+m
+i = 1
+( P
+i
++ S
+i
+)
+(15)  
+K
+ib
+=
+S
+i
+Min
+i
+S
+i
++
+P
+i
+Min
+i
+P
+i
+(16)  
+K
+ic
+=
+λ ( Si ) + ( 1  λ )( Pi )
+λ
+max
+i
+Si + ( 1  λ )
+max
+i
+Pi
+; 1 ≤ λ ≤ 1 (17)   
+Step 5. Determine the final ranking of the alternatives based on the 
+cumulative score in descending order ( K
+i
+) .
+K
+i
+= ( K
+ia
+K
+ib
+K
+ic
+)
+1
+3
++
+1
+3
+( K
+ia
++ K
+ib
++ K
+ic
+) (18) 
+K
+ia 
+signifies the arithmetic mean of WSM and WPM scores; 
+K
+ib
+indicates the sum of WSM and WPM scores; 
+K
+ic 
+indicates a balanced compromise score of WSM and WPM 
+The value of λ ranges from 0 to 1; the threshold value is usually 
+undertaken as 0.50. 
+4. Results 
+The weights of the barriers (main criteria and sub criteria) are ob -
+tained by BWM and LBWA methods as shown in Tables 4 and 5 . The 
+assessment is based on best-to-others and others-to-worst vectors as per 
+STOP
+Phase 1 
+Phase II 
+Identification of barriers to 
+digital technologies 
+implementation for 
+achieving SPC 
+1. Exploration of research gaps 
+2. Developing evaluation 
+framework for SPC 
+Start
+Validation and assessment 
+of barriers by the selected 
+experts 
+BWM 
+application 
+Exploration of most critical 
+barriers 
+LBWA 
+method 
+application
+Identification and 
+validation of strategies for 
+overcoming critical barriers 
+by experts 
+Evaluation of the strategies 
+for exploring the most 
+significant strategy  
+CoCoSo 
+method 
+application
+Strategy mapping Discussion and implications 
+Fig. 1. Proposed framework.  
+Table 3 
+BWM consistency index.  
+a
+Bw 
+1 2 3 4 5 6 7 8 9  
+0 0.44 1.00 1.63 2.30 3.00 3.73 4.47 5.23  
+M. Sharma et al.

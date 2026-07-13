@@ -1,0 +1,135 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C55
+Parent Doc ID: A-MSME-102
+Page Range: Page 66 to Page 68
+Word Range: 15361 - 15610
+Word Count: 250
+--------------------
+
+[Page 66]
+66
+Cluster Level 
+Analysis
+
+[Page 67]
+67
+Textile Manufacturing 
+and Apparel
+1.
+The examination of both textile manufacturing and apparel clusters is indispensable 
+for obtaining a thorough comprehension of the textile sector’s multifaceted dynamics. 
+Delving into the textile manufacturing cluster offers insights into the initial stages of the 
+supply chain, encompassing processes like spinning, weaving, and fabric production. 
+This understanding is crucial for assessing the economic activity and trade dynamics 
+associated with raw material processing. 
+Conversely, examining the apparel cluster provides a holistic perspective on downstream 
+activities, from design to finished product, shedding light on value addition, employment 
+trends, and export earnings. Together, these analyses contribute to a nuanced 
+understanding of the sector’s global competitiveness, supply chain integration, and 
+aid in the formulation of targeted policies to foster sustainable growth and innovation 
+throughout the entire textile industry.
+Value addition in Textiles Manufacturing and Apparel sector 
+The analysis of SMEs assessed showcases value addition within the textile manufacturing 
+sector, focusing on activities such as spinning, weaving, and finishing, the manufacturing 
+of other textiles, and the production of apparel. This reveals critical insights into the 
+sector's global dynamics spanning from 2014 to 2022. 
+GVCs serve as critical facilitators of the international exchange 
+of investment, knowledge, and managerial practices that are 
+in line with global standards, thereby significantly bolstering 
+domestic businesses
+
+[Page 68]
+68
+ » The "Spinning, weaving, and finishing" sub-cluster appears dominant in terms of value 
+addition. A significant increase, particularly in 2022, shows that the 339 enterprises under 
+this NIC consistently exhibit higher value addition than other sub-clusters. However, the 
+dominance of "spinning, weaving, and finishing" is often considered an upstream activity 
+in the textile production process, potentially raising concerns due to lower value addition 
+compared to downstream activities.
+ » Conversely, the "Manufacturing of other textile" sub-cluster experienced fluctuations, 
+responsive to global economic conditions and market demand, with a notable increase in 
+2022 signifying potential resurgence amid changing market dynamics. 
+ » In the context of the textile industry, downstream activities, such as the "Manufacture of 
+wearing apparel," involve creating final consumer goods with higher potential for value 
+addition. Concerns arise as the SMEs related to final manufacturing stages exhibits lower 
+value addition, indicating potential challenges for sector competitiveness in global value 
+chains. 
+Value addition in 
+firms with sale 
+<250 crores
+Fig. 8
+2014 2015 2016 2017 2018 2019 2020 2021 2022
+Textile Manufacturing 
+Spinning, weaving 
+and finishing
+Apparel Manufacture 
+of wearing apparel
+Textile 
+Manufacturing 
+Manufacturing 
+of other textile
+10000
+0
+20000
+30000
+40000
+50000
+Workforce Trends 
+0 1,00,000 2,00,000 3,00,000 4,00,000 5,00,000 6,00,000 7,00,000 8,00,000
+Number of workers
+₹ 0
+₹ 50,000
+₹ 100,000
+₹ 150,000
+₹ 200,000
+₹ 250,000
+₹ 300,000
+₹ 350,000
+₹ 400,000
+₹ 450,000
+₹ 500,000
+Average wages
+Mumbai Suburban
+Raigarh
+Ghaziabad
+Chhindwara
+Thane
+Coimbatore
+Hugli Salem
+Karur Surat
+Varanasi
+Haora
+Vellore
+0 50,000 1,00,000 1,50,000 2,00,000 2,50,000
+Number of workers
+₹ 0
+₹ 50,000
+₹ 100,000
+₹ 150,000
+₹ 200,000
+₹ 250,000
+₹ 300,000
+₹ 350,000
+₹ 400,000
+₹ 450,000
+₹ 500,000
+₹ 550,000
+Average wages
+Pune
+Jalandhar
+Rajkot
+Moradabad
+Hardwar
+Jaipur Mumbai Suburban
+Thane
+Indore
+Tumkur
+BangaloreCoimbatore
+Ahmedabad
+SuratThiruvallur
+Kottayam
+Haora
+North Twenty Four Parganas
+AnantapurTiruvannamalai
+Jammu
+Textile Manufacturing Top 100 Districts Apparel-  Top 100 DistrictsFig. 9

@@ -1,0 +1,92 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C24
+Parent Doc ID: A-RES-103
+Page Range: Page 15 to Page 16
+Word Range: 6259 - 6508
+Word Count: 250
+--------------------
+
+[Page 15]
+14 
+5.1.4.3 Official monitoring in EIC -approved export establishments (EIA monitoring  
+scheme) 
+29. Establishments approved by the EIC for export are inspected by the EIA every one to 
+three months depending on risk. Every six months samples are collected from all such 
+establishments and are tested in an EIC -approved laboratory for the presence of  
+antimicrobials including chloramphenicol, nitrofuran metabolites and tetracyclines. 
+5.1.4.4 Establishment own-checks 
+30. All three aquaculture processing establishments visited during the audit had, as part of 
+their Hazard Analysis Critical Control Points  system, a critical control point related to 
+residues in raw material inputs . One conducted in- house ELISA tests for nitrofurans 
+and had never found any non-compliant results. The other two processers sent samples 
+to an accredited private laboratory for analysis for a range of antimicrobials (covering 
+those banned and authorised in the EU), pesticides and heavy metals. 
+31. The dairy processing establishment visited had two own-check programmes in place for 
+residues. In the first, each batch of raw milk received at the establishment is tested with 
+a commercially available dipstick screening test for an timicrobials which covered 
+certain penicillins, cephalosporins, tetracyclines and sulphonamides  with national 
+maximum residue limits (MRLs ) in line with those applicable in the EU  (19).  Six 
+antimicrobials (including two cephalosporins ceftriaxon e and cefuroxime ), two 
+aminoglycosides ( gentamycin and streptomycin) and two fluoroquinolones  
+(enrofloxacin and marbofloxacin), all of which are on the list of a ntimicrobials for 
+dispensation to dairy cows by the veterinarians of the same dairy processing 
+establishment/cooperative, are not covered by the dipstick screening test .  Neither 
+ceftriaxone nor cefuroxime have a Maximum Residue Limit ( MRL) established in the 
+EU. The audit team was informed that the dipstick test had never been verified (i.e. 
+shown to work) by the laboratory staff in  the dairy processing establishment  and they 
+did not have access to ‘positive control’ samples or analytical st andards. No non-
+compliances had been found from January 2020 to August 2022.  In the second own -
+check programme, one sample was taken every two months from one of the 1,200 
+collection centres belonging to the dairy processing establishment  to be analysed f or 
+aflatoxin M1. Staff from the dairy cooperative informed the audit team, that to date 
+(and in marked contrast to the results found in the national residues plan – see finding 
+48), no non-compliances had been found for this contaminant.  
+32. The two poultry processors visited also operated self -monitoring p rogrammes for 
+residues and sent their samples to an ISO 17025- accredited EIA laboratory. The scope 
+of substances largely mirrored that of the poultry residue monitoring plan . To date no 
+non-compliances have  been found but  there are  instructions to notify the EIA in the 
+event of any non-compliances.  
+ 
+(19) Regulation (EU) No 37/2010
+
+[Page 16]
+15 
+Conclusions on other residue monitoring programmes 
+33. The PHT and PET schemes for aquaculture are implemented as planned by the 
+competent authorities  and they are useful in helping identify non- compliant batches 
+and preventing their certification by the EIC and consequent export to the EU.  
+Nevertheless, the difference in the non- compliance rates between the PHT and PET 
+programmes is hard to explain and has not been investigated by the competent 
+authorities.  The additional testing of the products under establishments’ own-control 
+programmes has the potential to provide further assurances on the compliance of the 
+commodities in question.   
+ 
+5.1.5 Follow-up of non-compliant results 
+Findings 
+5.1.5.1 Aquaculture 
+34. The EIC is responsible for coordinating the follow -up investigations  of RASFF  
+notifications. It calls on the concerned EIA to create an assessment panel comprising of 
+experts from the EIA, MPED A and the Central Institute of Fisheries Technology. The 
+role of the panel is to carry out documentary and on-the-spot verification at the relevant 
+processing establishments and farms.  
+35. The relevant EIA is responsible for coordinating the follow-up of non-compliant results 
+found in the respective residue monitoring plans . After transmitting the alert 
+notification along with the test results through an elect ronic system, a panel is created 
+consisting of the EIA, MPEDA and the concerned  CAA to jointly carry out 
+documentary and on-the-spot verification in the processing establishments and farms, to 
+take follow-up samples and to identify the origin  of the contamination. A joint report is 
+created and the EIAs are to take measures as required with regard to the processing 
+establishments or farms concerned; the CAA does likewise for the hatcheries that fall 
+under its jurisdiction.  
+36. The EIAs are also responsible for follow -up investigation s of PET non-compliant 
+results.  There is no legal requirement for the non- compliant ELISA results in the 
+MPEDA PHT programme to be followed up (20).  
+37. The residue monitoring plan contains documented procedures for the management of 
+non-compliant results  found in the residue monitoring plan and procedures are also 
+described in the EIC executive instruction for aquaculture species  (21). T hese 
+procedures largely address key elements of follow -up of non- compliant results as 
+ 
+(20) In its response to the draft report the c ompetent authority noted that MPEDA on its own, has investigated 
+all seven PHT positive cases to trace the root cause. 
+(21) Chapter 13 in the “National residue control plan for aquaculture products”  and chapter 10.2 of the 
+“Executive instructions for approval and monitoring of fish and fishery products for export”.

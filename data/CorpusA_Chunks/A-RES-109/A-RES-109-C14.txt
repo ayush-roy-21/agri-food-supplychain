@@ -1,132 +1,70 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-109-C14
 Parent Doc ID: A-RES-109
-Page Range: Page 35 to Page 36
-Word Range: 18507 - 19932
-Word Count: 1,426
+Page Range: Page 6
+Word Range: 3403 - 3772
+Word Count: 370
 --------------------
 
-[Page 35]
-Aysoy, C., Kirli, D.H. and Tumen, S. (2015), “How does a shorter supply chain affect pricing of fresh
-food? Evidence from a natural experiment ”, Food Policy, Vol. 57, pp. 104-113, available at: https://doi.
-org/10.1016/j.foodpol.2015.10.003 [197]
-Bai, X., Ren, X., Zheng, N., Zhou, N. and Hu, M. (2018), “Comprehensive water footprint assessment
-of the dairy industry chain based on ISO 14046: a case study in China ”, Resources, Conservation and
-Recycling, Vol. 132, pp. 369-375, available at: https://doi.org/10.1016/j.resconrec.2017.07.021 [451]
-Bakucs, Z., Fa łkowski, J. and Ferto, I. (2012), “Price transmission in the milk sectors of Poland and
-Hungary”, Post-Communist Economies, Vol. 24 No. 3, pp. 419-432, available at: https://doi.org/10.1080/
-14631377.2012.705474 [363]
-Bakucs, Z., Falkowski, J. and Ferto, I. (2014), “Does market structure influence price transmission in
-the agro-food sector? A meta-analysis perspective ”, Journal of Agricultural Economics , Vol. 65 No. 1,
-pp. 1-25, available at: https://doi.org/10.1111/1477-9552.12042 [303]
-Balázs, B., Pataki, G. and Lazányi, O. (2016), “Prospects for the future: community supported
-agriculture in Hungary ”, Futures, Vol. 83, pp. 100-111, available at: https://doi.org/10.1016/j.futures.20
-16.03.005 [117]
-Banterle, A., Cavaliere, A., Carraresi, L. and Stranieri, S. (2014), “Food SMEs face increasing
-competition in the EU market: marketing management capability is a tool for becoming a price maker ”,
-Agribusiness: An International Journal , Vol. 30 No. 2, pp. 113-131, available at: https://doi.org/10.1002/
-agr [293]
-Baritaux, V., Houdart, M., Boutonnet, J.P., Chazoule, C., Corniaux, C., Fleury, P. and Tourrand, J.F.
-(2016), “Ecological embeddedness in animal food systems (re-)localisation: a comparative analysis of
-initiatives in France, Morocco and Senegal ”, Journal of Rural Studies , Vol. 43, pp. 13-26, available at:
-https://doi.org/10.1016/j.jrurstud.2015.11.009 [159]
-Barta, A. (2017), “Habitus in alternative food practice: exploring the role of cultural capital in two
-contrasting case studies in Glasgow ”, Future of Food: Journal of Food, Agriculture and Society , Vol. 5
-No. 2, pp. 27-41. [17]
-Beg, M.S., Ahmad, S., Jan, K. and Bashir, K. (2017), “Status, supply chain and processing of
-cocoa – a review”, Trends in Food Science and Technology , Vol. 66, pp. 108-116, available at: https://doi.
-org/10.1016/j.tifs.2017.06.007 [29]
-Bernard, J., Le Gal, P.Y., Triomphe, B., Hostiou, N. and Moulin, C.H. (2011), “Involvement of small-
-scale dairy farms in an industrial supply chain: when production standards meet farm diversity ”,
-Animal, Vol. 5 No. 6, pp. 961-971, available at: https://doi.org/10.1017/S1751731110002478 [373]
-Berti, G. and Mulligan, C. (2016), “Competitiveness of small farms and innovative food supply
-chains: the role of food hubs in creating sustainable regional and local food systems ”, Sustainability,
-Vol. 8 No. 7, pp. 1-31, available at: https://doi.org/10.3390/su8070616 [135]
-Blake, M.K., Mellor, J. and Crane, L. (2010), “Buying local food: shopping practices, place, and
-consumption networks in defining food as ‘local’”, Annals of the Association of American Geographers ,
-Vol. 100 No. 2, pp. 409-426, available at: https://doi.org/10.1080/00045601003595545 [393]
-Blandon, J., Henson, S. and Cranfield, J. (2009a), “Small-scale farmer participation in new agri-food
-supply chains: case of the supermarket supply chain for fruit and vegetables in Honduras ”, Journal of
-International Development , Vol. 21 No. 1, pp. 971-984, available at: https://doi.org/10.1002/jid [403]
-Blandon, J., Henson, S. and Islam, T. (2010), “The importance of assessing marketing preferences of
-small-scale farmers: a latent segment approach ”, European Journal of Development Research , Vol. 22
-No. 4, pp. 494-509, available at: https://doi.org/10.1057/ejdr.2010.26 [389]
-Blandon, J., Spencer, H. and Islam, T. (2009b), “Marketing preferences of small-scale farmers in the
-context of new agri-food systems: a stated choice model ”, Agribusiness: An International Journal ,
-Vol. 25 No. 2, pp. 251-267, available at: https://doi.org/10.1002/agr [409]
-Bloom, J.D. (2015), “Standards for development: food safety and sustainability in Wal-Mart ’s
-Honduran produce supply chains ”, Rural Sociology, Vol. 80 No. 2, pp. 198-227, available at: https://doi.
-org/10.1111/ruso.12060 [217]
-Borodin, V., Bourtembourg, J., Hnaien, F. and Labadie, N. (2016), “Handling uncertainty in
-agricultural supply chain management: a state of the art ”, European Journal of Operational Research ,
-Vol. 254 No. 2, pp. 348-359, available at: https://doi.org/10.1016/j.ejor.2016.03.057 [115]
-Bos, E. and Owen, L. (2016), “Virtual reconnection: the online spaces of alternative food networks in
-England”, Journal of Rural Studies , Vol. 45, pp. 1-14, available at: https://doi.org/10.1016/j.jrurstud.20
-16.02.016 [139]
-53
-Supply chain
-issues in SME
-food sector
-Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
-
-[Page 36]
-Bourlakis, M., Maglaras, G., Aktas, E., Gallear, D. and Fotopoulos, C. (2014), “Firm size and
-sustainable performance in food supply chains: insights from Greek SMEs ”, International Journal of
-Production Economics, Vol. 152, pp. 112-130, available at: https://doi.org/10.1016/j.ijpe.2013.12.029 [285]
-Brinkley, C. (2017), “Visualizing the social and geographical embeddedness of local food systems ”,
-Journal of Rural Studies, Vol. 54, pp. 314-325, available at: https://doi.org/10.1016/j.jrurstud.2017.06.023 [27]
-Broeck, V.D.G. and Maertens, M. (2016), “Horticultural exports and food security in developing
-countries”, Global Food Security , Vol. 10, pp. 11-20. [121]
-Brooks, S., Leaver, A., Spence, M., Elliott, C.T. and Dean, M. (2017), “Pragmatic engagement in a low
-trust supply chain: beef farmers ’ perceptions of power, trust and agency ”, Competition and Change ,
-Vol. 21 No. 2, pp. 114-131, available at: https://doi.org/10.1177/1024529417691053 [51]
-Browne, N.A., Behrendt, R., Kingwell, R.S. and Eckard, R.J. (2015),“Does producing more product over
-a lifetime reduce greenhouse gas emissions and increase profitability in dairy and wool enterprises? ”,
-Animal Production Science, Vol. 55 No. 1, pp. 49-55, available at: https://doi.org/10.1071/AN13188 [257]
-Browne, N.A., Eckard, R.J., Behrendt, R. and Kingwell, R.S. (2011),“A comparative analysis of on-farm
-greenhouse gas emissions from agricultural enterprises in south eastern Australia”, Animal Feed Science
-and Technology, Vols 166-167, pp. 641-652, available at: https://doi.org/10.1016/j.anifeedsci.2011.04.045 [369]
-Caiazza, R. (2016), “Internationalization of SMEs in high potential markets ”, Trends in Food Science
-and Technology , Vol. 58, pp. 127-132, available at: https://doi.org/10.1016/j.tifs.2016.10.002 [103]
-Caiazza, R., Volpe, T. and Stanton, J.L. (2016),“Global supply chain: the consolidators’role”, Operations
-Research Perspectives, Vol. 3, pp. 1-4, available at: https://doi.org/10.1016/j.orp.2015.10.001 [171]
-Canellada, F., Laca, A., Laca, A. and Díaz, M. (2018), “Environmental impact of cheese production: a
-case study of a small-scale factory in southern Europe and global overview of carbon footprint ”,
-Science of the Total Environment , Vol. 635, pp. 167-177, available at: https://doi.org/10.1016/j.
-scitotenv.2018.04.045 [447]
-Casolani, N. (2015), “Sustainability of short food supply chain system in Europe: a SWOT analysis ”,
-Global & Local Economic Review , Vol. 19 No. 2, pp. 61-86. [237]
-Charatsari, C., Kitsios, F., Stafyla, A., Aidonis, D. and Lioutas, E. (2018), “Antecedents of farmers ’
-willingness to participate in short food supply chains ”, British Food Journal , Vol. 120 No. 10,
-pp. 2317-2333, available at: https://doi.org/10.1108/BFJ-09-2017-0537 [459]
-Chiffoleau, Y. (2009), “From politics to co-operation: the dynamics of embeddedness in alternative
-food supply chains”, Sociologia Ruralis, Vol. 49 No. 3, pp. 218-235, available at: https://doi.org/10.1111/j.
-1467-9523.2009.00491.x [407]
-Christie, K.M., Rawnsley, R.P. and Eckard, R.J. (2011), “A whole farm systems analysis of
-greenhouse gas emissions of 60 Tasmanian dairy farms ”, Animal Feed Science and Technology ,
-Vols 166-167, pp. 653-662, available at: https://doi.org/10.1016/j.anifeedsci.2011.04.046 [371]
-Christie, K.M., Gourley, C.J.P., Rawnsley, R.P., Eckard, R.J. and Awty, I.M. (2012), “Whole farm
-systems analysis of Australian dairy farm greenhouse gas emissions ”, Animal Production Science ,
-Vol. 52, pp. 998-1011, available at: https://doi.org/10.1071/AN12061 [361]
-Clark, J.K. and Inwood, S.M. (2016), “Scaling-up regional fruit and vegetable distribution: potential
-for adaptive change in the food system ”, Agriculture and Human Values , Vol. 33 No. 3, pp. 503-519,
-available at: https://doi.org/10.1007/s10460-015-9618-7 [125]
-Connell, D., Smithers, J. and Joseph, A. (2008), “Farmers’ markets and the ‘good food’ value chain: a
-preliminary study ”, Local Environment , Vol. 13 No. 3, pp. 169-185. [421]
-Conner, D.S., Sevoian, N., Heiss, S.N. and Berlin, L. (2014), “The diverse values and motivations of
-Vermont farm to institution supply chain actors ”, Journal of Agricultural and Environmental Ethics ,
-Vol. 27 No. 5, pp. 695-713, available at: https://doi.org/10.1007/s10806-013-9485-4 [267]
-Coq-Huelva, D., Sanz-Cañada, J. and Sánchez-Escobar, F. (2014), “Conventions, commodity chains
-and local food systems: olive oil production in ‘Sierra De Segura ’ (Spain)”, Geoforum, Vol. 56, pp. 6-16,
-available at: https://doi.org/10.1016/j.geoforum.2014.06.001 [271]
-Cordes, H., Iriarte, A. and Villalobos, P. (2016), “Evaluating the carbon footprint of Chilean organic
-blueberry production ”, International Journal of Life Cycle Assessment , Vol. 21 No. 3, pp. 281-292,
-available at: https://doi.org/10.1007/s11367-016-1034-8 [153]
-Cottle, D.J. and Cowie, A.L. (2016), “Allocation of greenhouse gas production between
-wool and meat in the life cycle assessment of Australian sheep production ”, International Journal of
-Life Cycle Assessment , Vol. 21 No. 6, pp. 820-830, available at: https://doi.org/10.1007/s11367-016-10
-54-4 [143]
-54
+[Page 6]
+2.4 Text mining (TM)
+To find out the research focus of each sub-field, the contents of either all or the lead papers
+in each sub-field are analysed and evaluated. The interpretation and analysis of sub-field
+depend greatly on subjective factors and require expertise in the specific research field. To
+avoid the reviewer bias and for a deeper understanding of the concepts addressed in each
+sub-field, researchers have further used text mining (TM) as a content analysis technique to
+retrieve the co-occurred words from the documents and to build a conceptual structure of
+the domain (Ghadge et al., 2012; Song and Chambers, 2014). In this research, the co-occurred
+words from the research articles in each sub-field are retrieved using TM to identify
+research concept precisely. Co-word analysis presumes that a group of aggregated terms/
+words could indicate the underlying themes and that co-occurrences of terms/words could
+show the associations with the underlying themes. Title and abstract of all articles in each
+sub-field are downloaded from the WoS database in .txt format and text mined separately
+using Standford NLP core 3.6.0. StanfordcoreNLP 3.6.0 software is used in this research for
+TM since it is flexible and simple (Song and Chambers, 2014).
+Using Stanford metrics conversion Handler Programme, the output extensible markup
+language file from the Standford NLP is converted to a GraphML network file from the
+identified co-occurred words. The GraphML file is then used as input in Gephi for visualization
+and further analysis of the co-word network. After establishing a co-word network, the
+research concept of each cluster is then identified by measuring the relative frequency of these
+co-occurred words and by measuring the network properties based on node and network-level
+metrics (Barbara and Wichmann, 2016). The node-level metrics can be divided into local:
+degree centrality, and the ones relative to the rest of the network (i.e. based on node’s location
+within a network): closeness, betweenness and eigenvector centrality (Milojevic, 2013). The
+number of direct links between a node and other nodes in the cluster is defined by degree
+centrality. A word with a higher degree will be in the centre of the network and considered as
+the information hub. The closeness centrality is defined by the inverse of the average length of
+the shortest paths to or from all the other nodes in the network. Higher closeness centrality
+refers to higher influence on other nodes. The betweenness centrality is a measure of how often
+a node is located on the shortest path between other nodes in the network. Eigenvector
+centrality is based on the principle that importance of a node in a network may increase with
+having links to the other nodes that are themselves important. It is calculated by providing a
+relative score for each node proportional to the sum of the scores of its neighbours (Bonacich,
+2007). The equations used to calculate the node centrality are given in Appendix 1.
+3. Results
+3.1 Bibliometric analysis
+The time period distribution of 1,091 articles is shown in Figure 2. It is noted that the
+number of articles was limited to 377 during the period 2002 – 2014, and the remaining
+18 47 78
+141
+384
+423
+0
+100
+200
+300
+400
+500
+600
+2002–2004 2005–2007 2008–2010 2011–2013 2014–2016 2017–2018
+Publication Frequency
+Year
+Figure 2.
+Distribution of
+reviewed papers by
+year (up to
+December 2018)
+24
 JAMR
 17,1
 Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

@@ -1,0 +1,65 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-109-C40
+Parent Doc ID: A-RES-109
+Page Range: Page 21
+Word Range: 10591 - 10840
+Word Count: 250
+--------------------
+
+[Page 21]
+high-information quality can st imulate SC performance through improving the relationship
+( Jonsson and Gustavsson, 2008).
+The safety issues are further divided into food safety standards and food safety
+management system (FSMS). For the growth of the domestic food retail sector and high-
+value exports, food safety standard is an essential factor (Unnevehr, 2015; Shukla et al. ,
+2018). Jacxsens et al. (2015) classified food safety and quality standards as European Union
+legislation, Codex Alimentarius standards, private standards and national legislation. To
+report food safety, every organization in the global food SC desires to implement a FSMS,
+and each FSMS is organizational specific since it is a result of the implementation of various
+legal requirements and quality assurance into a company ’s unique environment and
+production (Kirezieva et al., 2015).
+Luo et al. (2018) identified driving forces and barriers to the supply chain relationship in
+the SME food sector. The driving forces include food safety scandals, changing consumer
+demand and SC risks. Also, barriers consist of coordination difficulties due to the number of
+connecting entities, incomplete information sharing, malfunctions originating from diverse
+strategic planning practices, lack of trust among stakeholders, different entrepreneurial
+mentalities and failure to understand opportunities in the SME food sectors. Our result
+reveals that a case study or empirical methodology is the most commonly used solution
+methodology, followed by qualitative methods, whereas quantitative models need further
+attention. Dairy and fruits and vegetables sectors have received much attention, whereas
+other food sectors are not much addressed in this cluster.
+3.3.3 Cluster 3: GHG emission impact of the farm food system . The agricultural
+production has developed significantly over the recent decades, resulting in the increased use
+of fertilisers and mechanization that lead to the environmental consequences (Tasca et al. ,
+2017). To assess the environmental impacts of food systems, various metrics have been
+established that include the quantification of GHG emissions and water usage of food items,
+assessment of water footprint and food production systems through LCA (Green et al., 2018).
+Here, we classified the food emission according to GHG emission and water footprints. GHGs
+can be explained with different types of emissions including carbon dioxide (CO
+2), methane
+(CH4) and nitrous oxide (N2O) (Vida et al., 2017; Christie et al., 2011). The food products in the
+supply chain produce GHG emission from the farm-to-fork through manufacturing,
+distribution and even retailing (Dorward, 2012). Water pollution and consumption at a global
+scale are recognized as the key resource use issues. Agricultural production is the foremost
+water user, and the major water footprint approaches applied to agricultural commodities are
+the water footprint network method and LCA method (Zonderland-Thomassen et al., 2012).
+The water footprint is characterized by green, blue and grey water along the whole life cycle of
+a product (Payen et al., 2018). The green water footprint is the volume of water evaporated
+from the root zone of the soil, and it is particularly relevant for forestry, horticultural and
+agricultural products. The blue water footprint is the volume of freshwater that evaporated
+from surface or groundwater resources to produce goods and services. Domestic water use,
+irrigated agriculture and industry can each have a blue water footprint. Grey water footprint is
+the amount of freshwater required to dilute a load of pollutants to meet the specific water
+quality standards.
+Our result indicates that 90 per cent of the research is on GHG emission studies and the
+water footprint issues need further attention. The conceptual methodologies have been
+widely used, whereas the empirical models and quantitative techniques investigating
+emission from the food products and its impact are limited and need further attention.
+Besides, our result indicates that the dairy sector is the most addressed food sector in this
+research theme, whereas research on fruits and vegetables, meat and poultry and seafood
+sector is limited.
+39
+Supply chain
+issues in SME
+food sector
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

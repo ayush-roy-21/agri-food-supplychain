@@ -1,0 +1,64 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-109-C22
+Parent Doc ID: A-RES-109
+Page Range: Page 10
+Word Range: 5763 - 6056
+Word Count: 294
+--------------------
+
+[Page 10]
+common references with papers of this cluster and also with a number of other articles in the
+whole network.
+Closeness centrality is associated with a node ’s autonomy or independence in the whole
+network. A node with higher closeness centrality indicates that it is less reliant on other
+nodes and has a higher capacity for independent actions. From the results, we found that the
+works of {89} Freidberg et al. (2011), {17} Ilbery et al. (2006a), {39} Kottila et al. (2008) and
+{65} Fischer et al. (2009) have a high closeness centrality value, indicating the extensivity of
+their influence in the whole network. A node with high betweenness centrality specifies that
+it links various other nodes in the research domain, indicating that they play a more
+important role in the whole network than in the focal cluster. For example, the works of {37}
+Risku Norja et al. (2008), {89} Freidberg et al. (2011), {119} Reardon et al. (2012) and {41}
+Leat et al. (2008) have a high betweenness centrality value and serve as a bridge in the whole
+network connecting different clusters. From Table VI, it is clear that the articles from
+Clusters 2 and 3 have a higher betweenness centrality as compared to Cluster 4, implying
+that the research concepts of Cluster 4 have less association with other clusters.
+Eigenvector centrality considers whether a node has many neighbours or important
+neighbours or both. From Table VI, higher eigenvector centrality is observed for the articles
+in Cluster 2, followed by {27} Croom et al. (2007), {39} Kottila et al. (2008) and {65} Fischer
+et al. (2009) of Cluster 3. Cluster 4 has the least eigenvector centrality in which the lead
+articles have an eigenvector centrality of 0.0442, indicating that the research issue of these
+clusters has less influence in the network. To identify the research theme in each cluster, we
+further conducted a TM technique and established a co-word network as shown in Figure 4.
+After establishing the co-word network, the research concept of each cluster is then
+identified by measuring the network properties based on degree, closeness, betweenness
+and eigenvector centralities (Milojevic, 2013).
+The top 10 words in each cluster are identified by measuring the relative frequency of
+co-occurrence and centralities as presented in Table VII. The degree measure reported in
+Table VII shows that market economics of contract farming in SME FSC, alternative food
+network (AFN), supply chain relationship in the food industry and land use and emission
+impact of livestock systems are the research concepts of Clusters 1, 2, 3 and 4, respectively.
+It is observed from Table VII that the keywords Supply, Chain, Farmer, Food, Market and
+System are found in more than one cluster. These are bridging keywords that highlight the
+association between the clusters.
+It is also observed that Clusters 1 and 2 have more bridge keywords with high
+betweenness centrality, indicating their close association with other clusters. In Cluster 4,
+only one bridge keyword is identified from among the top 10 keywords, indicating that this
+sub-field has less association with the other clusters. It is worth noting that this bridge
+keyword has a high eigenvector centrality in few clusters and low eigenvector centrality in
+other clusters, indicating its importance within the clusters. The keyword “SME” appeared
+in Clusters 1 and 2 within the top 10, indicating its strong association with both the clusters,
+whereas it appeared at the 17th position with low centralities in Cluster 3, indicating its
+weak association with the theme of Cluster 3. It is also observed that the word “SME” did
+not appear in Cluster 4 during this period.
+3.2.1 Bibliographic network during 2002 – 2018. To trace the dynamic evolution of the
+research domain, we repeated the analysis after adding the research articles published from
+2015 to 2018. Since the data are almost doubled, we limited to at least seven couplings with
+minimum of two other articles resulting in the number of included articles to 228 (see
+Appendix 3). By applying the default Louvain algorithm in Gephi, the 228 bibliographic
+coupled articles are grouped into five clusters as shown in Figure 5. The modularity index of
+the network is 0.429, indicating a strong association between the nodes within and between
+the clusters.
+28
+JAMR
+17,1
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

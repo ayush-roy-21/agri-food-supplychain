@@ -1,204 +1,70 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-102-C14
 Parent Doc ID: A-MSME-102
-Page Range: Page 76 to Page 80
-Word Range: 17529 - 18906
-Word Count: 1,378
+Page Range: Page 25 to Page 27
+Word Range: 3486 - 3777
+Word Count: 292
 --------------------
 
-[Page 76]
+[Page 25]
+Table of Contents
+Introduction
+Chapter 1: Understanding 
+MSMEs Challenges for Enhancing 
+Competitiveness
+Chapter 2: Competitiveness 
+Framework: MSMEs and the Path to 
+Prosperity
+Chapter 3: Understanding MSMEs 
+competitiveness in India using Clusters
+Cluster Level Analysis
+Chapter 4: Policies for MSMEs in India
+Learnings and Recommendations
+Key Takeaways
+Conclusion
+Bibliography
+24
+34
+58
+64
 76
-Workforce Trends 
-The automotive sector in India employed an estimated 14 lakh workers during 2022-23. 
-Despite an 18% increase in the total workforce from 2017-18, there was a noteworthy 
-14% decrease in the overall wages within the cluster during the same period. District-level 
-analysis revealed distinct patterns, with Bokaro, Nagpur, Mysore, Gurgaon, and Southwest 
-Delhi exhibiting the higher productivity with a comparatively lower share in the workforce. 
-In contrast, Pune, Ahmedabad, Kolhapur, Rewari, and Tiruvallur have the highest workforce 
-share but lower productivity. 
-Within the automotive sector, Maharashtra maintained its preeminent position by securing 
-the highest share in average wages at 17.67%, followed sequentially by Tamil Nadu, Gujarat, 
-Jharkhand, and Haryana. 
- » A significant recovery emerged within the automotive industry in 2021, marked by a 
-value-added growth of 18.5%. The observed resurgence may indicate effective industry 
-adjustments, recuperation from previous obstacles, or an improved market environment. 
-The positive trajectory of expansion continued through 2022, reaching its pinnacle with a 
-value-added of 55,892.8, surpassing the levels recorded in 2020. 
-Value addition in 
-automotive sector 
-with sales <250 crores
-Fig. 14
-0
-10000
-20000
-30000
-40000
-50000
-60000
-70000
-80000
-Rs. millions
-2014 2015 2016 2017 2018 2019 2020 2021 2022
+90
+111
+112
+114
+50
 
-[Page 77]
-77
-Further, the analysis of districts in Maharashtra 
-indicated varied dynamics, with Pune leading 
-in workforce share (48.59%) but having a 
-relatively low productivity as its average wage 
-share in Maharashtra is just 7.8%. Whereas, 
-in Tamil Nadu, Tiruvallur held the highest 
-share in both workforce (23.57%) and average 
-wages (11.27%). Gujarat showcased a diverse 
-landscape, with Ahmedabad leading in 
-workforce share (69.41%) and Mehsana leading 
-in average wage share (16.59%). The intricacies 
-of these trends underscore the need for 
-nuanced strategies in the automotive industry, 
-taking into account regional variations in 
-workforce distribution and average wages.
-Automotive- 
-Top 100 District
-Fig. 15
-0 20,000 40,000 60,000 80,000 1,00,000 1,20,000 1,40,000 1,60,000 1,80,000
-Number of workers
-₹ 0
-₹ 50,000
-₹ 100,000
-₹ 150,000
-₹ 200,000
-₹ 250,000
-₹ 300,000
-₹ 350,000
-₹ 400,000
-₹ 450,000
-₹ 500,000
-₹ 550,000
-₹ 600,000
-Average wages
-Sonipat
-Pune
-Kancheepuram
-Ernakulam
-Krishnagiri
-Chennai
-Baghpat
-North Twenty Four Parganas
-IndoreThaneRaigarh
-Gautam Buddha Nagar
-Mumbai Suburban
-KachchhTumkur Bangalore
-ThiruvallurSatara
-Nashik Mahesana
-Bara Banki
-South Twenty Four ParganasMadurai
-Sabar Kantha
-Nagapattinam
+[Page 26]
+26
+Introduction
 
-[Page 78]
-78
-Policies for MSMEs 
-Chapter 4 
-in India
-
-[Page 79]
-79
-In this chapter, we delve into a comprehensive analysis of the policy landscape governing 
-Micro, Small, and Medium Enterprises (MSMEs) in India, aiming to augment our 
-understanding of the challenges faced by these enterprises. While our analysis discerns 
-the relevance of the objectives outlined in these policies, it also sheds light on areas 
-where policy implementation can be refined, emphasizing the imperative for heightened 
-sustainability.
-In the next step, we broaden our perspective to encompass the schemes and initiatives 
-implemented by various state governments in India, thereby creating a more detailed 
-depiction of the decentralised policy ecosystem. Our investigation uncovers a certain 
-disjointedness in state-level policies, indicative of a lack of uniformity and synchronised 
-efforts across regions. This revelation underscores the necessity for a more cohesive 
-and coordinated approach among states to fortify the collective impact of MSME 
-policies. As we traverse through this chapter, we endeavour to unravel the intricacies 
-of these policies, offering insights into their effectiveness, collaborative potential, and 
-opportunities for refinement to foster a more conducive environment for the flourishing 
-MSME sector in India.
-Porter highlights the importance of building microeconomic 
-capabilities in the national business environment where firms 
-compete, without which the broader macro-framework would 
-not bear fruit . This understanding is especially significant in 
-the Indian business scenario which harbours a majority of small 
-enterprises. 
-Evaluation 
-of National-
-Level 
-Policies for 
-MSMEs in 
-India
-The enactment of the MSMED Act in 2006 marked a pivotal milestone in creating a 
-conducive policy framework for advancing the MSME sector in India. This legislation not 
-only provided a definitive classification for MSMEs as opposed to the previous “Small 
-Scale Industries” but also established a foundation for bolstering their competitiveness. 
-Before this Act, small industries in India were referred to as Small Scale Industries (SSIs) 
-under the Industrial Development and Regulation (IDR) Act of 19519 , which encompassed 
-tiny, cottage, traditional, and village enterprises. The MSMED Act of 2006 established 
-a legal framework, defining the concept of an ‘enterprise’ to include manufacturing 
-and service entities and categorising them into three tiers: Micro, Small, and Medium. 
-The classification of MSMEs varies globally, relying on diverse factors like turnover, 
-workforce size, and investment. 
-9      https://www.dcmsme.gov.in/publications/circulars/circularmay1994.html
-
-[Page 80]
-80
-In India, historically, the definition was contingent on the number of employees as per the 
-Industrial Development and Regulation (IDR) Act of 1951. However, due to challenges in 
-obtaining accurate employment data and the fact that most enterprises in India are Own 
-Account Enterprises, informal, and/or employ very few labourers due to the complexity in labour 
-laws (Khatri, A Study of the Challenges of the Indian MSME Sector, 2019), the focus shifted 
-to using investments in plant, machinery, and equipment as a reliable proxy. Recently, there 
-has been a shift towards a turnover-based definition due to issues with data reliability and to 
-account for depreciation in the definition on the basis of plant and machinery. The original 
-investment-based criteria set in 2006 doesn’t fully align with the present cost index of plant and 
-machinery (Sinha U. K., 2019). Additionally, many MSMEs operate informally, without proper 
-accounting practices, making it challenging for them to fit within the current definition criteria, 
-highlighting the necessity for periodic adjustments in line with evolving economic conditions. As 
-a move to overcome these shortcomings, in July 2020, the Ministry of Micro, Small and Medium 
-Enterprises revised the definition of MSMEs to take into account the changing circumstances by 
-giving primacy to the classification on the basis of turnover rather than investment in plant and 
-machinery10 . Given the changing circumstances, it’s crucial to shift the focus of this important 
-legislation towards making it easier for MSMEs to operate in the market. The goal is to tackle key 
-challenges like limited infrastructure, informal practices, adopting new technologies, building 
-capacity, establishing market linkages, accessing credit, and securing investment. 
-Both the Government of India and state governments have been proactive in introducing 
-many schemes and policies to bolster this sector. Yet, MSMEs continue to grapple with issues 
-concerning formalisation, access to technology, timely and adequate financial support, 
-enhancement of competitiveness, availability of skilled workforce, and market linkages. India has 
-a range of institutions dedicated to addressing the challenges faced by MSMEs. The Ministry of 
-MSME oversees policy formulation for its holistic advancement, and various organisations under 
-the Office of Development Commissioner MSME execute these policies. The MSMED Act of 2006 
-encompasses provisions to promote and nurture the MSME sector. SIDBI serves as the principal 
-financial institution supporting MSME financing and development. RBI and SEBI establish 
-overarching policies to facilitate financial backing for the sector. While these bodies have played 
-a crucial role through legislation and policies in driving sectoral growth, crafting targeted 
-policies in areas such as infrastructure, formalisation, technology integration, linkages, credit 
-accessibility, and prompt payments to MSMEs, and ensuring their effective implementation, has 
-proven to be a challenge for all stakeholders.
-This section aims to assess the execution of the measures brought about at the national level 
-to uplift MSMEs. The evaluation of the schemes under consideration is grounded in a multi-
-dimensional approach, drawing from a combination of audit reports by the Comptroller and 
-Auditor General of India (CAG), annual reports by the implementation authorities of the schemes, 
-and existing academic literature. The success of any scheme can be gauged by the physical 
-and financial progress carried out under the scheme, as well as its socio-economic impact. This 
-information is made available by the CAG of India in their annual audit reports. These reports 
-were leveraged as a critical source of evidence. Additionally, a review of academic literature 
-pertaining to the schemes for the MSME sector in India was conducted. The literature review 
-served to contextualise the evaluation within the broader academic discourse, providing 
-empirical insights and comparative analyses with schemes of peer economies.
-10     Revised Classification of MSMEs w.e.f 1st July 2020
-Both the 
-Government of 
-India and state 
-governments 
-have been 
-proactive in 
-introducing 
-many schemes 
-and policies 
-to bolster this 
-sector.
+[Page 27]
+27
+90%
+50%
+W
+ithin the realm of global economics, micro-, small- and medium-sized enterprises 
+(MSMEs) emerge as the cornerstone of prosperity, embodying the largest and most 
+influential segment across all economies (Storey, Pinch, & Mason, 1991). They constitute 
+a vast majority of businesses worldwide and play a pivotal role in job creation and global 
+economic growth. 
+Despite being the largest business segment globally in terms of numbers, SMEs have 
+been found to participate less in Global Value chains (GVC) than the large enterprises. 
+(Chaisse & Rodríguez-Chiffelle, 2019)
+Participation in Global Value Chains (GVC) refers to the extent to which a nation’s exports 
+are embedded within multi-stage international trade processes. This concept refers to 
+the integration of domestic value added into the exports of other nations, as well as the 
+incorporation of foreign value added into a nation’s exports. The proportion of a nation’s 
+total exports that is comprised of GVC participation provides a quantitative assessment of 
+the extent to which its export sector relies on GVCs. GVC metrics also play a crucial role in 
+assessing the extent to which sectors depend on international manufacturing networks.
+(UNCTAD, 2013).
+GVCs serve as critical facilitators of the international exchange 
+of investment, knowledge, and managerial practices that are 
+in line with global standards, thereby significantly bolstering 
+domestic businesses
+They make up about
+of businesses 
+globally and are 
+responsible for over
+of the total global employment.

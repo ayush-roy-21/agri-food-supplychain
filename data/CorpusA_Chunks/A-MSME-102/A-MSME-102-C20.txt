@@ -1,170 +1,32 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-102-C20
 Parent Doc ID: A-MSME-102
-Page Range: Page 101 to Page 104
-Word Range: 25648 - 27096
-Word Count: 1,449
+Page Range: Page 33
+Word Range: 5321 - 5572
+Word Count: 252
 --------------------
 
-[Page 101]
-101
-Learnings from States’ 
-MSME policies
-2.
-Examining the landscape of MSME policies across various states and union territories reveals 
-the existence of schemes and incentives to support them. However, the mere existence of 
-these policies falls short of ensuring their efficacy. A substantial challenge arises from the lack 
-of awareness among MSMEs regarding these policies, impeding their macro-level utilisation. 
-Furthermore, the prevailing policies often inadequately address the substantial challenges 
-faced by MSMEs, primarily stemming from the omission of various stakeholders during the 
-policy formulation process. To augment the formulation of effective policies, policymakers 
-must prioritise regular consultations with stakeholders at all levels.
-At the individual level, MSMEs confront disproportionate challenges in navigating and deriving 
-benefits from available schemes. Inherent limitations in financial, technical, and administrative 
-capabilities impede their access to opportunities, preparation of tender documents, and 
-fulfilment of contractual obligations. Financial constraints frequently hinder their participation 
-in schemes that necessitate substantial investments. 
-The response of state governments to these challenges has been less than comprehensive. 
-Existing policies lack the requisite depth to effectively target individual-level challenges. 
-State governments ought to identify and prioritise specific issues, concurrently working 
-to enhance awareness about existing schemes. The current piecemeal approach in policy 
-design and implementation underscores the urgent need for a more cohesive, strategic, and 
-inclusive approach to fortify businesses in the MSME sector. This necessitates addressing 
-individual-level challenges and ensuring the effective implementation and widespread 
-dissemination of these schemes.
-Access to Finance
-Access to finance remains a significant challenge for MSMEs in India, despite efforts by state 
-governments to address this issue. Many states have introduced capital-intensive subsidies to 
-reduce the financial burden of establishing or expanding businesses. While such policies are 
-helpful, they often focus solely on the initial stages of an enterprise's life cycle, overlooking 
-the unique financial needs of MSMEs at later stages. States like Uttar Pradesh, Jharkhand, and 
-Manipur have introduced interest subsidy schemes for both term loans and working capital 
-requirements. However, these subsidies often come with minimum turnover requirements, 
-excluding micro-enterprises from benefiting. To address this, policies must focus on reducing 
-eligibility barriers and catering to the financing needs of MSMEs throughout their lifecycle.
-Additionally, there is a lack of support for financing instruments beyond traditional bank 
-credit. While states like Haryana, Gujarat, Odisha, and Himachal Pradesh have incentivised 
-SME listings on stock exchanges such as the BSE SME platform and NSE EMERGE, this option 
-primarily benefits high-end SMEs with strong financial knowledge and records. Smaller firms, 
-which often lack bookkeeping expertise and financial literacy, are left out. To bridge this gap, 
-state policymakers need to explore alternative financing options, such as cash-based lending, 
-equity financing, factoring, leasing, and venture capital, while ensuring smaller MSMEs receive 
-targeted support.
-
-[Page 102]
-102
-Insurance coverage is another neglected area. Except Manipur, which offers subsidies on 
-insurance premiums for MSMEs, most states lack structured frameworks to help businesses 
-safeguard against unforeseen risks and losses. Moreover, no state-level initiatives currently 
-focus on assessing financial literacy or providing interventions to enhance it, leaving MSMEs 
-ill-prepared to navigate complex financial systems. Comprehensive and inclusive policies are 
-essential to address these gaps and ensure financial stability for MSMEs nationwide.
-Access to Markets
-MSMEs in India face significant challenges in accessing markets due to limited production 
-capacity, lack of branding, and a focus on serving only local markets. While the public 
-procurement policy aims to support micro and small enterprises (MSEs) by offering 
-competitive pricing opportunities, medium enterprises remain excluded, disincentivising 
-growth. 
-Furthermore, most state governments have not taken sufficient steps to enhance the 
-competitiveness of MSME products and services in local or international markets. Only a few 
-states, such as Andhra Pradesh, Madhya Pradesh, Sikkim, Tamil Nadu, Tripura, and Kerala, have 
-implemented export incentives, highlighting a critical gap in fostering export competitiveness. 
-These states also support MSMEs with initiatives like quality certifications, market research, 
-and buyer-seller meetups. 
-At the same time, Bihar and Haryana provide additional benefits such as freight 
-reimbursements and e-commerce platforms like “Made in Haryana.” However, most states 
-lack proactive measures, leaving MSMEs ill-equipped to compete globally. To address this, 
-coordinated state-level efforts are needed to empower MSMEs with targeted regulatory, 
-administrative, and policy interventions, enabling them to access global markets effectively. 
-A study by J-PAL on Indonesia suggested that the rapid growth of e-commerce and logistics 
-services is crucial for developing micro, small, and medium enterprises (MSMEs) in developing 
-countries. Investment in transport infrastructure can lead to better business outcomes while 
-also promoting economic growth and improving household welfare.
-Moreover, MSMEs should focus on developing innovative products, particularly in high-tech 
-sectors such as semiconductors and biotechnology, with state-level initiatives tailored to 
-districts that provide an enabling environment for integration into global value chains.
-MSMEs tend to allocate a small subset of their investments in research, design, and product 
-development. Their cooperation within the value chain is often driven by dependence on 
-larger market players, leaving most SMEs with little freedom to choose the markets in which 
-they operate. 
-MSMEs tend to 
-allocate a small 
-subset of their 
-investments 
-in research, 
-design, and 
-product 
-development.
-
-[Page 103]
-103
- » Among the SMEs in textile manufacturing, collaboration with Indian and international 
-design schools, investment in new product technologies, and partnership with high-end 
-retail outlets need to be promoted.
- » For chemical product sector SMEs, state governments should focus on expanding the talent 
-pool of engineers and researchers by increasing domestic and international collaboration 
-with students.
-Additionally, providing training and workshops on modern marketing techniques, including 
-digital marketing, can help MSMEs diversify into by-products and develop niche markets 
-to boost their competitiveness. In the chemical products sector, state governments can 
-focus on strengthening the marketing capabilities of SMEs to help them move downstream 
-in the value chain. This can be achieved by creating collaborative platforms that connect 
-SMEs with specialised marketing agencies or consultants in the chemical industry, enabling 
-them to refine marketing strategies, target audiences effectively, and enhance their overall 
-competitiveness. By addressing these sector-specific needs, state governments can 
-significantly contribute to the growth and sustainability of MSMEs.
-
-[Page 104]
-104
-Access to technology and infrastructure 
-Access to technology and infrastructure remains a critical challenge for MSMEs, despite 
-initiatives like the National Credit Linked Capital Subsidy for Technology Upgradation (CLCS-
-TU) and state-level schemes such as Kerala’s Industry Varsity Linkages, Haryana’s Credit Linked 
-Advanced Technology Adoption scheme, and subsidies for technology purchases in Odisha 
-and Punjab. While these programs aim to enhance technological adoption, their reach is often 
-limited to medium and high-earning small enterprises, focusing on advanced technologies 
-like automation, IT systems, and IP registration. Unfortunately, the vast majority of micro-
-enterprises—forming the backbone of the MSME sector—remain excluded as these schemes 
-fail to address their basic technological needs, making scalability a persistent issue. 
-India’s States must develop sector-specific MSME policies to support micro and small-
-sized firms by upgrading their outdated technologies, enhancing productive capacity, 
-and ensuring equitable benefits to ensure coordinated and integrated development at the 
-regional level.
-For example, under the 14th 5-year plan (2021-25), China has aimed to accelerate the digital 
-transformation of its enterprises by constructing network infrastructure, modern industrial 
-platform systems and intelligent workshops/smart factories within the subsectors of its textile 
-industry.
-Efforts to provide quality infrastructure through industrial parks with MSME-specific 
-reservations have shown promise, but high rental costs often make them inaccessible to 
-smaller firms. While the Central government’s Common Facility Centers are a positive step, 
-states must establish their own infrastructure to support micro-enterprises through 
-co-working spaces and shared facilities tailored to their unique requirements. Moreover, 
-addressing operational inefficiencies in existing industrial parks, as highlighted in CAG reports 
-in the previous section, is crucial before expanding new facilities.
-Skill Development
-MSMEs in India face significant challenges in accessing capacity-building opportunities due 
-to financial illiteracy, operational skill gaps, and limited awareness of government schemes. 
-Despite the critical need for skill development, only eight states—such as Andhra Pradesh, 
-Bihar, Goa, Chhattisgarh, Haryana, Karnataka, Kerala, and Rajasthan—currently provide 
-partial subsidies for employment training. However, these initiatives fall short of addressing 
-the dynamic skill requirements of MSMEs, as the training curricula are often outdated and 
-misaligned with the sector’s evolving needs. Own Account Enterprises (OAEs) and nano-
-enterprises face additional hurdles, including high opportunity costs associated with lengthy 
-training programs that divert focus from daily operations. To address these challenges, 
-tailor-made policies are needed to ensure last-mile connectivity and extend training benefits 
-to micro-enterprises, particularly in rural India. These programs must be accessible, free of 
-charge, and specifically designed to meet MSMEs’ unique skill and technology needs, enabling 
-their sustained growth and success in diverse settings.
-To address these 
-challenges, 
-tailor-made 
-policies are 
-needed to 
-ensure last-mile 
-connectivity 
-and extend 
-training benefits 
-to micro-
-enterprises, 
-particularly in 
-rural India.
+[Page 33]
+33
+more competitive MSME sector. The reforms incentivize these enterprises to enhance 
+competitiveness and efficiency by allowing MSMEs to grow within the MSME classification. 
+This strategic approach positions them to effectively compete with larger companies and 
+facilitates better integration into the broader economy. Revisions in the MSME definition 
+also influence the extent to which MSMEs are influenced by tariff liberalisation. Higher 
+benefits of liberalisation can be accrued by introducing more flexible limits on investment 
+for MSMEs (Mukherjee & Chanda, 2021). This adjustment aims to align with contemporary 
+economic realities, establish a more objective classification system, and facilitate a conducive 
+environment for business operations. (Ministry of MSME, 2023). 
+Prioritizing the government's capacity to flexibly adapt and adopt a forward-thinking policy 
+approach is crucial for effectively addressing the growing complexities within and around 
+the MSME sector. This takes precedence over mere alterations in definitions and is essential 
+for ensuring true inclusivity. This adaptability is crucial in creating an enabling ecosystem 
+that supports the growth and resilience of businesses in an ever-changing world. The 
+first step towards this is understanding the challenges faced by MSMEs and what drives 
+the competitiveness of MSMEs across regions and industries is a prerequisite. This paper 
+aims to comprehensively analyse India-centric policies affecting MSMEs, evaluate their 
+competitiveness, examine their integration into Global Value Chains (GVCs), and offer strategic 
+policy recommendations to navigate future challenges.
+The first step towards this is understanding the challenges faced 
+by MSMEs and what drives the competitiveness of MSMEs across 
+regions and industries is a prerequisite.

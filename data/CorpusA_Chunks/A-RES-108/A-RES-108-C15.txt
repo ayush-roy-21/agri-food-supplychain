@@ -1,0 +1,259 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-108-C15
+Parent Doc ID: A-RES-108
+Page Range: Page 4
+Word Range: 3531 - 3780
+Word Count: 250
+--------------------
+
+[Page 4]
+Sustainable Production and Consumption 39 (2023) 203–215
+206
+Step 3. A pairwise comparison was made for each criterion using a 9- 
+point scale to determine which criterion is preferred over others. The 
+comparison results are represented as a vector from best to others 
+vectors. A
+B
+=
+{
+a
+B 1
+, a
+B 2
+, …… a
+Bj
+… a
+Bn
+}
+where a
+Bj 
+represents the preferences of the best criterion B over the 
+criterion j . 
+Step 4. The preferences for the other criteria over the worst criterion 
+are determined using the 1 to 9 scale 
+Vector A
+W
+=
+{
+a
+1 W
+, a
+2 W
+, …… a
+jW
+,.. a
+nW
+}
+where a
+jW 
+represents the preference of the criterion j over the worst 
+criterion W . 
+Step 5. The mathematical model 1 is used to compute the weights of 
+the criteria ( w
+1
+*
+, w
+2
+*
+,....w
+n
+*
+) 
+Model 1 
+min ma
+j
+x
+{ ⃒
+⃒
+W
+B
+ a
+Bj
+W
+j
+| ,
+⃒
+⃒
+W
+j
+ a
+jW
+W
+W
+⃒
+⃒
+}
+(1) 
+s.t: 
+Σ
+j
+W
+j
+= 1 , W
+j
+≥ 0 for all j 
+To determine the weigts of the criteria ( w
+1
+*
+, w
+2
+*
+,....w
+n
+*), model 1 can 
+be converted into model 2, 
+Min ξ 
+s.t. 
+⃒
+⃒
+⃒
+⃒
+w
+B
+w
+j
+ a
+Bj
+⃒
+⃒
+⃒
+⃒
+≤ ξ for all j (2)  
+⃒
+⃒
+⃒
+⃒
+w
+j
+w
+W
+ a
+j
+⃒
+⃒
+⃒
+⃒
+≤ ξ for all j  
+Σ
+j
+W
+j
+= 1 , W
+j
+≥ 0 for all j 
+The consistency ratio (CR) of BWM is represented by ξ * and the 
+corresponding consistency index (CI) values are computed by Eq. (3) . 
+Table 3 presents the CI for BWM models with different numbers of 
+criteria. 
+Table 1 
+Barriers to digital technologies for SPC in FSC.  
+Code Criteria (C
+1
+-C5) Barriers to Digital Technologies for 
+Sustainable Production and Consumption 
+Implied Meaning Reference 
+BSPC1 Regulations and 
+policy barriers (C
+1
+) 
+REG 
+Weak environmental regulations Environmental regulations are not stringent for SPC in FSC. Farooque et al. (2019) 
+BSPC2 Lack of global standard processes, rules 
+and frameworks 
+Organisations face problems in adopting digital technologies due 
+to the absence of global standard processes. 
+Kumar et al. (2021) . 
+BSPC3 Lack of stringent national policy for 
+sustainable production and consumption 
+/or CE policy 
+Absence of a policy for CE and also for technology adoption. Most 
+economies are still hesitant towards adoption due to the dynamic 
+environment. 
+Lorek and Spangenberg 
+(2014) ; Blok et al. (2015) 
+BSPC4 Financial barriers (C
+2
+) Limited funds Digital technologies are expensive and thus need funds in the initial 
+phase. Also, there is less awareness related to long-run payback and 
+investment opportunities. 
+K ¨ohler and Pizzol (2020) 
+BSPC5 High operational cost The cost is very high to develop digital technology enabled 
+sustainable supply chains. 
+Kamble et al. (2020) . 
+BSPC6 Organisational 
+barriers (C
+3
+) 
+Lack of experts Selection of the right personnel to use and develop SPC strategies 
+for food systems is a significant task. 
+Annosi et al. (2021) 
+BSPC7 Lack of change management capabilities Organisational culture sometimes has resistance to adopting any 
+change and hence is hesitant towards implementing digital 
+technologies. 
+Annosi et al. (2021) 
+BSPC8 Less skilled workforce Lack of technical, sound and knowledgeable workforce for SPC 
+implementation in food supply chains 
+Lezoche et al. (2020) 
+BSPC9 Benchmarking/standards There is less clarity in set standards to measure the performance of 
+firms. 
+Mathews and Tan (2016) 
+BSPC10 Risk-averse culture Perception towards potential risk may adversely affect the 
+stakeholder in the FSC. 
+Diaz-Ruiz et al. (2019) 
+BSPC11 Lack of physical and IT infrastructure/ 
+technical competency 
+Lack of infrastructure, interface platform, standardization and 
+compatibility issues. 
+Kamble et al. (2019) . 
+BSPC12 Supply chain related 
+barriers (C
+4
+) 
+Lack of cross-sector collaboration/ 
+inability to work across silos 
+Collaboration across industries is limited, and therefore digital 
+technology implementation is limited for sharing of information 
+and data. 
+Behnke and Janssen 
+(2020) 
+BSPC13 Low motivation towards information 
+exchange among SC actors 
+The fear of information loss due to shared information. Carter and Rogers (2008) 
+BS5C14 Lack of support from supply chain actors Food sector stakeholders are skeptical about using digital 
+technologies, especially in agri-food supply chains. 
+Mahdad et al. (2022) . 
+BSPC15 Behavioral barriers 
+(C
+5
+) 
+Less priority of firms Digital transformation is not a top priority for many businesses. Annosi et al. (2021) 
+BPSC16 Low-level commitment among top-level 
+management 
+Top-level management are less interested in changing the firm's 
+processes and thus avoid implementing digital technologies. 
+Dubey et al. (2015) 
+BSPC17 Strategic barriers (C
+6
+) Low technological know-how for 
+implementation 
+Lack of knowledge about digitalization of supply chain processes. Saberi (2018) ; Kamilaris 
+et al. (2019) 
+BSPC18 Lack of training to develop skilled 
+workers 
+Due to budgetary constraints, small food cooperatives lack the 
+resources to invest in the skill development of their employees. 
+Carter and Rogers (2008) 
+and Govindan et al. (2014) 
+BPSC19 Meager environmental education and 
+absence of environmental consciousness 
+There is a lack of environmental education and its links to SPC 
+orientation in food systems. 
+Tian and Wang (2016) 
+BPSC20 Lack of circular design aspect The circular design focusing on closed loops using digital 
+technologies like Industry 4.0 is still lacking in many firms. 
+Ranta et al. (2021) 
+BPSC21 Lack of agility Firms are not agile in embracing digital technology 
+implementation; there is insufficient encouragement towards 
+innovation. 
+Aiyar and Pingali (2020)  
+M. Sharma et al.

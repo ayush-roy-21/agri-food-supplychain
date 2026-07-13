@@ -1,0 +1,226 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-103-C83
+Parent Doc ID: A-MSME-103
+Page Range: Page 67 to Page 68
+Word Range: 23899 - 24148
+Word Count: 250
+--------------------
+
+[Page 67]
+Strategy for unlocking export potential for MSMEs in West Bengal
+67  Index No. Weights 2020 2021 2022 Coastal Average 
+(2022)
+National Average 
+(2022)
+Indicator Definition/Clarification
+2.3 Transport 
+Connectivity
+(15%)
+ 53.32 33.86 28.94 58.63 32.10  For businesses to be able to export, access to reliable modes of transport 
+is necessary. Therefore, to evaluate a state’s connectivity, this subpillar 
+evaluates the number of Air cargo terminals, logistics parks, inland 
+container depots, and storage facilities present in the state in the shape 
+of cold storage and warehouses. 
+2.3.1 2.75 82.60 82.60 50.00
+  
+LEADS index
+LEADS makes a perception-based assessment of international 
+trade logistics across Indian states and UTs – focusing on users and 
+stakeholders. It also provides indicator-level assessments of performance 
+on specific dimensions.
+2.3.2 
+2.3.2.1
+ 
+2.75 0 0 1.37
+  Multi-Modal Logistics Hubs 
+(MMLH)
+Whether State has Free Trade 
+Zones (FTZ), Free Trade 
+Warehousing Zones (FTWZ) and 
+Integrated Logistics Parks, if yes 
+how many ?
+The indicator captures how MMLH and Free Trade Zones (FTZ), Free 
+Trade Warehousing Zones (FTWZ) and Integrated Logistics Parks cater to 
+exports of region
+2.3.3
+ 
+2.3.3.1
+ 
+2.75
+ 
+8.84
+ 
+0.28
+ 
+11.11
+ 
+ 
+ 
+ 
+Air Cargo facilities
+What is the number of 
+Operational Air cargo terminals?
+The indicator identifies the number of air cargo terminals in a state to 
+assess its air connectivity.
+2.3.4 1.75 0 0 5.52
+  What is the area covered by 
+Inland container depots in a 
+state?
+The last leg of the supply chain, denoting the transportation of goods 
+from a transportation hub to its final destination. This final destination 
+could be the location of an end customer or inland container depots 
+(ICDs)
+2.3.5 
+2.3.5.A
+2.3.5.B
+ 
+1.5
+1.5
+ 
+ 
+ 
+ 
+26.40
+36.61
+ 
+ 
+ 
+ 
+Cold Storage Facility
+What is the number of Cold 
+storage facilities in a state?
+What is the capacity of Cold 
+storage facilities (in MT)?
+Cold storages minimizes wastage & ensures easy availability of packaged 
+or processed food to end-users. It will allow the exporters to preserve 
+perishable items fresh in case there is a delay in flight movement or 
+consignments missed the flight.
+ 
+2.3.6 
+2.3.6.A
+2.3.6.B
+ 
+1.5
+1.5
+ 
+ 
+ 
+ 
+0.60
+0
+ 
+ 
+ 
+ 
+Export oriented Warehousing 
+facility
+What is the number of 
+warehouses (for export 
+purposes)?
+What is the capacity of 
+warehouses (in MT)?
+The warehouses are to be appointed/ licensed at particular places only 
+which have been so declared by Central Board of Excise and Customs. 
+Warehouse can be defined as the commercial building or godown for 
+storage of goods. It is used for storing the goods by traders that will be 
+distributed later. It is mainly used for preventing losses and damages 
+that may arise out of defective and unsecured storage. Traders usually 
+store the cargo in a warehouse and get it released when it is required for 
+manufacturing or sales.
+
+[Page 68]
+Strategy for unlocking export potential for MSMEs in West Bengal
+68  Index No.Weights202020212022Coastal Average 
+(2022)
+National Average 
+(2022)
+IndicatorDefinition/Clarification
+Export 
+Ecosystem 
+(20%)
+Index Score 44.2429.0353.0659.4941.55  
+3.1 Export 
+Infrastructure 
+(5%)
+ 86.0933.3994.8891.4967.47
+ To foster export growth in a state, there needs to exist an infrastructure 
+supported by the government which takes care of all the needs of 
+the exporters. This infrastructure includes knowledge transfer portals, 
+Special Economic Zones, dedicated export zones, and accessible trade 
+guides, which record and publish information pertaining to all products 
+available in the state, and the strategies required to push them to the 
+global markets. Across five indicators, this sub-pillar aims to evaluate the 
+existing infrastructure within a state. 
+3.1.11.5100100100  
+Does the State have online 
+portals for disseminating 
+knowledge and information for 
+exporters? (Yes/No)
+Presence of an online portal increases access to crucial information 
+required by the exporters for exports.
+3.1.21 5.706.58  
+What is the area covered under 
+Export Promotion Industrial 
+Parks, Export Promotion Zones 
+and Special Economic Zones 
+(as percentage of State area 
+excluding forest cover)?
+The establishment of EPIPs, EPZs and SEZs by states provide exporters 
+with attractive investment opportunities through incentives like tax 
+benefits.
+3.1.30.50100100  Does a Trade guide exist? (Yes/
+No)
+Publication of trade guide with geography - based information on 
+process, commodity, buyers/market intelligence etc. by state.
+3.1.40.571.43075.00  
+What is the number of Agri- 
+Export Zones?
+An Agri Export Zone or AEZ is a specific geographic region in a country 
+demarcated for setting up agriculture-based processing industries, 
+mainly for export.
+3.1.51.5  91.47  
+Regional disparity : How many 
+districts out of the total districts 
+are exporting districts?
+The role of existing regional disparity in India, becomes essential to 
+understand the export landscape at the State level and the factors 
+influencing the export performance.
+3.2 Trade Support 
+(10%) 05.8247.5056.9531.11
+ Enabling export infrastructure is not sufficient to improve export 
+performance, as it requires support from the manufacturers in the 
+region. The support can be in the shape of a trade exhibition, capacity 
+building workshop, or utilising trade promotion schemes to help 
+the manufacturers. Creating a database of exporters helps a state in 
+recording and analysing its export profile. This can also facilitate a state 
+in identifying niche products which require more assistance at first, but 
+can contribute to a region’s competitive advantage over the years. 
+3.2.1 
+3.2.1.A
+3.2.1.B
+ 
+1
+1
+ 
+0
+ 
+0
+0
+0
+ 
+ 
+ 
+ 
+Trade Infrastructure for Export 
+Schemes (TIES)
+Have the states applied for TIES 
+scheme ?
+Projects approved under Trade 
+Infrastructure for Export Schemes 
+(TIES)
+The Government of India has launched TIES with the objective to assist 
+Central and State Government Agencies for creation of appropriate 
+infrastructure for growth of exports from the States. The Scheme 
+provides financial assistance in the form of grant-in-aid to Central/State 
+Government owned agencies for setting up or for up- gradation of 
+export infrastructure as per the guidelines of the Scheme.

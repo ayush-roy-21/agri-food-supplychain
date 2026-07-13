@@ -1,542 +1,90 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-108-C03
 Parent Doc ID: A-RES-108
-Page Range: Page 4 to Page 5
-Word Range: 3167 - 5118
-Word Count: 1,952
+Page Range: Page 1
+Word Range: 501 - 779
+Word Count: 279
 --------------------
 
-[Page 4]
+[Page 1]
 Sustainable Production and Consumption 39 (2023) 203–215
-206
-Step 3. A pairwise comparison was made for each criterion using a 9- 
-point scale to determine which criterion is preferred over others. The 
-comparison results are represented as a vector from best to others 
-vectors. A
-B
-=
-{
+Available online 18 April 2023
+2352-5509/© 2023 The Author(s). Published by Elsevier Ltd on behalf of Institution of Chemical Engineers. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+Overcoming barriers to implement digital technologies to achieve 
+sustainable production and consumption in the food sector: A circular 
+economy perspective 
+Manu Sharma
+a , g , 1
+, Sudhanshu Joshi
+b , h , 1
+, Kannan Govindan
+c , d , e , f , * , 1 
 a
-B 1
-, a
-B 2
-, …… a
-Bj
-… a
-Bn
-}
-where a
-Bj 
-represents the preferences of the best criterion B over the 
-criterion j . 
-Step 4. The preferences for the other criteria over the worst criterion 
-are determined using the 1 to 9 scale 
-Vector A
-W
-=
-{
-a
-1 W
-, a
-2 W
-, …… a
-jW
-,.. a
-nW
-}
-where a
-jW 
-represents the preference of the criterion j over the worst 
-criterion W . 
-Step 5. The mathematical model 1 is used to compute the weights of 
-the criteria ( w
-1
-*
-, w
-2
-*
-,....w
-n
-*
-) 
-Model 1 
-min ma
-j
-x
-{ ⃒
-⃒
-W
-B
- a
-Bj
-W
-j
-| ,
-⃒
-⃒
-W
-j
- a
-jW
-W
-W
-⃒
-⃒
-}
-(1) 
-s.t: 
-Σ
-j
-W
-j
-= 1 , W
-j
-≥ 0 for all j 
-To determine the weigts of the criteria ( w
-1
-*
-, w
-2
-*
-,....w
-n
-*), model 1 can 
-be converted into model 2, 
-Min ξ 
-s.t. 
-⃒
-⃒
-⃒
-⃒
-w
-B
-w
-j
- a
-Bj
-⃒
-⃒
-⃒
-⃒
-≤ ξ for all j (2)  
-⃒
-⃒
-⃒
-⃒
-w
-j
-w
-W
- a
-j
-⃒
-⃒
-⃒
-⃒
-≤ ξ for all j  
-Σ
-j
-W
-j
-= 1 , W
-j
-≥ 0 for all j 
-The consistency ratio (CR) of BWM is represented by ξ * and the 
-corresponding consistency index (CI) values are computed by Eq. (3) . 
-Table 3 presents the CI for BWM models with different numbers of 
-criteria. 
-Table 1 
-Barriers to digital technologies for SPC in FSC.  
-Code Criteria (C
-1
--C5) Barriers to Digital Technologies for 
-Sustainable Production and Consumption 
-Implied Meaning Reference 
-BSPC1 Regulations and 
-policy barriers (C
-1
-) 
-REG 
-Weak environmental regulations Environmental regulations are not stringent for SPC in FSC. Farooque et al. (2019) 
-BSPC2 Lack of global standard processes, rules 
-and frameworks 
-Organisations face problems in adopting digital technologies due 
-to the absence of global standard processes. 
-Kumar et al. (2021) . 
-BSPC3 Lack of stringent national policy for 
-sustainable production and consumption 
-/or CE policy 
-Absence of a policy for CE and also for technology adoption. Most 
-economies are still hesitant towards adoption due to the dynamic 
-environment. 
-Lorek and Spangenberg 
-(2014) ; Blok et al. (2015) 
-BSPC4 Financial barriers (C
-2
-) Limited funds Digital technologies are expensive and thus need funds in the initial 
-phase. Also, there is less awareness related to long-run payback and 
-investment opportunities. 
-K ¨ohler and Pizzol (2020) 
-BSPC5 High operational cost The cost is very high to develop digital technology enabled 
-sustainable supply chains. 
-Kamble et al. (2020) . 
-BSPC6 Organisational 
-barriers (C
-3
-) 
-Lack of experts Selection of the right personnel to use and develop SPC strategies 
-for food systems is a significant task. 
-Annosi et al. (2021) 
-BSPC7 Lack of change management capabilities Organisational culture sometimes has resistance to adopting any 
-change and hence is hesitant towards implementing digital 
-technologies. 
-Annosi et al. (2021) 
-BSPC8 Less skilled workforce Lack of technical, sound and knowledgeable workforce for SPC 
-implementation in food supply chains 
-Lezoche et al. (2020) 
-BSPC9 Benchmarking/standards There is less clarity in set standards to measure the performance of 
-firms. 
-Mathews and Tan (2016) 
-BSPC10 Risk-averse culture Perception towards potential risk may adversely affect the 
-stakeholder in the FSC. 
-Diaz-Ruiz et al. (2019) 
-BSPC11 Lack of physical and IT infrastructure/ 
-technical competency 
-Lack of infrastructure, interface platform, standardization and 
-compatibility issues. 
-Kamble et al. (2019) . 
-BSPC12 Supply chain related 
-barriers (C
-4
-) 
-Lack of cross-sector collaboration/ 
-inability to work across silos 
-Collaboration across industries is limited, and therefore digital 
-technology implementation is limited for sharing of information 
-and data. 
-Behnke and Janssen 
-(2020) 
-BSPC13 Low motivation towards information 
-exchange among SC actors 
-The fear of information loss due to shared information. Carter and Rogers (2008) 
-BS5C14 Lack of support from supply chain actors Food sector stakeholders are skeptical about using digital 
-technologies, especially in agri-food supply chains. 
-Mahdad et al. (2022) . 
-BSPC15 Behavioral barriers 
-(C
-5
-) 
-Less priority of firms Digital transformation is not a top priority for many businesses. Annosi et al. (2021) 
-BPSC16 Low-level commitment among top-level 
-management 
-Top-level management are less interested in changing the firm's 
-processes and thus avoid implementing digital technologies. 
-Dubey et al. (2015) 
-BSPC17 Strategic barriers (C
-6
-) Low technological know-how for 
-implementation 
-Lack of knowledge about digitalization of supply chain processes. Saberi (2018) ; Kamilaris 
-et al. (2019) 
-BSPC18 Lack of training to develop skilled 
-workers 
-Due to budgetary constraints, small food cooperatives lack the 
-resources to invest in the skill development of their employees. 
-Carter and Rogers (2008) 
-and Govindan et al. (2014) 
-BPSC19 Meager environmental education and 
-absence of environmental consciousness 
-There is a lack of environmental education and its links to SPC 
-orientation in food systems. 
-Tian and Wang (2016) 
-BPSC20 Lack of circular design aspect The circular design focusing on closed loops using digital 
-technologies like Industry 4.0 is still lacking in many firms. 
-Ranta et al. (2021) 
-BPSC21 Lack of agility Firms are not agile in embracing digital technology 
-implementation; there is insufficient encouragement towards 
-innovation. 
-Aiyar and Pingali (2020)  
-M. Sharma et al.
-
-[Page 5]
-Sustainable Production and Consumption 39 (2023) 203–215
-207
-CR =
-ξ
-*
-CI
-(3) 
-The smaller the ξ
-*
-, the smaller is the CR value, and the more 
-consistent the vectors are. 
-3.2. Level-Based Weight Assessment (LBWA) 
-The LBWA method was proposed by 
-ˇ
-Zi ˇzovi ´c and Pamucar (2019) . 
-This method is one of the pairwise comparison-based subjective 
-methods. It uses an algorithm that groups criteria according to their 
-levels of significance. According to the expert's preferences, the rele -
-vance of the grouped criteria is then specified. This method has been 
-used in sustainable practices, transportation, operations etc. For its 
-application, the following steps are taken: 
-Step 1. The most important criterion from the set of predefined 
-criteria is identified. 
-s = { c
-1
-, c
-2
-, … .. c
-n
-} .
-Step 2. The remaining criteria are categorised into different levels 
-(mentioned below) on the basis of their significance 
-Level S
-1
-: Criteria that are as important or up to twice as important as 
-the most important criterion are placed in this level. 
-Level S
-2
-: Criteria whose significance level is exactly twice or up to 
-three times less significant than the most significant criterion are 
-placed in this level. 
-Level S
-3
-: Criteria with significance levels exactly k times or up to k +
-1 times less significant than the most significant criterion are placed 
-in this level. 
-The significance of criterion is represented as S(c
-j
-) for each 
-j ∈ { 1 , 2 , … .., n } ; the following equation is formed for each level 
-i ∈ { 1 , 2 , … .., k } : 
-S = S
-1
-∪ S
-2
-… ∪ S
-k
-(4)  
-where for each p, q ∈ { 1 , 2 , … , k } ; p and q are not equal, S
-1
-∩ S
-2
-= Ø 
-holds. 
-Step 3. As the expert categorises criteria according to their relative 
-weights, each criterion C
-jp
-∈ S
-i 
-in the subset of S
-j
-=
-{
-C
-j
-, C
-j
-2
-, … ., C
-j
-s
-}
-is assigned with an integer value that is denoted by I
-j p
-. I
-j p
-contains 
-integer values from 0 to a constant called r where r is equal to 
-r = max {| S
-1
-| , | S
-2
-| , … ., | S
-k
-|} (5) 
-It is essential to note that I
-1
-= 0, represents the most important 
-criterion. If one criterion is more significant than another, its assigned 
-value will be greater than this for the remaining criteria. 
-Step 4. The obtained value of r should satisfy r
-0
-> r where r
-0
-is 
-defined as the elasticity coefficient. 
-Step 5. The influence function of each criterion is computed using Eq. 
-(6) 
+Department of Management Studies, Graphic Era Deemed to be University, India 
+b
+Operations and Supply Chain Management Area, School of Management, Doon University, India 
+c
+Center for Sustainable Supply Chain Engineering, Department of Technology and Innovation, Danish Institute for Advanced Study, University of Southern Denmark, 
+Campusvej 55, Odense M, Denmark 
+d
+China Institute of FTZ Supply Chain, Shanghai Maritime University, Shanghai 201306, China 
+e
+Yonsei Frontier Lab, Yonsei University, Seoul, Republic of Korea 
 f
-(
-c
-j p
-)
-=
-r
-0
-j ( r
-0
-) + I
-j p
-(6)  
-where I signifies the number of the level where the criterion is placed. 
-Step 6. The optimal values for the weight coefficient of the most 
-important criterion are calculated using Eq. (7) . 
-w
-j
-=
-1
-1 + f
-
-C
-j
-)
-+ … + f ( C
-n
-)
-(7) 
-The remainder of the criteria's weight coefficients are calculated 
-based on Eq. (8) . 
-w
-j
-= f
-
-c
-j
-)
-w
-j
-(8) 
-An aggregation operator is utilised to compute optimal criterion 
-weights. The BWM and LBWA criterion weights are represented as y
-j 
-and 
-z
-j
-, respectively; the final weights are calculated using Eq. (9) ( Yazdani 
-et al., 2019 ). 
-w
-j
-=
-y
-i
-z
-j
-Σ
-m
-j = 1
-y
-i
-z
-j
-(9)  
-3.3. CoCoSo method 
-By combining the ideas of simple additive weighting (SAW), 
-weighted aggregated sum product assessment (WASPAS) and multipli -
-cative exponential weighting (MEW), Yazdani et al. (2019) developed 
-the CoCoSo method. In the current study, strategies are ranked using the 
-CoCoSo method, a combination of the SAW, WASPAS and MEW 
-methods, as this yields more reliable results. It comprises the steps 
-outlined below. 
-Step 1. Developing the initial decision matrix 
-x
-ij
-=
-⎡
-⎢
-⎢
-⎢
-⎢
-⎢
-⎣
-x
-11
-x
-12
-…
-x
-21
-x
-22
-…
-… … …
-x
-1 n
-x
-2 n
-…
-x
-m 1
-x
-m 2
-… x
-mn
-⎤
-⎥
-⎥
-⎥
-⎥
-⎥
-⎦
-; i = 1 , 2 , … ., m ; i = 1 , 2 , … ., n . (10)   
-Step 2. Normalization of the initial decision matrix using Eqs. (11) 
-and (12) based on the nature of the criteria. 
-Table 2 
-Expert details.  
-Experts Designation Technologies Experience 
-E1 Production 
-Planner 
-ERP, SAP, Big Data Analytics, CRM > 10 years 
-E2 Global 
-Operations 
-Big Data Analytics, Cloud Computing, 
-EDI 
-> 15 years 
-E3 Distribution 
-Manager 
-Big Data Analytics, ERP systems for 
-reordering and order fulfilment. 
-> 10 years 
-E4 Production 
-Planner 
-Big Data Analytics > 10 years 
-E5 Food Control Food control systems that support 
-international standards, including and 
-FSSAI, Supplier Quality Management 
-(SQM) 
-> 10 years 
-E6 Global 
-Operations 
-Power BI, ERP, APO system, Inventory 
-Tool, VMI 
-> 10 years 
-E7 Supply Chain 
-Partner 
-Big Data Analytics, Power BI, ERP > 10 years 
-E8 Food Control Big Data Analytics, Power BI, ERP > 10 years 
-E9 Production 
-Planner 
-Power BI, ERP > 15 years 
-E10 Food Control Big Data Analytics > 10 years 
-E11 Global 
-Operations 
-Power BI, Google Studio and Tableau > 10 years 
-E12 Supply Chain 
-Partner 
-Big Data Analytics > 10 years 
-E13 Distribution 
-Manager 
-Big Data Analytics, > 10 years 
-E14 Supervisor Big Data Analytics > 15 years 
-E15 Project 
-Manager 
-Big Data Analytics, AMI, APO system < 10 years 
-E16 Analyst/ 
-Consultant 
-Cloud computing > 10 years 
-E17 Supervisor Power BI, ERP < 10 years 
-E18 Global 
-Operations 
-Power BI, ERP > 15 years  
-M. Sharma et al.
+School of Business, Woxsen University, Sadasivpet, Telangana, India 
+g
+Guildhall School of Business and Law, London Metropolitan University, London 
+h
+Australian Artificial Intelligence Institute (AAII), University of Technology Sydney, Australia   
+ARTICLE INFO  
+Editor: Prof Konstantinos Tsagarakis  
+Keywords: 
+Sustainable production and consumption 
+Digital technologies 
+Food supply chains 
+Circular economy 
+ABSTRACT  
+Food security and waste minimisation are the main concerns for the management of food supply chains (FSC), as 
+> 33 % of global food production is wasted or lost due to mismanagement. Stakeholders must address the 
+ongoing issues, such as resource scarcity, climate change, waste creation etc. to create an environment conducive 
+to sustainable production and consumption (SPC) and to promote economic sustainability. Resource efficiency 
+and waste minimization are necessary for SPC in the FSC. Technologies from the Industry 4.0 era have 
+demonstrated their ability to address these problems effectively. However, there are barriers to the adoption of 
+digital technology because of internal or external issues. Therefore, it is necessary to examine the challenges 
+faced by the food industry while applying digital technology to attain SPC. The current study has adopted an 
+integrated methodology of Best-Worst-Method (BWM)-Level Based Weight Assessment (LBWA) and Combined 
+Compromise Solution (CoCoSo) methods to analyse the barriers in implementing digital technologies to achieve 
+SPC in FSC. Strategic measures to overcome these barriers are suggested. The BWM-LBWA-CoCoSo technique is 
+used for the first time in this study to evaluate the barriers and determine the most effective strategies. According 
+to the BWM-LBWA research, “ organisational barriers ” are the main impediment to the adoption of digital 
+technology for SPC in the FSC. According to CoCoSo findings, the best way to overcome the major barriers is to 
+“ focus on improving commitment from senior management towards SPC. ” The study gives decision-makers in -
+formation about the major barriers in utilizing advanced digital technology to achieve SPC in FSC.   
+1. Introduction 
+Sustainable production and consumption (SPC) is regarded as the 
+main driving force behind economic reform and sustainable growth. Its 
+importance is highlighted by Sustainable Development Goal-12 (SDG) of 
+the United Nations, which aims to promote sustainable development and 
+responsible production ( Beier et al., 2018 ; Guo et al., 2022 ). Recently, 
+reverse logistics, closed-loop supply chains, circular economy acts as an 
+environemnetal and sustainability tool in various supply chain 
+applications ( Kannan et al., 2023 ; Butt et al., 2023 ; Aryee and Adaku, 
+2023 ; Mondal et al., 2022 ). A new era in which the integration of triple 
+bottom line dimensions, including environmental, social and economic 
+progress, is required for the expansion of the economy in a sustainable 
+manner. National policies and strategies assist stakeholders in managing 
+tradeoffs and fostering synergy between SPC and SDGs ( Obersteiner 
+et al., 2016 ). Data management, real-time decision-making, creative 
+approaches for extending the end-of-life and shelf life of perishable 
+items etc. have changed throughout the present Industry 4.0 era; this has 
+unquestionably enhanced SPC in FSC ( G ¨olzer and Fritzsche, 2017 ; Ekren 
+* Corresponding author at: China Institute of FTZ Supply Chain, Shanghai Maritime University, Shanghai 201306, China. 
+E-mail address: kgov@iti.sdu.dk (K. Govindan).   
+1 
+The author's order is based on academic seniority. 
+Contents lists available at ScienceDirect 
+Sustainable Production and Consumption 
+journal homepag e: www.el sevier.com/loc ate/spc 
+https://doi.org/10.1016/j.spc.2023.04.002 
+Received 23 August 2022; Received in revised form 27 March 2023; Accepted 3 April 2023

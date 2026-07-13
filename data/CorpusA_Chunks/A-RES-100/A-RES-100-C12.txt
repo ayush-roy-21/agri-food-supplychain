@@ -1,0 +1,46 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C12
+Parent Doc ID: A-RES-100
+Page Range: Page 17 to Page 18
+Word Range: 3548 - 3817
+Word Count: 270
+--------------------
+
+[Page 17]
+17
+Sustainability in Decision-Making: Impact
+of Public Commitments and Stakeholder
+Pressure
+In examining companies that have maintained their
+sustainability commitments since January 2025, we
+focused on how they operate in p
+ractice to assess
+whether their sustainability goals are embedded in
+day-to-day activities. Our research shows that there
+is a notable execution gap between strategic intent
+and daily practice of an organization. Only 39% of the
+businesses reporting unchanged or increased
+commitment since the Trump administration have
+actually integrated sustainability indicators into
+routine operational decision-making.
+Figure 5. From Commitment to Action: Share of Businesses Integrating Sustainability in Daily Decisions
+Issue No.06
+
+[Page 18]
+18
+Interestingly, businesses with publicly stated sustainability goals show significantly higher levels of daily
+sustainability integration compared to those without public commitments. Among companies that have
+made public sustainability pledges, 57.33% frequently or always incorporate sustainability decisions into their
+daily operations, whereas only 13.38% of businesses without public goals achieve this level of integration (see
+Figure 6). We also find that businesses across sectors and
+ regions that have publicly committed to goals and
+face pressure from diverse stakeholders tend to invest more in high-impact sustainability initiatives, including
+renewable energy adoption, product innovation, waste reduction, and circular economy.
+Figure 6. Businesses with Public Goals Show Higher Sustainability Integration Rates
+State of Supply Chain Sustainability 2025
+Businesses with sustainability goals are 74% more likely to invest in initiatives
+that effectively reduce their emissions.
+This suggests that public accountability mechanisms create stronger internal pressures to embed
+sustainability principles into business operations. The findings highlight that external commitments and
+transparency are associated with a more systematic implementation of sustainability practices beyond
+strategic statements.

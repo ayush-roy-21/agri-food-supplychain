@@ -1,342 +1,85 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-100-C03
 Parent Doc ID: A-EUDR-100
-Page Range: Page 5 to Page 6
-Word Range: 3415 - 5262
-Word Count: 1,848
+Page Range: Page 1
+Word Range: 501 - 791
+Word Count: 291
 --------------------
 
-[Page 5]
-personal and non-personal data within the EU. It also clarifies the con -
-ditions of processing, adding value and transferring data outside of the 
-EU ( Regulation (EU) 2023/2854, 2023 ).
-Thus, while the EU is meticulous about data security when trans -
-ferring personal data from EU citizens to third countries, data security in 
-third countries is of lesser concern to the EU when requesting the 
-collection of sustainability information. Indeed, compared to EU stan -
-dards, the data protection laws in countries producing EUDR-relevant 
-commodities are often far less stringent, if existent at all ( Chamorro- 
-Padial et al., 2025 ).
-In 2023, the EU imported € 115 billion worth of EUDR-relevant 
-commodities from 207 countries and territories outside of the EU 
-( United Nations, 2024 ). Fig. 3 shows the share of this total value origi -
-nating from countries with differing levels of data protection adequacy 
-as defined by the EU ( CNIL, 2024a ; United Nations, 2024 ). Data ade -
-quacy implies a level of protection that is substantially equivalent to that 
-in the EU, allowing the transfer of EU citizens' personal data to that 
-country without additional requirements ( CNIL, 2024a ; Greenleaf and 
-Cottier, 2022 ). In evaluating a third country's data adequacy, the EU 
-considers its respect for the rule of law, the supervisory authority's 
-Table 1 
-Cocoa use-case framework for EUDR compliance data monetisation.
-d
-Monetisation 
-mode
-Illustrative cocoa 
-use-case
-a,c
-EUDR-relevant 
-data
-Minimum data 
-requirements
-g
-Capabilities 
-needed
-f
-Value mechanism 
-(who pays/why)
-j
-Potential risks
-b,e,i
-Safeguards
-1) Data as a 
-product
-Producer data set e. 
-g. region, practice, 
-productivity, yield 
-gaps
-Geolocation of 
-plots, legality and 
-traceability 
-documents
-Cleaned, 
-aggregated, 
-anonymised 
-cocoa farmers' 
-data
-Data governance, 
-anonymisation or 
-aggregation, 
-metadata 
-management, 
-upfront 
-investment
-Government 
-agencies, research 
-institutions, NGOs, 
-traders for 
-benchmarking and 
-targeting, train 
-model about large 
-scale patterns
-Re -identification, 
-misuse beyond 
-license scope, 
-exploitation, 
-privacy violations
-Aggregation 
-thresholds, 
-anonymisation, audits, 
-consent registry, Data 
-use/sharing agreement 
-(DUA), prohibit 
-incompatible re-use, 
-fair benefit sharing e.g. 
-grant free access of raw 
-data, option to 
-withdraw
-2) Data- 
-enhanced 
-product
-Chocolate Stock 
-Keeping Unit (SKU) 
-with verified 
-origin, farm- 
-practice attributes 
-on package
-Verified 
-geolocation, 
-traceability and 
-legality evidence
-Attribute model 
-linking batch to 
-farms, 
-verification track
-Attribute 
-verification, label 
-governance, 
-consent 
-management
-Consumers pay 
-price premium for 
-origin & 
-sustainability claim
-Greenwashing, 
-loss of consumer 
-and investor trust
-Third-party 
-verification, claims 
-standard, independent 
-audits, QR-code linked 
-disclosure
-3) Data-driven 
-services
-Production and 
-practice history, 
-weather or remote- 
-sensing data, risk 
-scoring for 
-insurance or 
-investors, advisory 
-that tailors inputs 
-to predict 
-behaviour
-Aggregated 
-geolocation and 
-legality data 
-packages
-Explainability 
-outputs and 
-performance 
-baselines
-Machine-learning 
-modelling & 
-validation
-Insurers, investors, 
-NGOs etc. for risk 
-management 
-solutions, accurate 
-demand forecast, 
-risk pricing or yield 
-uplift
-Discriminatory/ 
-biased pricing, 
-model drift, opaque 
-decisions
-Explainability/ 
-interpretability 
-reviews, restrict non- 
-EU transfers where 
-protection is 
-inadequate, blockchain 
-technology, Internet of 
-Things
-4)
-h
-Data-driven 
-performance 
-outcomes
-Portfolio 
-optimisation using 
-fused farm, market 
-and consumer data
-Automatic risk 
-assessment, farm- 
-factory 
-traceability, 
-legality and 
-sustainability key 
-performance 
-indicators (KPIs)
-Fused multi- 
-source datasets, 
-scenario library, 
-decision rules 
-linked to profit 
-and loss
-Data 
-warehousing, 
-optimisation, 
-scenario 
-analytics, change 
-management
-Cost improvements 
-and strategic 
-advantage
-Competitive 
-sensitivity, 
-coordination 
-failures
-Data-sharing contracts, 
-role-based access, 
-change governance, 
-code of conduct, 
-regular audits, 
-blockchain
-The four monetisation modes follow established business to business (B2B) data-value typologies to translate and monetise the generated EUDR compliance data 
-( Ritala et al., 2024 ). The EUDR-relevant data inputs reflect the Regulation's geolocation and legality requirements. Safeguards draw on the General Data Protection 
-Regulation, compatible anonymisation principles, the EU Data Act and the OECD – FAO due-diligence guidance for contractual controls, verification and disclosure.
-a
-EUDR relevant data: Operators must collect geolocation of plot of harvest/production and legality/traceability documentation prior to placing products on the EU 
-market ( European Commission, 2025b ; Regulation (EU) 2023/1115 ).
-b
-Data sharing & contracts: EU Data Act sets fair-access and use conditions for non-personal data, supporting Data Use Agreements, purpose limitation and role-based 
-access ( Regulation (EU) 2016/679 ; Regulation (EU) 2023/2854, 2023 ; 
-ˇ
-Sestak and Copot, 2023 ; van der Burg et al., 2021 ).
-c
-Due-diligence system: OECD – FAO Business Handbook details steps of risk-based due diligence, traceability/geolocation, supplier documentation and verification 
-and disclosure of good practice ( OECD/FAO, 2023 ).
-d
-Monetisation modes: The four-part typology, data as a product, data-enhanced product, data-driven services, data-driven performance outcomes are driven from 
-Ritala et al. (2024) .
-e
-Anonymisation/aggregation: The k-anonymity and related controls are used to reduce re-identification risks when sharing or aggregating producer data ( Sweeney, 
-2002 ).
-f
-Who pays: Consumers pay premiums for traceability/sustainability claim. On-pack/QR-code disclosure is a recognised channel to convey verified attributes 
-( Chamorro-Padial et al., 2025 ; Li et al., 2024 ; Tran et al., 2024 ).
-g
-Risk analytics: Machine-learning for supply-chain risk requires model validation/monitoring via explainability/ interpretability to avoid bias and ensure reliable 
-scores for insurers/investors who might want to buy aggregated data ( Nezianya et al., 2024 ).
-h
-Performance outcomes: Digital traceability and integrated data flows improve operational efficiency/quality and support portfolio optimisation and performance 
-management ( Verna et al., 2025 ).
-i
-Considerations for the data subjects and benefit sharing ( Delacroix and Lawrence, 2019 ; O'Hara, 2020 ; Ruder and Wittman, 2025 ; 
-ˇ
-Sestak and Copot, 2023 ).
-j
-Potential risks: Inconsistent or misleading claims, data breaches, or opaque models can erode consumer trust and investor confidence. Linking data attributes can 
-help re-identify producers, exposing them to targeted exploitation ( Barocas and Selbst, 2016 ; Delmas and Burbano, 2011 ; Rudin, 2019 ; Sweeney, 2002 ; van der Burg 
-et al., 2021 ).
-L. Afriyie-Kraft et al.                                                                                                                                                                                                                           Forest Policy and Economics 184 (2026) 103709 
-5
-
-[Page 6]
-effective functioning and independence, and the international commit -
-ment to the development of data protection [GDPR Art. 45(2)].
-Fig. 3 shows that, in 2023, 84% of the EU's imports of EUDR-relevant 
-commodities came from jurisdictions without adequate data protection 
-under EU law ( CNIL, 2024a ; United Nations, 2024 ). Specifically, 70% of 
-these jurisdictions have laws and/or authorities that are not deemed 
-adequate, 4% have no laws and 10% have laws that are only partially 
-adequate. Only 16% originated from adequate data protection regimes. 
-In other words, for every € 1 sourced from adequate jurisdictions, about 
-€ 5.25 come from non-adequate sources. This situation may increase 
-risks regarding data privacy and -exploitation outside EU-adequate 
-frameworks.
-We assume that without adequate laws, the prospects for effective 
-protection of producers' data for EUDR compliance are grim. This may 
-open doors to potential data exploitation, commercialisation of essential 
-sustainability information and unauthorised use of data that, for 
-example, may inform those who pursue land grabbing intentions. To 
-avoid these risks, while still recognising producers' cost burdens, we 
-separate two categories for potential data monetisation:
-Tier one is the core compliance data of the EUDR, e.g. geolocation 
-and legality documentation, which serves a public-interest oversight 
-function. This tier could enable regulatory oversight for monitoring, 
-environmental protection and market entry and should not be sold. We 
-propose monetisation of tier two data, which concerns value-added and 
-anonymised analytics that employ aggregated benchmarking, advisory 
-scores and optimisation tools derived from multiple data sources. 
-Monetisation of tier two could be considered if safeguards such as those 
-outlined in Table 1 are met.
-4. Discussion
-Above, we argued that the commercialisation of data collected for 
-EUDR compliance could be an opportunity for producer countries. 
-However, selling data may still be a bumpy rather than a smooth road to 
-success. Initial efforts to sell data, like Microsoft's Azure DataMarket 
-(launched 2010) and Kasabi (started in 2011, discontinued in 2012) 
-failed due to low enterprise interest and difficulties in addressing 
-diversified data requirements ( Johnston, 2022 ). Presently, the data 
-market is gaining traction as revealed by a recent empirical study of 451 
-data-driven organisations. More than a third of the respondents (38%), 
-see data monetisation as one of their top five strategic priorities for the 
-next three years ( Johnston, 2022 ).
-Our analysis further revealed that a large volume of commodities 
-regulated by the EUDR is exported by countries with weak governance 
-arrangements on data protection ( CNIL, 2024a ). This is reason for 
-concern because the EU's rigid one-size-fits-all compliance requirements 
-are placing producers in a dilemma in which they are urged into 
-providing data despite having concerns over the security of sensitive 
-commercial and personal information ( Sevilla et al., 2025 ).
-Viewed through this lens, the EUDR may be perpetuating power 
-asymmetries by dictating trade rules to producers ( Samriddhi, 2025 ). 
-Some authors describe this as the coloniality of mandating behavioural 
-change, where the colonial legacy continues to influence the distribution 
-of power and shapes decisions ( Collins et al., 2021 ; Kuhl et al., 2025 ). 
-This situation as observed deepens inequalities and vulnerabilities as 
-decision-making becomes external to the local context, leading to more 
-global injustice ( Collins et al., 2021 ; Kuhl et al., 2025 ; Manahan et al., 
-2024 ). Regulations such as the EUDR may thus fail to achieve their 
-objectives and encourage redirection of non-compliant goods towards 
-markets with lower sustainability requirements ( Sevilla et al., 2025 ).
-We argue that producer countries and regional as well as subregional 
-bodies could co-design a more robust multi-level ethical data gover -
-nance and management regime for effective compliance with sustain -
-ability requirements ( Liu, 2022 ; Ruder and Wittman, 2025 ; Steinke 
-et al., 2024 ).
-A multi-level approach could foster consistency, improve efficiency 
-and avoid fragmentation across jurisdictions ( OECD, 2019 ). However, 
-care must be taken to avoid static regulations and rather design an 
-adaptive governance framework that is sufficiently flexible to cater for 
-rapid developments especially in the artificial intelligence domain 
-( Sayan and Bueechl, 2025 ).
-Within such a framework, producer country governments could step 
-up their efforts in harmonising and developing robust data protection 
-regimes ( Greenleaf and Cottier, 2022 ). This could be about turning 
-EUDR compliance from a high-cost obligation into a win-win situation, 
-protecting producers‘rights and enhancing benefits ( Wilhelm, 2024 ) A 
-priority will be to harmonise basic privacy rules, establishing consistent 
-provisions for cross-border data flows and consenting to the access and 
-use of data ( Babalola, 2024 ; Delacroix and Lawrence, 2019 ). A second 
-approach is building shared compliance data spaces such as national 
-registries for geolocation, like in the case of Brazil, to enable verification 
-of compliance ( Jung et al., 2017 ; Sevilla et al., 2025 ) without central -
-ising raw producer data or compromising confidentiality ( Dembani 
-et al., 2025 ; McDermott et al., 2025 ). Third, producer countries should 
-Fig. 3. Share of value of EUDR relevant imports from countries with (in)adequate data protection laws based on UN Comtrade data for the year 2023 and CNIL data, 
-Source: ( CNIL, 2024a ; United Nations, 2024 ).
-L. Afriyie-Kraft et al.                                                                                                                                                                                                                           Forest Policy and Economics 184 (2026) 103709 
-6
+[Page 1]
+Commentary
+Dealing with the cost of EUDR compliance data and potential monetisation: 
+Opportunities and risks
+Lydia Afriyie-Kraft
+*
+, Astrid Zabel , Thomas Breu
+Centre for Development and Environment, University of Bern, Mittelstrasse 43, 3012 Bern, Switzerland
+ARTICLE INFO
+Keywords 
+EUDR
+Compliance cost
+Data monetisation
+Data protection
+Personal data
+ABSTRACT
+The European Union Deforestation Regulation (EUDR) introduces strict due diligence obligations, requiring EU 
+operators to trace the origin of commodities and verify that they are deforestation-free. While existing research 
+has largely focused on the design of the regulation and the challenges of its enforcement, little attention has been 
+paid to the role of EUDR compliance data as both a cost factor and a potential asset. This paper analyses the costs 
+of EUDR compliance data, paying particular attention to the distributional effects among market actors. It also 
+explores the opportunities for monetising such data and the implications for producer privacy and data pro -
+tection. Our findings suggest that compliance costs may not be evenly distributed across the supply chain, with 
+producers in exporting countries being particularly vulnerable. This could create unintended market distortions, 
+including price shifts and the supplanting of EUDR-relevant commodities by illicit alternatives. Notably, the 
+monetisation of EUDR compliance data could offer producer countries new revenue streams. However, many 
+EUDR-relevant commodities originate from countries with weak data protection frameworks, raising concerns 
+about the potential misuse of producers' data. While data monetisation could help offset EUDR compliance costs, 
+it must be accompanied by robust data protection laws. We recommend harmonising, strengthening and 
+enforcing data protection laws in producer countries to ensure that the benefits of EUDR compliance are not 
+achieved at the expense of the most vulnerable. Addressing these issues is critical to aligning the EUDR with 
+broader objectives of sustainability, fairness and inclusive global value chains.
+1. Introduction
+Data and data processing with artificial intelligence are increasingly 
+seen as tools to support sustainability transitions ( Aaronson and Leb -
+lond, 2018 ; Galaz et al., 2021 ; Hassani et al., 2021 ; Vance et al., 2024 ). 
+Several novel environmental Regulations enacted by the European 
+Union (EU) rely on the provision of large amounts of data for compliance 
+reporting, notably the EU Regulation on Deforestation-Free Products 
+(EUDR), the EU Corporate Sustainability Reporting Directive, the EU 
+Corporate Sustainability Due Diligence Directive and the EU taxonomy. 
+Together, these environmental Regulations support the implementation 
+of the European Green Deal to transform the EU into a more resource- 
+efficient and competitive economy ( EUR-Lex, 2022 ).
+These Regulations also aim to help businesses, investors and con -
+sumers at the EU level to identify environmentally sustainable activities 
+and consumption patterns. They require economic operators to collect 
+data, process it and communicate comprehensive proof of compliance. 
+Collecting and processing the required data is a costly administrative 
+burden ( Hoos et al., 2025 ). Concerns about the added costs of collecting 
+and processing the required information along complex supply chains 
+have been raised, particularly in the context of the EUDR ( Sevilla et al., 
+2025 ; Urugo et al., 2025 ; Zabel et al., 2025 ).
+However, beyond the overall economic burden of data collection, 
+little thought has been given to the distributional effects of compliance 
+costs across supply chain actors and whether there could be opportu -
+nities for monetising the aggregated data to cover the cost. A further key 
+aspect that has not been sufficiently addressed in the context of inter -
+national data-driven sustainability policies is data protection. This paper 
+takes an economic and policy perspective to analyse how the EUDR 
+compliance data requirements could potentially distort markets. It 
+further explores opportunities and risks of monetising compliance data 
+to offset the costs of collecting data for compliance.
+The EUDR aims to prevent deforestation-related and illegally pro -
+duced commodities from entering the EU market ( Regulation EU 2023/ 
+1115 ). Commodities covered by the EUDR include cocoa, coffee, timber, 
+rubber, palm oil, soy and cattle. To achieve the regulation's goals, Article 
+* Corresponding author.
+E-mail address: lydia.afriyie@unibe.ch (L. Afriyie-Kraft). 
+Contents lists available at ScienceDirect
+Forest Policy and Economics
+journal homep age: www.el sevier.com/l ocate/forpol
+https://doi.org/10.1016/j.forpol.2026.103709
+Received 29 August 2025; Received in revised form 8 January 2026; Accepted 11 January 2026  
+Forest Policy and Economics 184 (2026) 103709 
+Available online 21 January 2026 
+1389-9341/© 2026 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.

@@ -1,93 +1,58 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-101-C19
 Parent Doc ID: A-EUDR-101
-Page Range: Page 37 to Page 38
-Word Range: 30836 - 32086
-Word Count: 1,251
+Page Range: Page 6
+Word Range: 4874 - 5123
+Word Count: 250
 --------------------
 
-[Page 37]
-(i) complementary inf or mation that under takings are to repor t with regar d to the sustainability matters and 
-repor ting areas listed in Ar ticle 19a(2), where necessar y ;
-(ii) inf or mation that under takings are to repor t that is specific to the sector in which they operate.
-The repor ting requirements laid down in the delegat ed acts refer red to in the fi rst subparagraph shall not ent er into 
-f orce earlier than f our months af ter their adop tion by the Commission.
-When adoptin g delegat ed acts to specify the inf or mation required under point (ii) of the third subparagraph, the 
-Commission shall pa y par ticular attention to the scale of the r isks and im pacts related to sustainability matters f or 
-each sector , taking account of the f act that r isks and impacts are higher f or some sectors than f or others.
-The Commission shall, at least ever y three ye ars af ter their date of application, review the delegat ed acts adopt ed 
-pursuant to this Ar ticle, taking into consideration the tec hnical advice of the European Financial Repor ting Ad visor y 
-Group (EFRA G), and, where necessar y , it shall amend such delegat ed acts to take into account relevant developments, 
-including developments with regard to internatio nal standards.
-The Commission shall, at least once a y ear , consult the European Parliament, and consult jointly the Member Stat e 
-Exper t Group on Sustainable Finance, refer red to in Ar ticle 24 of Regulation (EU) 2020/852, and the A ccounting 
-Regulat or y Committ ee, refer red to in Ar ticle 6 of Regulation (EC) No 1606/2002, on EFRA G’s w ork programme as 
-regar ds the development of sustainability repor ting standards.
-2. The sustainability repor ting standards shall ensure the quality of repor te d inf or mation, by requir ing that it is 
-understandable, relevant, ver if iable, comparable and represent ed in a faithful manner . The sustainability repor ting 
-standards shall av oid im posing a dispropor tionate administrative burden on under takings, including by taking 
-account, to the great est extent possible, of the work of g lobal standard-setting initiatives f or sustainability repor ting 
-as required by point (a) of paragraph 5.
-The sustainability repor ting standards shall, taking into account the subject matte r of a par ticular sustainability 
-repor ting standard:
-(a) specify the inf or mation that under takings are to disclose about the f ollowi ng en vironmental f actors:
-(i) climate c hange mitig ation, including as regards scope 1, scope 2 and, where relevant, scope 3 greenhouse g as 
-emissions;
-(ii) climate c hange adaptation;
-(iii) water and mar ine resources;
-(iv) resource use and the circular econom y ;
-(v) pollution;
-(vi) biodiversity and ecosystems ;
-(b) specify the inf or mation that under takings are to disclose about the f ollowi ng social and human r ights f actors:
-(i) equal treatment and oppor tunities f or all, including ge nder equality and equal pa y f or w ork of equal value, 
-training and skills development, the emp lo yment and inclusion of people with disabilities, measures ag ainst 
-violence and harassment in the w orkplace, and diversity ;
+[Page 6]
+repor ting requirements. A ccording ly , small and medium-sized under takings whose secur ities are admitt ed to trading 
+on a regulated market in the U nion that are public-inte rest entities should be allowed to repor t in accordance with 
+the sustainability repor ting standards f or small and medium-sized under takings. In addition, all under takings that 
+are parent under takings of larg e groups should prepare sustainability repor ting at group level. Moreover , since 
+Ar ticle 8 of Regulation (EU) 2020/852 ref ers to Ar ticle 19a and Ar ticle 29a of Directive 2013/34/EU, the 
+under takings added to the scope of the sustainability repor ting requirements will also ha ve to compl y with Ar ticle 8 
+of Regulation (EU) 2020/852.
+(18) The requirement provided f or in this amending Directive that also large under takings whose secur ities are not 
+admitte d to trading on a regulate d market in the U nion should disclose inf or mation on sustainability matters is 
+mainly justified by concer ns about the im pacts and accountability of such under takings, including through their 
+value c hain. In this respect, all large under takings should be subject to the same requirements to repor t 
+sustainability inf or mation publicly . In addition, fi nancial mark et par ticipants also need inf or mation from those larg e 
+under takings whose secur ities are not admitte d to trading on a regulated mark et in the U nion.
+(19) The requirement provid ed f or in this amending Directive that third-countr y under takings whose secur ities are 
+admitte d to trading on a regulate d market in the U nion should also disclose inf or mation on sustainability matt ers is 
+aimed at responding to the needs of fi nancial mark et par ticipants f or inf or mation from such under takings in order 
+to enable them to understand the r isks and im pacts of their inv estments and to compl y with the disclosure 
+requirements laid down in Regulation (EU) 2019/2088.
+(20) Third-countr y under takings whic h hav e a signif icant activity on the terr it or y of the Union should also be required to 
+provid e sustainability inf or mation, especially on their impa cts on social and en vironmental matt ers, in order to 
+ensure that third-countr y under takings are accountable f or their impacts on people and the en vironment and that 
+there is a level pla ying fi eld f or compan ies operating in the internal market. Theref ore, third-countr y under takings 
+which g enerate a net tur nover of more than EUR 150 million in the U nion and which hav e a subsidiar y 
+under taking or a branch on the te r r it or y of the U nion should be subject to U nion sustainability repor ting 
+requirements. T o ensure the propor tionality and enf orceability of such requirements, the threshold of hav ing a net 
+tur nover of more than EUR 40 million should apply to the branch es of third-countr y under takings, and the 
+thresholds relat ed to being considered a larg e under taking or a small or medium-sized under taking, excep t micro 
+under takings, whose secur ities are admitted to trading on a regulated mark et in the Union should apply to the 
+subsidiar y under takings of third-countr y under takings, as such subsidiar y under takings and branche s should be 
+responsible f or publishing the sustainability repor t of the third-countr y under taking. The sustainability repor ts 
+published by the subsidiar y under taking or branch of a third-countr y under taking should be prepared in 
+accordance with standards to be adopt ed by 30 June 2024 by the Commission through delegat ed acts.
+The subsidiar y under taking or branch of a third-countr y under taking should also be able to repor t in accordance 
+with the standards applying to under takings established in the U nion, or in accordance with standards which are 
+deemed equivalent pursuant to an imp lementing act. In the event that not all the inf or mation required under this 
+amending Directive is provid ed by the third-countr y under taking, despite the best eff or ts of the subsidiar y 
+under taking or branch of that third-countr y under taking to obtain the necessar y inf or mation, that subsidiar y 
+under taking or branch should provid e all the inf or mation in its possession and issue a stat ement indicating that the 
+third-countr y under taking did not mak e the rest of the required inf or mation available. In order to ensure the quality 
+and reliability of the repor ting, the sustainability repor ts of third-countr y under takings should be published 
+accompan ied by an assurance opinion expressed by a person or fi r m author ised to give an opinion on the assurance 
+of sustainability repor ting, either under the national la w of the third-countr y under taking or of a Member Stat e. In 
+the event that such an assurance opinion is not provided, the subsidiar y under taking or branch of the third-countr y 
+under taking should issue a stat ement indicating that the third-countr y under taking did not provid e the necessar y 
+assurance opinion. The sustainability repor t should be made accessible free of c harge to the public through the 
+central, commercial or compan ies registers of the Member Stat es, or altern atively on the website of the subsidiar y 
+under taking or the branch of the third-countr y under taking.
 EN
-Offi cial Jour nal of the European Uni on 16.12.2022 L 322/51
-
-[Page 38]
-(ii) w orking conditions, including secure emplo yment, w orking time, adequate wage s, social dialogue, freedom 
-of association, existen ce of w ork s councils, collective bargai ning, including the propor tion of w orke rs 
-covered by collective agreements, the inf or mation, consultation and par ticipation r ights of w orke rs, w ork - 
-life balance, and health and safety ;
-(iii) respect f or the human r ights, fundamental freedoms, democratic pr inciples and standards established in the 
-Internati onal Bill of Human Rights and other core UN human r ights conventions, including the UN 
-Convention on the Rights of P ersons with Disabilities, the UN Declaration on the Rights of Indige nous 
-P eoples, the Internati onal Labour Organization’s Declaration on Fundamental Pr inciples and Rights at W ork 
-and the fundamental convention s of the Internati onal Labour Org anization, the European Conv ention f or 
-the prot ection of Human Rights and Fundamental Freedoms, the European Social Char ter , and the Char ter 
-of Fundamental Rights of the European Union;
-(c) specify the inf or mation that under takings are to disclose about the f ollowi ng go ver nance f actors:
-(i) the role of the under taking’s administrative, manag ement and super visor y bodies with regar d to 
-sustainability matters, and their composition, as well as their exper tise and skills in relation to fulfilling that 
-role or the access such bodies hav e to such exper tise and skills;
-(ii) the main features of the under taking’s internal control and r isk manag ement systems, in relation to the 
-sustainability repor ting and decision-making process;
-(iii) business ethics and cor porat e culture, including anti-cor r upti on and anti-br iber y , the protection of 
-whistleblowers and animal welf are;
-(iv) activities and commitments of the under taking related to exe r ting its political inf luence, including its 
-lobb ying activities;
-(v) the manag ement and quality of relationships with custome rs, suppliers and communities affect ed by the 
-activities of the under taking, including pa yment practices, especially with regard to late pa yment to small 
-and medium-sized under takings.
-3. The sustainability repor ting standards shall specify the f or ward-looking, retrospective, qualitative and 
-quantitative inf or mation, as appropr iat e, to be repor ted by under takings.
-4. Sustainability repor ting standards shall take account of the diff iculties that under takings ma y encounter in 
-ga ther ing inf or mation from actors throughout their value chain, especially from those whic h are not subject to the 
-sustainability repor ting requirements laid down in Ar ticle 19a or 29a and from suppliers in emerging mark ets and 
-economies. Sustainability repor ting standards shall specify disclosures on value c hains that are propor tionate and 
-relevant to the capacities and the c haracter istics of under takings in value chains, and to the scale and compl exity of 
-their activities, especially those of under takings that are not subject to the sustainability repor ting requirements in 
-Ar ticle 19a or 29a. Sustainability repor ting standards shall not specify disclosures that w ould require under takings to 
-obtain inf or mation from small and medium-sized under takings in their value c hain that excee ds the inf or mation to be 
-disclosed pursuant to the sustainability repor ting standards f or small and medium-sized under takings refer red to in 
-Ar ticle 29c.
-The first subparagraph is without prejudice to Union requirements on under takings to conduct a due diligence 
-process.
-5. When adopting delegat ed acts pursuant to paragraph 1, the Commission shall, to the greates t exte nt possible, 
-take account of:
-(a) the w ork of g lobal standard-setting initiatives f or sustainability repor ting, and existing standards and frameworks 
-f or natural capital accounting and f or greenhouse gas accounting, responsible business conduct, cor porat e social 
-responsibility , and sustainable development ;
-EN
-Offi cial Jour nal of the European Uni on L 322/52 16.12.2022
+Offi cial Jour nal of the European Uni on L 322/20 16.12.2022

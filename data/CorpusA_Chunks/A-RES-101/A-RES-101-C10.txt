@@ -1,0 +1,134 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-101-C10
+Parent Doc ID: A-RES-101
+Page Range: Page 3
+Word Range: 2442 - 2691
+Word Count: 250
+--------------------
+
+[Page 3]
+stated that negotiation between buyer and supplier is essential in
+determining SCF adoption in a ﬁrm. SCF may create a win-win
+situation for buyer and seller by adopting an integrative strategy
+instead of a distributive strategy. In distributive strategy, one argues
+with another party aggressively for convincing to agree on a lower
+price or reduced delivery time ( Walton & Mckersie, 1965 ). This
+strategy leads to a win-lose situation price ( Walton & Mckersie,
+1965). Adopting an integrative strategy requires trust and open-
+ness from other parties ( Adair, 2003 ). Balance of power between
+buyer and seller is of paramount importance for the adoption of
+SCF. Therefore, hypothesis 1 states that:
+H1. Negotiation between SMEs and suppliers has a positive rela-
+tionship with SCF
+Collaboration is an essential element while adopting SCF.
+Collaboration signi ﬁes trust and commitment among the SC
+players. Many researchers have identi ﬁed trust as an in ﬂuential
+antecedent of effective supply chain collaboration ( Capaldo &
+Giannoccaro, 2015 ). Firms at all levels of the supply chain must
+work jointly to minimize SC threats and achieve a shared objective
+of forecasting and predicting. ( Kamble et al., 2020 ). Collaboration
+among the SC partners creates bonding and creates an environment
+for planning jointly and sharing information on a real-time basis
+(Jüttner & Maklan,,201 1), which is very much needed for over-
+coming the negative impacts of disasters ( Altay et al., 2018 ).
+Collaboration among the SC players enhances the performance of
+SC ( Kanwal & Rajput, 2016 ) and, eventually, better ﬁrm perfor-
+mance. It is widely accepted that collaboration in SC leads to better
+performance in SMEs ( Fawcett et al., 2012). Vieira et al. (2015) also
+highlighted that interpersonal collaboration improves SC perfor-
+mance by reducing transaction costs. The beneﬁts of SCF in industry
+4.0 cannot be availed without a high level of integration among the
+supply chain partners, as all members in the supply chain have to
+adapt to the technology. Therefore, hypothesis 2 states that:
+H2. Collaboration among SMEs and suppliers has a positive rela-
+tionship with SCF
+Banks or ﬁnancial institutions provide ﬁnancing to MSMEs,
+which suggests the role of ﬁnancial institutions becomes a signif-
+icant factor for a ﬁrm implementing SCF solutions. In India, many
+ﬁnancial institutions grant loans to MSMEs, and therefore the
+attitude of top management is highly signi ﬁcant. Financial in-
+stitutions which provide ﬁnancing to MSMEs carry out more
+detailed discussions so that steps can be taken to minimize risks
+arising from asymmetric information and can offer services for
+integrated management of SC ﬂow. Relationship among SC players
+is vital to measure for providing loans to MSMEs by the ﬁnancial
+institutions. Generally, institutions also collect payments from the
+SC players to increase revenue ( Tanrisever et al., 2012 ). Therefore,
+hypothesis 3 states that:
+H3. Supporting role of ﬁnancial institutions has a positive rela-
+tionship with SCF
+Implementation of Blockchain technology (BT) in the supply
+chain may change the way transactions are conducted ( Kamble,
+Gunasekaran, & Himanshu, 2018 ). In the past also, technology-
+driven disruptions have improved the ef ﬁciency of businesses.
+(Craighead et al., 2007 ). The supply chain is no exception, as tech-
+nology has also impacted this stream. Nowadays, looking at busi-
+nesses catering to diverse locations, the supply chain has gained
+importance and has become one of the most crucial elements. With
+the usage of digital technologies in the supply chain, ﬁrms can take
+a competitive advantage (Gunasekaran et al., 2008), which will help
+them make decisions. Decisions like predicting demand,
+production planning, and syncing orders are primary challenges in
+the uncertain environment ( Pereira, 2009 ). Therefore, moving to-
+wards digitalization is of paramount importance to minimize errors
+in such important decisions. Firms may adopt Big Data Analytics for
+timely information processing, thereby making suitable decisions
+(Kamble & Gunasekaran, 2020 ). Technologies like the Internet of
+things (IoT), BT, a digital twin, can improve supply chain resilience
+due to their connectivity, accuracy, and transparency (Kamble et al.,
+2020b). SMEs are adopting a digital system to place the orders, due
+to which it is becoming easier to check the status of placed orders
+among the sc players ( Fairchild, 2005 ). Adopting technology re-
+duces the cost of paperwork ( Perego & Salgaro, 2010), but imple-
+mentation costs act as a challenge. There is a considerable cost in
+implementation for developing the infrastructure for industry 4.0
+(Kamble, Gunasekaran, & Sharma, 2018 ). Digitizing trade offers
+ﬂexibility to the SC partners, and by adopting an electronic plat-
+form, MSMEs can enhance transparency. As per a study by Caniato
+et al. (2016) , ﬁrms that digitize their trade activities tend to adopt
+advanced ﬁnancing solutions. Therefore, hypothesis 4 states that:
+H4. Digitization of trade has a positive relationship with SCF
+Implementation of SCF has to be conducted under the umbrella
+of macro-economic variables. Macroeconomic variables inevitably
+affect businesses, and therefore this is one such factor that will
+affect the decision to adopt the SCF in an MSME ﬁrm. Macroeco-
+nomic conditions of an economy affect a ﬁrm's decisions like
+investing, ﬁnancing, and promotion decisions. As ﬁnancial in-
+stitutions or banks do, the ﬁnancing, laws, regulations, monetary
+policy, and other relevant frameworks also affect SCF decisions
+(Zhang, 2015). In India, banks are governed by the Reserve Bank of
+India, so the governing body's rules also in ﬂuence the ﬁrm's busi-
+nesses. Credit allocation is one such decision that affects MSMEs
+predominantly. MSMEs will not grow and develop unless in-
+stitutions meet their credit requirement cost-effectively and ef ﬁ-
+ciently. External Environments are also considered as the Covid-19
+pandemic brought in an unpredictable demand, and the use of
+technology was enhanced as all other physical activities were shut
+down. Furthermore, Indian MSMEs have a severe talent shortage as
+they rely on daily wage employees rather than full-time employees,
+so it became evident to test the impact of the external environment
+on the supply chain ﬁnance of MSMEs. Therefore, the role of the
+external environment is an important factor that may affect the
+decision to adopt SCF in a ﬁrm. Therefore, hypothesis 5 states:
+H5. Role of External Environment has a positive relationship with
+SCF
+In order to minimize the threats to the survival of the business,
+ﬁrms shall do better planning. Therefore, SC development may
+beneﬁt the ﬁrm by meeting ﬁnancial and operational objectives.
+Gunasekaran, Patel, and McGaughey (2004) also highlighted that
+achieving supply chain effectiveness shows the ﬁrm level of success
+in meeting operational and ﬁnancial goals. Various factors of supply
+chain ﬁnance improve SC responsiveness, thereby leading to supply
+chain effectiveness. A supply chain is considered adequate if the
+handling and shipping costs are minimized; this reduces the price
+of products or services, thereby bene ﬁ
+ting the ﬁrm and other
+stakeholders. Jing and Seidmann (2014) also highlighted that trade
+ﬁnancing is better than bank ﬁnancing. Wuttke et al. (2016) high-
+lighted that SCF's implementation improves SC's performance by
+extending payment terms for buyers and optimizing working
+capital for the supplier to ensure liquidity in the business. There-
+fore, hypothesis 6 states:
+H6. SCF has a positive relationship with SCE ( Fig. 1)
+K. Mulchandani, S.S. Jasrotia and K. Mulchandani Asia Paci ﬁc Management Review 28 (2023) 90 e98
+92

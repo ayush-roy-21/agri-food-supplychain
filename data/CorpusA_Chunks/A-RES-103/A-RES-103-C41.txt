@@ -1,0 +1,49 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C41
+Parent Doc ID: A-RES-103
+Page Range: Page 25
+Word Range: 10996 - 11386
+Word Count: 391
+--------------------
+
+[Page 25]
+24 
+- aflatoxin M1 (Group B3d) by LC-MS/MS; 
+- anthelmintics (Group B2a), ivermectin by LC-MS/MS; 
+- beta-lactams including cephalosporins (Group B1) by LC-MS/MS; 
+- lead (Group B3c) by inductively coupled plasma mass spectrometry. 
+All methods inspected were found to be adequately validated with appropriate 
+validation criteria and concentration ranges applied in line with the EU regulations in 
+force at the time of the validation  (52)(53), although not fully in line with the additional 
+validation criteria laid down in the most recent  EU regulation (54). The laboratory 
+indicated during the audit that it was aware of the latest validation requirements and 
+inclusion in future validations has been flagged. 
+5.1.6.2 EIA Kochi 
+69. The audit team assessed the validation files for the following methods: 
+- chloramphenicol (Group A6) in shrimp and fish by LC-MS/MS; 
+- nitrofuran (Group A6) in shrimp and fish by LC-MS/MS; 
+- tetracyclines (Group B1) in shrimp and fish by LC-MS/MS. 
+All were found to be adequately validated with appropriate validation criter ia and 
+concentration ranges applied in line with the Regulation (EU) 2021/808. 
+5.1.6.3 EIA Chennai 
+70. The method for  beta-agonists in poultry muscle is now validated at appropriate levels 
+with appropriate decision limits, which is an improvement versus the 2018 audit. 
+71. The audit team assessed the validation files for the following methods: 
+- chloramphenicol (Group A6) in poultry muscle by LC-MS/MS;  
+- tetracyclines, quinolones and sulphonamide s (Group B1) in poultry muscle by LC -
+MS/MS;  
+- anticoccidials (Group B2b) in poultry muscle by LC-MS/MS; 
+- chloramphenicol (Group A6) in shrimp and aquaculture feed by LC-MS/MS (PET); 
+- nitrofuran metabolites (Group A6) in shrimp by LC-MS/MS (PET).  
+For finfish muscle and shrimp, the validation reports reviewed,  assessed all of the 
+required criteria at appropriate concentration levels in line with the EU Decision 
+(2002/657/EC) in force at the time of the validation but are not in fully line with the 
+latest EU legislation on method validation, Regulation (EU) 2021/808.  The laboratory 
+indicated that it was  aware of the introduction of the new requirements for method 
+validation in said Regulation.  
+72. For the poultry methods above , the validation reports of  other tissues and matrices  
+included in the residue monitoring plan were requested. These included poultry liver, 
+ 
+(52) Annex I to Commission Decision 2002/657/EC. 
+(53) Annex to Commission Regulation (EC) No 333/2007.  
+(54) Annex I to Regulation (EU) 2021/808.

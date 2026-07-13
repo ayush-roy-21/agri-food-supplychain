@@ -1,422 +1,57 @@
 --- CHUNK HEADER ---
 Chunk ID: A-SPICE-005-C06
 Parent Doc ID: A-SPICE-005
-Page Range: Page 19 to Page 24
-Word Range: 6816 - 8599
-Word Count: 1,784
+Page Range: Page 4
+Word Range: 1420 - 1669
+Word Count: 250
 --------------------
 
-[Page 19]
-Row Country of origin Food and feed (intended use) CN code ( 1)
-TARIC 
-sub- 
-division
-Hazard
-Frequency of 
-identity and 
-physical 
-checks (%)
-Sesamum seeds
-(Food)
-1207 40 90
-Salmonella (5) 30 ex 2008 19 1949
-ex 2008 19 99 49
-Sesamum seeds
-(Food and feed)
-1207 40 90
-Pesticide 
-residues (9) 20 ex 2008 19 19 49
-ex 2008 19 99 49
-Cinnamon and cinnamon- 
-tree flowers
-(Food – dried spices)
-0906 Pesticide 
-residues (
-9) 20
-Nutmeg, mace and 
-cardamoms
-(Food – dried spices)
-0908 Pesticide 
-residues (
-9) 30
-Seeds of anise, badian, 
-fennel, coriander, cumin or 
-caraway, juniper berries
-(Food – dried spices)
-0909
-Pesticide 
-residues (
-9) 20
-Ginger, saffron, turmeric 
-(curcuma), thyme, bay 
-leaves, curry and other 
-spices
-(Food – dried spices)
-0910
-Pesticide 
-residues (
-9) 20
-Sauces and preparations 
-thereof; mixed condiments 
-and mixed seasonings; 
-mustard flours and meals 
-and prepared mustard
-(Food)
-2103
-Pesticide 
-residues (
-9) 20
-Food supplements 
-containing botanicals (12)
-(Food)
-ex 1302
-ex 2106 Pesticide 
-residues (9) 10
-Drumsticks (Moringa oleifera)
-(Food fresh, chilled or 
-frozen)
-ex 0709 99 90
-ex 0710 80 95
-10
-75 Pesticide 
-residues (
-3) 30
-Yardlong beans (Vigna 
-unguiculata ssp. sesquipedalis, 
-Vigna unguiculata ssp. 
-unguiculata)
-(Food – fresh, chilled or 
-frozen
-vegetables)
-ex 0708 20 00
-ex 0710 22 00
-10
-10
-Pesticide 
-residues (
-3) 50
-EN OJ L, 29.1.2026 
-18/25 ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj
-
-[Page 20]
-Row Country of origin Food and feed (intended use) CN code ( 1)
-TARIC 
-sub- 
-division
-Hazard
-Frequency of 
-identity and 
-physical 
-checks (%)
-10 Iran (IR)
-— Pistachios, in shell 0802 51 00
-— Pistachios, shelled 0802 52 00
-— Mixtures of nuts or dried 
-fruits containing 
-pistachios
-ex 0813 50 39 60
-ex 0813 50 91 60
-ex 0813 50 99 60
-— Pistachio paste ex 2007 10 10 60
-ex 2007 10 99 30
-ex 2007 99 39 03; 04
-ex 2007 99 50 32
-ex 2007 99 97 22
-— Pistachios, otherwise 
-prepared or preserved, 
-including mixtures
-ex 2008 19 13 20
-ex 2008 19 93 20 Aflatoxins 50
-ex 2008 97 12 19
-ex 2008 97 14 19
-ex 2008 97 16 19
-ex 2008 97 18 19
-ex 2008 97 32 19
-ex 2008 97 34 19
-ex 2008 97 36 19
-ex 2008 97 38 19
-ex 2008 97 51 19
-ex 2008 97 59 19
-ex 2008 97 72 19
-ex 2008 97 74 19
-ex 2008 97 76 19
-ex 2008 97 78 19
-ex 2008 97 92 19
-ex 2008 97 93 19
-ex 2008 97 94 19
-ex 2008 97 96 19
-ex 2008 97 97 19
-ex 2008 97 98 19
-— Flours, meals and 
-powder of pistachios
-ex 1106 30 90 50
-(Food)
+[Page 4]
+(10) Nutmeg ( Myristica fragrans) from India has been subjected to an increased level of official controls due to the risk of 
+contamination by aflatoxins since June 2019. The official controls carried out on that commodity by the Member 
+States indicate an overall satisfactory degree of compliance with the relevant requirements provided for in Union 
+legislation. Therefore, an increased level of official controls is no longer justified for that commodity and its entry in 
+Annex I to Implementing Regulation (EU) 2019/1793 should be deleted.
+(11) Vanilla and cloves (whole fruit, cloves and stems) from India have been subjected to increased levels of official 
+controls due to the risk of the presence of ethylene oxide since January 2022. The official controls carried out on 
+these commodities by the Member States indicate an overall satisfactory degree of compliance with the relevant 
+requirements provided for in Union legislation. Therefore, an increased level of official controls is no longer justified 
+for those commodities and their entries in Annex I to Implementing Regulation (EU) 2019/1793 should be deleted.
+(12) Peppers of the genus Piper, dried or crushed or ground fruit of the genus Capsicum or of the genus Pimenta from India 
+have been subjected to increased levels of official controls and to special conditions at their entry into the Union due 
+to the risk of the presence of ethylene oxide since January 2022. The official controls carried out by the Member 
+States show improvement in compliance with the relevant requirements provided for in Union legislation. The 
+results of those controls provide evidence that the entry of that commodity into the Union does not constitute a 
+serious risk for human health. Consequently, it is not necessary to continue to provide that each consignment is to 
+be accompanied by an official certificate stating that all the results of sampling and analysis show compliance with 
+the relevant requirements provided for in Union legislation. However, Member States should continue to carry out 
+controls to ensure that the current level of compliance is maintained. Therefore, the entry on peppers of the genus 
+Piper, dried or crushed or ground fruit of the genus Capsicum or of the genus Pimenta from India in point 1 of 
+Annex II to Implementing Regulation (EU) 2019/1793 should be deleted and transferred to Annex I to that 
+Implementing Regulation, with a frequency of identity and physical checks set, in the light of the number of 
+consignments in the last years, at 20 % of consignments entering the Union.
+(13) Calcium carbonate from India has been subjected to an increased level of official controls and to special conditions at 
+its entry into the Union due to the risk of the presence of ethylene oxide since January 2022. The official controls 
+carried out by the Member States show improvement in compliance with the relevant requirements provided for in 
+Union legislation. The results of those controls provide evidence that the entry of that commodity into the Union 
+does not constitute a serious risk for human health. Consequently, it is not necessary to continue to provide that 
+each consignment is to be accompanied by an official certificate stating that all the results of sampling and analysis 
+show compliance with the relevant requirements provided for in Union legislation. However, Member States should 
+continue to carry out controls to ensure that the current level of compliance is maintained. Therefore, the entry on 
+calcium carbonate from India in point 1 of Annex II to Implementing Regulation (EU) 2019/1793 should be deleted 
+and transferred to Annex I to that Implementing Regulation, with a frequency of identity and physical checks set, in 
+the light of the number of consignments in the last years, at 30 % of consignments entering the Union.
+(14) Turnips ( Brassica rapa ssp. rapa) prepared or preserved by vinegar or acetic acid and turnips ( Brassica rapa ssp. rapa) 
+prepared or preserved by brine or citric acid, not frozen from Lebanon have been subjected to an increased level of 
+official controls due to the risk of contamination by Rhodamine B since July 2018. The official controls carried out 
+on those commodities by the Member States indicate an overall satisfactory degree of compliance with the relevant 
+requirements provided for in Union legislation. Therefore, an increased level of official controls is no longer justified 
+for those commodities and their entries in Annex I to Implementing Regulation (EU) 2019/1793 should be deleted.
+(15) Mixtures of food additives containing locust bean gum from Malaysia have been subjected to an increased level of 
+official controls due to the risk of the presence of ethylene oxide in the locust bean gum used in food additives since 
+July 2022. The official controls carried out on that commodity by the Member States indicate that the mixtures of 
+food additives from Malaysia entering the Union do not contain locust bean gum. Therefore, an increased level of 
+official controls is no longer justified for that commodity and its entry in Annex I to Implementing Regulation 
+(EU) 2019/1793 should be deleted.
 OJ L, 29.1.2026 EN 
-ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 19/25
-
-[Page 21]
-Row Country of origin Food and feed (intended use) CN code ( 1)
-TARIC 
-sub- 
-division
-Hazard
-Frequency of 
-identity and 
-physical 
-checks (%)
-11 Sri Lanka (LK) Gotukola (Centella asiatica)
-(Food)
-ex 1211 90 86 60 Pesticide 
-residues (3) 50
-12 Nigeria (NG)
-Sesamum seeds
-(Food)
-1207 40 90
-Salmonella (5) 50 ex 2008 19 1949
-ex 2008 19 99 49
-13 Sudan (SD)
-Sesamum seeds 1207 40 90
-Salmonella (5) 50(Food) ex 2008 19 19 49
-ex 2008 19 99 49
-14 Türkiye (TR)
-— Dried figs 0804 20 90
-— Mixtures of nuts or dried 
-fruits containing figs
-ex 0813 50 99 50
-— Dried fig paste ex 2007 10 10 50
-ex 2007 10 99 20
-ex 2007 99 39 01; 02
-ex 2007 99 50 31
-ex 2007 99 97 21
-— Dried figs, prepared or 
-preserved, including 
-mixtures
-ex 2008 97 12 11
-ex 2008 97 14 11
-ex 2008 97 16 11
-ex 2008 97 18 11
-ex 2008 97 32 11
-ex 2008 97 34 11
-ex 2008 97 36 11
-ex 2008 97 38 11
-ex 2008 97 51 11 Aflatoxins and 30
-ex 2008 97 59 11 Ochratoxin A
-ex 2008 97 72 11
-ex 2008 97 74 11
-ex 2008 97 76 11
-ex 2008 97 78 11
-ex 2008 97 92 11
-ex 2008 97 93 11
-ex 2008 97 94 11
-ex 2008 97 96 11
-EN OJ L, 29.1.2026 
-20/25 ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj
-
-[Page 22]
-Row Country of origin Food and feed (intended use) CN code ( 1)
-TARIC 
-sub- 
-division
-Hazard
-Frequency of 
-identity and 
-physical 
-checks (%)
-ex 2008 97 97 11
-ex 2008 97 98 11
-ex 2008 99 28 10
-ex 2008 99 34 10
-ex 2008 99 37 10
-ex 2008 99 40 10
-ex 2008 99 49 60
-ex 2008 99 67 95
-ex 2008 99 99 60
-— Flours, meals and 
-powder of dried figs
-ex 1106 30 90 60
-(Food)
-— Pistachios, in shell 0802 51 00
-— Pistachios, shelled 0802 52 00
-— Mixtures of nuts or dried 
-fruits containing 
-pistachios
-ex 0813 50 39 60
-ex 0813 50 91 60
-ex 0813 50 99 60
-— Pistachio paste ex 2007 10 10 60
-ex 2007 10 99 30
-ex 2007 99 39 03; 04
-ex 2007 99 50 32
-ex 2007 99 97 22
-— Pistachios, otherwise 
-prepared or preserved, 
-including mixtures
-ex 2008 19 13 20 Aflatoxins 50
-ex 2008 19 93 20
-ex 2008 97 12 19
-ex 2008 97 14 19
-ex 2008 97 16 19
-ex 2008 97 18 19
-ex 2008 97 32 19
-ex 2008 97 34 19
-ex 2008 97 36 19
-ex 2008 97 38 19
-ex 2008 97 51 19
-ex 2008 97 59 19
-OJ L, 29.1.2026 EN 
-ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 21/25
-
-[Page 23]
-Row Country of origin Food and feed (intended use) CN code ( 1)
-TARIC 
-sub- 
-division
-Hazard
-Frequency of 
-identity and 
-physical 
-checks (%)
-ex 2008 97 72 19
-ex 2008 97 74 19
-ex 2008 97 76 19
-ex 2008 97 78 19
-ex 2008 97 92 19
-ex 2008 97 93 19
-ex 2008 97 94 19
-ex 2008 97 96 19
-ex 2008 97 97 19
-ex 2008 97 98 19
-— Flours, meals and 
-powder of pistachios
-ex 1106 30 90 50
-(Food)
-Vine leaves
-(Food)
-ex 2008 99 99
-ex 2008 99 99
-11
-19
-Pesticide 
-residues (
-3) (6) 50
-Mandarins (including 
-tangerines and satsumas), 
-clementines, wilkings and 
-similar citrus hybrids
-(Food – fresh or dried)
-0805 21
-0805 22 00
-0805 29 00 Pesticide 
-residues (
-3) 10
-Oranges
-(Food – fresh or dried)
-0805 10 Pesticide 
-residues (
-3) 20
-Unprocessed whole, ground, 
-milled, cracked, chopped 
-apricot kernels intended to 
-be placed on the market for 
-the final consumer (
-13) (14)
-(Food)
-ex 1212 99 95 20
-Cyanide 50
-— Cumin seeds 0909 31 00
-Pyrrolizidine 
-alkaloids 50— Cumin seeds crushed or 
-ground
-(Food)
-0909 32 00
-15 Uganda (UG)
-Sesamum seeds
-(Food)
-1207 40 90
-ex 2008 19 19
-ex 2008 19 99
-49
-49
-Salmonella (
-5) 30
-16 United States 
-(US)
-Vanilla extract
-(Food)
-1302 19 05 Pesticide 
-residues (9) 20
-EN OJ L, 29.1.2026 
-22/25 ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj
-
-[Page 24]
-Row Country of origin Food and feed (intended use) CN code ( 1)
-TARIC 
-sub- 
-division
-Hazard
-Frequency of 
-identity and 
-physical 
-checks (%)
-17 Vietnam (VN)
-Okra
-(Food – fresh, chilled or 
-frozen)
-ex 0709 99 90
-ex 0710 80 95
-20
-30 Pesticide 
-residues (
-3) (7) 50
-Pitahaya (dragon fruit)
-(Food – fresh or chilled)
-ex 0810 90 20 10 Pesticide 
-residues (3) (7) 30
-Peppers of the genus 
-Capsicum (other than sweet)
-(Food – fresh, chilled or 
-frozen)
-ex 0709 60 99
-ex 0710 80 59
-20
-20 Pesticide 
-residues (
-3) (7) 50
-(1) Where only certain products under any CN code are required to be examined, the CN code is marked “ex”.
-(2) The sampling and the analyses shall be performed in accordance with the sampling procedures and the analytical reference methods 
-set out in point 1(b) of Annex III.
-(3) Residues of at least those pesticides listed in the control programme adopted in accordance with Article 29(2) of Regulation (EC) 
-No 396/2005 of the European Parliament and of the Council of 23 February 2005 on maximum residue levels of pesticides in or on 
-food and feed of plant and animal origin and amending Council Directive 91/414/EEC (OJ L 70, 16.3.2005, p. 1, ELI: http://data. 
-europa.eu/eli/reg/2005/396/oj) that can be analysed with multi-residue methods based on GC-MS and LC-MS (pesticides to be 
-monitored in/on products of plant origin only).
-(
-4) Residues of Carbofuran.
-(5) The sampling and the analyses shall be performed in accordance with the sampling procedures and the analytical reference methods 
-set out in point 1(a) of Annex III.
-(6) Residues of Dithiocarbamates (dithiocarbamates expressed as CS2, including maneb, mancozeb, metiram, propineb, thiram and 
-ziram) and Metrafenone.
-(7) Residues of Dithiocarbamates (dithiocarbamates expressed as CS2, including maneb, mancozeb, metiram, propineb, thiram and 
-ziram), Phenthoate and Quinalphos.
-(8) Foodstuffs containing or consisting of betel leaves ( Piper betle ) including, but not limited to, those declared under CN code 1404 
-90 00.
-(9) Residues of Ethylene Oxide (sum of ethylene oxide and 2-chloro-ethanol, expressed as ethylene oxide). In case of food additives, the 
-applicable MRL is 0,1 mg/kg (LOQ). Prohibition of use of Ethylene Oxide provided for in Commission Regulation (EU) No 231/2012 
-of 9 March 2012 laying down specifications for food additives listed in Annexes II and III to Regulation (EC) No 1333/2008 of the 
-European Parliament and of the Council (OJ L 83, 22.3.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/231/oj).
-(
-10) For the purposes of this Annex, “Sudan dyes” refers to the following chemical substances: (i) Sudan I (CAS Number 842-07-9); 
-(ii) Sudan II (CAS Number 3118-97-6); (iii) Sudan III (CAS Number 85-86-9); (iv) Scarlet Red or Sudan IV (CAS Number 85-83-6). 
-Residues of Sudan dyes, using a method of analysis with an LOQ, shall be lower than 0,5 mg/kg.
-(
-11) Residues of Acephate.
-(12) Both finished products and raw materials, except guar gum, containing any botanicals intended for the production of food 
-supplements declared under CN codes mentioned in column “CN code”.
-(13) “Unprocessed products” as defined in Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 
-on the hygiene of foodstuffs (OJ L 139, 30.4.2004, p. 1, ELI: http://data.europa.eu/eli/reg/2004/852/oj).
-(14) “Placing on the market” and “final consumer” as defined in Regulation (EC) No 178/2002 of the European Parliament and of the 
-Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety 
-Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1, ELI: http://data.europa.eu/eli/reg/2002/ 
-178/oj).
-OJ L, 29.1.2026 EN 
-ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 23/25
+ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 3/25

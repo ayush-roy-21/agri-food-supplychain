@@ -1,172 +1,145 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-102-C16
 Parent Doc ID: A-MSME-102
-Page Range: Page 85 to Page 87
-Word Range: 20171 - 21448
-Word Count: 1,278
+Page Range: Page 29 to Page 30
+Word Range: 4172 - 4421
+Word Count: 250
 --------------------
 
-[Page 85]
-85
-These restrictions hinder the competitiveness of Indian MSMEs despite their proportion in 
-the economy. The competitiveness of MSMEs extends beyond credit access; it encompasses 
-the entire credit utilisation process. Recognising and improving services related to credit 
-access, ensuring efficient resource allocation at the enterprise, government, and institutional 
-levels, and creating an enabling environment based on ground-level challenges is crucial. This 
-approach, focused on aiding sound financial decision-making and risk mitigation rather than 
-merely offering access to a select group of formalised MSMEs, can significantly amplify the 
-scheme’s impact.
-This approach, 
-focused on 
-aiding sound 
-financial 
-decision-
-making and risk 
-mitigation rather 
-than merely 
-offering access 
-to a select group 
-of formalised 
-MSMEs, can 
-significantly 
-amplify the 
-scheme’s 
-impact.
-Assistance to Training 
-Institutions Scheme
-2.
-The Assistance to Training Institutions Scheme, overseen by the Ministry of Micro, Small 
-and Medium Enterprises, Government of India, is a centrally sponsored initiative. It extends 
-financial aid to training institutions, aiming to enhance skill development within the MSME 
-sector. The scheme's primary objectives encompass upgrading training infrastructure, creating 
-and delivering innovative programs, and imparting skills to a significant number of individuals 
-for the MSME sector's benefit (Invest India, 2023).
-87%
-Under this programme, it was found that from 2012-13 to 2019-20, 
-of the allocated 17,615 training 
-programs were completed,
-training approximately 87% of the target of 4.7 lakh persons.
-However, investigation into the scheme's performance by the CAG audit (Comptroller and 
-Auditor General of India, 2021) reveals several critical aspects of the training programs under 
-review.
- » Assigning training programs to unauthorized agencies and setting training targets for 
-institutions without considering their capacity and staff strength led to overburdened staff and 
-inefficient training.
- » The Ministry neglected to assess the necessary skills before designing skill development 
-programs.
- » The Ministry's sanction orders failed to establish targets for training institutes regarding 
-indigenous entrepreneurship, wage employment, or trainee self-employment. There was an 
-absence of post-training employment or entrepreneurship targets and monitoring mechanisms.
- » Invoices and a number of completed trainings were fabricated. About 70% of the recorded 
-trainees were legitimate, with instances of duplicate and unclear duplicate trainees. The 
-unutilised training funds were neither reported to the Ministry nor returned by the institutions, 
-highlighting a lack of transparency and accountability in financial management
+[Page 29]
+29
+To successfully address these barriers, it’s essential to focus beyond cost reduction 
+techniques. Enhancing efficiency, improving the quality of products and services, and 
+speeding up production and delivery are key. This improvement relies on better use of 
+resources and labor, fostering a culture of learning and innovation, upgrading processes, 
+and broadening sales avenues. Adopting such a comprehensive approach is vital for MSMEs 
+aiming to integrate themselves in the global value chain. (Caspari, 2003)
+A low FVA-to-DVX ratio, where 
+a lower (or higher) ratio implies 
+a more active involvement in 
+upstream (or downstream) 
+tasks within global value chains 
+(GVCs). A lower ratio indicates 
+a heightened concentration on 
+supplying primary products or 
+engaging in natural resource-
+intensive and low-value-added 
+activities. This characteristic 
+positions India among 
+developing countries, offering 
+insights into its distinct role in 
+GVCs and its focus on specific 
+segments of the production 
+chain.
+1200000000
+1000000000
+800000000
+600000000
+400000000
+200000000
+0.00
+China
+China
+China
+India
+India
+India
+Indonesia
+Indonesia
+Indonesia
+Thailand
+Thailand
+Thailand
+Viet Nam
+Viet Nam
+Viet Nam
+Source: UNCTAD-Eora 
+Global Value Chain 
+Database
+GVC participation 
+in selected Asian 
+Economies
+Fig. 1
+DVX
+FVA
 
-[Page 86]
-86
-The Ministry failed to realise the intended results of the schemes primarily due to the absence 
-of a proper assessment of necessary skills, skill gaps, and the trade-offs involved in conducting 
-these trainings. Additionally, there were no requirements set by the Ministry for training 
-institutions to ensure the employability of trainees and guarantee the desired outcomes of the 
-training programs.
-The scheme's incapacity to effectively address a fundamental skilling issue discourages 
-enterprises from engaging in government programs. This, in turn, deprives them of affordable 
-and relevant training opportunities, forcing them to rely on costly upskilling courses that are 
-hard to access. This obstacle significantly hampers the scalability and competitiveness of 
-MSMEs.
-Public Procurement Policy 
-2012, for Micro and Small 
-Enterprises
-3.
-The Public Procurement Policy for Micro, Small, and Medium Enterprises (MSMEs) in India 
-mandates that central government ministries and departments should procure at least 
-25% of their annual goods and services from MSMEs, with an additional 4% from MSMEs 
-owned by Scheduled Castes and Scheduled Tribes. The fundamental motive of this Policy 
-is to advance and develop Micro and Small Enterprises by aiding them in marketing their 
-products and services. The primary objectives are to foster the growth of MSMEs, enhance 
-their participation in public procurement, and ensure equitable opportunities for them. These 
-objectives rely on principles of competitiveness, adherence to sound procurement practices, 
-and the execution of supplies in accordance with a system that is fair, transparent, competitive, 
-and cost-effective. To promote greater involvement of MSEs in government procurement, 
-Central Public Sector Enterprises (CPSEs) are encouraged to conduct Vendor Development 
-Programmes or Buyer-Seller Meets, particularly for SC/ST entrepreneurs (Public Procurement 
-Policy, 2016)13 .
-The CAG Audit (Comptroller and Auditor General of India, 2018) encompassing various 
-procurement practices and compliance within the Central Public Sector Enterprises found 
-that there have been shortcomings in procurement targets and compliance, payment issues to 
-vendors, outstanding dues, billing practices, and conducting vendor development programs. 
-This necessitates a need for stronger regulations, better financial management, transparency 
-in transactions and clearer policy communication and enforcement mechanisms. The handling 
-of complaints and grievances also raised concerns. While complaints were received, it was 
-found that they were not adequately processed through the grievance cell. Furthermore, 
-the outcomes of these complaints were not updated on the portal, indicating a lack of 
-transparency and accountability in addressing vendor concerns. Nodal officers, important for 
-coordination and communication not appointed by all CPSEs. The website was rarely updated 
-with procurement plans or updates.
-13    Evidence to support achievements of participation in Vender Development Programmes could not be furnished 
-hence the successful execution for the same cannot be verified (https://msme.gov.in/sites/default/files/Vendor_
-Development_Programme_Ancillarisation.pdf)
-The primary 
-objectives 
-are to foster 
-the growth 
-of MSMEs, 
-enhance their 
-participation 
-in public 
-procurement, 
-and ensure 
-equitable 
-opportunities 
-for them.
-
-[Page 87]
-87
-Micro and Small Enterprises: 
-Cluster Development Programme (MSE-CDP)
-3.
-This highlights India’s challenges related to the capacity of policy administration, leading to 
-significant issues and uncertainties in the implementation of SME support measures. Along with 
-this, anti-competitive practices like corruption meddle with schemes like public procurement in 
-India leading to artificial inflation in prices  (Patil, 2017) . In a nation where the missing middle 
-persists with a missing small as well, these schemes are crucial as they offer opportunities for 
-such enterprises to engage in the market. The inefficiency in these programs not only hampers 
-competition among existing enterprises by restricting diversity and inadvertently favouring 
-larger businesses, but it also establishes obstacles to the entry of new and emerging small 
-businesses.
-14 A Common Facility Centre (CFC) is defined as an infrastructural 
-hub for processing, training, marketing, raw material depot, 
-effluent treatment, complementary production processes, testing 
-laboratory, and ancillary activities for MSMEs (https://msme.gov.
-in/sites/default/files/ModifiedGuidelinesofMSE_0.pdf)
-15  A Special Purpose Vehicle (SPV) is a company registered under 
-Section 8 of Companies Act set up for the purpose of running 
-projects under MSE-CDP. A company registered under 
-Section 8 of the Companies Act is a non-profit organization 
-with limited liability that aims to promote charitable 
-activities, art, science, education, and sports. (https://
-msme.gov.in/sites/default/files/FAQs-MSE-CDP.pdf, https://
-www.icsi.edu/media/webmodules/publications/FAQs_on_
-Section_8_Companies.pdf)
-MSME Cluster Development is a program of the Government of India that aims to promote the 
-growth and development of MSMEs by developing and upgrading their clusters. The objective 
-of the scheme is to enhance the productivity and competitiveness of Micro and Small 
-Enterprises (MSEs) for their holistic development. This involves providing financial assistance 
-in the form of a Government of India (GoI) grant to establish Common Facility Centres (CFCs)14 
-provide shared services to enterprises in existing clusters and for upgrading or establishing 
-new Industrial Areas, Estates, and Flatted Factory Complexes. The scheme also involved the 
-establishment of a Special Purpose Vehicle (SPV)15  to leverage resources, enhance access to 
-public resources, and improve linkages to credit and marketing competitiveness (Comptroller 
-and Auditor General of India, 2021).
-Applying for the MSE-CDP consists of a ten-step procedure according 
-to the recently revised guidelines (Ministry of MSME). Such a 
-complicated procedure may prove to be a hindrance and beyond 
-the scope of the limited capabilities of Micro- and Small-
-Enterprises. Additionally, the project approval process 
-requires the applicants to produce multiple documents, 
-including a project appraisal report and registered land 
-documents, thus increasing the compliance burden 
-on the enterprises. According to the newly released 
-guidelines in 2022, the digital portal for the scheme 
-would be revamped to include photographs of 
-ongoing projects, a map of clusters across India,
+[Page 30]
+30
+From the above graphs, it is clear that India's performance relative to peer Asian countries 
+has remained stagnant in backward global value chain (GVC) participation, while witnessing 
+a decline in forward GVC participation reveals important insights into the country's 
+positioning within the global economic landscape. This insight suggests both challenges and 
+opportunities for India, particularly in the context of its economic development and the role 
+of micro, small, and medium enterprises (MSMEs). India has been successful in integrating 
+into upstream stages but is facing challenges in downstream activities as the dynamics shift. 
+In that case, the country's strength lies in supplying essential components, raw materials, and 
+intermediate goods to global value chains. The declining trend in forward GVC participation 
+implies a need to address challenges in distribution, marketing, and sales of finished goods. 
+In this context, the emphasis shifts to enhancing India's capabilities in marketing, branding, 
+and accessing international markets for the final products. Indian MSMEs, recognising this 
+strength in upstream integration, can focus on building stronger connections with global 
+manufacturers and optimising their role as suppliers of critical components.
+Source: OECD TIVA 
+Database
+GVC participation 
+in selected Asian 
+Economies
+Fig. 2
+Japan
+Japan
+Indonesia
+Indonesia
+India
+India
+South Korea
+South Korea
+China
+China
+Viet Nam
+Viet Nam
+Bangladesh
+Bangladesh
+0.00
+0.00
+19981998
+Forward GVC ParticipationBackward GVC Participation
+20002000
+20022002
+20042004
+20062006
+20082008
+20102010
+20122012
+2014
+2014
+2016
+2016
+2018
+2018
+2020
+2020
+2022
+2022
+0.02
+0.05
+0.04
+0.10
+0.06
+0.15
+0.08
+0.20
+0.10
+0.25
+0.12
+0.30
+0.14
+0.35
+0.16
+0.40
+0.18
+0.45
+0.20
+0.50
+0.22
+0.24
+0.26

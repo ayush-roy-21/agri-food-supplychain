@@ -1,0 +1,51 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-103-C34
+Parent Doc ID: A-RES-103
+Page Range: Page 21
+Word Range: 9022 - 9271
+Word Count: 250
+--------------------
+
+[Page 21]
+20 
+Conclusions on follow-up of non-compliant results 
+52. Documented procedures for the follow-up of non-compliances found under the residue 
+monitoring plans are largely equivalent to those foreseen in the EU and investigations 
+are mostly implemented promptly.  Nevertheless, the follow-up of the aquaculture non-
+compliances for banned  substances and actions taken to prevent recurrence have not 
+been effective as evidenced by the continuing high rate of non- compliant results in 
+samples drawn from hatcheries and in the PET programme.   Similarly, the continuing 
+high incidence of aflatoxin M1 findings in raw milk  suggest that measures to address 
+and mitigate this problem are not particularly effective.   
+5.1.6 Laboratories 
+Findings 
+53. The laboratory network relevant for the scope of the audit consisted of: 
+a) laboratories involved in testing samples under the residue monitoring plans for: 
+- aquaculture: 5 MPEDA laboratories (in Kochi, Bhimavaram, Nellore , Porbandar 
+and Bhubaneswar and one EIA laboratory in Chennai (dioxins only); 
+- milk: the EIA Pilot Test House laboratory in Mumbai; 
+- poultry - the EIA laboratory in Chennai. 
+b)     laboratories responsible for analysis under the PET programme for aquaculture 
+products with regard to tetracycline, oxytetracycline, chlortetracycline  
+chloramphenicol and nitrofuran metabolites: three EIA laboratories (in Chennai, 
+Kochi, Mumbai and Kolkata); 
+c)  laboratories responsible for screening analys es under the PHT programme for 
+shrimp for chloramphenicol and nitrofuran metabolites : 15 MPEDA ELISA 
+laboratories. 
+54. Similar to what is expected in the EU  (35) all laboratories involved in testing residue 
+monitoring samples and the PET programme are ISO/IEC 17025 accredited by the 
+National Accreditation Board for Calibration and Testing Laboratories (NABL) which 
+is a full member of International Laboratory Accreditation Cooperation. All EIA and 
+MPEDA laboratories have a number of residue methods included in their respective 
+scopes of accreditation. Of the 1 5 MPEDA ELISA laboratories involved in the PHT, 4 
+are accredited, each with residues methods listed in their scope of accreditation. 
+55. Similar to the EU requirements (36) and as described in the 2018 audit, all laboratories 
+involved in official residues controls testing must hold an approval from the EIC. 
+Under the EIC approval process, ISO 17025 accreditation audits are conducted as an 
+integrated assessment by the NABL and the EIC in parallel, as des cribed in the NABL 
+document 127 ( 37). For the laboratories visited during the audit, EIA Chennai, EIA 
+Kochi, EIA Mumbai, MPEDA Kochi and MPEDA Bhubaneswar, the integrated 
+ 
+(35) Article 37(4)(e) of Regulation (EU) 2017/625.  
+(36) Article 39(1) of Regulation (EU) 2017/625.   
+(37) https://nabl-india.org/nabl/file_download.php?filename=202011170504-NABL-127-doc.pdf

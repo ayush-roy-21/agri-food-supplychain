@@ -1,0 +1,151 @@
+--- CHUNK HEADER ---
+Chunk ID: A-CSR-101-C16
+Parent Doc ID: A-CSR-101
+Page Range: Page 4
+Word Range: 3751 - 4000
+Word Count: 250
+--------------------
+
+[Page 4]
+objective, but there are several potential barriers to collaboration that 
+seek to leverage technology. Different technologies used by suppliers 
+throughout a supply chain can be an important barrier to collaboration, 
+but many potentially “ intractable ” barriers are rooted in people issues, 
+such as “ culture, trust, aversion to change, and willingness to collabo -
+rate ” ( Fawcett et al., 2008 ). Overcoming these barriers is essential to 
+successfully leverage monitoring technologies in multi-actor collabora -
+tions. For example, in a modern slavery context, an auditing firm may 
+collaborate with NGOs for access to genuine employee perspectives or 
+local communities ( Taylor and Shih, 2019 ). Technologies play a role in 
+addressing collaborative challenges that exist between these actors. For 
+instance, actors involved in supplier auditing are exposed to legitimacy 
+risks due to poor timeliness and veracity in supplier auditing ( Castka 
+et al., 2020 ). Data collection can be enabled through the use of mobile 
+apps ( Locke, 2013 ), which allow for faster data exchange. Mobile apps 
+and other technologies also permit the collection of greater amounts of 
+data – in part mitigating bias ( Solymosi and Bowers, 2018 ). Machine 
+learning and artificial intelligence (AI) can be used to identify patterns 
+of trafficking and slavery in large datasets, making it easier to identify 
+at-risk areas or at-risk individuals ( Land and Barry, 2021 ). Technology 
+could thus help NGOs, firms, and regulatory agencies to share pertinent 
+data and work together more effectively.
+Technology, however, is not a panacea. There is potentially a dark 
+side to the use of monitoring technology, such as strengthening the 
+ability to control employees through surveillance or serving as a cover 
+for minimal or no performance improvement ( Mol, 2010 ). Research is 
+also emerging on the potential dissatisfaction in adopting supply chain 
+technologies, such as blockchain, the Internet of Things (IoT), and 
+artificial intelligence (AI) ( Sodhi et al., 2022 ). As Sodhi et al. (2022 , p. 
+2517) explain, the perceived benefits “ depend on the interaction be -
+tween technology and the users, not on the technology alone ” . This point 
+is supported by Marques et al. (2024) , who demonstrated that, while 
+blockchain is often promoted as a solution to supply chain transparency 
+problems, this can be substantially undermined by a lack of trust be -
+tween supply chain partners. Blockchain can also introduce additional 
+unanticipated costs and risks ( Murray et al., 2021 ). Technology can thus 
+create “ inflated expectations ” ( Sodhi et al., 2022 ) in supply chain 
+management, including in the ability to identify modern slavery. Suc -
+cessfully leveraging monitoring technology to identify modern slavery is 
+therefore contingent on multi-actor collaborations grounded in trust, a 
+genuine willingness to collaborate, and a recognition of its limitations.
+2.4. Theoretical underpinnings
+There are many actors (e.g., businesses, service providers, NGOs, 
+auditors, employees, etc.) as identified by McLaren et al. (2024) , and 
+monitoring technologies (e.g., blockchain, remote sensing and satellites, 
+worker voice applications, etc.) that may be necessary to identify 
+modern slavery. While institutional theory and global value chain the -
+ory are the most frequently used theories in modern slavery and supply 
+chains research ( Strand et al., 2024 , p. 6), we pursue a different line of 
+inquiry. We draw on resource dependence theory (RDT) as a lens for our 
+study. RDT understands control between firms from two perspectives: 
+power imbalance and mutual dependence ( Shiu et al., 2023 ). While 
+power imbalances exist within supply chains and can impact the ability 
+to identify modern slavery, we regard this perspective as highly suited to 
+accounting for competitive situations. Our focus in this study is on the 
+mutual dependence perspective and its ability to explain multi-actor 
+collaboration. Previous research has shown that mutual dependence 
+has a positive impact on collaborative performance ( Casciaro and Pis -
+korski, 2005 ; Shiu et al., 2023 ). Therefore, consistent with Shiu et al. 
+(2023 , p. 2), we adopt the view that “ a firm needs to devote time and 
+resources towards coordinating other firms in order to obtain resources 
+for its strategic goals ” . The mutual dependence perspective underpins 
+our theoretical approach, since it emphasizes the need for multiple ac -
+tors, often spread across multiple jurisdictions, to work together to 
+identify modern slavery.
+RDT is primarily concerned with understanding and explaining firm 
+survival. RDT argues that for an organization to survive, it must acquire 
+valued and necessary resources, but that these resources are often held 
+by others ( Pfeffer and Salancik, 1978 ). This creates uncertainty for or -
+ganizations, precipitating them to manage their environmental uncer -
+tainty and resource acquisition in different ways. Resources can be 
+tangible or intangible assets that are viewed as organizational strengths 
+( Wernerfelt, 1984 ). Resources could be direct, such as labour and raw 
+materials, or they could be indirect, such as favourable legislation. Re -
+sources could also be considered from the perspective of substantive 
+resources, such as cash flow and technology, or symbolic resources, such 
+as legitimacy and reputation ( Meyer and Rowan, 1977 ). Different or -
+ganizations hold and control different resources and, to mitigate risks 
+and survive, organizations must interact with other entities which 
+control them ( Scott and Davis, 2015 ).
+Organizations are conceptualized as open systems embedded in a 
+network of interdependencies with other organizations ( Pfeffer and 
+Salancik, 1978 ). The interdependence with other organizations lies in 
+the availability of different (valued) resources and demand for them. For 
+example, service providers require clients to use the technology they are 
+selling to help identify modern slavery. NGOs require resources to fund 
+their social objectives but also appreciate that firms value the legitimacy 
+they can provide ( Michelson and Wray-Bliss, 2024 ). RDT helps explain 
+which actors (and why) help provide valued resources – including 
+monitoring technologies – at particular points in time (the when). 
+Moreover, collaboration shows how different dependencies in modern 
+slavery are managed. If we consider that modern slavery can threaten 
+firms, specifically by exacerbating reputational and financial risk, the 
+use of monitoring technology can either illuminate or conceal modern 
+slavery practices ( Marques et al., 2024 ). It can therefore subsequently 
+Table 1 
+Illustrative examples of using technology to identify modern slavery in supply 
+chains.
+Category Illustrative examples of monitoring technologies and their use
+Data 
+collection
+• Supply chain mapping technologies: platforms and tools that help 
+companies visualize their supply chains based on data gathered 
+on supplier locations, relationships, and product flows.
+• Worker voice technologies and hotlines: facilitate direct reporting 
+from workers on abuse, exploitation, and unsafe working 
+conditions by collecting real-time data.
+• Auditing technologies: use of digital platforms to manage audit 
+data, including worker interviews, facility inspections, and 
+document reviews.
+• Satellite monitoring and remote sensing: collection of imagery 
+and sensor-based data related to deforestation, illegal mining, and 
+other activities that may be linked to modern slavery.
+• Open data and publicly available resources: gathering data from 
+government reports, NGO databases, social media, and news 
+articles to identify risk factors.
+Data 
+exchange
+• Blockchain technology: facilitates secure and transparent data 
+exchange between different actors in the supply chain; allows for 
+tracking products from origin to consumer and verifying claims 
+related to ethical sourcing.
+• Supplier ethical data exchange: enables companies to share 
+responsible sourcing data with their suppliers and customers (e.g., 
+Sedex).
+• Cloud-based platforms: allows companies to share information 
+about suppliers, audit results, and other relevant data with 
+stakeholders, potentially in real-time.
+Data 
+analytics
+• Big Data and AI-powered analytics: assemble large datasets from 
+various sources (e.g., supply chain mapping, audits, worker re -
+ports, news articles, etc.) to analyze data and identify high-risk 
+suppliers or regions based on various indicators.
+• Natural Language Processing: use of NLP to analyze text data (e. 
+g., news articles, social media posts) to identify potential cases of 
+modern slavery.
+• Geospatial analysis: analyze geographical data to identify areas 
+with high concentrations of vulnerable populations or industries 
+known for forced/exploited workers.
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+4

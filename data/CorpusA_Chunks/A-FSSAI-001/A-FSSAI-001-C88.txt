@@ -1,0 +1,58 @@
+--- CHUNK HEADER ---
+Chunk ID: A-FSSAI-001-C88
+Parent Doc ID: A-FSSAI-001
+Page Range: Page 43
+Word Range: 23328 - 23577
+Word Count: 250
+--------------------
+
+[Page 43]
+¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 107
+2.9 The use of construction materials which cannot be adequately cleaned and disinfected such as
+wood, should be avoided unless its use would clearly not be a source of contamination, and
+2.10 Office accommodation should be provided for the use of the meat inspection agency.
+3. Sanitary Facilities:
+3.1 Water Supply:
+3.1.1. Supply of potable water under pressure should be available with facilities for its storage, where necessary
+for distribution, and with protection against contamination;
+3.1.2. An supply of hot potable water should be available at all times during working hours;
+Note - This provision is intended to cover water for both cleaning purposes and the destruction of
+microorganisms (especially those pathogenic to man) on knives, utensils etc., and coming into direct contact with
+meat. For cleaning purposes the temperature of the water should be 65 degree Celsius. The hot water for disinfection
+purposes should be at 82 degree Celsius and dispensed in such a way (e.g. in specially designed boxes near the
+working area) that blades of knives etc., can be submerged in the water for a contact time (no less than two minutes).
+Often this water supply is separate from other hot water supplies used for cleaning, hand washing etc. But if there
+is only one hot water supply the term "adequate" should mean that even at times where large amounts of hot water
+is used (e.g. during cleaning operations) the water supply from any tap in the establishment should not be decreased;
+3.1.3 Ice should be made from potable water and should be manufactured, handled and stored so as to protect
+it from contamination; and
+3.1.4 Steam used in contact directly with meat should be produced from potable water and contain no substances
+which may be hazardous to health or may contaminate the food.
+3.2 Effluent and Waste Disposal - Meat processing unit should have an efficient effluent and waste disposal system.
+All effluent lines (including sewer systems) should be large enough to carry peak loads and should be constructed in such
+a manner as to avoid contamination of potable water supplies. Biological oxygen demand level shall be less than 1500, and
+for that an effluent treatment plant, if necessary may be installed.
+3.3 Facilities for Storage of Waste and Inedible Material. - Facilities should be provided for the storage of waste and
+inedible material prior to removal from the establishment. These facilities should be designed to prevent access to waste
+or inedible material by pests and to avoid contamination of food, potable water and equipment or building.
+3.4 Changing Facilities and Toilets.- Suitable and conveniently located changing facilities and toilets should be
+provided in all establishments. Toilets should be so designed as to ensure hygienic removal of waste matter. These areas
+should be well lit and ventilated and should not open directly on to food handling areas. Hand washing facilities with
+warm or hot and cold water with suitable hygienic means of drying hands should be provided adjacent to toilets and in
+such a position that the employee must pass them when returning to the processing area. Where hot and cold water are
+available, mixing taps should be provided. Where paper towels are used, a sufficient number of dispensers and receptacles
+should be provided near to each washing facility. Taps of non-hand operable type are preferable. Notices should be
+posted directing personnel to wash their hands after using the toilets.
+3.5 Hand Washing Facilities in Processing Areas:
+3.5.1 Adequate and conveniently located facilities for hand washing and drying should be provided wherever
+the process demands. Where appropriate, facilities for hand disinfection should be provided. The facilities should
+be furnished with properly trapped waste pipes leading to drains.
+3.5.2 All rooms used for deboning, preparing, packing or other handling of meat should be equipped with
+adequate facilities for cleaning and disinfecting implements, conveniently located for the use of personnel during
+operations. These facilities are for use exclusively in the cleaning and disinfection of knives, steels, cleavers, saws
+and other implements.
+3.5.3 All facilities for cleaning and disinfecting implements should be of such nature and sizes as to permit
+proper cleaning and disinfection of implements . These facilities should be constructed of corrosion - resistant
+materials and should be capable of being easily cleaned.
+3.5.4 All facilities for cleaning and disinfecting of implements should be fitted with suitable means of supplying
+hot water in sufficient quantity at all times while meat is being handled in that part of the Meat Processing Unit.

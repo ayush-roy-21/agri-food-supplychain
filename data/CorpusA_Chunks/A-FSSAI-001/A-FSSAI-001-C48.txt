@@ -1,0 +1,56 @@
+--- CHUNK HEADER ---
+Chunk ID: A-FSSAI-001-C48
+Parent Doc ID: A-FSSAI-001
+Page Range: Page 28
+Word Range: 12502 - 12751
+Word Count: 250
+--------------------
+
+[Page 28]
+92 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
+5.1.7 Receiving temperature of potentially high risk food should be at or below 5 0C
+5.1.8 Receiving temperature of frozen food should be -18 0C or below.
+5.2 Storage of raw materials and food
+5.2.1 Food storage facilities shall be designed and constructed to enable food to be effectively protected from
+contamination during storage; permit adequate maintenance and cleaning, to avoid pest access and accumulation.
+5.2.2 Cold Storage facility, wherever required, shall be provided to raw, processed / packed food according to
+the type and requirement.
+5.2.3 Segregation shall be provided for the storage of raw, processed, rejected, recalled or returned materials
+or products which will be distinguishably marked and secured. Raw materials and food shall be stored in separate
+areas from printed packaging materials, stationary, hardware and cleaning materials / chemicals.
+5.2.4 Raw food, particularly meat, poultry and seafood products shall be cold stored separately from the area
+of work-in-progress, processed, cooked and packaged products. The conditions of storage in terms of temperature
+and humidity requisite for enhancing the shelf life of the respective food materials / products shall be maintained.
+5.2.5 Storage of raw materials, ingredients, work-in-progress and processed / cooked or packaged food
+products shall be subject to FIFO (First in, First Out), FEFO (First Expire First Out) stock rotation system as
+applicable.
+5.2.6 Containers made of non-toxic materials shall be provided for storage of raw materials, work-in-progress
+and finished / ready to serve products. The food materials shall be stored on racks / pallets such that they are
+reasonably well above the floor level and away from the wall so as to facilitate effective cleaning and prevent
+harbouring of any pests, insects or rodents.
+5.3 Food Processing / Preparation, Packaging and Distribution / Service
+5.3.1.Time and temperature control
+5.3.1.1 The Food Business shall develop and maintain the systems to ensure that time and temperature are
+controlled effectively where it is critical to the safety and suitability of food. Such control shall include time and
+temperature of receiving, processing, cooking, cooling, storage, packaging, distribution and food service upto the
+consumer, as applicable.
+5.3.1.2 Whenever frozen food / raw materials are being used / handled / transported, proper care should be
+taken so that defrosted / thawed material are not stored back after opening for future use.
+5.3.1.3 If thawing is required then only required portion of the food should be thawed at a time.
+5.3.1.4 Wherever cooking is done on open fire, proper outlets for smoke/steam etc. like chimney, exhaust fan
+etc. shall be provided.
+5.4 Food Packaging
+5.4.1 Packaging materials shall provide protection for all food products to prevent contamination, damage and shall
+accommodate required labelling as laid down under the FSS Act & the Regulations there under.
+5.4.2 For primary packaging (i.e packaging in which the food or ingredient or additive comes in direct contact with
+the packaging material), only Food grade packaging materials are to be used . For packaging materials like aluminium
+plastic and tin, the standards to be followed are as mentioned under the FSS Regulations and rules framed there under.
+5.4.3 Packaging materials or gases where used, shall be non-toxic and shall not pose a threat to the safety and
+suitability of food under the specified conditions of storage and use.
+5.5 Food Distribution / Service
+5.5.1 All critical links in the supply chain need to be identified and provided for to minimize food spoilage during
+transportation. Processed / packaged and / or ready-to-eat food shall be protected as per the required storage conditions
+during transportation and / or service.
+5.5.2 Temperatures and humidity which are necessary for sustaining food safety and quality shall be maintained.
+The conveyances and /or containers shall be designed, constructed and maintained in such manner that they can
+effectively maintain the requisite temperature, humidity, atmosphere and other conditions necessary to protect food

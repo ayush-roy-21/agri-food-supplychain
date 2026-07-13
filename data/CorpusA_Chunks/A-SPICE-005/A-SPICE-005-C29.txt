@@ -1,0 +1,119 @@
+--- CHUNK HEADER ---
+Chunk ID: A-SPICE-005-C29
+Parent Doc ID: A-SPICE-005
+Page Range: Page 21 to Page 22
+Word Range: 7733 - 7982
+Word Count: 250
+--------------------
+
+[Page 21]
+Row Country of origin Food and feed (intended use) CN code ( 1)
+TARIC 
+sub- 
+division
+Hazard
+Frequency of 
+identity and 
+physical 
+checks (%)
+11 Sri Lanka (LK) Gotukola (Centella asiatica)
+(Food)
+ex 1211 90 86 60 Pesticide 
+residues (3) 50
+12 Nigeria (NG)
+Sesamum seeds
+(Food)
+1207 40 90
+Salmonella (5) 50 ex 2008 19 1949
+ex 2008 19 99 49
+13 Sudan (SD)
+Sesamum seeds 1207 40 90
+Salmonella (5) 50(Food) ex 2008 19 19 49
+ex 2008 19 99 49
+14 Türkiye (TR)
+— Dried figs 0804 20 90
+— Mixtures of nuts or dried 
+fruits containing figs
+ex 0813 50 99 50
+— Dried fig paste ex 2007 10 10 50
+ex 2007 10 99 20
+ex 2007 99 39 01; 02
+ex 2007 99 50 31
+ex 2007 99 97 21
+— Dried figs, prepared or 
+preserved, including 
+mixtures
+ex 2008 97 12 11
+ex 2008 97 14 11
+ex 2008 97 16 11
+ex 2008 97 18 11
+ex 2008 97 32 11
+ex 2008 97 34 11
+ex 2008 97 36 11
+ex 2008 97 38 11
+ex 2008 97 51 11 Aflatoxins and 30
+ex 2008 97 59 11 Ochratoxin A
+ex 2008 97 72 11
+ex 2008 97 74 11
+ex 2008 97 76 11
+ex 2008 97 78 11
+ex 2008 97 92 11
+ex 2008 97 93 11
+ex 2008 97 94 11
+ex 2008 97 96 11
+EN OJ L, 29.1.2026 
+20/25 ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj
+
+[Page 22]
+Row Country of origin Food and feed (intended use) CN code ( 1)
+TARIC 
+sub- 
+division
+Hazard
+Frequency of 
+identity and 
+physical 
+checks (%)
+ex 2008 97 97 11
+ex 2008 97 98 11
+ex 2008 99 28 10
+ex 2008 99 34 10
+ex 2008 99 37 10
+ex 2008 99 40 10
+ex 2008 99 49 60
+ex 2008 99 67 95
+ex 2008 99 99 60
+— Flours, meals and 
+powder of dried figs
+ex 1106 30 90 60
+(Food)
+— Pistachios, in shell 0802 51 00
+— Pistachios, shelled 0802 52 00
+— Mixtures of nuts or dried 
+fruits containing 
+pistachios
+ex 0813 50 39 60
+ex 0813 50 91 60
+ex 0813 50 99 60
+— Pistachio paste ex 2007 10 10 60
+ex 2007 10 99 30
+ex 2007 99 39 03; 04
+ex 2007 99 50 32
+ex 2007 99 97 22
+— Pistachios, otherwise 
+prepared or preserved, 
+including mixtures
+ex 2008 19 13 20 Aflatoxins 50
+ex 2008 19 93 20
+ex 2008 97 12 19
+ex 2008 97 14 19
+ex 2008 97 16 19
+ex 2008 97 18 19
+ex 2008 97 32 19
+ex 2008 97 34 19
+ex 2008 97 36 19
+ex 2008 97 38 19
+ex 2008 97 51 19
+ex 2008 97 59 19
+OJ L, 29.1.2026 EN 
+ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 21/25

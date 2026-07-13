@@ -1,0 +1,47 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C26
+Parent Doc ID: A-RES-100
+Page Range: Page 40
+Word Range: 7507 - 7777
+Word Count: 271
+--------------------
+
+[Page 40]
+State of Supply Chain Sustainability 2025
+CONCLUSION &
+NEXT STEPS40
+The 2025 State of Supply Chain Sustainability report
+confirms what many leaders already sense: sustainability
+is no longer peripheral to supply chain strategy, it is
+central to competitiveness, resilience, and long-term
+growth. Based on a global survey of 1200+ companies
+across sectors, three implications emerged. Despite
+regulatory uncertainty, economic pressures, and
+operational challenges, companies remain committed to
+advancing sustainability, often driven as much by
+investors, boards, and customers as by government
+policy. Importantly, businesses that make their
+sustainability goals explicit are far more likely to embed
+them into daily decisions and invest in high-impact
+initiatives, underscoring that transparency and effective
+execution are key enablers of meaningful progress.
+Scope 3 emissions remain the defining challenge. The
+single biggest obstacle to Scope 3 measurement is
+supplier data availability, or lack thereof. Supply chains
+are complex, and tracking the emissions requires data-
+intensive work and is heavily dependent on supplier
+collaboration, yet this also represents the greatest
+opportunity for impact. Without access to activity-level
+or product-specific data, even motivated businesses
+struggle to calculate accurate emissions. Companies are
+beginning to move beyond spreadsheets toward more
+sophisticated tools, closer supplier engagement, and
+industry collaborations that align standards and create
+shared momentum. Industry collaborations via research
+consortia are a key piece for coping with this challenge
+in a more unified way, ensuring that different entities in
+the supply chain (i.e. upstream and downstream) start
+working together, making it not only possible to
+measure and track Scope 3 emissions, but shaping the
+future with actions that lay the groundwork for credible,
+scalable, and impactful Scope 3 emissions management.

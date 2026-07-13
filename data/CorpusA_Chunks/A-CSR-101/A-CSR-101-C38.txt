@@ -1,0 +1,134 @@
+--- CHUNK HEADER ---
+Chunk ID: A-CSR-101-C38
+Parent Doc ID: A-CSR-101
+Page Range: Page 8
+Word Range: 9533 - 9782
+Word Count: 250
+--------------------
+
+[Page 8]
+around our four key contingencies, focusing on how they facilitate (or 
+inhibit) identifying modern slavery by leveraging monitoring technol -
+ogies through multi-actor collaboration. Collectively, the findings pro -
+vide a basis for directly answering our research question.
+4.1. Modern slavery posture
+Modern slavery posture refers to the reason why an organization 
+pursues collaboration. There are many reasons why various actors in 
+supply chains do not want modern slavery to be found. For example, it 
+can be highly profitable for those exploiting others. However, they could 
+also be severely punished if it is located, such as reputational risk for a 
+firm, or criminal liability for an individual. Motivation is thus impactful 
+in determining the modern slavery posture of any given actor – a firm, 
+auditing body or NGO. This is illustrated by the following quote: 
+“In terms of how difficult is it to find, it is. It depends on whether 
+you’re looking for it and it depends on whether you want to find it.” 
+MS4
+The contracts- and conditions-focused domains provide contrasting 
+environments in which modern slavery is identified. We note that many 
+interviewees indicated the existence of these domains, though the ter -
+minology used to describe them varied. For example: 
+“I think those are kind of the two camps that I’ve noticed. One kind 
+tends to be used to cater to corporations’ risk-based approach and 
+then the NGOs tend to come in for more continuous improvement 
+approach. Or not necessarily always NGOs, they could be consul -
+tancies, they could be social enterprises, but I think there’s a bit more 
+potentially, a more holistic approach to looking at the root cause 
+rather than a compliance-based approach.” MS7
+In the contracts-focused domain, firms seek collaborations and 
+secure resources predominantly to acquire compliance with standards 
+and other reference points. In fact, respondents frequently referred to 
+this domain as the “compliance-domain” in the interviews. Firms are 
+increasingly pushed to address modern slavery through audits, certifi -
+cations, and other compliance mechanisms and look for actors that can 
+provide such services. We also heard many comments about audits 
+focused on confirming the absence of modern slavery, in many cases as a 
+mechanism to avoid trouble. To illustrate, 
+“I think that the compliance-based approach is very familiar to 
+companies. So, I think many of them still seek social audits as from a 
+compliance-based perspective and a risk mitigation, risk minimiza -
+tion perspective. But there is definitely a trend now and a lot of 
+spotlight on companies that move away from trouble, some suppliers 
+or regions or commodities, rather than actually working with the 
+supply chain to improve it.” MS7
+The contracts domain is thus characterized by actors whose primary 
+interest is in confirming the absence of modern slavery in their supply 
+chains, not necessarily identifying (and remediating) it. Moreover, this 
+domain is dominated by firms and service providers. Although other 
+actors might get involved (e.g., an NGO might assist with data collec -
+tion), this involvement tends to be limited or reduced to symbolic col -
+laborations. Notably, and consistent with RDT, the firms and service 
+providers have significant control and discretion over the allocation of 
+resources and their use. For example, the audits (and related data) have 
+a commercial value, which is protected and leveraged for the benefit of 
+participating actors (i.e., a certificate demonstrates absence of modern 
+slavery). Actors in the contracts-focused domain are primarily con -
+cerned with improvements of the audit process, such as cost-cutting or 
+audit integration.
+In the conditions-focused domain, actors are interested in identifying 
+the presence of modern slavery (and then working to remediate it). This 
+domain is dominated by NGOs, labour unions, and other actors whose 
+raison d’etre is different from firms seeking compliance and 
+certification. These actors also employ different mechanisms to identify 
+modern slavery: there is less focus on audits and more focus on inves -
+tigative work and working with local communities as the following 
+quote illustrates: 
+“NGOs are going to identify [modern slavery] better, but also it’s not 
+just sort of putting a red dot on a map to say there is forced labour 
+there. An NGO is going to do a better job of working with a local 
+community and identifying what the appropriate remedy is. Because, 
+in the end what’s going to prevent forced labour in a particular in -
+dustry or what’s going to stop existing forced labour or what’s going 
+to remedy forced labour is kind of context specific.” MS27
+Recognizing the two modern slavery domains has important rami -
+fications for selecting collaborating partners since each domain has 
+different aims and approaches to identifying modern slavery. From a 
+RDT perspective, for instance, it means that actors seek to secure 
+different resources and align (or naturally drift toward) a domain that 
+provides such resources and which allows the actors control over the 
+allocation of resources for their intended purpose. An example might be 
+a firm that seeks to legitimize practices in their supply chains (but not 
+necessarily improve these practices), is likely to collaborate with actors 
+that provide such service. Consequently, the selection and adaptation of 
+technologies also serves as a tool to leverage the legitimization of supply 
+chain practices. For example, worker voice technologies (WVT) can be 
+used to actively conceal labour issues by careful selection of participants 
+or through persecution of whistle blowers. Hotlines can be similarly 
+used to monitor the workforce and identify workers the company may 
+view as problematic. Conversely, technologies supporting more genuine 
+motivations can have the opposite effect.
+The adoption of specific monitoring technologies is driven by the 
+objectives of the collaboration. For example, an organization may seek 
+improvements to its data collection process to achieve greater audit 
+efficiency – a typical approach for actors operating in the contracts 
+focused domain. Actors involved in audits can benefit from the digita -
+lization of the audit process enabled by various technologies (e.g., data 
+collection platforms; phone-based apps, etc.). As the following quote 
+illustrates, this can enhance audit efficiency: 
+“I think technology in the audit process, I mean certainly one thing 
+that’s helped is for the auditors to be able to answer the questions. On 
+their audit protocol for them to be able to go through and answer 
+those questions you know kind of in real time. And you know just 
+save them time and energy and also as soon as you’re writing a piece 
+of paper and transferring it. […] The fact that the reports get auto -
+matically uploaded to [audit platform X] or [audit platform Y] or 
+whomever I think that’s also really helpful …” MS9
+4.2. Collaboration scope
+We found two principal modes of collaborations: micro-level collab -
+orations enable identifying modern slavery at a facility level, whilst 
+macro-level collaborations enable the same at a regional or national level. 
+In both domains, collaborations to secure resources and capabilities 
+emerge at these two levels. In the contracts-focused domain, collabo -
+rations emerge to enhance the efficiency of compliance mechanisms, 
+such as audits. In the conditions-focused domain, the focus was on 
+mobilizing communities to identify modern slavery (see Table 5 ). Cross 
+boundary collaboration is also possible, as we explore in Section 4.3 .
+Collaborations engaged in by each actor depends on the modern 
+slavery posture. For example, audits performed at individual facilities 
+could be used for multiple purposes – an activity typical for the 
+contracts-focused domain. This is a focus of so-called audit platforms – 
+data collection and exchange mechanisms, which are developed to 
+enable an exchange of insights gained through an audit at one facility to 
+inform further insights for various supply chain actors, who use the same 
+facility. If actors collaborate across the micro- and macro-levels, audit 
+C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
+8

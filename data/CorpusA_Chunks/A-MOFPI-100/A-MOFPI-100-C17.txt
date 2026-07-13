@@ -1,0 +1,43 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MOFPI-100-C17
+Parent Doc ID: A-MOFPI-100
+Page Range: Page 12
+Word Range: 4211 - 4569
+Word Count: 359
+--------------------
+
+[Page 12]
+7 
+References 
+Adams, A. M., Ahmed, R., Latif, A. H. M. M., Rasheed, S., Das, S. K., Hasib, E., Farzana, F. D., 
+Ferdous, F., Ahmed, S., & Faruque, A. (2017).  Impact of fortified biscuits on 
+micronutrient deficiencies among primary school children in Bangladesh. Public 
+Library of Science (PLoS) ONE,  12(4), e0174673. 
+https://doi.org/10.1371/journal.pone.0174673 (Last accessed on July 23, 2025).  
+Aguiar, M., Andronis, L., Pallan, M., Högler, W., & Frew, E. (2019).  The economic case for 
+prevention of population Vitamin D de ficiency: a modelling study using data from 
+England and Wales. European Journal of Clinical Nutrition,  74(5), 825 –833. 
+https://doi.org/10.1038/s41430-019-0486-x (Last accessed on July 30, 2025). 
+Bhadada, S. K., Chadha, M., Sriram, U., Pal, R., Paul, T.V., Khadgawat, R., Joshi, A., Bansal, B., 
+Kapoor, N., Aggarwal, A., Garg, M. K., Tandon, N., Gupta, S., Kotwal, N., Mahadevan, 
+S., Mukhopadhyay, S., Mukherjee, S., Kukreja, S. C., Rao, S. D., & Mithal, A. (2021).  
+The Indian Society for Bone and Mineral Research (ISBMR) position statement for the 
+diagnosis and treatment of osteoporosis in adults. Archives of Osteoporosis . 
+https://pubmed.ncbi.nlm.nih.gov/34176015/ (Last accessed on January 21, 2025). 
+Ethgen, O., Hiligsmann, M., Burlet, N., Reginster, J. Y . (2015). Public health impact and cost-
+effectiveness of dairy products supplemented with Vitamin D in prevention of 
+osteoporotic fractures. Archives of Public Health . 73:48. doi: 10.1186/s13690 -015-
+0099-3. PMID: 26668740; PMCID: PMC4677432. 
+https://pubmed.ncbi.nlm.nih.gov/26668740/ (Last accessed on July 30, 2025). 
+FAO, IFAD, UNICEF, WFP and WHO. (2024).  The State of Food Security and Nutrition in the 
+World 2024 – Financing to end hunger, food insecurity and malnutrition in all its forms. 
+Rome. https://doi.org/10.4060/cd1254en (Last accessed on July 16, 2025). 
+Mukherjee, A., Chaudhry, A., Khatwani, L., Khanna, T., and Verma, P . (2025). “Roadmap to 
+Address Vita min D Deficiency in India”, Academic Foundation and ICRIER, 2025. 
+(Report) ISBN: 9789332706866. https://icrier.org/pdf/ES_Roadmap-to-Address-
+Vitamin-D_Deficiency.pdf (Last accessed on June 26, 2025). 
+Nitish, A., Anand, P . K., Swarnkanta, L., Dhruvendra, P . (2024). Vitamin D deficiency among 
+pregnant women in India. Biomedical Informatics,  31;20(12):2029-2033. doi: 
+10.6026/9732063002002029. PMID: 40230908; PMCID: PMC11993426. 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11993426/ (Last accessed on May 30, 
+2024).

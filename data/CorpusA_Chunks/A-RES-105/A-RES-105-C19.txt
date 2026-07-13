@@ -1,0 +1,58 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-105-C19
+Parent Doc ID: A-RES-105
+Page Range: Page 13
+Word Range: 5419 - 5668
+Word Count: 250
+--------------------
+
+[Page 13]
+Journal of Decision Analytics and Intelligent Computing 2(1) (2022) 36-52 Verma et al. 
+ 48  
+ 
+Joshi, S., & Joshi, R. (2016). Designing and Implementing Global Supply Chain Management. IGI Global, USA. 
+Joshi, S., & Sharma, M. (2014). Blending Green with Lean - Incorporating Best-of-the-Breed Practices to Formulate 
+an Optimum Global Supply Chain Management Framework: Issues and Concerns. In V. Modrák, & P. Semančo 
+(Eds.) Handbook of Research on Design and Management of Lean Production Systems (pp. 389-407). Hershey, 
+PA: Business Science Reference. doi:10.4018/978-1-4666-5039-8.ch018  
+Joshi, S., & Sharma, M. (2021). Digital technologies (DT) adoption in agri-food supply chains amidst COVID-19: an 
+approach towards food security concerns in developing countries. Journal of Global Operations and Strategic 
+Sourcing. 
+Joshi, S., & Sharma, M. (2021a). Impact of sustainable Supply Chain Management on the Performance of SMEs 
+amidst COVID -19 Pandemic: An Indian Perspective. International Journal of Logistics Economics and 
+Globalisation. 
+Joshi, S., & Sharma, M. (2021b). Prolonging retailer-supplier relationship: A study of retail firms during pandemic 
+COVID-19. International Journal of Logistics Economics and Globalisation. 
+Joshi, S., Agarwal, R., & Madan, P. (2018). Sustainable Manufacturing and Services in Industry 4.0: Research 
+Agenda and Directions. In Computing Predictive Analytics, Business Intelligence, and Economi cs Models (Vol. 
+1, pp. 97–120). Academic Press. 
+Joshi, S., Sharma, M., & Barve, A. (2022). Implementation Challenges of Blockchain technology in Closed loop 
+supply chain: A Waste Electrical and Electronic Equipment (WEEE) Management perspective in developi ng 
+countries. Supply Chain Forum: An International Journal. 
+Joshi, S., Sharma, M., & Kler, R. (2020). Modeling circular economy dimensions in agri-tourism clusters: Sustainable 
+performance and future research directions. International Journal of Mathematic al, Engineering and 
+Management Sciences, 5(6), 1046–1061. 
+Joshi, S., Sharma, M., & Rathi, S. (2017). Forecasting in service supply chain systems: A state -of-the-art review 
+using latent semantic analysis. Advances in Business and Management Forecasting. 
+Joshi, S., Sharma, M., & Singh, R. K. (2020a). Performance evaluation of agro-tourism clusters using AHP--TOPSIS. 
+Journal of Operations and Strategic Planning, 3(1), 7–30. 
+Joshi, S., Sharma, M., Bisht, P., & Singh, S. (2021). Explaining the factors influencing consumer perception, adoption 
+readiness and Perceived usefulness towards digital transactions: online retailing experience of Millennials in 
+India. Journal of Operations and Strategic Planning. 
+Joshi, S., Sharma, M., Das, R. P., Muduli, K., Raut, R., Nar khede, B. E., Shee, H., & Misra, A. (2022). Assessing 
+effectiveness of humanitarian activities against COVID -19 disruption: the role of blockchain -enabled digital 
+humanitarian network (BT-DHN). Sustainability, 14(3), 1904. 
+Joshi, S., Sharma, M., Kumar, S.,  & Pant, M. (2019). Co -creation among small scale tourism firm: Role of 
+Information Communication and Technology in Productivity and Sustainability. International Journal of 
+Strategic Information Technology and Applications (IJSITA). 
+Joshi, S., Singh, R. K., & Sharma, M. (2020b). Sustainable agri-food supply chain practices: Few empirical evidences 
+from a developing economy. Global Business Review, 0972150920907014 
+Kalinic, I., & Brouthers, K. D. (2022). Entrepreneurial orientation, export channel selection , and export 
+performance of SMEs. International Business Review, 31(1), 101901. 
+Kamble, S. S., Gunasekaran, A., Parekh, H., & Joshi, S. (2019). Modeling the internet of things adoption barriers in 
+food retail supply chains. Journal of Retailing and Consumer Services, 48, 154–168. 
+Kaneko, Y. (2022). Empirical Approach to the Pandemic -Based Crisis. In  Insolvency Law Reforms in Asian 
+Developing Countries (pp. 63-71). Springer, Singapore 
+Karim, M. S., Nahar, S., & Demirbag, M. (2022). Resource-Based Perspective on ICT Use and Firm Performance: A 
+Meta-analysis Investigating the Moderating Role of Cross -Country ICT Development Status.  Technological 
+Forecasting and Social Change, 179, 121626.

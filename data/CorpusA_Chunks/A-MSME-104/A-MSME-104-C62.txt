@@ -1,0 +1,55 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-104-C62
+Parent Doc ID: A-MSME-104
+Page Range: Page 38
+Word Range: 17225 - 17474
+Word Count: 250
+--------------------
+
+[Page 38]
+UNDESA – Report on MSMEs and the Sustainable Development Goals  
+ 
+38 
+New business models/solutions and opportunities for MSMEs that will help achieve the SDGs.  An integrated 
+global economy as envisaged in this goal is associated with the 
+rise of global value chains (GVCs) . GVCs  and the digital 
+transformation offer new opportunities for MSMEs to integrate 
+into the global economy. Greater flexibility and the capacity to 
+customize and differentiate products can give MSMEs a 
+competitive advantage in global markets, as they are able to 
+respond rapidly to changing market conditions and to test with 
+shorter product life cycles. Some niche international markets 
+are dominated by MSMEs, and innovative small enterprises 
+are often key partners of larger multinationals in developing 
+new products or serving new markets. For example, in 
+Germany, small - and mid -size companies hold between 70  
+percent and 90  percent of global market share in some 
+specialized manufacturing segments and account for the bulk of  the German international trade surplus. 189 
+However, MSME constraints in internationalising include access to information, skills, technology, finance, trade 
+facilitation, and connectivity. Evidence shows that MSMEs are lagging behind in adopting digital technologies.190 
+While in most countries, the divide is narrow for simple co nnectivity and web presence, the gap broadens when 
+considering participation in e -commerce and, especially, more sophisticated applications. In many countries, a 
+large adoption gap is also observed for cloud computing , for instance  the renting of computer power from an 
+external provider, which can allow smaller firms to use big data, while overcoming some of the barriers 
+associated with the high fixed costs of ICT investmen t.191 MSMEs are also disproportionately affected by trade 
+facilitation/administrative costs, business taxes and compliance in export destinations compared to larger firms. 
+Limited access to credit faced by MSMEs and start -ups further exacerbate the disadvantages of MSMEs to 
+integrate in GVCs.192  Responding to these challenges, MSMEs will help achieve the broader vision envisaged in 
+international cooperation on trade and investment under this goal.  
+Business examples supporting the delivery of  SDG 17 
+ 
+Bluetown.193 This Danish company founded in 2012 with 60 employees has developed a wi -fi solution that runs entirely 
+on solar energy. In addition to internet access, wi -fi hotspots allow access to a local cloud so local authorities, private 
+companies, and NGOs can post free learning material to the communities. The provision of internet promotes e-health, e-
+commerce and e -learning in regions where Bluetown has projects. Bluetown was a participant of the UNDP SDG 
+Accelerator programme and was the joint winner of the USA ID WomenConnect Challenge, which provides finance for 
+projects that break down the digital gender divide. 
+Ushahidi.194 The ‘data revolution’ required for SDGs opens opportunities for MSMEs in data analytics. One such example 
+is the social enterprise Ushahidi  which applies data collection as part of its business model.  Ushahidi develops and 
+supports information technology tools that promote transparency and accountability , employing data pulled from user -
+submitted reports. It was originally established as a K enya-based website that tracked information about the scope and 
+locations of post-election violence in 2007 and 2008. Since then, it has developed a technical platform for collating and 
+mapping many types of information submitted by the public. This tool has been used to coordinate information-sharing for 
+disaster response and crisis management in Haiti and Sao Paulo, among other locations. The UN’s Office for the 
+Coordination of Humanitarian Affairs has worked with Ushahidi to support crisis mapping in con flict, including during the 
+2011 Libyan crisis.

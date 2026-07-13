@@ -1,0 +1,92 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C62
+Parent Doc ID: A-MSME-102
+Page Range: Page 74
+Word Range: 17511 - 17836
+Word Count: 326
+--------------------
+
+[Page 74]
+74
+In light of these insights, the Chemicals sector portrays a dynamic landscape where both 
+upstream and downstream activities coexist and contribute significantly to the overall value 
+addition. The dominance of basic chemical production, coupled with the growth in other 
+chemical products, highlights the sector's adaptability and competitiveness. The relatively 
+smaller share of enterprises involved in the manufacture of man-made fibres suggests a 
+specialized niche within the industry, warranting focused attention in understanding its unique 
+dynamics. This nuanced analysis underscores the importance of considering the diverse 
+composition of enterprises when evaluating the performance and trends within the Chemicals 
+sector.
+Workforce Trends 
+In the fiscal year 2022-23, the chemical industry in India was analyzed across two distinct 
+clusters: upstream chemical and downstream chemical. The cumulative workforce within 
+these clusters amounted to approximately 8.4 lakh workers, constituting 0.34% of the total 
+payroll across all clusters. 
+In the downstream chemical cluster
+ » Virudhunagar in Tamil Nadu emerged as the district with the highest workforce share at 
+16.31%, followed by Thane in Maharashtra (7.83%), Bharuch (6.36%), and Valsad (4.73%) 
+in Gujarat. Notably, these districts witnessed substantial increases in workforce shares 
+compared to 2017-18. 
+0 10,000 20,000 30,000 40,000 50,000 60,000 70,000 80,000 90,000
+Number of workers
+₹ 0
+₹ 100,000
+₹ 200,000
+₹ 300,000
+₹ 400,000
+₹ 500,000
+₹ 600,000
+₹ 700,000
+₹ 800,000
+₹ 900,000
+₹ 1,000,000
+₹ 1,100,000
+Average wages
+Aurangabad
+Gurgaon
+29
+Raigarh Udaipur
+BangaloreJind
+Dhar
+Nashik
+Mumbai Suburban Ahmedabad
+Sangrur
+Nagpur
+Chittoor ThaneKrishnaHugliIndore
+Haora
+DarjilingRaisen Buldana
+0 50,000 1,00,000 1,50,000 2,00,000 2,50,000
+Number of workers
+₹ 0
+₹ 50,000
+₹ 100,000
+₹ 150,000
+₹ 200,000
+₹ 250,000
+₹ 300,000
+₹ 350,000
+₹ 400,000
+Average wages
+Pune
+Kancheepuram
+Aurangabad
+29
+SataraKolar
+Jammu North West Delhi
+Gurgaon ChennaiRaigarh
+Thane
+Solan
+BangaloreCoimbatore Ghaziabad
+Meerut
+AhmedabadKanpur Nagar
+Krishna
+Alwar
+Bhopal North Twenty Four Parganas
+Indore
+South Twenty Four ParganasSalem Surat
+Guntur
+Raisen LucknowAnantapurRaipurBastar
+Bara Banki
+Top 100 Districts - Downstream 
+Chemical Clusters
+Top 100 Districts - Upstream Chemical ClusterFig. 13

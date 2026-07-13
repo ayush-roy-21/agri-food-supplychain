@@ -1,0 +1,72 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C15
+Parent Doc ID: A-RES-100
+Page Range: Page 22 to Page 23
+Word Range: 4346 - 4730
+Word Count: 385
+--------------------
+
+[Page 22]
+Spreadsheets
+Spreadsheets &
+Carbon Software
+Spreadsheets &
+Custom Tools
+Spreadsheets,
+Carbon Software
+& Custom Tools
+Carbon Software
+& Custom Tools
+ Carbon Software
+ Custom Tools
+Scope 3 Tools Used
+In examining how companies track their
+Scope 3 emissions, it is clear that
+spreadsheets remain the primary tool (66.1%)
+for measurement across a significant share of
+companies, regardless of size (see Figure 7).
+22
+Tools and Technologies for Measurement
+Figure 7. Tools used to measure Scope 3 emissions  
+(multiple response)
+Figure 8. Regional Breakdown of Tools Used to Measure Scope 3 Emissions (multiple response) State of Supply Chain Sustainability 2025
+This reliance indicates that the process is still
+in its infancy, with manual data handling and
+a lack of integrated systems-of-record for
+emissions data. Regional differences are
+stark: in North America, 50% of companies
+rely on spreadsheets, compared to just ~32%
+in Europe. European companies demonstrate
+a higher adoption of Life Cycle Assessment
+(LCA) tools and custom-built solutions (~36%
+vs. ~16% in North America) (see Figure 8).
+The continued dependence on spreadsheets
+raises risks around data quality, auditability,
+and scalability. Transitioning to standardized
+data models and integrated systems that can
+connect with enterprise platforms (ERP,
+logistics, procurement) will be critical to
+reduce errors and improve supplier data
+integration.
+
+[Page 23]
+23
+Data Sources for Measurement (North America vs. Europe)
+Figure 9. Data Sources for Scope 3 Measurement (multiple response)
+The survey also reveals distinct regional patterns in data sou rces (see Figure 9). North American companies
+rely most on fin ancial data and industry averages, methods that provide broad comparability but fail to
+capture supplier-specific improvements. European firms, by contrast, lean more heavily on supplier data,
+indicating stronger engagement with upstream partners.
+This matters because financial and industry-average methods
+that North America is relying on provide broad comparability but
+are insufficient for accurately estimating emissions and risk
+overlooking real emission reductions at the supplier level. One of
+the main challenges with fin
+ancial-based, industry-average
+methods is that they prioritize cost over actual emissions, which
+disincentivizes investments in sustainability. 
+Issue No.06
+For example, if a company purchases a more sustainable product at a higher cost, its reported emissions may
+actually rise, even though its true environmental impact decreases . Companies that integrate supplier data
+are better positioned to capture progress, target interventions, and manage risks across their value chains. 
+6

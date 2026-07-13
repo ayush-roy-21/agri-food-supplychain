@@ -1,87 +1,56 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-101-C25
 Parent Doc ID: A-EUDR-101
-Page Range: Page 51 to Page 52
-Word Range: 40090 - 41311
-Word Count: 1,222
+Page Range: Page 7
+Word Range: 6430 - 6679
+Word Count: 250
 --------------------
 
-[Page 51]
-(4) Ar ticle 7 is replaced by the f ollowi ng:
-‘ Ar ticle 7
-Exa mination of professional competence
-1. The examination of professional compet ence refer red to in Ar ticle 6 shall guarant ee the necessar y level of 
-theoretical knowledg e of subjects relevant to statut or y audit and the ability to apply such knowledg e in practice. At 
-least par t of that examination shall be wr itt en.
-2. In order f or the statutor y auditor to also be approved to car r y out the assurance of sustainability repor ting, the 
-examination of professional compet ence refer red to in Ar ticle 6 shall guarantee the necessar y level of theoretical 
-knowle dge of subjects relevant to the assurance of sustainability repor ting and the ability to apply such knowledg e in 
-practice. At least par t of that examination shall be wr itt en.’;
-(5) in Ar ticle 8, the f ollowi ng paragraph is added:
-‘3. In order f or the statut or y auditor to also be appro ved to car r y out the assurance of sustainability repor ting, the 
-test of theoretical kno wledge refe r red to in paragraph 1 shall also cover at least the f ollowi ng subjects:
-(a) legal requirements and standards relating to the preparation of annual and consolidat ed sustainability repor ting;
-(b) sustainability analysis;
-(c) due diligence processes with regard to sustainability matte rs;
-(d) legal requirements and assurance standards f or the sustainability repor ting refe r red to in Ar ticle 26a.’;
-(6) in Ar ticle 10(1), the f ollowi ng subparagraph is added:
-‘In order f or the statutor y auditor or the trainee to also be approved to car r y out the assurance of sustainability 
-repor ting, at least eight months of the practical training ref er red to in the fi rst subparagraph shall be on the 
-assurance of annual and consolidated sustainability repor ting or on other sustainability-related ser vices.’;
-(7) Ar ticle 12 is replaced by the f ollowing:
-‘ Ar ticle 12
-Combination of practical training and theoretical instr uction
-1. Member States ma y provid e that per iods of theoretical instr uction in the subjects refe r red to in Ar ticle 8(1) 
-and (2) shall count to wards the per iods of profes sional activity refer red to in Ar ticle 11, provided that such 
-instr uction is attest ed by an examination recognised by the Member State . Such instr uction shall not last less than 
-one ye ar , nor ma y it reduce the per iod of profes sional activity by more than f our ye ars.
-2. The per iod of professional activity and practical training shall not be shor ter than the course of theoretical 
-instr uction tog ether with the practical training required under the f irst subparagraph of Ar ticle 10(1).’;
-(8) in Ar ticle 14(2), the f ollowi ng subparagraph is added:
-‘In order f or the statut or y auditor to also be approved to car r y out the assurance of sustainability repor ting, the 
-apti tude test refe r red to in the fi rst subparagraph shall cover the statut or y auditor ’s adequate kno wledge of the la ws 
-and regulations of the host Member Stat e in so f ar as it is relevant to the assurance of sustainability repor ting.’;
+[Page 7]
+Member Stat es should be able to inf or m the Commission on an annual basis of the subsidiar y under takings or 
+branches of the third-countr y under takings that fulf illed the publication requirement and of the cases where a 
+repor t was published but the subsidiar y under taking or branch of the third-countr y under taking has state d that it 
+could not get the necessar y inf or mation from the third-countr y under taking. The Commission should make 
+publicly av ailable on its website a list of the third-countr y under takings that hav e published a sustainability repor t.
+(21) Consider ing the growing relevance of sustainability-related r isks and taking into account that small and medium- 
+sized under takings whose secur ities are admitted to trading on a regulate d mark et in the U nion compr ise a 
+signif icant propor tion of all under takings whose secur ities are admitted to trading on a regulate d mark et in the 
+U nion, in order to ensure inv estor prot ection, it is appropr iat e to require that also small and medium-sized 
+under takings, excep t micro under takings, whose secur ities are admitte d to trading on a regulated mark et in the 
+U nion disclose inf or mation on sustainability matt ers. The introduction of such a requirement will help to ensure 
+that fi nancial mark et par ticipants can include smaller under takings whose secur ities are admitt ed to trading on a 
+regulated market in the Uni on in inv estment por tf olios, on the basis that the y repor t the sustainability inf or mation 
+that financia l market par ticipants need.
+It will theref ore help to prot ect and enhance the access of smaller under takings whose secur ities are admitte d to 
+trading on a regulate d mark et in the U nion to financia l capital, and av oid discr imination ag ainst such under takings 
+on the par t of financia l market par ticipants. The introduction of the requirement f or small and medium-sized 
+under takings, excep t micro under takings, whose secur ities are admitte d to trading on a regulated mark et in the 
+U nion to disclose inf or mation on sustainability matte rs is also necessar y to ensure that fi nancial market par ticipants 
+hav e the inf or mation they need from inv estee under takings to be able to compl y with their own sustainability 
+disclosure requirements laid down in Regulation (EU) 2019/2088. Small and medium-sized under takings whose 
+secur ities are admitt ed to trading on a regulated market in the U nion should be given the possibility of repor ting in 
+accordance with standards that are propor tionat e to their capacities and resources, and relevant to the scale and 
+compl exity of their activities. Small and medium-sized under takings whose secur ities are not admitt ed to trading on 
+a regulated mark et in the Uni on should also ha ve the possibility of choosing to use such propor tionat e standards on 
+a v oluntar y basis.
+The sustainability repor ting standards f or small and medium-sized under takings will constitute a referen ce f or 
+under takings that are within the scope of the requirements introduced by this amending Directive regar ding the 
+level of sustainability inf or mation that they could reasonably request from small and medium-sized under takings 
+that are suppliers or clients in the value c hains of such under takings. Small and medium-sized under takings whose 
+secur ities are admitted to trading on a regulated mark et in the U nion should, in addition, be given sufficient time to 
+prepare f or the application of the provisions requir ing sustainability repor ting, due to their smaller size and more 
+limited resources, and taking account of the difficult economic circumstances created by the C O VID-19 pandemic. 
+Theref ore, the pro visions on cor porat e sustainability repor ting as regards small and medium-sized under takings, 
+excep t micro under takings, whose secur ities are admitted to trading on a regulate d market in the Uni on should 
+apply f or financia l years star ting on or af ter 1 Januar y 2026 . Follo wing that date, f or a transitional per iod of two 
+ye ars, small and medium-sized under takings whose secur ities are admitte d to trading on a regulated market in the 
+U nion should hav e the possibility of opting-out from the sustainability repor ting requirements laid down in this 
+amending Directive, provi ded the y br ief ly stat e in their management repor t why the sustainability inf or mation has 
+not been provi ded.
+(22) Member Stat es should be free to assess the im pact of their national transposition measures on small and medium- 
+sized under takings, in order to ensure that they are not dispropor tionately affe cted, with specific attention to be 
+given to micro-under takings and to av oiding an unnecessar y administrative burden. Member Stat es should consider 
+introducing measures to suppor t small and medium-sized under takings in applying the sustainability repor ting 
+standards.
 EN
-Offi cial Jour nal of the European Uni on 16.12.2022 L 322/65
-
-[Page 52]
-(9) the f ollo wing Ar ticle is inser ted :
-‘ Ar ticle 14a
-Statu t or y audit ors appro v ed or recognised before 1 Januar y 2024 and persons undergoing the appro val 
-process f or st atutory audit ors on 1 Januar y 2024
-Member Stat es shall ensure that statut or y auditors that are appro ved or recognised to car r y out statutor y audits bef ore 
-1 Januar y 2024 are not subject to the requirements of Ar ticle 7(2), Ar ticle 8(3), the second subparagraph of Ar ticle 
-10(1) and the f our th subparagraph of Ar ticle 14(2).
-Member Stat es shall ensure that persons that on 1 Januar y 2024 are undergoing the appro val process provided f or in 
-Ar ticles 6 to 14 are not subject to the requirements of Ar ticle 7(2), Ar ticle 8(3), the second subparagraph of Ar ticle 
-10(1) and the f our th subparagraph of Ar ticle 14(2), provided the y compl ete that process by 1 Januar y 2026 .
-Member Stat es shall ensure that statutor y auditors approved bef ore 1 Januar y 2026 who wish to car r y out the 
-assurance of sustainability repor ting acquire the necessar y knowledg e of sustainability repor ting and the assurance of 
-sustainability repor ting, including of the subjects list ed in Ar ticle 8(3), via the continuing education refer red to in 
-Ar ticle 13.’;
-(10) Ar ticle 16 is amended as f ollows :
-(a) paragraph 1 is replaced by the f ollowi ng:
-‘1. As regards statutor y auditors , the public register shall contain at least the f ollowing inf or mation:
-(a) name, address and registration number;
-(b) if applicable, the name, address, website address and registration number of the audit fir m(s) by whic h the 
-statut or y auditor is emplo y ed, or with whom he or she is associated as a par tner or other wise;
-(c) whether the statut or y auditor is also approved f or car r ying out the assurance of sustainability repor ting;
-(d) all other registration(s) as statut or y auditor with the compet ent author ities of other Member States and as 
-auditor with third countr ies, including the name(s) of the registration author ity(ies), and, if applicable, the 
-registration number(s), and an indication of whether the registration concer ns the statut or y audit, the 
-assurance of sustainability repor ting, or both.’;
-(b) in paragraph 2, the f ollowi ng subparagraph is added:
-‘ The register shall indicate whether third-countr y auditors as refer red to in the fi rst subparagraph are register ed f or 
-car r ying out the statutor y audit, the assurance of sustainability repor ting, or both.’;
-(11) Ar ticle 17 is amended as f ollows :
-(a) in paragraph 1, point (e) is replaced by the f ollo wing:
-‘(e) name and registration number of all statutor y auditor s emplo y ed by , or associated as par tners or other wise 
-with, the audit fir m, and an indication of whether they are also approved f or car r ying out the assurance of 
-sustainability repor ting;’;
-(b) in paragraph 1, point (i) is replaced by the f ollowing:
-‘(i) all other registration(s) as audit fi r m with the compet ent author ities of other Member States and as audit 
-entity with third countr ies, including the name(s) of the registration author ity(ies), and, if applicable, the 
-registration number(s), and an indication of whether the registration concer ns the statut or y audit, the 
-assurance of sustainability repor ting, or both.’;
-EN
-Offi cial Jour nal of the European Uni on L 322/66 16.12.2022
+Offi cial Jour nal of the European Uni on 16.12.2022 L 322/21

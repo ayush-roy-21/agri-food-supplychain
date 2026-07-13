@@ -1,112 +1,60 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-101-C13
 Parent Doc ID: A-EUDR-101
-Page Range: Page 25 to Page 26
-Word Range: 21779 - 23549
-Word Count: 1,771
+Page Range: Page 4
+Word Range: 3134 - 3383
+Word Count: 250
 --------------------
 
-[Page 25]
-out in Ar ticle 6 of Directive 2007/36/EC in order to table draf t resolutions to be adopt ed in the g eneral meeting, 
-requir ing that, fi rstly , an accredit ed third par ty that does not belong to the same audit fi r m or network as the 
-statut or y auditor or audit fi r m car r ying out the statut or y audit prepare a repor t on cer tain elements of the 
-sustainability repor ting and, secondly , that such repor t be made av ailable to the g eneral meeting.
-For under takings subject to the sustainability repor ting requirements introduced by this amending Directive and that 
-do not f all within the scope of Ar ticle 6 of Directive 2007/36/EC, shareholders which represent more than 5 % of the 
-votin g r ights or 5 % of the capital of the under taking, acting individually or collectively , should also be given the 
-r ight to table a draf t resolution to be adopt ed in the g eneral meeting, requir ing that, firstly , an accredite d third par ty 
-that does not belong to the same audit fi r m or netw ork as the statut or y auditor or audit fir m car r ying out the 
-statut or y audit prepare a repor t on cer tain elements of the sustainability repor ting and, secondly , that such repor t 
-be made av ailable to the ge neral meeting.
-(76) Directive 2006/43/EC requires Member State s to ensure that each public-interest entity has an audit committee, and 
-specifi es its tasks with regard to the statut or y audit. That audit committee should be assigned with cer tain tasks with 
-regard to the assurance of sustainability repor ting. Those tasks should include the obligation to inf or m the 
-administrative or super visor y body of the public-inte rest entity of the outcome of the assurance of sustainability 
-repor ting, and to explain how the audit committee contr ibut ed to the integr ity of sustainability repor ting and what 
-the role of the audit committee was in that process. Member Stat es should be able to allo w functions assigned to the 
-audit committee relating to sustainability repor ting and relating to the assurance of sustainability repor ting, to be 
-performe d by the administrative or super visor y body as a whole or by a dedicated body established by the 
-administrative or super visor y body .
-(77) Directive 2006/43/EC contains requirements f or registration and oversight of third-countr y auditors and audit 
-entities. T o ensure that a consistent framewor k exists f or the work of auditors in both the statutor y audit and the 
-assurance of sustainability repor ting, it is necessar y to exte nd those requirements to the assurance of sustainability 
-repor ting.
-(78) Regulation (EU) No 537/2014 of the European Parliament and of the Council (
-37
-) applies to statut or y auditors and 
-audit fi r ms car r ying out statutor y audits of public-interest entities. T o ensure the independence of the statutor y 
-auditor when car r ying out a statut or y audit, that Regulation establishes a limit concer ning the fees f or other ser vices 
-that the statutor y auditor can obtain. It is impor tant to clar ify that the assurance of sustainability repor ting should 
-not count in the calculation of that limit. In addition, Regulation (EU) No 537/2014 prohibits the provision of 
-cer tain non-audit ser vices o ver cer tain per iods when the statut or y auditor is car r ying out the statutor y audit. 
-Ser vices related to the preparation of sustainability repor ting, including any consulting ser vices, should also be 
-considered as prohibit ed ser vices o ver the per iod prescr ibed in Regulation (EU) No 537/2014. The prohibition of 
-the provision of such ser vices should apply in all cases where the statutor y auditor car r ies out the statutor y audit of 
-fi nancial stat ements.
-T o ensure the independence of the statut or y auditor , cer tain non-audit ser vices should also be prohibit ed when the 
-statut or y auditor is car r ying out the assurance of sustainability repor ting. Regulation (EU) No 537/2014 requires 
-statut or y auditors to repor t ir regular ities to the audite d entity and, under cer tain circumstances, to author ities 
-designate d by the Member Stat es as responsible f or inv estigating such ir regular ities. Such oblig ation should also be 
-extende d, as appropr iate, to statutor y auditors and audit fir ms as regards their w ork on the assurance of 
-sustainability repor ting of public-interest entities.
-(
-37
-) Regulation (EU) No 537/2014 of the European Parliament and of the Council of 16 Apr il 2014 on specific requirements regarding 
-statutor y audit of public-int erest entities and repealing Commission Decision 2005/909/EC (OJ L 158, 27.5.2014, p. 77).
+[Page 4]
+(9) If under takings car r ied out better sustainability repor ting, the ultimate beneficiar ies w ould be individual citizens and 
+sav ers, including trade unions and w orke rs ’ representatives who would be adequate ly inf or med and theref ore able to 
+bette r engag e in social dialogue. Sav ers who want to inve st sustainably will hav e the oppor tunity to do so, while all 
+citizens w ould benefi t from a stable, sustainable and inclusive economic system . T o realise such benefits, the 
+sustainability inf or mation disclosed in the annual repor ts of under takings first has to reach two pr imar y groups of 
+users. The first group of users consists of invest ors, including asset managers, who want to bette r understand the 
+r isks and oppor tunities that sustainability issues pose f or their inv estments and the impact s of those investments on 
+people and the en vironment. The second group of users consists of civil society actors , including non-go ver nmental 
+org anisations and social par tners, which wish to bett er hold under takings to account f or their im pacts on people and 
+the environment. Other stak eholders might also make use of sustainability inf or mation disclosed in annual repor ts, 
+in par ticular to f oster comparab ility across and within mark et sectors .
+The business par tners of under takings, including custome rs, might rely on sustainability inf or mation to understand 
+and, where necessar y , repor t on their sustainability r isks and impacts throughout their own value chains. P olicy 
+make rs and en vironmental agencies can use such inf or mation, in par ticular on an aggreg ate basis, to monitor 
+en vironmental and social trends, to contr ibut e to en vironmental accounts, and to inf or m public policy . Few 
+individual citizens and consumers directly consult under takings’ annual repor ts, but the y might use sustainability 
+inf or mation indirectly , f or exam ple, when consider ing the advice or opinions of fi nancial advisers or non- 
+governmental orga nisations. Many inve stors and asset managers purchase sustainability inf or mation from third- 
+par ty data providers, who collect inf or mation from var ious sources, including public cor porat e repor ts.
+(10) The mark et f or sustainability inf or mation is rapidly gro wing, and the role of third-par ty data provid ers is gainin g in 
+imp or tance given the new oblig ations that inve stors and asset manage rs need to fulfil. With the increased av ailability 
+of disaggregat ed data, sustainability inf or mation should come at a more reasonable cost. The amendments to 
+Directive 2013/34/EU provided f or in this amending Directive are expecte d to increase the comparability of data 
+and har monise standards. It is expecte d that the practices of third-par ty data providers will impro ve and that 
+exper tise will grow in this area, with a poten tial f or job creation.
+(11) There has been a ver y significant increase in demand f or cor porate sustainability inf or mation in recent years, 
+especially on the par t of the inve stment community . That increase in demand is dr iven by the c hanging nature of 
+r isks to under takings and growing invest or awar eness of the financia l imp lications of those r isks . That is especially 
+the case f or climat e-related financial r isks . There is also gro wing awar eness of the r isks and oppor tunities f or 
+under takings and f or investments resulting from other en vironmental issues, such as biodiversity loss, and from 
+health and social issues, including child labour and f orced labour . The increase in demand f or sustainability 
+inf or mation is also dr iven by the growth in inv estment products that explicitly seek to meet cer tain sustainability 
+standards or achi eve cer tain sustainability objectives and to ensure coherence with the ambition of the P ar is 
+Agreement under the U nited Nations Framew ork Conv ention on Climate Change adopt ed on 12 December 2015
+(the ‘Pari s Agreement ’), the UN Conv ention on Biological Diversity and U nion policies. P ar t of that increase is the 
+logical consequence of previously adopt ed Union legislation, notably Regulations (EU) 2019/2088 and (EU) 
+2020/852. Some of that increase would have happened in an y case, due to fa st-changing citizen aware ness, 
+consumer preferences and mark et practices. The CO VID-19 pandemic has fur ther accelerat ed the increase in users’ 
+inf or mation needs, in par ticular as it has exposed the vulnerabilities of work ers and under takings’ value chains. 
+Inf or mation on en vironmental im pacts is also relevant in the context of mitigating future pandemics, with human 
+disturbance of ecosystems being increasing ly linked to the occur rence and spread of diseases.
+(12) U nder takings themselves stand to benefit from car r ying out high-quality repor ting on sustainability matt ers. The 
+gro wth in the number of investment products that aim to pursue sustainability objectives means that good 
+sustainability repor ting can enhance an under taking’s access to financial capital. Sustainability repor ting can help 
+under takings to identify and manag e their o wn r isks and oppor tunities relat ed to sustainability matt ers. It can 
+provid e a basis f or bett er dialogue and communication between under takings and their stakeholders, and can help 
+under takings to impro ve their reputation. Moreover , a consistent basis f or sustainability repor ting in the f or m of 
+sustainability repor ting standards w ould lead to relevant and sufficient inf or mation being provi ded and thus 
+signif icantly decrease ad hoc requests f or inf or mation.
 EN
-Offi cial Jour nal of the European Uni on 16.12.2022 L 322/39
-
-[Page 26]
-(79) Directive 2004/109/EC assigns to national super visors the task of enf orcing compl iance with cor porat e repor ting 
-requirements by under takings whose secur ities are admitted to trading on a regulated market in the U nion. 
-Ar ticle 4 of that Directive specifi es the content to be included in the annual fi nancial repor ts, but lacks an explicit 
-referen ce to Ar ticles 19a and 29a of Directive 2013/34/EU, whic h require the preparation of a non-financial 
-state ment and a consolidated non-fi nancial statement. As a consequence, national compet ent author ities of some 
-Member Stat es hav e no leg al mandate to super vise those non-fi nancial statements, especially where those non- 
-fi nancial statements are published in a separate repor t, outside of the annual fi nancial repor t, whic h Member States 
-ma y cur rently allow . It is theref ore necessar y to inser t into Ar ticle 4(5) of Directive 2004/109/EC a referen ce to 
-sustainability repor ting. It is also necessar y to require that the persons responsible within the issuer confir m in the 
-annual fi nancial repor t that, to the best of their kno wledge, the manage ment repor t is prepared in accordance with 
-the sustainability repor ting standards.
-In addition, given the novel c haracter of the sustainability repor ting requirements, ESMA should issue guidelines f or 
-national compet ent author ities to promote converg ent super vision of sustainability repor ting by issuers subject to 
-Directive 2004/109/EC. Those guidelines should only apply to the super vision of under takings whose secur ities are 
-admitte d to trading on a regulated mark et in the Union.
-(80) In order to specify the requirements set out in this amending Directive, the po wer to adopt acts in accordance with 
-Ar ticle 290 of the T reaty on the Functioning of the European U nion should be delega ted to the Commission in 
-respect of establishing sustainability repor ting standards and establishing standards f or the assurance of 
-sustainability repor ting. It is of par ticular im por tance that the Commission car r y out appropr iate consultations 
-dur ing its preparatory w ork, including at exper t level, and that those consultations be conduct ed in accordance with 
-the pr inciples laid down in the Inte r institutional Agreement of 13 Apr il 2016 on Bett er La w-Making (
-38
-) . In 
-par ticular , to ensure equal par ticipation in the preparation of delegat ed acts, the European Parliament and the 
-Council receive all documents at the same time as Member Stat es ’ exper ts, and their exper ts systematically hav e 
-access to meetings of Commission exper t groups dealing with the preparation of delegat ed acts.
-(81) The Commission should submit a repor t to the European P arliament and to the Council on the im plementation of 
-this amending Directive, including, inte r alia: an assessment of the achi evement of the goals of this amending 
-Directive, including the converg ence of repor ting practices between Member Stat es; an assessment of the number of 
-small and medium-sized under takings using sustainability repor ting standards v oluntar ily ; an assessment of whether 
-and how the scope of the repor ting requirements should be fur ther exte nded, in par ticular in relation to small and 
-medium-sized under takings and to third-countr y under takings operating directly on the U nion inte r nal mark et 
-without a subsidiar y under taking or a branch on the terr itory of the U nion; an assessment of the im plementation of 
-the repor ting requirements on subsidiar y under takings and branches of third-countr y under takings introduced by 
-this amending Directive, including an assessment of the number of third-countr y under takings whic h hav e a 
-subsidiar y under taking or a branch subject to repor ting requirements in accordance with Directive 2013/34/EU; an 
-assessment of the enf orcement mechanis m and of the relevant thresholds set out in Directive 2013/34/EU; an 
-assessment of whether and how to ensure the accessibility f or people with disabilities to the sustainability repor ting 
-published by under takings falling under the scope of this amending Directive.
-The repor t on the im plementation of this amending Directive should be published by 30 Apr il 2029 and ever y three 
-ye ars thereaf ter , and should be accompanied , if appropr iat e, by legislative proposals. By 31 December 2028 , the 
-Commission should review and repor t on the level of concentration of the sustainability assurance mark et. The 
-review should take into account the national regimes applicable to independent assurance ser vices provi ders and 
-assess whether and to what extent such national regimes contr ibute to opening up the assurance market. By 
-31 December 2028 , the Commission should assess possible legal measures to ensure suffic ient diversification of the 
-sustainability assurance mark et and appropr iate sustainability repor ting quality . The repor t on the level of 
-concentration of the sustainability assurance market should be transmitted to the European P arliament and the 
-Council by 31 December 2028 and be accompan ied, if appropr iate, by legislative proposals.
-(
-38
-) OJ L 123, 12.5.2016, p. 1.
-EN
-Offi cial Jour nal of the European Uni on L 322/40 16.12.2022
+Offi cial Jour nal of the European Uni on L 322/18 16.12.2022

@@ -1,288 +1,72 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-106-C03
 Parent Doc ID: A-RES-106
-Page Range: Page 6 to Page 9
-Word Range: 2878 - 4079
-Word Count: 1,202
+Page Range: Page 2
+Word Range: 501 - 868
+Word Count: 368
 --------------------
 
-[Page 6]
-• Negative: when the study recorded a statistically significant decline in the indicator among certified 
-farmers compared to non-certified farmers, or when the authors clearly stated adverse change in the 
-indicator associated with VSS adoption.
-The data extracted from the studies were analysed using descriptive statistical techniques, including 
-frequency distributions, to investigate the main characteristics of our dataset, such as the most common 
-certified commodities and the main SDGs addressed by VSSs. The analysis was conducted using R software 
-(version 2023.06.1 + 524) and visualisations, such as bar charts and tables, were also provided accordingly (R 
-Core Team, 2023 ).
-It should be noted that the vote-counting approach identifies general associations between VSS 
-adoption and SLF indicators but does not establish causality. As several studies relied on self-reported 
-outcomes and cross-sectional designs, attributing direct cause-effect relationships between VSS adop -
-tion and SLF indicators remains challenging. Moreover, heterogeneity in farm characteristics, self- 
-selection into certification, the type of local support services available, and international market 
-conditions may mediate or confound the observed effects on the selected indicators. These limitations 
-highlight the need for more rigorous impact studies to better identify the causal effects of VSS 
-adoption.
-3. Results
-The results of the analysis reflected the broad scope of this research, which covers various value chains 
-across distinct agroecological zones in Vietnam and Ghana. Figure 2 showed the distribution of crop-based 
-food commodities considered in the reviewed publications. Cocoa was the most frequently studied 
-Records iden
-tified from
-:
-Evidensia
- (n = 49)
-Duplicate rec
-ords remove
-d  
-(n = 1)
-Records remo
-ved for oth
-er 
-r
-e
-as
-on
-s (n = 1)*
-Studies sc
-reened an
-d assesse
-d for 
-eligibili
-ty (n = 47
-)
-Studies ex
-cluded:
-Criterion 1
- (n = 10)
-Criterion 2
- (n = 7)
-Criterion 3
- (n = 4)
-Studies i
-ncluded in the
- systemic
- 
-literatur
-e review
-(n = 26)
-I
-d
-e
-n
-t
-i
-f
-i
-c
-a
-t
-i
-o
-n
-S
-c
-r
-e
-e
-n
-i
-n
-g
-I
-n
-c
-l
-u
-d
-e
-d
-Figure 1. Publications selection process based on PRISMA 2020 flow diagram for new systematic reviews. *Books were 
-excluded, with preference given to scientific articles and reports.
-INTERNATIONAL JOURNAL OF AGRICULTURAL SUSTAINABILITY
- 5
-
-[Page 7]
-Table 3. Main features of the studies included in the analytical assessment.                     
-Reference Country Commodity VSS
-Gender 
-parity
-Labour 
-rights
-Capacity 
-building Yield Costs Income
-Market 
-access
-Value chain 
-integration
-Child  
-labour
-Land  
-access
-Tools & 
-equipment
-Access  
-to credit Biodiversity
-Water 
-management
-Use of  
-agrochemicals
-Addae- 
-Boadu 
-et al. 
-( 2017 )
-Ghana Cocoa RA,UTZ x x
-Akrong 
-et al. 
-( 2023 )
-Ghana Mango GlobalGAP x x x
-Akrong 
-et al. 
-( 2022 )
-Ghana Mango GlobalGAP x x x
-Ankuyi 
-et al. 
-( 2023 )
-Ghana Cocoa RA x x x x x x x x x x
-Bandanaa 
-et al. 
-( 2021 )
-Ghana Cocoa RA x x x x x x x x
-Bennett 
-et al. 
-( 2013 )
-Ghana Cocoa UTZ x x x x x x x x x x x x x
-Brako et al. 
-( 2021a )
-Ghana Cocoa, palm oil RA,UTZ, 
-RSPO
-x x
-Brako et al. 
-( 2021b )
-Ghana Cocoa, palm oil RA,UTZ, 
-RSPO
-x x x x x x x x x
-Doanh 
-et al. 
-( 2018 )
-Vietnam Tea NA x
-Fenger 
-et al. 
-( 2017 )
-Ghana Cocoa RA x x x x x x x x x x x x
-Ho 
-et al. 
-( 2018 )
-Vietnam Coffee 4C,UTZ x x x x x x x x x x
-Hung Ahn 
-et al. 
-( 2019 )
-Vietnam Coffee RA,UTZ x x x x x x x x x x x x
-Iddrisu 
-et al. 
-( 2020 )
-Ghana Cocoa RA,UTZ x x x
-6
- R. D’ANNOLFO AND F. DEMARIA
-
-[Page 8]
-Table 3. (Continued ) 
-Reference Country Commodity VSS
-Gender 
-parity
-Labour 
-rights
-Capacity 
-building Yield Costs Income
-Market 
-access
-Value chain 
-integration
-Child  
-labour
-Land  
-access
-Tools & 
-equipment
-Access  
-to credit Biodiversity
-Water 
-management
-Use of  
-agrochemicals
-Ingram 
-et al. 
-( 2018 )
-Ghana * Cocoa UTZ x x x x x x
-Kleemann 
-et al. 
-( 2014 )
-Ghana Pineapple GlobalGAP x x x x x x
-Klier and 
-Possinger 
-( 2012 )
-Ghana * Cocoa FI x x x x x x x x x x x
-Mauthofer 
-and 
-Santos 
-( 2022 )
-Ghana * Cocoa FI x x x x x x x x x x x x x
-Nelson 
-et al. 
-( 2013 )
-Ghana Cocoa FI x x x x x x x x x x x x x x
-Oosterveer 
-et al. 
-( 2014 )
-Ghana * Palm oil RSPO x x x
-Rijn 
-et al. 
-( 2016 )
-Ghana * Banana FI x x x x x x x x x x
-Smith 
-( 2010 )
-Ghana * Banana FI x x x x x x x x x
-Stuart 
-et al. 
-( 2018 )
-Vietnam Rice GlobalGAP, 
-VietGAP
-x x x x x x
-Tu 
-et al. 
-( 2019 )
-Vietnam Rice GlobalGAP, 
-VietGAP
-x x x x
-Waarts 
-et al. 
-( 2015 )
-Ghana Cocoa UTZ x x x x x x x x x x x x x x
-Waarts 
-et al. 
-( 2013 )
-Ghana Cocoa UTZ x x x
-Note: The abbreviations used for the VSSs are as follows: 4 C Association (4 C), Fairtrade International (FI), GlobalGAP, Rainforest Alliance (RA), Roundtable on Sustainable Palm Oil (RSPO), UTZ, VietGAP and Not Available 
-(NA). Since 2018, the UTZ certification programme has been part of the Rainforest Alliance (RA).  
-* Seven studies have a wider geographical coverage, encompassing more than one country. 
-INTERNATIONAL JOURNAL OF AGRICULTURAL SUSTAINABILITY
- 7
-
-[Page 9]
-commodity, appearing in 14 instances, followed by coffee and palm oil, each examined 3 times. Banana, 
-mango and rice were studied 2 times each. Pineapple and tea were examined only once.
-Figure 3 illustrated the distribution of VSSs across the reviewed publications. Among the considered 
-VSSs, UTZ emerged as the most frequently studied, appearing 10 times, followed by RA with 8 instances. FI 
-and GlobalGAP were mentioned in 6 and 5 studies respectively, while 4 C and RSPO appeared 3 times each. 
-Additionally, VietGAP was investigated twice in the studies. Furthermore, only 1 study did not specify the 
-type of certification adopted by farmers.
-Figure 2. Number of crop-based food commodities included in the analysis based on the reviewed studies (frequency). 
-Note: The total number of observations (28) exceeds the total number of considered publications (26), as two studies focus 
-on several agricultural commodities at the same time resulting in their inclusion multiple times in the count.
-Figure 3. Distribution of VSSs across the reviewed studies (frequency). Note: The total number of observations (38) 
-exceeds the total number of considered publications (26), as seven studies focus on various VSSs resulting in their 
-inclusion multiple times in the count. The abbreviations used for the VSSs are as follows: 4 C Association (4 C), Fairtrade 
-International (FI), GlobalGAP, Rainforest Alliance (RA), Roundtable on Sustainable Palm Oil (RSPO), UTZ, VietGAP and Not 
-Available (NA).
-8
- R. D’ANNOLFO AND F. DEMARIA
+[Page 2]
+INTERNATIONAL JOURNAL OF AGRICULTURAL SUSTAINABILITY 
+2026, VOL. 24, NO. 1, 2616059 
+https://doi.org/10.1080/14735903.2026.2616059
+RESEARCH ARTICLE                                                                      
+How do the voluntary sustainability standards contribute to enhancing 
+smallholder farmers’ livelihoods and progress towards SDGs? A 
+systematic review of crop-based food commodities in Ghana and Vietnam
+Raffaele D’Annolfo
+ and Federica Demaria
+Council for Agricultural Research and Economics (CREA), Research Centre for Agricultural Policies and Bioeconomy (CREA-PB), 
+Rome, Italy
+ABSTRACT
+This research investigates the effects of Voluntary Sustainability Standards (VSSs) on small -
+holder farmers’ livelihoods within crop-based food commodity value chains in Ghana and 
+Vietnam. Using the Sustainable Livelihood Framework (SLF), the study examines how VSSs 
+(e.g. Fairtrade, GlobalGAP, Rainforest Alliance) influence the capital endowments upon which 
+farmers depend. A systematic review of 26 empirical studies from the Evidensia Library was 
+conducted to assess the effects of VSSs on 15 economic, social, and environmental indicators 
+within the SLF. The main findings suggest that VSSs can enhance income, capacity building, 
+and value chain integration among farmers, alongside other socioeconomic and environ -
+mental benefits. However, negative effects are primarily associated with high input costs, 
+biodiversity impacts, and the use of agrochemicals. Moreover, challenges and trade-offs 
+persist, including limited women’s participation and the transfer of price premiums to 
+smallholder farmers adopting sustainability schemes. This study underscores critical issues 
+in the implementation of VSSs and provides policy recommendations, including fostering 
+bottom-up approaches for extension service provision. It also emphasizes the need for 
+stronger partnerships among governments, development agencies, and multistakeholder 
+initiatives to address chronic issues of the agrifood system in developing countries, and to 
+enhance the role of VSSs in advancing the SDGs by 2030.
+ARTICLE HISTORY 
+Received 29 January 2025 
+Accepted 7 January 2026 
+KEYWORDS
+Sustainability standards; 
+smallholder farmers; SLF; 
+commodities; certifications
+1. Introduction
+Voluntary Sustainability Standards (VSSs) are a diverse set of principles and objectives established by third-party 
+organisations, under which farmers are independently assessed and certified (Iddrisu et al., 2020 ). While the 
+concept of VSSs has existed since the 1970s, their widespread adoption is a relatively recent phenomenon. The 
+VSSs emerged as bottom-up, local standards developed worldwide through farmer-led initiatives, such as the 
+International Federation of Organic Agriculture Movements (IFOAM), which was established in 1972 as a 
+communications network among various organic agriculture projects (Addae-Boadu et al., 2017 ). VSSs gained 
+prominence in the 1990s, experiencing consistent growth until the early 2010s. Non-Governmental 
+Organisations (NGOs) played a crucial role in developing and disseminating standards because, unlike govern -
+ments, they were more flexible and less constrained by formal procedures, allowing them to respond more 
+effectively to market change (Oosterveer et al., 2014 ). According to the UNCTAD (2023), the proliferation of VSSs 
+from the 1990s to the 2010s was influenced by various factors: i) consumer awareness; ii) motivations of firms to 
+adopt VSSs; iii) response to failures of multilateral regulatory efforts; iv) reaction to the emergence of other VSSs; 
+and v) governments’ engagement with VSSs. However, in the past few years, the expansion of VSSs has been 
+slowing down, and the numbers have stabilised since 2017 (UNCTAD, 2023 ).
+Theoretically, certification enables producers to set sustainable targets, while allowing consumers to 
+differentiate among agricultural products based on their embedded social and environmental characteristics 
+(Addae-Boadu et al., 2017 ). This enhanced information supports higher prices for certified products and, in turn, 
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/14735903.2026.2616059.
+© 2026 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License ((http://creativecommons.org/licenses/by- 
+nc/4.0/), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on 
+which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+CONTACT Raffaele D’Annolfo 
+ raffaele.dannolfo@crea.gov.it
+ Council for Agricultural Research and Economics (CREA), Research Centre for 
+Agricultural Policies and Bioeconomy (CREA-PB), Via Barberini n. 36, 00187, Rome, Italy

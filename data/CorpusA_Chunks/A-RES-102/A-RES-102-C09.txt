@@ -1,0 +1,73 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-102-C09
+Parent Doc ID: A-RES-102
+Page Range: Page 5
+Word Range: 2164 - 2515
+Word Count: 352
+--------------------
+
+[Page 5]
+Table 1 
+The impact and application of DT in agri-food system. 
+Agri-food system Impact of DT Component of DT Application of DT in agri-food References
+Production Enhance efficiency, productivity, sustainability, and 
+transparency
+Smartphone applications, precision 
+agriculture
+Irrigation, fertilization, and harvesting of crops [6,23,24]
+Remotely monitoring, tracking, and managing the 
+performance of machineries
+Global Navigation Satellite 
+System (GNSS)
+Crop’s health and yield, livestock [25]
+Remotely monitoring, prediction, and decision-making 
+processes related to the crop’s health and livestock
+IoT, sensors, drones, data analytics and 
+machine learning algorithms
+Soil moisture, and pest infestations [26]
+Processing Enhance productivity, reduce waste, enhance food safety, 
+increase traceability and sustainable
+IoT, sensors, actuators, and connected 
+machineries, robots, and automation 
+systems
+Process optimization, anomalies detection [6]
+Resilient and adaptive to changing market demands Big Data, advanced analytics, and AI Sorting, packing, and quality control [7,27]
+Reducing labor costs, enhancing speed and accuracy, and 
+minimizing the risk of accidents
+Robots and automation systems, AI, 
+sensors
+Sorting, packing, and quality control [28]
+Distribution and 
+consumption
+Improve efficiency, transparency, and sustainability IoT, AI, blockchain, data analytics, and 
+mobile applications
+Supply chain management [27]
+Real-time monitoring, tracking food products during 
+transport, ensuring food safety and quality
+Blockchain, IA, sensors Inventory management and transportation 
+routing
+[7]
+Prevent foodborne illnesses, reduce the risk of recalls, and 
+build consumer trust in the quality and safety of food products
+IoT, sensors Supply chain management [29]
+Predict demand, optimize logistics, identifying inefficiencies, 
+and automating tasks, facilitate personalized marketing and 
+direct-to-consumer sales
+Online marketplaces and delivery 
+platforms, AI algorithms
+Supply chain management, Personalized 
+recommendations, and targeted advertising
+[30]
+Food disposal/reusing Optimize waste management, enhancing sustainability and 
+efficiency
+IoT, sensors Waste management [6]
+Optimize processes and predict future waste, aiding efficient 
+resource allocation
+Advanced analytics and machine learning Waste generation, disposal/reuse flows [31]
+Facilitating surplus food redistribution and reducing waste Digital platforms Stakeholders’ connection [32]
+Ensures traceability, transparency, and tracking food origins Blockchain, mobile apps, and web tools Waste management [33]
+Enhancing efficiency and recycled material quality Robotic systems Waste facilities automate sorting, recycling, 
+and composting
+[34]
+DIGITRANS Vahdanjoo, Sørensen and Nørremark 5
+www.sciencedirect.com Current Opinion in Food Science 2025, 63:101287

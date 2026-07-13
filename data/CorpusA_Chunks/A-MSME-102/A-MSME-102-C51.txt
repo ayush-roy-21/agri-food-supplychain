@@ -1,0 +1,56 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C51
+Parent Doc ID: A-MSME-102
+Page Range: Page 62
+Word Range: 14159 - 14505
+Word Count: 347
+--------------------
+
+[Page 62]
+62
+This methodology is based on India cluster panorama report. ( Kapoor, Ketels, Debroy, & Negi, 
+2023). The objective of this section of paper is to bridge the gap between these two realms 
+of literature, bringing attention to the untapped potential of Porter’s model in unravelling the 
+intricacies of clusters in countries like India.
+Under-
+standing 
+Cluster 
+approach 
+using PLFS & 
+Prowess data 
+The cluster approach is employed to comprehensively understand the performance and 
+dynamics of Small and Medium Enterprises (SMEs) within the Indian economy. The UDYAM 
+portal data reveals that a significant proportion, specifically 81 percent, of MSMEs operate 
+as proprietorships, with 80 per cent falling into the Microenterprise category. Recognising 
+the prevalence of such ownership structures, it becomes crucial to analyse and assess the 
+performance of these enterprises collectively, which the cluster approach facilitates.
+Performance 
+Comparison of 
+India’s MSMEs 
+with other 
+Countries.
+Table: 2 Percentage
+Organisation Type Micro Small Medium
+Proprietary 98.67 1.28 0.05
+Hindu Undivided Family 97.42 2.41 0.17
+Partnership 90.00 9.28 0.72
+Co-Operative 97.54 1.97 0.48
+Private Limited Company 90.70 7.90 1.39
+Public Limited Company 91.64 5.80 2.56
+Self Help Group 99.87 0.12 0.01
+Others 99.78 0.20 0.02
+Limited Liability Partnership 92.77 6.33 0.90
+Society 96.91 2.62 0.47
+Trust 96.47 2.79 0.73
+Source: UDYAM (2020- jan 13 2025) 
+PLFS data contributes valuable insights by classifying proprietary and partnership enterprises 
+as part of the informal sector. PLFS is a household-level survey conducted by the National 
+Statistical Office (NSO) to assess India's labour market. It gathers data on employment, 
+demographics, industry, education, and wages. For our analysis, we use data from surveys 
+between 2017-18 and 2022-23, which cover annually both formal and informal economic 
+activities at the state and district levels. and is a longitudinal exercise. This categorisation is 
+pivotal in understanding the landscape within which a substantial portion of SMEs operates. 
+Specifically, the data indicates that 74.3 percent of workers engaged in proprietary and 
+partnership enterprises are involved in the non-agriculture sector. This information is 
+instrumental in comprehending the nature of employment within these enterprises and 
+highlights the significance of activities in informal sector.

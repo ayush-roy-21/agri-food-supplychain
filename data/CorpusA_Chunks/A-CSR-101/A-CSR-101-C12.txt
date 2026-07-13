@@ -1,101 +1,140 @@
 --- CHUNK HEADER ---
 Chunk ID: A-CSR-101-C12
 Parent Doc ID: A-CSR-101
-Page Range: Page 16
-Word Range: 17104 - 18137
-Word Count: 1,034
+Page Range: Page 3
+Word Range: 2751 - 3000
+Word Count: 250
 --------------------
 
-[Page 16]
-Michelson, G., Wray-Bliss, E., 2024. Overcoming evil with good: the role of NGOs in 
-combating modern slavery. In: Krambia Kapardis, M., Clark, C., Warria, A., Dion, M. 
-(Eds.), The Palgrave Handbook on Modern Slavery, pp. 663 – 677 .
-Mol, A.P., 2010. The future of transparency: power, pitfalls and promises. Glob. Environ. 
-Polit. 10, 132 – 143 .
-Mosch, P., Schweikl, S., Obermaier, R., 2021. Trapped in the supply chain? Digital 
-servitization strategies and power relations in the case of an industrial technology 
-supplier. Int. J. Prod. Econ. 236, 108141 .
-Moussa, T., Allam, A., Elmarzouky, M., 2022. Global modern slavery and sustainable 
-development goals: does institutional environment quality matter? Bus. Strat. 
-Environ. 31, 2230 – 2244 .
-Murray, A., Kuban, S., Josefy, M., Anderson, J., 2021. Contracting in the smart era: the 
-implications of blockchain and decentralized autonomous organizations for 
-contracting and corporate governance. Acad. Manag. Perspect. 35, 622 – 641 .
-New, S.J., 2015. Modern slavery and the supply chain: the limits of corporate social 
-responsibility? Supply Chain Manag.: Int. J. 20, 697 – 707 .
-Nidumolu, R., Ellison, J., Whalen, J., Billman, E., 2014. The collaboration imperative. 
-Harv. Bus. Rev. 92, 76 – 84 .
-Nolan, J., Bott, G., 2018. Global supply chains and human rights: spotlight on forced 
-labour and modern slavery practices. Aust. J. Hum. Right 24, 44 – 69 .
-Nunes, M.F., 2018. Supply chain contamination: an exploratory approach on the 
-collateral effects of negative corporate events. Eur. Manag. J. 36, 573 – 587 .
-Oliveira, F., Kakabadse, N., Khan, N., 2022. Board engagement with digital technologies: 
-a resource dependence framework. J. Bus. Res. 139, 804 – 818 .
-Ozturk, O., 2021. Bibliometric review of resource dependence theory literature: an 
-overview. Manag. Rev. Quart. 71, 525 – 552 .
-Pannekoek, F., Breugewm, T., Van Wassenhove, L.N., 2023. How Tony ’ s chocolonely 
-created a purpose-driven (and profitable) supply chain. Harv. Bus. Rev. (online 
-article, 11 September) . 
-Pfeffer, J., Salancik, G., 1978. The External Control of Organizations: A Resource 
-Dependence Perspective. Harper & Row, NY . 
-Prajogo, D., Castka, P., Searcy, C., 2021. Paymasters and assurance providers: exploring 
-firms ’ discrection in selecting non-financial auditors. J. Bus. Ethics 173, 795 – 811 .
-Raineri, L., Strazzari, F., 2022. Drug smuggling and the stability of fragile states: the 
-diverging trajectories of Mali and niger. J. Interv. Statebuilding 16, 222 – 239 .
-Raj-Reichert, G., 2020. The powers of a social auditor in a global production network: the 
-case of Verit ´e and the exposure of forced labour in the electronics industry. J. Econ. 
-Geogr. 20, 653 – 678 .
-Reid, J., Castka, P., 2023. The impact of remote sensing on monitoring and reporting - 
-the case of conformance systems. J. Clean. Prod. 393, 136331 .
-Rockmann, K.W., Vough, H.C., 2024. Using quotes to present claims: practices for the 
-writing stages of qualitative research. Organ. Res. Methods 27, 621 – 649 .
-Schaper, S., Pollach, I., 2021. Modern slavery statements: from regulation to substantive 
-supply chain reporting. J. Clean. Prod. 313, 127872 .
-Scott, W.R., Davis, G., 2015. Organizations and Organizing: Rational, Natural and Open 
-Systems Perspectives. Routledge, NY . 
-Shilling, H.J., Wiedmann, T., Malik, A., 2021. Modern slavery footprints in global supply 
-chains. J. Ind. Ecol. 25, 1518 – 1528 .
-Shiu, J.-M., Dallas, M.P., Huang, H.-H., 2023. A friend of a friend? Informal authority, 
-social capital, and networks in telecommunications standard-setting organizations. 
-Technol. Forecast. Soc. Change 189, 122346 .
-Simatupang, T.M., Sridharan, R., 2002. The collaborative supply chain. Int. J. Logist. 
-Manag. 13, 15 – 30 .
-Simpson, D., Segrave, M., Quarshie, A., Kach, A., Handfield, R., Panas, G., Moore, H., 
-2021. The role of psychological distance in organizational responses to modern 
-slavery risk in supply chains. J. Oper. Manag. 67, 926 – 963 .
-Sodhi, M.S., Seyedghorban, Z., Tahernejad, H., Samson, D., 2022. Why emerging supply 
-chain technologies initially disappoint: blockchain, IoT, and AI. Prod. Oper. Manag. 
-31, 2517 – 2537 .
-Solymosi, R., Bowers, K., 2018. The Role of Innovative Data Collection Methods in 
-Advancing Criminological Understanding. The Oxford Handbook of Environmental 
-Criminology, pp. 210 – 237 .
-Stevenson, M., 2022. Hidden in plain sight: the bystander effect and the mobilisation of 
-modern slavery whistleblowing. Supply Chain Manag.: Int. J. 27, 128 – 139 .
-Stevenson, M., Cole, R., 2018. Modern slavery in supply chains: a secondary data analysis 
-of detection, remediation and disclosure. Supply Chain Manag.: Int. J. 23, 81 – 99 .
-Strand, V., Lotfi, M., Flynn, A., Walker, H., 2024. A systematic literature review of 
-modern slavery in supply chain management: state of the art, framework 
-development and research opportunities. J. Clean. Prod. 435, 140301 .
-Stringer, C., Michailova, S., 2018. Why modern slavery thrives in multinational 
-corporations ’ global value chains. Multinatl. Bus. Rev. 26, 194 – 206 .
-Taylor, L.R., Shih, E., 2019. Worker feedback technologies and combatting modern 
-slavery in global supply chains. J. British Acad. 7 (Suppl. issue 1), 131 – 165 .
-Touboulic, A., Walker, H., 2015. Theories in sustainable supply chain management: a 
-structured literature review. Int. J. Phys. Distrib. Logist. Manag. 45, 16 – 42 .
-Wernerfelt, B., 1984. A resource-based view of the firm. Strateg. Manag. J. 5, 171 – 180 .
-Cory Searcy is a professor of industrial engineering at Toronto Metropolitan University 
-(TMU). He currently serves as the Assistant Vice-President, International at TMU, as well 
-as a corporate sustainability section editor at the Journal of Business Ethics .
-Pavel Castka is a professor of supply chain management and sustainability at Xi ’ an Jiao -
-tong- Liverpool University (XJTLU), China. He currently serves as Associate Dean for 
-Professional Engagement at International Business School Suzhou (IBSS) as well as com -
-mittee member at TC176, International Organization for Standardization (ISO).
-Grant Michelson is a professor of management at Macquarie Business School, Sydney, 
-Australia. His interests include corporate social responsibility and employee experiences of 
-contemporary workplaces.
-Xiaoli Zhao is an assistant professor of strategic management at Xi ’ an Jiaotong-Liverpool 
-University (XJTLU), China. Her interests include strategic aspects of networks providing 
-plant-based dietary alternatives, wisdom leadership and international joint venture 
-management.
+[Page 3]
+Stevenson and Cole, 2018 ), or there can be inaction and the failure to 
+acknowledge its occurrence ( Stevenson, 2022 ).
+The contracts- and conditions-focused domains provide a granular 
+understanding of how to identify modern slavery, recognizing how 
+different approaches can lead to different outcomes. However, much like 
+firms can simultaneously adopt symbolic and substantive practices to 
+address non-financial issues such as quality or sustainability issues 
+( Prajogo et al., 2021 ), they can also simultaneously adopt approaches 
+that fall within and bridge the contracts- or conditions-focused domains. 
+Little is currently understood, however, about how the two domains 
+co-exist and how activities within each domain interact. This is impor -
+tant given the need to understand how different collaborations can 
+leverage different monitoring technologies within and across the two 
+domains to identify modern slavery.
+2.2. Collaboration to identify modern slavery
+Collaboration occurs when “two or more independent companies 
+work jointly to plan and execute supply chain operations with greater 
+success than when acting in isolation” ( Simatupang and Sridharan, 
+2002 ). Given such a broad definition, it is clear that multiple forms of 
+collaborations exist in global supply chains, from strategic alliances to 
+more arms-length collaborations ( Hayes et al., 2005 ). Moreover, col -
+laborations are driven by context: there is no single best way or blue -
+print on how different actors collaborate. Fundamentally, collaborations 
+are pursued to increase success of involved actors in achieving their 
+objectives. These could include, for example, instrumental objectives 
+focused on identifying modern slavery to prevent firm reputational 
+damage. Collaboration can also be altruistic in nature, recognizing the 
+moral obligation to remedy severe worker exploitation ( Pannekoek 
+et al., 2023 ).
+The main types of supply chain collaboration strategies are hori -
+zontal and vertical integration ( Barratt, 2004 ). Horizontal collaboration 
+occurs when two or more competing or unrelated firms (at the same 
+level of the supply chain) cooperate to share resources, such as 
+manufacturing capacity. Horizontal collaboration has been examined in 
+response to modern slavery and requires relational capital and effective 
+governance mechanisms to succeed ( Benstead et al., 2018 ). Vertical 
+collaboration occurs at different levels of the supply chain – with cus -
+tomers, internally (across functions), service providers, and with sup -
+pliers ( Barratt, 2004 ). Collaborations between different producers, 
+distributors and other actors enables a more contextualized approach in 
+supply chains ( Caputo and Mininno, 1996 ), arguably providing more 
+scope to strengthen labour standards and conditions ( LeBaron, 2021 ).
+Collaboration is an area of increasing focus in sustainable supply 
+chain research including the need for cross disciplinary scholarship 
+( Kach et al., 2025 ), but social concerns, such as extreme labour condi -
+tions, have rarely been studied in this context ( Geng et al., 2017 ). Much 
+of the limited research that exists focuses on relationships between 
+buyers and suppliers, suppliers for a common buyer ( Touboulic and 
+Walker, 2015 ), or buyers with common suppliers ( Nidumolu et al., 
+2014 ). Collaborative practices to identify modern slavery are critical, as 
+they do not just impact source firms but can enhance the capabilities of 
+other actors to reduce modern slavery risks, such as suppliers ( Emberson 
+et al., 2022 ). Suppliers may adapt their vertical and horizontal re -
+lationships to reduce the risk of modern slavery through strategies such 
+as horizontal systemization, vertical systemization, horizontal trans -
+formation, and vertical differentiation ( Emberson et al., 2022 ). The 
+implication is that collaboration recognizes and promotes agency among 
+the different actors to enact a range of complementary and mutually 
+beneficial outcomes for all.
+Collaborations beyond supplier and buyer relationships, particularly 
+in a modern slavery context, can involve direct interventions, awareness 
+campaigns, or government advocacy for policy changes, among others. 
+Collaboration to combat modern slavery typically starts by building 
+coalitions where firms, NGOs, and government agencies mobilize 
+around a common goal ( Gutierrez-Huerter et al., 2023 ). Many initiatives 
+focus on raising awareness to help prevent exploitation ( Bales, 2012 ), or 
+on training and capacity building. Corporations, NGOs, and govern -
+ments often work together to train law enforcement, immigration offi -
+cials, and social service providers on human trafficking issues ( Raineri 
+and Strazzari, 2022 ). Collaboration on supplier audits is another form of 
+collaboration. Based on a study of 35 brands, an NGO, and a trade body, 
+Benstead et al. (2018) investigated how horizontal collaboration can 
+enable responses to modern slavery legislation in the textiles and fashion 
+industry. Fransen and LeBaron (2019) examined the role of the “Big 
+Four” audit firms in services connected to transnational labor gover -
+nance. Drawing on a case study linked to modern slavery, they found 
+that auditing firms “engage in a variety of informal and covert influ -
+encing practices”, such as in promoting incremental improvements to 
+soft-law labor governance and serving as civil society’s independent 
+watchdog ( Fransen and LeBaron, 2019 , p. 260). Gold et al. (2015) also 
+highlighted the need for multi-actor approaches to address modern 
+slavery.
+2.3. Using technology to identify modern slavery in supply chains
+Technology can be broadly defined as “the practical application of 
+knowledge especially in a particular area” or “a manner of accom -
+plishing a task especially using technical processes, methods, or 
+knowledge”, among many other possible formulations.
+3
+In this paper, 
+we focus specifically on monitoring technologies. Monitoring technol -
+ogies can be classified as a form of “indirect” technologies. Unlike direct 
+technologies (i.e., technologies that enable transformation of inputs into 
+outputs, such as trucks, flexible manufacturing systems or material 
+processing technologies), indirect technologies focus on controlling and 
+coordinating direct processes. Technology has been used to support 
+broader social compliance audits, with a recent Gartner report providing 
+a set of categories to structure thinking about its potential application 
+( Cossio and McNeill, 2021 ).
+Table 1 groups monitoring technologies into three main categories: 
+technologies enabling data collection, data exchange, and data ana -
+lytics. First, monitoring technologies can be used for data collection, 
+either on-site or in a specific geographic area. For example, landlines 
+and video cameras are frequently used at the facility-level. Data 
+collection can be enabled by the use of satellite imaging in a broader 
+geographic area ( Reid and Castka, 2023 ). Second, monitoring technol -
+ogies can be used for data exchange. Technologies can be used to ensure 
+interoperability between actors, which is important for any form of 
+collaboration ( Herding and Fischer, 2015 ). At a facility, for example, 
+smart phones might be used by auditors to upload data in shareable 
+formats to apps connected to broader audit platforms ( Castka and 
+Searcy, 2023 ). Blockchain can then provide an unalterable ledger to 
+provide confidence on product provenance throughout a supply chain. 
+Third, monitoring technologies can be used to help draw conclusions 
+about the data collected through data analytics. For example, algorthims 
+could be developed to predict modern slavery hotspots. Research on the 
+specific use of technologies to identify modern slavery has started to 
+emerge, including the use of technology to improve product traceability 
+( McGrath et al., 2021 ), using blockchain ( Christ and Helliar, 2021 ), 
+applying worker voice technologies ( Berg et al., 2020 ; Taylor and Shih, 
+2019 ), and applying satellite imaging ( Kougkoulos et al., 2021 ). More 
+broadly, institutional pressures have been shown to encourage digital 
+technology adoption by firms seeking to alleviate modern slavery risks 
+( Jiang et al., 2023 ).
+Technology is being increasingly incorporated to facilitate collabo -
+rations between different actors and optimize the use and allocation of 
+resources ( Castka and Searcy, 2023 ). These collaborations are usually 
+initiated by a focal actor needing resources to accomplish their 
+3
+https://www.merriam-webster.com/dictionary/technology .
 C. Searcy et al.                                                                                                                                                                                                                                  Journal of Purchasing and Supply Management 32 (2026) 101059 
-16
+3

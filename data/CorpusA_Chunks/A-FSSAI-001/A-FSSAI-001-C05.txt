@@ -1,206 +1,107 @@
 --- CHUNK HEADER ---
 Chunk ID: A-FSSAI-001-C05
 Parent Doc ID: A-FSSAI-001
-Page Range: Page 15 to Page 21
-Word Range: 6510 - 7717
-Word Count: 1,208
+Page Range: Page 2 to Page 3
+Word Range: 1017 - 1266
+Word Count: 250
 --------------------
 
-[Page 15]
-¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 79
-5. Every sale or movement of stocks of solvent-extracted oil, 'semi refined' or 'raw grade I', edible groundnut flour or
-edible coconut flour, or both by the producer shall be a sale or movement of stocks directly to a registered user and
-not to any other person, and no such sale or movement shall be effected through any third party.
-6. Every quantity of solvent-extracted oil, edible groundnut flour or edible coconut flour, or both purchased by a
-registered user shall be used by him in his own factory entirely for the purpose intended and shall not be re-sold or
-otherwise transferred to any other person:
-Provided that nothing in this sub-clause shall apply to the sale or movement of the following:—
-(i) karanjia oil;
-(ii) kusum oil;
-(iii) mahua oil;
-(iv) neem oil;
-(v) (vi) tamarind seed oil.
-(vii) edible groundnut flour bearing the I.S.I.Certification Mark
-(viii) edible coconut flour bearing the I.S.I.Certification Mark
-7. No Food Business Operator shall sell or distribute or offer for sale or dispatch or deliver to any person for purpose
-of sale any edible oil which is not packed, marked and labelled in the manner specified in the regulations unless
-specifically exempted from this condition vide notification in the official Gazette issued in the public interest by
-Food Safety Commissioners in specific circumstances and for a specific period and for reasons to be recorded in
-writing.
+[Page 2]
+66 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
+(b) such other food businesses including small scale or cottage or such other industries relating to food
+business or tiny food businesses with an annual turnover not exceeding Rs 12 lakhs and/or  whose
+(i) production capacity of food (other than milk and milk products and meat and meat products)
+does not exceed 100 kg/ltr per day or
+(ii) procurement or handling and collection of milk is up to 500 litres of milk per day or
+(iii) slaughtering capacity is 2 large animals or 10 small animals or 50 poultry birds per day or less.
+5. Registering Authority” means Designated Officer/ Food Safety Officer or any official in Panchayat, Municipal
+Corporation or any other local body or Panchayat in an area, notified as such by the State Food Safety Commissioner
+for the purpose of registration as specified in these Regulations.
+6. “State Licensing Authority” means Designated Officers appointed under Section 36(1) of the Act by the
+Food Safety Commissioner of a State or UT.
+The expressions used in these Regulations but have not been defined herein shall have the meaning ascribed
+to them in the Act or as provided in the regulations, chapters and Appendices.
+Chapter-2
+L
+ICENSING AND REGISTRA TION OF FOOD BUSINESS
+2. 1 Registration and Licensing of Food Business
+All Food Business Operators in the country will be registered or licensed in accordance with the procedures laid
+down hereinafter;
+2.1.1 Registration of Petty Food Business
+(1) Every petty Food Business Operator shall register themselves with the Registering Authority by submitting
+an application for registration in Form A under Schedule 2 of these Regulations along with a fee as provided in
+Schedule 3.
+(2) The petty food manufacturer shall follow the basic hygiene and safety requirements provided in Part I of
+Schedule 4 of these Regulations and provide a self attested declaration of adherence to these requirements with the
+application in the format provided in Annexure-1 under Schedule 2.
+(3) The Registering Authority shall consider the application and may either grant registration or reject it with
+reasons to be recorded in writing or issue notice for inspection, within 7 days of receipt of an application for
+registration.
+(4) In the event of an inspection being ordered, the registration shall be granted by the Registering Authority
+after being satisfied with the safety, hygiene and sanitary conditions of the premises as contained in Part II of
+Schedule 4 within a period of 30 days.
+If registration is not granted, or denied, or inspection not ordered within 7 days as provided in above sub
+regulation (3) or no decision is communicated within 30 days as provided in above sub regulation (4), the petty food
+manufacturer may start its business, provided that it will be incumbent on the Food Business Operator to comply
+with any improvement suggested by the Registering Authority even later.
+Provided that registration shall not be refused without giving the applicant an opportunity of being heard and
+for reasons to be recorded in writing.
+(5) The Registering Authority shall issue a registration certificate and a photo identity card, which shall be
+displayed at a prominent place at all times within the premises or vehicle or cart or any other place where the person
+carries on sale/manufacture of food in case of Petty Food Business.
+(6) The Registering Authority or any officer or agency specifically authorized for this purpose shall carry out
+food safety inspection of the registered establishments at least once in a year.
+Provided that a producer of milk who is a registered member of a dairy Cooperative Society registered under
+Cooperative Societies Act and supplies or sells the entire milk to the Society shall be exempted from this provision
+for registration.
 
-[Page 16]
-80 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
-FORM 'C'
- License Format
-(See Regulation 2.1.4 (6))
-Government of India
-Food Safety and Standards Authority of India
-License under FSS Act, 2006
-License No _________________
-1. Name and Registered Office address of licensee ___________________________________
-2. Address of authorized premises ________________________________________________
-3. Kind of Business _______________________________________________________
-4. For dairy business details of location with address and capacity of Milk Chilling Centers (MCC) / Bulk Milk Cooling
-Centers (BMCs)/Milk Processing Unit/ Milk Packaging Unit owned by the holder of licensee/RC
-5. Category of License:
-This license is granted under and is subject to the provisions of FSS Act, 2006 all of which must be complied with by
-the licensee.
-Place:  Date:
-Stamp and signature of Designated Officer
-Food Safety and Standards Authority of India
-V alidation and Renewal
-Renewal Period of License Items of Food products with capacities Installed/ Signature of
-Date validity fee paid authorized to Manufacture/ Re-pack/Re-label handling Capacity Designated Officer
-
-[Page 17]
-¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 81
-'FORM D-1'
-Annual Return
-(For business other than Milk and Milk products)
-(See Regulation 2.1.13)
-1. Name and address of Licensee:-
-2. Address of the authorized premises for the manufacturing / Re-Packing / Re-Labelling of food products:
-3. License No. ..............................
-4. Statement showing quantities of food products manufactured/handled/imported and exported in Tonnes
-Name of the food Size of can / Quantity Sale price per V alue Quantity Name of the Rate per V alue Remarks
-product manufactured/ bottle/any other in MT Kg or per unit exported/ country or Kg or
-handled/imported/ package (like of packing imported port of per unit
-exported.  PP) or bul k in Kg Export of packing
- package C.I.F. /
- F.O.B.
-12 3 4 . 5 6 7 8 9 1 0
-
-[Page 18]
-82 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
-'FORM D-2'
-(See Regulation 2.1.13)
-Half Yearly Return for Milk and Milk Products
-For the period ending
-a) 1st April to 30th September
-b) 1st October to 31 March
-1. Name and address of Licensee:-
-2. Address of the authorized premises for the manufacturing milk and milk products:
-3. License No. .............................. date of issue/validity...............................................
-4. Procurement
-Type of milk T otal Qty Total fat Average T otal SNF Price Price Price
-MT MT content Rs / kg Rs/kg Rs/kg
-MT of  milk of fat of SNF
-12 3 4 56 7 8
-Fat% SNF%
-ab
-A) Own
-Sources
-Cow
-Buffalo
-Mixed
-B) Milk
-supplied
-by other
-dairies
-Cow
-Buffalo
-Mixed
-Total A+B
-5. Purchase of Milk Products
-Name of Milk Source of Total quantity Average Average Quantity used Closing balance
-Products purchase purchased Fat % SNF% (MT)* (MT)*
-(MT)*
-1. SMP
-2. WMP
-3. Butter Oil
-4. White Butter
-*Metric Tones
-
-[Page 19]
-¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 83
-6. Reconstitution
-Utilized for making liquid milk or Whole milk Skimmed milk Butter oil White
-milk products powder powder (MT)* butter
-(MT)* (MT)* (MT)*
-All liquid milks for sale
-z In lean season (Apr-Sep)
-z In flush season (Oct-Mar)
-Other milk products
-z In lean season (Apr-Sep)
-z In flush season (Oct-Mar)
-Sub Total
-Grand Total
-7. Details of Milk products Manufactured, Sold and Stock position.
-Product Name Opening  stock Production of Milk Average Sales of milk Closing stock
-(Please list out  (MT) and milk products products (MT)
-the name of (MT)
-all products
-mentioned
-below in
-this form) Fat% SNF%
-12 3 4 5 6
-Total
-8. Conversion of Milk into Milk Products outsourced to other dairies
-Type of milk Quantity (TLPD)* A verage Fat % Average SNF % Name of converted Quantity
-products (MT)
-Cow Milk
-Buffalo Milk
-Mixed Milk
-Concentrated Milk
-
-[Page 20]
-84 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
-9. Milk Marketing
-Type of Milk Quantity sold Average Fat % Average SNF% Consumer
-*(TLPD) price Rs
-per litre
-a) Milk sold in Retail
-Sub total A
-b) Milk sold I bulk
-to other dairies
-Sub total B
-Grand Total A+B
-*TLPD Thousand liters per day
-10. Statement showing quantities of milk products manufactured and exported in Tonnes with their sale value during
-the period ………….
-Name of Size of Qty. in A vg.fat/ Sale Value Qty Name of Rate per V alue in Remarks
-the milk the can/ M T SNF for Price/kg in Rs. exported/ the kg or / Rs.
-products bottle/any milk or per imported country unit of
-other products unit of in KG or port packing
-package (%) packing of export C.I.F/
-(like PP) Rs FOB
-or bulk Rs.
-package.
-1 2 3 4 a 4 b 5 6 7 8 9 10 11
-Date:
-Signature of the Licensee
-A register detailing the above information shall be maintained by each licensee for inspections. '
-Name of Milk Products required to be listed in table 8 coloumn no. 1.
-Cream V oghurt
-White butter Butter milk
-Table butter Lassi
-Butter oil Paeer
-Ghee Khoa
-Skimmed milk powder Khoa sweets
-Whole milk powder Flavored milk pasteurized
-Dairy whitener Flavoured milk sterilized
-Infant Milk Food UHT -MILK
-Infant formula Ice cream
-Malted milk food Casein
-Dahi/curd lactorse
-Shrikhand/Amarkhand Whey powder
-Butter milk powder Any other milk products as lowed in license
-Condesned milk
-
-[Page 21]
-¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 85
-FORM E
-Form of Guarantee
-(Refer Regulation 2.1.14(2))
-Invoice No. _____ Place:________
-From: _________ Date:_________
-To: _________
-Date of sale Nature and quality of article/brand name, if any Batch No or Code No. Quantity Price
-12 3 4 5
-I/We hereby certify that food/foods mentioned in this invoice is/are warranted to be of the nature aqnd quality which it/
-these purports/purported to be.
-Signature of the manufacturer/Distributor/Dealer
-Name and address of
-Manufacturer/Packer
-(in case of packed article)
-License No. (wherever applicable)
+[Page 3]
+¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 67
+2.1.2 License for food business
+(1) Subject to Regulation 2.1.1, no person shall commence any food business unless he possesses a valid license.
+Provided that any person or Food Business Operator carrying on food business on the date of notification of
+these Regulations, under a license, registration or permission, as the case may be, under the Acts or Orders
+mentioned in the Second Schedule of the Act shall get their existing license converted into the license/registration
+under these regulations by making an application to the Licensing/Registering Authority after complying  with the
+safety requirements mentioned in the Schedule 4 contained under different Parts dependent on nature of business,
+within one year of notification of these Regulations. In case of difficulty, the licensing authority with the approval
+of the Food Safety Commissioner in the State will determine the advisability of applying any specific condition
+keeping in view the need to ensure safety of food and public interest. No license fee will have to be paid for the
+remaining period of the validity of the earlier license or registration granted under any of the said Acts or Orders.
+Non-compliance with this provision by a Food Business Operator will attract penalty under section 55 of the Act.
+Provided further that any food business operator holding Registration/License under any other Act/Order as
+specified under schedule 2 of the FSS Act, 2006 with no specific validity or expiry date, and other wise entitled to
+obtain a license under these regulations, shall have to apply and obtain a Registration/License under these
+Regulations within one year from the date of notification by paying the applicable fees.
+(2) Notwithstanding the provisions contained in Regulation 2.1.2(1) above or in any of the registration or
+license certificates issued under existing Acts or Orders mentioned in the second schedule of the Act, the Licensing
+Authority, if it has reason to believe that the  Food Business Operator  has failed to comply with all or any of the
+conditions of the existing  registration or license  or the safety requirements given in Schedule 4, may give appropriate
+direction to the  Food Business Operator to comply with.
+(3) License for commencing or carrying on food business, which falls under Schedule 1, shall be granted by
+the Central Licensing Authority, provided that Food Authority may through notification make such changes or
+modify the list given in the Schedule I as considered necessary.
+(4) License for commencing or carrying on food business, which are not covered under Schedule 1, shall be
+granted by the concerned State/UT’s Licensing Authority.
+(5) The  Food Business Operator  shall ensure that all conditions of license as provided in Annexure 2 of Form
+B in Schedule 2 and safety, sanitary and hygienic requirements  provided in the Schedule 4 contained under different
+Parts depending on nature of business are complied with at all times .
+Provided that the Licensing Authority shall ensure periodical food safety audit and inspection of the licensed
+establishments through its own or agencies authorized for this purpose by the FSSAI.
+Provided further that no person shall manufacture, import, sell, stock, exhibit for distribution or sale any article
+of food which has been subjected to the treatment of irradiation, except under a license obtained from Department
+of Atomic Energy under the Atomic Energy (Control of Irradiation of Food) Regulations, 1996.
+2.1.3 Application for license to the Licensing Authority
+An application for the grant of a license shall be made in Form B of Schedule 2 to the concerned Licensing
+Authority as specified in Regulation 2.1.2 (3) and 2.1.2 (4) and it will be accompanied by a self-attested declaration
+in the format provided in the Annexure-1 and copies of documents mentioned in the Annexure 2 of Schedule-2 along
+with the applicable fees prescribed in Schedule 3.
+2.1.4 Processing of Application for license
+(1) A license shall, subject to the provisions of these Regulations, be issued by the concerned Licensing
+Authority within a period of 60 days from the date of issue of  an application ID number as provided in subsection
+(3) below.
+(2) If, upon scrutiny of the application within 15 days from the date of receipt of the application, the concerned
+Licensing Authority requires any additional information with respect to an application or if the application is
+incomplete, the Licensing Authority shall inform the applicant in writing, to furnish such additional information or
+complete the application, as the case may be, within 30 days from such notice. In case the applicant fails to furnish
+the required information within the stipulated time of 30 days, the application for license shall stand rejected.

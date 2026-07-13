@@ -1,108 +1,57 @@
 --- CHUNK HEADER ---
 Chunk ID: A-SPICE-005-C07
 Parent Doc ID: A-SPICE-005
-Page Range: Page 25 to Page 26
-Word Range: 8600 - 8963
-Word Count: 364
+Page Range: Page 4
+Word Range: 1670 - 1919
+Word Count: 250
 --------------------
 
-[Page 25]
-3. Food and feed of non-animal origin referred to in Article 1(1), point (b)(ii)
-Row Country of 
-origin
-Country from 
-where 
-consign- 
-ments are 
-dispatched to 
-the Union
-Food and feed (intended use) CN code ( 1)
-TARIC 
-sub- 
-division
-Hazard
-Frequency 
-of identity 
-and 
-physical 
-checks (%)
-1
-United 
-States 
-(US)
-Türkiye 
-(TR) (2)
-— Pistachios, in shell 0802 51 00
-Aflatoxins 50
-— Pistachios, shelled 0802 52 00
-— Mixtures of nuts or 
-dried fruits 
-containing 
-pistachios
-ex 0813 50 39 60
-ex 0813 50 91 60
-ex 0813 50 99 60
-— Pistachio paste ex 2007 10 10 60
-ex 2007 10 99 30
-ex 2007 99 39 03; 04
-ex 2007 99 50 32
-ex 2007 99 97 22
-— Pistachios, otherwise 
-prepared or 
-preserved, including 
-mixtures
-ex 2008 19 13 20
-ex 2008 19 93 20
-ex 2008 97 12 19
-ex 2008 97 14 19
-ex 2008 97 16 19
-ex 2008 97 18 19
-ex 2008 97 32 19
-ex 2008 97 34 19
-ex 2008 97 36 19
-ex 2008 97 38 19
-ex 2008 97 51 19
-ex 2008 97 59 19
-ex 2008 97 72 19
-ex 2008 97 74 19
-ex 2008 97 76 19
-ex 2008 97 78 19
-ex 2008 97 92 19
-ex 2008 97 93 19
-ex 2008 97 94 19
-ex 2008 97 96 19
-EN OJ L, 29.1.2026 
-24/25 ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj
-
-[Page 26]
-Row Country of 
-origin
-Country from 
-where 
-consign- 
-ments are 
-dispatched to 
-the Union
-Food and feed (intended use) CN code ( 1)
-TARIC 
-sub- 
-division
-Hazard
-Frequency 
-of identity 
-and 
-physical 
-checks (%)
-ex 2008 97 97 19
-ex 2008 97 98 19
-— Flours, meals and 
-powder of pistachios
-ex 1106 30 90 50
-(Food)
-(
-1) Where only certain products under any CN code are required to be examined, the CN code is marked “ex”.
-(2) In accordance with Articles 10 and 11, consignments shall be accompanied by the results of sampling and analyses performed on 
-those consignments and by the official certificate issued by the country from where those consignments are dispatched to the 
-Union.’.
+[Page 4]
+(10) Nutmeg ( Myristica fragrans) from India has been subjected to an increased level of official controls due to the risk of 
+contamination by aflatoxins since June 2019. The official controls carried out on that commodity by the Member 
+States indicate an overall satisfactory degree of compliance with the relevant requirements provided for in Union 
+legislation. Therefore, an increased level of official controls is no longer justified for that commodity and its entry in 
+Annex I to Implementing Regulation (EU) 2019/1793 should be deleted.
+(11) Vanilla and cloves (whole fruit, cloves and stems) from India have been subjected to increased levels of official 
+controls due to the risk of the presence of ethylene oxide since January 2022. The official controls carried out on 
+these commodities by the Member States indicate an overall satisfactory degree of compliance with the relevant 
+requirements provided for in Union legislation. Therefore, an increased level of official controls is no longer justified 
+for those commodities and their entries in Annex I to Implementing Regulation (EU) 2019/1793 should be deleted.
+(12) Peppers of the genus Piper, dried or crushed or ground fruit of the genus Capsicum or of the genus Pimenta from India 
+have been subjected to increased levels of official controls and to special conditions at their entry into the Union due 
+to the risk of the presence of ethylene oxide since January 2022. The official controls carried out by the Member 
+States show improvement in compliance with the relevant requirements provided for in Union legislation. The 
+results of those controls provide evidence that the entry of that commodity into the Union does not constitute a 
+serious risk for human health. Consequently, it is not necessary to continue to provide that each consignment is to 
+be accompanied by an official certificate stating that all the results of sampling and analysis show compliance with 
+the relevant requirements provided for in Union legislation. However, Member States should continue to carry out 
+controls to ensure that the current level of compliance is maintained. Therefore, the entry on peppers of the genus 
+Piper, dried or crushed or ground fruit of the genus Capsicum or of the genus Pimenta from India in point 1 of 
+Annex II to Implementing Regulation (EU) 2019/1793 should be deleted and transferred to Annex I to that 
+Implementing Regulation, with a frequency of identity and physical checks set, in the light of the number of 
+consignments in the last years, at 20 % of consignments entering the Union.
+(13) Calcium carbonate from India has been subjected to an increased level of official controls and to special conditions at 
+its entry into the Union due to the risk of the presence of ethylene oxide since January 2022. The official controls 
+carried out by the Member States show improvement in compliance with the relevant requirements provided for in 
+Union legislation. The results of those controls provide evidence that the entry of that commodity into the Union 
+does not constitute a serious risk for human health. Consequently, it is not necessary to continue to provide that 
+each consignment is to be accompanied by an official certificate stating that all the results of sampling and analysis 
+show compliance with the relevant requirements provided for in Union legislation. However, Member States should 
+continue to carry out controls to ensure that the current level of compliance is maintained. Therefore, the entry on 
+calcium carbonate from India in point 1 of Annex II to Implementing Regulation (EU) 2019/1793 should be deleted 
+and transferred to Annex I to that Implementing Regulation, with a frequency of identity and physical checks set, in 
+the light of the number of consignments in the last years, at 30 % of consignments entering the Union.
+(14) Turnips ( Brassica rapa ssp. rapa) prepared or preserved by vinegar or acetic acid and turnips ( Brassica rapa ssp. rapa) 
+prepared or preserved by brine or citric acid, not frozen from Lebanon have been subjected to an increased level of 
+official controls due to the risk of contamination by Rhodamine B since July 2018. The official controls carried out 
+on those commodities by the Member States indicate an overall satisfactory degree of compliance with the relevant 
+requirements provided for in Union legislation. Therefore, an increased level of official controls is no longer justified 
+for those commodities and their entries in Annex I to Implementing Regulation (EU) 2019/1793 should be deleted.
+(15) Mixtures of food additives containing locust bean gum from Malaysia have been subjected to an increased level of 
+official controls due to the risk of the presence of ethylene oxide in the locust bean gum used in food additives since 
+July 2022. The official controls carried out on that commodity by the Member States indicate that the mixtures of 
+food additives from Malaysia entering the Union do not contain locust bean gum. Therefore, an increased level of 
+official controls is no longer justified for that commodity and its entry in Annex I to Implementing Regulation 
+(EU) 2019/1793 should be deleted.
 OJ L, 29.1.2026 EN 
-ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 25/25
+ELI: http://data.europa.eu/eli/reg_impl/2026/194/oj 3/25

@@ -1,0 +1,106 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-103-C78
+Parent Doc ID: A-MSME-103
+Page Range: Page 65
+Word Range: 22597 - 22846
+Word Count: 250
+--------------------
+
+[Page 65]
+Strategy for unlocking export potential for MSMEs in West Bengal
+65  Index No. Weights 2020 2021 2022 Coastal Average 
+(2022)
+National Average 
+(2022)
+Indicator Definition/Clarification
+1.1.8 1 0  0   
+ODOP - District export plan: How 
+many districts of the State are 
+covered under ODOP scheme ?
+The ODOP Initiative is aimed at fostering balanced regional 
+development across all districts of the country enabling holistic 
+socio- economic growth across all regions. The objective is to convert 
+each District of the country into a Manufacturing and Export Hub by 
+identifying products with export potential in the district.
+1.2 Institutional 
+Framework (10%)  0 53.54 82.75 93.08 76.40
+ A sound policy environment cannot induce growth without a robust 
+institutional framework. Institutionalizing exports in a state helps reduce 
+uncertainty surrounding policy framework, as it facilitates access to the 
+services owed to the manufacturers and exporters. 
+1.2.1 2 0 100 100   
+Appointment of full time 
+export Commissioner: Has the 
+State appointed an Export 
+Commissioner? (Yes/No)
+In 2015, the Centre had asked States to ap- point Export Commissioners 
+and prepare ex- port strategies as a step to promote exports.
+1.2.2 2 0 100 100   
+Does the State have a State-
+Centre coordination cell? (Yes/
+No); Details of state-Centre 
+coordination cell.
+In order to ensure synergy between Centre and the States, State- Centre 
+coordination cell play a vital role. Such a coordination  cell is required 
+to review and act upon new developments that are important for State’s 
+exports
+1.2.3  0 100 100   
+Does the State Government 
+export Promotion website 
+provide details of domestic 
+events/workshops/B2B meet- 
+ings/ details of exportable 
+commodities etc to foster its 
+exports? (Yes/No)
+It is crucial for the State Government to work towards enhancing the 
+visibility of State level products in international markets.
+1.2.4 
+1.2.4.A 1.5 0 0 42.58
+  Existence of DEPCs
+How many districts in the State 
+have District Export Pro- motion 
+Council (DEPC) ?
+District level Export Promotion Councils are constituted for various 
+sectors to direct, promote and ensure monitoring of the export related 
+activities in the District.
+1.2.5 
+1.2.5.A
+ 
+2
+ 
+0
+ 
+100
+ 
+100
+ 
+ 
+ 
+ 
+Grievance redressal
+Whether State has a function- 
+al online grievance redressal 
+portal exclusively for export- 
+ers in which they can flag key 
+issues of concern that requires 
+government interven- tion Yes/
+No
+ 
+Exporters need to have access to grievance redressal mechanism to 
+approach the Gov- ernment for flagging any concerns/issues that 
+requires government intervention & resolution of problems.
+Business 
+Ecosystem 
+(40%)
+Index Score  53.65 44.38 48.11 61.44
+43.40   
+2.1 Business 
+Environment 
+(15%)
+ 38.03 72.41 52.66 61.82 51.17
+ A composition of six indicators, this sub-pillar evaluates the 
+conduciveness of a state’s environment for inviting and growing 
+businesses. For a comprehensive assessment, the indicators range 
+from ease of doing business, availability of single window clearance 
+and investments into state, credit facilities, to the change in a state’s 
+economy.

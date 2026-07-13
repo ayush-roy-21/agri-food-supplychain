@@ -1,319 +1,91 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-100-C10
 Parent Doc ID: A-MSME-100
-Page Range: Page 45 to Page 48
-Word Range: 12173 - 13658
-Word Count: 1,486
+Page Range: Page 14
+Word Range: 2535 - 2907
+Word Count: 373
 --------------------
 
-[Page 45]
-45 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
-Expanding MSMEs and strengthening the overall 
-ecosystem to enhance their digital adoption is 
-vital to realising their full output and employment-
-generating potential. Enterprise development focuses 
-on cultivating businesses for growth, scaling, and 
-efficiency. However, various challenges hinder this 
-process, necessitating government and private-sector 
-support to ensure long-term sustainability and growth 
-of MSMEs in India.
-Unsurprisingly, access to markets and finance are the 
-most significant challenges confronting non-integrated 
-MSMEs in India. When asked to rank challenges, about 
-one-third of the non-integrated surveyed enterprises  
-listed market access and financing among their top five 
-obstacles to operations and business expansion. Other 
-major challenges included customer retention, hiring 
-the right employees, and effective product marketing 
-(Figure 26 A).
-7. Challenges and the Way Forward
-Interestingly, the top challenges of integrated firms 
-differ significantly from those faced by non-integrated 
-firms, with other issues taking precedence over 
-conventional challenges. One-third of the surveyed 
-integrated firms identified a shortage of skilled 
-human resources to handle online business as the top 
-challenge, followed by difficulties in targeting the right 
-customers. Other significant concerns include online 
-product marketing, platform return and refund policies, 
-and handling customer complaints (Figure 26 B). Thus, 
-the core challenges faced by integrated firms primarily 
-involve maximizing the potential of e-commerce 
-platforms. This is not to suggest that other challenges 
-do not exist; however, they are not among the top five 
-concerns by the integrated firms.
-Challenges and the Way Forward
-46% 44% 44% 43% 43%
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-90%
-100%
-Accessing
-market
-Accessing
-ﬁnance
-Retaining
-customers
-Marketing
-products
-Finding
-employees
-32% 31% 30% 30% 30%
-0%
-10%
-20%
-30%
-40%
-50%
-60%
-70%
-80%
-90%
-100%
-Unavailability
-of skilled
-manpower 
-Targeting
-right
-customer
-Marketing
-product
-online
-Return
-policy
-Managing
-customer
-complains
-Figure 26: Distribution of enterprises by top five challenges faced (in %)
-A. No E-commerce Integration B. E-commerce Integration
-
-[Page 46]
-46 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
-While there is no dearth of MSME-focused government 
-schemes that aim to address the conventional issues 
-faced by MSMEs, they are not sufficiently utilised. A 
-significant share of respondents (approximately 55%) 
-reported that they have not accessed these programmes 
-in the past three years. A higher proportion of small- 
-and medium-sized enterprises have not accessed these 
-benefits (55% and 60% respectively; and 54% of micro 
-firms). Among the schemes, the MUDRA loan scheme 
-is the most widely used, followed by the Micro & Small 
-Enterprises Cluster Development Programme. Figure 
-27 highlights the primary reasons for low uptake, 
-including complex application procedures (64%) and a 
-lack of awareness (57%). Additionally, many MSMEs are 
-unable to qualify due to strict eligibility criteria.
-Figure 27:
-Distribution of overall enterprises 
-by the reason of not availing any 
-schemes/benefits (in %)
-Source: Authors’ computation of data from ICRIER’s MSME survey
-The primary challenges faced by integrated and non-
-integrated firms are notably distinct, necessitating a 
-Challenges and the Way Forward
-two-pronged approach to policy intervention.  Around 
-42% of the surveyed MSMEs emphasised the need for 
-government initiatives to improve access to technology, 
-with a higher proportion (47%) among medium-sized 
-enterprises. Additionally, about 40% of respondents 
-recommended strengthening cybersecurity measures, 
-while approximately 39% suggested implementing 
-skill development and training programmes to ensure 
-MSMEs use digital platforms adequately. 
-Although e-commerce platforms help MSMEs address 
-some traditional challenges, many issues remain 
-unaddressed, necessitating the private sector’s 
-intervention. Nearly 48% of the surveyed MSMEs and 
-around half of the micro-enterprises recommend that 
-e-commerce companies resolve the errors and delays 
-on their platforms more effectively. These issues include 
-sudden account de-listing and delays in logistics and 
-payments, among others. The second most common 
-suggestion is to implement stronger measures to 
-prevent fraud, a concern shared by sellers—especially 
-micro firms—just as much as consumers. 
-Going forward, it is crucial to support firms’ digital 
-transformation by enhancing access to technology 
-and upgrading skills and digital literacy of enterprises. 
-ICRIER’s survey reveals that e-commerce integration 
-not only supports enterprise development directly 
-through its impact on business growth and hiring, but 
-also through key second-order effects. It is, therefore, 
-important to establish an ecosystem that enables firms 
-to maximise the second-order benefits of e-commerce 
-integration. This can be achieved by developing 
-supportive physical and digital infrastructure that 
-harness the advantages of e-commerce integration.
-57%
-64%
-18%
-12%
-33%
-0% 10% 20% 30% 40% 50% 60% 70%
-Not aware of the
-scheme/beneﬁts
-Complicated
-procedure
-Inadequate
-documentation
-Lack of technological
-know-how
-Strict eligibility
-criteria
-
-[Page 47]
-47 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
-A. Aagaard, A. Aagaard, Harrison, Digital Business 
-Models, Springer International Publishing, 2019, 
-https://doi.org/10.1007/978-3-319-96902-2
-ABD-ADBI (2015). Integrating SMEs into Global Value 
-Chains: Challenges and Policy Actions in Asia. https://
-www.adb.org/sites/default/files/publication/175295/
-smes-global-value-chains.pdf
-B20 SMEs & Entrepreneurship Taskforce Policy Paper. 
-(2015). Retrieved from https://g20.utoronto.ca/b20/
-B20-2015-sme.pdf
-Bosman, L., Hartman, N. and Sutherland, J. (2020), 
-“How manufacturing firm characteristics can 
-influence decision making for investing in Industry 4.0 
-technologies”, Journal of Manufacturing Technology 
-Management, Vol. 31 No. 5, pp. 1117-1141. https://doi.
-org/10.1108/JMTM-09-2018-0283
-Buteau, S., Gupta, A. and Varun Hariharan, V. (2023). 
-Impact of Access to Finance on Nano Enterprises. LEAD 
-at Krea University. Retrieved from https://ifmrlead.
-org/wp-content/uploads/2023/01/Impact-of-Access-
-to-Finance-on-Nano-Enterprises.pdf
-Ceipek, R., Hautz, J., Massis, A.D., Matzler, K. & Ardito, 
-L. (2021). Digital Transformation Through Exploratory 
-and Exploitative Internet of Things Innovations: The 
-Impact of Family Management and Technological 
-Diversification. Journal of Product Innovation 
-Management. 38(1). 142-165. https://doi.org/10.1111/
-jpim.12551 
-Iwu, C. G. (2021). SME Sustainability and Growth in 
-Emerging Markets. In N. Baporikar (Ed.), Handbook 
-of Research on Sustaining SMEs and Entrepreneurial 
-Innovation in the Post-COVID-19 Era (pp. 397-
-418). IGI Global Scientific Publishing. https://doi.
-org/10.4018/978-1-7998-6632-9.ch019 
-References
-Dabbous, A., Barakat, K.A., and Kraus, S. (2023). The 
-impact of digitalization on entrepreneurial activity and 
-sustainable competitiveness: A panel data analysis. 
-Technology in Society. 73, 102224. Retrieved from 
-https://www.sciencedirect.com/science/article/pii/
-S0160791X23000295#abs0015
-Enterprise development. (2017). International Labour 
-Organisation. Retrieved from https://www.ilo.org/
-resource/enterprise-development
-Factsheet of MSME (Udyam) Registration. (n.d.). 
-Retrieved from https://udyamregistration.gov.in/
-G.F. Watson IV, S. Weaven, H. Perkins, D. Sardana, 
-R.W. Palmatier, International market entry strategies: 
-relational, digital, and hybrid approaches, J. Int. 
-Market. 26 (1) (2018) 30–60, https://doi.org/10.1509/
-jim.17.0 034.
-Hemerling, J., Kilmann, J., Danoesastro, M., Stutts, L. 
-& Ahern, C. (2018). It’s Not a Digital Transformation 
-Without a Digital Culture. The Boston Consulting 
-Group. Retrieved from https://web-assets.bcg.com/
-img-src/BCG-Its-Not-a-Digital-Transformation-
-Without-a-Digital-Culture-Apr-2018_tcm9-207937.pdf
-Indian Council for Research on International Economic 
-Relations (ICRIER)-ADBI (2024). Open Banking 
-Systems for Enhancing Financial Access for Micro, 
-Small, and Medium-Sized Enterprises: The Case of 
-India. Retrieved from https://icrier.org/pdf/adbi-open-
-banking-systems-enhancing-financial-access-micro-
-small-and-medium-sized-enterprises-case.pdf
-Indian Council for Research on International Economic 
-Relations (ICRIER) (2023). Annual Survey of Micro, 
-Small, and Medium Enterprises (MSMEs) in India: 
-Leveraging E-commerce for the Growth of MSMEs. 
-Retrieved from https://icrier.org/pdf/E-commerce_
-MSME_Annual-Survey.pdf
-References
-
-[Page 48]
-48 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
-International Finance Corporation. (2017). MSME 
-Finance Gap: Assessment of the Shortfalls 
-and Opportunities in Financing Micro, Small 
-and Medium Enterprises in Emerging Markets. 
-World Bank. Retrieved from https://documents.
-worldbank.org/en/publication/documents-reports/
-documentdetail/653831510568517947/msme-
-finance-gap-assessment-of-the-shortfalls-and-
-opportunities-in-financing-micro-small-and-medium-
-enterprises-in-emerging-markets
-International Trade Centre (2019). SME Competitiveness 
-Outlook 2019: Big Money for Small Business – 
-Financing the Sustainable Development Goals. ITC, 
-Geneva. Retrieved from https://www.intracen.org/file/
-smeco2019pdf
-Lin, J. Y., Yang, Z., Li, Y., & Zhang, Y. (2022). Development 
-strategy and the MSMEs finance gap. Journal of 
-Government and Economics, 5, 100034.
-Madgavkar, A., Piccitto, M., White, O., Ramírez, 
-M.J., Mischke, J. and Chockalingam, K. (2024). A 
-microscope on small businesses: Spotting opportunities 
-to boost productivity. McKinsey Global Institute. 
-Retrieved from https://www.mckinsey.com/mgi/our-
-research/a-microscope-on-small-businesses-spotting-
-opportunities-to-boost-productivity#/
-Matt, C., Hess, T. & Benlian, A. Digital Transformation 
-Strategies. Bus Inf Syst Eng 57, 339–343 (2015). https://
-doi.org/10.1007/s12599-015-0401-5 
-McCarthy, P., Sammon, D., & Alhassan, I. (2021). 
-Digital Transformation Leadership Characteristics: A 
-Literature Analysis. Journal of Decision Systems, 32(1), 
-79–109. https://doi.org/10.1080/12460125.2021.1908
-934 
-Michael & Susan Dell Foundation. (2024). Retrieved 
-from https://www.dell.org/ideas/nano-entrepreneurs/
-Monthly Information Bulleting. (November, 2024). 
-Ministry of Corporate Affairs. Government of India. 
-https://www.mca.gov.in/bin/dms/ getdocument?mds 
-=%252FHrc0O8TPXv47oo9rVMvFw%253D%253D& 
-type=open
-OECD (2021). The Digital Transformation of SMEs. 
-OECD Studies on SMEs and Entrepreneurship. 
-Retrieved from https://www.oecd.org/en/publications/ 
-the-digital-transformation-of-smes_bdb9256a-en/full-
-report.html
-Operational and Economic Characteristics. Annual 
-Survey of Unincorporated Sector Enterprises (ASUSE) 
-2022-2023. National Sample Survey Office. Ministry 
-of Statistics and Programme Implementation. 
-Government of India. Retrieved from https:/ /www.
-mospi.gov.in/sites/default/files/publication_reports/ 
-ASUSE_2022_23_Report_FinalN.pdf 
-Porfírio, J. A., Carrilho, T., Felício, J. A. and Jardim, 
-J. (2021). Leadership characteristics and digital 
-transformation. Journal of Business Research. 124. 610-
-619. https://doi.org/10.1016/ j.jbusres.2020.10.058
-RBI (2024). Report on Trend and Progress of 
-Banking in India 2023-24, Reserve Bank of India, 
-accessible at https://rbidocs.rbi.org.in/rdocs/Bulletin/ 
-PDFs/ 0RTP26122024EF 658BA091B049FC8 
-C5CD1514CA2FD9A.PDF
-S. Kraus, C. Palmer, N. Kailer, F.L. Kallinger, J. Spitzer, 
-Digital entrepreneurship: a research agenda on new 
-business models for the twenty-first century, Int. J. 
-Entrepreneur. Behav. Res. 25 (2) (2019) 353–375. 
-https://doi.org/10.1108/ IJEBR-06-2018-0425 
-SME Digitalisation (n.d.). OECD. Retrieved from https://
-www.oecd.org/en/topics/ digitalisation-of-smes.html
-Stein, P., Ardic, O. P., & Hommes, M. (2013). Closing the 
-Credit Gap for Formal and Informal Micro, Small, and 
-Medium Enterprises. World Bank.
-References
+[Page 14]
+14 | Annual Survey of Micro, Small and Medium Enterprises (MSMEs) in India
+50% of the integrated firms hired new employees post 
+integration, out of which nearly 75% firms also hired 
+women employees.
+Scaling up business is the key reason for joining 
+e-commerce platforms, yet offline channels remain 
+the dominant mode of sale.  A majority of integrated 
+firms joined e-commerce platforms to boost their sales, 
+with most enterprises starting to sell on e-commerce 
+platforms after the onset of the COVID-19 pandemic. 
+About 71% of enterprises joined e-commerce platforms 
+during or after 2020. However, the survey found that 
+while the reliance on online operations, including 
+e-commerce platforms, is growing, offline channels 
+remain significant medium for sale. 
+While previous ICRIER surveys established that 
+e-commerce integration positively impacts business 
+growth potential, the current study also highlighted 
+evidence for interesting second-order effects, which 
+can contribute significantly to enterprise development. 
+The survey found that as a firm’s size increases, its 
+ability to access finance and the international market 
+improves. Additionally, firms can gain improved access 
+to market information.
+The survey found that e-commerce integration 
+positively impacts MSMEs’ ability to raise external 
+finance at relatively more favourable terms.  By 
+enabling firms to expand, e-commerce enhances the 
+long-term prospects of MSMEs. The survey revealed 
+that relatively larger firms in the MSME segment and 
+those integrated with e-commerce performed better 
+in terms of financial access. The survey found that the 
+average interest rate on MSMEs’ loan is about 12.27%. 
+Compared to this, on an average, medium sized firms and 
+integrated firms pay a relatively lower rate of interest 
+(11.59% and 12.15%, respectively). Additionally, a 
+relatively higher share of e-commerce-integrated firms 
+could access collateral-free loans. Among integrated 
+firms, 51% found their e-commerce presence helpful 
+in raising external finance from banks and non-banking 
+financial corporations, with medium (60%) and small-
+size enterprises (55%) doing better on this front than 
+micro firms (48%). Additionally, 30% of integrated firms 
+found e-commerce beneficial for raising collateral-free 
+loans, with medium firms (33%) leading, followed by 
+small (31%) and micro (29%) firms.
+Many enterprises made new investments or introduced 
+innovative practices after integrating on e-commerce 
+platforms, enhancing their long-term growth and 
+sustainability. About 62% of the integrated firms 
+invested in training their employees, and nearly 50% 
+invested in the R&D of new products. More than 90% 
+of the firms also introduced innovative practices after 
+integrating on platforms. The survey found that while 
+business growth remains the most important benefit 
+of integrating on e-commerce platforms, medium-
+size firms value qualitative benefits (such as access to 
+market insights and improvement in product quality) 
+more than micro- and small-sized firms. 
+As the firm size increases, its export potential too, 
+rises, and integrated export-oriented firms use 
+e-commerce platforms extensively to export their 
+products. About 16% of all surveyed enterprises export 
+their products, with medium-size enterprises having 
+a higher share of export-oriented firms. The survey 
+found that e-commerce offers firms, especially micro-
+enterprises, a pathway to participate in global trade. 
+About 93% of the export-oriented, integrated firms 
+rely on e-commerce platforms to export their products 
+to international markets. This includes a considerable 
+share of micro-enterprises, highlighting that even 
+relatively small firms can utilise e-commerce to reach 
+global markets if they choose to export. 
+Importantly export potential can be tapped better 
+through e-commerce, which can address some 
+conventional issues that firms face in exporting their 
+products, like information access.  Nearly 21% of 
+the firms that do not currently export believe their 
+products have export potential. More integrated firms 
+(24%) recognise this potential than non-integrated 
+ones (18%). Some of the most prominent challenges 
+Executive Summary

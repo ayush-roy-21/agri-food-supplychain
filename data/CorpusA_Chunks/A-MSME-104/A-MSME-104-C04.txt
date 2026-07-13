@@ -1,123 +1,40 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-104-C04
 Parent Doc ID: A-MSME-104
-Page Range: Page 14 to Page 16
-Word Range: 5014 - 6376
-Word Count: 1,363
+Page Range: Page 4
+Word Range: 826 - 1159
+Word Count: 334
 --------------------
 
-[Page 14]
+[Page 4]
 UNDESA – Report on MSMEs and the Sustainable Development Goals  
  
-14 
-Individual MSMEs have the potential to adopt actions in their business practice to contribute to the goal. Similar 
-to large companies, MSMEs can be encouraged to adopt gender inclusive policies within their business practice 
-and in their value chains. This includes ensuring equal pay and benefits for work of equal value, zero -tolerance 
-towards all forms of violence at work, supporting women with flexible work arrangements, providing child and 
-dependent care support, promoting women in managem ent positions and increasing gender balance in the 
-teams.51 This could be achieved by adopting the Women’s Empowerment Principles, which are being promoted 
-by UN Women and UN Global Compact for firms of all sizes in all sectors.52 Many other tools exist that businesses, 
-including MSMEs, can use to promote gender inclusivity in their value chains. MSME entrepreneurs need to be 
-informed and trained on adopting these tools to change business practices.   
+4 
+I. Introduction 
  
-Gender balance in business promotes sustainability  
-Women employees and women leaders in business prioritize sustainability. A study by Net Impact found that 60 percent 
-of employed women said it was very important to work for a company that prioritises social and environmental 
-responsibility, compared to 38 percent of men.53 Evidence also shows that companies with more women on their boards 
-are more likely to invest in renewable power generation, low-carbon products, and energy efficiency.54  
-Women-owned enterprises and women leaders are core to changing business practice and culture towards sustainability.  
-An example is Green Strategy.55  Anna Brismar is the founder and owner of Green Strategy, a consultancy firm specialized 
-in circularity and sustainability issues of the fashion, apparel and textile industries on a global scale. She is the owner and 
-developer of the online platform Circularfashion.com, which is the world’s first platform dedicated exclusively to circularity 
-issues in the fashion, apparel and textile industries. She is also the founder and head of the Circular Fashion Network, an 
-international network of professionals working with circularity and sustainability issues in the fashion and textile 
-industries.56 Principles of design being promoted in the company include durability and longevity, use of nontoxic and 
-biodegradable materials, and ethical attitudes towards society and environment. They are also promoting recycling 
-through the development of effective and safe technologies.
-
-[Page 15]
-UNDESA – Report on MSMEs and the Sustainable Development Goals  
+This report aims to demonstrate the relevance, role and contributions of Micro-, Small- and Medium- Enterprises 
+(MSMEs) to the seventeen Sustainable Development Goals (SDGs). The report examines the role of MSMEs to 
+each of the SDGs. The report unpacks the role of MSMEs in economic activity, in creating employment and 
+incomes, particularly for the poor and marginalized groups, as service providers (for  example in education, 
+health, water and sanitation) and as energy users/polluters with environmental footprints. Through these lenses, 
+it is possible to establish direct and indirect linkages between MSMEs and the seventeen goals.  
+The SDG targets are ambitious and require transformation of public and private activities. This transformation is 
+associated with adapting new business models, bringing in new innovation/technology and doing business 
+differently – more sustainably and more ethically. This process  opens up new business opportunities for the 
+private sector in general and particularly for MSMEs. According to the Business and Sustainable Development 
+Commission, sustainable business models could open economic opportunities worth $12 trillion and create 380 
+million jobs by 2030, with more than 50 per cent1 being located in developing countries.  Such opportunities for 
+MSMEs have been identified under each goal. The discussion also focuses on selected business examples and 
+good practice initiatives that support MSMEs and in turn contribute to the achievement of SDGs.  
  
-15 
-Goal 6. Ensure availability and sustainable management of water 
-and sanitation for all  
+Background on MSMEs 
  
-This goal has eight targets. They focus on ensuring universal and equitable access to safe 
-water and safe sanitation, improving water quality, achieving water efficiency in sectors, 
-protecting water-based ecosystems, promoting integrated water resource management, 
-and increasing international cooperation to transfer knowledge, capacity building and 
-technology to address water and sanitation and to promote local level management of 
-water and sanitation activities.  
- 
-Can MSMEs help achieve Goal 6? 
- 
-MSMEs deliver water and sanitation services. The World Bank estimates an annual 
-need of $114 billion between now and 2030, three times the current investment 
-levels, if we are to achieve the targets related to water, sanitation and hygiene (WASH) 
-of SDG 6.57 MSMEs fill the gap in many developing countries where the public sector 
-fails to reach communities, particularly low -income families. In Asia, Africa and Latin 
-America, M SMEs, either through  their own funds or loans and some equity, are 
-delivering water and creating sanitation infrastructure in the rural -remote or dense -
-urban areas. These MSMEs provide, in various innovative ways, safe water in cans or 
-affordable water filtration systems; similarly , they provide household latrines with 
-onsite waste treatment or transportation and treatment/recycling of  the waste . In 
-Ghana, as in many other low - to middle -income countries, micro -enterprises are 
-common in sanitation service delivery , which include the storage, collection and 
-transport sections of the sanitation value chain.58 MSMEs in the water and sanitation 
-sector, however, face difficulties in viability due to limitations in demand, lack of 
-business and technical skills , and financial challenges such  as access to credit. 59 Capacity building of MSMEs 
-in the sector can contribute to the goal. 
- 
-Agricultural and food supply chain MSMEs can conserve water . The agriculture sector is by far the largest user 
-of freshwater, accounting for nearly 70 percent of global water withdrawals.60 Saving just a fraction of this would 
-significantly alleviate water stress in other sectors, particularly in arid countries where agriculture can consume 
-as much as 90 percent of available water resources. 61 MSMEs active in the agri cultural value chain can 
-contribute to water savings by increasing productivity of food crops, improving water management practices and 
-technologies, implementing sustainable agricultural practices, and growing fewer water-intensive crops. Capacity 
-building and awareness-raising for agri-businesses and farmers is key to changing these practices. 
-  
-Individual MSMEs have the potential to adopt actions in their business practice to contribute to the goal.  
-They can: 
-▪ Ensure that the workplace has appropriate WA SH facilities and advocate for WASH amongst 
-employees. 
-▪ Prioritize water efficiency by installing best-practice technologies for water conservation. 
-▪ Educate employees about the importance of water efficiency. 62 
-▪ Prohibit the use of chemicals and materials that can be particularly detrimental to water quality if 
-improperly disposed.63
-
-[Page 16]
-UNDESA – Report on MSMEs and the Sustainable Development Goals  
- 
-16 
-New business models/solutions and opportunities for MSMEs that will help achieve the SDGs. A report by the 
-World Bank in 2014 identified a potential US $1.2 trillion market for MSMEs in the developing world in the area 
-of “clean technology” for the decade ending in 2023. 64 The greatest opportunities identified were in waste 
-management, small hydro, water treatment and renewable energy. MSMEs are considered to be particularly well-
-placed to operate in this sector as they are already engaged in areas such as construction, installati on, 
-operations and maintenance  and the connection that MSMEs have to local markets. The study reports that in 
-the UK, up to 90 percent of clean technology businesses are MSMEs, and this could be repl icated in the 
-developing world. Safe disposal of waste is a huge challenge in many countries. The Bill & Melinda Gates 
-Foundation has funded innovators of various new, l ow-cost sanitation tech nologies. MSMEs can contribute to 
-the commercialization of such technology that is expected to have a global market valued at $6 billion by 2030.65 
-MSMEs and start-ups need to be supported with market-based and technology-based solutions through capacity 
-building, access to finance and expertise which in turn will contribute to the progress of this goal.  
-   
- Startups with water and sanitation solutions  
- 
-cewas Start-Up Programme Switzerland was initiated in 2011 and targets young entrepreneurs.66 The programme consists 
-of sector-relevant lectures providing the knowledge that allows participants to develop an idea, create a strong business 
-model, pitch the idea to the water sector at the International Water Week in Stockholm, develop the idea and manage the 
-business model. Expert coaches provide one -on-one coaching such as technical or business advice, introduce the start -
-ups into their network and assist with funding options. The programme lasts for one year and as of 2018, 54 start -ups 
-and MSMEs have participated. Participants include: 
-Eco Solutions Forge (ESF)  was founded in 2014 as a result of participating in the cewas Start -Up Programme. ESF aims 
-to change the current situation in the Ukrainian Carpathians with regards to wastewater treatment, and to offer 
-sustainable sanitation solutions for the tourist industry in the region. Its main activities are consulting and teaching on 
-water and sanitation issues, as well as designing and building wastewater treatment systems. Additional activities include 
-designing and building public dry toilets and rainwater harvesting systems. Lately, the main focus has been on researching 
-and building high-performance cold climate insulated vermifilters with biochar substrate. 
-SOIL is a non-profit research and development organization focusing on sustainable provision of household sanitation and 
-ecological waste treatment in Haiti. For a small monthly fee, SOIL’s social business, EkoLakay, provides over 1,000 
-households with container -based sanitation (CBS) toilets a nd safely transforms all collected waste into compost. The 
-revenue from toilet user fees and compost sales support ongoing project costs. SOIL’s model is one of just three household 
-CBS services globally.
+According to the World Bank, Micro, Small and Medium Enterprises (MSMEs) are defined as follows – micro 
+enterprises: 1–9 employees; small: 10–49 employees; and medium: 50–249 employees.2  However, the local 
+definition of MSMEs vary from country to country, and is based not only on number of employees, but also by inclusion 
+of other variables such as turnaround and assets. 
+MSMEs play an important role in the wider eco-system of firms. Start-ups and young firms, which are generally small or 
+micro firms, are the primary source of net job creation in many countries and are the driving force of innovation and 
+sustainability in the private sector. 
+There are about 365-445 million MSMEs in emerging markets: 25-30 million are formal SMEs, 55-70 million are 
+formal micro, and 285-345 million are informal enterprises.3

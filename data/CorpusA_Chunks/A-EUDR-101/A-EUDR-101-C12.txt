@@ -1,108 +1,60 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-101-C12
 Parent Doc ID: A-EUDR-101
-Page Range: Page 23 to Page 24
-Word Range: 19957 - 21778
-Word Count: 1,822
+Page Range: Page 4
+Word Range: 2884 - 3133
+Word Count: 250
 --------------------
 
-[Page 23]
-(64) Directive 2006/43/EC sets out r ules concer ning the statut or y audit of annual and consolidated fi nancial statements. 
-It is necessar y to ensure that consistent r ules apply to the audit of fi nancial stat ements and the assurance of 
-sustainability repor ting by the statut or y auditor . Directive 2006/43/EC should apply where the assurance opinion 
-on sustainability repor ting is expressed by a statut or y auditor or an audit fir m.
-(65) The r ules on the approval and recognition of statutor y auditors and audit fir ms should allow statutor y auditor s to 
-qualify also f or the assurance of sustainability repor ting. Member States should ensure that statutor y auditors who 
-wish to qualify f or the assurance of sustainability repor ting ha ve the necessar y level of theoretical knowledg e of 
-subjects relevant to the assurance of sustainability repor ting and the ability to apply such knowledg e in practice.
-Theref ore, statut or y auditors should complet e practical training of at least eight months in the assurance of annual 
-and consolidated sustainability repor ting or in other sustainability-relate d ser vices, taking account of previous 
-emplo yment exper ience. Howe ver , statut or y auditors that have already been appro ved or recognised in a Member 
-State should continue to be allo wed to car r y out the assurance of sustainability repor ting. Likewise, Member Stat es 
-should ensure that natural persons who are undergoing the approval process at the dat e of application of the 
-requirements f or the assurance of sustainability repor ting established by this amending Directive are not subject to 
-those requirements, provid ed they complet e the process within the f ollo wing two ye ars. Member Stat es should, 
-however , ensure that statut or y auditors appro ved within two y ears of the date of application of those requirements 
-and who wish to car r y out the assurance of sustainability repor ting acquire the necessar y knowledg e in 
-sustainability repor ting and the assurance of sustainability repor ting via continued profes sional education. Natural 
-persons who decide to be appro ved only as statut or y auditors f or statutor y audit should be able to decide at a later 
-point in time to qualify also f or the assurance of sustainability repor ting. In order to do so, such persons should 
-meet the necessar y requirements set out by Member Stat es to ensure that they also hav e the necessar y level of 
-theoretical knowledg e of subjects relevant to the assurance of sustainability repor ting and the ability to apply such 
-knowledg e in practice.
-(66) It should be ensured that the requirements imposed on auditors as regar ds the statutor y audit and the assurance of 
-sustainability repor ting they car r y out are consiste nt. Theref ore, there should be at least one designate d person who 
-is actively inv olved in car r ying out the assurance of sustainability repor ting (‘ke y sustainability par tner ’). When 
-car r ying out the assurance of sustainability repor ting, statut or y auditors should be required to devot e sufficient time 
-and assign sufficient resources and exper tise in order to car r y out their duties appropr iately . The client account 
-record should specify the f ees c harged f or the assurance of sustainability repor ting and an assurance fi le should be 
-creat ed to include inf or mation relat ed to the assurance of sustainability repor ting. Where the same statutor y auditor 
-car r ies out the statut or y audit of annual fi nancial state ments and the assurance of sustainability repor ting, it should 
-be possible to include the assurance file in the audit file. However , requirements imposed on statut or y auditors 
-relating to the assurance of sustainability repor ting should only apply to those statut or y auditors that car r y out the 
-assurance of sustainability repor ting.
-(67) Statut or y auditors or audit fi r ms that car r y out the assurance of sustainability repor ting should hav e a high level of 
-tec hnical and specialised exper tise in the fi eld of sustainability .
-(68) Directive 2006/43/EC requires Member Stat es to put appropr iate r ules in place to av oid the fe es on the statut or y 
-audit being inf luenced or det er mined by the provision of additional ser vices to the audited entity or being based on 
-any f or m of contingenc y . That Directive also requires Member Stat es to ensure that statutor y auditors car r ying out 
-statut or y audits compl y with the r ules on professional ethics, independence, objectivity , confidentiality and 
-professiona l secrecy . For reasons of coherence, it is appropr iate that those r ules be exte nded to statutor y auditors 
-car r ying out the assurance of sustainability repor ting.
+[Page 4]
+(9) If under takings car r ied out better sustainability repor ting, the ultimate beneficiar ies w ould be individual citizens and 
+sav ers, including trade unions and w orke rs ’ representatives who would be adequate ly inf or med and theref ore able to 
+bette r engag e in social dialogue. Sav ers who want to inve st sustainably will hav e the oppor tunity to do so, while all 
+citizens w ould benefi t from a stable, sustainable and inclusive economic system . T o realise such benefits, the 
+sustainability inf or mation disclosed in the annual repor ts of under takings first has to reach two pr imar y groups of 
+users. The first group of users consists of invest ors, including asset managers, who want to bette r understand the 
+r isks and oppor tunities that sustainability issues pose f or their inv estments and the impact s of those investments on 
+people and the en vironment. The second group of users consists of civil society actors , including non-go ver nmental 
+org anisations and social par tners, which wish to bett er hold under takings to account f or their im pacts on people and 
+the environment. Other stak eholders might also make use of sustainability inf or mation disclosed in annual repor ts, 
+in par ticular to f oster comparab ility across and within mark et sectors .
+The business par tners of under takings, including custome rs, might rely on sustainability inf or mation to understand 
+and, where necessar y , repor t on their sustainability r isks and impacts throughout their own value chains. P olicy 
+make rs and en vironmental agencies can use such inf or mation, in par ticular on an aggreg ate basis, to monitor 
+en vironmental and social trends, to contr ibut e to en vironmental accounts, and to inf or m public policy . Few 
+individual citizens and consumers directly consult under takings’ annual repor ts, but the y might use sustainability 
+inf or mation indirectly , f or exam ple, when consider ing the advice or opinions of fi nancial advisers or non- 
+governmental orga nisations. Many inve stors and asset managers purchase sustainability inf or mation from third- 
+par ty data providers, who collect inf or mation from var ious sources, including public cor porat e repor ts.
+(10) The mark et f or sustainability inf or mation is rapidly gro wing, and the role of third-par ty data provid ers is gainin g in 
+imp or tance given the new oblig ations that inve stors and asset manage rs need to fulfil. With the increased av ailability 
+of disaggregat ed data, sustainability inf or mation should come at a more reasonable cost. The amendments to 
+Directive 2013/34/EU provided f or in this amending Directive are expecte d to increase the comparability of data 
+and har monise standards. It is expecte d that the practices of third-par ty data providers will impro ve and that 
+exper tise will grow in this area, with a poten tial f or job creation.
+(11) There has been a ver y significant increase in demand f or cor porate sustainability inf or mation in recent years, 
+especially on the par t of the inve stment community . That increase in demand is dr iven by the c hanging nature of 
+r isks to under takings and growing invest or awar eness of the financia l imp lications of those r isks . That is especially 
+the case f or climat e-related financial r isks . There is also gro wing awar eness of the r isks and oppor tunities f or 
+under takings and f or investments resulting from other en vironmental issues, such as biodiversity loss, and from 
+health and social issues, including child labour and f orced labour . The increase in demand f or sustainability 
+inf or mation is also dr iven by the growth in inv estment products that explicitly seek to meet cer tain sustainability 
+standards or achi eve cer tain sustainability objectives and to ensure coherence with the ambition of the P ar is 
+Agreement under the U nited Nations Framew ork Conv ention on Climate Change adopt ed on 12 December 2015
+(the ‘Pari s Agreement ’), the UN Conv ention on Biological Diversity and U nion policies. P ar t of that increase is the 
+logical consequence of previously adopt ed Union legislation, notably Regulations (EU) 2019/2088 and (EU) 
+2020/852. Some of that increase would have happened in an y case, due to fa st-changing citizen aware ness, 
+consumer preferences and mark et practices. The CO VID-19 pandemic has fur ther accelerat ed the increase in users’ 
+inf or mation needs, in par ticular as it has exposed the vulnerabilities of work ers and under takings’ value chains. 
+Inf or mation on en vironmental im pacts is also relevant in the context of mitigating future pandemics, with human 
+disturbance of ecosystems being increasing ly linked to the occur rence and spread of diseases.
+(12) U nder takings themselves stand to benefit from car r ying out high-quality repor ting on sustainability matt ers. The 
+gro wth in the number of investment products that aim to pursue sustainability objectives means that good 
+sustainability repor ting can enhance an under taking’s access to financial capital. Sustainability repor ting can help 
+under takings to identify and manag e their o wn r isks and oppor tunities relat ed to sustainability matt ers. It can 
+provid e a basis f or bett er dialogue and communication between under takings and their stakeholders, and can help 
+under takings to impro ve their reputation. Moreover , a consistent basis f or sustainability repor ting in the f or m of 
+sustainability repor ting standards w ould lead to relevant and sufficient inf or mation being provi ded and thus 
+signif icantly decrease ad hoc requests f or inf or mation.
 EN
-Offi cial Jour nal of the European Uni on 16.12.2022 L 322/37
-
-[Page 24]
-(69) In order to provid e f or unif or m assurance practices and high-quality assurance of sustainability repor ting across the 
-U nion, the Commission should be em powered to adopt sustainability assurance standards by means of delega ted 
-acts. Member States should be given the possibility of applying national assurance standards, procedures or 
-requirements, as long as the Commission has not adopt ed an assurance standard by means of delegat ed acts 
-co ver ing the same subject matt er . Such assurance standards should set out the procedures that the auditor is to 
-perform in order to dra w its conclusions on the assurance of sustainability repor ting. Theref ore, the Commission 
-should adop t assurance standards f or limited assurance by means of delegat ed acts bef ore 1 October 2026 . With a 
-view to f acilitating the har monisation of the assurance of sustainability repor ting across Member State s, the CEA OB 
-should be encouraged to adopt non-binding guidelines to set out the procedures to be performe d when expressing 
-an assurance opinion on sustainability repor ting, pending the adop tion by the Commission of an assurance 
-standard cover ing the same subject matter .
-(70) Directive 2006/43/EC sets out r ules on the statut or y audit of a group of under takings. Similar r ules should be set out 
-f or the assurance of consolidated sustainability repor ting.
-(71) Directive 2006/43/EC requires statutor y auditors or audit fi r ms to present the results of their statut or y audit in an 
-audit repor t. Similar r ules should be set out f or the assurance of sustainability repor ting. The results of the 
-assurance of sustainability repor ting should be presented in an assurance repor t. Where the same statut or y auditor 
-car r ies out the statut or y audit of annual fi nancial state ments and the assurance of sustainability repor ting, it should 
-be possible to present the inf or mation about the assurance of sustainability repor ting in the audit repor t.
-(72) Directive 2006/43/EC requires Member Stat es to set up a system of quality assurance review of statut or y auditors 
-and audit fi r ms. T o ensure that quality assurance reviews also take place f or the assurance of sustainability repor ting 
-and that the persons who car r y out quality assurance reviews hav e appropr iat e professional education and relevant 
-exper ience in sustainability repor ting and in the assurance of sustainability repor ting, that requirement to set up a 
-system of quality assurance review should be extended to the assurance of sustainability repor ting. As a transitional 
-measure, until 31 December 2025 , the persons who car r y out quality assurance reviews of the assurance of 
-sustainability repor ting should be exe mp te d from the requirement to have relevant exper ience in sustainability 
-repor ting and in the assurance of sustainability repor ting or in other sustainability-relate d ser vices.
-(73) Directive 2006/43/EC requires Member Stat es to hav e in place an investig ations and sanctions regime f or statut or y 
-auditors and audit fir ms car r ying out statutor y audits. That Directive also requires Member States to organise an 
-effe ctive syste m of public o versight, and to ensure that regulatory ar rangements f or public oversight system s per mit 
-effe ctive cooperation at U nion level in respect of Member States’ oversight activities. Such requirements should be 
-extende d to statutor y auditors and audit fir ms that conduct assurance of sustainability repor ting in order to ensure 
-the consistency of the investig ations, sanctions and o versight framew ork s set up f or the auditor ’s w ork in the 
-statut or y audit and the assurance of sustainability repor ting.
-(74) Directive 2006/43/EC contains r ules on the appointment and dismissal of statut or y auditor s and audit fir ms 
-car r ying out statutor y audits. Those r ules should be extended to the assurance of sustainability repor ting to ensure 
-the consistency of the r ules imp osed on auditors as regards their w ork on the statut or y audit and the assurance of 
-sustainability repor ting.
-(75) Pursuant to Ar ticle 6 of Directive 2007/36/EC of the European P arliament and of the Council (
-36
-) , Member Stat es are 
-required to ensure that shareholders of under takings whose secur ities are admitt ed to trading on a regulated mark et 
-in the Union, acting individually or collectively , hav e the r ight to put it ems on the agenda of the g eneral meeting, 
-provid ed that each such it em is accompan ied by a justification or a draf t resolution to be adopt ed in the g eneral 
-meeting, and that the y hav e the r ight to table draf t resolutions f or it ems included or to be included on the ag enda of 
-a general meeting, as the case ma y be. Where those r ights are subject to the condition that the relevant shareholder 
-or shareholders hold a minimum stake in the under taking, such minimum stake is not to exce ed 5 % of the share 
-capital. As regards the assurance of sustainability repor ting, shareholders should be able to exer cise the r ights set 
-(
-36
-) Directive 2007/36/EC of the European Parliament and of the Council of 11 July 2007 on the exercise of cer tain r ights of shareholders 
-in listed compan ies (OJ L 184, 14.7.2007, p. 17).
-EN
-Offi cial Jour nal of the European Uni on L 322/38 16.12.2022
+Offi cial Jour nal of the European Uni on L 322/18 16.12.2022

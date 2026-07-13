@@ -1,0 +1,121 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-103-C77
+Parent Doc ID: A-MSME-103
+Page Range: Page 64
+Word Range: 22340 - 22596
+Word Count: 257
+--------------------
+
+[Page 64]
+Strategy for unlocking export potential for MSMEs in West Bengal
+64
+ Index No.Weights202020212022Coastal Average 
+(2022)
+National Average 
+(2022)
+IndicatorDefinition/Clarification
+OverallIndex Score 34.0539.7853.5765.5546.56  
+Policy (20%)
+Index Score 058.2079.5394.7274.71  
+1.1 Export 
+Promotion Policy 
+(10%)
+ 062.8676.3096.3673.02
+ The first sub-pillar evaluates the states’ performance in implementing 
+policies responsible for facilitating exports and enabling their growth. 
+1.1.11.50100100  
+Does state have a valid export 
+promotion policy/ strategy? (Yes 
+or no)
+This indicator captures whether a state has a targeted policy aimed at 
+enhanc- ing exports from the state
+1.1.21.50100100  
+Does state have a valid sector-
+specific policy for exports? (Yes/
+No)
+Every State has an edge in some sectors either due to the presence of 
+natural resources or due to human capital. Some States focus on these 
+sector specific ex- port policy rather than a common one.
+1.1.3
+1.1.3.A
+ 
+1
+ 
+ 
+ 
+0
+ 
+32.00
+ 
+ 
+ 
+ 
+District-level Export Action Plan
+How many districts have district 
+export action plan out of total 
+number of districts?
+ 
+District Level Export Promotion Plan is a key element of District as hub 
+initiative and is aimed at enhancing export activi- ty at District Level.
+1.1.41.5 0100 
+ Has the State identified thrust 
+sectors for exports? (Yes/No)
+Each State has a competitive advantage in specific sectors. It is, 
+therefore, neces- sary that the States identify these thrust sectors and 
+focus on developing their export strategy around them.
+1.1.5 
+1.1.5.A
+1.1.5.B
+ 
+1.5
+1
+0
+0
+100
+ 
+100
+100
+ 
+ 
+ 
+ 
+Product quality and standards
+Whether there is infor- mation 
+publicly available in the form 
+of FAQs or website regarding 
+quality requirements to be com- 
+piled in export items ?(Yes/ No)
+Are there any workshops 
+conducted for generating 
+awareness on compliance of 
+quality requirements for exports? 
+(Yes/No; Details)
+To become a part of the global value chain, it is important to adhere to 
+in- ternational standards and quality for exports as defined by WTO’s 
+Agree- ment on Technical Barrier to Trade (TBT Agreement), Sanitary and 
+Phytosanitary Measures (SPS Agreements), Pre-ship- ment Inspection 
+(PSI Agreement), USDA Certification, Conformity European or any other 
+certification.
+For adhering to quality requirements, State have to take initiative in 
+sensitising exporters to comply with export quality requirements
+1.1.61.50100100
+  Marketing Support : Does state 
+government provide any form of 
+marketing support for products 
+and services in international 
+market? (Yes/No)
+It is crucial for the State Government to work towards enhancing the 
+visibility of State level products in international markets
+1.1.710100100
+  Facilitation measures around 
+export promotion: Does 
+state conduct any awards for 
+excellence in exports? (Yes/ No); 
+Details of the event & awardee
+A State level program to honour companies involved in international 
+business is a good way to encourage exporters. The selection committee 
+can evaluate the applications taking into consideration the value of 
+exports, ratio of exports to sales, level of value addi- tion, adoption of 
+best practices, product and process innovation, R&D activity, etc.
+ANNEXURE
+Table 1: Detailed comparison table for Export Preparedness Index

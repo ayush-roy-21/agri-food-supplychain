@@ -1,0 +1,41 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-109-C23
+Parent Doc ID: A-RES-109
+Page Range: Page 11
+Word Range: 6057 - 6400
+Word Count: 344
+--------------------
+
+[Page 11]
+Clusters 1 and 2 have received much attention since they include 75 and 60 papers,
+respectively, among the 228 articles. Clusters 3 and 4 have received considerable attention with
+51 and 33 papers, respectively. Being a smaller sub-field, only nine articles are included in
+cluster 5. The top five articles in each cluster, based on at least one of the four measures of
+centrality, are given in Table VIII. Recent papers have appeared in Clusters 2 – 5, whereas the
+works of {431} Ilbery et al. (2006a), {419} Higgins et al. (2008), {417} Risku Norja et al. (2008)
+and {381} Freidberg et al. (2011) of 2002– 2014 appeared in the first cluster, signifying their
+influence in the complete network. This is due to the fact that BC is able to cluster very recent
+articles but it clusters few very old research papers (Boyack and Klavans, 2010). Among the
+recent articles, the works of {227} Forssell et al. (2015), {187} Giampietri et al. (2016a) and
+{169} Kulak et al. (2016) have a high degree closeness and eigenvector centrality. The
+betweenness centrality is found to be high for {291} Tsolakis et al. (2014), {275} Freidberg
+(2014) and {379} Fischer et al. (2009), which serves as a bridge in the whole network
+connecting different clusters. Similarly, the eigenvector centrality of the articles in the first
+cluster is higher, followed by {169} Kulaket al. (2016) and {225} Kulaket al. (2015) of Cluster 3.
+Cluster 5 has the least eigenvector centrality in which the lead articles have an eigenvector
+centrality of 0.0752, indicating that the research issue of these clusters has less association
+with other clusters in the network. To identify the research theme in each cluster, we further
+conducted a TM technique and established a co-word network as shown in Figure 6.
+Cluster 1 Cluster 2
+Cluster 3 Cluster 4
+Figure 4.
+Gephi visualization
+results of text mining
+using StanfordNLP
+within each cluster
+(2002– 2014)
+29
+Supply chain
+issues in SME
+food sector
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

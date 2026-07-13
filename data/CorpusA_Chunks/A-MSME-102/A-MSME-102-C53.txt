@@ -1,0 +1,87 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C53
+Parent Doc ID: A-MSME-102
+Page Range: Page 64 to Page 65
+Word Range: 14798 - 15047
+Word Count: 250
+--------------------
+
+[Page 64]
+64
+CMIE 
+Prowess 
+database – 
+Methodology 
+Definition of Segments and 
+Value-Added Calculation
+Identification of Enterprises 
+Step: 1
+Step: 3
+In the initial step of this analysis, segments for the computation of value added were identified 
+using the National Industrial Classification Codes. The chosen segments for this calculation 
+are outlined as follows:
+Data Extraction 
+Step: 2
+For the fiscal years 2014-2022, data extraction was performed, covering indicators such 
+as changes in stock, compensation to employees, insurance premiums, miscellaneous 
+expenditures, packaging costs, power/fuel/water charges, purchase of finished goods, raw 
+materials, rent/lease, repairs/maintenance, sales, and total income.
+In the process of ‘Filtering and Identification Based on Sales Thresholds,’ a meticulous 
+approach was adopted to specifically delineate Micro, Small, and Medium Enterprises 
+(MSMEs). This involved the application of a discerning sales-based filter, isolating companies 
+NIC Division/
+Group Code
+NIC Name
+101 Processing and preserving of meat
+102 Processing and preserving of fish, crustaceans and molluscs
+103 Processing and preserving of fruit and vegetables
+104 Manufacture of vegetable and animal oils and fats
+105 Manufacture of dairy products
+106 Manufacture of grain mill products, starches and starch products
+107 Manufacture of other food products
+108 Manufacture of prepared animal feeds
+110 Manufacture of beverages
+13 Manufacture of textiles
+14 Manufacture or wearable apparel
+201 Manufacture of basic chemicals, fertilizer and nitrogen compounds, plastics 
+and synthetic rubber in primary forms
+202 Manufacture of other chemical products
+203 Manufacture of man-made fibres
+29 Manufacture of motor vehicles, trailers and semi-trailers
+30 Manufacture of other transport equipment
+
+[Page 65]
+65
+Data Cleaning
+Value-Added Calculation and Analysis
+Step: 4
+Step: 5
+To ensure data accuracy, firms with missing values on the aforementioned indicators were 
+systematically filtered out during the cleaning process.
+The cost of intermediate consumption was computed by aggregating relevant expenses, 
+enabling the determination of value added (total income minus cost of intermediate 
+consumption) for each fiscal year. Subsequently, the year-on-year percentage increase in 
+value-added was calculated and visually presented, providing a comprehensive overview of 
+industry dynamics.
+Limitations
+The dataset's relatively small sample size may limit its representativeness of the 
+broader MSME landscape in India, as it predominantly includes firms adhering 
+to standardised bookkeeping practices. This exclusion may introduce potential 
+inaccuracies in assessing the true value added by diverse enterprises, especially 
+micro-enterprises that may not follow such practices.
+Limited Sample Size: 
+with sales figures falling within the Rs.2500 million range. The primary objective of this 
+filter is to precisely identify and distinguish MSMEs from larger corporations. The analysis is 
+strategically tailored to concentrate on enterprises within the delineated MSME category by 
+implementing a defined sales threshold. This deliberate refinement enhances the precision of 
+the examination of MSMEs, allowing for a more nuanced understanding which distinguishes 
+MSMEs from larger corporations. 
+A significant number of missing values in the dataset poses a challenge to the 
+reliability and comprehensiveness of the analysis. The absence of data points may 
+result in gaps in crucial indicators, affecting the accuracy of value-added calculations. 
+This limitation underscores the need for cautious interpretation of findings.
+The proprietary data collection methodology employed by the Centre for Monitoring 
+the Indian Economy (CMIE) may deviate from national and international standards. 
+This distinction should be considered in interpreting the analysis’s findings.
+Missing Values:
+Methodological Variations:

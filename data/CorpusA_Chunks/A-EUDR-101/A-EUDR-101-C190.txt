@@ -1,0 +1,52 @@
+--- CHUNK HEADER ---
+Chunk ID: A-EUDR-101-C190
+Parent Doc ID: A-EUDR-101
+Page Range: Page 58
+Word Range: 49639 - 49888
+Word Count: 250
+--------------------
+
+[Page 58]
+In any event, the name(s) of the person(s) inv olved shall be known to the relevant compet ent author ities.
+5. Member State s ma y require that, where the same statutor y auditor car r ies out the statut or y audit of annual 
+financia l statements and the assurance of sustainability repor ting, the assurance repor t on sustainability repor ting 
+ma y be included as a separate section of the audit repor t.
+6. The repor t of the statut or y auditor or the audit fi r m on the consolidated sustainability repor ting shall compl y 
+with the requirements set out in paragraphs 1 to 5.’;
+(19) Ar ticle 29 is amended as f ollows :
+(a) in paragraph 1, point (d) is replaced by the f ollowing:
+‘(d) the persons who car r y out quality assurance reviews shall hav e appropr iat e professional education and 
+relevant exper ience in statutor y audit and fi nancial repor ting and, where applicable, in sustainability 
+repor ting and in the assurance of sustainability repor ting or in other sustainability-related ser vices, 
+combined with specifi c training on quality assurance reviews;’;
+(b) in paragraph 1, point (f) is replaced by the f ollowi ng:
+‘(f) the scope of the quality assurance review , suppor ted by adequate tes ting of selected audit files and, where 
+applicable, assurance files, shall include an assessment of compl iance with applicable auditing standards and 
+independence requirements and, where applicable, with assurance standards, and an assessment of the 
+quantity and quality of resources spent, of the audit fe es and f ees charg ed f or the assurance of sustainability 
+repor ting, and of the intern al quality control system of the audit fir m;’;
+(c) in paragraph 1, point (h) is replaced by the f ollo wing:
+‘(h) quality assurance reviews shall take place on the basis of an analysis of the r isk and, in the case of statut or y 
+auditors and audit fir ms car r ying out statut or y audits as defined in point (a) of point 1 of Ar ticle 2 and, 
+where applicable, car r ying out assurance of sustainability repor ting, at least ever y six years;’;
+(d) in paragraph 2, point (a) is replaced by the f ollo wing:
+‘(a) reviewers shall hav e appropr iate professional education and relevant exper ience in statut or y audit and 
+fi nancial repor ting and, where applicable, in sustainability repor ting and in the assurance of sustainability 
+repor ting or in other sustainability-related ser vices, combined with specific training on quality assurance 
+reviews;’;
+(e) the f ollowi ng paragraph is inser te d:
+‘2a. Member States ma y exem pt, until 31 December 2025 , persons who car r y out quality assurance reviews 
+relating to the assurance of sustainability repor ting from the requirement to hav e relevant exper ience in 
+sustainability repor ting and in the assurance of sustainability repor ting or in other sustainability-related ser vices.’;
+(20) in Ar ticle 30, paragraphs 1 and 2 are replaced by the f ollowing:
+‘1. Member Stat es shall ensure that there are eff ective systems of inv estigations and sanctions to det ect, cor rect and 
+prevent inadequate execution of the statutor y audit and the assurance of sustainability repor ting.
+2. Without prejudice to their civil liability regimes, Member Stat es shall provide f or effective, propor tionate and 
+dissuasive sanctions in respect of statutor y auditors and audit fir ms, where statutor y audits or assurance of 
+sustainability repor ting are not car r ied out in conf or mity with the provis ions adopt ed in the imp lementation of this 
+Directive, and, where applicable, with Regulation (EU) No 537/2014.
+Member States ma y decide not to la y do wn r ules f or administrative sanctions f or infr ingements which are already 
+subject to national cr iminal law . In that event, the y shall communicate to the Commission the relevant cr iminal la w 
+provis ions.’;
+EN
+Offi cial Jour nal of the European Uni on L 322/72 16.12.2022

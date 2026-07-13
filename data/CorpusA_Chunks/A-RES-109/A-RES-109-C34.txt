@@ -1,0 +1,82 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-109-C34
+Parent Doc ID: A-RES-109
+Page Range: Page 17
+Word Range: 9001 - 9259
+Word Count: 259
+--------------------
+
+[Page 17]
+qualified source) and review works, as shown in Table X. From Table X, it is evident
+that case study/empirical modelling, followe d by conceptual or qualitative techniques, are
+the most commonly used solution methodol ogy to address supply chain issues in SME
+food sectors.
+The different research approaches and various data analysis methods are shown in
+Figures 8 and 9, respectively. The most popular solution methodology used is the case
+study/empirical method (41.22 per cent), followed by conceptual/qualitative (36.4 per cent),
+literature review (15.3 per cent) and quantitative methods (7 per cent), respectively. Also, it is
+identified that a survey is the most commonly used empirical method. Data analysis
+methods, for instance, theoretical description, life cycle assessment (LCA), simulation,
+structural equation model, factor analysis, etc., have been extensively used. The most
+popular data analysis approach is found as the theoretical description, followed by a survey
+method. Our results agreed with the findings of Prakash (2018).
+The distribution of research papers on the b asis of food sectors is shown in Figure 10.
+Following the previous literature, we identified five major SME food sectors, which are
+classified as dairy, fruits and vegetable s, meat and poultry, seafood and grains and
+oilseed. The dairy sector is the most addressed (36 per cent), followed by fruits and
+vegetables (27 per cent), meat and poultry (18 per cent), seafood (10 per cent) and grains
+and oilseed (8 per cent). It is also identified t hat the dairy sector has received significant
+attention in “GHG Emission impact of farm food system ” and “Relationship, safety, and
+standards in food supply chain ” themes. Fruits and vegetables have received significant
+attention in all the identified themes. Me at and poultry sectors have received much
+attention in traceability and product quality in the FSC and “Relationship, safety and
+standards in food supply chain ” themes. Sea foods and grain and oil seeds sectors
+have received limited attention among the i dentified themes. It is observed that the
+dairy sector, followed by fruits and vegetables and meat and poultry, have received
+much attention in the academic literature, wh ereas seafood and grains and oilseed need
+further research.
+2002–2014
+Alternative
+Food Network
+(Cluster 2)
+Recomposition
+Production and
+distribution in
+AFN (Cluster 1)
+GHG Emission impact
+of farm food system
+(Cluster 3) 
+Relationship, safety and
+standards in food supply
+chain (Cluster 2) 
+Traceability and product
+quality in food supply
+chain (Cluster 4) 
+Price transmission in the
+food supply chain
+(Cluster 5) 
+Recomposition
+Recomposition
+Differentiation
+Land use and
+Emission impact of
+livestock systems
+(Cluster 4)
+Supply chain
+relationship in
+food industry
+(Cluster 3)
+Market economics
+of contract farming
+in SME food supply
+chain (Cluster 1)
+2002–2018
+Figure 7.
+Development pattern
+of SC issues in SME
+food sector
+35
+Supply chain
+issues in SME
+food sector
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

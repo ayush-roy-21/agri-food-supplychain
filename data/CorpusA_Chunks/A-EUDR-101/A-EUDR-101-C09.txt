@@ -1,114 +1,67 @@
 --- CHUNK HEADER ---
 Chunk ID: A-EUDR-101-C09
 Parent Doc ID: A-EUDR-101
-Page Range: Page 17 to Page 18
-Word Range: 14471 - 16289
-Word Count: 1,819
+Page Range: Page 3
+Word Range: 2013 - 2262
+Word Count: 250
 --------------------
 
-[Page 17]
-Conv ention on the Rights of the Child, the ILO Declaration on Fundamental Pr inciples and Rights at W ork , the 
-fundamental conventions of the ILO, the European Conv ention f or the Protection of Human Rights and 
-Fundamental Freedoms, the European Social Char ter , and the Char te r of Fundamental Rights of the European 
-U nion. Repor ting car r ied out on social fact ors, as well as on envi ronmental and govern ance f actors, should be 
-propor tionat e to the scope and the goals of this amending Directive. Sustainability repor ting standards that address 
-ge nder equality and equal pa y f or w ork of equal value should specify , amongst other things, inf or mation to be 
-repor ted about the gender pa y g ap, taking account of other relevant U nion la w . Sustainability repor ting standards 
-that address em plo yment and inclusion of people with disabilities should specify , amongst other things, 
-inf or mation to be repor ted about accessibility measures tak en by the under taking.
-Sustainability repor ting standards that address training and skills development should specify , amongst other things, 
-inf or mation to be repor ted about the propor tion and breakdown of w orkers par ticipating in training. Sustainability 
-repor ting standards that address collective bargaining should specify , amongst other things, inf or mation to be 
-disclosed about the existen ce of w ork s councils as well as the existen ce of collective agreements and the propor tion 
-of work ers covered by such agreements. Sustainability repor ting standards that address par ticipation of w orke rs 
-should specify , amongst other things, inf or mation to be disclosed about the par ticipation of work ers in 
-administrative and super visor y boards. Sustainability repor ting standards that address diversity should specify , 
-amongst other things, inf or mation to be repor ted on gender diversity at top management and the number of 
-members of the under -represented sex on their boards.
-(50) Users need inf or mation about govern ance fact ors. Gov er nance f actors that are most relevant to users are liste d by 
-author itative repor ting frameworks such as the Global Repor ting Initiative and the T ask Force on Climate-r elated 
-Financial Disclosures, as well as by author itative g lobal framewor k s such as the Global Gover nance Pr inciples of the 
-Internatio nal Cor porate Gov er nance Networ k and the G20/OECD Pr inciples of Cor porat e Gover nance. 
-Sustainability repor ting standards should specify the inf or mation that under takings should disclose on govern ance 
-fa ctors. Such inf or mation should co ver the role of an under taking’s administrative, manag ement and super visor y 
-bodies with regard to sustainability matters, the exper tise and skills needed to fulfil that role or the access such 
-bodies have to such exper tise and skills, whether the compan y has a policy in te r ms of incentives which are offered 
-to members of those bodies and whic h are linke d to sustainability matt ers, and inf or mation on an under taking’s 
-internal control and r isk manag ement system s in relation to the sustainability repor ting process. Users also need 
-inf or mation about under takings’ cor porate culture and approach to business ethics, whic h are recognised elements 
-of author itative framewor k s on cor porat e governance , such as the Global Gov er nance Pr inciples of the 
-Internatio nal Cor porat e Govern ance Network, including inf or mation about anti-cor r uption and anti-br iber y , and 
-about the under taking’s activities and commitments aimed at exer ting its political inf luence, including its lobb ying 
-activities.
-Inf or mation about the management of the under taking and the quality of relationships with customer s, suppliers 
-and communities aff ected by the activities of the under taking, helps users to understand an under taking’s r isks and 
-imp acts relat ed to sustainability matters. Inf or mation about relationships with suppliers includes pa yment practices 
-relating to the dat e or per iod f or pa yment, the rat e of inte rest f or late pa yment or the compen sation f or recovery 
-costs refe r red to in Directive 2011/7/EU of the European Parliament and of the Council (
-31
-) . Ever y ye ar , thousands 
-of businesses, especially small and medium-sized ent er pr ises (‘SMEs’ ), suffe r an administrative and fi nancial burden 
-because the y are paid late, or not at all. Ultimat ely , late pa yments lead to insolvency and bankr uptcy , with 
-destr uctive effects on entire value c hains. Increasing the amount of inf or mation about pa yment practices should 
-empo wer other under takings to identify promp t and reliable pa ye rs, det ect unfa ir pa yment practices, access 
-inf or mation about the businesses the y trade with, and negotiate f airer pa yment term s.
+[Page 3]
+(3) In its Communication of 17 June 2019 entitled ‘Guidelines on non-f inancial repor ting: Supplement on repor ting 
+climat e-related inf or mation’ (‘Guidelines on repor ting climat e-relat ed inf or mation’), the Commission highlighted the 
+benefits f or companies of repor ting on climate-relat ed inf or mation par ticularly by increasing awareness and 
+understanding of climate -related r isks and oppor tunities within the compan y , diversifying the inve stor base, 
+creating a lo wer cost of capital and impro ving constr uctive dialogue with all stakeho lders. Fur ther more, diversity on 
+compan y boards might hav e an inf luence on decision-making, cor porate governance and resilience.
+(4) In its conclusions of 5 December 2019 on the deepening of the Capital Mark ets Union, the Council stressed the 
+imp or tance of reliable, comparable and relevant inf or mation on sustainability r isks , oppor tunities and im pacts, and 
+called on the Commission to consider the development of a European non-fi nancial repor ting standard.
+(5) In its resolution of 29 Ma y 2018 on sustainable finance (
+14
+) , the European Parliament called f or the fur ther 
+development of non-financial repor ting requirements in the framework of Directive 2013/34/EU. In its resolution 
+of 17 December 2020 on sustainable cor porate governance (
+15
+) , the European P arliament welcomed the 
+Commission’s commitment to review Directive 2013/34/EU and expressed the need to set up a compreh ensive 
+U nion framework on non-fi nancial repor ting that contains mandatory U nion non-fi nancial repor ting standards. 
+The European P arliament called f or the expansion of the scope of the repor ting requirements to additional 
+catego r ies of under takings and f or the introduction of an audit requirement.
+(6) In its resolution of 25 Sept ember 2015 entitled ‘ T ransf or ming our w orld: the 2030 Agen da f or Sustainable 
+Development’ (the ‘2030 Agen da’) the Unit ed Nations (UN) General Assembly adopt ed a new g lobal sustainable 
+development framew ork . The 2030 Agen da has at its core the UN Sustainable Development Goals (‘SDGs’ ) and 
+co vers the three dimensions of sustainability : economic, social and en vironmental. The Commission 
+Communication of 22 No vember 2016 entitled ‘Next ste ps f or a sustainable European future: European action f or 
+sustainability’ linked the SDGs to the U nion policy framew ork to ensure that all Union actions and policy initiatives, 
+both within and outside the U nion, take those goals on board at the outset. In its conclusions of 20 June 2017 on ‘ A 
+sustainable European future: The EU response to the 2030 Agenda f or Sustainable Development’, the Council 
+conf ir med the commitment of the Union and its Member Stat es to the implementation of the 2030 Agen da in a 
+full, coherent, comprehensive, integrat ed and effective manner , in close cooperation with par tners and other 
+stake holders.
+(7) Directive 2014/95/EU of the European P arliament and of the Council (
+16
+) amended Directive 2013/34/EU as regards 
+disclosure of non-fi nancial inf or mation by cer tain larg e under takings and groups. Directive 2014/95/EU introduced 
+a requirement on under takings to repor t inf or mation on, as a minimum, en vironmental, social and emplo y ee 
+matte rs, respect f or human r ights, anti-cor r uption and br iber y matters. With regard to those topics, Directive 
+2014/95/EU required under takings to disclose inf or mation under the f ollowi ng repor ting areas: business model; 
+policies, including due diligence processes; the outcome of those policies; r isks and r isk management; and ke y 
+performa nce indicator s relevant to the business.
+(8) Many stak eholders consider the term ‘non-financial’ to be inaccurate , in par ticular because it im plies that the 
+inf or mation in question has no financia l relevance. Increasing ly , however , such inf or mation does have financial 
+relevance. Many organisations, initiatives and practitioners in the field of sustainability repor ting refer to 
+‘sustainability inf or mation’. It is theref ore preferable to use the term ‘sustainability inf or mation’ in place of ‘non- 
+fi nancial inf or mation’. Directive 2013/34/EU should theref ore be amended to take account of that chang e in 
+term inology .
 (
-31
-) Directive 2011/7/EU of the European Parliament and of the Council of 16 Febr uar y 2011 on combating late pa yment in commercial 
-transactions (OJ L 48, 23.2.2011, p. 1).
-EN
-Offi cial Jour nal of the European Uni on 16.12.2022 L 322/31
-
-[Page 18]
-(51) The sustainability repor ting standards should promot e a more integrat ed view of all the inf or mation published by 
-under takings in the manag ement repor t to provid e users of that inf or mation with a bett er understanding of the 
-development, performance, position and impact of the under taking. The sustainability repor ting standards should 
-distinguish, as necessar y , between inf or mation that under takings should disclose when repor ting at individual level 
-and the inf or mation that under takings should disclose when repor ting at group level. The sustainability repor ting 
-standards should also contain guidance f or under takings on the process f or identifying the sustainability 
-inf or mation that should be included in the manage ment repor t, since an under taking should only be required to 
-disclose the inf or mation relevant to understanding its impa cts on sustainability matt ers, and the inf or mation 
-relevant to understanding how sustainability matte rs affect its development, performa nce and position.
-(52) Member States should ensure that sustainability repor ting is car r ied out in compl iance with work ers’ r ights to 
-inf or mation and consultation. The manag ement of the under taking should theref ore inf or m w orkers’ 
-representatives at the appropr iate level and discuss with them relevant inf or mation and the means of obtaining and 
-ver ifying sustainability inf or mation. This im plies f or the pur pose of this amending Directive the establishment of 
-dialogue and exc hange of views between w orke rs ’ representatives and central manag ement or any other level of 
-manage ment that could be more appropr iate, at such times, in such fashion and with such content as would enable 
-w orkers’ representatives to express their opinion. Their opinion should be communicated, where applicable, to the 
-relevant administrative, manage ment or super visor y bodies.
-(53) U nder takings in the same sect or are of ten exposed to similar sustainability-relate d r isks , and the y of ten hav e similar 
-imp acts on society and the environment. Com par isons between under takings in the same sect or are especially 
-valuable to inve stors and other users of sustainability inf or mation. Sustainability repor ting standards should 
-theref ore specify both inf or mation that under takings in all sect ors should disclose and inf or mation that 
-under takings should disclose depending on their sector of activity . Sector -specifi c sustainability repor ting standards 
-are especially imp or tant in the case of sect ors associated with high sustainability r isks f or or impacts on the 
-en vironment, human r ights and govern ance, including sectors listed in Sections A to H and Section L of Annex I to 
-Regulation (EC) No 1893/2006 of the European Parliament and of the Council (
-32
-) , and the relevant activities within 
-those sector s. When adopt ing sector -specif ic sustainability repor ting standards, the Commission should ensure the 
-inf or mation specifi ed by those sustainability repor ting standards is propor tionat e to the scale of the r isks and 
-imp acts relat ed to sustainability matters specific to each sector , taking account of the f act that the r isks and im pacts 
-of some sector s are higher than f or others. The Commission should also take account of the f act that not all activities 
-within such sector s are necessar ily associated with high sustainability r isks or im pacts. For under takings that operat e 
-in sect ors par ticularly reliant on natural resources, sector -specif ic sustainability repor ting standards w ould require 
-the disclosure of nature-related impacts on and r isks f or biodiversity and ecosystems.
-Sustainability repor ting standards should also tak e account of the difficulties that under takings ma y encounter in 
-gat her ing inf or mation from actors throughout their value c hain, especially from suppliers that are small or 
-medium-sized under takings and from suppliers in emerging mark ets and economies. Sustainability repor ting 
-standards should specify disclosures concer ning value c hains that are propor tionate and relevant to the scale and 
-compl exity of the activities of the under takings, and the capacities and c haract er istics of under takings in value 
-c hains, especially those capacities and c haract er istics of under takings that are not subject to the sustainability 
-repor ting requirements provid ed f or in this amending Directive. Sustainability repor ting standards should not 
-specify disclosures that w ould require under takings to obtain inf or mation from small and medium-sized 
-under takings in their value c hain that exceed s the inf or mation to be disclosed in accordance with the sustainability 
-repor ting standards f or small and medium-sized under takings. This should be without prejudice to an y U nion 
-requirements on under takings to conduct a due diligence process.
+14
+) OJ C 76, 9.3.2020, p. 23.
 (
-32
-) Regulation (EC) No 1893/2006 of the European Parliament and of the Council of 20 December 2006 establishing the statistical 
-classif ication of economic activities NA CE Revision 2 and amending Council Regulation (EEC) No 3037/90 as well as cer tain EC 
-Regulations on specific statistical domains (OJ L 393, 30.12.2006, p. 1).
+15
+) OJ C 445, 29.10.2021, p. 94.
+(
+16
+) Directive 2014/95/EU of the European P arliament and of the Council of 22 October 2014 amending Directive 2013/34/EU as regards 
+disclosure of non-fi nancial and diversity inf or mation by cer tain larg e under takings and groups (OJ L 330, 15.11.2014, p. 1).
 EN
-Offi cial Jour nal of the European Uni on L 322/32 16.12.2022
+Offi cial Jour nal of the European Uni on 16.12.2022 L 322/17

@@ -1,0 +1,98 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C13
+Parent Doc ID: A-RES-100
+Page Range: Page 19 to Page 21
+Word Range: 3818 - 4067
+Word Count: 250
+--------------------
+
+[Page 19]
+19
+Overall, the findings show that while regulatory volatility
+creates uncertainty, it has not weakened corporate
+sustainability momentum. Companies continue to view
+sustainability as strategically important, often setting
+targets that anticipate or exceed policy requirements.
+Regional differences remain clear; European businesses are
+more directly shaped by regulation, while North American
+organizations lean on investor and board priorities, but in
+both circumstances, public commitments and stakeholder
+pressure drive deeper integration of sustainability into
+business practice. Importantly, businesses that make their
+goals explicit are far more likely to embed them into daily
+decisions and invest in high-impact initiatives,
+underscoring that transparency and effective execution are
+key enablers of meaningful progress.
+57% of companies with
+public sustainability
+pledges embed
+sustainability into daily
+operations, signaling
+that commitments are
+increasingly operational,
+not just aspirational.
+Issue No.06
+
+[Page 20]
+This section highlights how companies are addressing and managing Scope 3 emissions,
+starting with understanding the current state and challenges of measuring Scope 3
+emissions, and dives into the tools, technologies, and data sources used to capture these
+emissions, highlighting differences between regions such as North America and Europe. It
+highlights challenges in both measurement and reduction and then explores practical
+decarbonization strategies, including supplier engagement and industry collaborations.
+ 
+MANAGING
+SCOPE 3: 
+20
+FROM MEASUREMENT TO
+MITIGATION
+State of Supply Chain Sustainability 2025
+
+[Page 21]
+Diagram adapted from Greenhouse Gas Protocol (2024)
+21
+Companies are under increasing pressure to measure and report
+emissions, especially those with public sustainability goals or
+operations in the EU. Under the Greenhouse Gas Protocol, Scope 1
+covers direct emissions, Scope 2 covers purchased energy, and
+Scope 3 covers all other indirect emissions across the value chain .
+Scope 3 is the most difficult to measure and manage, yet it typically
+accounts for more than 75% of a company’s total footprint. 
+5
+While many companies have become proficient at reporting Scope 1
+and 2, Scope 3 remains a major challenge. More than 40% of
+businesses track and reduce Scope 1 and 2 emissions, but less than
+half of those are tracking and reducing their Scope 3 emissions—
+especially in Categories 1 (Purchased Goods and Services), 4
+(Upstream Transport), and 9 (Downstream Transport/Distribution).
+The complexity of global supply chains, data availability, and
+methodological choices all contribute to this gap, underscoring why
+Scope 3 is the linchpin of credible climate strategies.
+Measuring What Matters: Insights into Scope 3 Emissions
+Challenges and Current State
+Issue No.06
+Spreadsheets
+dominate (66%)
+Scope 3
+measurement,
+underscoring
+both progress in
+coverage and the
+urgent need for
+scalable, tech-
+enabled solutions.
+Includes energy that your company
+purchases, but does not generate it or 
+its emissions, This is why it is indirect
+emissions.
+Includes fuels you burn directly and
+applies to your company if you pay
+the fuel bill or own the asset.
+Includes all other indirect emissions that occur in a
+company’s value chain and usually are the greatest
+source of emissions. These are the 15 categories
+that represent upstream and downstream activities
+classified as Scope 3 by GHG Protocol
+distribution
+distribution
+activities

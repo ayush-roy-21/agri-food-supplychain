@@ -1,9 +1,9 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MSME-101-C01
 Parent Doc ID: A-MSME-101
-Page Range: Page 2 to Page 10
-Word Range: 1 - 1218
-Word Count: 1,218
+Page Range: Page 2 to Page 4
+Word Range: 1 - 250
+Word Count: 250
 --------------------
 
 [Page 2]
@@ -161,77 +161,3 @@ Secretary. MoMSME. U. C. Shukla Director (EP) — DC MSME, R. Ananth — Directo
 DOR, Reema Jain — Joint Director. DPIIT. Roshan Lal - Additional Director General, CBIC 
 (Customs) and Surjith Karthikeya - Dy Secretary, Financial Services for their grounded 
 perspective on the subject.
-
-[Page 9]
-MSMEs are often called the powerhouse of the Indian economy. MSMEs contribute significantly to 
-employment generation, exports, and overall economic growth. They reportedly account for more than 
-11 crore jobs1 and contribute around 27.0% of India's GDP2. According to estimates, the sector consists of 
-around 6.4 crore MSMEs3, with 1.5 crore of them registered on the Udyam porta1 1 and employs around 
-23.0% of the Indian labor force4, making it the second-largest employer in India after agriculture. They 
-account for 38.4% of the total manufacturing output2 and contribute 45.03% of the country's total 
-exports5. 
-Exports represent an enormous and under-utilized opportunity for the MSME sector. Sectors where Indian 
-MSMEs can participate and compete in export markets include handicrafts, handloom textiles, ayurveda 
-and herbal supplements, leather goods, imitation jewellery and wooden products. Globally, these sectors 
-constitute substantial markets exceeding USD 340 billion, whereas their domestic market is considerably 
-smaller. 
-Over time, small firms have encountered difficulties in tapping into export markets due to the inherent 
-obstacles posed by economies of scale. It proves more challenging for small enterprises to enter foreign 
-markets, adhere to compliance requirements, achieve cost-effective production, and efficiently manage 
-logistics for clients. However, the emergence of both broad and niche e-commerce marketplaces 
-addresses many of these barriers. By modifying our business environment to facilitate seamless exports 
-through e-commerce platforms, coupled with addressing essential ease-of-doing-business factors, we 
-have the potential to catalyze a radical transformation of our MSME sector into a formidable growth 
-engine. 
-In this report, we have six broad set of recommendations to boost MSME Exports: 
-Create One Stop Information Channel for 
-Exporters 
-India has several portals that help exporters access information, most of which offer incomplete or 
-outdated information. Therefore, creating a one stop information data intelligence portal using Al based 
-interface will be essential to impart information to MSMEs. This portal shall answer all the queries of a 
-potential exporter related to market such as tariffs, required paperwork, sources of finance, service 
-providers, available incentives, and potential customers. This could be done under the Ministry of 
-Commerce by enlisting a competent external vendor. 
-1 
-2 
-3 
-4 
-5 
-Udyam Dashboard 
-PIB Press Release: Contribution of MSMEs and Cottage Industry to GDP 
-NSS 73rd round, Ministry of Statistics & Programme Implementation, 
-2015-16 Author's Calculation based on NSS 73rd round 
-PIB Press Release: Contribution of MSMEs and Cottage Industry to GDP 
-07
-
-[Page 10]
-Create National Trade Network (NTN) as 
-Comprehensive Trade Portal 
-Currently an exporter needs to navigate multiple portals to get necessary approvals. This includes the 
-documentation for licenses and certification to actual receipt of payment in the bank account. The entire 
-process is extremely cumbersome and requires navigating through several interfaces including the need 
-for physical submission of documents. This difficulty can be eliminated by creating an end-to-end national 
-trade portal (NTN) which will provide seamless experience to exporters including answering queries and 
-resolution of any gaps in paperwork. This will help reduce the process burden as well as delay for MSME 
-exporters and enable them to compete effectively. The Ministry of Commerce could form a task force to 
-review the status of previous initiatives in this regard (e.g., SWIFT) and create a timebound program to 
-implement a national trade network on par with the best in world. 
-Promote E-commerce Exports 
-Access to the market consistently emerges as a significant obstacle hindering MSME exports. Fortunately, 
-a readily available solution to this issue is E-commerce. According to Global Trade Research Initiative's 
-(GTRI) report, in 2022 MSMEs in China are already exporting goods worth over $200 bn through 
-E-commerce platforms while India's e-commerce export is barely $2 bn. One key reason for this gap is the
-cumbersome compliance process associated with exports, especially when it comes to payment
-reconciliation, which is particularly challenging for a new or small exporter. To boost e-commerce exports,
-it is essential to create distinction between Exporter on Record (EOR) and Seller on Record (SOR), allow
-reduction in invoice value without any percentage ceiling for all e-commerce exports, introduce annual
-financial reconciliation process for e-commerce exporters, exempt import duties on rejects / returns,
-consider an exemption on reconciliation requirements for shipments up to $1000 until NTN is
-implemented and creating a green channel clearance for e-commerce exports.
-Promote Ease of Merchandise Exports 
-While the government has placed high emphasis on improving Ease of Doing Business, it should be 
-extended to exports processes, particularly targeted at MSME exporters. For example, MSMEs can be 
-offered relaxation from certain compliance requirements for a period and forgiven on errors as they begin 
-to learn requirements of export markets. On the other hand, a process must be created for time bound 
-disbursement of incentives so that working capital is not blocked for MSMEs. 
-Boosting Exports from MSMEs 08

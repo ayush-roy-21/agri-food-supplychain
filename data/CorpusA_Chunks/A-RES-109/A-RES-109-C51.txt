@@ -1,0 +1,63 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-109-C51
+Parent Doc ID: A-RES-109
+Page Range: Page 25
+Word Range: 13390 - 13639
+Word Count: 250
+--------------------
+
+[Page 25]
+The proposed review has a few limitations. In our study, only the title and abstract of all
+the research articles in each cluster are text mined. Our results and findings may advance if
+the frequent words or phrases used in the entire research article are text mined. As a future
+extension and to avoid the drawbacks, the entire article can be included for the analysis.
+Unpublished works, conference proceedings and doctoral thesis were not included in the
+review. Also, we excluded articles before 2002, even though the number of articles published
+before this time period is very limited.
+References
+Aramyan, L.H. and Kuiper, M. (2009), “Analyzing price transmission in agri-food supply chains: an
+overview”, Measuring Business Excellence , Vol. 13 No. 3, pp. 3-12.
+Auler, D.P., Teixeira, R. and Nardi, V. (2017), “Food safety as a field in supply chain management
+studies: a systematic literature review ”, International Food and Agribusiness Management
+Review, Vol. 20 No. 1, pp. 99-112, available at: https://doi.org/10.22434/IFAMR2016.0003
+Barbara, K. and Wichmann, L.K. (2016), “Article information: social network analysis in supply chain
+management research ”, International Journal of Physical Distribution & Logistics Management ,
+Vol. 46 No. 8, pp. 740-762, available at: https://doi.org/10.1108/09600039710757736
+Bazzani, C. and Canavari, M. (2013), “Alternative agri-food networks and short food supply chains: a
+review of the literature ”, Economia Agro-Alimentare , Vol. 15 No. 2, pp. 11-34.
+Bjurström, P. (2011), “On the use of bibliometrics for domain analysis: a study of the academic field of
+political science in Europe (dissertation) ”, available at: http://urn.kb.se/resolve?urn =urn:nbn:se:
+uu:diva-155192 (accessed 1 December 2018).
+Bonacich, P. (1987), “Power and centrality: a family of measures ”, American Journal of Sociology ,
+Vol. 92 No. 5, pp. 1170-1182, available at: https://link.springer.com/chapter/10.1007/978-3-658-
+21742-6_14
+Bonacich, P. (2007), “Some unique properties of eigenvector centrality ”, Social Networks, Vol. 29 No. 4,
+pp. 555-564, available at: https://doi.org/10.1016/j.socnet.2007.04.002
+Boyack, K.W. and Klavans, R. (2010), “Co-citation analysis, bibliographic coupling, and direct citation:
+which citation approach represents the research front most accurately? ”, Journal of the
+American Society for Information Science and Technology , Vol. 61 No. 12, pp. 2389-2404,
+available at: https://doi.org/10.1002/asi
+Charlebois, S. (2015), “Market performance and food safety compliance for small food businesses: the
+case of fifth town artisan cheese ”, Critical Reviews in Food Science and Nutrition , available at:
+https://doi.org/10.1080/10408398.2013.848423
+Cobo, M.J. and Herrera, F. (2011), “An approach for detecting, quantifying, and visualizing the
+evolution of a research field: a practical application to the fuzzy sets theory field ”, Journal of
+Informetrics, Vol. 5 No. 1, pp. 146-166, available at: https://doi.org/10.1016/j.joi.2010.10.002
+Colicchia, C. and Strozzi, F. (2012), “Supply chain risk management: a new methodology for a
+systematic literature review”, Supply Chain Management: An International Journal, Vol. 17 No. 4,
+pp. 403-418, available at: https://doi.org/10.1108/13598541211246558
+Dabbene, F., Gay, P. and Tortia, C. (2014), “Traceability issues in food supply chain management: a
+review
+”, Biosystems Engineering, Vol. 120, April, pp. 65-80, available at: https://doi.org/10.1016/
+j.biosystemseng.2013.09.006
+Dani, S. and Deep, A. (2010), “Fragile food supply chains: reacting to risks ”, International Journal
+of Logistics Research and Applications , Vol. 13 No. 5, pp. 395-410, available at:
+https://doi.org/10.1080/13675567.2015.1065802
+Denyer, D. and Tranfield, D. (2009), “Producing a systematic review”, in Buchanan, D.A. and Bryman, A.
+(Eds), The Sage Handbook of Organizational Research Methods , Sage Publications, London,
+pp. 671-689.
+43
+Supply chain
+issues in SME
+food sector
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

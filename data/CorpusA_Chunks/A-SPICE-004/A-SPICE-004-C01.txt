@@ -1,9 +1,9 @@
 --- CHUNK HEADER ---
 Chunk ID: A-SPICE-004-C01
 Parent Doc ID: A-SPICE-004
-Page Range: Page 1 to Page 4
-Word Range: 1 - 1097
-Word Count: 1,097
+Page Range: Page 1
+Word Range: 1 - 347
+Word Count: 347
 --------------------
 
 [Page 1]
@@ -45,87 +45,3 @@ It is also mandated that in case there is no export/purchase/import during a
 quarter, the exporter shall submit a NIL return to that effect to be filed in the
 portal.
 Sasa / Email : mail.sboard@gov.in aaqaee / Website : www.indianspices.com
-
-[Page 2]
-Since the QER module forms part of the Export Support System (ESS) of the
-Board, non-submission of Quarterly Returns will restrict access to the ESS
-portal. In order to avoid such restriction, exporters who have pending
-submissions are requested to file the QERs on or before 15th April 2026.
-This circular is issued to bring to the notice of exporters whose Quarterly
-Export Returns are pending for submission, in accordance with the above
-regulation and to ensure compliance.
-Effect: Exporters are hereby informed that non-submission of Quarterly Export
-Returns within the stipulated time will be treated as violation of the Spices -
-Board (Registration of Exporters) Regulation, 1989 and may invite regulatory
-action including restriction of ESS services. The access of ESS will be restricted
-with effect from 16t April 2026.
-Director (Mktg)
-
-1. All Registered Exporters of Spices & Spice Products
-
-2. All Exporters Association
-
-3. All Regional offices / SRDs of Spices Board - with a request to bring to
-
-the notice of all exporters under their jurisdiction.
-4. EDP - With a request to Upload in Board’s website / ESS & send as
-Email to all exporters.
-(Issued from MKTG/STS/GEN/CIRCULAR/04/2021; Computer No 16541)
-//HINDI VERSION FOLLOWS / /
-
-[Page 3]
-Eg SPICES BOARD migaa ate
-(Ministry of Commerce & Industry Govt. of India) (afurg wa SearT Hares, ART GH)
-career 3 P.B.No. 2277 Ut. a. a, 227
-
-Palarivattom P.O. Wrenaee Ub. att.
-
-Kochi - 682 025, India spredt - 682 025, HRA
-
-feat : 18 Ard 2026
-URGA F.09/2025-26
-faa :a¥ 2023-24, 2024-25 3IN 2025-26 & fay aida Ana fata
-faaM(Fys) Ht veda — aaa
-ae suuieh fawy & Way FA SI
-TUSaH Ms (fatatcnt ar voltenxvr) fafraste, 1989 d au fafa 5(9) & qa, WHIT
-UF URS Al as ant qaa-aas wx fafee faulRa wos # Herat & fata 3k saa Balta
-Tate fraxoh veda axa Sho 3 Aan ferata axoht oeda a axa sen false ar
-Sead Aleal STITT |
-ga dae Fug Aa seat g fee ay 2023-24, 2024-25 3ix 2025-26 st said (aad a |
-(FRI) aaa ae feu ae | fata qatar gone (Svava) F aquest, sta qa
-HK aeauy aeeit Bea fasiea areaat S aah ata at se aad HM srerant ved AA
-ot AT S|
-SUNT HY Corea H Tat EU, Haein Scovel & Uaht dolce featacnt S srepu B fy a
-av 2023-24, 2024-25 3ik 2025-26 ci Haft & fav afaa ata Pari aw Par Pah
-Ue & Hees F Veda Het Blaha we
-ga day A, Ue clexrat stat @ fm aS A uRuz F.04/2021-22 aim 17.06.2021 &
-STAR, TT 2021 & chr fare) fraxoht (FYS3R) wea axa & fee wey siterersat yorroht
-Uect St AML aA at &, fora aed Patan ats & fata wersar yore (Scava) A "ars
-Rea" ta & Heels Hoch vA weet TTS HL Ted El eda axa & faw Auta eeude
-Ulee UX Suey S) EPS WEda Hea oT fein Ara ar sre |
-https://indianspices.org.in/ESS/
-Ue aft setae & fee aie feet faaret & ahra as Putaretelsraa ag Sar ¥, at Patan
-ol Ulcer A SH HTT HT Yeas (NIL) flaer Wega Hear STI
-ales Janeen faaxoh (FAS) Algae aS & fata wersar vont (Scava) ar Rea 2,
-SUToy Aa OT eda at ae Uy Svare ves ae ge fae ey area se Ufaay
-geet & fer, feta feralcat & eySax veda ate arch %, sae araqdu & fh a 15 ater
-2026 UI Sad Ueel RSH Wea Hr |
-S-AgeT / Email : mail.sboard@gov.in aaaise / Website : www.indianspices.com
-
-[Page 4]
-ae URaa 3a ferateent HT Alaa axel & fore at fevar arar & farercht Farfaen ferata fraxur
-suNth fafaaaa & HAN Wedd axa & fore ofa &, HR Haque Baya axe a fore aff
-ANY fear aay B1
-vata: feratcent et Afela feat sat & fer fauthta aaa & sax tase fata fraor weqa
-a @Xell, CUISaa as (fAalaat Hr Usitpzr) fafa, 1989 HI sededa Aral avs BN sah
-URUTACIED suave Basi ux ufaadu aed fafaaaa areas HF at qadt t) Scvave A
-after 16 site 2026 & vfadita wet ars OO
-Qie*
-Bee cera
-1. Aetelt HX Aare Scural & Bal csp feratera ,
-2. Bat fatal a Fa
-3. Tusa as & att atte arateat/vasmel @ seq % fH a aud Hida aa
-& Hasta set art Batt feratacnt at sah quae S|
-4. Sart at ats Ar daaisc/Svava Wy sues ata HN Gat fataat wt Saat & wg
-HA Hole HT HVT He!
-( fauoret/vadiva/sisva /URTT/ 04/2021; AcACX 4.16541 A a

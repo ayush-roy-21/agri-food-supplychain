@@ -1,128 +1,61 @@
 --- CHUNK HEADER ---
 Chunk ID: A-MOFPI-102-C04
 Parent Doc ID: A-MOFPI-102
-Page Range: Page 16 to Page 18
-Word Range: 3836 - 5078
-Word Count: 1,243
+Page Range: Page 7
+Word Range: 860 - 1242
+Word Count: 383
 --------------------
 
-[Page 16]
-11
-MODULE 1 - INTRODUCTION TO FOOD PROCESSING SECTOR
+[Page 7]
+Through the Ministry of Food Processing Industries (MoFPI), the Government of India is taking 
+all necessary steps to boost investments in the food processing industry in India. After the 
+pandemic, people have become more conscious about their health, and hence, their preferences 
+towards the kind of food and the intake has changed. This has increased the demand for gluten-
+free, low-calorie, natural preservatives, colours, and flavours. There is a surge in demand for 
+Ready to Eat and Cook products. Organic products have become common among people and 
+with the effect of social media on our lives, people are opting for innovative food products. The 
+government has become more active in making the labelling and information on the packaging 
+to be more intuitive to the consumer  and has also forced the FMCG companies to think 
+differently for packaging solutions as it has banned plastic, leading to eco-friendly packaging for 
+food products. 
+The food and grocery retail market, valued at US$ 11.3 trillion in 2021, is also among th e 
+largest in the global economy. India created history in agriculture and processed food exports 
+by exporting products worth US$ 25.6 billion in FY22 . Export of APEDA products stood at 
+US$ 7.4 billion as of April -June 2022, up 31% compared with US$ 5.7 billion over the same 
+period last fiscal, according to the Directorate General of Commercial Intelligence and 
+Statistics.  Furthermore, exports of processed fruits and ve getables grew by 59.1%; cereals 
+and miscellaneous processed items grew by 37.66%; meat, dairy and poultry products grew 
+by 9.5%; basmati rice grew by 25.5%; non -basmati rice grew by 5%; and miscellaneous 
+ 
+ 
+The food sector is currently undergoing a transition in India.  
+The Agricultural and Processed Food Products Export Development 
+Authority (APEDA) forecasts that the sector will grow at a 
+compounded annual growth rate (CAGR) of 3% between 2022 and 
+2030. 
+ 
+2MODULE 8 - FOOD SAFETY AND STANDARDS
 COMPILED AND PREPARED FOR PMFME BENEFICIARY TRAINING
  
-Chapter 2 
-Understanding supply chain and various opportunities in food processing 
-sector 
+Chapter 1 
+Status and market size of food processing sector 
  
-2.1. Introduction to Food Supply chain 
-A robust food supply chain is essential in order to produce safe food products that meet the 
-consumer demand for high quality food. The retail and hospitality industries that buy the 
-products, for example, want to purchase high quality food at a low price from the supplier so 
-they can still make a profit and offer competitive prices. The key to meeting consumer 
-demand for high quality food products starts with a well-managed food supply chain, and this 
-will also help to deter problems from arising and causing loss down the line. 
-Food supply chains are also vital in ensuring  food safety  and traceability of products, 
-meaning both manufacturers and consumers can easily trace food back to i ts origins. For 
-manufacturers, this is needed if product recalls or withdrawals are required and for 
-consumers, it means that they can understand the origin of their food and how it has been 
-produced.  
-In recent years, people have become more aware of the environmental impact that certain 
-food supply chains may be having. A key takeaway from this is the focus on short food 
-supply chains. There are economic, environmental and social benefits to shorter food chains 
-and the increased connection to where their food comes from, is likely to lead to less waste 
-and increased trust among consumers. 
-Longer supply chains, on the other hand, result in less understanding of the agricultural 
-processes behind the food we eat, the challenges faced by farmers and the impact  of our 
-choices on the environment. In fact, short food chains offer mutual benefits to both farmers 
-and consumers, acting as a model to increase transparency, trust, growth and equity. 
-What is Food Supply Chain? 
-The food supply chain is a summary of every  process involved in producing and delivering 
-food to households and distributors. Food goes through a lot of processes before landing on a 
-person’s table. All of these processes from farming, processing and packaging, and down to 
-food delivery are a part of the food supply chain.
-
-[Page 17]
-12
-MODULE 1 - INTRODUCTION TO FOOD PROCESSING SECTOR
-COMPILED AND PREPARED FOR PMFME BENEFICIARY TRAINING
- 
- 
-Fig: Food Supply Chain 
-There are different parts of the food supply chain apply to different industries. For example, 
-for food management and distribution, their supply chain involves the incoming quantity of 
-materials, ways to process raw ingredients, storage, delivery, and more. And for farmers, the 
-supply chain involves sourcing seeds and livestock, harvesting crops and meat, and shipping 
-them to manufacturers and food processors. 
-Why Food Supply Chain is Important? 
-Now days, Food supply chain holds a lot of significance by having a proper chain wherein 
-farmers, food processors and distributors can trace each process which allows more 
-transparency to them so that the event of small contamination source can easily traceable an d 
-finding solutions is much simpler. 
-As technology and food processing practices have evolved, humans have created complex 
-systems to grow, process, and deliver food to people all over the world. But to ensure that as 
-many people get food on their table as  possible, each part of the process needs to be 
-traceable. 
-A recent study, shows that over 1.4 billion tons of food waste are generated every year.  
-For effective food waste management and to ensure that food goes where it needs to go, an 
-efficient food sup ply chain is of outmost important . While significant chunks of food waste 
-come from the homes and restaurants, there is  also a large percentage  from the farms and 
- 
-Chapter 2 
-Understanding supply chain and various opportunities in food processing 
-sector 
- 
-2.1. Introduction to Food Supply chain 
-A robust food supply chain is essential in order to produce safe food products that meet the 
-consumer demand for high quality food. The retail and hospitality industries that buy the 
-products, for example, want to purchase high quality food at a low price from the supplier so 
-they can still make a profit and offer competitive prices. The key to meeting consumer 
-demand for high quality food products starts with a well-managed food supply chain, and this 
-will also help to deter problems from arising and causing loss down the line. 
-Food supply chains are also vital in ensuring  food safety  and traceability of products, 
-meaning both manufacturers and consumers can easily trace food back to i ts origins. For 
-manufacturers, this is needed if product recalls or withdrawals are required and for 
-consumers, it means that they can understand the origin of their food and how it has been 
-produced.  
-In recent years, people have become more aware of the environmental impact that certain 
-food supply chains may be having. A key takeaway from this is the focus on short food 
-supply chains. There are economic, environmental and social benefits to shorter food chains 
-and the increased connection to where their food comes from, is likely to lead to less waste 
-and increased trust among consumers. 
-Longer supply chains, on the other hand, result in less understanding of the agricultural 
-processes behind the food we eat, the challenges faced by farmers and the impact  of our 
-choices on the environment. In fact, short food chains offer mutual benefits to both farmers 
-and consumers, acting as a model to increase transparency, trust, growth and equity. 
-What is Food Supply Chain? 
-The food supply chain is a summary of every  process involved in producing and delivering 
-food to households and distributors. Food goes through a lot of processes before landing on a 
-person’s table. All of these processes from farming, processing and packaging, and down to 
-food delivery are a part of the food supply chain.
-
-[Page 18]
-13
-MODULE 1 - INTRODUCTION TO FOOD PROCESSING SECTOR
-COMPILED AND PREPARED FOR PMFME BENEFICIARY TRAINING
- 
-manufacturing plants.   To understand each  step in bringing food to someone’s table can 
-generate a better idea of how to tackle certain problems and ensure that more people gain 
-access to food. 
-How It Works? 
-A food supply chain or network is an end -to-end logistics integration that regulates the food 
-supply’s working and assures robust management. The food supply chain network begins 
-from the input supplier integrating a chain for end -to-end fulfilment. The input supplier 
-sources the commodities for the integration through inventory management, transport, and 
-storage, followed by distribution to the  end-users. The network of the food supply chain 
-differs from the cold chain management, as the requirement varies for storage, transport, and 
-distribution. However, several channels play an integral role in determining the syst em’s 
-efficiency apart from that the forecasting, planning, and consumer behaviour. These channels 
-significantly impact the supply chain’s working dynamics and work on the newly introduced 
-concept of valued integration of supply chains. According to this concept, the supply chain 
-management companies in India understand the system from the perspective of the end -user, 
-analyse from the demand -pull approach, and consistently make an effort to encourage 
-innovation and development in the food supply chain and networking.  It is essential to  
-understand the working dynamics of the food supply networks while entering the business 
-and arranging a fully functional end -to-end supply chain integration; it is also important to 
-source the arrangement from top supply chain companies in India. 
- 
-Fig: Flow Process of Food Supply Chain
+1.1 Overview of Food Processing Sector 
+On a worldwide scale, India is the largest country in terms of food production, processing, 
+supply, and consumption. Indian food market is ranked 6th in the world, with 70% of sales and 
+5th in production, consumption, and export. India exports 13% of its o verall manufacturing 
+output and 6% of its industrial investment. Manufacturing and agriculture contribute 8.80 
+percent and 8.39 percent, respectively, to India Gross Value Addition. The Indian food industry 
+was valued at USD 143.51 Billion in 2020 and is p rojected to reach USD 235.67 Billion by 
+2028, growing at a CAGR of 6.6% from 2021 to 2028 . The food processing sector will be led 
+by the demand in retail and the rise of health-conscious consumers. 
+India ranks first in the world in the production of Milk, Ghee, Pulses, Ginger, Banana, Guava, 
+Papaya and Mango and second in the world in the production of Rice, Wheat and several 
+other vegetables & fruits but hardly 2% of the produce is processed . T he la nd of spices 
+producing all varieties worth over Rs. 3500 Crores (US $ 900 million) amounting to 25 -30% 
+of world production, which is processed for value -addition and export. It grows 22 million 
+tonnes of oilseeds covering most of the varieties. Other impor tant plantation products include 
+tea, coffee, cocoa and cashew. India's livestock population is largest in the world with 50% of 
+world's buffaloes and 20% of cattle, but only about 1% of total meat production is converted 
+to value added products. India has become a surplus producer from being an importer of food 
+grains.

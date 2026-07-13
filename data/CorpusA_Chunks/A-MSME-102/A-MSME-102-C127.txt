@@ -1,0 +1,37 @@
+--- CHUNK HEADER ---
+Chunk ID: A-MSME-102-C127
+Parent Doc ID: A-MSME-102
+Page Range: Page 121
+Word Range: 35426 - 35726
+Word Count: 301
+--------------------
+
+[Page 121]
+121
+ » Khatri, P. (2019, February). A Study of the Challenges of the Indian MSME Sector. IOSR Journal of Business and Management (IOSR-
+JBM), 21(02), 05-13. doi:10.9790/487X-2102050513 
+ » Mukherjee, S., & Chanda, R. (2021). Tariff liberalization and firm-level markups in Indian manufacturin. Economic Modelling. 
+Retrieved from https://doi.org/10.1016/j.econmod.2021.105594
+ » Ministry of MSME. (2023). Ministry of Micro, Small and Medium Enterprises. Retrieved from Ministry of Micro, Small and Medium 
+Enterprises GOI: https://msme.gov.in/
+ » Topalova, P. (2004). Trade Liberalization and Firm Productivity: The Case of India. SSRN Electronic Journal.
+ » Kapoor, A., Ketels, C., Debroy, B., & Negi, S. (2023). The 2023 India Cluster Panorama. Economic Advisory Council to the Prime 
+Minister. Retrieved from https://eacpm.gov.in/wp-content/uploads/2023/08/Report_India_Cluster_Panorama_2023.pdf
+ » Institutions for Collaboration : Overview . Background note (January 2003). Retrieved from Institutions for Collaboration: Overview.
+Background Note.
+ » Anderson, L., Pekkari, M., Gray, J., Neugebauer, V., & Candotto, L. (2023). Building MSME resilience in Southeast Asia: With a country 
+focus on Thailand and Malaysia [Report]. https://irff.undp.org/sites/default/files/2024-03/building-msme-resilience-in-southeast-
+asia_0.pdf
+ » Forty-Fourth report of the Public Accounts Committee (17th Lok Sabha): Functioning of Credit Guarantee Fund Trust for Micro and 
+Small Enterprises. (2022). https://eparlib.nic.in/bitstream/123456789/845627/1/17_Public_Accounts_44.pdf
+ » RBI. (n.d.). Data on sectoral deployment of bank credit [Dataset]. https://rbi.org.in/Scripts/Data_Sectoral_Deployment.aspx
+ » SIDBI & TransUnion CIBIL Ltd. (2021, February). MSME Pulse. https://www.sidbi.in/head/uploads/msmepluse_documents/MSME%20
+Report%208%20X%208_Feb%202024_Revised%2028th%20Feb.pdf
+ » SIXTY-EIGHTH REPORT OF STANDING COMMITTEE ON FINANCE (2023-24): Action taken by the Government on the Observations/
+Recommendations contained in Forty-Sixth Report (17th Lok Sabha) on the subject ‘Strengthening Credit Flows to the MSME 
+Sector.’ (2024). https://eparlib.nic.in/bitstream/123456789/2975952/1/17_Finance_68.pdf#search=null%2017%20Committee%20
+on%20Finance
+ » Tenth report of the Standing Committee on Housing and Urban Affairs(17th Lok Sabha): PM Street Vendor’s AtmaNirbhar Nidhi (PM 
+SVANidhi). (2021). https://eparlib.nic.in/bitstream/123456789/835424/1/17_Housing_and_Urban_Affairs_10.pdf
+ » U.S.-E.U. Trade and Technology Council SME Working Group, Office of Advocacy, U.S. Small Business Administration, & Clark, M. L., 
+III. (2023). U.S. SME Access and Use of Digital Tools. https://www.trade.gov/sites/default/files/2023-06/SME_Digital_Tools.pdf

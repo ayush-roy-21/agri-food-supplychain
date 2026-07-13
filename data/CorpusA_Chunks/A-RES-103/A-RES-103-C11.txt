@@ -1,193 +1,53 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-103-C11
 Parent Doc ID: A-RES-103
-Page Range: Page 33 to Page 37
-Word Range: 14210 - 15562
-Word Count: 1,353
+Page Range: Page 9
+Word Range: 2868 - 3117
+Word Count: 250
 --------------------
 
-[Page 33]
-32 
-required in the EIC instructions. However, there are no legal requirements for labelling 
-of such products in India  (see finding 92). The EIC informed the audit team that 
-currently no feed mill is approved to produce  medicated feed  for aquaculture farms 
-registered to produce for export to the EU.  
+[Page 9]
+8 
+2. As regards residue monitoring in samples drawn from aquaculture farms and processing 
+establishments several other competent authorities are involved: 
+- MPEDA which is a statutory body under the same Ministry , implements the residue 
+monitoring plan for aquaculture products under the guidance of the EIC. MPEDA’s 
+regional and subregional division offices are responsible for s ampling at processing 
+establishments, aquaculture farms, hatcheries and feed mills. 
+Furthermore, MPEDA, i n line with national legal provisions  (5), has been appointed 
+as one of the designated authorities for the enrolment of farms supplying aquaculture 
+products for export, as well as of hatcheries and feed mills supplying feed to 
+exporting aquaculture farms. MPEDA ´s tasks includ e ensuring that enrolment 
+numbers for farms are unique and not in conflict with any numbering system of other 
+recognised registration authorities (e.g. the CAA  and State Fishery Authorities 
+(SFAs). 
+- The CAA has the responsibility for aquaculture farms and hatcheries in salt and 
+brackish waters in coastal areas (i.e. within two kilometers of the high tide lines of the 
+coast and rivers). Other aquaculture farms (e.g. inland freshwater farms) fall under the 
+responsibility of the individual SFAs. 
+3. All aquaculture farms with a n enrolment  number provided by MPEDA can supply 
+(farmed) finfish or shrimp to EIC -approved establishments  for export to the EU , 
+provided that they request and pass successfully a Pre-Harvest Test (PHT) showing that 
+the products to be harvested do not contain nitrofurans and chloramphenicol. 
+5.1.2 Planning of residue monitoring 
+Findings 
+4. The EIC stated that the residue monitoring plans for aquaculture  finfish and 
+crustaceans, milk and poultry  are based on the EU requirements  (
+6) and the audit team 
+could confirm that the residue monitoring plans largely follow these.  
+5. The planning process for residue monitoring begins early enough to ensure sufficient 
+time for the implementation of the sampling plan for aquaculture from January to  
+December and for milk and poultry from April to March the following year. 
+6. With regard to the 2021 residue monitoring plan, t he planned sample numbers per 
+commodity fulfil the overall minimum requirements indicated in EU legislation (7). For 
  
-Conclusions on official controls on distribution and use of veterinary medicinal products 
-102. Whilst there is a  national control system on the distribution and use of veterinary 
-medicinal products, it has, in comparison with the EU, a number of gaps and omissions 
-and thus, adds little to guarantees on the residues status of food afforded by the various 
-residue monitoring plans in place.   
- 
-6 OVERALL CONCLUSIONS 
-It is concluded that the residue monitoring plan for aquaculture complies with the minimum 
-requirements established in EU legislation and is implemented as planned. The 
-implementation of the residue monitoring plan for milk, for which India is not approved, is 
-weakened by the fact that the sampling and reporting strategy reduces the likelihood of non-
-compliances for certain substances being reported. Furthermore, a very high incidence of non-
-compliant results for aflatoxin M1 was noted for that programme.   
-With regard to follow -up of non- compliant results in aquaculture, investigations are 
-undertaken quickly, but in many cases did not  identify the origin of the non- compliance.  The 
-number of non-compliant results for residues of substances banned from use in food-producing 
-animals in the EU and in Indian aquaculture, found in both the national residue monitoring 
-plan and in the pre -export testing programme , has not decreased in the last three years. In 
-particular, there is a 20% noncompliance rate for such s ubstances in samples taken in 
-hatcheries, and the over -the-counter availability of these substances on the Indian market is 
-likely to contribute to the problem.  The fact that the number of RASFF notifications for EU -
-banned substances in aquaculture produc ts remains low, is more a reflection of the 
-effectiveness of the mandatory pre-export testing programme in identifying and preventing the 
-export of non-compliant consignments to the EU.  
-Concerning the laboratory network, there has been clear progress in t heir analytical 
-performance since the previous Commission audit in 2018.  Notwithstanding this, the 
-effectiveness of testing in poultry is weakened by shortcomings in method validation as not all 
-of the matrices tested have been validated to date.   
-With regard to veterinary medicinal products, there are few changes in comparison to the 
-findings of previous Commission audit reports.  Substances that are banned in the EU for use 
-in food -producing animals remain on the market in India as over -the-counter medications 
-(albeit not for aquaculture animals).  Whilst there is a control system on the distribution and 
-use of veterinary medicinal products, it contains many gaps in comparison to what is required 
-in the EU and does not contribute to the guarantees on the residues status of food of animal 
-origin provided by the various residue testing programmes in place.
-
-[Page 34]
-33 
-7 CLOSING MEETING 
-A closing meeting was held on 29 October 2022 with representatives of the central 
-competent authority. At this meeting, the audi t team presented the main findings and 
-preliminary conclusions of the audit. The authorities offered some clarifications and 
-stated that they would take actions to address the shortcomings identified during the 
-audit. 
-8 RECOMMENDATIONS 
-The competent authority is invited to provide details of the actions taken and planned, 
-including deadlines for their completion ('action plan'), aimed at addressing the 
-recommendations set out below, within 25 working days of receipt of this audit report.   
- 
-No Recommendation 
-1 To ensure that the planning of residue monitoring reflects the range of veterinary 
-medicinal products on the market. 
-Legal basis:  Article 29 (1) of Directive 96/23/EC (read in conjunction with 
-Article 150(2) of Regulation (EU) 2017/625. 
-Recommendation based on conclusion: 11. 
-Associated finding: 9. 
-2 To ensure t hat the testing and reporting arrangements in place for the residue 
-monitoring plan for milk do not exclude the reporting of non-compliant results.   
-Legal basis: Point 1(a) of Article 5 of Regulation (EU) 2017/625 (read in 
-conjunction with Points 1 and 2 of the Annex III to Directive 96/23/EC and Point 
-1(B) of Chapter 1 of the Annex to Decision 97/747/EC). 
-Recommendation based on conclusion: 18. 
-Associated finding: 14 
-3 To ensure that follow -up investigations of non -compliant results  reflect the 
-provisions of applicable EU legislation and are effective in facilitating operators 
-exporting (or wishing to export) to the EU, to comply with the conditions for 
-entry of such animals and goods to the Union.    
-Legal basis: Article 138 of Regul ation (EU) 2017/625 ; Article 4 of Regulation 
-(EU) 2019/2090 
-Recommendation based on conclusion: 52. 
-Associated findings: 38, 40, 43, 44, 46, 48, 49, 50. 
-4 To ensure that all analytical methods used for the residue monitoring programmes 
-are appropriately validated to provide guarantees equivalent to those laid down in 
-EU legislation and, in particular, that method performance characteristics are
-
-[Page 35]
-34 
-established for all matrices tested.  
-Legal basis: Article 3 of Regulation (EU) 2021/808. 
-Recommendation based on conclusion: 76   
-Associated finding: 61, 71, 72 and 73.  
- 
-The competent authority's response to the recommendations can be found at: 
-http://ec.europa.eu/food/audits-analysis/rep_details_en.cfm?rep_inspection_ref=2022-7490
-
-[Page 36]
-ANNEX 1 – LEGAL REFERENCES
-Legal Reference Official Journal Title
-Controls by the Commission Services
-Reg. 2017/625 OJ L 95, 7.4.2017, p. 
-1–142
-Regulation (EU) 2017/625 of the European 
-Parliament and of the Council of 15 March 
-2017 on official controls and other official 
-activities performed to ensure the application 
-of food and feed law, rules on animal health 
-and welfare, plant health and plant protection 
-products, amending Regulations (EC) No 
-999/2001, (EC) No 396/2005, (EC) No 
-1069/2009, (EC) No 1107/2009, (EU) No 
-1151/2012, (EU) No 652/2014, (EU) 
-2016/429 and (EU) 2016/2031 of the 
-European Parliament and of the Council, 
-Council Regulations (EC) No 1/2005 and 
-(EC) No 1099/2009 and Council Directives 
-98/58/EC, 1999/74/EC, 2007/43/EC, 
-2008/119/EC and 2008/120/EC, and 
-repealing Regulations (EC) No 854/2004 and 
-(EC) No 882/2004 of the European 
-Parliament and of the Council, Council 
-Directives 89/608/EEC, 89/662/EEC, 
-90/425/EEC, 91/496/EEC, 96/23/EC, 
-96/93/EC and 97/78/EC and Council 
-Decision 92/438/EEC (Official Controls 
-Regulation)Text with EEA relevance.
-Approval of residue monitoring plans submitted by non-EU countries
-Dec. 2011/163/EU OJ L 70, 17.3.2011, 
-p. 40-46
-2011/163/EU: Commission Decision of 
-16 March 2011 on the approval of plans 
-submitted by third countries in accordance 
-with Article 29 of Council Directive 
-96/23/EC
-Reg. 2021/404 OJ L 114, 31.3.2021, 
-p. 1–117
-Commission Implementing Regulation (EU) 
-2021/404 of 24 March 2021 laying down the 
-lists of third countries, territories or zones 
-thereof from which the entry into the Union 
-of animals, germinal products and products 
-of animal origin is permitted in accordance 
-with Regulation (EU) 2016/429 of the 
-European Parliament and the Council
-
-[Page 37]
-Reg. 2021/405 OJ L 114, 31.3.2021, 
-p. 118-150
-Commission Implementing Regulation (EU) 
-2021/405 of 31 March 2021 laying down the 
-lists of third countries or regions thereof 
-authorised for the entry into the Union of 
-certain animals and goods intended for 
-human consumption in accordance with 
-Regulation (EU) 2017/625 of the European 
-Parliament and of the Council
-Monitoring of residues and contaminants in food of animal origin and Maximum Residue 
-Limits and Levels
-Dec. 2010/381/EU OJ L 174, 9.7.2010, 
-p. 51-53
-2010/381/EU: Commission Decision of 8 
-July 2010 on emergency measures applicable 
-to consignments of aquaculture products 
-imported from India and intended for human 
-consumption
-Dir. 96/22/EC OJ L 125, 23.5.1996, 
-p. 3-9 
-Council Directive 96/22/EC of 29 April 1996 
-concerning the prohibition on the use in 
-stockfarming of certain substances having a 
-hormonal or thyrostatic action and of beta-
-agonists, and repealing Directives 
-81/602/EEC, 88/146/EEC and 88/299/EEC
-Dir. 96/23/EC OJ L 125, 23.5.1996, 
-p. 10-32
-Council Directive 96/23/EC of 29 April 1996 
-on measures to monitor certain substances 
-and residues thereof in live animals and 
-animal products and repealing Directives 
-85/358/EEC and 86/469/EEC and Decisions 
-89/187/EEC and 91/664/EEC
-Dec. 97/747/EC OJ L 303, 6.11.1997, 
-p. 12-15 
-97/747/EC: Commission Decision of 27 
-October 1997 fixing the levels and 
-frequencies of sampling provided for by 
-Council Directive 96/23/EC for the 
-monitoring of certain substances and residues 
-thereof in certain animal products
+from 1995; b) milk: S .O. 4031(E) dated 9th November, 2020 notifying Milk and Milk Products for q uality 
+control and inspection prior to export plus S .O. 4032(E) dated 9th November, 2020 called as the Export of 
+Milk and Milk Products (Quality Control, Inspection and Monitoring) Rules, 2020;  and c) poultry: Order 
+No S.O. 1377(E) dated 30.12.2002 notify ing Fresh Poultry Meat and Poultry Meat Products for quality 
+control and inspection prior to export plus Notification No S.O. 1378(E) dated 30.12.2002 called as the 
+Export of Fresh Poultry Meat and Poultry Meat Products (Quality Control and Inspection and Monitoring) 
+Rules, 2002 and amendments thereof. 
+(5) O rder EIC/D(Q/C)/T-1/11-12. 
+(6) Annexes II and IV to Directive 96/23/EC and the Annex to Commission Decision 97/747/EC. 
+(7) Annex IV to Directive 96/23/EC, Article 1 and the Annex to Decision 97/747//EC.

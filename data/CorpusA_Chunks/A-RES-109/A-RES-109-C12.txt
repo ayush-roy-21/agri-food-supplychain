@@ -1,132 +1,126 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-109-C12
 Parent Doc ID: A-RES-109
-Page Range: Page 31 to Page 32
-Word Range: 15825 - 17185
-Word Count: 1,361
+Page Range: Page 5 to Page 6
+Word Range: 2903 - 3152
+Word Count: 250
 --------------------
 
-[Page 31]
-Blake, M.K., Mellor, J. and Crane, L. (2010), “Buying local food: shopping practices, place, and
-consumption networks in defining food as ‘local’”, Annals of the Association of American Geographers ,
-Vol. 100 No. 2, pp. 409-426, doi: 10.1080/00045601003595545 [71]
-Blandon, J., Henson, S. and Cranfield, J. (2009a), “Small-scale farmer participation in new agri-food
-supply chains: case of the supermarket supply chain for fruit and vegetables in Honduras ”, Journal of
-International Development , Vol. 21 No. 1, pp. 971-984, available at: https://doi.org/10.1002/jid [59]
-Blandon, J., Henson, S. and Islam, T. (2009b), “Marketing preferences of small-scale farmers in the
-context of new agri-food systems: a stated choice model ”, Agribusiness: An International Journal ,
-Vol. 25 No. 2, pp. 251-267, available at: https://doi.org/10.1002/agr [51]
-Blandon, J., Henson, S. and Islam, T. (2010), “The importance of assessing marketing preferences of
-small-scale farmers: a latent segment approach ”, European Journal of Development Research , Vol. 22
-No. 4, pp. 494-509, available at: https://doi.org/10.1057/ejdr.2010.26 [79]
-Browne, N.A., Eckard, R.J., Behrendt, R. and Kingwell, R.S. (2011), “A comparative analysis of
-on-farm greenhouse gas emissions from agricultural enterprises in south eastern Australia ”, Animal
-Feed Science and Technology , 166-167, pp. 641-652, available at: https://doi.org/10.1016/j.anifeedsci.20
-11.04.045 [99]
-Chiffoleau, Y. (2009), “From politics to co-operation: the dynamics of embeddedness in alternative
-food supply chains”, Sociologia Ruralis, Vol. 49 No. 3, pp. 218-235, available at: https://doi.org/10.1111/j.
-1467-9523.2009.00491.x [53]
-Christie, K.M., Rawnsley, R.P. and Eckard, R.J. (2011), “A whole farm systems analysis of
-greenhouse gas emissions of 60 Tasmanian dairy farms ”, Animal Feed Science and Technology ,
-Vols 166-167, pp. 653-662, available at: https://doi.org/10.1016/j.anifeedsci.2011.04.046 [101]
-Christie, K.M., Gourley, C.J.P., Rawnsley, R.P., Eckard, R.J. and Awty, I.M. (2012), “Whole farm
-systems analysis of Australian dairy farm greenhouse gas emissions ”, Animal Production Science ,
-Vol. 52, pp. 998-1011, available at: https://doi.org/10.1071/AN12061 [115]
-Connell, D., Smithers, J. and Joseph, A. (2008), “Farmers’ markets and the ‘good food’ value chain: a
-preliminary study ”, Local Environment , Vol. 13 No. 3, pp. 169-185. [45]
-Croom, S., Cox, A., Chicksand, D. and Yang, T. (2007), “The proactive alignment of sourcing with
-marketing and branding strategies: a food service case ”, Supply Chain Management: An International
-Journal, Vol. 12 No. 5, pp. 321-333, available at: https://doi.org/10.1108/13598540710776908 [27]
-Cross, P., Edwards, R.T., Opondo, M., Nyeko, P. and Edwards-Jones, G. (2009), “Does farm worker
-health vary between localised and globalised food supply systems? ”, Environment International ,
-Vol. 35 No. 7, pp. 1004-1014, available at: https://doi.org/10.1016/j.envint.2009.04.009 [57]
-Crush, J. and Frayne, B. (2011), “Supermarket expansion and the informal food economy in
-Southern African cities: implications for urban food security ”, Journal of Southern African Studies ,
-Vol. 37 No. 4, pp. 781-807, available at: 10.1080/03057070.2011.617532. [85]
-Dries, L., Fa łkowski, J., Malak-Rawlikowska, A. and Milczarek-Andrzejewska, D. (2011), “Public
-policies and private initiatives in transition: evidence from the Polish dairy sector ”, Post-Communist
-Economies, Vol. 23 No. 2, pp. 219-236, available at: https://doi.org/10.1080/14631377.2011.570051 [91]
-Dries, L., Germenji, E., Noev, N. and Swinnen, J.F.M. (2009), “Farmers, vertical coordination, and the
-restructuring of dairy supply chains in Central and Eastern Europe ”, World Development , Vol. 37
-No. 11, pp. 1742-1758, available at: https://doi.org/10.1016/j.worlddev.2008.08.029 [63]
-Dries, L., Gorton, M., Urutyan, V. and White, J. (2014), “Supply chain relationships, supplier support
-programmes and stimulating investment: evidence from the Armenian dairy sector ”, Supply Chain
-Management: An International Journal , Vol. 19 No. 1, pp. 98-107, available at: https://doi.org/10.1108/
-SCM-12-2012-0380 [129]
-Fischer, C., Hartmann, M., Reynolds, N., Leat, P., Revoredo-Giha, C., Henchion, M. and Gracia, A.
-(2009), “Factors influencing contractual choice and sustainable relationships in European agri-food
-supply chains”, European Review of Agricultural Economics , Vol. 36, pp. 541-569, available at: https://
-doi.org/10.1093/erae/jbp041 [65]
-Flysjö, A., Henriksson, M., Cederberg, C., Ledgard, S. and Englund, J.E. (2011),“The impact of various
-parameters on the carbon footprint of milk production in New Zealand and Sweden ”, Agricultural
-Systems, Vol. 104 No. 6, pp. 459-469, available at: https://doi.org/10.1016/j.agsy.2011.03.003 [103]
-Francesconi, G.N., Heerink, N. and D ’Haese, M. (2010), “Evolution and challenges of dairy supply
-chains: evidence from supermarkets, industries and consumers in Ethiopia ”, Food Policy, Vol. 35 No. 1,
-pp. 60-68, available at: https://doi.org/10.1016/j.foodpol.2009.06.003 [75]
-49
+[Page 5]
+articles as irrelevant (criteria 5) with a focus on food and bioenergy (biofuel), the production
+process of food, animal welfare, etc., and the remaining 1,091 articles were then shortlisted
+for further appraisal.
+We adopted a comparative approach to the analysis of the data, in which we divided all
+papers into two roughly equal parts (Vogel and Güttel, 2013). Initially, we performed an
+analysis of 377 research papers published between 2002 and 2014. Then, we added the rest
+of 714 articles and repeated the same analysis from the period 2002 to 2018. By comparing
+the result of these two-time sliced articles, it is possible to find the research direction and the
+contribution of the recent research articles to the literature on SC in SME food industry.
+2.3 Bibliographic coupling (BC) network and cluster analysis
+Bibliometric and network analysis tools are used in a systematic review to identify and
+cluster significant research concepts. A bibliometric network is a weighted network
+consisting of nodes and edges. The node represents a knowledge actor like a research paper,
+authors, journal, authors ’ institute/country or keywords. The edge between two nodes
+denotes the relationship between them. The five commonly studied edge relationship
+includes citation, co-citation, BC, co-author and co-word analysis (Zupic and Cater, 2015). A
+BC connects journals, authors or documents with respect to the number of shared
+references. Among the bibliometric networks, BC could capture the research dynamics from
+past to present, as it includes the most recent contributions (Vogel and Güttel, 2013). The
+bibliographic strength between the two articles is defined by the number of items shared by
+these two articles in their reference records (Zhao and Strotmann, 2008). Boyack and
+Klavans (2010) compared the accuracy of co-citation analysis, BC, direct citation and found
+that BC outperforms the other two. In literature, bibliographic analysis tools like CiteSpace,
+Pajek, Bibexcel, R, SciMat and Saint are proposed for bibliometric analysis (Cobo and
+Herrera, 2011). Among these, BibExcel allows processing the different types of file formats
+like Medline format, Scopus RIS format and the WoS plain text format (Persson et al., 2009).
+Also, Bibexcel allows data modification or filtering of imported details from various
+databases such as WoS and Scopus (Bjurström, 2011). Due to these advantages, BibExcel is
+used in this research for the bibliometric analysis.
+In order to conduct BC, the plain text format from WoS containing the details of author,
+the title of publication, year of publication, abstract and authors affiliation from the
+shortlisted 1,091 articles are exported to Bibexcel software. To further map and visualize,
+the BC among the 1,091 articles network and cluster analysis tools are used. In literature,
+UCINET, Mathematica, Pajek, VOS Viewer and Gephi are the commonly used network
+analysis tools. Among these, Gephi is generally used in research projects, given its
+simplicity (Fahimnia et al., 2015). Gephi is capable of handling large network data and helps
+in filtering, navigating, manipulating and clustering the data. It can also handle a variety of
+graph data sets generated in comma-separated values files, Graph and Net file formats. In
+this research, the shared references from Bibexcel in .net format were imported to Gephi and
+were used for networking and clustering the research articles.
+To identify the sub-fields/themes of a research domain, the nodes of a network are
+divided into clusters or modules using clustering techniques (Fahimnia et al. , 2015). The
+degree of association is strong among members of the same cluster and weak between
+members of different clusters. For dividing the network into clusters, the default Louvain
+clustering algorithm in the Gephi software is used, which will maximize the modularity
+index by iterating each node to all clusters (Rajagopal et al. , 2017). Modularity is an
+important metric that provides information about the overall clustering of the networks.
+The modularity index is a scalar value between −1 and +1 that measures the density of
+links inside the clusters vs the links between the clusters (Fahimnia et al., 2015).
+23
 Supply chain
 issues in SME
 food sector
 Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
 
-[Page 32]
-Freidberg, S. and Goldstein, L. (2011), “Alternative food in the global south: reflections on a direct
-marketing initiative in Kenya”, Journal of Rural Studies, Vol. 27 No. 1, pp. 24-34, available at: https://doi.
-org/10.1016/j.jrurstud.2010.07.003 [89]
-Gorton, M. and White, J. (2007a), “The restructuring of agri-food supply chains in CEE and the
-CIS – overview and policy implications”, Outlook on Agriculture, Vol. 36 No. 4, pp. 237-246, available at:
-https://doi.org/10.5367/000000007783418552 [35]
-Gorton, M., White, J., Dries, L., Ignat, A., Sardaryan, G. and Skripnik, A. (2007b), “Dairy farming
-and milk marketing relationships in the CIS ”, Eurasian Geography and Economics , Vol. 48 No. 6,
-pp. 733-747, available at: https://doi.org/10.2747/1539-7216.48.6.733 [31]
-Higgins, V., Dibden, J. and Cocklin, C. (2008), “Building alternative agri-food networks: Certification,
-embeddedness and agri-environmental governance ”, Journal of Rural Studies , Vol. 24, pp. 15-27,
-available at: https://doi.org/10.1016/j.jrurstud.2007.06.002 [43]
-Holloway, L., Cox, R., Venn, L., Kneafsey, M., Dowler, E. and Tuomainen, H. (2006), “Managing
-sustainable farmed landscape through ‘alternative’ food networks: a case study from Italy ”, The
-Geographical Journal , Vol. 172 No. 3, pp. 219-229, available at: https://doi.org/10.1111/j.1475-4959.200
-6.00205.x [23]
-Holzapfel, S. and Wollni, M. (2014), “Is GlobalGAP certification of small-scale farmers sustainable ?
-Evidence from Thailand ”, The Journal of Development Studies , Vol. 50 No. 5, pp. 731-747, available at:
-https://doi.org/10.1080/00220388.2013.874558 [135]
-Ilbery, B. and Maye, D. (2005), “Food supply chains and sustainability: evidence from specialist food
-producers in the Scottish/English borders ”, Land Use Policy , Vol. 22 No. 4, pp. 331-344, available at:
-https://doi.org/10.1016/j.landusepol.2004.06.002 [7]
-Ilbery, B. and Maye, D. (2006a), “Retailing local food in the Scottish-English borders: a supply chain
-perspective”, Geoforum, Vol. 37 No. 3, pp. 352-367, available at: https://doi.org/10.1016/j.geoforum.200
-5.09.003 [17]
-Ilbery, B., Watts, D., Simpson, S., Gilg, A. and Little, J. (2006b), “Mapping local foods: evidence from
-two English regions ”, British Food Journal , Vol. 108 No. 3, pp. 213-225, available at: https://doi.org/10.
-1108/00070700610651034 [9]
-Kirwan, J. (2006), “The interpersonal world of direct marketing: examining conventions of quality at
-UK farmers’ markets”, Journal of Rural Studies , Vol. 22 No. 3, pp. 301-312, available at: https://doi.org/
-10.1016/j.jrurstud.2005.09.001 [21]
-Kizos, T. and Vakoufaris, H. (2011), “Alternative agri-food geographies? Geographic indications in
-Greece”, Tijdschrift Voor Economische En Sociale Geografie , Vol. 102 No. 2, pp. 220-235, available at:
-https://doi.org/10.1111/j.1467-9663.2010.00612.x [87]
-Kneafsey, M. (2010), “T h er e g i o ni nf o o d– important or irrelevant? ”, Cambridge Journal of
-Regions, Economy and Society , Vol. 3 No. 2, pp. 177-190, available at: https://doi.org/10.1093/cjres/
-rsq012 [77]
-Kottila, M.R. and Rönni, P. (2008), “Collaboration and trust in two organic food chains ”,
-British Food Journal , Vol. 110 Nos 4-5, pp. 376-394, available at: https://doi.org/10.1108/00070700810
-868915 [39]
-Leat, P. and Revoredo-Giha, C. (2008), “Building collaborative agri-food supply chains: the challenge
-of relationship development in the Scottish red meat chain ”, British Food Journal , Vol. 110 Nos 4-5,
-pp. 395-411, available at: https://doi.org/10.1108/00070700810868924 [41]
-Maertens, M. and Swinnen, J.F.M. (2012), “Gender and modern supply chains in developing
-countries”, Journal of Development Studies, Vol. 48 No. 10, pp. 1412-1430, available at: https://doi.org/10.
-1080/00220388.2012.663902 [117]
-Matopoulos, A., Vlachopoulou, M., Manthou, V. and Manos, B. (2007), “A conceptual framework
-for supply chain collaboration: empirical evidence from the agri-food industry ”, Supply Chain
-Management: An International Journal , Vol. 12 No. 3, pp. 177-186, available at: https://doi.org/10.1108/
-13598540710742491 [25]
-Miewald, C., Ostry, A. and Hodgson, S. (2013), “Food safety at the small scale: the case of meat
-inspection regulations in British Columbia ’s rural and remote communities ”, Journal of Rural Studies ,
-Vol. 32, pp. 93-102, available at: https://doi.org/10.1016/j.jrurstud.2013.04.010 [121]
-Minten, B., Randrianarison, L. and Swinnen, J.F.M. (2009), “Global retail chains and poor farmers:
-evidence from Madagascar”, World Development, Vol. 37 No. 11, pp. 1728-1741, available at: https://doi.
-org/10.1016/j.worlddev.2008.08.024 [61]
-50
+[Page 6]
+2.4 Text mining (TM)
+To find out the research focus of each sub-field, the contents of either all or the lead papers
+in each sub-field are analysed and evaluated. The interpretation and analysis of sub-field
+depend greatly on subjective factors and require expertise in the specific research field. To
+avoid the reviewer bias and for a deeper understanding of the concepts addressed in each
+sub-field, researchers have further used text mining (TM) as a content analysis technique to
+retrieve the co-occurred words from the documents and to build a conceptual structure of
+the domain (Ghadge et al., 2012; Song and Chambers, 2014). In this research, the co-occurred
+words from the research articles in each sub-field are retrieved using TM to identify
+research concept precisely. Co-word analysis presumes that a group of aggregated terms/
+words could indicate the underlying themes and that co-occurrences of terms/words could
+show the associations with the underlying themes. Title and abstract of all articles in each
+sub-field are downloaded from the WoS database in .txt format and text mined separately
+using Standford NLP core 3.6.0. StanfordcoreNLP 3.6.0 software is used in this research for
+TM since it is flexible and simple (Song and Chambers, 2014).
+Using Stanford metrics conversion Handler Programme, the output extensible markup
+language file from the Standford NLP is converted to a GraphML network file from the
+identified co-occurred words. The GraphML file is then used as input in Gephi for visualization
+and further analysis of the co-word network. After establishing a co-word network, the
+research concept of each cluster is then identified by measuring the relative frequency of these
+co-occurred words and by measuring the network properties based on node and network-level
+metrics (Barbara and Wichmann, 2016). The node-level metrics can be divided into local:
+degree centrality, and the ones relative to the rest of the network (i.e. based on node’s location
+within a network): closeness, betweenness and eigenvector centrality (Milojevic, 2013). The
+number of direct links between a node and other nodes in the cluster is defined by degree
+centrality. A word with a higher degree will be in the centre of the network and considered as
+the information hub. The closeness centrality is defined by the inverse of the average length of
+the shortest paths to or from all the other nodes in the network. Higher closeness centrality
+refers to higher influence on other nodes. The betweenness centrality is a measure of how often
+a node is located on the shortest path between other nodes in the network. Eigenvector
+centrality is based on the principle that importance of a node in a network may increase with
+having links to the other nodes that are themselves important. It is calculated by providing a
+relative score for each node proportional to the sum of the scores of its neighbours (Bonacich,
+2007). The equations used to calculate the node centrality are given in Appendix 1.
+3. Results
+3.1 Bibliometric analysis
+The time period distribution of 1,091 articles is shown in Figure 2. It is noted that the
+number of articles was limited to 377 during the period 2002 – 2014, and the remaining
+18 47 78
+141
+384
+423
+0
+100
+200
+300
+400
+500
+600
+2002–2004 2005–2007 2008–2010 2011–2013 2014–2016 2017–2018
+Publication Frequency
+Year
+Figure 2.
+Distribution of
+reviewed papers by
+year (up to
+December 2018)
+24
 JAMR
 17,1
 Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

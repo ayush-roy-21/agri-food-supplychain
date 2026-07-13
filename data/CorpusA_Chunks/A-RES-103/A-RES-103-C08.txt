@@ -1,138 +1,53 @@
 --- CHUNK HEADER ---
 Chunk ID: A-RES-103-C08
 Parent Doc ID: A-RES-103
-Page Range: Page 24 to Page 26
-Word Range: 9716 - 11051
-Word Count: 1,336
+Page Range: Page 7
+Word Range: 1974 - 2223
+Word Count: 250
 --------------------
 
-[Page 24]
-23 
-(CC-alpha) determined in line with the requirements for confirmatory methods , which 
-is similar to what is required in the EU (43).  In the case of the PHT the ELISA methods 
-reviewed by the audit team determined the cut -off level in line with the approach 
-recommend by the European Union Reference Laboratories ( 44). The sensitivity of all 
-of the chemical confirmatory methods checked was seen  to be adequate, as the 
-detection limits of the methods in use w ere lower than or equal to the respective 
-reference points for action (45) (where established) and were lower than EU MRLs (46), 
-EU maximum levels (47) or the European Union Reference Laboratories’ recommended 
-minimum method performance requirements (MMPRs) (48). 
-65. Similar to what is required in the EU  (49), in all of the laboratories visited, where non -
-compliant results are detected, they are reported promptly to the sampling officer and to 
-the relevant authority.   
-5.1.6.1 EIA Pilot Test House Mumbai 
-66. Control of access to the sample reception area and laboratory is in line with the 
-expected requirements (50), which is an improvement versus what was seen during the 
-2018 audit. 
-67. Regarding the laboratory’s approach to analysis , described in Annex 3 to  the residues 
-control plan for milk in India, individual samples are tested on the basis of one of 7 
-“Sets” of substances. Each “Set” covers several compounds from different residue 
-groups/subgroups and several analytical methods must be used to cover all substances 
-in that set.  The chemical confirmatory analytical methods used are mainly  multi-
-residue methods which cover more than one analyte for a particular residues group (i.e., 
-for one analytical procedure  for substances in Group B1, erythromycin A, spiramycin, 
-tilmicosin and tylosin A can be determined in the same analysis run).  Not all of these, 
-even though they can be quantified, are included in the respective set, though, and if a 
-non-compliant result is found for a substance not included in the respective set, it is not 
-reported.  This is contrary to what would be expected in the EU  (51) (see finding 14 and 
-48).  
-68. The audit team assessed the validation files for the following methods in milk: 
-- nitroimidazoles (Group A6) metronidazole and ronidazole by LC-MS/MS;  
-- nitrofuran metabolites (Group A6), AOZ, AMOZ, AHD, SEM by LC-MS/MS; 
-- chloramphenicol (Group A6) by LC-MS/MS; 
+[Page 7]
+6 
+Regulation for meat products from poultry.  Thus, residue plan approval for poultry 
+would not in itself, permit exports of either fresh or processed poultry meat to the EU.   
+4.2 SUMMARY OF PREVIOUS COMMISSION AUDITS 
+The most recent audit during which residue controls in India were evaluated was 
+carried out in 2018 (audit reference DG (SANTE) 201 8-6345 MR-Final- hereafter: the 
+2018 audit ( 2)). It concluded that the planning and implementation of residue 
+monitoring for aquaculture products was largely in line with the legal requirements  and 
+supported by a functioning laboratory network and extensive additional pre-harvest 
+testing and pre-export testing programmes which focussed  on a limited range of  
+substances. However, its effectiveness was weakened by a limited scope of analysis for 
+certain pharmacologically active substances available on the market  and weak follow -
+up of non-compliances that often did not identify their origin  and lacked the legal tools 
+to sanction producers.  
+The monitoring plans for milk and poultry were not deemed to provide guarantees 
+equivalent to those foreseen in EU legislation with regard to the number of samples 
+taken, the scope of testing (range of substances tested for) and laboratory performance .  
+These issues militated against listing of either commodity in the Annex to Decision 
+2011/163/EU.  
+With regard to veterinary medicinal product s, it found that labelling had improved 
+relative to previous audits.  In comparison to the EU, prescription requirements  were 
+limited and there was a lack of requirements for the maintenance of treatment records 
+on farms.  The availability of many substances not authorised for use in food-producing 
+animals in the EU was also noted, a long-standing issue.   
+There were four recommendations made, three of which were addressed satisfactorily 
+by the competent authorities . The one recommendation regarding validation of 
+laboratory methods was followed up during this audit. 
+4.3 R
+APID ALERT SYSTEM FOR FOOD AND FEED (RASFF) NOTIFICATIONS 
+Commission Decisio n 2010/381/EU  (3), as last amended, requires that 50% of the 
+aquaculture consignments of Indian origin arriving at EU borders are tested for residues 
+of chloramphenicol, tetracycline, oxytetracycline, chlortetracycline  and metabolites of 
+nitrofurans 3-amino-2-oxazolidinone (AOZ), semicarbazide (SEM), 1-aminohydrantoin 
+(AHD) and 3-amino-5-morpholinomethyl-2-oxazolidone (AMOZ).  The same decision 
+requires that all consignments are accompanied by a laboratory result from the place of 
+origin ( hereafter, the pre -export testing - PET) for the same substances . The data for 
+2020 to 2022 indicate (see below) that without the 100% PET obligation, the number of 
+RASFFs in the EU would have been much higher.  
+  
  
-(43) Point 2.6 of Chapter 2, Annex I to Regulation (EU) 2021/808.    
-(44) CRL guidelines for the validation of screening methods for residues of veterinary medicines 2010. 
-(45) Annex to Commission Regulation (EU) 2019/1871. 
-(46) Annex to Regulation (EU) No 37/2010.   
-(47) Regulation (EC) No 1881/2006, Regulation (EC) No 396/2005.   
-(48) EURL guidance on minimum method performance requirements (MMPRs) for specific pharmacologically 
-active substances in specific animal matrices. 
-(49) Point 7 of Annex II to Regulation (EU) 2021/808 
-(50) Point 6.3.4 of EN ISO/IEC 17025.  
-(51) Points 1 and 2 of Annex III to Directive 96/23/EC and Point 2 of Chapter 1 of the Annex to Decision 
-97/747/EC.
-
-[Page 25]
-24 
-- aflatoxin M1 (Group B3d) by LC-MS/MS; 
-- anthelmintics (Group B2a), ivermectin by LC-MS/MS; 
-- beta-lactams including cephalosporins (Group B1) by LC-MS/MS; 
-- lead (Group B3c) by inductively coupled plasma mass spectrometry. 
-All methods inspected were found to be adequately validated with appropriate 
-validation criteria and concentration ranges applied in line with the EU regulations in 
-force at the time of the validation  (52)(53), although not fully in line with the additional 
-validation criteria laid down in the most recent  EU regulation (54). The laboratory 
-indicated during the audit that it was aware of the latest validation requirements and 
-inclusion in future validations has been flagged. 
-5.1.6.2 EIA Kochi 
-69. The audit team assessed the validation files for the following methods: 
-- chloramphenicol (Group A6) in shrimp and fish by LC-MS/MS; 
-- nitrofuran (Group A6) in shrimp and fish by LC-MS/MS; 
-- tetracyclines (Group B1) in shrimp and fish by LC-MS/MS. 
-All were found to be adequately validated with appropriate validation criter ia and 
-concentration ranges applied in line with the Regulation (EU) 2021/808. 
-5.1.6.3 EIA Chennai 
-70. The method for  beta-agonists in poultry muscle is now validated at appropriate levels 
-with appropriate decision limits, which is an improvement versus the 2018 audit. 
-71. The audit team assessed the validation files for the following methods: 
-- chloramphenicol (Group A6) in poultry muscle by LC-MS/MS;  
-- tetracyclines, quinolones and sulphonamide s (Group B1) in poultry muscle by LC -
-MS/MS;  
-- anticoccidials (Group B2b) in poultry muscle by LC-MS/MS; 
-- chloramphenicol (Group A6) in shrimp and aquaculture feed by LC-MS/MS (PET); 
-- nitrofuran metabolites (Group A6) in shrimp by LC-MS/MS (PET).  
-For finfish muscle and shrimp, the validation reports reviewed,  assessed all of the 
-required criteria at appropriate concentration levels in line with the EU Decision 
-(2002/657/EC) in force at the time of the validation but are not in fully line with the 
-latest EU legislation on method validation, Regulation (EU) 2021/808.  The laboratory 
-indicated that it was  aware of the introduction of the new requirements for method 
-validation in said Regulation.  
-72. For the poultry methods above , the validation reports of  other tissues and matrices  
-included in the residue monitoring plan were requested. These included poultry liver, 
- 
-(52) Annex I to Commission Decision 2002/657/EC. 
-(53) Annex to Commission Regulation (EC) No 333/2007.  
-(54) Annex I to Regulation (EU) 2021/808.
-
-[Page 26]
-25 
-kidney, fat & skin, body fluid (serum), farm water and feed.  At the time of the visit, no 
-validation had been performed for these other matrices. In this respect there has been no 
-change to what was found during the 2018 audit  and thus Recommendation 3 of that 
-audit report has not been addressed fully.  The use of unvalidated methods for official 
-controls testing is contrary to what would be required in the EU (55). Evidence was seen 
-of the inclusion of a recovery check spiked matrix for non- validated matrices in recent 
-analysis batches for anticoccidials (B2b) in liver.  Whilst this is a sensible approach, 
-there was no documented procedure indicating how the recovery data was applied to 
-mitigate the non-validated status of these matrices and the laboratory had yet to analyse 
-these recovery data with a view to validating matrices other than poultry muscle.  
-73. During the audit, the laboratory proposed to submit data for a two- day mini validation 
-for the outstanding matrices. After the audit, validation results  were submitted to the 
-audit team for tetracyclines, quinolones and sulphonamides (Group B1) in kidney, liver 
-and fat by LC -MS/MS. The files r eceived did not include a comparison of the 
-calculated validation parameters for the new matrices to poultry muscle. Thus the audit 
-team could still not conclude that the method was fit for purpose for matrices other than 
-muscle. No further validation details were received for any of the other laboratory 
-methods in poultry matrices.  
-5.1.6.4 MPEDA Kochi 
-74. The audit team assessed the validation files for the following methods: 
-- nitrofurans and chloramphenicol (Group A6) in shrimp and fish by LC-MS/MS; 
-- malachite green (Group B3e) in shrimp and fish by LC-MS/MS; 
-- tetracyclines, sulphonamides and beta-lactams (Group B1) in shrimp and fish by LC-
-MS/MS. 
-All of these methods were found to be adequately validated with appropriate validation 
-criteria and concentration ranges applied in line with Decision 2002/657/EC which was 
-in force at the time of the validation . H owever, not all methods met the validation 
-requirements laid down in the most recent EU legislation (Regulation (EU) 2021/808).  
-The laboratory indicated that activities have already commenced to meet these more 
-recent EU requirements. 
-5.1.6.5 MPEDA Bhubaneswar 
-75. The audit team assessed the validation files for the following methods: 
-- nitrofurans (Group A6) in shrimp and finfish by LC-MS/MS; 
-- dyes (Group B3e) in shrimp and finfish by LC-MS/MS; 
-- tetracyclines and quinolones (Group B1) in shrimp and finfish by LC-MS/MS; 
-- chloramphenicol (Group A6) screening in shrimp by ELISA (PHT); 
-- nitrofurans (Group A6) screening in shrimp by ELISA (PHT). 
- 
-(55) Article 3 of Regulation (EU) 2021/808.
+(2) https://ec.europa.eu/food/audits-analysis/audit_reports/details.cfm?rep_id=4055. 
+(3) Commission Decision 2010/381/EU of 8 July 2010 on emergency measures applicable to consignments of 
+aquaculture products imported from India and intended for human consumption (OJ L 174, 8.7.2010, p. 
+51).

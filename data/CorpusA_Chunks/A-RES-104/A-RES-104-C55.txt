@@ -1,0 +1,36 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-104-C55
+Parent Doc ID: A-RES-104
+Page Range: Page 16
+Word Range: 14348 - 14602
+Word Count: 255
+--------------------
+
+[Page 16]
+Xue et al. 10.3389/fsufs.2025.1649834
+Frontiers in Sustainable Food Systems 16 frontiersin.org
+Williams, T. G., Bui, S., Conti, C., Debonne, N., Levers, C., Swart, R., et al. (2023). 
+Synthesising the diversity of European Agri-food networks: a meta-study of actors and 
+power-laden interactions. Glob. Environ. Change  83:102746. doi: 
+10.1016/j.gloenvcha.2023.102746
+Xiao, H., Meng, B., Cheng, L., and Sun, T. (2017). Complex network analysis for 
+characterizing global value chains in equipment manufacturing. PLoS One 12:e0169549. 
+doi: 10.1371/journal.pone.0169549
+Y oung, L. M., and Hobbs, J. E. (2002). Vertical linkages in Agri-food supply chains: 
+changing roles for producers, commodity groups, and government policy. Rev. Agric. 
+Econ. 24, 428–441. doi: 10.1111/1467-9353.00107
+Zhang, X., and Aramyan, L. H. (2009). A conceptual framework for supply chain 
+governance. China Agric. Econ. Rev. 1, 136–154. doi: 10.1108/17561370910927408
+Zhao, G., Liu, S., Chen, X., Lopez, C., Olan, F ., Hormazabal, J. H., et al. (2024). Links 
+between risk source identification and resilience capability building in Agri-food supply 
+chains: a comprehensive analysis. IEEE Trans. Eng. Manag.  71, 13362–13379. doi: 
+10.1109/tem.2022.3221361
+Zhao, G., Liu, S., and Lopez, C. (2017). A literature review on risk sources and 
+resilience factors in Agri-food supply chains. In: L. Camarinha-Matos, H. 
+Afsarmanesh and R. Fornasiero (eds). Collaboration in a data-rich world. PRO-VE 
+2017. IFIP Advances in Information and Communication Technology. Vol 506. 
+Springer, Cham.
+Zhao, G., Liu, S., Wang, Y ., Lopez, C., Zubairu, N., Chen, X., et al. (2022). Modelling 
+enablers for building Agri-food supply chain resilience: insights from a comparative 
+analysis of Argentina and France. Prod. Plan. Control  35, 283–307. doi: 
+10.1080/09537287.2022.2078246

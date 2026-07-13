@@ -1,0 +1,73 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-106-C57
+Parent Doc ID: A-RES-106
+Page Range: Page 25
+Word Range: 15251 - 15643
+Word Count: 393
+--------------------
+
+[Page 25]
+Oosterveer, P., Adjei, B. E., Vellema, S., & Slingerland, M. ( 2014 ). Global sustainability standards and food security: 
+exploring unintended effects of voluntary certification in palm oil. Global Food Security, 3, 220–226. https://doi.org/ 
+10.1016/j.gfs.2014.09.006
+Oya, C., Schaefer, F., & Skalidou, D. ( 2018 ). The effectiveness of agricultural certification in developing countries: A 
+systematic review. World Development, 112, 282–312. https://doi.org/10.1016/j.worlddev.2018.08.001
+Padhiary, M., & Roy, P. ( 2025 ). Collaborative marketing strategies in agriculture for global reach and local impact. In S. 
+Pant, V. Venkatesh, P. Panday, G. Shukla, & S. Parhi (Eds.), Emerging Trends in Food and Agribusiness Marketing 
+(pp. 219–252). IGI Global Scientific Publishing.
+Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., 
+Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., 
+McDonald, S., … Whiting, P. ( 2021 ). The PRISMA 2020 statement: an updated guideline for reporting systematic 
+reviews. International Journal of Surgery, 88. 105906. https://doi.org/10.1016/j.ijsu.2021.105906
+Ponte, S. ( 2019 ). Green capital accumulation: business and sustainability management in a world of global value chains. 
+New Political Economy, 25(1), 72–84. https://doi.org/10.1080/13563467.2019.1581152
+Ponte, S., & Sturgeon, T. ( 2014 ). Explaining governance in global value chains: A modular theory-building effort. Review 
+of International Political Economy, 21(1), 195–223. https://doi.org/10.1080/09692290.2013.809596
+Potts, J., Voora, V., Lynch, M., & Mammadova, A. ( 2016 ). Voluntary sustainability standards and biodiversity: 
+Understanding the potential of agricultural standards for biodiversity protection. SSI Policy Brief. (Accessed: 05 
+November 2025). IISD, IIED and FAST. Retrieved from: https://www.iisd.org/system/files/publications/voluntary- 
+sustainability-standards-biodiversity-policy-brief.pdf
+Prokopy, L. S., Floress, K., Klotthor-Weinkauf, D., & Baumgart-Getz, A. ( 2008 ). Determinants of agricultural best 
+management practice adoption: evidence from the literature. Journal of Soil and Water Conservation, 63, 
+300–311. https://doi.org/10.2489/jswc.63.5.300
+R Core Team. ( 2023 ). R: A language and environment for statistical computing, R Foundation for Statistical Computing, 
+(accessed 15 December 2023). https://www.R-project.org/ 
+Ravi, S., & Rajasekaran, S. R. C. ( 2023 ). A perspective of digital marketing in rural areas: A literature review. International 
+Journal of Professional Business Review, 8(4), e01388. https://doi.org/10.26668/businessreview/2023.v8i4.1388
+Régnier, E., Noël, V., & Aubry, P. M. ( 2025 ). Agriculture in the next European budget: avoiding the status quo Issue Brief 
+No. 02 mars 25. IDDRI.
+Rietberg, P. I., & Slingerland, M. A. ( 2016 ). Cost and benefits of RSPO certification for independent smallholders: A science 
+for policy paper for the RSPO. Wageningen University.
+Rijn, F.C., Judge, L.O., Fort, R., Koster, T., Waarts, Y.R., & Ruben, R. ( 2016 ). Fairtrade certification in the hired labour 
+banana sector. LEI Report 2015-056. Wageningen UR (University & Research centre).
+Schoneveld, G. C. ( 2022 ). Transforming food systems through inclusive agribusiness. World Development, 158. 105970. 
+https://doi.org/10.1016/j.worlddev.2022.105970
+Schut, M., Cunha Soares, N., van de Ven, G. W. J., & Slingerland, M. ( 2014 ). Multi-actor governance of sustainable biofuels in 
+developing countries: the case of Mozambique. Energy Policy, 65, 631–643. https://doi.org/10.1016/j.enpol.2013.09.007
+Smith, S. ( 2010 ). Fairtrade bananas: a global assessment of impact. Institute of Development Studies.University of 
+Sussex.
+Snider, A., Gutierrez, I., Sibelet, N., & Faure, G. ( 2017 ). Small farmer cooperatives and voluntary coffee certifications: 
+rewarding progressive farmers of engendering widespread change in Costa Rica? Food Policy, 69, 231–242. https:// 
+doi.org/10.1016/j.foodpol.2017.04.009
+Stuart, A. M., Devkota, K. P., Sato, T., Pame, A. R. P., Balingbing, C., Phung, N. T. M., Kieu, N. T., Hieu, P. T. M., Long, T. H. L., 
+Beebout, S., & Singleton, G. R. ( 2018 ). On-farm assessment of different rice crop management practices in the Mekong 
+delta, Vietnam, using sustainability performance indicators. Field Crops Research, 229, 103–114. https://doi.org/ 
+10.1016/j.fcr.2018.10.001
+Tu, V. H., Can, N. D., Takahashi, Y., Kopp, S. W., & Yabe, M. ( 2019 ). Technical and environmental efficiency of eco-friendly 
+rice production in the upstream region of the Vietnamese Mekong delta. Environment, Development and 
+Sustainability, 21, 2401–2424. https://doi.org/10.1007/s10668-018-0140-0
+UN. ( 2015 ). Transforming our World: The 2030 Agenda for Sustainable Development, (accessed 15 March 2024). https:// 
+sdgs.un.org/2030agenda
+UNCTAD. ( 2023 ). Voluntary Sustainability Standards in International Trade. (accessed 20 April 2024). United Nations 
+Publications. https://unctad.org/system/files/official-document/ditctab2022d8_en.pdf 
+van Vliet, J. A., Slingerland, M. A., Waarts, Y. R., & Giller, K. E. ( 2021 ). A living income for cocoa producers in Côte d'Ivoire 
+and Ghana? Frontiers in Sustainable Food Systems, 5, 732831. https://doi.org/10.3389/fsufs.2021.732831
+Waarts, Y., Ge, L., & van der Mheen, J. ( 2013 ). A touch of cocoa. Baseline study of six UTZ-Solidaridad cocoa projects in 
+Ghana. LEI Wageningen UR.
+Waarts, Y., Ingram, V., Linderhof, V., Puister-Jansen, L., van Rijn, F., & Aryeetey, R. ( 2015 ). Impact of UTZ Certification on 
+Cocoa Producers in Ghana, 2011 to 2014. LEI Wageningen UR.
+Wätzold, M. Y. L., Abdulai, I., Cooke, A., Krumbiegel, K., Ocampo-Ariza, C., Wenzel, A., & Wollni, M. ( 2025 ). Do voluntary 
+sustainability standards improve socioeconomic and ecological outcomes? Evidence from Ghana's cocoa sector. 
+Ecological Economics, 229. 108474. https://doi.org/10.1016/j.ecolecon.2024.108474
+24
+ R. D’ANNOLFO AND F. DEMARIA
