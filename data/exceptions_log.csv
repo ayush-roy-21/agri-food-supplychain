@@ -387,3 +387,4 @@ EX-A-MSME-103,A-MSME-103,MSME_West-Bengal_2025.pdf,2026-07-10,failed-data-qualit
 EX-A-MSME-104,A-MSME-104,RGMNAV000131.pdf,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
 EX-RCAC-200,RCAC-200,India-Newzealand.jpg,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
 EX-RCAC-201,RCAC-201,India-Uk CETA.jpg,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
+A-SPICE-006,Spices Board Official Portal,http://www.indianspices.com/trade/trade-notifications/revision-analytical-charges,2026-07-14,failed-data-quality — raw HTML scrape debris and navigation/auction ticker markup,Excluded during embedding verification and logged to exceptions per user review,Raw HTML scrape debris in place of text summary

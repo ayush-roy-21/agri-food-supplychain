@@ -1,0 +1,21 @@
+--- CHUNK HEADER ---
+Chunk ID: A-IEC-004-C02
+Parent Doc ID: A-IEC-004
+Page Range: N/A (Web Scraped / Text Extract)
+Word Range: 281 - 471
+Word Count: 191
+--------------------
+
+produce by air freight to London and Frankfurt. Consignments undergo mandatory 50% physical and analytical sampling at EU BCPs for organophosphate and pyrethroid pesticide residues under EU emergency control regulations. -------------------------------------------------------------------------------- [3] EXPORTER NAME: Jain Irrigation Systems Ltd. (Food Processing Division)
+    IEC Number: 0519056789
+    Commodity Sector: Processed Fruits & Vegetables (Dehydrated Onions & Mango Pulp)
+    Target Market: United States (US) & European Union (EU)
+    Signal Source: APEDA Processed Foods + US FDA Food Safety Modernization Act (FSMA) + BRCGS
+    Plant Approval No.: APEDA/PF/715
+    Compliance Summary: Major IEC holder operating GFSI/BRCGS certified dehydration and aseptic canning plants in Maharashtra. US shipments audited under FDA FSMA Preventive Controls for Human Food (21 CFR Part 117); EU shipments verified for heavy metal (lead/cadmium) limits. -------------------------------------------------------------------------------- [4] EXPORTER NAME: Desai Fruits & Vegetables Pvt. Ltd.
+    IEC Number: 0391067890
+    Commodity Sector: Fresh Fruits (Cavendish Bananas & Mangoes)
+    Target Market: European Union (EU) & Middle East/US
+    Signal Source: APEDA HortiNet + EU Plant Health Directive (2019/2072)
+    Plant Approval No.: APEDA/HORT/822
+    Compliance Summary: IEC holder implementing APEDA packhouse accreditation standards. Issues phytosanitary certificates verifying freedom from Tephritidae fruit flies and quarantine pests required for EU port entry. --------------------------------------------------------------------------------
