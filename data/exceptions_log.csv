@@ -388,3 +388,15 @@ EX-A-MSME-104,A-MSME-104,RGMNAV000131.pdf,2026-07-10,failed-data-quality,Inadequ
 EX-RCAC-200,RCAC-200,India-Newzealand.jpg,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
 EX-RCAC-201,RCAC-201,India-Uk CETA.jpg,2026-07-10,failed-data-quality,Inadequate score during §6 DQA audit
 A-SPICE-006,Spices Board Official Portal,http://www.indianspices.com/trade/trade-notifications/revision-analytical-charges,2026-07-14,failed-data-quality — raw HTML scrape debris and navigation/auction ticker markup,Excluded during embedding verification and logged to exceptions per user review,Raw HTML scrape debris in place of text summary
+EX-A-MOFPI-100,A-MOFPI-100,Action-Points-for-the-Ministry-of-Food-Processing-Industries-(MoFPI).pdf,2026-07-14,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MOFPI-101,A-MOFPI-101,Factsheet Details_Factsheet Details _ PIB.pdf,2026-07-14,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MOFPI-102,A-MOFPI-102,INTRODUCTION TO.pdf,2026-07-14,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MOFPI-103,A-MOFPI-103,Press Note Details_ Press Information Bureau.pdf,2026-07-14,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MOFPI-104,A-MOFPI-104,Press Release Page  - Press Information Bureau - MoFPI.pdf,2026-07-14,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MOFPI-105,A-MOFPI-105,Press Release Page _ Press Information Bureau - Indian Agricultural Exports.pdf,2026-07-14,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MOFPI-106,A-MOFPI-106,Press Release Page _ Press Information Bureau.pdf,2026-07-14,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MSME-100,A-MSME-100,Annual-Survey-MSMEs_India_2025.pdf,2026-07-14,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MSME-101,A-MSME-101,Boosting Exports from MSMEs_March 20244_0.pdf,2026-07-14,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MSME-102,A-MSME-102,Enhancing_Competitiveness_of_MSMEs_in_India NITI Aayog.pdf,2026-07-14,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MSME-103,A-MSME-103,MSME_West-Bengal_2025.pdf,2026-07-14,failed-data-quality,Inadequate score during §6 DQA audit
+EX-A-MSME-104,A-MSME-104,RGMNAV000131.pdf,2026-07-14,failed-data-quality,Inadequate score during §6 DQA audit
