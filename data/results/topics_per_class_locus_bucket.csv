@@ -1,0 +1,32 @@
+Topic,Words,Frequency,Class
+-1,"food, ex, export, food safety, safety",33,Cross-Cutting & Institutional Governance
+0,"trade, tea, india, dqa, export",92,Cross-Cutting & Institutional Governance
+1,"supply, chain, supply chain, al, et",74,Cross-Cutting & Institutional Governance
+2,"author, user, status, iec, discourse",34,Cross-Cutting & Institutional Governance
+3,"seafood, export, trade, exports, value",5,Cross-Cutting & Institutional Governance
+4,"eu, aquaculture, residue, monitoring, substances",17,Cross-Cutting & Institutional Governance
+5,"spices, board, spices board, spices spice, export",12,Cross-Cutting & Institutional Governance
+6,"msmes, enterprises, survey, firms, msme",21,Cross-Cutting & Institutional Governance
+7,"slavery, modern slavery, modern, supply, actors",20,Cross-Cutting & Institutional Governance
+8,"ting, sustainability, ar, inf, mation",18,Cross-Cutting & Institutional Governance
+9,"food, processing, food processing, scheme, fortification",15,Cross-Cutting & Institutional Governance
+10,"shall, food, meat, storage, water",13,Cross-Cutting & Institutional Governance
+11,"west, west bengal, bengal, export, industrial",12,Cross-Cutting & Institutional Governance
+12,"inspection, export, quality control, quality, export inspection",9,Cross-Cutting & Institutional Governance
+13,"billion, 2026, 202526, exports, 202627",10,Cross-Cutting & Institutional Governance
+14,"mpeda, scheme, central sector, sector scheme, evaluation",9,Cross-Cutting & Institutional Governance
+15,"msmes, goal, sustainable, sustainable development, business",9,Cross-Cutting & Institutional Governance
+-1,"catch, eu, mpeda, marine, regulation",7,Marine & Aquaculture
+0,"pragativadi, comments, people, disposable, decision makers",2,Marine & Aquaculture
+2,"author, user, status, discourse, practitioner",5,Marine & Aquaculture
+3,"seafood, exports, export, shrimp, value",43,Marine & Aquaculture
+4,"aquaculture, shrimp, act, kerala, eu",7,Marine & Aquaculture
+12,"inspection, gazette, notification, quality, export",2,Marine & Aquaculture
+-1,"eu, fda, compliance, iec, apeda",4,"Horticulture, Cereals & Organic"
+0,"rice, trade, export, india, apeda",75,"Horticulture, Cereals & Organic"
+2,"author, user, status, discourse, practitioner",13,"Horticulture, Cereals & Organic"
+-1,"ex, 2008, 97, 19, 99",12,Spices & Botanical Herbs
+0,"trade, india, dqa, spices, spice",26,Spices & Botanical Herbs
+3,"district, erode, coimbatore, districts, birds",1,Spices & Botanical Herbs
+5,"spices, 100, pesticide, board, official",9,Spices & Botanical Herbs
+12,"inspection, quality control, control inspection, quality, export",1,Spices & Botanical Herbs

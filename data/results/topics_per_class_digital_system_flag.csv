@@ -1,0 +1,24 @@
+Topic,Words,Frequency,Class
+-1,"ex, 2008, 97, 19, food",44,No
+0,"trade, india, export, dqa, tea",182,No
+1,"supply, chain, supply chain, al, et",74,No
+2,"author, user, status, discourse, practitioner",35,No
+3,"seafood, exports, export, value, shrimp",49,No
+4,"aquaculture, eu, residue, monitoring, veterinary",23,No
+5,"spices, 100, board, pesticide, spices board",18,No
+6,"msmes, enterprises, survey, firms, msme",21,No
+7,"slavery, modern slavery, modern, supply, actors",20,No
+8,"ting, sustainability, ar, inf, mation",18,No
+9,"food, processing, food processing, scheme, fortification",15,No
+10,"shall, food, meat, storage, water",13,No
+11,"west, west bengal, bengal, export, industrial",12,No
+12,"inspection, export, quality, quality control, gazette",11,No
+13,"billion, 2026, 202526, exports, 202627",10,No
+14,"mpeda, scheme, central sector, sector scheme, evaluation",9,No
+15,"msmes, goal, sustainable, sustainable development, business",9,No
+-1,"food, fda, eu, safety, food safety",12,Yes
+0,"india, format, pdf, download, trade",13,Yes
+2,"author, user, iec, status, code",17,Yes
+4,"certificates, health certificates, official, nt, eu",1,Yes
+5,"spices, board, spices board, eu, certificate",3,Yes
+12,"inspection, quality, quality control, export, star",1,Yes
