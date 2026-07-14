@@ -1,0 +1,19 @@
+--- CHUNK HEADER ---
+Chunk ID: B-YT-008-C02
+Parent Doc ID: B-YT-008
+Page Range: N/A (Web Scraped / Text Extract)
+Word Range: 254 - 491
+Word Count: 238
+--------------------
+
+Name field is greyed out so it does not let me enter it, neither does it let me submit the form as the firm name is mandatory. Any help appreciated!" (6) Author: [DE-IDENTIFIED USER] [2024-06-26T04:26:24Z] (Likes: 0)
+    "By entering CIN/LLPIN number it supposed to fetch the directors/ partners details, but it's not updating. Unable to delete Previous directors details" (7) Author: [DE-IDENTIFIED USER] [2024-05-23T13:39:36Z] (Likes: 0)
+    "How do we delete a retired director in DGFT portal (already deleted in MCA portal)?" (8) Author: [DE-IDENTIFIED USER] [2024-03-27T08:06:30Z] (Likes: 0)
+    "Pan already registered with IEC code created issue please help me" (9) Author: [DE-IDENTIFIED USER] [2024-02-22T11:14:53Z] (Likes: 0)
+    "while adding international mobile number it doesn't allow us to add complete number due to restriction in the number of digits. And this field is mandatory. Please advise." (10) Author: [DE-IDENTIFIED USER] [2023-07-18T09:41:54Z] (Likes: 0)
+    "How can I recover old user ID and password please guide me" (11) Author: [DE-IDENTIFIED USER] [2023-06-22T06:02:50Z] (Likes: 0)
+    "Play at 1.75 to not have this bot waste your time. But, yes good information." (12) Author: [DE-IDENTIFIED USER] [2023-03-04T17:24:33Z] (Likes: 0)
+    "perfect" (13) Author: [DE-IDENTIFIED USER] [2023-01-04T10:25:03Z] (Likes: 0)
+    "Excellent Guideline video" (14) Author: [DE-IDENTIFIED USER] [2022-11-09T17:17:14Z] (Likes: 1)
+    "600080 pincode number not valid" (15) Author: [DE-IDENTIFIED USER] [2022-11-07T07:02:13Z] (Likes: 0)
+    "Error Message [Firm Name and Bank Account Holder Name does not match.] This is the message i see im not able to update my iec" ================================================================================
