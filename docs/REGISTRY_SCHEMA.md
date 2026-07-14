@@ -69,3 +69,30 @@ Tracks all encountered web documents, navigation pages, search forms, dynamic da
 ### B. Decision Log (`data/decision_log.csv`)
 Records major architectural, methodological, and scoping decisions made during corpus construction.
 - **Fields**: `decision_id`, `decision_date`, `decision_type`, `subject_doc_id_or_source`, `rationale_and_context`, `impacted_locus_or_logic`, `logged_by`
+
+---
+
+## 4. Modeling Units & 4×5 Grid Enrichment Schema (`data/embeddings/modeling_units_metadata.csv`)
+
+To enable downstream comparative topic modeling using `BERTopic.topics_per_class()` across multi-dimensional research criteria (`corpus_tier`, `institutional_pillar`, `4×5 grid`, and `digital_system_flag`) **without re-embedding** the 610-unit vector space (`unit_embeddings.npy`), all modeling units are enriched via `src/data-processing/enrich_metadata_4x5.py`.
+
+### A. Canonical 4-Locus Grid (`locus_bucket`)
+Resolves the 121 free-text `locus_tag` values into 4 domain-bounded analytical categories:
+1. **`Marine & Aquaculture`**: Coastal shrimp, fish, marine SPS/IUU enforcement, MPEDA, catch certificates (`apsada-aquaculture-authority`, `eumofa-shrimp-supply-chain-study`, `asc-certified-farms-directory`, `fda-refusal-shrimp-antibiotics`).
+2. **`Spices & Botanical Herbs`**: Spices Board circulars, QEL lab testing, ETO, aflatoxin, Salmonella screening (`spices-consignment-inspection`, `eu-spices-export-protocol`, `fda-refusal-spices-salmonella`).
+3. **`Horticulture, Cereals & Organic`**: Fresh fruits/vegetables, rice/basmati, floriculture, APEDA, TraceNet, HortiNet, organic NPOP (`cereals-export-protocol`, `fresh-produce-hortinet`, `organic-certification-framework`).
+4. **`Cross-Cutting & Institutional Governance`**: Horizontal trade infrastructure, DGFT, ICEGATE, MoFPI mega food parks, MSME ZED/subsidies, CSR, general food law, EUDR/CSDDD (`agri-export-strategic-roadmap`, `gdelt-customs-clearance-holds`, `inter-agency-regulatory-framework`).
+
+### B. Canonical 5-Verification-Logic Grid (`logic_bucket`)
+Resolves the 97 free-text `verification_logic` values into 5 statutory and discourse enforcement mechanisms:
+1. **`Laboratory Testing & Residue Assays`**: Analytical instrumental screening, LC-MS/MS, GC-MS/MS, HPLC, pathogen screening, MRL checks (`mandatory-pathogen-absence-testing-in-25g`, `qel-laboratory-multi-residue-pesticide-screen`, `iso-17025-accredited-instrumental-analysis`).
+2. **`Facility Audit & Hygiene Standards`**: HACCP, ISO 22000, BRCGS, GFSI, packhouse registration, farm inspection, processing surveillance (`plant-hygiene-and-haccp-compliance`, `unannounced-processing-plant-surveillance`, `gfsi-fssc22000-brcgs-iso17065-recognition`).
+3. **`Traceability & Digital Geotagging`**: TraceNet, HortiNet, EU Catch Certificate online, plot polygon geolocation, digital IEC/RCMC, lot tracing (`farm-to-port-batch-geotagging`, `icegate-dgft-exim-licensing-integration`, `apeda-tracenet-geojson-polygon-generation-protocol`).
+4. **`Destination Border Controls & Refusals`**: FDA import alerts/refusals, EU DG SANTE emergency border 20% sampling, RASFF border rejections (`fda-charge-code-801a3-salmonella-pathogen-detection`, `border-rejection-notification-and-30-day-cap-audit`).
+5. **`Trade Discourse & Practitioner Experience`**: Media signaling of trade friction, lived practitioner hurdles, macroeconomic cost breakdowns (`media-signaling-and-border-rejections (external trade friction)`, `practitioner-lived-hurdles (internal & relational friction)`).
+
+### C. Digital System Presence (`digital_system_flag`)
+Explicit keyword tracking across unit text and title for Indian and international digital export platforms: `TraceNet`, `HortiNet`, `ICEGATE`, `FoSCoS`, `e-CoO`, `e-SANTA`, `TRACES-NT`, and `OASIS`. Populates `digital_system_flag` (`Yes`/`No`) and `digital_systems_mentioned`.
+
+### D. Audit Transparency (`data/embeddings/mapping_table_4x5.csv`)
+A standalone 218-row audit lookup table explicitly mapping every unique `locus_tag` and `verification_logic` string to its assigned canonical bucket and methodological justification.

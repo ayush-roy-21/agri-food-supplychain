@@ -112,6 +112,8 @@ agri-food-project/
         ├── extract_and_classify_corpus_a.py # Regulatory classification & NLP text extraction utility
         ├── ocr_corpus_a.py             # Tesseract OCR preprocessing pipeline for scanned PDFs & images
         ├── resolve_remaining_queued_a.py # EUR-Lex statutory summary generator (100% readability recovery)
+        ├── generate_embeddings.py      # Generates 610-unit e5-base-v2 embedding matrix (unit_embeddings.npy)
+        ├── enrich_metadata_4x5.py      # Enriches modeling metadata with canonical 4x5 grid & digital system flags
         └── run_dqa_audit.py            # Automated master DQA audit & pipeline execution runner
 ```
 
@@ -191,4 +193,10 @@ python src/data-processing/run_dqa_audit.py
 
 # Execute YouTube PII de-identification and sanitization pipeline
 python src/data-processing/deidentify_youtube_sanitization.py
+
+# Generate 610-unit e5-base-v2 vector embeddings (unit_embeddings.npy)
+python src/data-processing/generate_embeddings.py
+
+# Enrich modeling units metadata with canonical 4x5 grid classes & digital system flags
+python src/data-processing/enrich_metadata_4x5.py
 ```
