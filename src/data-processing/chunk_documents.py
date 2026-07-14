@@ -83,6 +83,7 @@ def main():
                 lookup_by_file[clean_name] = info
 
     # Helper to resolve exact parent info from file path
+    # pyrefly: ignore [bad-function-definition]
     def get_parent_info(txt_path: Path, expected_tier: str = None):
         base_id = txt_path.stem
         if base_id in lookup_by_id and (not expected_tier or lookup_by_id[base_id]["corpus_tier"] == expected_tier):
@@ -127,7 +128,7 @@ def main():
             continue
         try:
             words = open(f, encoding="utf-8", errors="replace").read().split()
-            if len(words) >= 600:
+            if len(words) >= 400:
                 candidates.append((f, "A"))
         except Exception:
             pass
@@ -136,7 +137,7 @@ def main():
         try:
             words = open(f, encoding="utf-8", errors="replace").read().split()
             # User specifically noted B-GD-007, B-GD-101, and B-GD-071 plus borderline files
-            if f.stem in ["B-GD-007", "B-GD-101", "B-GD-071"] or len(words) >= 1400:
+            if f.stem in ["B-GD-007", "B-GD-101", "B-GD-071"] or len(words) >= 400:
                 candidates.append((f, "B"))
         except Exception:
             pass
@@ -231,7 +232,7 @@ def main():
                 continue
             if len(chunks) == 1:
                 group_word_count = len(chunks[0][1])
-                if (parent_tier == "A" and group_word_count < 600) or (parent_tier == "B" and group_word_count < 1400 and parent_id not in ["B-GD-007", "B-GD-101", "B-GD-071"]):
+                if group_word_count < 400 and parent_id not in ["B-GD-007", "B-GD-101", "B-GD-071"]:
                     print(f"    -> Parent [{parent_id}] ({txt_path.name[:45]}...) produced only 1 chunk ({group_word_count} words). Skipping separate chunk storage.")
                     if out_dir.exists() and not any(out_dir.iterdir()): out_dir.rmdir()
                     if data_out_dir.exists() and not any(data_out_dir.iterdir()): data_out_dir.rmdir()
@@ -324,7 +325,7 @@ def main():
                 continue
             if len(chunks) == 1:
                 group_word_count = len(chunks[0][0])
-                if (parent_tier == "A" and group_word_count < 600) or (parent_tier == "B" and group_word_count < 1400 and parent_id not in ["B-GD-007", "B-GD-101", "B-GD-071"]):
+                if group_word_count < 400 and parent_id not in ["B-GD-007", "B-GD-101", "B-GD-071"]:
                     print(f"    -> Parent [{parent_id}] ({txt_path.name[:45]}...) produced only 1 chunk ({group_word_count} words). Skipping separate chunk storage.")
                     if out_dir.exists() and not any(out_dir.iterdir()): out_dir.rmdir()
                     if data_out_dir.exists() and not any(data_out_dir.iterdir()): data_out_dir.rmdir()
