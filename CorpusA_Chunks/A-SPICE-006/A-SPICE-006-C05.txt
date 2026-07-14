@@ -1,9 +1,52 @@
 --- CHUNK HEADER ---
 Chunk ID: A-SPICE-006-C05
 Parent Doc ID: A-SPICE-006
-Page Range: N/A (Web Scraped / Text Extract)
-Word Range: 1045 - 1301
-Word Count: 257
+Page Range: Page 5
+Word Range: 1113 - 1383
+Word Count: 271
 --------------------
 
-</div> <div class="clear"></div> </div> </div><!-- #top content --> <div class="logo-area" id="header"> <!-- /#header start --> <div class="wrapper1"> <div class="logo" style="width:28%;"> <a href="/index.html" title="Home" rel="home" id="logo"> <img width="330" src="/sites/default/files/new%20logo.jpg" alt="Home" /> </a> </div> <!-- <div id="saga"> <a href="/saga_35glorious.html#saga" title="Home" rel="home" id="logo" target="_blank"> <img class="saga" src="/sites/default/files/styles/large/public/35_years_logo.png" alt="Home" /> </a> </div> --> <div class="link_tag"> <div class="region region-header"> <div id="block-block-1" class="block block-block"> <div class="content"> <div class="language"> <a href="/hin/index.html"> हिंदी</a> </div> <div class="saociallinks"> </div> <ul class="topnav"> <li><img src="/sites/all/themes/spices/images/home-icon.png" alt="Home" /><a href="/index.html">Home</a></li> <li><img src="/sites/all/themes/spices/images/sitemap-icon.png" alt="Sitemap" /> <a href="/sitemap.html">Sitemap</a></li> <li><img src="/sites/all/themes/spices/images/contact-icon.png" alt="Contact Us" /> <a href="/contact.html">Contact Us</a></li> </ul> <div class="topnavlogos"> <a href="http://spicesboard.in/virtual_office/index.php?vc=true" target="_blank" title="Video Conference" style="margin-left:10px;"><img src="/sites/all/themes/spices/images/logo/VIDEO WEB-icons.jpg" width="40" alt="Facebook" style="margin-left: 0px;"></a> <a href="https://www.facebook.com/Spices-Board-INDIA-569686233241370/" target="_blank" title="Facebook" style="margin-left:10px;" onclick="return confirm('You are now being redirected to an external link. Spices Board India does not take responsibility for the accuracy of the contents in those sites. ')"><img src="/sites/all/themes/spices/images/socialMedia/facebook.png" width="25" height='25' alt="Facebook" style="margin-left: 0px;"></a> <a href="https://www.instagram.com/spicesboardi/" target="_blank" title="Instagram" style="margin-left:10px;" onclick="return confirm('You are now being redirected to an external link. Spices Board India does not take responsibility for the accuracy of the contents in those sites. ')"><img src="/sites/all/themes/spices/images/socialMedia/instagram.png" width="25" height='25' alt="Instagram" style="margin-left: 0px;"></a> <a href="https://twitter.com/Spices_Board" target="_blank" title="Twitter" style="margin-left:10px;" onclick="return confirm('You are now being redirected to an external link. Spices Board India does not take responsibility for the accuracy of the contents in those sites. ')"><img src="/sites/all/themes/spices/images/socialMedia/twitter.png" width="25" height='25' alt="Twitter" style="margin-left: 0px;"></a> <a href="https://www.linkedin.com/company/spices-board-india" target="_blank" title="LinkedIn" style="margin-left:10px;" onclick="return confirm('You are now being redirected to an external link. Spices Board India does not take responsibility for the accuracy of the contents in those sites. ')"><img src="/sites/all/themes/spices/images/socialMedia/linked.png" width="25" height='25' alt="LinkedIn" style="margin-left: 0px;"></a>
+[Page 5]
+Quality Evaluation Laboratory, Spices Board,Cochin.
+Details of the Analysis on various parameters showing the analytical charges,minimum
+quantity and number of days required for completion of analysis.
+SI No.
+Name of Analysis
+Min. Qty.
+Reqd. in Gm
+Charges 
+Rs.
+Form No. 75
+1
+10No of Days
+Required
+ Note:-
+  * Form no 75 Revised as on 11/07/2017  with addition of the parametertest by TEMPO Method under
+Microbiology.
+   Analytical  Charges revised with effect from 01-08-2017
+   Service tax @18.0% will be charged extra as per Government norms.
+2. > Depends on the number of parameters for individual spices and number of samples. 
+3. * Charges based on the parameter specified for each spice.
+4. **Turmeric is analysed  for Sudan I-IV by HPLC Method unless otherwise specified.
+5. ***In the case of analysis for ASTA / USFDA parameters, sample size should be a minimum of 500 g            
+for  heavier items like pepper,ginger,tumeric etc. and 250 g sample for low density items like  chilli          
+and seed   spices.
+6. #  Quantity for light filth analysis for Tamarind concentrate  by AOAC method  should be a minimum         
+of 600g.
+7. ##Analytical charges Rs. 500/- per element.
+8. @ In the case of analysis of oleoresin samples of spices for the above parameters a minimum of 50        
+g sample size is required and in case of coriander and herbs a sample size of 300 g  is required.
+9. The days required for the analysis will increase depending on the inflow of samples for  analysis.
+      The samples may be sent to the Scientist D & Head, Quality Evaluation Laboratory , Spices                        
+Board, Sugandha Bhavan, Palarivattom, Kochi -682 025,Kerala, along with analytical charges in the         
+form of D.D. drawn in favour of  Secretary, Spices Board,Kochi-25.
+Issue No.
+Issue Date
+11-07-2017
+Authorized By
+HN_GV
+34
+5 of 5
+Page No
+153490/2017/QUALITY LAB
+36/36

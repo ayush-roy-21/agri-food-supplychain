@@ -70,11 +70,9 @@ A-SPICE-005-C14,A-SPICE-005,A,Page 7,3651 - 3905,255,CorpusA_Chunks\A-SPICE-005\
 A-SPICE-005-C21,A-SPICE-005,A,Page 14,5526 - 5829,304,CorpusA_Chunks\A-SPICE-005\A-SPICE-005-C21.txt,"A,A,A,A,A,A",eu-spices-export-protocol,mandatory-eto-and-aflatoxin-sampling-scheme
 A-SPICE-005-C28,A-SPICE-005,A,Page 20,7479 - 7732,254,CorpusA_Chunks\A-SPICE-005\A-SPICE-005-C28.txt,"A,A,A,A,A,A",eu-spices-export-protocol,mandatory-eto-and-aflatoxin-sampling-scheme
 A-SPICE-005-C35,A-SPICE-005,A,Page 25 to Page 26,9235 - 9563,329,CorpusA_Chunks\A-SPICE-005\A-SPICE-005-C35.txt,"A,A,A,A,A,A",eu-spices-export-protocol,mandatory-eto-and-aflatoxin-sampling-scheme
-A-SPICE-006-C01,A-SPICE-006,A,N/A (Web Scraped / Text Extract),1 - 291,291,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C01.txt,"A,A,A,A,A,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
-A-SPICE-006-C05,A-SPICE-006,A,N/A (Web Scraped / Text Extract),1045 - 1301,257,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C05.txt,"A,A,A,A,A,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
-A-SPICE-006-C10,A-SPICE-006,A,N/A (Web Scraped / Text Extract),2386 - 2656,271,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C10.txt,"A,A,A,A,A,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
-A-SPICE-006-C15,A-SPICE-006,A,N/A (Web Scraped / Text Extract),4001 - 4270,270,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C15.txt,"A,A,A,A,A,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
-A-SPICE-006-C20,A-SPICE-006,A,N/A (Web Scraped / Text Extract),5382 - 5629,248,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C20.txt,"A,A,A,A,A,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
+A-SPICE-006-C01,A-SPICE-006,A,Page 1,1 - 289,289,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C01.txt,"A,A,A,A,A,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
+A-SPICE-006-C03,A-SPICE-006,A,Page 3,579 - 862,284,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C03.txt,"A,A,A,A,A,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
+A-SPICE-006-C05,A-SPICE-006,A,Page 5,1113 - 1383,271,CorpusA_Chunks\A-SPICE-006\A-SPICE-006-C05.txt,"A,A,A,A,A,A",usa-salmonella-testing,mandatory-pathogen-absence-testing-in-25g
 A-MOFPI-100-C01,A-MOFPI-100,A,Page 2 to Page 3,1 - 250,250,CorpusA_Chunks\A-MOFPI-100\A-MOFPI-100-C01.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
 A-MOFPI-100-C05,A-MOFPI-100,A,Page 5 to Page 6,1016 - 1265,250,CorpusA_Chunks\A-MOFPI-100\A-MOFPI-100-C05.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
 A-MOFPI-100-C10,A-MOFPI-100,A,Page 8,2266 - 2515,250,CorpusA_Chunks\A-MOFPI-100\A-MOFPI-100-C10.txt,"A,A,A,A,A,A",mofpi_pib-compliance-framework,direct-institutional-or-academic-extraction
