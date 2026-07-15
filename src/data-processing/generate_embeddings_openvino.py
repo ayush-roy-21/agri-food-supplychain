@@ -29,11 +29,6 @@ def main():
     print("   OPENVINO ACCELERATED E5-BASE-V2 EMBEDDING GENERATOR (INTEL IRIS XE)    ")
     print("==========================================================================")
 
-    if not METADATA_PATH.exists():
-        print(f"[ERROR] Missing metadata file: {METADATA_PATH}")
-        print("Please run 'python src/data-processing/generate_embeddings.py' first to assemble metadata.")
-        sys.exit(1)
-
     try:
         import torch
         import torch.nn.functional as F
@@ -44,10 +39,20 @@ def main():
         print("Please install:\n    pip install torch transformers optimum[openvino] openvino")
         sys.exit(1)
 
-    print(f"[*] Loading modeling units from: {METADATA_PATH}")
-    df_units = pd.read_csv(METADATA_PATH)
+    print("[*] Assembling clean modeling units from chunk_manifest and master_registry...")
+    try:
+        from generate_embeddings import assemble_modeling_units
+    except ImportError:
+        sys.path.append(str(Path(__file__).resolve().parent))
+        from generate_embeddings import assemble_modeling_units
+
+    df_units, skipped = assemble_modeling_units()
+    METADATA_PATH.parent.mkdir(parents=True, exist_ok=True)
+    df_units.to_csv(METADATA_PATH, index=False)
     n_docs = len(df_units)
-    print(f"    Total units to encode: {n_docs}")
+    print(f"[*] Saved {n_docs} pristine modeling units to {METADATA_PATH}")
+    if skipped:
+        print(f"    (Excluded {len(skipped)} noisy/corrupt units during assembly)")
 
     # E5 models specifically require the 'passage: ' prefix for symmetric clustering
     raw_texts = df_units["text"].astype(str).tolist()

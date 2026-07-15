@@ -18,6 +18,23 @@ from pathlib import Path
 
 from text_cleaning_utils import strip_provenance_preamble
 
+# DEC-2026-031: Exclude corrupted OCR parents entirely and known noisy tail-end chunks:
+# - A-SPICE-002, A-SPICE-004: Entirely garbled/corrupted OCR files
+# - B-GD-020-C05, B-GD-020-C06, B-GD-029-C05, B-GD-029-C06, B-GD-088-C03, B-GD-088-C04: GDELT tail-end scraper noise (related-articles/comment-policy footers)
+EXCLUDED_NOISY_PARENTS = {
+    "A-SPICE-002",
+    "A-SPICE-004",
+}
+
+EXCLUDED_NOISY_CHUNKS = {
+    "B-GD-020-C05",
+    "B-GD-020-C06",
+    "B-GD-029-C05",
+    "B-GD-029-C06",
+    "B-GD-088-C03",
+    "B-GD-088-C04",
+}
+
 def stratify_document_chunks(df, doc_id_col='doc_id', text_col='chunk_text'):
     """
     Applies sub-linear down-weighting (square root) and stratified sampling 
@@ -161,6 +178,9 @@ def main():
             continue
             
         parent_id = parent_info["doc_id"]
+        if parent_id in EXCLUDED_NOISY_PARENTS:
+            print(f"    -> Skipping parent [{parent_id}] entirely (corrupted/garbled OCR file, DEC-2026-031)")
+            continue
         parent_tier = parent_info["corpus_tier"]
         dqa_score = parent_info["dqa_score"]
         locus_tag = parent_info["locus_tag"]
@@ -278,6 +298,9 @@ def main():
             word_offset = 1
             for idx, (p_nums, c_words, c_text) in enumerate(chunks, 1):
                 c_id = f"{parent_id}-C{idx:02d}"
+                if c_id in EXCLUDED_NOISY_CHUNKS:
+                    print(f"    -> Skipping noisy/corrupted chunk [{c_id}] (DEC-2026-031 exclusion)")
+                    continue
                 w_count = len(c_words)
                 w_range_str = f"{word_offset} - {word_offset + w_count - 1}"
                 word_offset += w_count
@@ -370,6 +393,9 @@ def main():
             word_offset = 1
             for idx, (c_words, c_text) in enumerate(chunks, 1):
                 c_id = f"{parent_id}-C{idx:02d}"
+                if c_id in EXCLUDED_NOISY_CHUNKS:
+                    print(f"    -> Skipping noisy/corrupted chunk [{c_id}] (DEC-2026-031 exclusion)")
+                    continue
                 w_count = len(c_words)
                 w_range_str = f"{word_offset} - {word_offset + w_count - 1}"
                 word_offset += w_count

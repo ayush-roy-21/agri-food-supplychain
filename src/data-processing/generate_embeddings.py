@@ -31,6 +31,24 @@ OUT_DIR = PROJECT_ROOT / "data" / "embeddings"
 
 CHUNK_HEADER_SEP = "--------------------\n\n"
 
+# DEC-2026-031: Exclude corrupted OCR parents entirely and known noisy tail-end chunks:
+# - A-SPICE-002, A-SPICE-004: Entirely garbled/corrupted OCR files
+# - B-GD-020-C05, B-GD-020-C06, B-GD-029-C05, B-GD-029-C06, B-GD-088-C03, B-GD-088-C04: GDELT tail-end scraper noise (related-articles/comment-policy footers)
+EXCLUDED_CORRUPT_OR_NOISY_PARENTS = {
+    "A-SPICE-002",
+    "A-SPICE-004",
+}
+
+EXCLUDED_CORRUPT_OR_NOISY_CHUNKS = {
+    "B-GD-020-C05",
+    "B-GD-020-C06",
+    "B-GD-029-C05",
+    "B-GD-029-C06",
+    "B-GD-088-C03",
+    "B-GD-088-C04",
+}
+
+
 
 def strip_chunk_header(raw_text: str) -> str:
     """Chunk files carry a '--- CHUNK HEADER ---' block; strip it before embedding."""
@@ -125,6 +143,9 @@ def assemble_modeling_units():
         # backslashes (e.g. "CorpusA_Chunks\A-RES-100\...txt"); normalize
         # before joining or every lookup fails on POSIX systems.
         normalized_path = str(crow["chunk_path"]).replace("\\", "/")
+        if crow["parent_doc_id"] in EXCLUDED_CORRUPT_OR_NOISY_PARENTS or crow["chunk_id"] in EXCLUDED_CORRUPT_OR_NOISY_CHUNKS:
+            skipped.append((crow["chunk_id"], "noisy/corrupt OCR or tail-end web scraper artifact excluded (DEC-2026-031)"))
+            continue
         chunk_path = PROJECT_ROOT / normalized_path
         if not chunk_path.exists():
             skipped.append((crow["chunk_id"], "chunk file missing on disk"))
@@ -154,6 +175,9 @@ def assemble_modeling_units():
         if info is None:
             continue
         doc_id = info["doc_id"]
+        if doc_id in EXCLUDED_CORRUPT_OR_NOISY_PARENTS:
+            skipped.append((doc_id, "entire parent document garbled/corrupted OCR excluded (DEC-2026-031)"))
+            continue
         if doc_id in chunked_parents or doc_id in resolved_whole_parents:
             continue
         raw_text = open(f, encoding="utf-8", errors="replace").read().strip()
