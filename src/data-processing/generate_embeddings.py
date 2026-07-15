@@ -21,7 +21,7 @@ import numpy as np
 import pandas as pd
 from pathlib import Path
 
-from text_cleaning_utils import strip_provenance_preamble
+from text_cleaning_utils import strip_provenance_preamble, is_corrupted_text, VERIFIED_JUNK_CHUNK_IDS
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 MASTER_REG_PATH = PROJECT_ROOT / "data" / "master_registry.csv"
@@ -30,24 +30,6 @@ EMBED_MODEL_NAME = "intfloat/e5-base-v2"
 OUT_DIR = PROJECT_ROOT / "data" / "embeddings"
 
 CHUNK_HEADER_SEP = "--------------------\n\n"
-
-# DEC-2026-031: Exclude corrupted OCR parents entirely and known noisy tail-end chunks:
-# - A-SPICE-002, A-SPICE-004: Entirely garbled/corrupted OCR files
-# - B-GD-020-C05, B-GD-020-C06, B-GD-029-C05, B-GD-029-C06, B-GD-088-C03, B-GD-088-C04: GDELT tail-end scraper noise (related-articles/comment-policy footers)
-EXCLUDED_CORRUPT_OR_NOISY_PARENTS = {
-    "A-SPICE-002",
-    "A-SPICE-004",
-}
-
-EXCLUDED_CORRUPT_OR_NOISY_CHUNKS = {
-    "B-GD-020-C05",
-    "B-GD-020-C06",
-    "B-GD-029-C05",
-    "B-GD-029-C06",
-    "B-GD-088-C03",
-    "B-GD-088-C04",
-}
-
 
 
 def strip_chunk_header(raw_text: str) -> str:
@@ -139,24 +121,29 @@ def assemble_modeling_units():
 
     # 1. Chunk-level units (already-resolved, already-cleaned text on disk)
     for _, crow in df_chunks.iterrows():
+        chunk_id = crow["chunk_id"]
+        if chunk_id in VERIFIED_JUNK_CHUNK_IDS:
+            skipped.append((chunk_id, VERIFIED_JUNK_CHUNK_IDS[chunk_id]))
+            continue
         # chunk_manifest.csv was generated on Windows and stores paths with
         # backslashes (e.g. "CorpusA_Chunks\A-RES-100\...txt"); normalize
         # before joining or every lookup fails on POSIX systems.
         normalized_path = str(crow["chunk_path"]).replace("\\", "/")
-        if crow["parent_doc_id"] in EXCLUDED_CORRUPT_OR_NOISY_PARENTS or crow["chunk_id"] in EXCLUDED_CORRUPT_OR_NOISY_CHUNKS:
-            skipped.append((crow["chunk_id"], "noisy/corrupt OCR or tail-end web scraper artifact excluded (DEC-2026-031)"))
-            continue
         chunk_path = PROJECT_ROOT / normalized_path
         if not chunk_path.exists():
-            skipped.append((crow["chunk_id"], "chunk file missing on disk"))
+            skipped.append((chunk_id, "chunk file missing on disk"))
             continue
         raw = open(chunk_path, encoding="utf-8", errors="replace").read()
         text = strip_chunk_header(raw)
         if looks_like_raw_markup(text):
-            skipped.append((crow["chunk_id"], "looks like raw HTML markup"))
+            skipped.append((chunk_id, "looks like raw HTML markup"))
+            continue
+        if is_corrupted_text(text):
+            skipped.append((chunk_id, "corrupted text layer (low printable-ASCII ratio, "
+                                       "likely broken PDF font encoding)"))
             continue
         rows.append({
-            "unit_id": crow["chunk_id"],
+            "unit_id": chunk_id,
             "source_type": "chunk",
             "parent_doc_id": crow["parent_doc_id"],
             "corpus_tier": crow["corpus_tier"],
@@ -175,9 +162,6 @@ def assemble_modeling_units():
         if info is None:
             continue
         doc_id = info["doc_id"]
-        if doc_id in EXCLUDED_CORRUPT_OR_NOISY_PARENTS:
-            skipped.append((doc_id, "entire parent document garbled/corrupted OCR excluded (DEC-2026-031)"))
-            continue
         if doc_id in chunked_parents or doc_id in resolved_whole_parents:
             continue
         raw_text = open(f, encoding="utf-8", errors="replace").read().strip()
@@ -200,6 +184,13 @@ def assemble_modeling_units():
             continue
         if looks_like_raw_markup(text):
             skipped.append((doc_id, f"whole-doc looks like raw HTML markup ({f})"))
+            continue
+        if doc_id in VERIFIED_JUNK_CHUNK_IDS:
+            skipped.append((doc_id, VERIFIED_JUNK_CHUNK_IDS[doc_id]))
+            continue
+        if is_corrupted_text(text):
+            skipped.append((doc_id, "corrupted text layer (low printable-ASCII ratio, "
+                                    "likely broken PDF font encoding)"))
             continue
         resolved_whole_parents.add(doc_id)
         rows.append({
@@ -240,6 +231,15 @@ def main():
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     df_units.to_csv(OUT_DIR / "modeling_units_metadata.csv", index=False, encoding="utf-8")
+
+    # --- Run metadata enrichment so modeling_units_metadata.csv has canonical 4x5 grid & institutional pillars ---
+    try:
+        import enrich_metadata_4x5
+        enrich_metadata_4x5.main()
+        # Reload df_units so that subsequent embedding uses the exact enriched row ordering
+        df_units = pd.read_csv(OUT_DIR / "modeling_units_metadata.csv")
+    except Exception as e:
+        print(f"[!] Warning: Metadata enrichment step failed or missing ({e}). Proceeding with base metadata.")
 
     # --- Encoding step: requires sentence-transformers + HF access ---
     try:

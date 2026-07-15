@@ -70,3 +70,43 @@ def strip_provenance_preamble(text: str) -> Tuple[str, Optional[str]]:
         return remainder, "reddit_samples_marker"
 
     return text, None
+
+
+# --- Chunk-level quality filters (added after reviewing the post-cleaning
+# BERTopic run: 5 of 515 units were landing in an artifact cluster for
+# reasons unrelated to the provenance-header issue above) ---
+
+# Generic, automatic: catches PDF/OCR text-layer extraction failures where
+# the font encoding is broken and pypdf/Tesseract emit control characters /
+# non-ASCII glyph codes instead of real text. Calibrated against the live
+# corpus: clean chunks (prose AND numeric/tabular content, e.g. trade-stat
+# tables) sit at >=0.94; the one confirmed corrupted chunk sits at 0.20.
+_MIN_PRINTABLE_ASCII_RATIO = 0.85
+
+
+def is_corrupted_text(text: str) -> bool:
+    text = str(text)
+    if not text:
+        return False
+    ratio = sum(c.isprintable() and c.isascii() for c in text) / len(text)
+    return ratio < _MIN_PRINTABLE_ASCII_RATIO
+
+
+# Manually verified, NOT auto-detected: a stopword/common-word-ratio
+# heuristic was tried and rejected because it false-positives on legitimate
+# low-prose content (trade-statistics tables, EU frequency-check tables also
+# score low). These 4 chunks were individually inspected during the Topic 2
+# review and confirmed junk:
+#   - A-SPICE-004-C04: OCR output is readable-looking but not real text
+#     (likely a non-English source script misread by Tesseract) -- 98%
+#     printable ASCII, so the automatic filter above does not catch it.
+#   - B-GD-020-C06, B-GD-029-C06, B-GD-088-C04: the FINAL chunk only of
+#     each parent article is scraper noise (related-articles widget /
+#     comment-policy footer picked up by newspaper3k), not article body
+#     text. Earlier chunks of these same parents are genuine and are kept.
+VERIFIED_JUNK_CHUNK_IDS = {
+    "A-SPICE-004-C04": "manually verified: OCR output not real text (non-English source script misread)",
+    "B-GD-020-C06": "manually verified: trailing scraper-noise chunk (related-articles widget), not article text",
+    "B-GD-029-C06": "manually verified: trailing scraper-noise chunk (related-articles widget), not article text",
+    "B-GD-088-C04": "manually verified: trailing scraper-noise chunk (comment-policy footer), not article text",
+}

@@ -49,6 +49,15 @@ def main():
     df_units, skipped = assemble_modeling_units()
     METADATA_PATH.parent.mkdir(parents=True, exist_ok=True)
     df_units.to_csv(METADATA_PATH, index=False)
+    
+    # --- Run metadata enrichment so modeling_units_metadata.csv has canonical 4x5 grid & institutional pillars ---
+    try:
+        import enrich_metadata_4x5
+        enrich_metadata_4x5.main()
+        df_units = pd.read_csv(METADATA_PATH)
+    except Exception as e:
+        print(f"[!] Warning: Metadata enrichment step failed or missing ({e}). Proceeding with base metadata.")
+
     n_docs = len(df_units)
     print(f"[*] Saved {n_docs} pristine modeling units to {METADATA_PATH}")
     if skipped:
