@@ -1,21 +1,20 @@
 Topic,Words,Frequency,Class
--1,"pdf download, format pdf, export, apeda, format",24,A
-0,"eu, mpeda, export, ex, products",94,A
+-1,"trade, india, said, export, beer",45,B
+0,"nutmeg, products, european, textile, export",9,B
+1,"url, title, date, centers, cuts",1,B
+2,"author, user, sir, iec, comment",42,B
+3,"tea, nepal, said, india, indian",33,B
+4,"export, agricultural, mangoes, apeda, district",30,B
+5,"rice, tonnes, cotton, said, lakh",22,B
+6,"yogi, indias, minister, millet, opportunities",19,B
+7,"fisheries, seafood, exports, minister, value",18,B
+10,"news, comments, highest, india, business",13,B
+11,"cent, exports, value, volume, growth",12,B
+13,"company, growth, spices, fy26, indian",9,B
+-1,"apeda, export, rice, tracenet, download",20,A
+0,"eu, mpeda, ex, export, products",92,A
 1,"supply, chain, al, supply chain, et",99,A
-2,"fore, author, user, sah, ht",2,A
-8,"ting, sustainability, ar, inf, mation",16,A
-9,"value, exports, usd, volume, export",1,A
-10,"apeda, products, organic, cereals, india",12,A
+8,"apeda, products, profile, organic, download",16,A
+9,"ting, sustainability, ar, inf, mation",16,A
+11,"value, usd, exports, volume, export",1,A
 12,"shall, food, meat, storage, water",12,A
--1,"export, trade, india, said, exports",62,B
-0,"nutmeg, products, european, textile, export",8,B
-1,"plantation, url, title, date, labour",2,B
-2,"author, user, iec, details, discourse",45,B
-3,"tea, nepal, india, said, indian",32,B
-4,"export, mangoes, agricultural, apeda, district",23,B
-5,"rice, tonnes, said, government, export",19,B
-6,"yogi, indias, minister, opportunities, farmers",19,B
-7,"fisheries, seafood, exports, minister, value",17,B
-9,"cent, exports, value, volume, export",14,B
-10,"mango, dev said, mango exports, exports, dev",1,B
-11,"comments, news, india, highest, english",13,B
