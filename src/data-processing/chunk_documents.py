@@ -16,6 +16,8 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
+from text_cleaning_utils import strip_provenance_preamble
+
 def stratify_document_chunks(df, doc_id_col='doc_id', text_col='chunk_text'):
     """
     Applies sub-linear down-weighting (square root) and stratified sampling 
@@ -127,7 +129,9 @@ def main():
         if "A-MPEDA-002" in f.name:
             continue
         try:
-            words = open(f, encoding="utf-8", errors="replace").read().split()
+            raw = open(f, encoding="utf-8", errors="replace").read()
+            clean, _ = strip_provenance_preamble(raw)
+            words = clean.split()
             if len(words) >= 400:
                 candidates.append((f, "A"))
         except Exception:
@@ -135,7 +139,9 @@ def main():
             
     for f in all_corpus_b_txts:
         try:
-            words = open(f, encoding="utf-8", errors="replace").read().split()
+            raw = open(f, encoding="utf-8", errors="replace").read()
+            clean, _ = strip_provenance_preamble(raw)
+            words = clean.split()
             # User specifically noted B-GD-007, B-GD-101, and B-GD-071 plus borderline files
             if f.stem in ["B-GD-007", "B-GD-101", "B-GD-071"] or len(words) >= 400:
                 candidates.append((f, "B"))
@@ -146,6 +152,7 @@ def main():
     
     manifest_rows = []
     total_chunks = 0
+    preamble_strip_log = []
     
     for txt_path, tier in sorted(candidates, key=lambda x: x[0].name):
         parent_info = get_parent_info(txt_path, tier)
@@ -160,7 +167,36 @@ def main():
         verif_logic = parent_info["verification_logic"]
         
         with open(txt_path, "r", encoding="utf-8", errors="replace") as f:
-            content = f.read()
+            raw_content = f.read()
+
+        content, preamble_marker = strip_provenance_preamble(raw_content)
+        if preamble_marker:
+            preamble_strip_log.append({
+                "doc_id": parent_id,
+                "source_file": str(txt_path.relative_to(project_root)),
+                "marker": preamble_marker,
+                "words_before": len(raw_content.split()),
+                "words_after": len(content.split()),
+            })
+
+        # DEC-2026-0XX: after removing the collection-pipeline provenance
+        # header, some Corpus B records (observed: all 3 Reddit stubs) have
+        # little or no genuine discourse text left -- e.g. a header claiming
+        # "de-identified public discourse samples" with no samples attached,
+        # or only post titles/URLs with no body/comment text. Log and skip
+        # rather than silently modeling near-empty units.
+        if len(content.split()) < 30:
+            print(f"    -> Parent [{parent_id}] ({txt_path.name[:45]}...) has only "
+                  f"{len(content.split())} words of genuine content after provenance-header "
+                  f"removal (was {len(raw_content.split())} words including header). Skipping.")
+            preamble_strip_log.append({
+                "doc_id": parent_id,
+                "source_file": str(txt_path.relative_to(project_root)),
+                "marker": "EXCLUDED_NEAR_EMPTY_AFTER_STRIP",
+                "words_before": len(raw_content.split()),
+                "words_after": len(content.split()),
+            })
+            continue
             
         # Determine target output root for this parent
         if parent_tier == "A":
@@ -398,6 +434,14 @@ def main():
     
     df_manifest.to_csv(manifest_out, index=False, encoding="utf-8")
     df_manifest.to_csv(manifest_out_a, index=False, encoding="utf-8")
+
+    if preamble_strip_log:
+        strip_log_path = project_root / "data" / "preamble_strip_log.csv"
+        pd.DataFrame(preamble_strip_log).to_csv(strip_log_path, index=False, encoding="utf-8")
+        n_excluded = sum(1 for r in preamble_strip_log if r["marker"] == "EXCLUDED_NEAR_EMPTY_AFTER_STRIP")
+        print(f"\n[*] Provenance-preamble strip log: {len(preamble_strip_log)} source files had a "
+              f"collection-pipeline header removed before chunking ({n_excluded} excluded entirely "
+              f"as near-empty after stripping). Details: {strip_log_path}")
     
     print("\n==========================================================================")
     print(f"  CHUNKING COMPLETE! Total Chunks Generated: {balanced_total} (down-weighted from {raw_total})")

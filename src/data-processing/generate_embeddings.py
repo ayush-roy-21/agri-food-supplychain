@@ -21,6 +21,8 @@ import numpy as np
 import pandas as pd
 from pathlib import Path
 
+from text_cleaning_utils import strip_provenance_preamble
+
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 MASTER_REG_PATH = PROJECT_ROOT / "data" / "master_registry.csv"
 CHUNK_MANIFEST_PATH = PROJECT_ROOT / "data" / "chunk_manifest.csv"
@@ -33,8 +35,15 @@ CHUNK_HEADER_SEP = "--------------------\n\n"
 def strip_chunk_header(raw_text: str) -> str:
     """Chunk files carry a '--- CHUNK HEADER ---' block; strip it before embedding."""
     if CHUNK_HEADER_SEP in raw_text:
-        return raw_text.split(CHUNK_HEADER_SEP, 1)[1].strip()
-    return raw_text.strip()
+        text = raw_text.split(CHUNK_HEADER_SEP, 1)[1].strip()
+    else:
+        text = raw_text.strip()
+    # Defense-in-depth: if this chunk file predates the chunk_documents.py
+    # provenance-preamble fix (or embeddings are being regenerated against
+    # stale chunks), also strip any surviving source-level header. No-op on
+    # already-clean text.
+    text, _ = strip_provenance_preamble(text)
+    return text
 
 
 def looks_like_raw_markup(text: str) -> bool:
@@ -147,8 +156,23 @@ def assemble_modeling_units():
         doc_id = info["doc_id"]
         if doc_id in chunked_parents or doc_id in resolved_whole_parents:
             continue
-        text = open(f, encoding="utf-8", errors="replace").read().strip()
-        if not text:
+        raw_text = open(f, encoding="utf-8", errors="replace").read().strip()
+        if not raw_text:
+            continue
+        text, preamble_marker = strip_provenance_preamble(raw_text)
+        if preamble_marker:
+            skipped.append((doc_id, f"provenance preamble stripped ('{preamble_marker}'): "
+                                     f"{len(raw_text.split())} words -> {len(text.split())} words"))
+        # See DEC-2026-0XX (chunk_documents.py): after removing the
+        # collection-pipeline header, some records (observed: all 3 Reddit
+        # stubs) have little or no genuine discourse text left. Log and
+        # exclude rather than embedding a near-empty unit.
+        if len(text.split()) < 30:
+            skipped.append((doc_id, f"whole-doc has only {len(text.split())} words of genuine "
+                                     f"content after provenance-header removal (was "
+                                     f"{len(raw_text.split())} words including header) — excluded "
+                                     f"as near-empty, not modeled"))
+            resolved_whole_parents.add(doc_id)
             continue
         if looks_like_raw_markup(text):
             skipped.append((doc_id, f"whole-doc looks like raw HTML markup ({f})"))
