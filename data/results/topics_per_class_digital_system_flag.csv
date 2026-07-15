@@ -1,24 +1,23 @@
 Topic,Words,Frequency,Class
--1,"ex, 2008, 97, 19, food",44,No
-0,"trade, india, export, dqa, tea",182,No
-1,"supply, chain, supply chain, al, et",74,No
-2,"author, user, status, discourse, practitioner",35,No
-3,"seafood, exports, export, value, shrimp",49,No
-4,"aquaculture, eu, residue, monitoring, veterinary",23,No
-5,"spices, 100, board, pesticide, spices board",18,No
-6,"msmes, enterprises, survey, firms, msme",21,No
-7,"slavery, modern slavery, modern, supply, actors",20,No
-8,"ting, sustainability, ar, inf, mation",18,No
-9,"food, processing, food processing, scheme, fortification",15,No
-10,"shall, food, meat, storage, water",13,No
-11,"west, west bengal, bengal, export, industrial",12,No
-12,"inspection, export, quality, quality control, gazette",11,No
-13,"billion, 2026, 202526, exports, 202627",10,No
-14,"mpeda, scheme, central sector, sector scheme, evaluation",9,No
-15,"msmes, goal, sustainable, sustainable development, business",9,No
--1,"food, fda, eu, safety, food safety",12,Yes
-0,"india, format, pdf, download, trade",13,Yes
-2,"author, user, iec, status, code",17,Yes
-4,"certificates, health certificates, official, nt, eu",1,Yes
-5,"spices, board, spices board, eu, certificate",3,Yes
-12,"inspection, quality, quality control, export, star",1,Yes
+-1,"apeda, export, iec, format pdf, pdf download",12,Yes
+0,"spices, eu, export, mpeda, food",11,Yes
+1,"csr, schedule vii, vii, rural, eligible",1,Yes
+2,"author, user, iec, code, hurdles",14,Yes
+3,"tea, nepal, indian, testing, percent",2,Yes
+6,"shrestha, ventures, generation, indias, structured",4,Yes
+10,"vegetables, fruits, fresh fruits, fresh, fruits vegetables",1,Yes
+11,"comments, businessline, release, journalist, editorial",1,Yes
+-1,"export, india, trade, said, exports",74,No
+0,"eu, mpeda, products, export, ex",91,No
+1,"supply, chain, al, supply chain, et",100,No
+2,"author, user, details, iec, discourse",33,No
+3,"tea, nepal, india, said, indian",30,No
+4,"export, mangoes, agricultural, apeda, district",23,No
+5,"rice, tonnes, said, government, export",19,No
+6,"yogi, minister, indias, opportunities, farmers",15,No
+7,"fisheries, seafood, exports, minister, value",17,No
+8,"ting, sustainability, ar, inf, mation",16,No
+9,"cent, exports, value, volume, export",15,No
+10,"apeda, products, organic, cereals, profile",12,No
+11,"news, comments, india, highest, english",12,No
+12,"shall, food, meat, storage, water",12,No

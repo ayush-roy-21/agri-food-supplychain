@@ -1,53 +1,38 @@
 Topic,Words,Frequency,Class
--1,"issuance health, eia, health, establishments, issuance",1,EIC/EIA (Export Inspection Council)
-5,"spices, chilli, eu, inspection, eia",1,EIC/EIA (Export Inspection Council)
-12,"inspection, quality control, quality, eic, export",3,EIC/EIA (Export Inspection Council)
--1,"fssai, food safety, food, safety, export",4,FSSAI (Food Safety Authority of India)
-10,"shall, food, meat, storage, water",11,FSSAI (Food Safety Authority of India)
--1,"fda, import, refusal, food, import refusal",5,US FDA / US Regulatory Agencies
-4,"drug, fda, import, residues, refusal",1,US FDA / US Regulatory Agencies
--1,"ex, 2008, 97, 19, 99",5,Spices Board of India
-5,"spices, 100, board, spices board, pesticide",15,Spices Board of India
-8,"fore, sah, ht, hr, 00",2,Spices Board of India
--1,"profile, tracenet, apeda, eu, fda",4,APEDA (Agricultural & Processed Food Authority)
-0,"apeda, download, products, format, pdf",20,APEDA (Agricultural & Processed Food Authority)
--1,"emissions, scope, oj, figure, page",3,Academic & Strategic Research Pool
-1,"supply, chain, supply chain, food, al",56,Academic & Strategic Research Pool
-4,"eu, aquaculture, residue, monitoring, substances",7,Academic & Strategic Research Pool
-6,"scf, msmes, study, factors, nancing",1,Academic & Strategic Research Pool
-7,"slavery, modern slavery, supply, modern, focal",9,Academic & Strategic Research Pool
-2,"author, user, iec, dgft, electronic",3,DGFT & Ministry of Commerce
-5,"trade portal, compliance, india trade, spices, mapping",1,DGFT & Ministry of Commerce
-12,"inspection, quality, quality control, export, star",1,DGFT & Ministry of Commerce
--1,"mpeda, exporters, catch, eu, certificate",3,MPEDA (Marine Products Export Authority)
-3,"seafood, rd, export, value, fisheries",3,MPEDA (Marine Products Export Authority)
-4,"shrimp, aquaculture, pht, mpeda, eu",3,MPEDA (Marine Products Export Authority)
-10,"sexual, harassment, complaints, shall, women",2,MPEDA (Marine Products Export Authority)
-14,"mpeda, scheme, central sector, sector scheme, evaluation",9,MPEDA (Marine Products Export Authority)
--1,"1940, drugs, act, cosmetics, drugs cosmetics",1,General Statutory & State Gazette
-4,"aquaculture, act, kerala, seed, shrimp",5,General Statutory & State Gazette
-12,"inspection, gazette, export, notification, quality",8,General Statutory & State Gazette
-13,"02, 03, 2026, change, 04",6,General Statutory & State Gazette
--1,"regulation, european, eu, food, catch",7,EU DG SANTE / European Commission
-1,"data, al, et al, et, eudr",15,EU DG SANTE / European Commission
-3,"european, shrimp, market, fisheries, price",2,EU DG SANTE / European Commission
-4,"eu, regulation eu, regulation, commission, aquaculture",6,EU DG SANTE / European Commission
-5,"spices, maximum, eu, regulation, official",3,EU DG SANTE / European Commission
+0,"eu, residue, aquaculture, substances, monitoring",8,Academic & Strategic Research Pool
+1,"supply, chain, supply chain, al, et",68,Academic & Strategic Research Pool
+-1,"fssai, export, codex, apeda, inspection",1,FSSAI (Food Safety Authority of India)
+0,"food safety, safety, food, fssai, auditing",3,FSSAI (Food Safety Authority of India)
+12,"shall, food, meat, storage, water",11,FSSAI (Food Safety Authority of India)
+0,"ex, spices, 2008, 97, 19",20,Spices Board of India
+2,"fore, author, user, sah, ht",2,Spices Board of India
+0,"fda, import, drug, section, food",6,US FDA / US Regulatory Agencies
+-1,"02, 03, 04, 14, 01",6,General Statutory & State Gazette
+0,"inspection, act, gazette, export, notification",14,General Statutory & State Gazette
+-1,"pdf download, format pdf, format, pdf, download",12,APEDA (Agricultural & Processed Food Authority)
+10,"apeda, products, organic, cereals, india",12,APEDA (Agricultural & Processed Food Authority)
+0,"mpeda, marine, scheme, products, eu",18,MPEDA (Marine Products Export Authority)
+9,"value, exports, usd, volume, export",1,MPEDA (Marine Products Export Authority)
+12,"committee, shall, office, committee shall, women",1,MPEDA (Marine Products Export Authority)
+-1,"export, trade, india, said, exports",62,Practitioner & Media Discourse
+0,"nutmeg, products, european, textile, export",8,Practitioner & Media Discourse
+1,"plantation, url, title, date, labour",2,Practitioner & Media Discourse
+2,"author, user, iec, details, discourse",45,Practitioner & Media Discourse
+3,"tea, nepal, india, said, indian",32,Practitioner & Media Discourse
+4,"export, mangoes, agricultural, apeda, district",23,Practitioner & Media Discourse
+5,"rice, tonnes, said, government, export",19,Practitioner & Media Discourse
+6,"yogi, indias, minister, opportunities, farmers",19,Practitioner & Media Discourse
+7,"fisheries, seafood, exports, minister, value",17,Practitioner & Media Discourse
+9,"cent, exports, value, volume, export",14,Practitioner & Media Discourse
+10,"mango, dev said, mango exports, exports, dev",1,Practitioner & Media Discourse
+11,"comments, news, india, highest, english",13,Practitioner & Media Discourse
+0,"inspection, eic, export, eia, testing",5,EIC/EIA (Export Inspection Council)
+-1,"msme, zero, scheme, certification, enterprises",2,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
+1,"modern, supply, data, al, et",16,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
+8,"csr, 135, form, companies, statutory",1,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
+-1,"rodtep, iec, foreign trade, ftp, ftp 2023",2,DGFT & Ministry of Commerce
+0,"certificate, export, origin, mandatory, trade",3,DGFT & Ministry of Commerce
+-1,"gps, plot, indian exporters, advisory, apeda",1,EU DG SANTE / European Commission
+0,"eu, regulation, european, official, regulation eu",17,EU DG SANTE / European Commission
+1,"data, al, et, 2025, eudr",15,EU DG SANTE / European Commission
 8,"ting, sustainability, ar, inf, mation",15,EU DG SANTE / European Commission
--1,"press, agricultural, new zealand, zealand, dhl",8,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-0,"arunachal, gst, carpets, trade, reforms",6,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-1,"projects, carbon, removals, years, partner",3,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-2,"duty, million, star, custom, safeguard",1,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-6,"msmes, enterprises, survey, firms, msme",20,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-7,"slavery, modern slavery, modern, actors, supply",11,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-8,"csr, 135, form, statutory, companies",1,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-9,"food, processing, food processing, scheme, fortification",15,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-11,"west, west bengal, bengal, export, industrial",12,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-13,"billion, exports, 202627, 2026, 202526",4,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-15,"msmes, goal, sustainable, sustainable development, business",9,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
--1,"2026, cent, yogi, ex, exports",15,Practitioner & Media Discourse
-0,"trade, india, dqa, export, tea",169,Practitioner & Media Discourse
-2,"author, user, status, discourse, practitioner",48,Practitioner & Media Discourse
-3,"seafood, exports, export, value, trade",44,Practitioner & Media Discourse
-4,"ashwagandha, extract, residue, aquaculture, products",2,Practitioner & Media Discourse
-5,"eous, jurisdiction, located, respective, products manufactured",1,Practitioner & Media Discourse

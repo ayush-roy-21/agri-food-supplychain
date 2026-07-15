@@ -1,24 +1,21 @@
 Topic,Words,Frequency,Class
--1,"2026, cent, yogi, ex, exports",15,B
-0,"trade, india, dqa, export, tea",169,B
-2,"author, user, status, discourse, practitioner",48,B
-3,"seafood, exports, export, value, trade",44,B
-4,"ashwagandha, extract, residue, aquaculture, products",2,B
-5,"eous, jurisdiction, located, respective, products manufactured",1,B
--1,"ex, 2008, 97, food, 19",41,A
-0,"apeda, products, download, india, pdf",26,A
-1,"supply, chain, supply chain, al, et",74,A
-2,"author, user, duty, iec, dgft",4,A
-3,"seafood, fisheries, value, export, exports",5,A
-4,"aquaculture, eu, residue, monitoring, veterinary",22,A
-5,"spices, 100, board, spices board, official",20,A
-6,"msmes, enterprises, survey, firms, msme",21,A
-7,"slavery, modern slavery, modern, supply, actors",20,A
-8,"ting, sustainability, ar, inf, mation",18,A
-9,"food, processing, food processing, scheme, fortification",15,A
-10,"shall, food, meat, storage, water",13,A
-11,"west, west bengal, bengal, export, industrial",12,A
-12,"inspection, export, quality, quality control, gazette",12,A
-13,"billion, 2026, 202526, exports, 202627",10,A
-14,"mpeda, scheme, central sector, sector scheme, evaluation",9,A
-15,"msmes, goal, sustainable, sustainable development, business",9,A
+-1,"pdf download, format pdf, export, apeda, format",24,A
+0,"eu, mpeda, export, ex, products",94,A
+1,"supply, chain, al, supply chain, et",99,A
+2,"fore, author, user, sah, ht",2,A
+8,"ting, sustainability, ar, inf, mation",16,A
+9,"value, exports, usd, volume, export",1,A
+10,"apeda, products, organic, cereals, india",12,A
+12,"shall, food, meat, storage, water",12,A
+-1,"export, trade, india, said, exports",62,B
+0,"nutmeg, products, european, textile, export",8,B
+1,"plantation, url, title, date, labour",2,B
+2,"author, user, iec, details, discourse",45,B
+3,"tea, nepal, india, said, indian",32,B
+4,"export, mangoes, agricultural, apeda, district",23,B
+5,"rice, tonnes, said, government, export",19,B
+6,"yogi, indias, minister, opportunities, farmers",19,B
+7,"fisheries, seafood, exports, minister, value",17,B
+9,"cent, exports, value, volume, export",14,B
+10,"mango, dev said, mango exports, exports, dev",1,B
+11,"comments, news, india, highest, english",13,B

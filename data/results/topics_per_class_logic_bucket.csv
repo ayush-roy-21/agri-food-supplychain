@@ -1,41 +1,29 @@
 Topic,Words,Frequency,Class
--1,"ex, 2008, 97, 19, 99",7,Laboratory Testing & Residue Assays
-0,"format, pdf, download, size, cereals",2,Laboratory Testing & Residue Assays
-4,"aquaculture, eu, residue, pht, monitoring",6,Laboratory Testing & Residue Assays
-5,"spices, 100, board, pesticide, spices board",14,Laboratory Testing & Residue Assays
-8,"fore, sah, ht, hr, ar",1,Laboratory Testing & Residue Assays
-12,"inspection, gazette, notification, export, quality",7,Laboratory Testing & Residue Assays
--1,"food, safety, fda, eu, food safety",15,Facility Audit & Hygiene Standards
-0,"apeda, products, download, organic, india",13,Facility Audit & Hygiene Standards
-1,"diligence, corporate sustainability, directive eu, directive, corporate",1,Facility Audit & Hygiene Standards
-3,"seafood, rd, fisheries, 91 484, 484",3,Facility Audit & Hygiene Standards
-4,"aquaculture, shrimp, eu, act, kerala",7,Facility Audit & Hygiene Standards
-5,"spices, board, spices board, compliance, spice",5,Facility Audit & Hygiene Standards
-8,"csr, 135, form, statutory, companies",2,Facility Audit & Hygiene Standards
-9,"zero, scheme, certification scheme, food processing, certification",1,Facility Audit & Hygiene Standards
-10,"shall, food, meat, storage, water",13,Facility Audit & Hygiene Standards
-12,"inspection, quality control, quality, export, control",4,Facility Audit & Hygiene Standards
--1,"food, import, fda, refusal, alert",4,Destination Border Controls & Refusals
-4,"drug, fda, import, residues, refusal",1,Destination Border Controls & Refusals
-5,"eu, checks, spices, official, border",1,Destination Border Controls & Refusals
--1,"ex, 2026, food, exports, agricultural",24,Trade Discourse & Practitioner Experience
-0,"trade, india, dqa, export, tea",179,Trade Discourse & Practitioner Experience
-1,"supply, chain, supply chain, al, et",72,Trade Discourse & Practitioner Experience
-2,"author, user, status, discourse, practitioner",50,Trade Discourse & Practitioner Experience
-3,"seafood, exports, export, value, shrimp",46,Trade Discourse & Practitioner Experience
-4,"residue, eu, aquaculture, monitoring, substances",9,Trade Discourse & Practitioner Experience
-5,"eous, jurisdiction, located, respective, products manufactured",1,Trade Discourse & Practitioner Experience
-6,"msmes, enterprises, survey, firms, msme",21,Trade Discourse & Practitioner Experience
-7,"slavery, modern slavery, modern, supply, actors",20,Trade Discourse & Practitioner Experience
+-1,"export, trade, india, said, exports",73,Trade Discourse & Practitioner Experience
+0,"mpeda, products, eu, aquaculture, export",26,Trade Discourse & Practitioner Experience
+1,"supply, chain, al, supply chain, et",98,Trade Discourse & Practitioner Experience
+2,"author, user, iec, details, discourse",45,Trade Discourse & Practitioner Experience
+3,"tea, nepal, india, said, indian",32,Trade Discourse & Practitioner Experience
+4,"export, mangoes, agricultural, apeda, district",23,Trade Discourse & Practitioner Experience
+5,"rice, tonnes, said, government, export",19,Trade Discourse & Practitioner Experience
+6,"yogi, indias, minister, opportunities, farmers",19,Trade Discourse & Practitioner Experience
+7,"fisheries, seafood, exports, minister, value",17,Trade Discourse & Practitioner Experience
 8,"ting, sustainability, ar, inf, mation",15,Trade Discourse & Practitioner Experience
-9,"food, processing, food processing, scheme, fortification",14,Trade Discourse & Practitioner Experience
-11,"west, west bengal, bengal, export, industrial",12,Trade Discourse & Practitioner Experience
-13,"billion, 2026, 202526, exports, 202627",10,Trade Discourse & Practitioner Experience
-14,"mpeda, scheme, central sector, sector scheme, evaluation",9,Trade Discourse & Practitioner Experience
-15,"msmes, goal, sustainable, sustainable development, business",9,Trade Discourse & Practitioner Experience
--1,"tracenet, eu, food, apeda, export",6,Traceability & Digital Geotagging
-0,"fda, iec, rice, holder exporting, canned",1,Traceability & Digital Geotagging
-1,"eu, commodities, geolocation, operators, diligence",1,Traceability & Digital Geotagging
-2,"author, user, iec, dgft, foreign trade",2,Traceability & Digital Geotagging
-4,"certificates, health certificates, official, nt, eu",1,Traceability & Digital Geotagging
-12,"inspection, quality, quality control, export, star",1,Traceability & Digital Geotagging
+9,"cent, exports, value, volume, export",15,Trade Discourse & Practitioner Experience
+10,"mango, dev said, mango exports, exports, dev",1,Trade Discourse & Practitioner Experience
+11,"comments, news, india, highest, english",13,Trade Discourse & Practitioner Experience
+-1,"pdf download, format pdf, format, pdf, size",2,Laboratory Testing & Residue Assays
+0,"ex, 2008, 97, spices, eu",33,Laboratory Testing & Residue Assays
+2,"fore, ht, sah, hr, author",1,Laboratory Testing & Residue Assays
+10,"cereals, million tonnes, million, tonnes, maize",1,Laboratory Testing & Residue Assays
+-1,"tracenet, apeda, iec, apeda tracenet, fda",5,Traceability & Digital Geotagging
+0,"eu, export, certificate, food, certificates",6,Traceability & Digital Geotagging
+1,"commodities, eu, geolocation, operators, diligence",1,Traceability & Digital Geotagging
+0,"import, eu, fda, border, entry",6,Destination Border Controls & Refusals
+-1,"pdf download, format pdf, format, pdf, download",6,Facility Audit & Hygiene Standards
+0,"export, inspection, eu, mpeda, act",31,Facility Audit & Hygiene Standards
+1,"corporate, csr, supply, diligence, schedule vii",2,Facility Audit & Hygiene Standards
+2,"00, 01, 010, 323, page 20",1,Facility Audit & Hygiene Standards
+8,"csr, 135, form, companies, statutory",1,Facility Audit & Hygiene Standards
+10,"apeda, products, organic, india, fruits",11,Facility Audit & Hygiene Standards
+12,"shall, food, meat, storage, water",12,Facility Audit & Hygiene Standards
