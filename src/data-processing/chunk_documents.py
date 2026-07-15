@@ -173,7 +173,7 @@ def main():
         if preamble_marker:
             preamble_strip_log.append({
                 "doc_id": parent_id,
-                "source_file": str(txt_path.relative_to(project_root)),
+                "source_file": txt_path.relative_to(project_root).as_posix(),
                 "marker": preamble_marker,
                 "words_before": len(raw_content.split()),
                 "words_after": len(content.split()),
@@ -191,7 +191,7 @@ def main():
                   f"removal (was {len(raw_content.split())} words including header). Skipping.")
             preamble_strip_log.append({
                 "doc_id": parent_id,
-                "source_file": str(txt_path.relative_to(project_root)),
+                "source_file": txt_path.relative_to(project_root).as_posix(),
                 "marker": "EXCLUDED_NEAR_EMPTY_AFTER_STRIP",
                 "words_before": len(raw_content.split()),
                 "words_after": len(content.split()),
@@ -310,7 +310,7 @@ def main():
                     "page_range": p_range_str,
                     "word_range": w_range_str,
                     "word_count": w_count,
-                    "chunk_path": str(chunk_file.relative_to(project_root)),
+                    "chunk_path": chunk_file.relative_to(project_root).as_posix(),
                     "parent_dqa_score": dqa_score,
                     "parent_locus_tag": locus_tag,
                     "parent_verification_logic": verif_logic,
@@ -395,7 +395,7 @@ def main():
                     "page_range": p_range_str,
                     "word_range": w_range_str,
                     "word_count": w_count,
-                    "chunk_path": str(chunk_file.relative_to(project_root)),
+                    "chunk_path": chunk_file.relative_to(project_root).as_posix(),
                     "parent_dqa_score": dqa_score,
                     "parent_locus_tag": locus_tag,
                     "parent_verification_logic": verif_logic,
