@@ -58,12 +58,8 @@ A-MPEDA-004-C94,A-MPEDA-004,A,Page 112,26363 - 26608,246,CorpusA_Chunks/A-MPEDA-
 A-SPICE-001-C01,A-SPICE-001,A,N/A (Web Scraped / Text Extract),1 - 250,250,CorpusA_Chunks/A-SPICE-001/A-SPICE-001-C01.txt,"A,A,A,A,A,A",digital-export-services,ess-online-certificate-and-sampling-request
 A-SPICE-001-C03,A-SPICE-001,A,N/A (Web Scraped / Text Extract),501 - 750,250,CorpusA_Chunks/A-SPICE-001/A-SPICE-001-C03.txt,"A,A,A,A,A,A",digital-export-services,ess-online-certificate-and-sampling-request
 A-SPICE-001-C06,A-SPICE-001,A,N/A (Web Scraped / Text Extract),1359 - 1606,248,CorpusA_Chunks/A-SPICE-001/A-SPICE-001-C06.txt,"A,A,A,A,A,A",digital-export-services,ess-online-certificate-and-sampling-request
-A-SPICE-002-C01,A-SPICE-002,A,Page 1,1 - 340,340,CorpusA_Chunks/A-SPICE-002/A-SPICE-002-C01.txt,"A,A,A,A,A,A",exporter-registration-rcmc,statutory-spices-board-licensing-verification
-A-SPICE-002-C03,A-SPICE-002,A,Page 3,694 - 874,181,CorpusA_Chunks/A-SPICE-002/A-SPICE-002-C03.txt,"A,A,A,A,A,A",exporter-registration-rcmc,statutory-spices-board-licensing-verification
 A-SPICE-003-C01,A-SPICE-003,A,Page 1,1 - 395,395,CorpusA_Chunks/A-SPICE-003/A-SPICE-003-C01.txt,"A,A,A,A,A,A",analytical-testing-matrix,qel-laboratory-multi-residue-pesticide-screen
 A-SPICE-003-C02,A-SPICE-003,A,Page 2,396 - 608,213,CorpusA_Chunks/A-SPICE-003/A-SPICE-003-C02.txt,"A,A,A,A,A,A",analytical-testing-matrix,qel-laboratory-multi-residue-pesticide-screen
-A-SPICE-004-C01,A-SPICE-004,A,Page 1,1 - 347,347,CorpusA_Chunks/A-SPICE-004/A-SPICE-004-C01.txt,"A,A,A,A,A,A",quality-evaluation-labs,iso-17025-accredited-instrumental-analysis
-A-SPICE-004-C04,A-SPICE-004,A,Page 4,964 - 1127,164,CorpusA_Chunks/A-SPICE-004/A-SPICE-004-C04.txt,"A,A,A,A,A,A",quality-evaluation-labs,iso-17025-accredited-instrumental-analysis
 A-SPICE-005-C01,A-SPICE-005,A,Page 2,1 - 250,250,CorpusA_Chunks/A-SPICE-005/A-SPICE-005-C01.txt,"A,A,A,A,A,A",eu-spices-export-protocol,mandatory-eto-and-aflatoxin-sampling-scheme
 A-SPICE-005-C07,A-SPICE-005,A,Page 4,1670 - 1919,250,CorpusA_Chunks/A-SPICE-005/A-SPICE-005-C07.txt,"A,A,A,A,A,A",eu-spices-export-protocol,mandatory-eto-and-aflatoxin-sampling-scheme
 A-SPICE-005-C14,A-SPICE-005,A,Page 7,3651 - 3905,255,CorpusA_Chunks/A-SPICE-005/A-SPICE-005-C14.txt,"A,A,A,A,A,A",eu-spices-export-protocol,mandatory-eto-and-aflatoxin-sampling-scheme
@@ -107,8 +103,7 @@ B-GD-019-C01,B-GD-019,B,N/A (Web Scraped / Text Extract),1 - 263,263,CorpusB_Chu
 B-GD-019-C03,B-GD-019,B,N/A (Web Scraped / Text Extract),517 - 782,266,CorpusB_Chunks/B-GD-019/B-GD-019-C03.txt,"M,M,A,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
 B-GD-019-C05,B-GD-019,B,N/A (Web Scraped / Text Extract),1033 - 1231,199,CorpusB_Chunks/B-GD-019/B-GD-019-C05.txt,"M,M,A,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
 B-GD-020-C01,B-GD-020,B,N/A (Web Scraped / Text Extract),1 - 288,288,CorpusB_Chunks/B-GD-020/B-GD-020-C01.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
-B-GD-020-C03,B-GD-020,B,N/A (Web Scraped / Text Extract),555 - 835,281,CorpusB_Chunks/B-GD-020/B-GD-020-C03.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
-B-GD-020-C06,B-GD-020,B,N/A (Web Scraped / Text Extract),1362 - 1663,302,CorpusB_Chunks/B-GD-020/B-GD-020-C06.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
+B-GD-020-C04,B-GD-020,B,N/A (Web Scraped / Text Extract),836 - 1110,275,CorpusB_Chunks/B-GD-020/B-GD-020-C04.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
 B-GD-021-C01,B-GD-021,B,N/A (Web Scraped / Text Extract),1 - 270,270,CorpusB_Chunks/B-GD-021/B-GD-021-C01.txt,"M,A,M,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
 B-GD-021-C02,B-GD-021,B,N/A (Web Scraped / Text Extract),271 - 510,240,CorpusB_Chunks/B-GD-021/B-GD-021-C02.txt,"M,A,M,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
 B-GD-023-C01,B-GD-023,B,N/A (Web Scraped / Text Extract),1 - 298,298,CorpusB_Chunks/B-GD-023/B-GD-023-C01.txt,"M,M,M,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
@@ -125,8 +120,7 @@ B-GD-026-C03,B-GD-026,B,N/A (Web Scraped / Text Extract),540 - 764,225,CorpusB_C
 B-GD-027-C01,B-GD-027,B,N/A (Web Scraped / Text Extract),1 - 258,258,CorpusB_Chunks/B-GD-027/B-GD-027-C01.txt,"A,A,M,A,A,A",gdelt-basmati-mrl-rejections,media-signaling-and-border-rejections (external trade friction)
 B-GD-027-C03,B-GD-027,B,N/A (Web Scraped / Text Extract),532 - 720,189,CorpusB_Chunks/B-GD-027/B-GD-027-C03.txt,"A,A,M,A,A,A",gdelt-basmati-mrl-rejections,media-signaling-and-border-rejections (external trade friction)
 B-GD-029-C01,B-GD-029,B,N/A (Web Scraped / Text Extract),1 - 265,265,CorpusB_Chunks/B-GD-029/B-GD-029-C01.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
-B-GD-029-C03,B-GD-029,B,N/A (Web Scraped / Text Extract),628 - 903,276,CorpusB_Chunks/B-GD-029/B-GD-029-C03.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
-B-GD-029-C06,B-GD-029,B,N/A (Web Scraped / Text Extract),1417 - 1537,121,CorpusB_Chunks/B-GD-029/B-GD-029-C06.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
+B-GD-029-C04,B-GD-029,B,N/A (Web Scraped / Text Extract),904 - 1158,255,CorpusB_Chunks/B-GD-029/B-GD-029-C04.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
 B-GD-030-C01,B-GD-030,B,N/A (Web Scraped / Text Extract),1 - 274,274,CorpusB_Chunks/B-GD-030/B-GD-030-C01.txt,"M,A,A,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
 B-GD-030-C02,B-GD-030,B,N/A (Web Scraped / Text Extract),275 - 483,209,CorpusB_Chunks/B-GD-030/B-GD-030-C02.txt,"M,A,A,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
 B-GD-031-C01,B-GD-031,B,N/A (Web Scraped / Text Extract),1 - 312,312,CorpusB_Chunks/B-GD-031/B-GD-031-C01.txt,"M,A,M,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
@@ -224,7 +218,7 @@ B-GD-086-C03,B-GD-086,B,N/A (Web Scraped / Text Extract),555 - 673,119,CorpusB_C
 B-GD-087-C01,B-GD-087,B,N/A (Web Scraped / Text Extract),1 - 284,284,CorpusB_Chunks/B-GD-087/B-GD-087-C01.txt,"M,M,A,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
 B-GD-087-C03,B-GD-087,B,N/A (Web Scraped / Text Extract),538 - 631,94,CorpusB_Chunks/B-GD-087/B-GD-087-C03.txt,"M,M,A,A,A,A",gdelt-msme-trade-friction,media-signaling-and-border-rejections (external trade friction)
 B-GD-088-C01,B-GD-088,B,N/A (Web Scraped / Text Extract),1 - 264,264,CorpusB_Chunks/B-GD-088/B-GD-088-C01.txt,"M,A,A,A,A,A",gdelt-horticulture-sps-controls,media-signaling-and-border-rejections (external trade friction)
-B-GD-088-C04,B-GD-088,B,N/A (Web Scraped / Text Extract),811 - 980,170,CorpusB_Chunks/B-GD-088/B-GD-088-C04.txt,"M,A,A,A,A,A",gdelt-horticulture-sps-controls,media-signaling-and-border-rejections (external trade friction)
+B-GD-088-C02,B-GD-088,B,N/A (Web Scraped / Text Extract),265 - 553,289,CorpusB_Chunks/B-GD-088/B-GD-088-C02.txt,"M,A,A,A,A,A",gdelt-horticulture-sps-controls,media-signaling-and-border-rejections (external trade friction)
 B-GD-089-C01,B-GD-089,B,N/A (Web Scraped / Text Extract),1 - 255,255,CorpusB_Chunks/B-GD-089/B-GD-089-C01.txt,"M,A,A,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
 B-GD-089-C03,B-GD-089,B,N/A (Web Scraped / Text Extract),514 - 770,257,CorpusB_Chunks/B-GD-089/B-GD-089-C03.txt,"M,A,A,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
 B-GD-089-C06,B-GD-089,B,N/A (Web Scraped / Text Extract),1300 - 1443,144,CorpusB_Chunks/B-GD-089/B-GD-089-C06.txt,"M,A,A,A,A,A",gdelt-spices-sps-hurdles,media-signaling-and-border-rejections (external trade friction)
