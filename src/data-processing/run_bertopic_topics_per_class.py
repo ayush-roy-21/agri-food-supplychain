@@ -54,6 +54,17 @@ def main():
     meta_df = pd.read_csv(metadata_path)
     print(f"    Metadata rows: {len(meta_df)}")
     
+    required_cols = {"corpus_tier", "institutional_pillar", "locus_bucket", "logic_bucket", "grid_bucket", "digital_system_flag"}
+    if not required_cols.issubset(set(meta_df.columns)):
+        print("[*] Required class variables missing from metadata. Automatically running enrich_metadata_4x5...")
+        try:
+            import enrich_metadata_4x5
+            enrich_metadata_4x5.main()
+            meta_df = pd.read_csv(metadata_path)
+            print(f"    Re-loaded metadata rows: {len(meta_df)}")
+        except Exception as e:
+            print(f"[!] Warning: Auto-enrichment failed ({e}). Some class variables may be skipped.")
+    
     if len(meta_df) != embeddings.shape[0]:
         print(f"[ERROR] Row mismatch! Embeddings has {embeddings.shape[0]} rows while metadata has {len(meta_df)} rows.")
         sys.exit(1)

@@ -1,23 +1,23 @@
 Topic,Words,Frequency,Class
--1,"apeda, export, iec, format pdf, pdf download",12,Yes
-0,"spices, eu, export, mpeda, food",11,Yes
-1,"csr, schedule vii, vii, rural, eligible",1,Yes
-2,"author, user, iec, code, hurdles",14,Yes
+-1,"pdf download, format pdf, pdf, format, download",4,Yes
+0,"csr, schedule vii, vii, rural, eligible",1,Yes
+1,"spices, eu, export, food, iec",13,Yes
+2,"author, user, sir, iec, code",14,Yes
 3,"tea, nepal, indian, testing, percent",2,Yes
-6,"shrestha, ventures, generation, indias, structured",4,Yes
-10,"vegetables, fruits, fresh fruits, fresh, fruits vegetables",1,Yes
-11,"comments, businessline, release, journalist, editorial",1,Yes
--1,"export, india, trade, said, exports",74,No
-0,"eu, mpeda, products, export, ex",91,No
-1,"supply, chain, al, supply chain, et",100,No
-2,"author, user, details, iec, discourse",33,No
-3,"tea, nepal, india, said, indian",30,No
-4,"export, mangoes, agricultural, apeda, district",23,No
-5,"rice, tonnes, said, government, export",19,No
-6,"yogi, minister, indias, opportunities, farmers",15,No
-7,"fisheries, seafood, exports, minister, value",17,No
-8,"ting, sustainability, ar, inf, mation",16,No
-9,"cent, exports, value, volume, export",15,No
-10,"apeda, products, organic, cereals, profile",12,No
-11,"news, comments, india, highest, english",12,No
-12,"shall, food, meat, storage, water",12,No
+6,"apeda, tracenet, eu, vegetables, fruits",7,Yes
+8,"comments, businessline, release, editorial, journalist",1,Yes
+9,"shrestha, ventures, generation, indias, structured",4,Yes
+-1,"export, mpeda, india, exports, said",78,No
+0,"supply, chain, al, supply chain, et",99,No
+1,"eu, ex, export, products, regulation",83,No
+2,"author, user, sir, iec, details",27,No
+3,"tea, nepal, said, india, cardamom",31,No
+4,"export, mangoes, agricultural, apeda, district",26,No
+5,"rice, tonnes, said, million, industry",24,No
+6,"apeda, products, profile, organic, cereals",12,No
+7,"fisheries, seafood, exports, minister, value",18,No
+8,"news, comments, india, highest, english",15,No
+9,"yogi, millet, opportunities, minister, indias",12,No
+10,"ting, sustainability, ar, inf, mation",16,No
+11,"shall, food, meat, storage, water",12,No
+12,"value, cent, volume, exports, export",10,No

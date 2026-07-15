@@ -1,34 +1,34 @@
 Topic,Words,Frequency,Class
--1,"spices, company, erode, india, growth",12,Spices & Botanical Herbs
-0,"ex, 2008, 97, 19, spices",21,Spices & Botanical Herbs
-2,"2026, author, user, pdf, download",2,Spices & Botanical Herbs
+-1,"pdf download, format pdf, pdf, format, download",14,"Horticulture, Cereals & Organic"
+2,"author, user, sir, ke, ka",10,"Horticulture, Cereals & Organic"
+4,"export, mangoes, district, agricultural, apeda",21,"Horticulture, Cereals & Organic"
+5,"rice, tonnes, said, million, industry",22,"Horticulture, Cereals & Organic"
+6,"apeda, organic, products, cereals, fruits",13,"Horticulture, Cereals & Organic"
+8,"comments, english, expert, panel, selection",1,"Horticulture, Cereals & Organic"
+9,"region, tribal, yogi, millet, opportunities",3,"Horticulture, Cereals & Organic"
+-1,"seafood, exports, cent, export, indias",6,Marine & Aquaculture
+1,"eu, european, aquaculture, products, shrimp",19,Marine & Aquaculture
+2,"author, user, iec, hurdles, comment",5,Marine & Aquaculture
+7,"fisheries, seafood, exports, minister, value",18,Marine & Aquaculture
+8,"comments, climate stress, english, conditionsinstitutional, terms conditionsinstitutional",1,Marine & Aquaculture
+9,"yogi, minister, effectively leveraging, fan, sorted",1,Marine & Aquaculture
+12,"value, cent, volume, exports, export",9,Marine & Aquaculture
+-1,"mpeda, export, india, said, beer",49,Cross-Cutting & Institutional Governance
+0,"supply, chain, al, supply chain, et",100,Cross-Cutting & Institutional Governance
+1,"eu, export, products, inspection, spices",57,Cross-Cutting & Institutional Governance
+2,"author, user, sir, iec, details",26,Cross-Cutting & Institutional Governance
+3,"tea, nepal, said, indian, india",27,Cross-Cutting & Institutional Governance
+4,"export, agricultural, apeda, processed food, food products",5,Cross-Cutting & Institutional Governance
+5,"cotton, textile, comments, rice, textile value",1,Cross-Cutting & Institutional Governance
+6,"profile, apeda, products, processed, meat",6,Cross-Cutting & Institutional Governance
+8,"news, highest, comments, india, english",11,Cross-Cutting & Institutional Governance
+9,"indias, millet, opportunities, shrestha, businesses",9,Cross-Cutting & Institutional Governance
+10,"ting, sustainability, ar, inf, mation",16,Cross-Cutting & Institutional Governance
+11,"shall, food, meat, storage, water",12,Cross-Cutting & Institutional Governance
+12,"value, usd, volume, exports, 152",1,Cross-Cutting & Institutional Governance
+-1,"spices, company, growth, india, spice",13,Spices & Botanical Herbs
+1,"ex, 2008, 97, 19, spices",20,Spices & Botanical Herbs
 3,"cardamom, nepal, tea, percent, report",6,Spices & Botanical Herbs
 5,"rice, realisation, enjoys, fiscal, basmati",1,Spices & Botanical Herbs
-6,"organic, minister, yogi, spices, india",4,Spices & Botanical Herbs
-11,"comments, india, doing business, doing, business",2,Spices & Botanical Herbs
--1,"export, trade, beer, india, said",49,Cross-Cutting & Institutional Governance
-0,"mpeda, eu, export, products, inspection",62,Cross-Cutting & Institutional Governance
-1,"supply, chain, al, supply chain, et",101,Cross-Cutting & Institutional Governance
-2,"author, user, iec, details, comment",28,Cross-Cutting & Institutional Governance
-3,"tea, nepal, said, indian, india",26,Cross-Cutting & Institutional Governance
-4,"agricultural, export, apeda, processed food, food products",4,Cross-Cutting & Institutional Governance
-6,"indias, millet, opportunities, demand, chillies",10,Cross-Cutting & Institutional Governance
-8,"ting, sustainability, ar, inf, mation",16,Cross-Cutting & Institutional Governance
-9,"cent, exports, value, volume, shipments",3,Cross-Cutting & Institutional Governance
-10,"products, profile, apeda, processed, animal products",3,Cross-Cutting & Institutional Governance
-11,"news, highest, comments, india, english",9,Cross-Cutting & Institutional Governance
-12,"shall, food, meat, storage, water",12,Cross-Cutting & Institutional Governance
--1,"rice, pdf download, format pdf, format, pdf",21,"Horticulture, Cereals & Organic"
-2,"author, user, ke, discourse, comment",12,"Horticulture, Cereals & Organic"
-4,"mangoes, export, agricultural, apeda, district",19,"Horticulture, Cereals & Organic"
-5,"rice, tonnes, said, government, export",18,"Horticulture, Cereals & Organic"
-6,"yogi, bengal, tribune, koraput, government",4,"Horticulture, Cereals & Organic"
-10,"apeda, organic, products, cereals, india",10,"Horticulture, Cereals & Organic"
-11,"comments, english, expert, terms conditionsinstitutional, conditionsinstitutional",1,"Horticulture, Cereals & Organic"
--1,"seafood, exports, export, trade, indias",4,Marine & Aquaculture
-0,"aquaculture, eu, european, products, mpeda",19,Marine & Aquaculture
-2,"author, user, iec, comment, discourse",5,Marine & Aquaculture
-6,"yogi, minister, requirements quality, fieo shared, representatives eic",1,Marine & Aquaculture
-7,"fisheries, seafood, exports, minister, value",17,Marine & Aquaculture
-9,"cent, exports, value, volume, export",12,Marine & Aquaculture
-11,"comments, climate stress, english, terms conditionsinstitutional, conditionsinstitutional subscriber",1,Marine & Aquaculture
+8,"live, download, india, comments, 2026",3,Spices & Botanical Herbs
+9,"yogi, minister, spices, india, indias",3,Spices & Botanical Herbs
