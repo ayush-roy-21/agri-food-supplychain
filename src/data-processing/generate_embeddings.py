@@ -171,7 +171,7 @@ def assemble_modeling_units():
         if preamble_marker:
             skipped.append((doc_id, f"provenance preamble stripped ('{preamble_marker}'): "
                                      f"{len(raw_text.split())} words -> {len(text.split())} words"))
-        # See DEC-2026-0XX (chunk_documents.py): after removing the
+        # See DEC-2026-027 (chunk_documents.py): after removing the
         # collection-pipeline header, some records (observed: all 3 Reddit
         # stubs) have little or no genuine discourse text left. Log and
         # exclude rather than embedding a near-empty unit.

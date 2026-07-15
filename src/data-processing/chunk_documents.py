@@ -199,7 +199,7 @@ def main():
                 "words_after": len(content.split()),
             })
 
-        # DEC-2026-0XX: after removing the collection-pipeline provenance
+        # DEC-2026-027: after removing the collection-pipeline provenance
         # header, some Corpus B records (observed: all 3 Reddit stubs) have
         # little or no genuine discourse text left -- e.g. a header claiming
         # "de-identified public discourse samples" with no samples attached,
