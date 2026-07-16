@@ -173,9 +173,9 @@ Instead of blindly slicing arbitrary word counts that split sentences across pag
 Documents that produce 1 chunk (`C01`) but meet candidate word thresholds (`>= 600 words` for Corpus A, or `>= 1,400 words` plus specific overrides `B-GD-007, B-GD-101, B-GD-071` for Corpus B) are preserved directly as `Parent_ID-C01.txt` inside `CorpusA_Chunks/` (`CorpusB_Chunks/`) and indexed in the manifest, preventing silent document dropping. Documents below the word count threshold (`< 600 words` for Corpus A, `< 1,400 words` for Corpus B unless overridden) are skipped from separate chunk storage because storing a 1-to-1 chunk copy of a short document adds no analytical granularity. For short documents, the full text file in `CorpusA/` (`CorpusB/`) serves directly as the single modeling unit.
 
 ### 5. Chunk Manifest, Sub-Linear Down-Weighting & Parent DQA Inheritance (`data/chunk_manifest.csv`)
-To prevent verbose parent documents (such as the 50,883-word compliance study `A-EUDR-101`, which naturally produces 212 raw chunks) from structurally dominating downstream `BERTopic` clustering vector space, `chunk_documents.py` implements **sub-linear down-weighting (`DEC-2026-025`) via the ceiling square-root rule and stratified sampling**. For any candidate document producing $N$ raw chunks (which across all **52 candidate parent documents** initially generated **1,772 raw chunks**), the engine calculates $N_{sampled} = \lceil \sqrt{N} \rceil$ and extracts evenly spaced indices using `numpy.linspace(0, N - 1, N_sampled, dtype=int)`.
+To prevent verbose parent documents (such as the 50,883-word compliance study `A-EUDR-101`, which naturally produces 212 raw chunks) from structurally dominating downstream `BERTopic` clustering vector space, `chunk_documents.py` implements **sub-linear down-weighting (`DEC-2026-025`) via the ceiling square-root rule and stratified sampling**. For any candidate document producing $N$ raw chunks, the engine calculates $N_{sampled} = \lceil \sqrt{N} \rceil$ and extracts evenly spaced indices using `numpy.linspace(0, N - 1, N_sampled, dtype=int)`.
 
-All **276 balanced, down-weighted chunks** are indexed inside `data/chunk_manifest.csv` under a strict 10-column tracking schema:
+All **383 balanced, down-weighted chunks** are indexed inside `data/chunk_manifest.csv` under a strict 10-column tracking schema:
 `[chunk_id, parent_doc_id, corpus_tier, page_range, word_range, word_count, chunk_path, parent_dqa_score, parent_locus_tag, parent_verification_logic]`
 Crucially, every chunk inherits the exact **empirical multi-dimensional `parent_dqa_score`** (`M,A,A,A,A,A`, `A,A,A,A,A,A`, `M,A,A,M,A,A`, etc.) computed for its parent document, ensuring that downstream modeling tools can weigh or filter chunks based on rigorous source authority and temporal currency. To maintain analytical rigor when mapping topics back to the $5 \times 4$ coverage matrix, reporting protocols mandate presenting both `chunk_count` and `distinct_parent_count` (`DEC-2026-025`), ensuring that systemic industry-wide issues are clearly differentiated from single-document anomalies.
 
@@ -183,16 +183,16 @@ Crucially, every chunk inherits the exact **empirical multi-dimensional `parent_
 
 ## 6. Unified Modeling Units, Vector Embeddings & 4×5 Grid Enrichment (`data/embeddings/`)
 
-To prepare the multi-corpus dataset for downstream BERTopic clustering (`DEC-2026-026`) without re-embedding when testing different analytical hypotheses, `generate_embeddings.py` and `enrich_metadata_4x5.py` establish a decoupled **Vector Matrix + Enriched Metadata architecture**:
+To prepare the multi-corpus dataset for downstream BERTopic clustering (`DEC-2026-026`) without re-embedding when testing different analytical hypotheses, `generate_embeddings.py`, `generate_embeddings_openvino.py` (`DEC-2026-029`), and `enrich_metadata_4x5.py` establish a decoupled **Vector Matrix + Enriched Metadata architecture**:
 
-### 1. Unified 610-Unit Vector Matrix (`unit_embeddings.npy`)
-Generated using `intfloat/e5-base-v2` (512-token context window, 768-dimensional L2-normalized embeddings). The matrix has shape **`(610, 768)`**, combining:
-- **276 stratified chunk units** from `chunk_manifest.csv` (representing down-weighted multi-page and extended parent documents).
-- **334 whole-document units** (representing short Corpus A circulars, single-chunk docs, and clean DQA-passed Corpus B items not requiring sub-linear chunking).
+### 1. Unified 509-Unit Vector Matrix (`unit_embeddings.npy`)
+Generated using `intfloat/e5-base-v2` (512-token context window, 768-dimensional L2-normalized embeddings via OpenVINO GPU acceleration). The matrix has shape **`(509, 768)`**, combining:
+- **328 stratified chunk units** from `chunk_manifest.csv` (representing down-weighted multi-page and extended parent documents per `DEC-2026-031` OCR purity filtering).
+- **181 whole-document parent units** (representing short Corpus A circulars, single-chunk docs, and clean DQA-passed Corpus B items not requiring sub-linear chunking).
 
 ### 2. Enriched Metadata Table (`modeling_units_metadata.csv`)
-Each row ($idx \in [0..609]$) corresponds exactly 1-to-1 with row $idx$ of `unit_embeddings.npy`. Rather than re-running neural embeddings whenever new analytical categories are tested, `enrich_metadata_4x5.py` joins against `master_registry.csv` to append 4 canonical class variables required for `BERTopic.topics_per_class()`:
-- **`corpus_tier`**: `'A'` (331 institutional units) vs `'B'` (279 practitioner/media units).
+Each row ($idx \in [0..508]$) corresponds exactly 1-to-1 with row $idx$ of `unit_embeddings.npy`. Rather than re-running neural embeddings whenever new analytical categories are tested, `enrich_metadata_4x5.py` joins against `master_registry.csv` to append 4 canonical class variables required for `BERTopic.topics_per_class()`:
+- **`corpus_tier`**: `'A'` (257 institutional units) vs `'B'` (252 practitioner/media units).
 - **`institutional_pillar`**: Cleaned 12-category taxonomy (`APEDA`, `Spices Board`, `MPEDA`, `EIC/EIA`, `FSSAI`, `EU DG SANTE`, `US FDA`, `DGFT`, `Domestic Infrastructure`, `Academic Research Pool`, `Practitioner & Media Discourse`).
-- **`locus_bucket` & `logic_bucket` (`grid_bucket`)**: Resolves the 121 high-cardinality `locus_tag` and 97 `verification_logic` free-text values into the canonical **$4 \times 5$ Grid (`4 Loci × 5 Verification Logics`)**.
-- **`digital_system_flag` & `digital_systems_mentioned`**: Keyword-tagged boolean presence (`Yes`/`No`) and explicit naming (`ICEGATE`, `TraceNet`, `HortiNet`, `FoSCoS`, `e-CoO`, `TRACES-NT`, `OASIS`) of digital export platforms across all 610 units.
+- **`locus_bucket` & `logic_bucket` (`grid_bucket`)**: Resolves the 121 high-cardinality `locus_tag` and 97 `verification_logic` free-text values into the canonical **$4 \times 5$ Grid (`4 Loci × 5 Verification Logics`)** under our `DEC-2026-032` evaluation priority hierarchy.
+- **`digital_system_flag` & `digital_systems_mentioned`**: Keyword-tagged boolean presence (`Yes` = 46 units / `No` = 463 units) and explicit naming (`ICEGATE`, `TraceNet`, `HortiNet`, `FoSCoS`, `e-CoO`, `TRACES-NT`, `OASIS`) of digital export platforms across all 509 units.

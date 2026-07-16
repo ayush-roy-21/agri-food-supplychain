@@ -462,7 +462,7 @@ def run_gdelt_dqa_filter():
         writer.writerows(retained_master_rows)
         writer.writerows(new_master_rows)
         
-    print(f"[*] Successfully updated data/master_registry.csv with {len(new_master_rows)} clean GDELT 13-column records.")
+    print(f"[*] Successfully updated data/master_registry.csv with {len(new_master_rows)} clean GDELT 19-column records.")
     
     # Step 6: Automatically separate clean and raw CSVs into MSME and Large Listed tiers
     try:

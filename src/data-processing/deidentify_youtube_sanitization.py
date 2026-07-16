@@ -11,7 +11,7 @@ This script enforces Section 11 de-identification rules and Section 6.2 DQA qual
    - Blocks and removes all video transcripts across the dataset to prevent BERTopic cluster corruption.
    - Filters out empty, invalid, or spam comments.
 3. Clean CSV & Registry Output:
-   - Outputs a clean CSV (youtube_deidentified_master_registry.csv) perfectly mapped to the 13-column Master Registry schema.
+   - Outputs a clean CSV (youtube_deidentified_master_registry.csv) perfectly mapped to the 19-column Master Registry schema.
    - Updates the central data/master_registry.csv and generates sanitized TXT dossiers and clean JSON extracts.
 """
 
@@ -284,7 +284,7 @@ def run_sanitization_pipeline():
         writer.writerows(retained_master_rows)
         writer.writerows(new_master_rows)
 
-    print(f"[*] Successfully updated data/master_registry.csv with {len(new_master_rows)} de-identified 17-column records.")
+    print(f"[*] Successfully updated data/master_registry.csv with {len(new_master_rows)} de-identified 19-column records.")
 
     # Step 6: Log exclusions to Exceptions Log
     print("\n[*] Step 6: Updating Exceptions Log (data/exceptions_log.csv)...")

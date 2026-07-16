@@ -212,7 +212,7 @@ def main():
     
     # Summary of enrichment
     print("\n==========================================================================")
-    print("                      ENRICHMENT SUMMARY (610 UNITS)")
+    print(f"                      ENRICHMENT SUMMARY ({len(meta_df)} UNITS)")
     print("==========================================================================")
     print("\n1. Corpus Tier (`corpus_tier`):")
     print(meta_df["corpus_tier"].value_counts().to_string())

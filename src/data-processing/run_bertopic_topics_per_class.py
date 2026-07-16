@@ -1,7 +1,7 @@
 """
 run_bertopic_topics_per_class.py
 
-Fits BERTopic once on the existing 610-unit e5-base-v2 vector matrix (unit_embeddings.npy)
+Fits BERTopic once on the existing 509-unit e5-base-v2 vector matrix (unit_embeddings.npy)
 and enriched metadata (modeling_units_metadata.csv), then executes `topics_per_class()`
 across 6 analytical criteria:
 1. corpus_tier (Corpus A vs. Corpus B)
@@ -89,7 +89,7 @@ def main():
         verbose=True
     )
     
-    print("\n[*] Fitting BERTopic on 610 documents using pre-computed e5-base-v2 embeddings...")
+    print("\n[*] Fitting BERTopic on 509 documents using pre-computed e5-base-v2 embeddings...")
     topics, _ = topic_model.fit_transform(docs, embeddings=embeddings)
     
     topic_info = topic_model.get_topic_info()

@@ -10,8 +10,8 @@ A comprehensive, structured institutional data archive and regulatory intelligen
 Indian agricultural and processed food micro, small, and medium enterprises (MSMEs) operate within an increasingly complex global regulatory horizon. Exporting suppliers face severe structural hurdles imposed by overlapping domestic statutory regimes and rigorous international compliance mandates—ranging from zero-tolerance antibiotic screening and pesticide Maximum Residue Levels (MRLs) to mandatory GPS polygon farm geotagging under zero-deforestation due diligence rules.
 
 **The Barrier Horizon** bridges the gap between fragmented institutional notifications, macro-level policy frameworks, and empirical trade policy research by assembling a **dual-corpus architecture**:
-* **Corpus A (Institutional & Statutory Intelligence)**: Authoritative statutory frameworks, operational procedures, circulars, enforcement refusal records, and trade statistics across **11 institutional pillars** (India, European Union, and United States), plus state gazettes and US FDA enforcement data. Every record is curated with strict academic transparency, multi-dimension Data Quality Assessment (DQA), and dual-logging into a unified 13-column master registry.
-* **Corpus B (Public Discourse & Practitioner Hurdles)**: Bottom-up operational friction, lived supplier experiences, and media sentiment extracted from YouTube practitioner discussions, Reddit trade forums, and GDELT global news pipelines. All public discourse data strictly adheres to our **Section 11 Ethics Protocol**, featuring automated PII de-identification and rigorous DQA filtering.
+* **Corpus A (Institutional & Statutory Intelligence)**: Authoritative statutory frameworks, operational procedures, circulars, enforcement refusal records, and trade statistics across **11 institutional pillars** (India, European Union, and United States), plus state gazettes and US FDA enforcement data. Every record is curated with strict academic transparency, multi-dimension Data Quality Assessment (DQA), and dual-logging into a unified 19-column master registry (`117 verified parent documents`).
+* **Corpus B (Public Discourse & Practitioner Hurdles)**: Bottom-up operational friction, lived supplier experiences, and media sentiment extracted from YouTube practitioner discussions, Reddit trade forums, and GDELT global news pipelines (`150 verified parent documents`). All public discourse data strictly adheres to our **Section 11 Ethics Protocol**, featuring automated PII de-identification and rigorous DQA filtering.
 
 ---
 
@@ -45,7 +45,7 @@ Corpus B systematically captures bottom-up operational friction and compliance r
 | :--- | :--- | :--- | :--- | :--- |
 | **1. YouTube Discourse** | YouTube Data API v3 & Closed Captions | `B-YT-` | Expert Lectures & Practitioner Comments | 80 dedicated dossiers across 16 IEC/MSME compliance queries. Extracts video metadata, lived comment hurdles, and CC transcripts. Automated PII masking. |
 | **2. Reddit Discussions** | Reddit PRAW & Public RSS | `B-RD-` | Exporter & Agri Community Forums | Collects public discussions from target agricultural and trade subreddits. Features read-only XML/RSS fallback for offline/sandbox environments. |
-| **3. GDELT Trade Media** | GDELT Event & News Pipeline | `B-GD-` | Global SPS Alerts & Non-Tariff Barriers | Real-time media intelligence (`timespan="5y"`) tracking global trade disputes, border refusals, and SPS regulatory shifts across 15 Boolean queries (`shrimp`, `spice`, `rice`, `tea`, `mango`, `pesticide`, `aflatoxin`, `ETO`, `salmonella`, `FSSAI`, `APEDA`, `MPEDA`, `MRL`, `import alert`, `border inspection`). Live full-text scraping via `newspaper3k`/`BeautifulSoup`, filtered through strict Section 10 DQA screening (`dqa_filter_gdelt.py`), and separated into **Clean MSME Exporters (`58 records`)** vs. **Large Listed Comparators (`1 record`)** (`separate_gdelt_tiers.py`). |
+| **3. GDELT Trade Media** | GDELT Event & News Pipeline | `B-GD-` | Global SPS Alerts & Non-Tariff Barriers | Real-time media intelligence (`timespan="5y"`) tracking global trade disputes, border refusals, and SPS regulatory shifts across 15 Boolean queries (`shrimp`, `spice`, `rice`, `tea`, `mango`, `pesticide`, `aflatoxin`, `ETO`, `salmonella`, `FSSAI`, `APEDA`, `MPEDA`, `MRL`, `import alert`, `border inspection`). Live full-text scraping via `newspaper3k`/`BeautifulSoup`, filtered through strict Section 10 DQA screening (`dqa_filter_gdelt.py`), and separated into **Clean MSME Exporters / Keyword Plausible (`107 records`)** vs. **Large Listed Comparators (`1 record`)** (`separate_gdelt_tiers.py`). |
 
 ---
 
@@ -71,7 +71,7 @@ agri-food-project/
 │   ├── GDELT/                          # Global trade news & SPS alert datasets (Clean MSMEs vs Large Listed)
 │   └── ethics_clearance_log.json       # Section 11 Ethics Protocol clearance log
 ├── data/
-│   ├── master_registry.csv             # Single source of truth (13-column standardized schema)
+│   ├── master_registry.csv             # Single source of truth (19-column standardized schema, 267 parent records)
 │   ├── exceptions_log.csv              # Audit trail of rejected stubs, shells, and non-agri noise (7-column schema)
 │   ├── decision_log.csv                # Academic decision record for inclusion/rejection rationale
 │   ├── CorpusA/                        # Mirrored data directory containing sub-registries (JSON) & files
@@ -112,8 +112,11 @@ agri-food-project/
         ├── extract_and_classify_corpus_a.py # Regulatory classification & NLP text extraction utility
         ├── ocr_corpus_a.py             # Tesseract OCR preprocessing pipeline for scanned PDFs & images
         ├── resolve_remaining_queued_a.py # EUR-Lex statutory summary generator (100% readability recovery)
-        ├── generate_embeddings.py      # Generates 610-unit e5-base-v2 embedding matrix (unit_embeddings.npy)
+        ├── generate_embeddings.py      # Generates 509-unit e5-base-v2 embedding matrix (unit_embeddings.npy)
+        ├── generate_embeddings_openvino.py # Intel OpenVINO GPU-accelerated 509-unit vector embedding generator
         ├── enrich_metadata_4x5.py      # Enriches modeling metadata with canonical 4x5 grid & digital system flags
+        ├── generate_grid_5x4_coverage.py # Generates exact 20-cell unit and distinct parent doc coverage matrix
+        ├── run_bertopic_topics_per_class.py # Multi-criteria BERTopic topics_per_class aggregation orchestrator
         └── run_dqa_audit.py            # Automated master DQA audit & pipeline execution runner
 ```
 
@@ -194,9 +197,15 @@ python src/data-processing/run_dqa_audit.py
 # Execute YouTube PII de-identification and sanitization pipeline
 python src/data-processing/deidentify_youtube_sanitization.py
 
-# Generate 610-unit e5-base-v2 vector embeddings (unit_embeddings.npy)
-python src/data-processing/generate_embeddings.py
+# Generate 509-unit e5-base-v2 vector embeddings via OpenVINO GPU acceleration (unit_embeddings.npy)
+python src/data-processing/generate_embeddings_openvino.py
 
 # Enrich modeling units metadata with canonical 4x5 grid classes & digital system flags
 python src/data-processing/enrich_metadata_4x5.py
+
+# Generate 5x4 grid coverage table reporting both unit_count and distinct_parent_docs (grid_5x4_coverage.csv)
+python src/data-processing/generate_grid_5x4_coverage.py
+
+# Execute multi-criteria BERTopic topics_per_class aggregation across all institutional dimensions
+python src/data-processing/run_bertopic_topics_per_class.py
 ```
