@@ -53,22 +53,36 @@ def map_logic_bucket(logic_tag: str) -> str:
     
     l = str(logic_tag).strip().lower()
     
-    # Trade Discourse & Practitioner Experience
-    if any(k in l for k in ['media-signaling', 'practitioner-lived', 'direct-institutional', 'public-forum', 'discourse', 'cost-breakdown', 'assessment-metrics', 'export-protocol', 'multi-year-commodity', 'origin-level-hazard', 'general-food-law', 'duty-scrip', 'trade-policy', 'good-agricultural-practices-farm-assurance']):
-        return "Trade Discourse & Practitioner Experience"
-    
+    # NOTE (fix applied after 5x4 grid coverage audit): the original check
+    # order put 'Trade Discourse' first, and its keyword 'media-signaling'
+    # is a substring of the single most common verification_logic value in
+    # the corpus -- "media-signaling-and-border-rejections (external trade
+    # friction)" -- which ALSO contains 'border-rejection'. Checking the
+    # generic bucket first meant that value (and 5 similar compound tags)
+    # always won before the more specific, more evidentially important
+    # category could be tested. Affected 210 of 509 units (41.3% of the
+    # corpus) -- Destination Border Controls & Refusals was undercounted
+    # at 6 units when it should be 216. Fix: check specific/high-value
+    # categories first, generic 'Trade Discourse' last before the
+    # statutory default.
+
     # Destination Border Controls & Refusals
-    elif any(k in l for k in ['border-rejection', 'fda-charge', 'import-alert', '20pct-physical-sampling', 'bcp-documentary', 'refusal']):
+    if any(k in l for k in ['border-rejection', 'fda-charge', 'import-alert', '20pct-physical-sampling', 'bcp-documentary', 'refusal']):
         return "Destination Border Controls & Refusals"
-    
+
     # Laboratory Testing & Residue Assays
     elif any(k in l for k in ['testing', 'assay', 'screening', 'laboratory', 'hplc', 'lc-ms-ms', 'gc-ms-ms', 'mrl', 'nabl', 'sampling', 'chloramphenicol', 'nitrofuran', 'pathogen', 'residue', 'aflatoxin', 'eto', 'iso-17025']):
         return "Laboratory Testing & Residue Assays"
-    
+
     # Traceability & Digital Geotagging
     elif any(k in l for k in ['trace', 'tracenet', 'geotagg', 'polygon', 'e-coo', 'catch-certificate-online', 'icegate', 'digital', 'one-step', 'shipping-bill']):
         return "Traceability & Digital Geotagging"
-    
+
+    # Trade Discourse & Practitioner Experience (generic catch-all, checked
+    # last among the four "positive" categories)
+    elif any(k in l for k in ['media-signaling', 'practitioner-lived', 'direct-institutional', 'public-forum', 'discourse', 'cost-breakdown', 'assessment-metrics', 'export-protocol', 'multi-year-commodity', 'origin-level-hazard', 'general-food-law', 'duty-scrip', 'trade-policy', 'good-agricultural-practices-farm-assurance']):
+        return "Trade Discourse & Practitioner Experience"
+
     # Facility Audit, Inspection & Hygiene Standards (default statutory enforcement)
     else:
         return "Facility Audit & Hygiene Standards"

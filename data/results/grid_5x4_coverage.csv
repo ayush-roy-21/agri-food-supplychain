@@ -1,0 +1,21 @@
+locus_bucket,logic_bucket,unit_count,distinct_parent_docs,corpus_A_units,corpus_B_units,coverage_flag
+Marine & Aquaculture,Laboratory Testing & Residue Assays,2,2,2,0,THIN (<=2 parent docs)
+Marine & Aquaculture,Destination Border Controls & Refusals,38,21,1,37,OK
+Marine & Aquaculture,Traceability & Digital Geotagging,1,1,1,0,THIN (<=2 parent docs)
+Marine & Aquaculture,Facility Audit & Hygiene Standards,12,11,12,0,OK
+Marine & Aquaculture,Trade Discourse & Practitioner Experience,6,6,1,5,OK
+Spices & Botanical Herbs,Laboratory Testing & Residue Assays,12,5,12,0,OK
+Spices & Botanical Herbs,Destination Border Controls & Refusals,32,16,2,30,OK
+Spices & Botanical Herbs,Traceability & Digital Geotagging,0,0,0,0,EMPTY
+Spices & Botanical Herbs,Facility Audit & Hygiene Standards,2,1,2,0,THIN (<=2 parent docs)
+Spices & Botanical Herbs,Trade Discourse & Practitioner Experience,0,0,0,0,EMPTY
+"Horticulture, Cereals & Organic",Laboratory Testing & Residue Assays,2,1,2,0,THIN (<=2 parent docs)
+"Horticulture, Cereals & Organic",Destination Border Controls & Refusals,55,30,0,55,OK
+"Horticulture, Cereals & Organic",Traceability & Digital Geotagging,2,1,2,0,THIN (<=2 parent docs)
+"Horticulture, Cereals & Organic",Facility Audit & Hygiene Standards,11,5,11,0,OK
+"Horticulture, Cereals & Organic",Trade Discourse & Practitioner Experience,14,13,4,10,OK
+Cross-Cutting & Institutional Governance,Laboratory Testing & Residue Assays,20,17,20,0,OK
+Cross-Cutting & Institutional Governance,Destination Border Controls & Refusals,91,47,3,88,OK
+Cross-Cutting & Institutional Governance,Traceability & Digital Geotagging,9,9,9,0,OK
+Cross-Cutting & Institutional Governance,Facility Audit & Hygiene Standards,37,23,37,0,OK
+Cross-Cutting & Institutional Governance,Trade Discourse & Practitioner Experience,163,45,136,27,OK
