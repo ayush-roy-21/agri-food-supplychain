@@ -112,3 +112,14 @@ All one-off, file-specific fix scripts and temporary simulation tools have been 
 8. **`separate_gdelt_tiers.py`**: Automated stratification script separating verified large listed enterprises from MSME exporter populations.
 9. **`run_dqa_audit.py`**: Comprehensive cross-corpus audit script verifying scoring distributions and producing verification reports.
 10. **`ethics_check.py`**: Automated privacy boundaries check confirming ethical compliance prior to data release.
+
+---
+
+## 7. Methodological Reconciliation & Downstream Synthesis (`METHODOLOGY_AND_LIMITATIONS.md`)
+
+While this protocol details data extraction, quality screening (`DQA`), ethics de-identification, and scale verification, the complete downstream topic modeling methodology (`BERTopic / e5-base-v2 / UMAP+HDBSCAN`), reconciled limitations across both data extraction and analytical research questions (`RQ1..RQ4`), project acronyms, and reproducibility protocols are consolidated inside **`[METHODOLOGY_AND_LIMITATIONS.md](file:///e:/Summer%20Internship%2726/agri-food-project/docs/METHODOLOGY_AND_LIMITATIONS.md)`**.
+
+### Key Reconciliations with Analytical Chapters:
+- **Unified Limitations Synthesis (`Chapter 3`)**: Fully reconciles extraction/verification limits (*public listing bias toward large firms; untested offline municipal trade licenses; `DEC-2026-031` OCR encoding exclusions*) with analytical/modeling delimitations (*`RQ2` bilateral focus restricted to `EU DG SANTE`, `US FDA/NOAA`, and `Japan MHLW`; `Topic 8/9` micro-cluster residuals; Section 10 DQA English/ASCII script filtering*).
+- **Topic Modeling Methodology (`Chapter 2`)**: Explains how clean DQA-passed documents (`267 parents`) and down-weighted chunks (`383 chunks`) transition into the 509-unit vector space (`intfloat/e5-base-v2`) and undergo class-based TF-IDF enrichment (`topics_per_class`).
+- **Reproducibility Guarantee (`Chapter 4`)**: All candidate thresholds and data extraction rules correspond exactly to release tag **`v1.0.0`**, verified automatically by **`[verify_pipeline_integrity.py](file:///e:/Summer%20Internship%2726/agri-food-project/src/data-processing/verify_pipeline_integrity.py)`**.

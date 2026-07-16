@@ -208,4 +208,26 @@ python src/data-processing/generate_grid_5x4_coverage.py
 
 # Execute multi-criteria BERTopic topics_per_class aggregation across all institutional dimensions
 python src/data-processing/run_bertopic_topics_per_class.py
+
+# Execute Stage 5 automated pipeline integrity & reproducibility assertion audit (v1.0.0)
+python src/data-processing/verify_pipeline_integrity.py
+```
+
+---
+
+## 📚 Comprehensive Academic Documentation & Reconciled Thesis Reference (`v1.0.0`)
+
+To support thesis examination, external review, and computational trade policy research, all methodology, empirical limitations, acronym definitions, and formal academic references have been synthesized across our core documentation suite:
+
+| Document / Guide | File Link | Core Content & Academic Scope |
+| :--- | :--- | :--- |
+| **Unified Methodology & Limitations** | `[METHODOLOGY_AND_LIMITATIONS.md](file:///e:/Summer%20Internship%2726/agri-food-project/docs/METHODOLOGY_AND_LIMITATIONS.md)` | **Chapter 1: Glossary & Acronym Table** (`APEDA`, `MPEDA`, `EIC`, `FSSAI`, `DGFT`, `TraceNet`, `HortiNet`, `FoSCoS`, `e-CoO`, `e-SANTA`, `ICEGATE`, `TRACES-NT`, `RASFF`, `OASIS`, `EUDR`, `CSDDD`, `ZED`, `MRL`, `SPS`, `TBT`, `DQA`).<br>**Chapter 2: Topic Modeling Methodology** (`BERTopic`, `e5-base-v2`, ~250-word chunking / $\lceil\sqrt{N}\rceil$ down-weighting, `UMAP+HDBSCAN`, `topics_per_class`).<br>**Chapter 3: Unified Limitations Chapter** (reconciling public listing bias, untested offline municipal licenses, `DEC-2026-031` OCR boundaries, `RQ2` bilateral target scopes, micro-clusters, and Section 10 DQA English script filtering).<br>**Chapter 4: Reproducibility & Data-Availability Statement** (`v1.0.0` release tag & automated verification engine).<br>**Chapter 5: Formal References & Bibliography** (APA 7th citations for literature and EU/US/Indian statutes). |
+| **Corpus Architecture & RQs** | `[CORPUS_ARCHITECTURE.md](file:///e:/Summer%20Internship%2726/agri-food-project/docs/CORPUS_ARCHITECTURE.md)` | Details the 11 institutional pillars (`Corpus A` & `Corpus B`), Section 11 Ethics protocol, 509-unit vector matrix engineering, and the $5 \times 4$ coverage grid (`DEC-2026-032`). |
+| **Data Collection Protocol** | `[DATA_COLLECTION_PROTOCOL.md](file:///e:/Summer%20Internship%2726/agri-food-project/docs/DATA_COLLECTION_PROTOCOL.md)` | Rigorous step-by-step extraction, DQA evaluation, and Stage 4 MSME verification protocol across all scraper modules. |
+| **Registry Schema & Exceptions** | `[REGISTRY_SCHEMA.md](file:///e:/Summer%20Internship%2726/agri-food-project/docs/REGISTRY_SCHEMA.md)` | Complete data dictionary for `master_registry.csv` (`19 columns`), `chunk_manifest.csv`, and `exceptions_log.csv` (`401 records`). |
+
+### Reproducibility Guarantee & Verification Command
+All computational results presented in this project corresponds exactly to stable Git release tag **`v1.0.0` (`Empirical Release v1.0.0`)**. Researchers can verify byte-for-byte dataset integrity, exact parent counts (`117 Corpus A + 150 Corpus B = 267 parents`), down-weighted chunk sampling (`383 chunks`), and embedding matrix shapes (`509 × 768`) at any time by executing:
+```bash
+python src/data-processing/verify_pipeline_integrity.py
 ```

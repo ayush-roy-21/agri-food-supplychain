@@ -196,3 +196,26 @@ Each row ($idx \in [0..508]$) corresponds exactly 1-to-1 with row $idx$ of `unit
 - **`institutional_pillar`**: Cleaned 12-category taxonomy (`APEDA`, `Spices Board`, `MPEDA`, `EIC/EIA`, `FSSAI`, `EU DG SANTE`, `US FDA`, `DGFT`, `Domestic Infrastructure`, `Academic Research Pool`, `Practitioner & Media Discourse`).
 - **`locus_bucket` & `logic_bucket` (`grid_bucket`)**: Resolves the 121 high-cardinality `locus_tag` and 97 `verification_logic` free-text values into the canonical **$4 \times 5$ Grid (`4 Loci × 5 Verification Logics`)** under our `DEC-2026-032` evaluation priority hierarchy.
 - **`digital_system_flag` & `digital_systems_mentioned`**: Keyword-tagged boolean presence (`Yes` = 46 units / `No` = 463 units) and explicit naming (`ICEGATE`, `TraceNet`, `HortiNet`, `FoSCoS`, `e-CoO`, `TRACES-NT`, `OASIS`) of digital export platforms across all 509 units.
+
+---
+
+## 7. Unified Methodology, Reconciled Limitations, Glossary & Reproducibility Reference (`METHODOLOGY_AND_LIMITATIONS.md`)
+
+To provide complete, connected-prose academic documentation for thesis examination (`DEC-2026-026`, `DEC-2026-031`, `DEC-2026-032`), all formal topic modeling mathematical specifications, reconciled empirical limitations, project acronyms, and reproducibility protocols are consolidated inside **`[METHODOLOGY_AND_LIMITATIONS.md](file:///e:/Summer%20Internship%2726/agri-food-project/docs/METHODOLOGY_AND_LIMITATIONS.md)`**.
+
+### Summary of Core Methodological & Governance Chapters:
+1. **Glossary & Acronym Reference Table (`Chapter 1`)**: Exhaustive definition of 27 core institutional and technical acronyms (`APEDA`, `MPEDA`, `EIC/EIA`, `FSSAI`, `DGFT`, `TraceNet`, `HortiNet`, `FoSCoS`, `e-CoO`, `e-SANTA`, `ICEGATE`, `TRACES-NT`, `RASFF`, `OASIS`, `EUDR`, `CSDDD`, `ZED`, `MRL`, `SPS`, `TBT`, `DQA`, `PHT`, `RCMC`, `IEC`, `Udyam`, `US FDA`, `MHLW`).
+2. **Topic Modeling & Neural Vector Space Specification (`Chapter 2`)**: Connected academic prose documenting exact design rationales:
+   - **Why `e5-base-v2`**: Asymmetric contrastive pre-training (`"passage: "`) mapping top-down statutory rules and bottom-up practitioner complaints into a shared $R^{768}$ semantic space.
+   - **Why `400-word chunking / square-root down-weighting`**: Precision ~250-word target (~300–350 tokens) within 512-token windows, combined with $\lceil \sqrt{N} \rceil$ sampling to prevent verbose monographs (`A-EUDR-101`) from artificially dominating clustering vectors.
+   - **Why `UMAP + HDBSCAN`**: Non-linear manifold reduction ($R^{768} \to R^5$) paired with density clustering that explicitly isolates sparse inter-cluster anomalies into a Noise / Outlier Bucket (`Topic -1`) rather than distorting core centroids.
+   - **Why `BERTopic.topics_per_class()`**: Dynamic `c-TF-IDF` cross-tabulation across our 4 canonical class axes (`corpus_tier`, `institutional_pillar`, `grid_bucket`, `digital_system_flag`) without re-clustering the underlying vector space.
+3. **Unified & Reconciled Limitations (`Chapter 3`)**: Reconciles cleaning report constraints and RQ writeup delimitations into 6 unified dimensions:
+   - *Entity Verification & MSME Scale*: Stock exchange checks favor large firms; unverified MSME discourse is categorized as `keyword-plausible-unverified`, while large-firm mentions serve solely as internal-capability contrast cases (`RQ1/RQ2`).
+   - *Offline Municipal Licenses*: Lack of public APIs leaves state-gazette/municipal trade licenses untested in automated Stage 4 checks.
+   - *OCR & Scraper Boundaries*: Hardcoded exclusion of legacy font encodings (`A-SPICE-002`, `A-SPICE-004`) and trailing scraper widgets (`B-GD-020`, `029`, `088`) per `DEC-2026-031`.
+   - *Bilateral Scope Delimitation (`RQ2`)*: Delimits destination border friction strictly to `EU DG SANTE`, `US FDA/NOAA`, and `Japan MHLW`; boundary cases involving non-target counterparts (*e.g., India-Nepal tea border testing in Topic 3*) are classified as `RQ2-adjacent / RQ1-outward-manifestation`.
+   - *Topic Modeling Micro-Clusters*: Topic 8 ($N=6$, NPOP/TraceNet) is a specialized digital-governance micro-cluster; Topic 9 ($N=6$) is an administrative procedural residual.
+   - *Language Script Gate*: Section 10 DQA strict English/ASCII filtering prevents keyword-collision false positives (`\bkw\b`), delimiting discourse to English-language trade media.
+4. **Reproducibility & Data-Availability Statement (`Chapter 4`)**: Formal benchmark release specification under tag **`v1.0.0` (`Empirical Release v1.0.0`)**, supported by the automated runtime assertion engine **`[verify_pipeline_integrity.py](file:///e:/Summer%20Internship%2726/agri-food-project/src/data-processing/verify_pipeline_integrity.py)`**.
+5. **Formal References & Bibliography (`Chapter 5`)**: Complete APA 7th academic citations for empirical literature surfaced in Topic 0 (*e.g., Athukorala & Jayasuriya, Babu & Seshadri, De Paula & Kumar, Fukuda, Groot & Perez, Kareem et al., Unnevehr*), EU regulations (`2019/1793`, `2017/625`, `2023/1115 EUDR`), US statutes (`FSVP 21 CFR Part 1`, `DWPE Import Alerts`), Indian export control laws, and WTO multilateral agreements.
