@@ -90,6 +90,7 @@ def main():
         end_idx = min(start_idx + batch_size, n_docs)
         batch_texts = formatted_docs[start_idx:end_idx]
 
+        # pyrefly: ignore [not-callable]
         inputs = tokenizer(
             batch_texts,
             padding=True,

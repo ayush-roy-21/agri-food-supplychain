@@ -163,6 +163,7 @@ def main():
     # 1. Map locus_bucket and logic_bucket
     meta_df["locus_bucket"] = meta_df["locus_tag"].apply(map_locus_bucket)
     meta_df["logic_bucket"] = meta_df["verification_logic"].apply(map_logic_bucket)
+    # pyrefly: ignore [unsupported-operation]
     meta_df["grid_bucket"] = meta_df["locus_bucket"] + " × " + meta_df["logic_bucket"]
     
     # 2. Map institutional_pillar
