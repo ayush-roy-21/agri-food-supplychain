@@ -1,12 +1,4 @@
 Topic,Words,Frequency,Class
--1,"pdf download, format pdf, pdf, format, download",4,Yes
-0,"csr, schedule vii, vii, rural, eligible",1,Yes
-1,"spices, eu, export, food, iec",13,Yes
-2,"author, user, sir, iec, code",14,Yes
-3,"tea, nepal, indian, testing, percent",2,Yes
-6,"apeda, tracenet, eu, vegetables, fruits",7,Yes
-8,"comments, businessline, release, editorial, journalist",1,Yes
-9,"shrestha, ventures, generation, indias, structured",4,Yes
 -1,"export, mpeda, india, exports, said",78,No
 0,"supply, chain, al, supply chain, et",99,No
 1,"eu, ex, export, products, regulation",83,No
@@ -21,3 +13,11 @@ Topic,Words,Frequency,Class
 10,"ting, sustainability, ar, inf, mation",16,No
 11,"shall, food, meat, storage, water",12,No
 12,"value, cent, volume, exports, export",10,No
+-1,"pdf download, format pdf, pdf, format, download",4,Yes
+0,"csr, schedule vii, vii, rural, eligible",1,Yes
+1,"spices, eu, export, food, iec",13,Yes
+2,"author, user, sir, iec, code",14,Yes
+3,"tea, nepal, indian, testing, percent",2,Yes
+6,"apeda, tracenet, eu, vegetables, fruits",7,Yes
+8,"comments, businessline, release, editorial, journalist",1,Yes
+9,"shrestha, ventures, generation, indias, structured",4,Yes
