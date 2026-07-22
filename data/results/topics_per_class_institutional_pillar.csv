@@ -1,24 +1,13 @@
 Topic,Words,Frequency,Class
--1,"chicken, curry, mpeda, european union, european",3,Practitioner & Media Discourse
-0,"export, exports, tea, said, india",151,Practitioner & Media Discourse
-1,"products, export, trade, gold, regional",6,Practitioner & Media Discourse
-1,"food, fssai, food safety, safety, export",4,FSSAI (Food Safety Authority of India)
-4,"shall, food, meat, storage, water",11,FSSAI (Food Safety Authority of India)
--1,"mpeda, scheme, impact, evaluation, central sector",6,MPEDA (Marine Products Export Authority)
-0,"value, usd, export, 152, exports",1,MPEDA (Marine Products Export Authority)
-1,"mpeda, marine, products, eu, export",12,MPEDA (Marine Products Export Authority)
-4,"committee, shall, office, women, committee shall",1,MPEDA (Marine Products Export Authority)
-1,"export, trade, dgft, certificate, electronic",5,DGFT & Ministry of Commerce
-1,"msme, zero, food, niti, certification",2,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-2,"supplier, data, group, projects, shall",8,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-5,"slavery, modern slavery, modern, supply, actors",9,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-1,"fda, import, food, section, drug",6,US FDA / US Regulatory Agencies
-1,"ex, 2008, spices, 97, 19",19,Spices Board of India
-0,"rice, philippines, apeda, export, advisory",5,APEDA (Agricultural & Processed Food Authority)
-0,"03, 14, change, 2026, 04",6,General Statutory & State Gazette
-1,"inspection, export, act, gazette, notification",14,General Statutory & State Gazette
-1,"inspection, eic, export, laboratories, testing",5,EIC/EIA (Export Inspection Council)
--1,"gps, plot, indian exporters, apeda, advisory",1,EU DG SANTE / European Commission
-1,"eu, regulation, european, official, food",17,EU DG SANTE / European Commission
-2,"data, 2025, eudr, 2024, et al",15,EU DG SANTE / European Commission
-3,"sustainability, ar, inf, directive, assurance",15,EU DG SANTE / European Commission
+0,"eu, regulation, european, official, regulation eu",20,EU DG SANTE / European Commission
+1,"sustainability, ar, directive, assurance, taking",15,EU DG SANTE / European Commission
+0,"act, products, quality, 14, 2026",20,General Statutory & State Gazette
+0,"section, action, states, administrative, source",6,US FDA / US Regulatory Agencies
+0,"trade, electronic, mandatory, general, date",5,DGFT & Ministry of Commerce
+0,"products, value, trade, market, growth",160,Practitioner & Media Discourse
+0,"2008, 19, eu, official, board",19,Spices Board of India
+0,"products, impact, central, eu, assessment",20,MPEDA (Marine Products Export Authority)
+0,"companies, section, date, rs, 2013",4,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
+0,"shall, products, used, water, business",15,FSSAI (Food Safety Authority of India)
+0,"approved, control, quality, health, quality control",5,EIC/EIA (Export Inspection Council)
+0,"eu, ee, general, new, products",5,APEDA (Agricultural & Processed Food Authority)
