@@ -1,20 +1,11 @@
 Topic,Words,Frequency,Class
--1,"trade, said, beer, india, exports",43,B
-0,"nutmeg, products, european, export, eu",8,B
-1,"author, user, sir, iec, discourse",42,B
-2,"tea, nepal, india, said, indian",33,B
-3,"export, agricultural, mangoes, district, apeda",29,B
-4,"rice, tonnes, comments, cotton, said",23,B
-7,"fisheries, seafood, exports, value, minister",17,B
-8,"yogi, farmers, minister, opportunities, millet",17,B
-9,"comments, news, india, english, highest",16,B
-11,"cent, exports, value, volume, cent value",13,B
-13,"company, growth, fy26, spices, manufacturing",11,B
--1,"supplier, group, rice, export, change",18,A
-0,"mpeda, ex, export, eu, spices",87,A
-5,"apeda, download, pdf, format, size",19,A
-6,"data, eudr, 2025, et al, al",19,A
-10,"sustainability, ar, inf, directive, assurance",16,A
-11,"value, usd, exports, volume, 152",1,A
-12,"shall, food, meat, storage, water",12,A
-14,"slavery, modern slavery, modern, supply, actors",9,A
+-1,"chicken, curry, mpeda, european union, european",3,B
+0,"export, exports, tea, said, india",151,B
+1,"products, export, trade, gold, regional",6,B
+-1,"mpeda, scheme, impact, evaluation, sector scheme",7,A
+0,"export, rice, exports, products, 2026",12,A
+1,"export, ex, food, eu, spices",84,A
+2,"data, 2025, eudr, 2024, et al",23,A
+3,"sustainability, ar, inf, directive, assurance",15,A
+4,"shall, food, meat, storage, water",12,A
+5,"slavery, modern slavery, modern, supply, actors",9,A

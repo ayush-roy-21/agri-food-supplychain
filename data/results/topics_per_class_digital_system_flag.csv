@@ -1,22 +1,12 @@
 Topic,Words,Frequency,Class
--1,"apeda, export, food, fssai, indian",4,Yes
-0,"spices, food, eu, export, mpeda",13,Yes
-1,"author, user, iec, sir, hurdles",8,Yes
-5,"apeda, tracenet, fda, eu, iec",4,Yes
-6,"csr, rural, schedule vii, vii, eligible",1,Yes
--1,"trade, said, india, beer, export",57,No
-0,"mpeda, ex, export, eu, products",82,No
-1,"author, user, sir, iec, discourse",34,No
-2,"tea, nepal, india, said, indian",33,No
-3,"export, agricultural, mangoes, district, apeda",29,No
-4,"rice, tonnes, comments, cotton, said",23,No
-5,"download, apeda, pdf, format, size",15,No
-6,"data, eudr, 2025, et al, al",18,No
-7,"fisheries, seafood, exports, value, minister",17,No
-8,"yogi, farmers, minister, opportunities, millet",17,No
-9,"comments, news, india, english, highest",16,No
-10,"sustainability, ar, inf, directive, assurance",16,No
-11,"cent, value, exports, volume, export",14,No
-12,"shall, food, meat, storage, water",12,No
-13,"company, growth, fy26, spices, manufacturing",11,No
-14,"slavery, modern slavery, modern, supply, actors",9,No
+-1,"mpeda, scheme, impact, evaluation, central sector",9,No
+0,"export, exports, tea, said, india",162,No
+1,"ex, export, eu, food, spices",75,No
+2,"data, 2025, eudr, 2024, et al",22,No
+3,"sustainability, ar, inf, directive, assurance",15,No
+4,"shall, food, meat, storage, water",12,No
+5,"slavery, modern slavery, modern, supply, actors",9,No
+-1,"gps, plot, indian exporters, apeda, advisory",1,Yes
+0,"eu, iec, fruits, plant, apeda",1,Yes
+1,"food, export, spices, iec, eu",15,Yes
+2,"rural, vii, eligible, schedule, mca",1,Yes

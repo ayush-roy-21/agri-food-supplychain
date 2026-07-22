@@ -1,0 +1,13 @@
+Descoping Decision: DEC-2026-004
+Date: 2026-07-22
+Subject: RQ4 Multi-Year Temporal Trajectory Descoping due to GDELT API Limitations
+
+Reasoning:
+An attempt was made to re-run the GDELT extraction pipeline to target the EUDR announcement-to-postponement arc spanning 2023 through 2026. While publication_date fields were successfully parsed and extracted from all GDELT and YouTube text headers into the master registry, the GDELT 2.0 DOC API (`mode=artlist`) enforces a strict hard limit on historical article retrieval via its free-tier REST endpoint. 
+
+Despite requesting a `timespan` of "5y" or using explicit `startdatetime` and `enddatetime` parameters for 2023-2026, the API either restricts the returned payload to the most recent 3-4 months of data or aggressively rate-limits historical queries (returning HTTP 429). 
+
+Because the resulting dataset cannot span a genuine multi-year window, applying BERTopic's `topics_over_time` method to generate `rq4_hurdle_trajectory.csv` would yield misleading, heavily truncated temporal trends that fail to capture the multi-year EUDR policy timeline accurately.
+
+Action Taken:
+RQ4 (Hurdle Trajectory over Time) is formally descoped from the quantitative pipeline. It must be reported as a stated methodological limitation in the final paper, noting that the GDELT 2.0 DOC REST API is insufficient for longitudinal retrospective extraction without utilizing the commercial Google BigQuery interface.
