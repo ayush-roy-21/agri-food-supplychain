@@ -70,7 +70,11 @@ def main():
             'jaccard': round(jaccard, 4),
             'example_doc_ids': ", ".join(doc_pair_map[pair])
         })
-    rq2 = pd.DataFrame(rq2_records).sort_values(by='co_occurrence_count', ascending=False)
+    rq2 = pd.DataFrame(rq2_records)
+    if not rq2.empty:
+        rq2 = rq2.sort_values(by='co_occurrence_count', ascending=False)
+    else:
+        rq2 = pd.DataFrame(columns=['hurdle_a', 'hurdle_b', 'co_occurrence_count', 'jaccard', 'example_doc_ids'])
     rq2.to_csv(root / "data" / "results" / "rq2_hurdle_cooccurrence.csv", index=False)
     print("Generated RQ2: rq2_hurdle_cooccurrence.csv")
     

@@ -1,8 +1,4 @@
 Topic,locus_primary,locus_secondary,hurdle_name,evidence_doc_ids,supervisor_signoff
--1,inductive-other,not-applicable,Program evaluation documents and out-of-scope media hits describing fisheries and export promotion schemes.,A-MPEDA-004; B-GD-031; A-EUDR-003,AR / 2026-07-22
-0,inductive-other,not-applicable,Macroeconomic reporting on export performance targets and top-down government advisory circulars without distinct firm-level hurdle mechanisms.,A-APEDA-102; A-IEC-004; A-MPEDA-004,AR / 2026-07-22
-1,institutional-voids,informational-verifiability,Statutory manuals and regulatory registries detailing exporter certification processes and documentation protocols for destination markets.,A-IEC-001; A-IEC-002; A-MPEDA-001,AR / 2026-07-22
-2,informational-verifiability,internal-capability,Sustainability governance frameworks (EUDR/CSDDD) demanding complex supply chain data transparency and corporate social responsibility (CSR) reporting.,A-CSR-100; A-EUDR-100; A-EUDR-102,AR / 2026-07-22
-3,informational-verifiability,not-applicable,EU corporate sustainability reporting directives mandating statutory disclosures and systemic environmental audits across value chains.,A-EUDR-101,AR / 2026-07-22
-4,internal-capability,not-applicable,Domestic FSSAI plant hygiene regulations dictating physical facility standards and internal governance notices for statutory boards.,A-FSSAI-001; A-MPEDA-003,AR / 2026-07-22
-5,inductive-other,not-applicable,Academic literature exploring modern slavery monitoring and technological solutions within global supply chain networks.,A-CSR-101,AR / 2026-07-22
+-1,inductive-other,not-applicable,Outlier units that could not be clustered by HDBSCAN.,A-APEDA-102; A-FSSAI-001; A-MPEDA-004,AR / 2026-07-22
+0,institutional-voids,informational-verifiability,Undifferentiated monolith of statutory export regulations plant hygiene mandates and mandatory destination border sampling.,A-FSSAI-001; A-IEC-001; A-MPEDA-001,AR / 2026-07-22
+1,informational-verifiability,not-applicable,EU corporate sustainability reporting directives mandating statutory disclosures and systemic environmental audits across value chains.,A-EUDR-101,AR / 2026-07-22

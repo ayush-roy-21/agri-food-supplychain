@@ -1,7 +1,3 @@
-hurdle,locus,unit_count,corpus_a_count,corpus_b_count,scope
-Macroeconomic reporting on export performance targets and top-down government advisory circulars without distinct firm-level hurdle mechanisms.,inductive-other,163,12,151,structural
-Domestic FSSAI plant hygiene regulations dictating physical facility standards and internal governance notices for statutory boards.,internal-capability,12,12,0,structural
-Statutory manuals and regulatory registries detailing exporter certification processes and documentation protocols for destination markets.,institutional-voids,90,84,6,structural
-Sustainability governance frameworks (EUDR/CSDDD) demanding complex supply chain data transparency and corporate social responsibility (CSR) reporting.,informational-verifiability,23,23,0,specific
-EU corporate sustainability reporting directives mandating statutory disclosures and systemic environmental audits across value chains.,informational-verifiability,15,15,0,specific
-Academic literature exploring modern slavery monitoring and technological solutions within global supply chain networks.,inductive-other,9,9,0,specific
+hurdle,locus,unit_count,corpus_a_count,corpus_b_count,scope,msme_specific_or_sector_wide
+Undifferentiated monolith of statutory export regulations plant hygiene mandates and mandatory destination border sampling.,institutional-voids,279,119,160,structural,Sector-Wide
+EU corporate sustainability reporting directives mandating statutory disclosures and systemic environmental audits across value chains.,informational-verifiability,15,15,0,specific,Indeterminate
