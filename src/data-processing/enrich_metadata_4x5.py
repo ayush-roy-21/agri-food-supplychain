@@ -8,7 +8,7 @@ the existing embedding matrix (`unit_embeddings.npy`).
 Adds 4 analytical dimensions derived via joins against `master_registry.csv` and text:
 1. `corpus_tier`: Institutional vs. practitioner framing (already present, verified).
 2. `institutional_pillar`: Cleaned canonical source categories from `source_name_instrument_body`.
-3. `locus_bucket` & `logic_bucket` (`grid_bucket`): Mapped down from 121 distinct `locus_tag`
+3. `commodity_group` & `activity_channel` (`commodity_x_activity`): Mapped down from 121 distinct `locus_tag`
    and 97 distinct `verification_logic` free-text strings to the canonical 4×5 grid.
 4. `digital_system_flag` & `digital_systems_mentioned`: Keyword-tagged presence of digital
    export systems (TraceNet, HortiNet, ICEGATE, FoSCoS, e-CoO, e-SANTA, TRACES-NT, OASIS).
@@ -24,7 +24,7 @@ from pathlib import Path
 import pandas as pd
 
 # 1. Canonical Mapping Definitions for Locus (4 categories)
-def map_locus_bucket(locus_tag: str) -> str:
+def map_commodity_group(locus_tag: str) -> str:
     if pd.isna(locus_tag) or not str(locus_tag).strip():
         return "Cross-Cutting & Institutional Governance"
     
@@ -47,7 +47,7 @@ def map_locus_bucket(locus_tag: str) -> str:
         return "Cross-Cutting & Institutional Governance"
 
 # 2. Canonical Mapping Definitions for Verification Logic (5 categories)
-def map_logic_bucket(logic_tag: str) -> str:
+def map_activity_channel(logic_tag: str) -> str:
     if pd.isna(logic_tag) or not str(logic_tag).strip():
         return "Facility Audit & Hygiene Standards"
     
@@ -160,11 +160,11 @@ def main():
     meta_df = pd.read_csv(metadata_path)
     print(f"    Total units loaded: {len(meta_df)}")
     
-    # 1. Map locus_bucket and logic_bucket
-    meta_df["locus_bucket"] = meta_df["locus_tag"].apply(map_locus_bucket)
-    meta_df["logic_bucket"] = meta_df["verification_logic"].apply(map_logic_bucket)
+    # 1. Map commodity_group and activity_channel
+    meta_df["commodity_group"] = meta_df["locus_tag"].apply(map_commodity_group)
+    meta_df["activity_channel"] = meta_df["verification_logic"].apply(map_activity_channel)
     # pyrefly: ignore [unsupported-operation]
-    meta_df["grid_bucket"] = meta_df["locus_bucket"] + " × " + meta_df["logic_bucket"]
+    meta_df["commodity_x_activity"] = meta_df["commodity_group"] + " × " + meta_df["activity_channel"]
     
     # 2. Map institutional_pillar
     meta_df["source_name_instrument_body"] = meta_df["parent_doc_id"].map(source_map)
@@ -196,14 +196,14 @@ def main():
         mapping_rows.append({
             "tag_type": "locus_tag",
             "free_text_value": loc,
-            "canonical_bucket": map_locus_bucket(loc),
+            "canonical_bucket": map_commodity_group(loc),
             "justification": "Mapped via domain keyword boundaries to 4-Locus Grid"
         })
     for log in all_logics:
         mapping_rows.append({
             "tag_type": "verification_logic",
             "free_text_value": log,
-            "canonical_bucket": map_logic_bucket(log),
+            "canonical_bucket": map_activity_channel(log),
             "justification": "Mapped via regulatory inspection/testing/traceability mechanism to 5-Logic Grid"
         })
     
@@ -221,11 +221,11 @@ def main():
     print("\n2. Institutional Pillar (`institutional_pillar`):")
     print(meta_df["institutional_pillar"].value_counts().to_string())
     
-    print("\n3. Locus Buckets (`locus_bucket` - 4 Loci):")
-    print(meta_df["locus_bucket"].value_counts().to_string())
+    print("\n3. Locus Buckets (`commodity_group` - 4 Loci):")
+    print(meta_df["commodity_group"].value_counts().to_string())
     
-    print("\n4. Logic Buckets (`logic_bucket` - 5 Verification Logics):")
-    print(meta_df["logic_bucket"].value_counts().to_string())
+    print("\n4. Logic Buckets (`activity_channel` - 5 Verification Logics):")
+    print(meta_df["activity_channel"].value_counts().to_string())
     
     print("\n5. Digital System Presence (`digital_system_flag`):")
     print(meta_df["digital_system_flag"].value_counts().to_string())

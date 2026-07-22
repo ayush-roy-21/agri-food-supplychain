@@ -78,6 +78,7 @@ def build_parent_lookup(df_master: pd.DataFrame):
             "verification_logic": str(row.get("verification_logic", "unassigned")),
             "dqa_score": str(row.get("dqa_context_score", "")),
             "full_text_available": str(row.get("full_text_available", "")),
+            "corpus_role": str(row.get("corpus_role", "")),
         }
         lookup_by_id[doc_id] = info
         title_val = str(row.get("title_url_query", "")).strip()
@@ -142,6 +143,11 @@ def assemble_modeling_units():
             skipped.append((chunk_id, "corrupted text layer (low printable-ASCII ratio, "
                                        "likely broken PDF font encoding)"))
             continue
+        parent_info = lookup_by_id.get(crow["parent_doc_id"], {})
+        if parent_info.get("corpus_role") == "background-literature":
+            skipped.append((chunk_id, "background-literature excluded"))
+            continue
+
         rows.append({
             "unit_id": chunk_id,
             "source_type": "chunk",
@@ -162,6 +168,9 @@ def assemble_modeling_units():
         if info is None:
             continue
         doc_id = info["doc_id"]
+        if info.get("corpus_role") == "background-literature":
+            skipped.append((doc_id, "background-literature excluded"))
+            continue
         if doc_id in chunked_parents or doc_id in resolved_whole_parents:
             continue
         raw_text = open(f, encoding="utf-8", errors="replace").read().strip()

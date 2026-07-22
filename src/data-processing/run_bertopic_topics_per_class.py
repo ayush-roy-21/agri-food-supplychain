@@ -6,9 +6,9 @@ and enriched metadata (modeling_units_metadata.csv), then executes `topics_per_c
 across 6 analytical criteria:
 1. corpus_tier (Corpus A vs. Corpus B)
 2. institutional_pillar (12-category regulatory/discourse source taxonomy)
-3. locus_bucket (Canonical 4-Locus Grid)
-4. logic_bucket (Canonical 5-Verification-Logic Grid)
-5. grid_bucket (Canonical 4x5 Grid: Locus x Logic)
+3. commodity_group (Canonical 4-Locus Grid)
+4. activity_channel (Canonical 5-Verification-Logic Grid)
+5. commodity_x_activity (Canonical 4x5 Grid: Locus x Logic)
 6. digital_system_flag (Yes vs. No digital export platform presence)
 
 Usage:
@@ -54,7 +54,7 @@ def main():
     meta_df = pd.read_csv(metadata_path)
     print(f"    Metadata rows: {len(meta_df)}")
     
-    required_cols = {"corpus_tier", "institutional_pillar", "locus_bucket", "logic_bucket", "grid_bucket", "digital_system_flag"}
+    required_cols = {"corpus_tier", "institutional_pillar", "commodity_group", "activity_channel", "commodity_x_activity", "digital_system_flag"}
     if not required_cols.issubset(set(meta_df.columns)):
         print("[*] Required class variables missing from metadata. Automatically running enrich_metadata_4x5...")
         try:
@@ -114,9 +114,9 @@ def main():
     class_variables = [
         ("corpus_tier", "topics_per_class_corpus_tier.csv"),
         ("institutional_pillar", "topics_per_class_institutional_pillar.csv"),
-        ("locus_bucket", "topics_per_class_locus_bucket.csv"),
-        ("logic_bucket", "topics_per_class_logic_bucket.csv"),
-        ("grid_bucket", "topics_per_class_grid_bucket.csv"),
+        ("commodity_group", "topics_per_class_commodity_group.csv"),
+        ("activity_channel", "topics_per_class_activity_channel.csv"),
+        ("commodity_x_activity", "topics_per_class_commodity_x_activity.csv"),
         ("digital_system_flag", "topics_per_class_digital_system_flag.csv"),
     ]
     

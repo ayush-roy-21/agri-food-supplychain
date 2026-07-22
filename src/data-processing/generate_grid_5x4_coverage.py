@@ -40,7 +40,7 @@ def main():
     rows = []
     for locus in loci_order:
         for logic in logic_order:
-            subset = df[(df["locus_bucket"] == locus) & (df["logic_bucket"] == logic)]
+            subset = df[(df["commodity_group"] == locus) & (df["activity_channel"] == logic)]
             unit_count = len(subset)
             distinct_parent_docs = subset["parent_doc_id"].nunique() if unit_count > 0 else 0
             corpus_a_units = len(subset[subset["corpus_tier"] == "A"])
@@ -54,8 +54,8 @@ def main():
                 coverage_flag = "OK"
                 
             rows.append({
-                "locus_bucket": locus,
-                "logic_bucket": logic,
+                "commodity_group": locus,
+                "activity_channel": logic,
                 "unit_count": unit_count,
                 "distinct_parent_docs": distinct_parent_docs,
                 "corpus_A_units": corpus_a_units,

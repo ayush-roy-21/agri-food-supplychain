@@ -185,8 +185,8 @@ def verify_pipeline_integrity():
 
     # 8. Locus & Verification Logic checks
     if meta_rows is not None and meta_headers is not None:
-        if "locus_bucket" not in meta_headers or "logic_bucket" not in meta_headers:
-            errors.append("modeling_units_metadata.csv is missing locus_bucket or logic_bucket columns.")
+        if "commodity_group" not in meta_headers or "activity_channel" not in meta_headers:
+            errors.append("modeling_units_metadata.csv is missing commodity_group or activity_channel columns.")
         else:
             valid_loci = {
                 "Internal Capability",
@@ -208,8 +208,8 @@ def verify_pipeline_integrity():
             invalid_logics = set()
             
             for r in meta_rows:
-                locus = str(r.get("locus_bucket", "")).strip()
-                logic = str(r.get("logic_bucket", "")).strip()
+                locus = str(r.get("commodity_group", "")).strip()
+                logic = str(r.get("activity_channel", "")).strip()
                 
                 if locus not in valid_loci:
                     invalid_loci.add(locus)
@@ -217,12 +217,12 @@ def verify_pipeline_integrity():
                     invalid_logics.add(logic)
                     
             if invalid_loci:
-                errors.append(f"Invalid locus_bucket values found: {invalid_loci}")
+                errors.append(f"Invalid commodity_group values found: {invalid_loci}")
             else:
                 print("[OK] Locus mapping valid: only canonical 4 Loci present.")
                 
             if invalid_logics:
-                errors.append(f"Invalid logic_bucket values found: {invalid_logics}")
+                errors.append(f"Invalid activity_channel values found: {invalid_logics}")
             else:
                 print("[OK] Verification Logic mapping valid: only canonical 5 Logics present.")
 

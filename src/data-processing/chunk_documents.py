@@ -205,7 +205,7 @@ def main():
         # "de-identified public discourse samples" with no samples attached,
         # or only post titles/URLs with no body/comment text. Log and skip
         # rather than silently modeling near-empty units.
-        if len(content.split()) < 30:
+        if len(content.split()) < 40:
             print(f"    -> Parent [{parent_id}] ({txt_path.name[:45]}...) has only "
                   f"{len(content.split())} words of genuine content after provenance-header "
                   f"removal (was {len(raw_content.split())} words including header). Skipping.")
@@ -302,6 +302,16 @@ def main():
                     print(f"    -> Skipping noisy/corrupted chunk [{c_id}] (DEC-2026-031 exclusion)")
                     continue
                 w_count = len(c_words)
+                if w_count < 40:
+                    print(f"    -> Skipping chunk [{c_id}] (under 40 words, actual: {w_count})")
+                    preamble_strip_log.append({
+                        "doc_id": parent_id,
+                        "source_file": txt_path.relative_to(project_root).as_posix(),
+                        "marker": f"EXCLUDED_CHUNK_UNDER_40_WORDS",
+                        "words_before": w_count,
+                        "words_after": 0,
+                    })
+                    continue
                 w_range_str = f"{word_offset} - {word_offset + w_count - 1}"
                 word_offset += w_count
                 
@@ -397,6 +407,16 @@ def main():
                     print(f"    -> Skipping noisy/corrupted chunk [{c_id}] (DEC-2026-031 exclusion)")
                     continue
                 w_count = len(c_words)
+                if w_count < 40:
+                    print(f"    -> Skipping chunk [{c_id}] (under 40 words, actual: {w_count})")
+                    preamble_strip_log.append({
+                        "doc_id": parent_id,
+                        "source_file": txt_path.relative_to(project_root).as_posix(),
+                        "marker": f"EXCLUDED_CHUNK_UNDER_40_WORDS",
+                        "words_before": w_count,
+                        "words_after": 0,
+                    })
+                    continue
                 w_range_str = f"{word_offset} - {word_offset + w_count - 1}"
                 word_offset += w_count
                 p_range_str = "N/A (Web Scraped / Text Extract)"
