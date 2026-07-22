@@ -1,5 +1,0 @@
-Title: Rpt_Region_Wise_Exporters_New.Aspx
-URL: https://e-mpeda.nic.in/registration/Rpt_Region_Wise_Exporters_new.aspx
-Scraped Date: 2026-07-03T11:21:26.620711
-
-Online Registration System - MPEDA . The Marine Products Export Development Authority (Ministry of Commerce & Industry, Govt. of India) Region-Wise Exporters as on 03-07-2026 Sl.No. Office Manufacturer Exporter (MT) Merchant Exporter (ME) Route-through Merchant Exporter (RX) Ornamental Fish Exporter (OF) Total 1 RD Kochi 123 59 32 10 224 2 RD Vizag 29 13 4 0 46 3 RD Vijayawada 30 25 10 0 65 4 SRD Bhimavaram 26 28 13 0 67 5 SRD Kakinada 15 7 4 0 26 6 RD Chennai 69 53 3 4 129 7 SRD Tuticorin 46 42 1 0 89 8 RD Mangalore 52 19 1 0 72 9 RD Mumbai 71 74 27 2 174 10 RD Bhubaneswar 25 26 15 0 66 11 RD Kolkata 84 56 16 27 183 12 SRD Guwahati 2 3 0 1 6 13 RD Veraval 82 48 17 0 147 14 SRD Porbandar 38 3 7 0 48 15 TPO New Delhi 1 4 4 0 9 16 SRD Hyderabad 5 10 2 0 17 All Offices 698 470 156 44 1368 03-07-2026:11:21:27 SoftWare Design & Hosting Credits : NIC Lakshadweep

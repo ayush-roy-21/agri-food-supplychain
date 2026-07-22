@@ -2,34 +2,28 @@
 
 ## RQ1: What are the primary loci of friction restricting MSME compliance with EU-equivalent import regimes?
 
-The empirical distribution of 433 modeling units across the canonical locus grid reveals that the primary friction restricting MSME compliance is **Informational Verifiability**. 
-- **Informational Verifiability** dominates the discourse with 191 units across 128 distinct parent documents. This suggests that the core bottleneck is not merely producing compliant goods, but the administrative and data-driven burden of *proving* compliance to external regulators.
-- **Internal Capability** is the second most pronounced friction (118 units across 61 documents). This locus captures the tangible, on-the-ground gaps in infrastructure, costs, and skills that MSMEs face.
-- **Relational Power** (36 units) and **Inductive-Other** (27 units) play a comparatively minor role in the aggregate data, indicating that while buyer-supplier power dynamics exist, they are eclipsed by capability and verifiability deficits.
+The empirical distribution of modeling units across the canonical locus grid reveals that the primary friction restricting MSME compliance is **Institutional Voids**.
+- **Institutional Voids** dominates the discourse, manifesting as a massive, undifferentiated monolith of statutory export regulations, plant hygiene mandates, and mandatory destination border sampling. This locus captures the sheer density and complexity of overlapping bureaucratic and regulatory requirements.
+- **Informational Verifiability** is the secondary friction, isolated entirely to EU corporate sustainability reporting directives (CSRD/EUDR) that mandate statutory disclosures and systemic environmental audits across value chains.
 
-## RQ2: How do distinct verification logics mediate the severity and nature of these frictions?
+## RQ2: Hurdle Interlock & Co-occurrence
 
-The severity and nature of frictions are heavily contingent on the specific verification logic being enforced:
-- **Informational Verifiability** is overwhelmingly mediated by *Catch Legality* (39 units) and *Facility & Process Audits* (33 units). In these domains, the friction manifests as a traceability and documentation gap.
-- Conversely, **Internal Capability** frictions are primarily mediated by *Residue & MRL Testing* (29 units) and *Land-Use Geolocation* (15 units). Here, the friction is material—the prohibitive costs of laboratory testing (HPLC/GC-MS) and the technical hurdles of geolocation mapping outstrip the financial capacity of MSMEs.
+Analysis of hurdle co-occurrence reveals zero interlock between the identified frictions within individual documents. The data bifurcates cleanly:
+- Documents addressing the monolithic institutional void of statutory regulations do not co-occur with documents addressing the informational verifiability of EU sustainability directives.
+- This lack of co-occurrence suggests that these hurdles are encountered as distinct, siloed regulatory regimes rather than as compounded, simultaneous burdens on the factory floor.
 
-This mediation demonstrates that "compliance" is not a monolith. Information-heavy logics (audits, catch certificates) induce verifiability friction, whereas capital-intensive logics (residues, spatial polygons) induce internal capability friction.
+## RQ3: Actor Framing Divergence
 
-## RQ3: Where are the structural capability gaps most pronounced along the supply chain gradient?
+The framing of these hurdles diverges significantly between regulatory actors and practitioners, though both ultimately address the same underlying voids. 
+- The statutory monolith (Institutional Voids) is framed across the board—from the Spices Board to APEDA to practitioner media—but with a distinct polarity. Regulators frame these rules as necessary hygiene and border-control architectures, while practitioners experience them as a dense void of overlapping compliance friction.
+- The sustainability reporting mandates (Informational Verifiability) are framed strictly through the lens of EU directives, with little to no localization in the practitioner discourse, indicating a top-down imposition of verifiability requirements that has not yet been translated into bottom-up capability discourse.
 
-An analysis of actor framing across the institutional pillars reveals a profound misalignment in how capability gaps are perceived along the supply chain:
-- **The Regulatory Framing:** Institutional and statutory bodies—most notably EU DG SANTE (32 units), MPEDA (20 units), and the Spices Board (19 units)—overwhelmingly frame the gaps through the lens of *Informational Verifiability*. To regulators, the failure is a lack of data and documentation.
-- **The Practitioner Framing:** In stark contrast, Practitioner & Media Discourse overwhelmingly frames the gap as an *Internal Capability* deficit (102 units). 
+## RQ4: Movement Over Time
 
-This highlights where the gap is most pronounced: at the MSME tier, the gap is fundamentally one of capability (costs, skills, margins), but as the supply chain gradient approaches the regulatory border, it is entirely recast as a verifiability deficit. 
-
-## RQ4: In what specific ways do existing digital systems address or fail to address the identified verifiability deficits?
-
-The data reveals that existing digital systems are failing to address the verifiability deficits at scale:
-- Out of 191 units demonstrating Informational Verifiability friction, only 22 units (11%) mention digital systems (e.g., *TraceNet, ICEGATE, TRACES-NT, FoSCoS*).
-- Furthermore, digital systems are entirely absent from the Internal Capability discourse (0 units). 
+While longitudinal data is sparse due to the cross-sectional nature of the scraping protocol, the emergence of the informational verifiability hurdle is distinctly late-stage:
+- The institutional void hurdle reflects decades-old, entrenched statutory architecture (e.g., FSSAI hygiene standards, FDA border refusals).
+- In contrast, the informational verifiability hurdle is driven entirely by recent (2022-2026) European directives (CSRD), marking a clear chronological shift in the nature of export friction from physical product quality to systemic supply-chain data transparency.
 
 ## Sensitivity Analysis
 
 A negative-control robustness check was performed by refitting the model exclusively on Tier 1 to 3 verified MSME units and comparing the resulting landscape against the full baseline. The pattern is robust to scale attribution. This confirms that the hurdles modeled above accurately reflect structural constraints faced by MSMEs.
-

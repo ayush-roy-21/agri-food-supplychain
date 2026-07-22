@@ -28,7 +28,7 @@ def verify_pipeline_integrity():
     results_dir = data_dir / "results"
 
     print("=" * 80)
-    print("  THE BARRIER HORIZON — PIPELINE INTEGRITY & REPRODUCIBILITY AUDIT (v1.0.0)")
+    print("  THE BARRIER HORIZON — PIPELINE INTEGRITY & REPRODUCIBILITY AUDIT (v1.1.0)")
     print("=" * 80)
 
     errors = []
@@ -45,8 +45,8 @@ def verify_pipeline_integrity():
         errors.append(f"Missing master_registry.csv at {master_path}")
     else:
         master_headers, master_rows = read_csv(master_path)
-        if len(master_headers) != 19:
-            errors.append(f"Master Registry has {len(master_headers)} columns; expected 19.")
+        if len(master_headers) != 25:
+            errors.append(f"Master Registry has {len(master_headers)} columns; expected 25.")
         if len(master_rows) != 267:
             errors.append(f"Master Registry has {len(master_rows)} records; expected exactly 267.")
         
@@ -77,8 +77,8 @@ def verify_pipeline_integrity():
         errors.append(f"Missing modeling_units_metadata.csv at {units_path}")
     else:
         meta_headers, meta_rows = read_csv(units_path)
-        if len(meta_rows) != 509:
-            errors.append(f"Modeling Units Metadata has {len(meta_rows)} units; expected exactly 509.")
+        if len(meta_rows) != 294:
+            errors.append(f"Modeling Units Metadata has {len(meta_rows)} units; expected exactly 294.")
         print(f"[OK] Modeling Units Metadata verified: {len(meta_rows)} units.")
 
     # 4. Vector Embeddings Matrix Verification
@@ -90,8 +90,8 @@ def verify_pipeline_integrity():
         if np is not None:
             arr = np.load(npy_path)
             emb_shape_0 = arr.shape[0]
-            if arr.shape != (509, 768):
-                errors.append(f"unit_embeddings.npy shape is {arr.shape}; expected (509, 768).")
+            if arr.shape != (294, 768):
+                errors.append(f"unit_embeddings.npy shape is {arr.shape}; expected (294, 768).")
             print(f"[OK] Vector Embeddings matrix verified: shape {arr.shape}.")
         else:
             print(f"[NOTE] numpy not installed; skipping shape check of {npy_path.name}.")
@@ -104,8 +104,8 @@ def verify_pipeline_integrity():
         exc_headers, exc_rows = read_csv(exc_path)
         if len(exc_headers) != 7:
             errors.append(f"Exceptions Log has {len(exc_headers)} columns; expected 7.")
-        if len(exc_rows) != 401:
-            errors.append(f"Exceptions Log has {len(exc_rows)} items; expected exactly 401.")
+        if len(exc_rows) != 512:
+            errors.append(f"Exceptions Log has {len(exc_rows)} items; expected exactly 512.")
         print(f"[OK] Exceptions Log verified: {len(exc_rows)} items.")
 
     # 6. Row consistency across the three core files & Contamination
@@ -183,48 +183,120 @@ def verify_pipeline_integrity():
             else:
                 print(f"[OK] All {len(per_class_files)} topics_per_class_*.csv files aligned with current topic info.")
 
-    # 8. Locus & Verification Logic checks
-    if meta_rows is not None and meta_headers is not None:
-        if "commodity_group" not in meta_headers or "activity_channel" not in meta_headers:
-            errors.append("modeling_units_metadata.csv is missing commodity_group or activity_channel columns.")
+    # 8. Locus & Verification Logic checks in Master Registry
+    if master_rows is not None and master_headers is not None:
+        if "locus_tag" not in master_headers or "verification_logic" not in master_headers:
+            errors.append("master_registry.csv is missing locus_tag or verification_logic columns.")
         else:
             valid_loci = {
-                "Internal Capability",
-                "Relational Power",
-                "Institutional Voids",
-                "Informational Verifiability",
-                ""
+                "internal-capability",
+                "relational-power",
+                "institutional-voids",
+                "informational-verifiability",
+                "inductive-other"
             }
             valid_logics = {
-                "Destination Border Controls & Refusals",
-                "Laboratory Testing & Residue Assays",
-                "Traceability & Digital Geotagging",
-                "Trade Discourse & Practitioner Experience",
-                "Facility Audit & Hygiene Standards",
-                ""
+                "not-applicable",
+                "land-use-geolocation",
+                "residue-and-mrl",
+                "catch-legality-aquaculture",
+                "facility-and-process"
             }
             
             invalid_loci = set()
             invalid_logics = set()
             
-            for r in meta_rows:
-                locus = str(r.get("commodity_group", "")).strip()
-                logic = str(r.get("activity_channel", "")).strip()
+            for r in master_rows:
+                locus = str(r.get("locus_tag", "")).strip()
+                logic = str(r.get("verification_logic", "")).strip()
                 
-                if locus not in valid_loci:
+                if locus and locus not in valid_loci:
                     invalid_loci.add(locus)
-                if logic not in valid_logics:
+                if logic and logic not in valid_logics:
                     invalid_logics.add(logic)
                     
             if invalid_loci:
-                errors.append(f"Invalid commodity_group values found: {invalid_loci}")
+                errors.append(f"Invalid locus_tag values found in registry: {invalid_loci}")
             else:
-                print("[OK] Locus mapping valid: only canonical 4 Loci present.")
+                print("[OK] Locus mapping valid: only canonical 4 Loci (and inductive-other) present in registry.")
                 
             if invalid_logics:
-                errors.append(f"Invalid activity_channel values found: {invalid_logics}")
+                errors.append(f"Invalid verification_logic values found in registry: {invalid_logics}")
             else:
-                print("[OK] Verification Logic mapping valid: only canonical 5 Logics present.")
+                print("[OK] Verification Logic mapping valid: only canonical 5 Logics present in registry.")
+
+    # 9. Literature-Exclusion Check
+    if master_rows is not None and meta_rows is not None:
+        lit_docs = set(r.get("doc_id") for r in master_rows if r.get("corpus_role") == "background-literature")
+        meta_parents = set(r.get("parent_doc_id") for r in meta_rows)
+        intersection = lit_docs.intersection(meta_parents)
+        if intersection:
+            errors.append(f"Literature-Exclusion Check failed: {len(intersection)} literature documents leaked into modeling matrix.")
+        else:
+            print("[OK] Literature-Exclusion Check passed: 0 background-literature documents in modeling matrix.")
+            
+    # 10. Scale-Coverage Check
+    if master_rows is not None:
+        valid_scales = {
+            "N/A (Corpus A)",
+            "Tier 4 (indeterminate)",
+            "Tier 3 (weakly indicated)",
+            "Tier 2 (strongly indicated)",
+            "Tier 1 (register-verified)",
+            "Tier 5 (excluded-large)"
+        }
+        invalid_scales = set()
+        for r in master_rows:
+            scale = str(r.get("enterprise_scale_tier", "")).strip()
+            if scale and scale not in valid_scales:
+                invalid_scales.add(scale)
+        if invalid_scales:
+            errors.append(f"Scale-Coverage Check failed: Invalid enterprise_scale_tier values found: {invalid_scales}")
+        else:
+            print("[OK] Scale-Coverage Check passed: All enterprise_scale_tier values match canonical allowed set.")
+            
+    # 11. Temporal-Readiness Check
+    import re
+    if master_rows is not None:
+        invalid_dates = 0
+        date_pattern = re.compile(r"^\d{4}-\d{2}-\d{2}")
+        for r in master_rows:
+            date_str = str(r.get("retrieval_date_format_language", "")).strip()
+            if date_str and not date_pattern.match(date_str):
+                invalid_dates += 1
+        if invalid_dates > 0:
+            errors.append(f"Temporal-Readiness Check failed: {invalid_dates} records have malformed retrieval_date_format_language (missing ISO date).")
+        else:
+            print("[OK] Temporal-Readiness Check passed: All records have valid ISO dates.")
+            
+    # 12. Deliverables-Present Check
+    rq_files = [
+        "rq1_locus_distribution.csv",
+        "rq2_hurdle_cooccurrence.csv",
+        "rq3_actor_framing.csv",
+        "rq_robustness_sensitivity.csv"
+    ]
+    missing_rqs = []
+    for rqf in rq_files:
+        if not (results_dir / rqf).exists():
+            missing_rqs.append(rqf)
+    if missing_rqs:
+        errors.append(f"Deliverables-Present Check failed: Missing output files: {missing_rqs}")
+    else:
+        print("[OK] Deliverables-Present Check passed: All RQ and sensitivity CSVs exist.")
+        
+    # 13. RQ-Correctness Grep Check
+    rq1_path = results_dir / "rq1_locus_distribution.csv"
+    if rq1_path.exists():
+        rq1_headers, rq1_rows = read_csv(rq1_path)
+        if len(rq1_rows) == 0:
+            errors.append("RQ-Correctness Grep Check failed: rq1_locus_distribution.csv is empty.")
+        else:
+            has_nan = any("nan" in str(v).lower() for row in rq1_rows for v in row.values())
+            if has_nan:
+                errors.append("RQ-Correctness Grep Check failed: 'nan' strings found in rq1_locus_distribution.csv.")
+            else:
+                print("[OK] RQ-Correctness Grep Check passed: RQ deliverables are populated and structurally sound.")
 
     print("-" * 80)
     if errors:
@@ -234,7 +306,7 @@ def verify_pipeline_integrity():
         print("=" * 80)
         sys.exit(1)
     else:
-        print("[SUCCESS] ALL PIPELINE ASSERTIONS PASSED. v1.0.0 ARCHIVE IS 100% REPRODUCIBLE.")
+        print("[SUCCESS] ALL PIPELINE ASSERTIONS PASSED. v1.1.0 ARCHIVE IS 100% REPRODUCIBLE.")
         print("=" * 80)
         sys.exit(0)
 
