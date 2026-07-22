@@ -1,0 +1,62 @@
+doc_id,tier,reason,dominant_real_topic,dominant_real_topic_share,source_name_instrument_body,full_text_available,corpus_tier
+A-APEDA-101,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,Corpus A Classified Pool [APEDA],yes,A
+A-APEDA-102,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,Corpus A Classified Pool [APEDA],yes,A
+A-DATA-100,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,Corpus A Classified Pool [DataGov],yes,A
+A-DATA-101,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,Corpus A Classified Pool [DataGov],yes,A
+A-DATA-102,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,Corpus A Classified Pool [DataGov],yes,A
+A-FSSAI-004,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,FSSAI Food Safety and Standards Authority of India Ministry of Health,derived-summary (Section 6.1),A
+A-MPEDA-003,C,"2 real topics present ([1, 11]) - no clean single winner",1.0,0.719,MPEDA Marine Products Export Development Authority,yes,A
+A-MPEDA-004,C,"2 real topics present ([1, 12]) - no clean single winner",12.0,0.09,MPEDA Marine Products Export Development Authority,yes,A
+A-ZED-001,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,Ministry of MSME (zed.msme.gov.in) / NITI Aayog,derived-summary (Section 6.1),A
+A-ZED-002,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,Ministry of MSME (zed.msme.gov.in) / NITI Aayog,derived-summary (Section 6.1),A
+B-GD-005,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / aninews.in (Media & Trade News),yes,B
+B-GD-017,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / prokerala.com (Media & Trade News),yes,B
+B-GD-018,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / aninews.in (Media & Trade News),yes,B
+B-GD-020,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / jagranjosh.com (Media & Trade News),yes,B
+B-GD-021,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / news.webindia123.com (Media & Trade News),yes,B
+B-GD-022,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / dailyexcelsior.com (Media & Trade News),yes,B
+B-GD-023,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / thewhiskeywash.com (Media & Trade News),yes,B
+B-GD-025,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / denverpost.com (Media & Trade News),yes,B
+B-GD-026,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / westword.com (Media & Trade News),yes,B
+B-GD-027,C,"2 real topics present ([4, 5]) - no clean single winner",4.0,0.577,GDELT 2.0 / thehindubusinessline.com (Media & Trade News),yes,B
+B-GD-028,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / timesofindia.indiatimes.com (Media & Trade News),yes,B
+B-GD-029,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / jagranjosh.com (Media & Trade News),yes,B
+B-GD-030,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / prokerala.com (Media & Trade News),yes,B
+B-GD-031,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / theage.com.au (Media & Trade News),yes,B
+B-GD-032,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / theshillongtimes.com (Media & Trade News),yes,B
+B-GD-033,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / ealingtimes.co.uk (Media & Trade News),yes,B
+B-GD-034,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / vietnamnews.vn (Media & Trade News),yes,B
+B-GD-035,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / calcuttanews.net (Media & Trade News),yes,B
+B-GD-036,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / tribuneindia.com (Media & Trade News),yes,B
+B-GD-042,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / thehindubusinessline.com (Media & Trade News),yes,B
+B-GD-044,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / businessworld.in (Media & Trade News),yes,B
+B-GD-054,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / prokerala.com (Media & Trade News),yes,B
+B-GD-062,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / economictimes.indiatimes.com (Media & Trade News),yes,B
+B-GD-063,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / capitalfm.co.ke (Media & Trade News),yes,B
+B-GD-069,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / japanherald.com (Media & Trade News),yes,B
+B-GD-086,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / thehindubusinessline.com (Media & Trade News),yes,B
+B-GD-087,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / news.webindia123.com (Media & Trade News),yes,B
+B-GD-094,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / freepressjournal.in (Media & Trade News),yes,B
+B-GD-095,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / aninews.in (Media & Trade News),yes,B
+B-GD-096,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / ibcworldnews.com (Media & Trade News),yes,B
+B-GD-098,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / newsx.com (Media & Trade News),yes,B
+B-GD-100,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / livemint.com (Media & Trade News),yes,B
+B-GD-101,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / thehindubusinessline.com (Media & Trade News),yes,B
+B-GD-102,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / economictimes.indiatimes.com (Media & Trade News),yes,B
+B-GD-103,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / aninews.in (Media & Trade News),yes,B
+B-GD-104,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / prokerala.com (Media & Trade News),yes,B
+B-GD-107,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / navhindtimes.in (Media & Trade News),yes,B
+B-GD-108,C,100% Topic -1 (outlier) - topic model has no locus opinion for this document,,,GDELT 2.0 / india-briefing.com (Media & Trade News),yes,B
+A-DATA-001,D,no modeling units exist for this document (never chunked/embedded),,,Open Government Data Platform India (data.gov.in) / DGCIS,yes (structured csv),A
+A-INDIA-003,D,no modeling units exist for this document (never chunked/embedded),,,India Code (National Informatics Centre),yes,A
+A-RASFF-001,D,no modeling units exist for this document (never chunked/embedded),,,European Commission Rapid Alert System for Food and Feed (RASFF Portal),derived-summary (Section 6.1),A
+A-SPICE-002,D,no modeling units exist for this document (never chunked/embedded),,,Spices Board Ministry of Commerce & Industry,yes,A
+ASC-001,D,no modeling units exist for this document (never chunked/embedded),,,ASC Aquaculture Stewardship Council Certified Farms Directory,yes,A
+B-REDDIT-002,D,no modeling units exist for this document (never chunked/embedded),,,Reddit / r/india (Public Forum),yes (de-identified),B
+B-REDDIT-003,D,no modeling units exist for this document (never chunked/embedded),,,Reddit / r/farming (Public Forum),yes (de-identified),B
+B-YT-018,D,no modeling units exist for this document (never chunked/embedded),,,YouTube / Commodity Today (Public Practitioner Forum),yes (de-identified),B
+BRCGS-001,D,no modeling units exist for this document (never chunked/embedded),,,BRCGS Directory (Brand Reputation through Compliance Global Standards),yes,A
+GLOBALGAP-001,D,no modeling units exist for this document (never chunked/embedded),,,GLOBALG.A.P. Database Portal,yes,A
+RCAC-001,D,no modeling units exist for this document (never chunked/embedded),,,APEDA Official Portal / AgriExchange,yes,A
+RCAC-002,D,no modeling units exist for this document (never chunked/embedded),,,APEDA Official Portal / AgriExchange,yes,A
+RCAC-003,D,no modeling units exist for this document (never chunked/embedded),,,APEDA Official Portal / AgriExchange,yes,A

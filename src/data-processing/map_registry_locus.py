@@ -67,7 +67,7 @@ def classify_doc(topic_shares: pd.DataFrame) -> dict:
                 f"single real topic ({real_topic}); noise chunks discarded from vote"
                 if noise_present else f"single real topic ({real_topic}), no noise chunks"
             ),
-            "dominant_real_topic": real_topic,
+            "dominant_real_topic": int(real_topic),
             "dominant_real_topic_share": round(float(real_share), 3),
             "all_topic_shares": _fmt_shares(topic_shares),
         }
