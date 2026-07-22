@@ -1,8 +1,8 @@
 Topic,locus_primary,locus_secondary,hurdle_name,evidence_doc_ids,supervisor_signoff
--1,inductive-other,not-applicable,Heterogeneous outlier documents concerning MPEDA scheme evaluations and general unclustered texts.,A-MPEDA-001; B-GD-015; B-YT-002,AR / 2026-07-22
-0,inductive-other,not-applicable,General macroeconomic reporting and government announcements regarding export performance rather than specific firm-level hurdles.,B-GD-001; B-GD-005; B-GD-012; B-GD-020,AR / 2026-07-22
-1,institutional-voids,informational-verifiability,Regulators in destination markets impose temporary increases in official controls and mandatory consignment-wise inspections on Indian exports.,A-EIC-001; A-EU-001; A-EU-002; B-GD-030,AR / 2026-07-22
-2,informational-verifiability,internal-capability,Exporters struggle with the cost and complexity of collecting and processing mandatory geolocation data required for EUDR due diligence.,B-GD-050; B-GD-055; B-GD-060,AR / 2026-07-22
-3,informational-verifiability,not-applicable,Firms face mandatory sustainability reporting and assurance procedures that demand extensive disclosure of corporate metrics.,A-EU-004; A-EU-005; B-GD-090,AR / 2026-07-22
-4,internal-capability,not-applicable,"Firms must upgrade physical infrastructure such as drainage, waste disposal, and pest control to meet mandatory domestic hygienic standards.",A-FSSAI-001; A-FSSAI-002; A-FSSAI-003,AR / 2026-07-22
-5,inductive-other,not-applicable,Academic literature on modern slavery and monitoring technologies that was not filtered from the modeling matrix.,A-LIT-001; A-LIT-002; A-LIT-003,AR / 2026-07-22
+-1,inductive-other,not-applicable,Program evaluation documents and out-of-scope media hits describing fisheries and export promotion schemes.,A-MPEDA-004; B-GD-031; A-EUDR-003,AR / 2026-07-22
+0,inductive-other,not-applicable,Macroeconomic reporting on export performance targets and top-down government advisory circulars without distinct firm-level hurdle mechanisms.,A-APEDA-102; A-IEC-004; A-MPEDA-004,AR / 2026-07-22
+1,institutional-voids,informational-verifiability,Statutory manuals and regulatory registries detailing exporter certification processes and documentation protocols for destination markets.,A-IEC-001; A-IEC-002; A-MPEDA-001,AR / 2026-07-22
+2,informational-verifiability,internal-capability,Sustainability governance frameworks (EUDR/CSDDD) demanding complex supply chain data transparency and corporate social responsibility (CSR) reporting.,A-CSR-100; A-EUDR-100; A-EUDR-102,AR / 2026-07-22
+3,informational-verifiability,not-applicable,EU corporate sustainability reporting directives mandating statutory disclosures and systemic environmental audits across value chains.,A-EUDR-101,AR / 2026-07-22
+4,internal-capability,not-applicable,Domestic FSSAI plant hygiene regulations dictating physical facility standards and internal governance notices for statutory boards.,A-FSSAI-001; A-MPEDA-003,AR / 2026-07-22
+5,inductive-other,not-applicable,Academic literature exploring modern slavery monitoring and technological solutions within global supply chain networks.,A-CSR-101,AR / 2026-07-22
