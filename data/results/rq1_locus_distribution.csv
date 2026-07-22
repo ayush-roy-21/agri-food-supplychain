@@ -1,17 +1,7 @@
 hurdle,locus,unit_count,corpus_a_count,corpus_b_count,scope,msme_specific_or_sector_wide
-Hurdle for Topic -1: -1_trade_said_india_beer,internal-capability,61,18,43,structural,Large-Firm-Only
-Hurdle for Topic 0: 0_mpeda_ex_export_eu,informational-verifiability,95,87,8,structural,Large-Firm-Only
-Hurdle for Topic 1: 1_author_user_sir_iec,informational-verifiability,42,0,42,structural,Sector-Wide
-Hurdle for Topic 2: 2_tea_nepal_india_said,internal-capability,33,0,33,structural,Large-Firm-Only
-Hurdle for Topic 3: 3_export_agricultural_mangoes_district,internal-capability,29,0,29,structural,Sector-Wide
-Hurdle for Topic 4: 4_rice_tonnes_comments_cotton,internal-capability,23,0,23,structural,Large-Firm-Only
-Hurdle for Topic 5: 5_apeda_download_pdf_format,relational-power,19,19,0,specific,Indeterminate
-Hurdle for Topic 6: 6_data_eudr_2025_et al,informational-verifiability,19,19,0,specific,Indeterminate
-Hurdle for Topic 7: 7_fisheries_seafood_exports_value,internal-capability,17,0,17,specific,Sector-Wide
-Hurdle for Topic 8: 8_yogi_farmers_minister_opportunities,relational-power,17,0,17,structural,Large-Firm-Only
-Hurdle for Topic 9: 9_comments_news_india_english,inductive-other,16,0,16,structural,Large-Firm-Only
-Hurdle for Topic 10: 10_sustainability_ar_inf_directive,internal-capability,16,16,0,specific,Indeterminate
-Hurdle for Topic 11: 11_cent_value_exports_volume,informational-verifiability,14,1,13,specific,Large-Firm-Only
-Hurdle for Topic 12: 12_shall_food_meat_storage,informational-verifiability,12,12,0,specific,Indeterminate
-Hurdle for Topic 13: 13_company_growth_fy26_spices,inductive-other,11,0,11,specific,Large-Firm-Only
-Hurdle for Topic 14: 14_slavery_modern slavery_modern_supply,informational-verifiability,9,9,0,specific,Indeterminate
+General macroeconomic reporting and government announcements regarding export performance rather than specific firm-level hurdles.,inductive-other,163,12,151,structural,Sector-Wide
+"Firms must upgrade physical infrastructure such as drainage, waste disposal, and pest control to meet mandatory domestic hygienic standards.",internal-capability,12,12,0,structural,Indeterminate
+Regulators in destination markets impose temporary increases in official controls and mandatory consignment-wise inspections on Indian exports.,institutional-voids,90,84,6,structural,Large-Firm-Only
+Exporters struggle with the cost and complexity of collecting and processing mandatory geolocation data required for EUDR due diligence.,informational-verifiability,23,23,0,specific,Indeterminate
+Firms face mandatory sustainability reporting and assurance procedures that demand extensive disclosure of corporate metrics.,informational-verifiability,15,15,0,specific,Indeterminate
+Academic literature on modern slavery and monitoring technologies that was not filtered from the modeling matrix.,inductive-other,9,9,0,specific,Indeterminate

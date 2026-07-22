@@ -1,34 +1,24 @@
 Topic,Words,Frequency,Class
-0,"fda, import, food, drug, section",6,US FDA / US Regulatory Agencies
--1,"rice, philippines, apeda, advisory, suspension",5,APEDA (Agricultural & Processed Food Authority)
-5,"apeda, download, pdf, format, size",19,APEDA (Agricultural & Processed Food Authority)
-0,"mpeda, scheme, marine, products, evaluation",18,MPEDA (Marine Products Export Authority)
-11,"value, usd, exports, volume, 152",1,MPEDA (Marine Products Export Authority)
-12,"committee, shall, committee shall, women, office",1,MPEDA (Marine Products Export Authority)
--1,"plot, gps, indian exporters, advisory, apeda",1,EU DG SANTE / European Commission
-0,"eu, regulation, european, official, regulation eu",17,EU DG SANTE / European Commission
-6,"data, eudr, 2025, et al, al",15,EU DG SANTE / European Commission
-10,"sustainability, ar, inf, directive, assurance",15,EU DG SANTE / European Commission
-0,"inspection, eic, export, eia, laboratories",5,EIC/EIA (Export Inspection Council)
-0,"export, trade, electronic, certificate, dgft",5,DGFT & Ministry of Commerce
-0,"ex, 2008, spices, 97, 19",19,Spices Board of India
--1,"fssai, export, codex, apeda, inspection",1,FSSAI (Food Safety Authority of India)
-0,"food safety, safety, food, fssai, auditing",3,FSSAI (Food Safety Authority of India)
-12,"shall, food, meat, storage, water",11,FSSAI (Food Safety Authority of India)
--1,"supplier, group, shall, information, suppliers",5,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-6,"projects, carbon, removals, years, partner",4,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-10,"csr, 135, form, companies, statutory",1,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-14,"slavery, modern slavery, modern, supply, actors",9,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
--1,"02, 03, 14, change, 01",6,General Statutory & State Gazette
-0,"inspection, act, gazette, export, notification",14,General Statutory & State Gazette
--1,"trade, said, beer, india, exports",43,Practitioner & Media Discourse
-0,"nutmeg, products, european, export, eu",8,Practitioner & Media Discourse
-1,"author, user, sir, iec, discourse",42,Practitioner & Media Discourse
-2,"tea, nepal, india, said, indian",33,Practitioner & Media Discourse
-3,"export, agricultural, mangoes, district, apeda",29,Practitioner & Media Discourse
-4,"rice, tonnes, comments, cotton, said",23,Practitioner & Media Discourse
-7,"fisheries, seafood, exports, value, minister",17,Practitioner & Media Discourse
-8,"yogi, farmers, minister, opportunities, millet",17,Practitioner & Media Discourse
-9,"comments, news, india, english, highest",16,Practitioner & Media Discourse
-11,"cent, exports, value, volume, cent value",13,Practitioner & Media Discourse
-13,"company, growth, fy26, spices, manufacturing",11,Practitioner & Media Discourse
+-1,"chicken, curry, mpeda, european union, european",3,Practitioner & Media Discourse
+0,"export, exports, tea, said, india",151,Practitioner & Media Discourse
+1,"products, export, trade, gold, regional",6,Practitioner & Media Discourse
+1,"food, fssai, food safety, safety, export",4,FSSAI (Food Safety Authority of India)
+4,"shall, food, meat, storage, water",11,FSSAI (Food Safety Authority of India)
+-1,"mpeda, scheme, impact, evaluation, central sector",6,MPEDA (Marine Products Export Authority)
+0,"value, usd, export, 152, exports",1,MPEDA (Marine Products Export Authority)
+1,"mpeda, marine, products, eu, export",12,MPEDA (Marine Products Export Authority)
+4,"committee, shall, office, women, committee shall",1,MPEDA (Marine Products Export Authority)
+1,"export, trade, dgft, certificate, electronic",5,DGFT & Ministry of Commerce
+1,"msme, zero, food, niti, certification",2,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
+2,"supplier, data, group, projects, shall",8,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
+5,"slavery, modern slavery, modern, supply, actors",9,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
+1,"fda, import, food, section, drug",6,US FDA / US Regulatory Agencies
+1,"ex, 2008, spices, 97, 19",19,Spices Board of India
+0,"rice, philippines, apeda, export, advisory",5,APEDA (Agricultural & Processed Food Authority)
+0,"03, 14, change, 2026, 04",6,General Statutory & State Gazette
+1,"inspection, export, act, gazette, notification",14,General Statutory & State Gazette
+1,"inspection, eic, export, laboratories, testing",5,EIC/EIA (Export Inspection Council)
+-1,"gps, plot, indian exporters, apeda, advisory",1,EU DG SANTE / European Commission
+1,"eu, regulation, european, official, food",17,EU DG SANTE / European Commission
+2,"data, 2025, eudr, 2024, et al",15,EU DG SANTE / European Commission
+3,"sustainability, ar, inf, directive, assurance",15,EU DG SANTE / European Commission

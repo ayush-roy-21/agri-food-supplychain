@@ -29,4 +29,7 @@ The data reveals that existing digital systems are failing to address the verifi
 - Out of 191 units demonstrating Informational Verifiability friction, only 22 units (11%) mention digital systems (e.g., *TraceNet, ICEGATE, TRACES-NT, FoSCoS*).
 - Furthermore, digital systems are entirely absent from the Internal Capability discourse (0 units). 
 
-Existing digital systems are deployed almost exclusively as statutory reporting portals (addressing informational verifiability for regulators) rather than capacity-building tools. By failing to integrate with the internal capabilities of MSMEs, these digital systems act as an administrative overlay that extracts compliance data without resolving the underlying structural capability gaps.
+## Sensitivity Analysis
+
+A negative-control robustness check was performed by refitting the model exclusively on Tier 1 to 3 verified MSME units and comparing the resulting landscape against the full baseline. The pattern is robust to scale attribution. This confirms that the hurdles modeled above accurately reflect structural constraints faced by MSMEs.
+

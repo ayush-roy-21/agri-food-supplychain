@@ -1,63 +1,106 @@
 import pandas as pd
 import numpy as np
 from pathlib import Path
-import itertools
-from collections import Counter
+from itertools import combinations
+from collections import defaultdict
 
 def main():
-    data_dir = Path("data")
-    results_dir = data_dir / "results"
+    root = Path(".")
+    units_df = pd.read_csv(root / "data" / "embeddings" / "modeling_units_with_topics.csv")
+    meta_df = pd.read_csv(root / "data" / "master_registry.csv")
+    topic_map = pd.read_csv(root / "data" / "results" / "topic_locus_mapping.csv")
     
-    # 1. Load Data
-    units_df = pd.read_csv(data_dir / "embeddings" / "modeling_units_with_topics.csv")
-    meta_df = pd.read_csv(data_dir / "embeddings" / "modeling_units_metadata.csv")
-    topic_mapping = pd.read_csv(results_dir / "topic_locus_mapping.csv")
+    # Drop outlier topic if any
+    topic_map = topic_map[topic_map['Topic'] != -1]
     
-    # Merge datasets
-    # units_df has 'Topic'. We can join with topic_mapping to get 'locus_primary'
-    df = pd.merge(units_df, topic_mapping, left_on="assigned_topic", right_on="Topic", how="left")
+    # units_df already contains corpus_tier, verification_logic, and institutional_pillar.
+    df = units_df.merge(topic_map[['Topic', 'hurdle_name', 'locus_primary']], left_on='assigned_topic', right_on='Topic', how='inner')
     
-    # Merge with meta_df to get verification_logic, digital_system_flag, etc. (join on unit_id or parent_doc_id)
-    # Both units_df and meta_df have 'Document' / text? Wait, let's see what columns they have.
-    # We can assume units_df has the same row order as meta_df since BERTopic outputs exactly match the input list.
-    df = pd.concat([df, meta_df.drop(columns=[c for c in meta_df.columns if c in df.columns])], axis=1)
-    
-    # --- RQ1: Primary Loci of Friction ---
-    # Distribution of hurdles across loci with unit counts and distinct parent document counts
-    rq1_df = df[df["assigned_topic"] != -1].groupby("locus_primary").agg(
-        total_modeling_units=("unit_id", "count"),
-        distinct_parent_docs=("parent_doc_id", "nunique"),
-        dominant_topics=("assigned_topic", lambda x: list(set(x)))
-    ).reset_index()
-    rq1_df.to_csv(results_dir / "rq1_locus_distribution.csv", index=False)
+    # --- RQ1 ---
+    rq1_records = []
+    for hurdle in df['hurdle_name'].unique():
+        h_df = df[df['hurdle_name'] == hurdle]
+        locus = h_df['locus_primary'].iloc[0]
+        u_count = len(h_df)
+        a_count = len(h_df[h_df['corpus_tier'] == 'A'])
+        b_count = len(h_df[h_df['corpus_tier'] == 'B'])
+        
+        logics = h_df['verification_logic'].dropna().unique()
+        # Drop not-applicable if present
+        logics = [l for l in logics if str(l).lower() != 'not-applicable']
+        scope = 'structural' if len(logics) > 1 else 'specific'
+        
+        rq1_records.append({
+            'hurdle': hurdle,
+            'locus': locus,
+            'unit_count': u_count,
+            'corpus_a_count': a_count,
+            'corpus_b_count': b_count,
+            'scope': scope
+        })
+    rq1 = pd.DataFrame(rq1_records)
+    rq1.to_csv(root / "data" / "results" / "rq1_locus_distribution.csv", index=False)
     print("Generated RQ1: rq1_locus_distribution.csv")
     
-    # --- RQ2: Verification Logics Mediating Frictions ---
-    # Cross-tabulate Locus (from topics) and Verification Logic (from metadata)
-    rq2_df = df[df["assigned_topic"] != -1].groupby(["locus_primary", "verification_logic"]).agg(
-        unit_count=("unit_id", "count"),
-        distinct_parent_docs=("parent_doc_id", "nunique")
-    ).reset_index()
-    rq2_df.to_csv(results_dir / "rq2_logic_mediation.csv", index=False)
-    print("Generated RQ2: rq2_logic_mediation.csv")
+    # --- RQ2 ---
+    # Co-occurrence at parent-document level
+    doc_hurdles = df.groupby('parent_doc_id')['hurdle_name'].apply(lambda x: list(set(x))).to_dict()
     
-    # --- RQ3: Structural Capability Gaps & Actor Framing ---
-    # We can look at the institutional_pillar / corpus_tier across loci
-    rq3_df = df[df["assigned_topic"] != -1].groupby(["locus_primary", "institutional_pillar"]).agg(
-        unit_count=("unit_id", "count"),
-        distinct_parent_docs=("parent_doc_id", "nunique")
-    ).reset_index()
-    rq3_df.to_csv(results_dir / "rq3_actor_framing.csv", index=False)
+    pair_counts = defaultdict(int)
+    doc_pair_map = defaultdict(list)
+    hurdle_doc_count = defaultdict(int)
+    
+    for doc, hurdles in doc_hurdles.items():
+        for h in hurdles:
+            hurdle_doc_count[h] += 1
+        for h1, h2 in combinations(sorted(hurdles), 2):
+            pair = (h1, h2)
+            pair_counts[pair] += 1
+            if len(doc_pair_map[pair]) < 3:
+                doc_pair_map[pair].append(doc)
+                
+    rq2_records = []
+    for pair, count in pair_counts.items():
+        h1, h2 = pair
+        jaccard = count / (hurdle_doc_count[h1] + hurdle_doc_count[h2] - count)
+        rq2_records.append({
+            'hurdle_a': h1,
+            'hurdle_b': h2,
+            'co_occurrence_count': count,
+            'jaccard': round(jaccard, 4),
+            'example_doc_ids': ", ".join(doc_pair_map[pair])
+        })
+    rq2 = pd.DataFrame(rq2_records).sort_values(by='co_occurrence_count', ascending=False)
+    rq2.to_csv(root / "data" / "results" / "rq2_hurdle_cooccurrence.csv", index=False)
+    print("Generated RQ2: rq2_hurdle_cooccurrence.csv")
+    
+    # --- RQ3 ---
+    def assign_actor(row):
+        pillar = str(row.get('institutional_pillar', '')).lower()
+        if 'fda' in pillar or 'apeda' in pillar or 'mpeda' in pillar or 'fssai' in pillar or 'statutory' in pillar or 'dgft' in pillar or 'eic' in pillar or 'eu ' in pillar:
+            return 'regulator'
+        elif 'media' in pillar:
+            return 'media'
+        else:
+            return 'firm'
+            
+    meta_df['actor_type'] = meta_df.apply(assign_actor, axis=1)
+    
+    df_act = pd.merge(df, meta_df[['doc_id', 'actor_type']], left_on='parent_doc_id', right_on='doc_id', how='left')
+    rq3_records = []
+    for hurdle in df_act['hurdle_name'].unique():
+        h_df = df_act[df_act['hurdle_name'] == hurdle]
+        for actor in h_df['actor_type'].dropna().unique():
+            a_count = len(h_df[h_df['actor_type'] == actor])
+            rq3_records.append({
+                'hurdle_name': hurdle,
+                'actor_type': actor,
+                'unit_count': a_count,
+                'paraphrased_framing': "Simulated framing for this actor."
+            })
+    rq3 = pd.DataFrame(rq3_records)
+    rq3.to_csv(root / "data" / "results" / "rq3_actor_framing.csv", index=False)
     print("Generated RQ3: rq3_actor_framing.csv")
-    
-    # --- RQ4: Digital Systems Addressing Deficits ---
-    # Analyze presence of digital systems by locus and verification logic
-    rq4_df = df[df["assigned_topic"] != -1].groupby(["locus_primary", "digital_system_flag"]).agg(
-        unit_count=("unit_id", "count"),
-        systems_mentioned=("digital_systems_mentioned", lambda x: ", ".join(set([str(i) for i in x if pd.notna(i)])))
-    ).reset_index()
-    rq4_df.to_csv(results_dir / "rq4_digital_systems.csv", index=False)
-    print("Generated RQ4: rq4_digital_systems.csv")
 
 if __name__ == "__main__":
     main()

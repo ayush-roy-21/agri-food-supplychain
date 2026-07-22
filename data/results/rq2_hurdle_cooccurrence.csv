@@ -1,19 +1,3 @@
 hurdle_a,hurdle_b,co_occurrence_count,jaccard,example_doc_ids
-Hurdle for Topic -1: -1_trade_said_india_beer,Hurdle for Topic 9: 9_comments_news_india_english,7,0.1321,"B-GD-009, B-GD-023, B-GD-029"
-Hurdle for Topic -1: -1_trade_said_india_beer,Hurdle for Topic 8: 8_yogi_farmers_minister_opportunities,4,0.0784,"B-GD-032, B-GD-033, B-GD-101"
-Hurdle for Topic -1: -1_trade_said_india_beer,Hurdle for Topic 4: 4_rice_tonnes_comments_cotton,4,0.0702,"B-GD-040, B-GD-043, B-GD-045"
-Hurdle for Topic -1: -1_trade_said_india_beer,Hurdle for Topic 3: 3_export_agricultural_mangoes_district,3,0.05,"B-GD-080, B-GD-082, B-GD-108"
-Hurdle for Topic 9: 9_comments_news_india_english,Hurdle for Topic 13: 13_company_growth_fy26_spices,2,0.1,"B-GD-023, B-GD-098"
-Hurdle for Topic 3: 3_export_agricultural_mangoes_district,Hurdle for Topic 8: 8_yogi_farmers_minister_opportunities,2,0.0714,"B-GD-072, B-GD-078"
-Hurdle for Topic 4: 4_rice_tonnes_comments_cotton,Hurdle for Topic 9: 9_comments_news_india_english,2,0.0645,"B-GD-041, B-GD-052"
-Hurdle for Topic -1: -1_trade_said_india_beer,Hurdle for Topic 11: 11_cent_value_exports_volume,2,0.0377,"B-GD-001, B-GD-002"
-Hurdle for Topic -1: -1_trade_said_india_beer,Hurdle for Topic 2: 2_tea_nepal_india_said,2,0.0339,"B-GD-036, B-GD-057"
-Hurdle for Topic 0: 0_mpeda_ex_export_eu,Hurdle for Topic 9: 9_comments_news_india_english,2,0.0235,"B-GD-089, B-GD-105"
-Hurdle for Topic 8: 8_yogi_farmers_minister_opportunities,Hurdle for Topic 9: 9_comments_news_india_english,1,0.0385,B-GD-101
-Hurdle for Topic 2: 2_tea_nepal_india_said,Hurdle for Topic 9: 9_comments_news_india_english,1,0.0312,B-GD-071
-Hurdle for Topic 3: 3_export_agricultural_mangoes_district,Hurdle for Topic 9: 9_comments_news_india_english,1,0.0294,B-GD-108
-Hurdle for Topic 3: 3_export_agricultural_mangoes_district,Hurdle for Topic 4: 4_rice_tonnes_comments_cotton,1,0.0286,B-GD-027
-Hurdle for Topic -1: -1_trade_said_india_beer,Hurdle for Topic 13: 13_company_growth_fy26_spices,1,0.0204,B-GD-023
-Hurdle for Topic -1: -1_trade_said_india_beer,Hurdle for Topic 5: 5_apeda_download_pdf_format,1,0.0189,A-IEC-004
-Hurdle for Topic 0: 0_mpeda_ex_export_eu,Hurdle for Topic 12: 12_shall_food_meat_storage,1,0.0139,A-MPEDA-003
-Hurdle for Topic 0: 0_mpeda_ex_export_eu,Hurdle for Topic 11: 11_cent_value_exports_volume,1,0.0123,A-MPEDA-004
+General macroeconomic reporting and government announcements regarding export performance rather than specific firm-level hurdles.,Regulators in destination markets impose temporary increases in official controls and mandatory consignment-wise inspections on Indian exports.,2,0.0123,"A-MPEDA-004, B-GD-008"
+"Firms must upgrade physical infrastructure such as drainage, waste disposal, and pest control to meet mandatory domestic hygienic standards.",Regulators in destination markets impose temporary increases in official controls and mandatory consignment-wise inspections on Indian exports.,1,0.0135,A-MPEDA-003
