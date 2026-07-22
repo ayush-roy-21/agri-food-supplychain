@@ -1,23 +1,22 @@
 Topic,Words,Frequency,Class
--1,"export, mpeda, india, exports, said",78,No
-0,"supply, chain, al, supply chain, et",99,No
-1,"eu, ex, export, products, regulation",83,No
-2,"author, user, sir, iec, details",27,No
-3,"tea, nepal, said, india, cardamom",31,No
-4,"export, mangoes, agricultural, apeda, district",26,No
-5,"rice, tonnes, said, million, industry",24,No
-6,"apeda, products, profile, organic, cereals",12,No
-7,"fisheries, seafood, exports, minister, value",18,No
-8,"news, comments, india, highest, english",15,No
-9,"yogi, millet, opportunities, minister, indias",12,No
-10,"ting, sustainability, ar, inf, mation",16,No
-11,"shall, food, meat, storage, water",12,No
-12,"value, cent, volume, exports, export",10,No
--1,"pdf download, format pdf, pdf, format, download",4,Yes
-0,"csr, schedule vii, vii, rural, eligible",1,Yes
-1,"spices, eu, export, food, iec",13,Yes
-2,"author, user, sir, iec, code",14,Yes
-3,"tea, nepal, indian, testing, percent",2,Yes
-6,"apeda, tracenet, eu, vegetables, fruits",7,Yes
-8,"comments, businessline, release, editorial, journalist",1,Yes
-9,"shrestha, ventures, generation, indias, structured",4,Yes
+-1,"apeda, export, food, fssai, indian",4,Yes
+0,"spices, food, eu, export, mpeda",13,Yes
+1,"author, user, iec, sir, hurdles",8,Yes
+5,"apeda, tracenet, fda, eu, iec",4,Yes
+6,"csr, rural, schedule vii, vii, eligible",1,Yes
+-1,"trade, said, india, beer, export",57,No
+0,"mpeda, ex, export, eu, products",82,No
+1,"author, user, sir, iec, discourse",34,No
+2,"tea, nepal, india, said, indian",33,No
+3,"export, agricultural, mangoes, district, apeda",29,No
+4,"rice, tonnes, comments, cotton, said",23,No
+5,"download, apeda, pdf, format, size",15,No
+6,"data, eudr, 2025, et al, al",18,No
+7,"fisheries, seafood, exports, value, minister",17,No
+8,"yogi, farmers, minister, opportunities, millet",17,No
+9,"comments, news, india, english, highest",16,No
+10,"sustainability, ar, inf, directive, assurance",16,No
+11,"cent, value, exports, volume, export",14,No
+12,"shall, food, meat, storage, water",12,No
+13,"company, growth, fy26, spices, manufacturing",11,No
+14,"slavery, modern slavery, modern, supply, actors",9,No

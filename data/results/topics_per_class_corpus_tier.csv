@@ -1,20 +1,20 @@
 Topic,Words,Frequency,Class
--1,"india, exports, said, export, trade",60,B
-0,"url, title, date, centers, cuts",1,B
-1,"nutmeg, products, european, export, eu",9,B
-2,"author, user, sir, iec, comment",41,B
-3,"tea, nepal, said, india, indian",33,B
-4,"export, mangoes, agricultural, apeda, district",26,B
-5,"rice, tonnes, said, million, industry",23,B
-7,"fisheries, seafood, exports, minister, value",18,B
-8,"comments, news, india, english, highest",16,B
-9,"yogi, millet, indias, opportunities, minister",16,B
-12,"value, cent, volume, exports, export",9,B
--1,"mpeda, scheme, export, format pdf, pdf download",22,A
-0,"supply, chain, al, supply chain, et",99,A
-1,"eu, ex, export, spices, products",87,A
-5,"rice, lebanon, imported rice, residues, eu regulations",1,A
-6,"apeda, products, profile, organic, cereals",19,A
-10,"ting, sustainability, ar, inf, mation",16,A
-11,"shall, food, meat, storage, water",12,A
-12,"value, usd, volume, exports, 152",1,A
+-1,"trade, said, beer, india, exports",43,B
+0,"nutmeg, products, european, export, eu",8,B
+1,"author, user, sir, iec, discourse",42,B
+2,"tea, nepal, india, said, indian",33,B
+3,"export, agricultural, mangoes, district, apeda",29,B
+4,"rice, tonnes, comments, cotton, said",23,B
+7,"fisheries, seafood, exports, value, minister",17,B
+8,"yogi, farmers, minister, opportunities, millet",17,B
+9,"comments, news, india, english, highest",16,B
+11,"cent, exports, value, volume, cent value",13,B
+13,"company, growth, fy26, spices, manufacturing",11,B
+-1,"supplier, group, rice, export, change",18,A
+0,"mpeda, ex, export, eu, spices",87,A
+5,"apeda, download, pdf, format, size",19,A
+6,"data, eudr, 2025, et al, al",19,A
+10,"sustainability, ar, inf, directive, assurance",16,A
+11,"value, usd, exports, volume, 152",1,A
+12,"shall, food, meat, storage, water",12,A
+14,"slavery, modern slavery, modern, supply, actors",9,A

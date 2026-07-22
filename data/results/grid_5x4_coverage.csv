@@ -1,4 +1,4 @@
-locus_bucket,logic_bucket,unit_count,distinct_parent_docs,corpus_A_units,corpus_B_units,coverage_flag
+commodity_group,activity_channel,unit_count,distinct_parent_docs,corpus_A_units,corpus_B_units,coverage_flag
 Marine & Aquaculture,Laboratory Testing & Residue Assays,2,2,2,0,THIN (<=2 parent docs)
 Marine & Aquaculture,Destination Border Controls & Refusals,38,21,1,37,OK
 Marine & Aquaculture,Traceability & Digital Geotagging,1,1,1,0,THIN (<=2 parent docs)
