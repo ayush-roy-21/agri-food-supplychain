@@ -189,10 +189,10 @@ def verify_pipeline_integrity():
             errors.append("modeling_units_metadata.csv is missing locus_bucket or logic_bucket columns.")
         else:
             valid_loci = {
-                "Marine & Aquaculture",
-                "Spices & Botanical Herbs",
-                "Horticulture, Cereals & Organic",
-                "Cross-Cutting & Institutional Governance",
+                "Internal Capability",
+                "Relational Power",
+                "Institutional Voids",
+                "Informational Verifiability",
                 ""
             }
             valid_logics = {

@@ -1,28 +1,28 @@
 # CODEBOOK: The Barrier Horizon
 **Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs**
 
-This codebook dictates the canonical qualitative taxonomy governing Corpus A and Corpus B. It outlines the structural mapping rules applied to raw documents during Stage 4 metadata enrichment (`enrich_metadata_4x5.py`) prior to vector embedding. 
+This codebook dictates the canonical qualitative taxonomy governing Corpus A and Corpus B. It outlines the structural mapping rules applied to raw documents during Stage 4 metadata enrichment.
 
 ---
 
-## 1. The Four Loci (Commodity Scopes)
-Documents and modeling units are categorized into one of four primary thematic loci based on substantive commodity exposure.
+## 1. The Four Loci
+Documents and modeling units are categorized into one of four theoretical loci representing the origin and nature of the hurdle facing the MSME.
 
-### 1.1 Marine & Aquaculture
-**Definition**: Pertains to the regulatory hurdles, pre-shipment inspections, and international border compliance mandates targeting the seafood and aquaculture export sector. This locus is fundamentally driven by marine health certification, catch traceability, and residue monitoring mechanisms enforced by institutional bodies such as MPEDA, EIC, EU DG SANTE, and the US FDA/NOAA.
-**Mapping Terms**: `['marine', 'aquaculture', 'seafood', 'shrimp', 'fish', 'mpeda', 'catch', 'eumofa', 'iuu', 'noaa', 'apsada', 'dwpe-alerts', 'asc-certified']`
+### 1.1 Internal Capability
+**Definition**: Encompasses the operational, financial, and technical constraints originating directly from within the MSME itself. This includes the lack of in-house accredited testing laboratories, inadequate capital to invest in HACCP/ISO compliance infrastructure, and insufficient technical know-how to navigate complex international SPS regulations. It represents the firm-level hurdles before interaction with external actors.
+**Mapping Terms**: `['in-house', 'capital', 'training', 'infrastructure', 'compliance cost', 'capacity', 'technical barrier', 'quality control', 'financial constraint']`
 
-### 1.2 Spices & Botanical Herbs
-**Definition**: Encompasses the statutory testing regimes, pathogen monitoring requirements, and non-tariff friction affecting spice exporters. This locus captures both domestic institutional oversight by the Spices Board of India and specific destination market testing constraints such as mandatory sampling for Salmonella, Aflatoxin, and pesticide residue limits (MRLs).
-**Mapping Terms**: `['spice', 'cumin', 'chilli', 'cardamom', 'turmeric', 'qel', 'salmonella', 'aflatoxin', 'eto', 'flavour']`
+### 1.2 Relational Power
+**Definition**: Describes the systemic power asymmetries, negotiating friction, and contractual hurdles between MSMEs and larger, more dominant supply chain actors. This locus covers the struggles of smallholders when dealing with large star export houses, monopolistic third-party logistics providers, intermediary brokers, and large international buyers who dictate pricing and compliance terms.
+**Mapping Terms**: `['buyer', 'contract', 'asymmetry', 'middleman', 'broker', 'logistics provider', 'star export house', 'negotiation', 'pricing power', 'intermediary']`
 
-### 1.3 Horticulture, Cereals & Organic
-**Definition**: Covers the export protocols, phytosanitary requirements, and organic certification standards applicable to fresh produce, cereals (e.g., Basmati rice), and processed horticultural products. It focuses heavily on APEDA's structural mandate, National Programme for Organic Production (NPOP) equivalence, and farm-level traceability systems.
-**Mapping Terms**: `['horticulture', 'cereal', 'rice', 'basmati', 'organic', 'floriculture', 'apeda', 'tracenet', 'hortinet', 'produce', 'fruit']`
+### 1.3 Institutional Voids
+**Definition**: Captures the absence, failure, or inefficiency of supporting regulatory and infrastructural environments. This includes backlogs at government testing laboratories, missing local state-level certification bodies, fragmented multi-agency licensing processes (e.g., FSSAI vs DGFT), and the lack of accessible cold-chain or public transport infrastructure necessary for safe export.
+**Mapping Terms**: `['delay', 'backlog', 'government lab', 'infrastructure', 'cold chain', 'fragmentation', 'multi-agency', 'bureaucracy', 'public transport', 'void']`
 
-### 1.4 Cross-Cutting & Institutional Governance
-**Definition**: Serves as the macro-level aggregation and fallback locus for regulatory frameworks, trade discourse, and institutional policy changes that impact multiple agricultural commodities simultaneously or lack a singular commodity focus. This includes general export-import licensing (IEC), overarching FTP mandates by DGFT, and domestic food safety overlaps via FSSAI.
-**Mapping Terms**: Applies automatically when documents do not match the specific mapping terms of the three primary commodity loci.
+### 1.4 Informational Verifiability
+**Definition**: Details the hurdles associated with proving compliance, product origin, and traceability through digital or documentary means. It focuses on the friction created by mandatory digital governance mechanisms, such as complex TraceNet polygon mapping, EUDR digital geotagging, e-CoO generation, and the opacity of destination border documentary requirements.
+**Mapping Terms**: `['traceability', 'polygon', 'geotagging', 'tracenet', 'eudr', 'digital', 'documentary', 'proof', 'certification', 'opacity', 'verification']`
 
 ---
 
@@ -62,7 +62,7 @@ To prevent the conflation of large capital-rich enterprises with the target MSME
     - **International**: EU DG SANTE, US FDA/NOAA.
 
 ## 4. Term-List Mapping Priority Rules
-When executing automated classification (e.g., via `enrich_metadata_4x5.py`), the parsing engine evaluates strings based on the following prioritization to prevent over-counting generic tags:
+When executing automated classification, the parsing engine evaluates strings based on the following prioritization to prevent over-counting generic tags:
 1. Destination Border Controls & Refusals (Highest evidentiary value)
 2. Laboratory Testing & Residue Assays
 3. Traceability & Digital Geotagging
