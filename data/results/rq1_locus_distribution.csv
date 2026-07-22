@@ -1,3 +1,8 @@
-hurdle,locus,unit_count,corpus_a_count,corpus_b_count,scope,msme_specific_or_sector_wide
-Undifferentiated monolith of statutory export regulations plant hygiene mandates and mandatory destination border sampling.,institutional-voids,279,119,160,structural,Sector-Wide
-EU corporate sustainability reporting directives mandating statutory disclosures and systemic environmental audits across value chains.,informational-verifiability,15,15,0,specific,Indeterminate
+hurdle,locus,unit_count,corpus_a_count,corpus_b_count,scope
+Press release cluster detailing successful APEDA-facilitated fruit exports rather than specific compliance hurdles.,inductive-other,38,3,35,structural
+Statutory hygiene and sanitary regulations mandate specific facility standards and waste disposal practices that challenge the infrastructure capability of petty operators.,internal-capability,14,12,2,structural
+Mandatory consignment-wise inspection schemes and heightened EU border controls impose strict health certification requirements on spice and marine exports.,institutional-voids,89,82,7,structural
+Aggregate export volume and value reporting that functions as a press-release cluster rather than identifying MSME supply chain barriers.,inductive-other,15,1,14,specific
+Ministerial discourse and press coverage encouraging value-added seafood exports rather than describing specific operational compliance hurdles.,inductive-other,19,0,19,specific
+Macro-level trade discourse highlighting government initiatives and FTAs without detailing operational friction.,inductive-other,18,0,18,specific
+Indian authorities mandated laboratory testing on imported Nepali tea which led buyers to suspend purchases and disrupted cross-border trade.,institutional-voids,34,0,34,structural

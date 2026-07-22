@@ -1,13 +1,25 @@
 Topic,Words,Frequency,Class
-0,"eu, regulation, european, official, regulation eu",20,EU DG SANTE / European Commission
-1,"sustainability, ar, directive, assurance, taking",15,EU DG SANTE / European Commission
-0,"act, products, quality, 14, 2026",20,General Statutory & State Gazette
-0,"section, action, states, administrative, source",6,US FDA / US Regulatory Agencies
-0,"trade, electronic, mandatory, general, date",5,DGFT & Ministry of Commerce
-0,"products, value, trade, market, growth",160,Practitioner & Media Discourse
-0,"2008, 19, eu, official, board",19,Spices Board of India
-0,"products, impact, central, eu, assessment",20,MPEDA (Marine Products Export Authority)
-0,"companies, section, date, rs, 2013",4,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-0,"shall, products, used, water, business",15,FSSAI (Food Safety Authority of India)
-0,"approved, control, quality, health, quality control",5,EIC/EIA (Export Inspection Council)
-0,"eu, ee, general, new, products",5,APEDA (Agricultural & Processed Food Authority)
+0,"fda, import, food, section, united states",6,US FDA / US Regulatory Agencies
+-1,"trade, india, said, export, global",31,Practitioner & Media Discourse
+0,"products, european, export, eu, trade",7,Practitioner & Media Discourse
+1,"export, agricultural, apeda, said, farmers",35,Practitioner & Media Discourse
+2,"tea, nepal, said, india, indian",34,Practitioner & Media Discourse
+3,"fisheries, seafood, exports, global, value",19,Practitioner & Media Discourse
+4,"yogi, opportunities, businesses, indias, minister",18,Practitioner & Media Discourse
+5,"cent, exports, value, volume, growth",14,Practitioner & Media Discourse
+6,"curry, cut, oil, meat, cook",2,Practitioner & Media Discourse
+0,"export, trade, dgft, certificate, electronic",5,DGFT & Ministry of Commerce
+0,"eu, regulation, european, official, food",17,EU DG SANTE / European Commission
+0,"ex, 2008, spices, 97, 19",19,Spices Board of India
+0,"fssai, food, food safety, safety, export",4,FSSAI (Food Safety Authority of India)
+6,"shall, food, meat, used, storage",11,FSSAI (Food Safety Authority of India)
+0,"inspection, eic, export, laboratories, control",5,EIC/EIA (Export Inspection Council)
+-1,"mpeda, scheme, impact, evaluation, central sector",8,MPEDA (Marine Products Export Authority)
+0,"mpeda, marine, eu, products, marine products",10,MPEDA (Marine Products Export Authority)
+5,"value, exports, usd, volume, export",1,MPEDA (Marine Products Export Authority)
+6,"shall, committee, office, committee shall, women",1,MPEDA (Marine Products Export Authority)
+-1,"change, 03, 14, 29, 2026",6,General Statutory & State Gazette
+0,"inspection, act, export, gazette, notification",14,General Statutory & State Gazette
+-1,"rice, lebanon, advisory, apeda, dated",2,APEDA (Agricultural & Processed Food Authority)
+1,"rice, philippines, apeda, ee, export",3,APEDA (Agricultural & Processed Food Authority)
+0,"msme, zero, food, niti, certification",2,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)

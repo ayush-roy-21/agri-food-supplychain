@@ -1,29 +1,26 @@
-# Research Questions Findings (Corrected Protocol)
+# Research Findings: Sustainable Supplier Hurdles for Indian Agri-Food MSMEs
 
-## RQ1: What are the primary loci of friction restricting MSME compliance with EU-equivalent import regimes?
+*This write-up corresponds to the authentic, purified dataset after the formal descoping of EUDR/Reddit corpora and the purging of corporate sustainability literature.*
 
-The empirical distribution of modeling units across the canonical locus grid reveals that the primary friction restricting MSME compliance is **Institutional Voids**.
-- **Institutional Voids** dominates the discourse, manifesting as a massive, undifferentiated monolith of statutory export regulations, plant hygiene mandates, and mandatory destination border sampling. This locus captures the sheer density and complexity of overlapping bureaucratic and regulatory requirements.
-- **Informational Verifiability** is the secondary friction, isolated entirely to EU corporate sustainability reporting directives (CSRD/EUDR) that mandate statutory disclosures and systemic environmental audits across value chains.
+## RQ1: The Barrier Horizon (Locus Distribution)
+Following a rigorous 6-step qualitative walkthrough of the true BERT clusters, only **three substantive hurdles** survived the noise gate, while four clusters were correctly identified as generic trade discourse or press releases (and assigned to `inductive-other`). 
+
+The true structural hurdles are:
+1. **Mandatory Consignment-Wise Inspection (Topic 0)**: Heightened EU border controls and EIC schemes impose strict health certification requirements on spice and marine exports. (`institutional-voids` primary)
+2. **Statutory Hygiene and Sanitary Regulations (Topic 6)**: Mandatory facility standards and waste disposal practices challenge the infrastructure capabilities of petty food business operators. (`internal-capability` primary, `institutional-voids` secondary)
+3. **Cross-Border Testing Disruptions (Topic 2)**: Indian authorities mandated laboratory testing on imported Nepali tea, leading buyers to suspend purchases. (`institutional-voids` primary, `relational-power` secondary)
+
+The data decisively points to **Institutional Voids** as the dominant structural problem, driving both border friction and domestic operational disruption.
 
 ## RQ2: Hurdle Interlock & Co-occurrence
-
-Analysis of hurdle co-occurrence reveals zero interlock between the identified frictions within individual documents. The data bifurcates cleanly:
-- Documents addressing the monolithic institutional void of statutory regulations do not co-occur with documents addressing the informational verifiability of EU sustainability directives.
-- This lack of co-occurrence suggests that these hurdles are encountered as distinct, siloed regulatory regimes rather than as compounded, simultaneous burdens on the factory floor.
+The data reveals that structural hurdles rarely operate in isolation. The interlock analysis highlights two key dynamics:
+- **Internal Capability x Institutional Voids (Topic 6)**: FSSAI hygiene mandates (an institutional requirement) directly trigger internal capability deficits. The rule is clear, but the capital required to build compliant drainage, waste disposal, and pest-free facilities forms a hard barrier for MSMEs.
+- **Institutional Voids x Relational Power (Topic 2)**: A sudden institutional mandate (mandatory sampling for Nepal tea) immediately triggers a relational power shift, where buyers respond by suspending purchases. The state imposes the rule, but the buyer executes the punishment.
 
 ## RQ3: Actor Framing Divergence
+When analyzing the textual discourse around these hurdles:
+- **Regulators** frame these mechanisms strictly as necessary food safety and public health mandates (e.g., EIC and FSSAI notifications focus on procedural compliance and hazard exclusion).
+- **Practitioners and Media** focus on the economic disruption and structural asymmetry (e.g., highlighting that buyers suspend purchases, or that petty operators lack the infrastructure to comply). 
 
-The framing of these hurdles diverges significantly between regulatory actors and practitioners, though both ultimately address the same underlying voids. 
-- The statutory monolith (Institutional Voids) is framed across the board—from the Spices Board to APEDA to practitioner media—but with a distinct polarity. Regulators frame these rules as necessary hygiene and border-control architectures, while practitioners experience them as a dense void of overlapping compliance friction.
-- The sustainability reporting mandates (Informational Verifiability) are framed strictly through the lens of EU directives, with little to no localization in the practitioner discourse, indicating a top-down imposition of verifiability requirements that has not yet been translated into bottom-up capability discourse.
-
-## RQ4: Movement Over Time
-
-While longitudinal data is sparse due to the cross-sectional nature of the scraping protocol, the emergence of the informational verifiability hurdle is distinctly late-stage:
-- The institutional void hurdle reflects decades-old, entrenched statutory architecture (e.g., FSSAI hygiene standards, FDA border refusals).
-- In contrast, the informational verifiability hurdle is driven entirely by recent (2022-2026) European directives (CSRD), marking a clear chronological shift in the nature of export friction from physical product quality to systemic supply-chain data transparency.
-
-## Sensitivity Analysis
-
-A negative-control robustness check was performed by refitting the model exclusively on Tier 1 to 3 verified MSME units and comparing the resulting landscape against the full baseline. The pattern is robust to scale attribution. This confirms that the hurdles modeled above accurately reflect structural constraints faced by MSMEs.
+## RQ4: Temporal Readiness (Formally Descoped)
+As logged in `DEC-2026-036`, RQ4 (movement over time) was formally descoped due to the sparse historical multi-year coverage of the specific regulatory mechanisms in the GDELT data. 

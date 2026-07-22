@@ -47,15 +47,15 @@ def verify_pipeline_integrity():
         master_headers, master_rows = read_csv(master_path)
         if len(master_headers) != 25:
             errors.append(f"Master Registry has {len(master_headers)} columns; expected 25.")
-        if len(master_rows) != 267:
-            errors.append(f"Master Registry has {len(master_rows)} records; expected exactly 267.")
+        if len(master_rows) != 253:
+            errors.append(f"Master Registry has {len(master_rows)} records; expected exactly 253.")
         
         corpus_a_count = sum(1 for r in master_rows if r.get("corpus_tier") == "A")
         corpus_b_count = sum(1 for r in master_rows if r.get("corpus_tier") == "B")
-        if corpus_a_count != 117:
-            errors.append(f"Corpus A parent count = {corpus_a_count}; expected 117.")
-        if corpus_b_count != 150:
-            errors.append(f"Corpus B parent count = {corpus_b_count}; expected 150.")
+        if corpus_a_count != 106:
+            errors.append(f"Corpus A parent count = {corpus_a_count}; expected 106.")
+        if corpus_b_count != 147:
+            errors.append(f"Corpus B parent count = {corpus_b_count}; expected 147.")
         print(f"[OK] Master Registry verified: {len(master_rows)} records, {len(master_headers)} columns ({corpus_a_count} A, {corpus_b_count} B).")
 
     # 2. Chunk Manifest Verification
@@ -77,8 +77,8 @@ def verify_pipeline_integrity():
         errors.append(f"Missing modeling_units_metadata.csv at {units_path}")
     else:
         meta_headers, meta_rows = read_csv(units_path)
-        if len(meta_rows) != 294:
-            errors.append(f"Modeling Units Metadata has {len(meta_rows)} units; expected exactly 294.")
+        if len(meta_rows) != 274:
+            errors.append(f"Modeling Units Metadata has {len(meta_rows)} units; expected exactly 274.")
         print(f"[OK] Modeling Units Metadata verified: {len(meta_rows)} units.")
 
     # 4. Vector Embeddings Matrix Verification
@@ -90,8 +90,8 @@ def verify_pipeline_integrity():
         if np is not None:
             arr = np.load(npy_path)
             emb_shape_0 = arr.shape[0]
-            if arr.shape != (294, 768):
-                errors.append(f"unit_embeddings.npy shape is {arr.shape}; expected (294, 768).")
+            if arr.shape != (274, 768):
+                errors.append(f"unit_embeddings.npy shape is {arr.shape}; expected (274, 768).")
             print(f"[OK] Vector Embeddings matrix verified: shape {arr.shape}.")
         else:
             print(f"[NOTE] numpy not installed; skipping shape check of {npy_path.name}.")
