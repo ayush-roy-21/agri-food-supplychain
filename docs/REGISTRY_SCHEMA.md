@@ -7,7 +7,7 @@ To ensure inter-corpus consistency and computational compatibility across multi-
 
 ## 1. Master Registry Schema (`data/master_registry.csv`)
 
-The master registry strictly follows a **19-column relational schema**. Scraper scripts and analytical tools must never alter column ordering or drop required fields.
+The master registry strictly follows a **26-column relational schema**. Scraper scripts and analytical tools must never alter column ordering or drop required fields.
 
 | Col # | Column Name | Data Type | Description & Allowed Values | Example |
 | :---: | :--- | :--- | :--- | :--- |

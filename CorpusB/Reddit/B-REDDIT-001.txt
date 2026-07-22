@@ -2,29 +2,29 @@ Doc ID: B-REDDIT-001
 Platform: Reddit
 Subreddit: r/agriculture
 URL: https://www.reddit.com/r/agriculture/
-Retrieval Date: 2026-07-06
+Retrieval Date: 2026-07-22
 Ethics Clearance: APPROVED
 De-identification Status: Applied per Section 11
 
 --- DE-IDENTIFIED PUBLIC DISCOURSE SAMPLES ---
 
-[1] Title: Should you be worried about screwworms?
-    URL: https://www.reddit.com/r/Agriculture/comments/1uciys3/should_you_be_worried_about_screwworms/
-    Date: 2026-06-22T12:16:59+00:00
+[1] Title: My spring onions crop . South Island New Zealand
+    URL: https://www.reddit.com/r/Agriculture/comments/1v2w5gu/my_spring_onions_crop_south_island_new_zealand/
+    Date: 2026-07-21T21:38:35+00:00
 
-[2] Title: Could lightning-inspired fertilizer be a climate-friendly option for Canadian farmers?
-    URL: https://www.reddit.com/r/Agriculture/comments/1ubvmef/could_lightninginspired_fertilizer_be_a/
-    Date: 2026-06-21T17:18:23+00:00
+[2] Title: Year-round cover crops, an innovative way to manage erosion
+    URL: https://www.reddit.com/r/Agriculture/comments/1uzvtr0/yearround_cover_crops_an_innovative_way_to_manage/
+    Date: 2026-07-18T13:23:51+00:00
 
-[3] Title: DOGE cuts 'gutted’ small KS farm service centers. Bipartisan bill seeks safeguards
-    URL: https://www.reddit.com/r/Agriculture/comments/1u8r8ex/doge_cuts_gutted_small_ks_farm_service_centers/
-    Date: 2026-06-18T00:16:53+00:00
+[3] Title: Can this grass help save India's struggling farmers?
+    URL: https://www.reddit.com/r/Agriculture/comments/1v0cqa6/can_this_grass_help_save_indias_struggling_farmers/
+    Date: 2026-07-19T01:03:06+00:00
 
-[4] Title: Screwworm spreads into 4 more counties
-    URL: https://www.reddit.com/r/Agriculture/comments/1u7n7gq/screwworm_spreads_into_4_more_counties/
-    Date: 2026-06-16T19:17:00+00:00
+[4] Title: Not just produce. Where can 'explosive diarrhea' bug hide in Ohio?
+    URL: https://www.reddit.com/r/Agriculture/comments/1ux7ghm/not_just_produce_where_can_explosive_diarrhea_bug/
+    Date: 2026-07-15T14:27:59+00:00
 
-[5] Title: ‘Agrivoltaics’ can both power AI data centres and increase food production
-    URL: https://www.reddit.com/r/Agriculture/comments/1u8dvny/agrivoltaics_can_both_power_ai_data_centres_and/
-    Date: 2026-06-17T15:46:48+00:00
+[5] Title: Canada has lost millions of hectares of farmland. Where is it all going?
+    URL: https://www.reddit.com/r/Agriculture/comments/1utmq2u/canada_has_lost_millions_of_hectares_of_farmland/
+    Date: 2026-07-11T15:14:07+00:00
 
