@@ -1,0 +1,17 @@
+locus_primary,institutional_pillar,unit_count,distinct_parent_docs
+inductive-other,Practitioner & Media Discourse,27,20
+informational-verifiability,DGFT & Ministry of Commerce,5,5
+informational-verifiability,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR),13,3
+informational-verifiability,EIC/EIA (Export Inspection Council),5,5
+informational-verifiability,EU DG SANTE / European Commission,32,21
+informational-verifiability,FSSAI (Food Safety Authority of India),14,4
+informational-verifiability,General Statutory & State Gazette,14,14
+informational-verifiability,MPEDA (Marine Products Export Authority),20,8
+informational-verifiability,Practitioner & Media Discourse,63,54
+informational-verifiability,Spices Board of India,19,8
+informational-verifiability,US FDA / US Regulatory Agencies,6,6
+internal-capability,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR),1,1
+internal-capability,EU DG SANTE / European Commission,15,1
+internal-capability,Practitioner & Media Discourse,102,59
+relational-power,APEDA (Agricultural & Processed Food Authority),19,10
+relational-power,Practitioner & Media Discourse,17,11

@@ -1,0 +1,7 @@
+locus_primary,digital_system_flag,unit_count,systems_mentioned
+inductive-other,No,27,
+informational-verifiability,No,169,
+informational-verifiability,Yes,22,"e-CoO, TraceNet, TRACES-NT, ICEGATE, e-SANTA, ICEGATE, FoSCoS, ICEGATE, e-SANTA, FoSCoS"
+internal-capability,No,118,
+relational-power,No,32,
+relational-power,Yes,4,"HortiNet, TraceNet, TraceNet"
