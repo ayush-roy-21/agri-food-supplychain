@@ -1,17 +1,21 @@
-locus_primary,institutional_pillar,unit_count,distinct_parent_docs
-inductive-other,Practitioner & Media Discourse,27,20
-informational-verifiability,DGFT & Ministry of Commerce,5,5
-informational-verifiability,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR),13,3
-informational-verifiability,EIC/EIA (Export Inspection Council),5,5
-informational-verifiability,EU DG SANTE / European Commission,32,21
-informational-verifiability,FSSAI (Food Safety Authority of India),14,4
-informational-verifiability,General Statutory & State Gazette,14,14
-informational-verifiability,MPEDA (Marine Products Export Authority),20,8
-informational-verifiability,Practitioner & Media Discourse,63,54
-informational-verifiability,Spices Board of India,19,8
-informational-verifiability,US FDA / US Regulatory Agencies,6,6
-internal-capability,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR),1,1
-internal-capability,EU DG SANTE / European Commission,15,1
-internal-capability,Practitioner & Media Discourse,102,59
-relational-power,APEDA (Agricultural & Processed Food Authority),19,10
-relational-power,Practitioner & Media Discourse,17,11
+hurdle_name,actor_type,unit_count,paraphrased_framing
+Hurdle for Topic -1: -1_trade_said_india_beer,media,43,News reports highlight general macroeconomic trends and the overarching impacts of trade barriers on the national export economy.
+Hurdle for Topic -1: -1_trade_said_india_beer,regulator,18,Institutions emphasize statutory mandates and formal documentation requirements to ensure market compliance and safety.
+Hurdle for Topic 0: 0_mpeda_ex_export_eu,certifier,5,"Certification bodies focus on strict adherence to laboratory testing protocols, emphasizing verifiable residue limits and audit integrity."
+Hurdle for Topic 0: 0_mpeda_ex_export_eu,media,8,News reports highlight general macroeconomic trends and the overarching impacts of trade barriers on the national export economy.
+Hurdle for Topic 0: 0_mpeda_ex_export_eu,regulator,82,Institutions emphasize statutory mandates and formal documentation requirements to ensure market compliance and safety.
+Hurdle for Topic 1: 1_author_user_sir_iec,firm,42,"Practitioners report localized, operational friction, often expressing frustration with digital portal errors, unclear requirements, and direct cost burdens."
+Hurdle for Topic 2: 2_tea_nepal_india_said,media,33,News reports highlight general macroeconomic trends and the overarching impacts of trade barriers on the national export economy.
+Hurdle for Topic 3: 3_export_agricultural_mangoes_district,media,29,News reports highlight general macroeconomic trends and the overarching impacts of trade barriers on the national export economy.
+Hurdle for Topic 4: 4_rice_tonnes_comments_cotton,media,23,News reports highlight general macroeconomic trends and the overarching impacts of trade barriers on the national export economy.
+Hurdle for Topic 5: 5_apeda_download_pdf_format,regulator,19,Institutions emphasize statutory mandates and formal documentation requirements to ensure market compliance and safety.
+Hurdle for Topic 6: 6_data_eudr_2025_et al,regulator,19,Institutions emphasize statutory mandates and formal documentation requirements to ensure market compliance and safety.
+Hurdle for Topic 7: 7_fisheries_seafood_exports_value,media,17,News reports highlight general macroeconomic trends and the overarching impacts of trade barriers on the national export economy.
+Hurdle for Topic 8: 8_yogi_farmers_minister_opportunities,media,17,News reports highlight general macroeconomic trends and the overarching impacts of trade barriers on the national export economy.
+Hurdle for Topic 9: 9_comments_news_india_english,media,16,News reports highlight general macroeconomic trends and the overarching impacts of trade barriers on the national export economy.
+Hurdle for Topic 10: 10_sustainability_ar_inf_directive,regulator,16,Institutions emphasize statutory mandates and formal documentation requirements to ensure market compliance and safety.
+Hurdle for Topic 11: 11_cent_value_exports_volume,media,13,News reports highlight general macroeconomic trends and the overarching impacts of trade barriers on the national export economy.
+Hurdle for Topic 11: 11_cent_value_exports_volume,regulator,1,Institutions emphasize statutory mandates and formal documentation requirements to ensure market compliance and safety.
+Hurdle for Topic 12: 12_shall_food_meat_storage,regulator,12,Institutions emphasize statutory mandates and formal documentation requirements to ensure market compliance and safety.
+Hurdle for Topic 13: 13_company_growth_fy26_spices,media,11,News reports highlight general macroeconomic trends and the overarching impacts of trade barriers on the national export economy.
+Hurdle for Topic 14: 14_slavery_modern slavery_modern_supply,regulator,9,Institutions emphasize statutory mandates and formal documentation requirements to ensure market compliance and safety.
