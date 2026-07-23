@@ -9,11 +9,11 @@ def main():
     registry_path = root / "data" / "master_registry.csv"
     registry = pd.read_csv(registry_path)
     
-    # Identify docs to drop
-    drop_mask = registry['doc_id'].str.contains('EUDR') | \
-                registry['doc_id'].str.contains('REDDIT') | \
-                registry['doc_id'].str.contains('CSR')
-                
+    drop_mask = registry['doc_id'].isin([
+        'A-CSR-100', 'A-CSR-101', 'A-CSR-102',
+        'A-EUDR-100', 'A-EUDR-102',
+        'B-REDDIT-001', 'B-REDDIT-002', 'B-REDDIT-003'  # Reddit stubs already removed
+    ]) | registry['doc_id'].str.contains('REDDIT')
     docs_to_drop = registry[drop_mask]['doc_id'].tolist()
     print(f"Found {len(docs_to_drop)} documents to purge: {docs_to_drop}")
     

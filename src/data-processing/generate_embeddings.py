@@ -130,7 +130,7 @@ def assemble_modeling_units():
         # backslashes (e.g. "CorpusA_Chunks\A-RES-100\...txt"); normalize
         # before joining or every lookup fails on POSIX systems.
         normalized_path = str(crow["chunk_path"]).replace("\\", "/")
-        chunk_path = PROJECT_ROOT / normalized_path
+        chunk_path = PROJECT_ROOT / "data" / normalized_path
         if not chunk_path.exists():
             skipped.append((chunk_id, "chunk file missing on disk"))
             continue
@@ -161,7 +161,7 @@ def assemble_modeling_units():
         })
 
     # 2. Whole-document units for every registered doc NOT already chunked
-    all_txts = list((PROJECT_ROOT / "CorpusA").rglob("*.txt")) + list((PROJECT_ROOT / "CorpusB").rglob("*.txt"))
+    all_txts = list((PROJECT_ROOT / "data" / "CorpusA").rglob("*.txt")) + list((PROJECT_ROOT / "data" / "CorpusB").rglob("*.txt"))
     resolved_whole_parents = set()
     for f in all_txts:
         info = resolve_parent_info(f, lookup_by_id, lookup_by_file)
