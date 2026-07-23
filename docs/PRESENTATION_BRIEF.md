@@ -45,31 +45,30 @@ This document contains the complete, structured content required to generate a h
   * **Phase 2: Scraping Corpus B (The Discourse):** Integrated YouTube Data API and GDELT live news pipelines. Descoped Reddit due to anti-bot walls. Implemented strict automated PII sanitization.
   * **Phase 3: The DQA & Chunking Breakthrough:** Overcame verbosity bias by implementing a "Sub-linear Down-weighting via Ceiling Square-Root Rule" to balance 250-word chunks across the corpus.
   * **Phase 4: GPU Embeddings & BERTopic:** Switched to OpenVINO GPU-accelerated `e5-base-v2` embeddings, creating a 768-dimensional space for the texts.
-  * **Phase 5: The v1.1.0 Noise Gate & Refinement:** Detected data contamination. Purged 111 noisy documents, restored critical EUDR/CSR data, gated out scraper noise (Topics 1, 5, 9, 13), and rebuilt the `locus_tag` strictly from evidence (2:1 weighting).
-* **Visual Suggestion:** A timeline graphic or a "Git Commit History" flow-chart showing: *Scrapers -> DQA/OCR -> Sub-linear Chunking -> GPU Embeddings -> Noise Gate -> v1.1.0 Release.*
+  * **Phase 5: The Object-Anchor Test & v1.1.0 Finalization:** Implemented a strict 3-part conjunctive gate (Actor, Recognition, Chain) to restrict the modeling sample to true MSME experiences. Refitted the BERTopic model to a highly focused 4-topic solution on the remaining verified pass-units.
+* **Visual Suggestion:** A timeline graphic or a "Git Commit History" flow-chart showing: *Scrapers -> DQA/OCR -> Sub-linear Chunking -> GPU Embeddings -> Object Anchor Test -> v1.1.0 Release.*
 
 ---
 
 ## Slide 5: The Four Core Loci (RQ1 Framework)
 * **Headline:** The 4 Dimensions of Export Friction
 * **Content:** Every identified hurdle was qualitatively coded into one of four core decision loci:
-  1. **Internal Capability (15.8%):** The deficit sits inside the firm (money, skills, equipment, cold-chain).
-  2. **Relational Power (4.2%):** A buyer or middleman dictates terms the exporter must accept.
-  3. **Institutional Voids (33.6%):** The rules environment itself is the problem (fragmented, uncertain, overlapping).
-  4. **Informational Verifiability (16.6%):** The firm complies, but cannot credibly prove it (traceability, EUDR data burdens).
-  * *(Remaining 29.7% classified as inductive-other/macro discourse)*
+  1. **Relational Power (61.1%):** A buyer or middleman dictates terms the exporter must accept, transferring economic shock (e.g. EU border testing).
+  2. **Internal Capability (28.5%):** The deficit sits inside the firm (money, skills, equipment, cold-chain).
+  3. **Informational Verifiability (10.4%):** The firm complies, but cannot credibly prove it (traceability, EUDR data burdens).
+  4. **Institutional Voids (Absorbed):** The rules environment itself acts as a cross-cutting secondary dimension (fragmented, overlapping mandates) exacerbating the other three loci.
 * **Visual Suggestion:** A 2x2 matrix or a 4-slice donut chart showing the locus distribution percentages.
 
 ---
 
 ## Slide 6: The Substantive Hurdles (The Data)
 * **Headline:** What is Actually Stopping Trade?
-* **Content:** Out of 15 BERTopic clusters, 11 substantive structural hurdles survived the noise gate. Key highlights:
-  * **Consignment-Wise Inspection (Topic 0):** Heightened EU border controls imposing strict health certification. *(85 units)*
-  * **Cross-Border Testing Disruptions (Topic 2):** Sudden mandates leading buyers to suspend purchases. *(34 units)*
-  * **Pack-House Infrastructure (Topic 3):** Cold-chain concentration leaves rural exporters stranded. *(28 units)*
-  * **EUDR Data Burden (Topic 4):** Extensive geolocation and traceability requirements overwhelming MSMEs. *(22 units)*
-* **Visual Suggestion:** A bar chart ranking the top hurdles by Unit Count (85, 34, 28, 22).
+* **Content:** Out of 5 BERTopic clusters (4 substantive + 1 outlier), the structural hurdles crystalized sharply after the Object Anchor test. Key highlights:
+  * **Market Access & MPEDA/EU Export Infrastructure Costs (Topic 0):** Relational power shifts where buyers push compliance costs down to MSMEs. *(88 units)*
+  * **APEDA Registration & Post-Harvest Bottlenecks (Topic 1):** Capability gaps in basic infrastructure. *(28 units)*
+  * **EUDR & CSRD Sustainability Reporting Burden (Topic 2):** Extensive traceability data requirements overwhelming MSMEs. *(15 units)*
+  * **FSSAI Hygiene Standards & Facility Audits (Topic 3):** Internal facility compliance costs. *(13 units)*
+* **Visual Suggestion:** A bar chart ranking the top hurdles by Unit Count (88, 28, 15, 13).
 
 ---
 
@@ -94,9 +93,9 @@ This document contains the complete, structured content required to generate a h
 ## Slide 9: The v1.1.0 Reproducibility Guarantee
 * **Headline:** 100% Reproducible Research
 * **Content:** 
-  * **345** Noise-Gated Modeling Units
-  * **345 x 768** e5-base-v2 Embedding Matrix
-  * **15** BERTopic Clusters
+  * **152** Verified Modeling Units
+  * **152 x 768** e5-base-v2 Embedding Matrix
+  * **5** BERTopic Clusters (4 Substantive)
   * Verified via `verify_pipeline_integrity.py`
 * **Visual Suggestion:** A glowing green checkmark or a terminal window snippet showing `[SUCCESS] ALL PIPELINE ASSERTIONS PASSED`.
 
