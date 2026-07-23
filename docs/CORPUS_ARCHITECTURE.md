@@ -1,5 +1,5 @@
 # The Barrier Horizon: Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs
-## Corpus Architecture & Institutional Pillar Breakdown
+## Corpus Architecture & Institutional Pillar Breakdown (v1.1.0)
 
 This document details the structural design, routing logic, and thematic scope of **The Barrier Horizon: Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs (CorpusA)**.
 
@@ -134,7 +134,7 @@ Corpus B captures empirical bottom-up operational friction, lived compliance rea
 
 ### 2. Reddit Discussions (`B-RD-`)
 - **Pipeline**: `src/data-collection/reddit_scraper.py`.
-- **Methodology**: Monitors public trade and agricultural exporter forums (`r/agriculture`, `r/farming`, `r/india`) for community compliance discussions, export rejection troubleshooting, and port inspection delays. Includes XML/RSS read-only fallback mechanisms.
+- **Methodology**: This corpus was descoped (per `DEC-2026-036`). Previously monitored public trade and agricultural exporter forums for community compliance discussions. Includes XML/RSS read-only fallback mechanisms.
 
 ### 3. GDELT Trade Media & SPS Alert Stream (`B-GD-`)
 - **Pipeline**: `src/data-collection/gdelt_pipeline.py` $\rightarrow$ `src/data-processing/dqa_filter_gdelt.py` $\rightarrow$ `src/data-processing/separate_gdelt_tiers.py`.
@@ -185,17 +185,15 @@ Crucially, every chunk inherits the exact **empirical multi-dimensional `parent_
 
 To prepare the multi-corpus dataset for downstream BERTopic clustering (`DEC-2026-026`) without re-embedding when testing different analytical hypotheses, `generate_embeddings.py`, `generate_embeddings_openvino.py` (`DEC-2026-029`), and `enrich_metadata_4x5.py` establish a decoupled **Vector Matrix + Enriched Metadata architecture**:
 
-### 1. Unified 509-Unit Vector Matrix (`unit_embeddings.npy`)
-Generated using `intfloat/e5-base-v2` (512-token context window, 768-dimensional L2-normalized embeddings via OpenVINO GPU acceleration). The matrix has shape **`(509, 768)`**, combining:
-- **328 stratified chunk units** from `chunk_manifest.csv` (representing down-weighted multi-page and extended parent documents per `DEC-2026-031` OCR purity filtering).
-- **181 whole-document parent units** (representing short Corpus A circulars, single-chunk docs, and clean DQA-passed Corpus B items not requiring sub-linear chunking).
+### 1. Unified 345-Unit Vector Matrix (`unit_embeddings.npy`)
+Generated using `intfloat/e5-base-v2` (512-token context window, 768-dimensional L2-normalized embeddings via OpenVINO GPU acceleration). The matrix has shape **`(345, 768)`** (after noise gating 87 units from initial 432 units), combining stratified chunk units and whole-document parent units.
 
 ### 2. Enriched Metadata Table (`modeling_units_metadata.csv`)
-Each row ($idx \in [0..508]$) corresponds exactly 1-to-1 with row $idx$ of `unit_embeddings.npy`. Rather than re-running neural embeddings whenever new analytical categories are tested, `enrich_metadata_4x5.py` joins against `master_registry.csv` to append 4 canonical class variables required for `BERTopic.topics_per_class()`:
-- **`corpus_tier`**: `'A'` (257 institutional units) vs `'B'` (252 practitioner/media units).
+Each row ($idx \in [0..344]$) corresponds exactly 1-to-1 with row $idx$ of `unit_embeddings.npy`. Rather than re-running neural embeddings whenever new analytical categories are tested, `enrich_metadata_4x5.py` joins against `master_registry.csv` to append 4 canonical class variables required for `BERTopic.topics_per_class()`:
+- **`corpus_tier`**: `'A'` vs `'B'`.
 - **`institutional_pillar`**: Cleaned 12-category taxonomy (`APEDA`, `Spices Board`, `MPEDA`, `EIC/EIA`, `FSSAI`, `EU DG SANTE`, `US FDA`, `DGFT`, `Domestic Infrastructure`, `Academic Research Pool`, `Practitioner & Media Discourse`).
 - **`locus_bucket` & `logic_bucket` (`grid_bucket`)**: Resolves the 121 high-cardinality `locus_tag` and 97 `verification_logic` free-text values into the canonical **$4 \times 5$ Grid (`4 Loci × 5 Verification Logics`)** under our `DEC-2026-032` evaluation priority hierarchy.
-- **`digital_system_flag` & `digital_systems_mentioned`**: Keyword-tagged boolean presence (`Yes` = 46 units / `No` = 463 units) and explicit naming (`ICEGATE`, `TraceNet`, `HortiNet`, `FoSCoS`, `e-CoO`, `TRACES-NT`, `OASIS`) of digital export platforms across all 509 units.
+- **`digital_system_flag` & `digital_systems_mentioned`**: Keyword-tagged boolean presence and explicit naming (`ICEGATE`, `TraceNet`, `HortiNet`, `FoSCoS`, `e-CoO`, `TRACES-NT`, `OASIS`) of digital export platforms across all 345 units.
 
 ---
 
@@ -217,5 +215,5 @@ To provide complete, connected-prose academic documentation for thesis examinati
    - *Bilateral Scope Delimitation (`RQ2`)*: Delimits destination border friction strictly to `EU DG SANTE`, `US FDA/NOAA`, and `Japan MHLW`; boundary cases involving non-target counterparts (*e.g., India-Nepal tea border testing in Topic 3*) are classified as `RQ2-adjacent / RQ1-outward-manifestation`.
    - *Topic Modeling Micro-Clusters*: Topic 8 ($N=6$, NPOP/TraceNet) is a specialized digital-governance micro-cluster; Topic 9 ($N=6$) is an administrative procedural residual.
    - *Language Script Gate*: Section 10 DQA strict English/ASCII filtering prevents keyword-collision false positives (`\bkw\b`), delimiting discourse to English-language trade media.
-4. **Reproducibility & Data-Availability Statement (`Chapter 4`)**: Formal benchmark release specification under tag **`v1.0.0` (`Empirical Release v1.0.0`)**, supported by the automated runtime assertion engine **`[verify_pipeline_integrity.py](file:///e:/Summer%20Internship%2726/agri-food-project/src/data-processing/verify_pipeline_integrity.py)`**.
+4. **Reproducibility & Data-Availability Statement (`Chapter 4`)**: Formal benchmark release specification under tag **`v1.1.0` (`Empirical Release v1.1.0`)**, supported by the automated runtime assertion engine **`[verify_pipeline_integrity.py](file:///e:/Summer%20Internship%2726/agri-food-project/src/data-processing/verify_pipeline_integrity.py)`**.
 5. **Formal References & Bibliography (`Chapter 5`)**: Complete APA 7th academic citations for empirical literature surfaced in Topic 0 (*e.g., Athukorala & Jayasuriya, Babu & Seshadri, De Paula & Kumar, Fukuda, Groot & Perez, Kareem et al., Unnevehr*), EU regulations (`2019/1793`, `2017/625`, `2023/1115 EUDR`), US statutes (`FSVP 21 CFR Part 1`, `DWPE Import Alerts`), Indian export control laws, and WTO multilateral agreements.

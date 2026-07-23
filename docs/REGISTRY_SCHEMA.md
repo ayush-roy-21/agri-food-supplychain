@@ -1,5 +1,5 @@
 # The Barrier Horizon: Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs
-## Registry Schema & Audit Log Data Dictionary
+## Registry Schema & Audit Log Data Dictionary (v1.1.0)
 
 To ensure inter-corpus consistency and computational compatibility across multi-agent research teams investigating **The Barrier Horizon: Sustainable Supplier Hurdles Facing Indian Agri-Food MSMEs**, all data collection operations in **CorpusA** log into a single source of truth: `data/master_registry.csv`.
 
@@ -7,7 +7,7 @@ To ensure inter-corpus consistency and computational compatibility across multi-
 
 ## 1. Master Registry Schema (`data/master_registry.csv`)
 
-The master registry strictly follows a **26-column relational schema**. Scraper scripts and analytical tools must never alter column ordering or drop required fields.
+The master registry strictly follows a **25-column relational schema**. Scraper scripts and analytical tools must never alter column ordering or drop required fields.
 
 | Col # | Column Name | Data Type | Description & Allowed Values | Example |
 | :---: | :--- | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ The master registry strictly follows a **26-column relational schema**. Scraper 
 | **6** | `title_or_description` | String | Formal document title prefixed by its production context or Section 6.1 disclosure. | `Statutory spices export circular: Mandatory Testing for Salmonella...` |
 | **7** | `dqa_score` | String | Comma-separated 6-dimension DQA grade (`Auth,Rel,Gran,Curr,Comp,Mach`) assigned via empirical document evaluation rather than uniform rubber-stamping. | `A,A,M,A,M,A`, `M,A,A,A,A,A`, `A,A,I,A,I,I` |
 | **8** | `dqa_justification` | String | Detailed dimension-by-dimension rationale explaining exact authority tiers, word count granularity/depth, temporal currency window, completeness, and machine-readability. | `Auth: Tier-1 Primary Statutory... | Rel: High domain relevance... | Gran: Substantive depth (2,140 words)...` |
-| **9** | `full_text_available` | String | Verifies whether primary full text is stored locally (`yes`, `yes (OCR)`, `yes (de-identified)`, `yes (structured csv)`, `derived-summary (Section 6.1)`, `no (queued)`, or `no (image scan - OCR queued)`). Note: All 117 Corpus A parent records have been verified at `yes`, `yes (OCR)`, `derived-summary`, or `yes (structured csv)` (100% machine-readable). Per `DEC-2026-031`, `A-SPICE-002` and `A-SPICE-004` remain registered as `yes` in `master_registry.csv` (registry-valid under initial document recovery), but are explicitly excluded from downstream vector modeling (`unit_embeddings.npy`) once severe OCR font-encoding corruption was found, ensuring historical registry counts and modeling matrices do not tell conflicting stories. | `yes`, `yes (OCR)`, `derived-summary (Section 6.1)` |
+| **9** | `full_text_available` | String | Verifies whether primary full text is stored locally (`yes`, `yes (OCR)`, `yes (de-identified)`, `yes (structured csv)`, `derived-summary (Section 6.1)`, `no (queued)`, or `no (image scan - OCR queued)`). Note: All 112 Corpus A parent records have been verified at `yes`, `yes (OCR)`, `derived-summary`, or `yes (structured csv)` (100% machine-readable). Per `DEC-2026-031`, `A-SPICE-002` and `A-SPICE-004` remain registered as `yes` in `master_registry.csv` (registry-valid under initial document recovery), but are explicitly excluded from downstream vector modeling (`unit_embeddings.npy`) once severe OCR font-encoding corruption was found, ensuring historical registry counts and modeling matrices do not tell conflicting stories. | `yes`, `yes (OCR)`, `derived-summary (Section 6.1)` |
 | **10** | `commodity_scope` | String | Standardized domain tag indicating covered product category. | `spices`, `marine`, `processed-foods`, `sustainability-eudr` |
 | **11** | `target_market` | String | Destination export market or international jurisdiction. | `all`, `USA`, `EU`, `UK`, `Japan` |
 | **12** | `translation_needed` | String | Indicates whether English translation was required (`required`/`not-required`). | `not-required` |
@@ -53,7 +53,7 @@ To maintain absolute empirical rigor and prevent fabricated compliance claims fr
 ## 3. Auxiliary Audit Logs
 
 ### A. Exceptions Log (`data/exceptions_log.csv`)
-Tracks all encountered web documents, navigation pages, search forms, dynamic dashboard shells, or media event stream items that failed DQA admission thresholds across Corpus A and Corpus B (`401 excluded records under a strict 7-column schema`).
+Tracks all encountered web documents, navigation pages, search forms, dynamic dashboard shells, or media event stream items that failed DQA admission thresholds across Corpus A and Corpus B (`599 excluded records under a strict 7-column schema`).
 - **Fields (Strict 7-Column Standard)**: `doc_id_attempted`, `source_name`, `intended_url_or_query`, `attempt_date`, `reason_inaccessible`, `workaround_tried_resolution`, `notes`
 - **Allowed Reason Codes & Rejection Categories**:
   - `Extraction failure / Zero words extracted via pypdf: Scanned image PDF without digital text layer`: Scanned PDF requiring OCR (`A-APEDA-100..102`, `RCAC-001..003`, `A-MPEDA-003`, `A-SPICE-003..004`, `RCAC-200..201`), marked initially as `full_text_available: no (image scan - OCR queued)` to prevent BERTopic from ingesting empty text strings. Note: All such files have now been processed via `ocr_corpus_a.py` and upgraded to `yes (OCR)`. Per `DEC-2026-031`, legacy font encoding/gibberish outputs (`A-SPICE-002`, `A-SPICE-004`) remain registered as `full_text_available: yes` in `master_registry.csv` (registry-valid under initial document recovery), but are explicitly excluded during embedding assembly (`unit_embeddings.npy`) once OCR corruption was found.
@@ -74,10 +74,10 @@ Records major architectural, methodological, and scoping decisions made during c
 
 ## 4. Modeling Units & 4×5 Grid Enrichment Schema (`data/embeddings/modeling_units_metadata.csv`)
 
-To enable downstream comparative topic modeling using `BERTopic.topics_per_class()` across multi-dimensional research criteria (`corpus_tier`, `institutional_pillar`, `4×5 grid`, and `digital_system_flag`) **without re-embedding** the 509-unit vector space (`unit_embeddings.npy`), all modeling units are enriched via `src/data-processing/enrich_metadata_4x5.py`.
+To enable downstream comparative topic modeling using `BERTopic.topics_per_class()` across multi-dimensional research criteria (`corpus_tier`, `institutional_pillar`, `4×5 grid`, and `digital_system_flag`) **without re-embedding** the 345-unit vector space (after noise gating from 432 initial units) (`unit_embeddings.npy`), all modeling units are enriched via `src/data-processing/enrich_metadata_4x5.py`.
 
 ### A. Canonical 4-Locus Grid (`locus_bucket`)
-Resolves the 121 free-text `locus_tag` values into 4 domain-bounded analytical categories:
+Resolves the free-text `locus_tag` values into 4 domain-bounded analytical categories:
 1. **`Marine & Aquaculture`**: Coastal shrimp, fish, marine SPS/IUU enforcement, MPEDA, catch certificates (`apsada-aquaculture-authority`, `eumofa-shrimp-supply-chain-study`, `asc-certified-farms-directory`, `fda-refusal-shrimp-antibiotics`).
 2. **`Spices & Botanical Herbs`**: Spices Board circulars, QEL lab testing, ETO, aflatoxin, Salmonella screening (`spices-consignment-inspection`, `eu-spices-export-protocol`, `fda-refusal-spices-salmonella`).
 3. **`Horticulture, Cereals & Organic`**: Fresh fruits/vegetables, rice/basmati, floriculture, APEDA, TraceNet, HortiNet, organic NPOP (`cereals-export-protocol`, `fresh-produce-hortinet`, `organic-certification-framework`).
@@ -85,14 +85,14 @@ Resolves the 121 free-text `locus_tag` values into 4 domain-bounded analytical c
 
 ### B. Canonical 5-Verification-Logic Grid (`logic_bucket`)
 Resolves the 97 free-text `verification_logic` values into 5 statutory and discourse enforcement mechanisms (`DEC-2026-032` priority-ordered evaluation hierarchy to ensure compound evidentiary tags are captured before generic discourse):
-1. **`Destination Border Controls & Refusals`** (`Priority 1 — 216 units across 114 distinct parent docs`): FDA import alerts/refusals, EU DG SANTE emergency border 20% sampling, RASFF border rejections (`fda-charge-code-801a3-salmonella-pathogen-detection`, `border-rejection-notification-and-30-day-cap-audit`).
-2. **`Laboratory Testing & Residue Assays`** (`Priority 2 — 36 units across 22 distinct parent docs`): Analytical instrumental screening, LC-MS/MS, GC-MS/MS, HPLC, pathogen screening, MRL checks (`mandatory-pathogen-absence-testing-in-25g`, `qel-laboratory-multi-residue-pesticide-screen`, `iso-17025-accredited-instrumental-analysis`).
-3. **`Facility Audit & Hygiene Standards`** (`Priority 3 — 62 units across 40 distinct parent docs`): HACCP, ISO 22000, BRCGS, GFSI, packhouse registration, farm inspection, processing surveillance (`plant-hygiene-and-haccp-compliance`, `unannounced-processing-plant-surveillance`, `gfsi-fssc22000-brcgs-iso17065-recognition`).
-4. **`Traceability & Digital Geotagging`** (`Priority 4 — 12 units across 6 distinct parent docs`): TraceNet, HortiNet, EU Catch Certificate online, plot polygon geolocation, digital IEC/RCMC, lot tracing (`farm-to-port-batch-geotagging`, `icegate-dgft-exim-licensing-integration`, `apeda-tracenet-geojson-polygon-generation-protocol`).
-5. **`Trade Discourse & Practitioner Experience`** (`Fallback — 183 units across 56 distinct parent docs`): Media signaling of trade friction, lived practitioner hurdles, macroeconomic cost breakdowns (`media-signaling-and-border-rejections (external trade friction)`, `practitioner-lived-hurdles (internal & relational friction)`).
+1. **`Destination Border Controls & Refusals`** (`Priority 1 — pre-noise-gate figures: 216 units across 114 distinct parent docs`): FDA import alerts/refusals, EU DG SANTE emergency border 20% sampling, RASFF border rejections (`fda-charge-code-801a3-salmonella-pathogen-detection`, `border-rejection-notification-and-30-day-cap-audit`).
+2. **`Laboratory Testing & Residue Assays`** (`Priority 2 — pre-noise-gate figures: 36 units across 22 distinct parent docs`): Analytical instrumental screening, LC-MS/MS, GC-MS/MS, HPLC, pathogen screening, MRL checks (`mandatory-pathogen-absence-testing-in-25g`, `qel-laboratory-multi-residue-pesticide-screen`, `iso-17025-accredited-instrumental-analysis`).
+3. **`Facility Audit & Hygiene Standards`** (`Priority 3 — pre-noise-gate figures: 62 units across 40 distinct parent docs`): HACCP, ISO 22000, BRCGS, GFSI, packhouse registration, farm inspection, processing surveillance (`plant-hygiene-and-haccp-compliance`, `unannounced-processing-plant-surveillance`, `gfsi-fssc22000-brcgs-iso17065-recognition`).
+4. **`Traceability & Digital Geotagging`** (`Priority 4 — pre-noise-gate figures: 12 units across 6 distinct parent docs`): TraceNet, HortiNet, EU Catch Certificate online, plot polygon geolocation, digital IEC/RCMC, lot tracing (`farm-to-port-batch-geotagging`, `icegate-dgft-exim-licensing-integration`, `apeda-tracenet-geojson-polygon-generation-protocol`).
+5. **`Trade Discourse & Practitioner Experience`** (`Fallback — pre-noise-gate figures: 183 units across 56 distinct parent docs`): Media signaling of trade friction, lived practitioner hurdles, macroeconomic cost breakdowns (`media-signaling-and-border-rejections (external trade friction)`, `practitioner-lived-hurdles (internal & relational friction)`).
 
 ### C. Digital System Presence (`digital_system_flag`)
-Explicit keyword tracking across unit text and title for Indian and international digital export platforms: `TraceNet`, `HortiNet`, `ICEGATE`, `FoSCoS`, `e-CoO`, `e-SANTA`, `TRACES-NT`, and `OASIS`. Populates `digital_system_flag` (`Yes` = 46 units / `No` = 463 units) and `digital_systems_mentioned`.
+Explicit keyword tracking across unit text and title for Indian and international digital export platforms: `TraceNet`, `HortiNet`, `ICEGATE`, `FoSCoS`, `e-CoO`, `e-SANTA`, `TRACES-NT`, and `OASIS`. Populates `digital_system_flag` and `digital_systems_mentioned`.
 
 ### D. Audit Transparency (`data/embeddings/mapping_table_4x5.csv`)
-A standalone 216-row audit lookup table explicitly mapping every unique `locus_tag` and `verification_logic` string to its assigned canonical bucket and methodological justification (`DEC-2026-032`).
+A standalone audit lookup table explicitly mapping every unique `locus_tag` and `verification_logic` string to its assigned canonical bucket and methodological justification (`DEC-2026-032`).

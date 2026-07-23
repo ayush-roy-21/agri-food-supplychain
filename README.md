@@ -10,8 +10,8 @@ A comprehensive, structured institutional data archive and regulatory intelligen
 Indian agricultural and processed food micro, small, and medium enterprises (MSMEs) operate within an increasingly complex global regulatory horizon. Exporting suppliers face severe structural hurdles imposed by overlapping domestic statutory regimes and rigorous international compliance mandates—ranging from zero-tolerance antibiotic screening and pesticide Maximum Residue Levels (MRLs) to mandatory GPS polygon farm geotagging under zero-deforestation due diligence rules.
 
 **The Barrier Horizon** bridges the gap between fragmented institutional notifications, macro-level policy frameworks, and empirical trade policy research by assembling a **dual-corpus architecture**:
-* **Corpus A (Institutional & Statutory Intelligence)**: Authoritative statutory frameworks, operational procedures, circulars, enforcement refusal records, and trade statistics across **11 institutional pillars** (India, European Union, and United States), plus state gazettes and US FDA enforcement data. Every record is curated with strict academic transparency, multi-dimension Data Quality Assessment (DQA), and dual-logging into a unified 19-column master registry (`117 verified parent documents`). Note: Per `DEC-2026-031`, `A-SPICE-002` and `A-SPICE-004` remain registered as `full_text_available: yes` in `master_registry.csv` (registry-valid under initial document recovery), but are explicitly excluded during downstream embedding matrix assembly (`unit_embeddings.npy`) due to legacy OCR font-encoding corruption, ensuring registry counts and modeling matrices remain consistent.
-* **Corpus B (Public Discourse & Practitioner Hurdles)**: Bottom-up operational friction, lived supplier experiences, and media sentiment extracted from YouTube practitioner discussions, Reddit trade forums, and GDELT global news pipelines (`150 verified parent documents`). All public discourse data strictly adheres to our **Section 11 Ethics Protocol**, featuring automated PII de-identification and rigorous DQA filtering.
+* **Corpus A (Institutional & Statutory Intelligence)**: Authoritative statutory frameworks, operational procedures, circulars, enforcement refusal records, and trade statistics across **11 institutional pillars** (India, European Union, and United States), plus state gazettes and US FDA enforcement data. Every record is curated with strict academic transparency, multi-dimension Data Quality Assessment (DQA), and dual-logging into a unified 25-column master registry (`112 verified parent documents`). Note: Per `DEC-2026-031`, `A-SPICE-002` and `A-SPICE-004` remain registered as `full_text_available: yes` in `master_registry.csv` (registry-valid under initial document recovery), but are explicitly excluded during downstream embedding matrix assembly (`unit_embeddings.npy`) due to legacy OCR font-encoding corruption, ensuring registry counts and modeling matrices remain consistent. Per `DEC-2026-037`, six EUDR/CSR documents (`A-EUDR-001/002/003/101`, `A-CSR-001/002`) were restored to the registry after accidental descoping, with full BERTopic refit and evidence-based locus coding.
+* **Corpus B (Public Discourse & Practitioner Hurdles)**: Bottom-up operational friction, lived supplier experiences, and media sentiment extracted from YouTube practitioner discussions and GDELT global news pipelines (`147 verified parent documents`). All public discourse data strictly adheres to our **Section 11 Ethics Protocol**, featuring automated PII de-identification and rigorous DQA filtering.
 
 ---
 
@@ -71,8 +71,8 @@ agri-food-project/
 │   ├── GDELT/                          # Global trade news & SPS alert datasets (Clean MSMEs vs Large Listed)
 │   └── ethics_clearance_log.json       # Section 11 Ethics Protocol clearance log
 ├── data/
-│   ├── master_registry.csv             # Single source of truth (19-column standardized schema, 267 parent records)
-│   ├── exceptions_log.csv              # Audit trail of rejected stubs, shells, and non-agri noise (7-column schema)
+│   ├── master_registry.csv             # Single source of truth (25-column standardized schema, 259 parent records)
+│   ├── exceptions_log.csv              # Audit trail of rejected stubs, shells, noise-gated units, and non-agri noise (7-column schema, 599 records)
 │   ├── decision_log.csv                # Academic decision record for inclusion/rejection rationale
 │   ├── CorpusA/                        # Mirrored data directory containing sub-registries (JSON) & files
 │   ├── processed/                      # Filtered, de-identified, and DQA-audited datasets
@@ -101,7 +101,7 @@ agri-food-project/
     │   ├── reddit_scraper.py           # Reddit PRAW & RSS public discourse scraper (Corpus B)
     │   ├── gdelt_pipeline.py           # GDELT global trade & SPS news event pipeline (Corpus B)
     │   └── entity_allowlist.py         # Entity filtering and allowlist definitions for NLP extraction
-    └── data-processing/                # Data Quality Assessment (DQA), ethics & sanitization modules
+    └── data-processing/                # Data Quality Assessment (DQA), ethics, topic modeling & sanitization modules
         ├── ethics_check.py             # Section 11 Ethics Protocol clearance & compliance verification
         ├── deidentify_youtube_sanitization.py # Automated PII de-identification & masking for discourse
         ├── dqa_filter_youtube.py       # DQA filtering & adequacy assessment for YouTube dossiers
@@ -112,12 +112,19 @@ agri-food-project/
         ├── extract_and_classify_corpus_a.py # Regulatory classification & NLP text extraction utility
         ├── ocr_corpus_a.py             # Tesseract OCR preprocessing pipeline for scanned PDFs & images
         ├── resolve_remaining_queued_a.py # EUR-Lex statutory summary generator (100% readability recovery)
-        ├── generate_embeddings.py      # Generates 509-unit e5-base-v2 embedding matrix (unit_embeddings.npy)
-        ├── generate_embeddings_openvino.py # Intel OpenVINO GPU-accelerated 509-unit vector embedding generator
+        ├── generate_embeddings.py      # Generates e5-base-v2 embedding matrix (unit_embeddings.npy)
+        ├── generate_embeddings_openvino.py # Intel OpenVINO GPU-accelerated vector embedding generator
         ├── enrich_metadata_4x5.py      # Enriches modeling metadata with canonical 4x5 grid & digital system flags
         ├── generate_grid_5x4_coverage.py # Generates exact 20-cell unit and distinct parent doc coverage matrix
         ├── run_bertopic_topics_per_class.py # Multi-criteria BERTopic topics_per_class aggregation orchestrator
-        └── run_dqa_audit.py            # Automated master DQA audit & pipeline execution runner
+        ├── run_dqa_audit.py            # Automated master DQA audit & pipeline execution runner
+        ├── apply_noise_gate.py         # Removes scraper/earnings noise topics from modeling matrices (v1.1.0)
+        ├── rebuild_locus_tag.py        # Rebuilds locus_tag in registry from topic_locus_mapping with 2:1 weighting
+        ├── generate_rq_results.py      # Generates RQ1-RQ4 deliverable CSVs from topic model outputs
+        ├── purge_descoped_data.py      # Safely removes descoped documents using explicit isin() matching
+        ├── propose_topic_locus_tags.py # Initial heuristic locus proposal for new topics (pre-walkthrough)
+        ├── run_sensitivity_analysis.py # Robustness sensitivity analysis across locus distributions
+        └── verify_pipeline_integrity.py # Stage 5 automated pipeline integrity & reproducibility assertion audit
 ```
 
 ---
@@ -197,7 +204,7 @@ python src/data-processing/run_dqa_audit.py
 # Execute YouTube PII de-identification and sanitization pipeline
 python src/data-processing/deidentify_youtube_sanitization.py
 
-# Generate 509-unit e5-base-v2 vector embeddings via OpenVINO GPU acceleration (unit_embeddings.npy)
+# Generate e5-base-v2 vector embeddings via OpenVINO GPU acceleration (unit_embeddings.npy)
 python src/data-processing/generate_embeddings_openvino.py
 
 # Enrich modeling units metadata with canonical 4x5 grid classes & digital system flags
@@ -209,13 +216,22 @@ python src/data-processing/generate_grid_5x4_coverage.py
 # Execute multi-criteria BERTopic topics_per_class aggregation across all institutional dimensions
 python src/data-processing/run_bertopic_topics_per_class.py
 
-# Execute Stage 5 automated pipeline integrity & reproducibility assertion audit (v1.0.0)
+# Execute noise gate to remove scraper/earnings noise topics from modeling matrices (v1.1.0)
+python src/data-processing/apply_noise_gate.py
+
+# Rebuild locus_tag in registry from evidence-based topic_locus_mapping (2:1 primary/secondary weighting)
+python src/data-processing/rebuild_locus_tag.py
+
+# Generate RQ1-RQ4 deliverable CSVs from topic model outputs
+python src/data-processing/generate_rq_results.py
+
+# Execute Stage 5 automated pipeline integrity & reproducibility assertion audit (v1.1.0)
 python src/data-processing/verify_pipeline_integrity.py
 ```
 
 ---
 
-## 📚 Comprehensive Academic Documentation & Reconciled Thesis Reference (`v1.0.0`)
+## 📚 Comprehensive Academic Documentation & Reconciled Thesis Reference (`v1.1.0`)
 
 To support thesis examination, external review, and computational trade policy research, all methodology, empirical limitations, acronym definitions, and formal academic references have been synthesized across our core documentation suite:
 
@@ -224,10 +240,10 @@ To support thesis examination, external review, and computational trade policy r
 | **Unified Methodology & Limitations** | `[METHODOLOGY_AND_LIMITATIONS.md](file:///e:/Summer%20Internship%2726/agri-food-project/docs/METHODOLOGY_AND_LIMITATIONS.md)` | **Chapter 1: Glossary & Acronym Table** (`APEDA`, `MPEDA`, `EIC`, `FSSAI`, `DGFT`, `TraceNet`, `HortiNet`, `FoSCoS`, `e-CoO`, `e-SANTA`, `ICEGATE`, `TRACES-NT`, `RASFF`, `OASIS`, `EUDR`, `CSDDD`, `ZED`, `MRL`, `SPS`, `TBT`, `DQA`).<br>**Chapter 2: Topic Modeling Methodology** (`BERTopic`, `e5-base-v2`, ~250-word chunking / $\lceil\sqrt{N}\rceil$ down-weighting, `UMAP+HDBSCAN`, `topics_per_class`).<br>**Chapter 3: Unified Limitations Chapter** (reconciling public listing bias, untested offline municipal licenses, `DEC-2026-031` OCR boundaries, `RQ2` bilateral target scopes, micro-clusters, and Section 10 DQA English script filtering).<br>**Chapter 4: Reproducibility & Data-Availability Statement** (`v1.0.0` release tag & automated verification engine).<br>**Chapter 5: Formal References & Bibliography** (APA 7th citations for literature and EU/US/Indian statutes). |
 | **Corpus Architecture & RQs** | `[CORPUS_ARCHITECTURE.md](file:///e:/Summer%20Internship%2726/agri-food-project/docs/CORPUS_ARCHITECTURE.md)` | Details the 11 institutional pillars (`Corpus A` & `Corpus B`), Section 11 Ethics protocol, 509-unit vector matrix engineering, and the $5 \times 4$ coverage grid (`DEC-2026-032`). |
 | **Data Collection Protocol** | `[DATA_COLLECTION_PROTOCOL.md](file:///e:/Summer%20Internship%2726/agri-food-project/docs/DATA_COLLECTION_PROTOCOL.md)` | Rigorous step-by-step extraction, DQA evaluation, and Stage 4 MSME verification protocol across all scraper modules. |
-| **Registry Schema & Exceptions** | `[REGISTRY_SCHEMA.md](file:///e:/Summer%20Internship%2726/agri-food-project/docs/REGISTRY_SCHEMA.md)` | Complete data dictionary for `master_registry.csv` (`25 columns`), `chunk_manifest.csv`, and `exceptions_log.csv` (`401 records`). |
+| **Registry Schema & Exceptions** | `[REGISTRY_SCHEMA.md](file:///e:/Summer%20Internship%2726/agri-food-project/docs/REGISTRY_SCHEMA.md)` | Complete data dictionary for `master_registry.csv` (`25 columns`), `chunk_manifest.csv`, and `exceptions_log.csv` (`599 records`). |
 
 ### Reproducibility Guarantee & Verification Command
-All computational results presented in this project corresponds exactly to stable Git release tag **`v1.0.0` (`Empirical Release v1.0.0`)**. Researchers can verify byte-for-byte dataset integrity, exact parent counts (`117 Corpus A + 150 Corpus B = 267 parents`), down-weighted chunk sampling (`383 chunks`), and embedding matrix shapes (`509 × 768`) at any time by executing:
+All computational results presented in this project correspond exactly to stable Git release tag **`v1.1.0`**. Researchers can verify byte-for-byte dataset integrity, exact parent counts (`112 Corpus A + 147 Corpus B = 259 parents`), down-weighted chunk sampling (`383 chunks`), noise-gated modeling units (`345 units`), and embedding matrix shapes (`345 × 768`) at any time by executing:
 ```bash
 python src/data-processing/verify_pipeline_integrity.py
 ```
