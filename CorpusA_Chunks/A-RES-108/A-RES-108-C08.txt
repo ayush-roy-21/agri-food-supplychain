@@ -1,0 +1,141 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-108-C08
+Parent Doc ID: A-RES-108
+Page Range: Page 2
+Word Range: 1780 - 2030
+Word Count: 251
+--------------------
+
+[Page 2]
+Sustainable Production and Consumption 39 (2023) 203–215
+204
+et al., 2021 ). It is clear that digitalization has the potential to improve 
+the SPC in FSC, but it still faces challenges including a conservative 
+perception, a risk-averse culture, lack of technical expertise etc. 
+( Mathews and Tan, 2016 ; Lezoche et al., 2020 ; Diaz-Ruiz et al., 2019 ). 
+Some research papers have looked at environmental studies on SPC but 
+there are few empirical studies on how digital technologies are being 
+used in FSC to study SPC patterns ( Berkhout and Hertin, 2004 ; Li et al., 
+2020 ; Heidenstr ø m and Hebrok, 2022 ). Beier et al. (2018) explored how 
+the industry might achieve sustainable production growth, transparency 
+and resource efficiency through digitization. The dynamic changes in 
+society production and consumption requirements have been addressed 
+by the Sustainable Development Agenda of the United Nations. Addi -
+tionally, UN-SDG-12 guarantees SPC in all economies ( Bengtsson et al., 
+2018 ; Gjorgievski et al., 2022 ). SPC barriers have not been thoroughly 
+researched, and it is yet unknown which barriers prevent the deploy -
+ment of digital technologies. Additionally, the path towards a circular 
+economy (is less explored to achieve SPC in FSC. In emerging economies, 
+the use of digital technology is still in its early stages, necessitating 
+prompt evaluation ( Kurniawan et al., 2022 ). 
+SPC focuses primarily on efficient resource mobilisation and catering 
+to the basic needs of every household. It aims to bring about systemic 
+changes such as minimising the dependence on scarce resources, 
+changing practices and processes for reducing food waste, and 
+enhancing food security ( O'Rourke and Lollo, 2015 ; Deka and Goswami, 
+2022 ). SPC is based on three significant objectives:  
+(a) Decoupling the environmental dilapidation caused by economic 
+growth at the expense of environmental degradation and non- 
+recycled waste; 
+(b) Building the circularity approach across production and con -
+sumption processes from cradle to gate to a cradle to cradle life 
+cycle;  
+(c) Building support systems for new developing countries to become 
+self-reliant and eradicate poverty through low-cost, new and 
+highly competitive technologies. 
+Using modern digital technology, food waste management in a cir -
+cular economy can accomplish the SDGs ( Mak et al., 2020 ). Moreover, 
+food waste circularity will improve the value chain to minimize global 
+greenhouse gas emissions ( Latka et al., 2022 ). The SPC patterns of food 
+products are responsible for numerous environmental and climate 
+changes which have a negative impact on human lifestyles and threaten 
+future generations. As part of the compliance with the Paris Climate 
+Agreement (2015), the SPC pattern is regarded as a strategic method of 
+addressing these issues. As an integral aspect of the SDGs is aimed at 
+achieving sustainable food systems, the European Union suggested a 
+farm-to-fork strategy that ensures an SPC path towards sufficient and 
+healthy food value chains ( UN, 2015 ; Von der Leyen, 2019 ; Kaufmann 
+et al., 2022 ). 
+Previous research indicates that digital technologies are essential for 
+performance improvements ( Govindan et al., 2014 ) and the transition to 
+sustainable food systems ( Joshi and Sharma, 2021 ; Marvin et al., 2022 ). 
+It is noted that utilizing innovative technologies for pre- and post- 
+harvest operations within agri-food value chains is a common aspect 
+of digitalizing agricultural systems. Digital technologies encompass a 
+broader array of tools and technologies, such as big data analytics 
+(BDA), blockchain technology, the Internet of Things (IoT) and others. 
+These technologies together reconfigure, realign and relink processes 
+across organisational processes through continuously innovating busi -
+ness models that aim to increase the value chain and firm-level profit -
+ability ( Cane and Parra, 2020 ; Chauhan et al., 2021 ). Digital 
+technologies provide advantages such as the assurance of inter-firm 
+information exchange throughout supply chains to address lead time, 
+in-transit losses and damages, end-user consumption habits, and overall 
+food safety and security ( Strotmann et al., 2022 ). Additionally, digitally 
+enabled supply chains generate downstream integration to fulfil the 
+needs of the end client ( Annosi et al., 2021 ; Kurniawan et al., 2022 ). 
+Multiple technologies, including BDA, machine learning and deep 
+learning, are used to facilitate connectivity, information gathering and 
+distribution, and data-driven decision-making ( Jun et al., 2021 ). 
+Farooque et al. (2019) studied challenges to the circular food supply 
+chain. Kamble et al. (2019) developed the modelling of IoT adoption 
+hurdles in FSC; Annosi et al. (2019) highlighted the potential of digital 
+technologies to prevent food waste. While earlier studies have addressed 
+the challenges associated with building circular supply chains in the 
+food industry, less attention has been dedicated to the barriers associ -
+ated with applying digital technology to achieve SPC. In addition, 
+strategic options to improve SPC in FSC have not been investigated in 
+previous research. Consequently, the purpose of this study is to address 
+the following two significant research questions: 
+RQ1: What barriers exist in the implementation of digital technology 
+to achieve SPC in the FSC? 
+RQ2: What are the potential strategic solutions for overcoming bar -
+riers in the FSC's deployment of digital technology to attain SPC? 
+The current study proposes a framework for investigating and 
+assessing the most significant barriers to the use of digital technologies 
+in FSC in order to achieve SPC. Integrated BWM-LBWA-CoCoSo meth -
+odologies have been utilised in this work. Based on the food sector de -
+cision-makers' responses, the proposed framework has been evaluated. 
+The study's most significant implications are the analysis of barriers to 
+the application of digital technologies in FSC from a CE perspective. The 
+study provides the following significant contributions:  
+• Critical barriers to implementing digital technologies in FSC to 
+achieve SPC are identified, assessed and ranked.  
+• Strategic solutions for mitigating the adverse effect of barriers in 
+implementing digital technologies for SPC in FSC are offered. 
+The order of the subsequent sections of the paper is as follows. 
+Section 2 discusses the literature review on the existing barriers to 
+digitization in FSC in order to attain SPC. The third section describes the 
+study's research methodology. In Section 4 , the achieved results are 
+discussed. Strategy mapping is presented in Section 5 . Section 6 con -
+cludes the study. 
+2. Literature review 
+Prior studies have evaluated sustainability of the FSC. Govindan and 
+Hasanagic (2018) demonstrated the barriers and possible solutions for 
+Nomenclature 
+A
+B 
+Best-to-Others vector 
+Aw Others-to-Worst vector 
+BWM Best Worst Method 
+CoCoSo Combined Compromise Solution 
+CI Consistency Index 
+CR Consistency Ratio 
+CE Circular Economy 
+LBWA Level Based Weight Assessment 
+w Weights 
+SDG Sustainable Development Goals 
+ξ * Consistency index 
+r
+0 
+the elasticity coefficient 
+K
+ia 
+arithmetic mean of WSM and WPM scores 
+K
+ib 
+sum of WSM and WPM scores 
+K
+ic 
+balanced compromise score of WSM and WPM  
+M. Sharma et al.

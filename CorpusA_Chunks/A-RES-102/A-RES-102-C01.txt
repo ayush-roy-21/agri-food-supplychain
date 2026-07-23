@@ -1,0 +1,106 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-102-C01
+Parent Doc ID: A-RES-102
+Page Range: Page 1
+Word Range: 1 - 250
+Word Count: 250
+--------------------
+
+[Page 1]
+Avail able online at www .sciencedirect.com
+Digital transformation of the agri-food system
+Mahdi Vahdanjoo , Claus Grøn Sørensen and Michael Nørremark 
+The purpose of this paper is to examine the role of digital 
+transformation in the agri-food sector. The study emphasizes 
+digitalization as both an enabler of production efficiency and a 
+radical innovator, redesigning business models and agricultural 
+practices. The study explores the development of applications 
+and products that connect consumers, supply chain actors, 
+and producers, leading to customized food products. It 
+highlights the notion of circular agri-food systems for feedback 
+loops in the value chain, minimizing waste and integrating 
+environmental and social values. Also, the paper explores the 
+challenges in digital adoption, including technical barriers, 
+privacy, and security concerns. To overcome these challenges, 
+an interdisciplinary approach is proposed, merging 
+technological, ecological, economic, and governance insights. 
+Key needs identified for successful digital transformation 
+include enhanced data processing, technological convergence, 
+sustainability awareness, interoperability, and user adoption. 
+The conclusion stresses the importance of invoking systemic 
+thinking, user-friendly designs, and interdisciplinary 
+collaboration in making sure that digital innovations enable a 
+sustainable and resilient food production system.
+Address
+Aarhus University, Department of Electrical and Computer Engineering, 
+Blichers Allé 20, DK-8830 Tjele, Denmark  
+Corresponding author:  
+Sørensen, Claus Grøn ( claus.soerensen@ece.au.dk )
+Current Opinion in Food Science 2025, 63 :101287
+This review comes from a themed issue on Innovations in Food 
+Science
+Edited by Davide Giacalone
+For complete overview of the section, please refer to the article 
+collection, “ Innovations in Food Science 2024 ”
+Available online 24 February 2025
+https://doi.org/10.1016/j.cofs.2025.101287
+2214–7993/© 2025 The Author(s). Published by Elsevier Ltd. This is 
+an open access article under the CC BY license ( http:// 
+creativecommons.org/licenses/by/4.0/ ).
+Introduction
+A healthy, attractive, sustainable, and scalable food 
+system is crucial for Green Transition and requires en -
+abling Digital Transformation. Sustainable agri-food 
+systems involve large-scale coordination of farming and 
+value chain operations, resource use, and food chains, 
+and they require extensive digital devices and infra -
+structure technologies to enable and provide data and 
+digital information chains [1] . Digitalization develops in 
+two main pathways: 1) as an incremental enabler of 
+production efficiency and sustainability metrics, policy 
+monitoring, and so on, and 2) as an enabler of radical 
+innovation and systemic changes, new redesigned pro -
+cesses, new business models, as a game-changer by 
+changing farmer identity, farm work, farmer skills, 
+ownership, privacy, and ethics [2] .
+A key digital innovation is to enable/enhance the inter -
+linking (hyper-connecting) of consumers and producers 
+in innovative ways by developing innovative applica -
+tions, differentiating products, and reaching an advanced 
+level of food product customization, feeding back in -
+formation to the production. This creates an extended 
+diversity of needs, requirements, and preferences. In 
+this way, besides working with the farm-to-fork concept, 
+engagement and demand-driven food production (from 
+fork to farm) will be pursued at the same time [3] . De -
+cision-making by various stakeholders in the food 
+system will become more efficient as information flows 
+will become transparent, providing only the information 
+relevant to a specific decision [4] .
+Digital transformation
+Digital transformation refers to a comprehensive change in 
+business strategies, management models, and operations by 
+incorporating digital technologies (DTs). It encompasses the 
+digitalization of processes and the formation of extended 
+supply chain relationships and making use of the internet in 
+various aspects of the business. This transformation will lead 
+to improved products and services, more efficient opera -
+tions, cost reductions, and a competitive advantage in the 
+market [5–7] .
+DTs are diverse and complex and often divided into four 
+groups: efficiency technologies (e.g. Cloud Computing), 
+connectivity technologies (e.g. Internet of Things [IoT]), 
+trust disintermediation technologies (e.g. Blockchain), and 
+automation technologies (e.g. Artificial Intelligence (AI) and 
+Big Data) [8] . The process includes a ‘digitization’ stage 
+converting from analog to digital data, a ‘digitalization’ stage 
+incorporating specific DTs into various business processes, 
+and a final ‘digital transformation’ stage representing a 
+comprehensive and widespread adoption of DTs, leading to 
+new business models and a transformation of the logic and 
+value-creation process. Figure 1 represents some of the 
+technologies applied in digital transformation.
+]]
+]] 
+]]]]]]
+www.sciencedirect.com Current Opinion in Food Science 2025, 63 :101287

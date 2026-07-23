@@ -1,0 +1,119 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-107-C09
+Parent Doc ID: A-RES-107
+Page Range: Page 3
+Word Range: 2211 - 2460
+Word Count: 250
+--------------------
+
+[Page 3]
+Marques et al. 1059
+at the supplier (means–end decoupling) and at the focal ﬁrm
+(policy–practice decoupling).
+The Global South offers opportunities to research unstable
+macroeconomic conditions and unique social issues (Aguinis
+et al., 2020; Özkazanç-Pan, 2008). OSCM scholarship has so
+far emphasised the misbehaviour of Global South suppliers
+as the key cause of unsustainability (see: Asif, 2020; Vil-
+lena, 2018) while proposing that Global North focal ﬁrms
+are the ones responsible for changing the status quo (see:
+Gold et al., 2013; Villena and Gioia, 2018). The predomi-
+nant assumptions have ascribed power and autonomy to focal
+ﬁrms while blaming weaker partners in the Global South
+for risks related to greenwashing or modern slavery condi-
+tions (Carmagnac et al., 2022; Glover and Touboulic, 2020).
+Y et, (North)buyer–(South)supplier relationships are often dis-
+guised as collaborative, even though they are actually detri-
+mental to the supplier side (Chen et al., 2022). Moreover,
+focal ﬁrm collaboration through third-party certiﬁcation can
+‘fracture over time’, therefore ‘eroding’ trust in joint auditing
+efforts (Benstead et al., 2018, p. 2307). The failure of supplier
+audit schemes has often been used an excuse to support the vic-
+timisation of focal ﬁrms (Parmigiani and Rivera-Santos, 2015;
+Silvestre, 2015; Wu and Jia, 2018). Thus, our work offers a
+critique of such dynamics, exposing focal ﬁrm liability for per-
+petuating unfair purchasing practices that lead to decoupling
+and modern slavery risk.
+In the remainder of this article, we discuss the theoretical
+background, followed by the methodology and the elements of
+IBR. Next, we present the ﬁndings and discussion, including
+ﬁve propositions. Finally, conclusions are provided along with
+future research directions.
+2 Theoretical Background
+2.1 T ransaction Costs in Supply Chain T ransparency
+Transaction costs include the costs of negotiating, implement-
+ing and monitoring a focal ﬁrm’s supply contracts (Emery
+and Marques, 2011). Transaction costs are driven by bounded
+rationality and opportunism. The former assumes that cog-
+nitive competence is a limited resource. Thus, transactions
+that demand signiﬁcant cognitive capacity will tend to be
+costly, and contracts will be incomplete (Williamson, 2008).
+The latter assumes that economic actors pursuing self-interest
+may engage in incomplete or distorted information disclosure
+(McIvor, 2009). Bounded rationality and opportunism thus
+increase transaction costs, which are barriers to market gov-
+ernance. As noted by Lumineau and Oliveira (2020, p. 74),
+‘if individuals never engaged in opportunistic behaviour, then
+the market would sufﬁce for the mediation of all transactions’.
+Therefore, focal ﬁrms tend to be attracted by alternatives,
+such as those offered by new technology, which can alleviate
+transaction costs.
+Opportunistic behaviour and the associated transaction
+costs that are incurred to prevent it from happening have
+been widely discussed. Moreover, transaction cost theory has
+become a top-of-mind lens in OSCM scholarship (Touboulic
+and Walker, 2015b), which has expanded on the notions
+of transaction costs from the dyad to discussing challenges
+related to multitier supply chains (Meinlschmidt et al., 2018).
+In the Global South context, research has emphasised insti-
+tutional voids, that is, the lack of legislation enforcement,
+mock compliance from suppliers and focal ﬁrms’ disregard for
+supplier violations, all pointing towards supplier opportunism
+(Huq and Stevenson, 2018). In 2020, Lumineau and Oliveira
+(2020) called for an increased focus the study of opportunism
+and for future research on new technologies (e.g., blockchain).
+The authors also invited research on empirical contexts
+beyond the US and Europe. The more complex the supply
+chain, the higher the transaction costs will be to control suppli-
+ers and the higher the information asymmetry, which prevents
+the exposure of organisational misconduct. Information asym-
+metry thus hinders public scrutiny and supports misconduct
+(Marshall et al., 2016).
+Fashion supply chains are particularly salient regarding
+misconduct for two main reasons. First, misconduct is par-
+ticularly hard to trace, given its complexity and dispersion,
+and modern slavery often does not occur within the focal
+ﬁrms’ direct purview but rather beyond the ﬁrst-tier suppli-
+ers (Busse et al., 2016; Nath et al., 2020; Tachizawa and
+W ong, 2015). Further, multi-sourcing is a common practice
+in the fashion industry, and such strategies have been posited
+as a way to conceal buyer misconduct (Kim et al., 2019).
+Multi-sourcing accompanied by multitiered structures thus
+concentrate the labour force in labour-intensive (tier-2) sewing
+cells,
+4 also called sweatshops to denote modern slavery. In
+these sewing cells, which are mostly located in low-cost coun-
+tries, informal arrangements prevail and fragile regulation
+limits social control. Ultimately, supply network complexity
+may result in a strain between the means and ends, which
+may be used as justiﬁcations for inaction (Caruana et al.,
+2020).
+The second reason fashion supply chains are rife with mis-
+conduct is the difﬁculty in deﬁning how unacceptable working
+conditions must be to constitute modern slavery. Modern
+slavery involves workers’ physical and mental conditions at
+work (Christ et al., 2020). Even when freedom of move-
+ment may be preserved, precarious working conditions may
+constitute modern slavery (Kahya, 2007; Wiengarten et al.,
+2021). Appendix 1 presents the associated terminologies (see:
+e-companion).
+Improving supply chain transparency to trace instances of
+less-extreme versions of poor working conditions in supply
+chains can reveal darker versions of forced labour, which are
+the most difﬁcult to expose. Tracing modern slavery within
+multitiered structures is a particular challenge (Busse et al.,
+2016). The transaction costs of third-party audits are high,
+even for large focal ﬁrms that resort to cooperation and
+resource sharing in audit schemes (Benstead et al., 2021).
+However, some large focal ﬁrms have developed their own
+standards based on the argument that there is no one-size-

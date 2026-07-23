@@ -136,33 +136,43 @@ def main():
             shutil.rmtree(p)
         p.mkdir(parents=True, exist_ok=True)
         
-    # Collect candidate files across Corpus A (>=600 words) and specific must-chunk/borderline GDELT files (>=1400 words plus B-GD-007, B-GD-101)
-    all_corpus_a_txts = list((project_root / "CorpusA").rglob("*.txt"))
-    all_corpus_b_txts = list((project_root / "CorpusB").rglob("*.txt"))
+    # Gather all raw text files first to resolve their paths
+    all_corpus_a_txts = list((project_root / "data" / "CorpusA").rglob("*.txt"))
+    all_corpus_b_txts = list((project_root / "data" / "CorpusB").rglob("*.txt"))
     
-    candidates = []
-    for f in all_corpus_a_txts:
-        # Exclude A-MPEDA-002 if stray
+    # Build a reverse lookup from resolved doc_id -> raw txt path
+    txt_by_doc_id = {}
+    for f in all_corpus_a_txts + all_corpus_b_txts:
         if "A-MPEDA-002" in f.name:
             continue
-        try:
-            raw = open(f, encoding="utf-8", errors="replace").read()
-            clean, _ = strip_provenance_preamble(raw)
-            words = clean.split()
-            if len(words) >= 400:
-                candidates.append((f, "A"))
-        except Exception:
-            pass
+        tier = "A" if "CorpusA" in f.parts else "B"
+        info = get_parent_info(f, tier)
+        if info:
+            txt_by_doc_id[info["doc_id"]] = (f, tier)
+
+    candidates = []
+    # Build candidates list strictly from active registry rows
+    for _, row in df_master.iterrows():
+        doc_id = str(row['doc_id']).strip()
+        if doc_id in EXCLUDED_NOISY_PARENTS:
+            continue
             
-    for f in all_corpus_b_txts:
-        try:
-            raw = open(f, encoding="utf-8", errors="replace").read()
-            clean, _ = strip_provenance_preamble(raw)
-            words = clean.split()
-            # User specifically noted B-GD-007, B-GD-101, and B-GD-071 plus borderline files
-            if f.stem in ["B-GD-007", "B-GD-101", "B-GD-071"] or len(words) >= 400:
-                candidates.append((f, "B"))
-        except Exception:
+        if doc_id in txt_by_doc_id:
+            txt_path, tier = txt_by_doc_id[doc_id]
+            try:
+                raw = open(txt_path, encoding="utf-8", errors="replace").read()
+                clean, _ = strip_provenance_preamble(raw)
+                words = clean.split()
+                if tier == "A" and len(words) >= 400:
+                    candidates.append((txt_path, tier))
+                elif tier == "B":
+                    if txt_path.stem in ["B-GD-007", "B-GD-101", "B-GD-071"] or len(words) >= 400:
+                        candidates.append((txt_path, tier))
+            except Exception:
+                pass
+        else:
+            # We skip printing warnings for missing files as it could flood output,
+            # but we explicitly only chunk files present in the registry.
             pass
 
     print(f"[*] Total target documents identified for chunking: {len(candidates)}")
@@ -174,7 +184,6 @@ def main():
     for txt_path, tier in sorted(candidates, key=lambda x: x[0].name):
         parent_info = get_parent_info(txt_path, tier)
         if not parent_info:
-            print(f"[!] Warning: Could not resolve parent ID for {txt_path.name}. Skipping.")
             continue
             
         parent_id = parent_info["doc_id"]

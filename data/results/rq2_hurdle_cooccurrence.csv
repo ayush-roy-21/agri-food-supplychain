@@ -1,4 +1,4 @@
+# Core N = 88 Documents (144 Units)
 hurdle_a,hurdle_b,co_occurrence_count,jaccard,example_doc_ids
-Macro-level trade discourse highlighting government initiatives and free trade agreements without detailing operational firm-level compliance friction.,"Pack-house and cold-chain infrastructure is concentrated in a few districts, leaving exporters outside those clusters without EU-compliant post-harvest facilities.",2,0.069,"B-GD-072, B-GD-078"
-Mandatory consignment-wise inspection schemes and heightened EU border controls impose strict health certification requirements on spice and marine exports.,Statutory hygiene and sanitary regulations mandate specific facility standards and waste disposal practices that challenge the infrastructure capability of petty operators.,1,0.0141,A-MPEDA-003
-Aggregate national export volume and value reporting that functions as a press-release cluster rather than identifying specific MSME supply chain barriers.,Mandatory consignment-wise inspection schemes and heightened EU border controls impose strict health certification requirements on spice and marine exports.,1,0.0125,A-MPEDA-004
+FSSAI Hygiene Standards & Facility Audit Compliance,Market Access & MPEDA/EU Export Infrastructure Costs,1,0.0141,A-MPEDA-003
+APEDA Registration & Post-Harvest Infrastructure Bottlenecks,Market Access & MPEDA/EU Export Infrastructure Costs,1,0.0118,B-GD-093

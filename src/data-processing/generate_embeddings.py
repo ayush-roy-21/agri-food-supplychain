@@ -79,6 +79,7 @@ def build_parent_lookup(df_master: pd.DataFrame):
             "dqa_score": str(row.get("dqa_context_score", "")),
             "full_text_available": str(row.get("full_text_available", "")),
             "corpus_role": str(row.get("corpus_role", "")),
+            "anchor_verdict": str(row.get("anchor_verdict", "")),
         }
         lookup_by_id[doc_id] = info
         title_val = str(row.get("title_url_query", "")).strip()
@@ -147,6 +148,9 @@ def assemble_modeling_units():
         if parent_info.get("corpus_role") == "background-literature":
             skipped.append((chunk_id, "background-literature excluded"))
             continue
+        if parent_info.get("anchor_verdict") != "pass":
+            skipped.append((chunk_id, f"Failed anchor test ({parent_info.get('anchor_verdict')})"))
+            continue
 
         rows.append({
             "unit_id": chunk_id,
@@ -170,6 +174,9 @@ def assemble_modeling_units():
         doc_id = info["doc_id"]
         if info.get("corpus_role") == "background-literature":
             skipped.append((doc_id, "background-literature excluded"))
+            continue
+        if info.get("anchor_verdict") != "pass":
+            skipped.append((doc_id, f"Failed anchor test ({info.get('anchor_verdict')})"))
             continue
         if doc_id in chunked_parents or doc_id in resolved_whole_parents:
             continue

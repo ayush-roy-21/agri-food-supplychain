@@ -1,0 +1,126 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-109-C12
+Parent Doc ID: A-RES-109
+Page Range: Page 5 to Page 6
+Word Range: 2903 - 3152
+Word Count: 250
+--------------------
+
+[Page 5]
+articles as irrelevant (criteria 5) with a focus on food and bioenergy (biofuel), the production
+process of food, animal welfare, etc., and the remaining 1,091 articles were then shortlisted
+for further appraisal.
+We adopted a comparative approach to the analysis of the data, in which we divided all
+papers into two roughly equal parts (Vogel and Güttel, 2013). Initially, we performed an
+analysis of 377 research papers published between 2002 and 2014. Then, we added the rest
+of 714 articles and repeated the same analysis from the period 2002 to 2018. By comparing
+the result of these two-time sliced articles, it is possible to find the research direction and the
+contribution of the recent research articles to the literature on SC in SME food industry.
+2.3 Bibliographic coupling (BC) network and cluster analysis
+Bibliometric and network analysis tools are used in a systematic review to identify and
+cluster significant research concepts. A bibliometric network is a weighted network
+consisting of nodes and edges. The node represents a knowledge actor like a research paper,
+authors, journal, authors ’ institute/country or keywords. The edge between two nodes
+denotes the relationship between them. The five commonly studied edge relationship
+includes citation, co-citation, BC, co-author and co-word analysis (Zupic and Cater, 2015). A
+BC connects journals, authors or documents with respect to the number of shared
+references. Among the bibliometric networks, BC could capture the research dynamics from
+past to present, as it includes the most recent contributions (Vogel and Güttel, 2013). The
+bibliographic strength between the two articles is defined by the number of items shared by
+these two articles in their reference records (Zhao and Strotmann, 2008). Boyack and
+Klavans (2010) compared the accuracy of co-citation analysis, BC, direct citation and found
+that BC outperforms the other two. In literature, bibliographic analysis tools like CiteSpace,
+Pajek, Bibexcel, R, SciMat and Saint are proposed for bibliometric analysis (Cobo and
+Herrera, 2011). Among these, BibExcel allows processing the different types of file formats
+like Medline format, Scopus RIS format and the WoS plain text format (Persson et al., 2009).
+Also, Bibexcel allows data modification or filtering of imported details from various
+databases such as WoS and Scopus (Bjurström, 2011). Due to these advantages, BibExcel is
+used in this research for the bibliometric analysis.
+In order to conduct BC, the plain text format from WoS containing the details of author,
+the title of publication, year of publication, abstract and authors affiliation from the
+shortlisted 1,091 articles are exported to Bibexcel software. To further map and visualize,
+the BC among the 1,091 articles network and cluster analysis tools are used. In literature,
+UCINET, Mathematica, Pajek, VOS Viewer and Gephi are the commonly used network
+analysis tools. Among these, Gephi is generally used in research projects, given its
+simplicity (Fahimnia et al., 2015). Gephi is capable of handling large network data and helps
+in filtering, navigating, manipulating and clustering the data. It can also handle a variety of
+graph data sets generated in comma-separated values files, Graph and Net file formats. In
+this research, the shared references from Bibexcel in .net format were imported to Gephi and
+were used for networking and clustering the research articles.
+To identify the sub-fields/themes of a research domain, the nodes of a network are
+divided into clusters or modules using clustering techniques (Fahimnia et al. , 2015). The
+degree of association is strong among members of the same cluster and weak between
+members of different clusters. For dividing the network into clusters, the default Louvain
+clustering algorithm in the Gephi software is used, which will maximize the modularity
+index by iterating each node to all clusters (Rajagopal et al. , 2017). Modularity is an
+important metric that provides information about the overall clustering of the networks.
+The modularity index is a scalar value between −1 and +1 that measures the density of
+links inside the clusters vs the links between the clusters (Fahimnia et al., 2015).
+23
+Supply chain
+issues in SME
+food sector
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026
+
+[Page 6]
+2.4 Text mining (TM)
+To find out the research focus of each sub-field, the contents of either all or the lead papers
+in each sub-field are analysed and evaluated. The interpretation and analysis of sub-field
+depend greatly on subjective factors and require expertise in the specific research field. To
+avoid the reviewer bias and for a deeper understanding of the concepts addressed in each
+sub-field, researchers have further used text mining (TM) as a content analysis technique to
+retrieve the co-occurred words from the documents and to build a conceptual structure of
+the domain (Ghadge et al., 2012; Song and Chambers, 2014). In this research, the co-occurred
+words from the research articles in each sub-field are retrieved using TM to identify
+research concept precisely. Co-word analysis presumes that a group of aggregated terms/
+words could indicate the underlying themes and that co-occurrences of terms/words could
+show the associations with the underlying themes. Title and abstract of all articles in each
+sub-field are downloaded from the WoS database in .txt format and text mined separately
+using Standford NLP core 3.6.0. StanfordcoreNLP 3.6.0 software is used in this research for
+TM since it is flexible and simple (Song and Chambers, 2014).
+Using Stanford metrics conversion Handler Programme, the output extensible markup
+language file from the Standford NLP is converted to a GraphML network file from the
+identified co-occurred words. The GraphML file is then used as input in Gephi for visualization
+and further analysis of the co-word network. After establishing a co-word network, the
+research concept of each cluster is then identified by measuring the relative frequency of these
+co-occurred words and by measuring the network properties based on node and network-level
+metrics (Barbara and Wichmann, 2016). The node-level metrics can be divided into local:
+degree centrality, and the ones relative to the rest of the network (i.e. based on node’s location
+within a network): closeness, betweenness and eigenvector centrality (Milojevic, 2013). The
+number of direct links between a node and other nodes in the cluster is defined by degree
+centrality. A word with a higher degree will be in the centre of the network and considered as
+the information hub. The closeness centrality is defined by the inverse of the average length of
+the shortest paths to or from all the other nodes in the network. Higher closeness centrality
+refers to higher influence on other nodes. The betweenness centrality is a measure of how often
+a node is located on the shortest path between other nodes in the network. Eigenvector
+centrality is based on the principle that importance of a node in a network may increase with
+having links to the other nodes that are themselves important. It is calculated by providing a
+relative score for each node proportional to the sum of the scores of its neighbours (Bonacich,
+2007). The equations used to calculate the node centrality are given in Appendix 1.
+3. Results
+3.1 Bibliometric analysis
+The time period distribution of 1,091 articles is shown in Figure 2. It is noted that the
+number of articles was limited to 377 during the period 2002 – 2014, and the remaining
+18 47 78
+141
+384
+423
+0
+100
+200
+300
+400
+500
+600
+2002–2004 2005–2007 2008–2010 2011–2013 2014–2016 2017–2018
+Publication Frequency
+Year
+Figure 2.
+Distribution of
+reviewed papers by
+year (up to
+December 2018)
+24
+JAMR
+17,1
+Downloaded from http://www.emerald.com/jamr/article-pdf/17/1/19/1312136/jamr-02-2019-0010.pdf by Indian Institute of Technology at Madras user on 17 June 2026

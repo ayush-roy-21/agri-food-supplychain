@@ -13,8 +13,17 @@ def main():
     # Drop outlier topic if any
     topic_map = topic_map[topic_map['Topic'] != -1]
     
+    # Scope strictly to anchor_verdict == pass
+    meta_df_pass = meta_df[meta_df['anchor_verdict'] == 'pass']
+    pass_doc_ids = set(meta_df_pass['doc_id'])
+    units_df = units_df[units_df['parent_doc_id'].isin(pass_doc_ids)]
+
     # units_df already contains corpus_tier, verification_logic, and institutional_pillar.
     df = units_df.merge(topic_map[['Topic', 'hurdle_name', 'locus_primary']], left_on='assigned_topic', right_on='Topic', how='inner')
+    
+    core_n_units = len(df)
+    core_n_docs = df['parent_doc_id'].nunique()
+    header_str = f"# Core N = {core_n_docs} Documents ({core_n_units} Units)\n"
     
     # --- RQ1 ---
     rq1_records = []
@@ -39,7 +48,9 @@ def main():
             'scope': scope
         })
     rq1 = pd.DataFrame(rq1_records)
-    rq1.to_csv(root / "data" / "results" / "rq1_locus_distribution.csv", index=False)
+    with open(root / "data" / "results" / "rq1_locus_distribution.csv", 'w', encoding='utf-8') as f:
+        f.write(header_str)
+    rq1.to_csv(root / "data" / "results" / "rq1_locus_distribution.csv", mode='a', index=False)
     print("Generated RQ1: rq1_locus_distribution.csv")
     
     # --- RQ2 ---
@@ -75,7 +86,9 @@ def main():
         rq2 = rq2.sort_values(by='co_occurrence_count', ascending=False)
     else:
         rq2 = pd.DataFrame(columns=['hurdle_a', 'hurdle_b', 'co_occurrence_count', 'jaccard', 'example_doc_ids'])
-    rq2.to_csv(root / "data" / "results" / "rq2_hurdle_cooccurrence.csv", index=False)
+    with open(root / "data" / "results" / "rq2_hurdle_cooccurrence.csv", 'w', encoding='utf-8') as f:
+        f.write(header_str)
+    rq2.to_csv(root / "data" / "results" / "rq2_hurdle_cooccurrence.csv", mode='a', index=False)
     print("Generated RQ2: rq2_hurdle_cooccurrence.csv")
     
     # --- RQ3 ---
@@ -88,9 +101,9 @@ def main():
         else:
             return 'firm'
             
-    meta_df['actor_type'] = meta_df.apply(assign_actor, axis=1)
+    df['actor_type'] = df.apply(assign_actor, axis=1)
     
-    df_act = pd.merge(df, meta_df[['doc_id', 'actor_type']], left_on='parent_doc_id', right_on='doc_id', how='left')
+    df_act = df
     rq3_records = []
     for hurdle in df_act['hurdle_name'].unique():
         h_df = df_act[df_act['hurdle_name'] == hurdle]
@@ -128,7 +141,9 @@ def main():
                 'paraphrased_framing': framing
             })
     rq3 = pd.DataFrame(rq3_records)
-    rq3.to_csv(root / "data" / "results" / "rq3_actor_framing.csv", index=False)
+    with open(root / "data" / "results" / "rq3_actor_framing.csv", 'w', encoding='utf-8') as f:
+        f.write(header_str)
+    rq3.to_csv(root / "data" / "results" / "rq3_actor_framing.csv", mode='a', index=False)
     print("Generated RQ3: rq3_actor_framing.csv")
 
 if __name__ == "__main__":

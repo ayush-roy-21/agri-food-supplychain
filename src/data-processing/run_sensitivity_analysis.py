@@ -22,11 +22,11 @@ def main():
     reg_df = pd.read_csv(registry_path)
     
     # Merge tier information
-    meta_df = pd.merge(meta_df, reg_df[['doc_id', 'scale_tier_v2']], left_on='parent_doc_id', right_on='doc_id', how='left')
+    meta_df = pd.merge(meta_df, reg_df[['doc_id', 'enterprise_scale_tier']], left_on='parent_doc_id', right_on='doc_id', how='left')
     
     # Filter for sensitivity: Only Corpus A + Corpus B (Tier 1-3)
-    # Tier 1-3 means scale_tier_v2 contains "Tier 1" or "Tier 2" or "Tier 3"
-    valid_idx = meta_df['corpus_tier'].eq('A') | meta_df['scale_tier_v2'].str.contains('Tier 1|Tier 2|Tier 3', na=False)
+    # Tier 1-3 means enterprise_scale_tier contains "Tier 1" or "Tier 2" or "Tier 3"
+    valid_idx = meta_df['corpus_tier'].eq('A') | meta_df['enterprise_scale_tier'].str.contains('Tier 1|Tier 2|Tier 3', na=False)
     
     subset_df = meta_df[valid_idx].copy()
     subset_embeddings = embeddings[valid_idx.values]
@@ -34,7 +34,10 @@ def main():
     docs = subset_df["text"].astype(str).tolist()
     
     umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric="cosine", random_state=42)
-    hdbscan_model = HDBSCAN(min_cluster_size=8, metric="euclidean", cluster_selection_method="eom", prediction_data=True)
+    
+    # Dynamically scale min_cluster_size based on N, anchoring at N=152 => size=8
+    scaled_min_size = max(3, int(8 * len(docs) / 152))
+    hdbscan_model = HDBSCAN(min_cluster_size=scaled_min_size, metric="euclidean", cluster_selection_method="eom", prediction_data=True)
     vectorizer_model = CountVectorizer(stop_words="english", ngram_range=(1, 2), min_df=2)
     
     topic_model = BERTopic(

@@ -1,20 +1,8 @@
 Topic,Words,Frequency,Class
--1,"trade, beer, said, india, export",48,B
-0,"nutmeg, products, european, textile, export",7,B
-1,"author, user, sir, iec, hurdles",41,B
-2,"tea, nepal, india, said, indian",34,B
-3,"export, agricultural, mangoes, district, apeda",28,B
-6,"fisheries, seafood, exports, value, minister",18,B
-7,"rice, tonnes, million, said, government",18,B
-8,"yogi, indias, farmers, minister, opportunities",18,B
-9,"news, comments, india, 2026, whisky",16,B
-11,"cent, exports, value, volume, seafood",14,B
-13,"company, spices, fy26, growth, limited",9,B
--1,"mpeda, scheme, export, impact, central sector",22,A
-0,"ex, eu, spices, export, food",78,A
-4,"data, eudr, 2025, et al, al",22,A
-5,"apeda, download, pdf, format, size",21,A
-10,"sustainability, ar, inf, directive, assurance",16,A
-11,"value, usd, exports, volume, 152",1,A
-12,"shall, food, meat, storage, water",12,A
-14,"slavery, modern slavery, modern, supply, actors",9,A
+0,"tea, imported, decision, india, testing",1,B
+1,"tea, nepal, said, india, association",1,B
+-1,"change, 14, 03, yes, 2026",8,A
+0,"export, eu, mpeda, food, spices",87,A
+1,"apeda, products, rice, download, format",27,A
+2,"sustainability, ar, directive, assurance, standards",15,A
+3,"shall, food, meat, used, storage",13,A

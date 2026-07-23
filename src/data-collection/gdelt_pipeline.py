@@ -60,21 +60,11 @@ except ImportError:
 # 1. GDELT API Query Architecture
 # ==========================================
 QUERIES = [
-    'India export seafood',
-    'India export shrimp',
-    'India export spice',
-    'India export rice',
-    'India export tea',
-    'India export mango',
-    'India export MSME',
-    'India export APEDA',
-    'India export MPEDA',
-    'India export FSSAI',
-    'India export DGFT',
-    'India export rejection',
-    'India export FDA',
-    'India export EUDR',
-    'India export customs'
+    'small exporter delisted',
+    'buyer audit demand India spices',
+    'vendor consolidation India exporter',
+    'delisted approved supplier India',
+    'buyer requirement scale India'
 ]
 
 GDELT_API_URL = "https://api.gdeltproject.org/api/v2/doc/doc"
@@ -197,7 +187,7 @@ def run_gdelt_scraper():
     
     # Step 1: Hit GDELT API across all targeted queries
     for q in QUERIES:
-        articles = fetch_gdelt_metadata(q, max_records=80)
+        articles = fetch_gdelt_metadata(q, max_records=10)
         for idx, art in enumerate(articles):
             url = art.get("url", "")
             title = art.get("title", "No Title")

@@ -1,0 +1,77 @@
+--- CHUNK HEADER ---
+Chunk ID: A-DATA-102-C01
+Parent Doc ID: A-DATA-102
+Page Range: Page 1 to Page 2
+Word Range: 1 - 250
+Word Count: 250
+--------------------
+
+[Page 1]
+Department of Commerce  
+Statistics Division, DGFT 
+Table 1: India’s Merchandise Export of QE Groups: Growth for last 2 years and current year 
+(Value in US$ Million)  
+ S. No. QE Groups 2024-25 2025-26 % 
+Change 
+May, 
+2025 
+May, 
+2026 
+% 
+Change 
+Apr, 
+2026 
+% Change 
+over Apr, 
+2026 
+Apr - 
+May, 
+2025-26 
+Apr - 
+May, 
+2026-
+27 
+% 
+Change 
+% 
+Share 
+1 Engineering Goods 116754 122434 4.9 9890 12311 24.5 10350 19.0 19406 22663 16.8 25.5 
+2 Petroleum Products 63383 53828 -15.1 5437 8421 54.9 9593 -12.2 12561 18167 44.6 20.4 
+3 Electronic Goods 38556 47962 24.4 4567 5097 11.6 5178 -1.5 8257 10273 24.4 11.6 
+4 Drugs And Pharmaceuticals 30468 31116 2.1 2476 2628 6.1 2663 -1.3 4963 5291 6.6 6.0 
+5 Organic & Inorganic Chemical 28706 28673 -0.1 2413 2720 12.7 2420 12.4 4668 5140 10.1 5.8 
+6 Gems And Jewellery 29818 28208 -5.4 2376 2534 6.7 2322 9.1 4876 4856 -0.4 5.5 
+7 Rmg Of All Textiles 15989 15772 -1.4 1511 1297 -14.2 1211 7.1 2883 2509 -13.0 2.8 
+8 Rice 12472 11537 -7.5 967 1019 5.4 1015 0.4 2048 2034 -0.7 2.3 
+9 Cotton Yarn/Fabs./Madeups, 
+Handloom Products Etc. 12056 11587 -3.9 967 985 1.9 968 1.7 1930 1953 1.2 2.2 
+10 Plastic And Linoleum 8920 8284 -7.1 756 921 21.8 733 25.6 1452 1654 13.9 1.9
+
+[Page 2]
+11 Marine Products 7405 8431 13.9 730 728 -0.3 668 9.0 1312 1396 6.4 1.6 
+12 Meat, Dairy And Poultry 
+Products 5096 6215 21.9 442 630 42.5 551 14.3 815 1181 45.0 1.3 
+13 Mica, Coal And Other Ores, 
+Minerals Including Process 5073 5732 13.0 466 440 -5.5 521 -15.4 923 962 4.1 1.1 
+14 Spices 4452 4262 -4.3 403 387 -3.9 411 -5.7 844 798 -5.4 0.9 
+15 Man-Made 
+Yarn/Fabs./Madeups Etc. 4869 4831 -0.8 410 403 -1.7 393 2.5 793 795 0.3 0.9 
+16 Leather And Leather 
+Manufactures 4371 4268 -2.4 386 360 -6.8 316 13.8 701 676 -3.6 0.8 
+17 Fruits And Vegetables 3875 3931 1.5 309 288 -7.0 304 -5.3 694 593 -14.7 0.7 
+18 Cereal Preparations And 
+Miscellaneous Processed Item 3102 3210 3.5 265 277 4.4 260 6.5 530 536 1.2 0.6 
+19 Ceramic Products And 
+Glassware 3989 4032 1.1 368 270 -26.8 200 35.0 709 469 -33.8 0.5 
+20 Coffee 1806 2083 15.3 201 209 4.4 218 -4.0 404 428 5.9 0.5 
+21 Handicrafts Excl. Hand Made 
+Carpet 1767 1792 1.4 145 180 23.9 155 16.4 268 335 25.1 0.4 
+22 Iron Ore 2083 1708 -18.0 164 188 14.8 142 32.7 292 330 13.3 0.4 
+23 Tobacco 1979 1949 -1.5 177 140 -20.9 118 19.0 375 258 -31.2 0.3 
+24 Carpet 1541 1459 -5.3 132 130 -1.4 126 3.1 247 256 3.8 0.3 
+25 Oil Meals 1347 1041 -22.7 89 111 24.6 105 6.2 213 216 1.0 0.2 
+26 Oil Seeds 1344 1218 -9.4 103 94 -8.3 119 -20.4 210 213 1.7 0.2 
+27 Other Cereals 272 446 64.0 21 76 262.7 55 37.9 39 132 238.7 0.1 
+28 Tea 924 988 7.0 66 56 -15.1 57 -1.9 136 113 -16.5 0.1 
+29 Jute Mfg. Including Floor 
+Covering 384 358 -6.9 32 29 -8.1 28 2.9 60 57 -4.5 0.1

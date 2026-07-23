@@ -1,0 +1,54 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-104-C08
+Parent Doc ID: A-RES-104
+Page Range: Page 3
+Word Range: 1866 - 2115
+Word Count: 250
+--------------------
+
+[Page 3]
+Xue et al. 10.3389/fsufs.2025.1649834
+Frontiers in Sustainable Food Systems 03 frontiersin.org
+upcoming interdisciplinary studies. Finally, Section 8 wraps up with 
+an overview of findings and provides policy suggestions to enhance 
+the resilience and sustainability of global AFSCs.
+2 Structure and complexity of AFSCs
+The first stage in AFSC is the procurement of input materials, (Stage 
+1—Inputs; Figure 1). This includes seeds, fertilizers, agrochemicals, and 
+farming equipment, which serve as the foundation for agricultural 
+production. The second stage (Stage 2—Farm) is the food production 
+stage, involving cultivation, harvesting, and animal husbandry. This stage 
+corresponds to “Farm” in Figure 1 and plays a central role in determining 
+the overall sustainability of the supply chain. Environmental and social 
+aspects such as soil health, water consumption, fertilizer emissions, 
+biodiversity conservation, and fair labor practices, are key considerations 
+at this stage. Technology also contributes to improving agricultural 
+efficiency and minimizing resource waste through precision farming and 
+smart monitoring systems. The third stage (Stage 3—Processing) is the 
+production of finished products through processing, value addition, and 
+packaging of the raw materials. One crucial aspect of this stage is to align 
+balance between demand and supply (Rathor et al., 2022). Technology is 
+crucial for increasing production efficiencies and decreasing resource 
+waste (Chiang et al., 2021). The fourth stage (Stage 4—Distribution) is 
+the transportation of finished products from production sites to the 
+warehouses for temporary storage or timely distribution (Rathor et al., 
+2022). As indicated in Figure 1, this stage encompasses storage, transport, 
+and cold-chain logistics. This stage considers environmental, social, and 
+economic factors to achieve sustainable as well as responsible supply 
+chain characteristics (Hou et al., 2015). For example, environmental 
+dimensions may include reducing carbon emissions from transportation, 
+improving energy efficiency, and adopting cleaner logistics solutions. 
+Inventory management is crucial for reducing warehouse holding costs 
+and efficient order delivery. The fifth stage (Retail and Consumers) 
+involves order fulfillment. This stage involves picking and shipping 
+products to either retailers or consumers. The speed and accuracy of this 
+stage greatly impacts consumer satisfaction (Rathor et al., 2022). It also 
+connects closely to consumer feedback mechanisms and demand drivers, 
+as reflected in Figure 1. Advanced tools like internet of things (IoT), 
+artificial intelligence (AI), and blockchain help minimize disruptions in 
+the distribution network. These technologies also support earlier stages, 
+such as farming and processing, by improving traceability, monitoring 
+production efficiency, and ensuring sustainability compliance. IoT 
+enables real-time tracking to prevent losses, AI optimizes 
+FIGURE 1
+Structure of the agri-food supply chain.

@@ -1,0 +1,35 @@
+--- CHUNK HEADER ---
+Chunk ID: A-RES-100-C06
+Parent Doc ID: A-RES-100
+Page Range: Page 9
+Word Range: 1548 - 1898
+Word Count: 351
+--------------------
+
+[Page 9]
+Issue No.06
+Eighty percent of surveyed companies believe sustainability is important or extremely important to long-term
+success, with 73% reporting no change in their commitments following the U.S. withdrawal from the Paris
+Agreement, and 12% even increasing their efforts. Many organizations are moving forward with strategies
+that anticipate or exceed regulatory requirements, using the strictest applicable rules as benchmarks.
+Regional differences are clear. In Europe, regulations such as the Corporate Sustainability Reporting Directive
+(CSRD) serve as the primary driver of action, pushing companies toward standardized disclosures, better
+data governance, and value chain transparency. In North America, investor expectations and boardroom
+priorities are more influential than government mandates. Despite these differences, both regions show
+optimism: more than half of all respondents report high confidence in meeting sustainability goals, with
+European firms slightly more confident than their North American counterparts. But one thing is clear
+globally: companies with public sustainability goals are far more likely to integrate sustainability into daily
+decision-making and to invest in high-impact initiatives. This suggests that public accountability creates
+internal momentum, signaling that when companies make explicit commitments, they are more likely to
+follow through with meaningful execution.
+Scope 3 emissions, the indirect emissions from suppliers, transportation, product use, and all other parts of
+the value chain, remain the most difficult area of corporate climate management. It typically accounts for
+more than 75% of a company’s total emissions . Yet, reporting lags far behind Scope 1 and Scope 2. This
+year’s findings underscore both the scale of the challenge and the growing innovations to address it. More
+than 40% of companies now track Scope 1 and 2, but far fewer report on Scope 3. The main barrier is supplier
+data: about 70% of respondents cited a lack of supplier-specific information as the biggest challenge.
+Methodological fragmentation and calculation complexity followed closely, cited by more than half of
+respondents. Resource constraints, high costs of digital tools, and data privacy concerns further complicate
+measurement.
+1
+9

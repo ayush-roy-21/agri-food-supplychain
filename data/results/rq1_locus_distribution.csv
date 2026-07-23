@@ -1,12 +1,6 @@
+# Core N = 88 Documents (144 Units)
 hurdle,locus,unit_count,corpus_a_count,corpus_b_count,scope
-Statutory hygiene and sanitary regulations mandate specific facility standards and waste disposal practices that challenge the infrastructure capability of petty operators.,internal-capability,12,12,0,structural
-Mandatory consignment-wise inspection schemes and heightened EU border controls impose strict health certification requirements on spice and marine exports.,institutional-voids,85,78,7,structural
-Aggregate national export volume and value reporting that functions as a press-release cluster rather than identifying specific MSME supply chain barriers.,inductive-other,15,1,14,specific
-Ministerial discourse and press coverage encouraging the fisheries sector to develop internal production quality and value-added export capabilities rather than raw commodities.,internal-capability,18,0,18,specific
-Macro-level trade discourse highlighting government initiatives and free trade agreements without detailing operational firm-level compliance friction.,inductive-other,18,0,18,specific
-Indian authorities mandated laboratory testing on imported Nepali tea which led buyers to suspend purchases and disrupted cross-border trade.,institutional-voids,34,0,34,structural
-"Pack-house and cold-chain infrastructure is concentrated in a few districts, leaving exporters outside those clusters without EU-compliant post-harvest facilities.",internal-capability,28,0,28,specific
-Rice exporters suffer from inadequate post-harvest infrastructure including scientific storage and modern transport logistics which degrades grain quality and disrupts exports.,internal-capability,18,0,18,specific
-EUDR compliance mandates extensive collection and assessment of geolocation and traceability data which imposes heavy processing burdens on exporters.,informational-verifiability,22,22,0,specific
-European corporate sustainability directives mandate statutory reporting disclosures and complex environmental assurance procedures across supply chains.,informational-verifiability,16,16,0,specific
-Academic literature and frameworks exploring the use of monitoring technologies and multi-actor collaboration to identify modern slavery in supply chains.,informational-verifiability,9,9,0,specific
+APEDA Registration & Post-Harvest Infrastructure Bottlenecks,internal-capability,28,27,1,structural
+FSSAI Hygiene Standards & Facility Audit Compliance,internal-capability,13,13,0,structural
+Market Access & MPEDA/EU Export Infrastructure Costs,relational-power,88,87,1,structural
+EUDR & CSRD Sustainability Reporting Burden (Resolved Topic 10 equivalent),informational-verifiability,15,15,0,specific
