@@ -1,0 +1,15 @@
+DECISION LOG ENTRY: DEC-2026-037
+DATE: 2026-07-23
+SUBJECT: Restoration of Missing EUDR/CSR Data and Overhaul of Locus Assignment Logic
+AUTHOR: Antigravity Assistant
+
+ISSUE: 
+A recent descoping of EUDR/CSR data inadvertently purged critical compliance pillars (A-EUDR-001, A-EUDR-002, A-EUDR-003, A-EUDR-101, A-CSR-001, A-CSR-002) which were necessary for RQ1, RQ2, and RQ4. Furthermore, the `rebuild_locus_tag.py` script was mechanically assigning locus tags based on `df.mode()` across chunks without acknowledging secondary loci. This created a tie-break structural issue where `institutional-voids` artificially squashed out `relational-power`, `informational-verifiability`, and `internal-capability`, driving them to 0% in the registry.
+
+DECISION:
+1. Data Restoration: We explicitly restored the 6 EUDR/CSR documents from a previous commit (`9d2e527`). We also updated `purge_descoped_data.py` to use a precise `isin([doc_ids])` filter instead of a generic substring match, to prevent future false positives. We harmonized the `enterprise_scale_tier` column for these 6 documents to `N/A (Corpus A)`.
+2. BERTopic Re-fit: We re-ran `run_bertopic_topics_per_class.py` on the complete set of 432 modeling units. BERTopic detected 15 topics (up from 8). We then ran `propose_topic_locus_tags.py` and manually patched `topic_locus_mapping.csv` to ensure that core topics (such as the new EUDR and slavery themes) were appropriately designated as `informational-verifiability` and `institutional-voids`.
+3. Locus Tag Overhaul: We updated `rebuild_locus_tag.py` to collect and weight both `locus_primary` (weight 2) and `locus_secondary` (weight 1) from every chunk assigned to a document. This explicitly breaks the mathematical tie present in topics like Topic 2, elevating the codebook's primary intention above the secondary locus and resolving the zero-count flaw.
+
+RATIONALE:
+By properly weighting primary vs secondary locus votes, we respect the original human intent codified in the topic mapping decision test. By fitting BERTopic on all chunks properly instead of carrying over hollow assignments, we ensure methodological soundness and integrity within the generated vector embeddings.

@@ -37,27 +37,36 @@ def main():
     # Calculate dominant valid locus per parent_doc_id across all its chunks' topics
     doc_locus_map = {}
     for doc_id, group in units_df.groupby('parent_doc_id'):
-        all_loci = []
+        locus_weights = Counter()
         for topic in group['assigned_topic']:
-            if pd.notna(topic) and topic in topic_to_loci:
-                all_loci.extend(topic_to_loci[topic])
+            if pd.notna(topic) and topic in mapping_df['Topic'].values:
+                row = mapping_df[mapping_df['Topic'] == topic].iloc[0]
+                prim = row['locus_primary']
+                sec = row['locus_secondary']
+                if pd.notna(prim) and prim != 'not-applicable' and prim in allowed_loci:
+                    locus_weights[prim] += 2
+                if pd.notna(sec) and sec != 'not-applicable' and sec in allowed_loci:
+                    locus_weights[sec] += 1
         
-        # Filter for only allowed core valid loci
-        valid_loci = [l for l in all_loci if l in allowed_loci]
-        
-        if valid_loci:
-            # Count loci
-            counts = Counter(valid_loci)
-            # Find the max count
-            max_count = max(counts.values())
-            # Find all loci that have the max count
-            top_loci = [locus for locus, count in counts.items() if count == max_count]
+        if locus_weights:
+            # Find the max weight
+            max_weight = max(locus_weights.values())
+            # Find all loci that have the max weight
+            top_loci = [locus for locus, weight in locus_weights.items() if weight == max_weight]
             # Tie-break using priority
             best_locus = max(top_loci, key=lambda x: priority.get(x, -1))
             doc_locus_map[doc_id] = best_locus
         else:
-            if all_loci:
-                doc_locus_map[doc_id] = Counter(all_loci).most_common(1)[0][0]
+            # Try to grab inductive-other if it's there
+            fallback_counts = Counter()
+            for topic in group['assigned_topic']:
+                if pd.notna(topic) and topic in mapping_df['Topic'].values:
+                    row = mapping_df[mapping_df['Topic'] == topic].iloc[0]
+                    prim = row['locus_primary']
+                    if pd.notna(prim) and prim != 'not-applicable':
+                        fallback_counts[prim] += 2
+            if fallback_counts:
+                doc_locus_map[doc_id] = fallback_counts.most_common(1)[0][0]
                 
     updated_count = 0
     for idx, row in reg_df.iterrows():

@@ -1,8 +1,16 @@
 hurdle,locus,unit_count,corpus_a_count,corpus_b_count,scope
-Press release cluster detailing successful APEDA-facilitated fruit exports rather than specific compliance hurdles.,inductive-other,38,3,35,structural
-Statutory hygiene and sanitary regulations mandate specific facility standards and waste disposal practices that challenge the infrastructure capability of petty operators.,internal-capability,14,12,2,structural
-Mandatory consignment-wise inspection schemes and heightened EU border controls impose strict health certification requirements on spice and marine exports.,institutional-voids,89,82,7,structural
-Aggregate export volume and value reporting that functions as a press-release cluster rather than identifying MSME supply chain barriers.,inductive-other,15,1,14,specific
-Ministerial discourse and press coverage encouraging value-added seafood exports rather than describing specific operational compliance hurdles.,inductive-other,19,0,19,specific
-Macro-level trade discourse highlighting government initiatives and FTAs without detailing operational friction.,inductive-other,18,0,18,specific
-Indian authorities mandated laboratory testing on imported Nepali tea which led buyers to suspend purchases and disrupted cross-border trade.,institutional-voids,34,0,34,structural
+Hurdle for Topic 5: 5_apeda_download_pdf_format,relational-power,21,21,0,specific
+Hurdle for Topic 12: 12_shall_food_meat_storage,internal-capability,12,12,0,structural
+Hurdle for Topic 0: 0_ex_eu_export_spices,institutional-voids,85,78,7,structural
+Hurdle for Topic 11: 11_cent_exports_value_volume,informational-verifiability,15,1,14,specific
+Hurdle for Topic 6: 6_fisheries_seafood_exports_value,internal-capability,18,0,18,specific
+Hurdle for Topic 9: 9_news_comments_india_2026,inductive-other,16,0,16,structural
+Hurdle for Topic 8: 8_yogi_indias_farmers_minister,relational-power,18,0,18,specific
+Hurdle for Topic 13: 13_company_spices_fy26_growth,inductive-other,9,0,9,specific
+Hurdle for Topic 2: 2_tea_nepal_india_said,institutional-voids,34,0,34,structural
+Hurdle for Topic 3: 3_export_agricultural_mangoes_district,internal-capability,28,0,28,specific
+Hurdle for Topic 7: 7_rice_tonnes_million_said,internal-capability,18,0,18,specific
+Hurdle for Topic 1: 1_author_user_sir_iec,informational-verifiability,41,0,41,structural
+Hurdle for Topic 4: 4_data_eudr_2025_et al,informational-verifiability,22,22,0,specific
+Hurdle for Topic 10: 10_sustainability_ar_inf_directive,internal-capability,16,16,0,specific
+Hurdle for Topic 14: 14_slavery_modern slavery_modern_supply,informational-verifiability,9,9,0,specific
