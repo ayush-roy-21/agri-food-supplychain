@@ -1,14 +1,20 @@
 Topic,Words,Frequency,Class
--1,"mpeda, scheme, impact, evaluation, sector scheme",16,A
-0,"eu, export, ex, food, spices",82,A
-1,"rice, philippines, apeda, ee, export",3,A
-5,"value, exports, usd, volume, export",1,A
-6,"shall, food, meat, used, storage",12,A
--1,"trade, india, said, export, global",31,B
-0,"products, european, export, eu, trade",7,B
-1,"export, agricultural, apeda, said, farmers",35,B
-2,"tea, nepal, said, india, indian",34,B
-3,"fisheries, seafood, exports, global, value",19,B
-4,"yogi, opportunities, businesses, indias, minister",18,B
-5,"cent, exports, value, volume, growth",14,B
-6,"curry, cut, oil, meat, cook",2,B
+-1,"trade, beer, said, india, export",48,B
+0,"nutmeg, products, european, textile, export",7,B
+1,"author, user, sir, iec, hurdles",41,B
+2,"tea, nepal, india, said, indian",34,B
+3,"export, agricultural, mangoes, district, apeda",28,B
+6,"fisheries, seafood, exports, value, minister",18,B
+7,"rice, tonnes, million, said, government",18,B
+8,"yogi, indias, farmers, minister, opportunities",18,B
+9,"news, comments, india, 2026, whisky",16,B
+11,"cent, exports, value, volume, seafood",14,B
+13,"company, spices, fy26, growth, limited",9,B
+-1,"mpeda, scheme, export, impact, central sector",22,A
+0,"ex, eu, spices, export, food",78,A
+4,"data, eudr, 2025, et al, al",22,A
+5,"apeda, download, pdf, format, size",21,A
+10,"sustainability, ar, inf, directive, assurance",16,A
+11,"value, usd, exports, volume, 152",1,A
+12,"shall, food, meat, storage, water",12,A
+14,"slavery, modern slavery, modern, supply, actors",9,A
