@@ -1,17 +1,13 @@
 Topic,locus_primary,locus_secondary,hurdle_name,evidence_doc_ids,supervisor_signoff
--1,informational-verifiability,internal-capability,Hurdle for Topic -1: -1_mpeda_export_trade_india,See Representative Docs,AR / 2026-07-23 (re-fit)
-0,institutional-voids,not-applicable,Hurdle for Topic 0: 0_ex_eu_export_spices,See Representative Docs,AR / 2026-07-23 (re-fit)
-1,informational-verifiability,internal-capability,Hurdle for Topic 1: 1_author_user_sir_iec,See Representative Docs,AR / 2026-07-23 (re-fit)
-2,institutional-voids,relational-power,Hurdle for Topic 2: 2_tea_nepal_india_said,See Representative Docs,AR / 2026-07-23 (re-fit)
-3,internal-capability,relational-power,Hurdle for Topic 3: 3_export_agricultural_mangoes_district,See Representative Docs,AR / 2026-07-23 (re-fit)
-4,informational-verifiability,internal-capability,Hurdle for Topic 4: 4_data_eudr_2025_et al,See Representative Docs,AR / 2026-07-23 (re-fit)
-5,relational-power,informational-verifiability,Hurdle for Topic 5: 5_apeda_download_pdf_format,See Representative Docs,AR / 2026-07-23 (re-fit)
-6,internal-capability,informational-verifiability,Hurdle for Topic 6: 6_fisheries_seafood_exports_value,See Representative Docs,AR / 2026-07-23 (re-fit)
-7,internal-capability,informational-verifiability,Hurdle for Topic 7: 7_rice_tonnes_million_said,See Representative Docs,AR / 2026-07-23 (re-fit)
-8,relational-power,,Hurdle for Topic 8: 8_yogi_indias_farmers_minister,See Representative Docs,AR / 2026-07-23 (re-fit)
-9,inductive-other,,Hurdle for Topic 9: 9_news_comments_india_2026,See Representative Docs,AR / 2026-07-23 (re-fit)
-10,internal-capability,relational-power,Hurdle for Topic 10: 10_sustainability_ar_inf_directive,See Representative Docs,AR / 2026-07-23 (re-fit)
-11,informational-verifiability,internal-capability,Hurdle for Topic 11: 11_cent_exports_value_volume,See Representative Docs,AR / 2026-07-23 (re-fit)
-12,internal-capability,institutional-voids,Hurdle for Topic 12: 12_shall_food_meat_storage,See Representative Docs,AR / 2026-07-23 (re-fit)
-13,inductive-other,,Hurdle for Topic 13: 13_company_spices_fy26_growth,See Representative Docs,AR / 2026-07-23 (re-fit)
-14,informational-verifiability,relational-power,Hurdle for Topic 14: 14_slavery_modern slavery_modern_supply,See Representative Docs,AR / 2026-07-23 (re-fit)
+-1,inductive-other,not-applicable,Outlier units that could not be clustered by HDBSCAN.,A-MPEDA-004; B-GD-008; B-GD-020,AR / 2026-07-24
+0,institutional-voids,not-applicable,Mandatory consignment-wise inspection schemes and heightened EU border controls impose strict health certification requirements on spice and marine exports.,A-IEC-001; A-IEC-002; A-MPEDA-001,AR / 2026-07-24
+2,institutional-voids,relational-power,Indian authorities mandated laboratory testing on imported Nepali tea which led buyers to suspend purchases and disrupted cross-border trade.,B-GD-019; B-GD-024; B-GD-036,AR / 2026-07-24
+3,internal-capability,institutional-voids,"Pack-house and cold-chain infrastructure is concentrated in a few districts, leaving exporters outside those clusters without EU-compliant post-harvest facilities.",B-GD-047; B-GD-089; A-APEDA-006; B-YT-012,AR / 2026-07-24
+4,informational-verifiability,internal-capability,EUDR compliance mandates extensive collection and assessment of geolocation and traceability data which imposes heavy processing burdens on exporters.,A-CSR-100; A-EUDR-100; A-EUDR-102,AR / 2026-07-24
+6,internal-capability,not-applicable,Ministerial discourse and press coverage encouraging the fisheries sector to develop internal production quality and value-added export capabilities rather than raw commodities.,B-GD-006; B-GD-007; B-GD-009,AR / 2026-07-24
+7,internal-capability,not-applicable,Rice exporters suffer from inadequate post-harvest infrastructure including scientific storage and modern transport logistics which degrades grain quality and disrupts exports.,B-GD-038; B-GD-039; B-GD-040,AR / 2026-07-24
+8,inductive-other,not-applicable,Macro-level trade discourse highlighting government initiatives and free trade agreements without detailing operational firm-level compliance friction.,B-GD-017; B-GD-021; B-GD-030,AR / 2026-07-24
+10,informational-verifiability,not-applicable,European corporate sustainability directives mandate statutory reporting disclosures and complex environmental assurance procedures across supply chains.,A-EUDR-101; A-CSR-001,AR / 2026-07-24
+11,inductive-other,not-applicable,Aggregate national export volume and value reporting that functions as a press-release cluster rather than identifying specific MSME supply chain barriers.,A-MPEDA-004; B-GD-001; B-GD-002,AR / 2026-07-24
+12,internal-capability,institutional-voids,Statutory hygiene and sanitary regulations mandate specific facility standards and waste disposal practices that challenge the infrastructure capability of petty operators.,A-FSSAI-001; A-MPEDA-003,AR / 2026-07-24
+14,informational-verifiability,relational-power,Academic literature and frameworks exploring the use of monitoring technologies and multi-actor collaboration to identify modern slavery in supply chains.,A-CSR-101,AR / 2026-07-24

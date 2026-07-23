@@ -1,15 +1,11 @@
 hurdle_name,actor_type,unit_count,paraphrased_framing
-Hurdle for Topic 5: 5_apeda_download_pdf_format,firm,21,Simulated framing for this actor.
-Hurdle for Topic 12: 12_shall_food_meat_storage,firm,12,Simulated framing for this actor.
-Hurdle for Topic 0: 0_ex_eu_export_spices,firm,85,Simulated framing for this actor.
-Hurdle for Topic 11: 11_cent_exports_value_volume,firm,15,Simulated framing for this actor.
-Hurdle for Topic 6: 6_fisheries_seafood_exports_value,firm,18,Simulated framing for this actor.
-Hurdle for Topic 9: 9_news_comments_india_2026,firm,16,Simulated framing for this actor.
-Hurdle for Topic 8: 8_yogi_indias_farmers_minister,firm,18,Simulated framing for this actor.
-Hurdle for Topic 13: 13_company_spices_fy26_growth,firm,9,Simulated framing for this actor.
-Hurdle for Topic 2: 2_tea_nepal_india_said,firm,34,Simulated framing for this actor.
-Hurdle for Topic 3: 3_export_agricultural_mangoes_district,firm,28,Simulated framing for this actor.
-Hurdle for Topic 7: 7_rice_tonnes_million_said,firm,18,Simulated framing for this actor.
-Hurdle for Topic 1: 1_author_user_sir_iec,firm,41,Simulated framing for this actor.
-Hurdle for Topic 4: 4_data_eudr_2025_et al,firm,3,Simulated framing for this actor.
-Hurdle for Topic 10: 10_sustainability_ar_inf_directive,firm,16,Simulated framing for this actor.
+Statutory hygiene and sanitary regulations mandate specific facility standards and waste disposal practices that challenge the infrastructure capability of petty operators.,firm,12,"Firms expressing resource deficits, lack of testing capability, or infrastructure gaps."
+Mandatory consignment-wise inspection schemes and heightened EU border controls impose strict health certification requirements on spice and marine exports.,firm,85,Firms navigating uncertain rules and overlapping administrative mandates.
+Aggregate national export volume and value reporting that functions as a press-release cluster rather than identifying specific MSME supply chain barriers.,firm,15,Firms navigating uncertain rules and overlapping administrative mandates.
+Ministerial discourse and press coverage encouraging the fisheries sector to develop internal production quality and value-added export capabilities rather than raw commodities.,firm,18,"Firms expressing resource deficits, lack of testing capability, or infrastructure gaps."
+Macro-level trade discourse highlighting government initiatives and free trade agreements without detailing operational firm-level compliance friction.,firm,18,Firms navigating uncertain rules and overlapping administrative mandates.
+Indian authorities mandated laboratory testing on imported Nepali tea which led buyers to suspend purchases and disrupted cross-border trade.,firm,34,Firms navigating uncertain rules and overlapping administrative mandates.
+"Pack-house and cold-chain infrastructure is concentrated in a few districts, leaving exporters outside those clusters without EU-compliant post-harvest facilities.",firm,28,"Firms expressing resource deficits, lack of testing capability, or infrastructure gaps."
+Rice exporters suffer from inadequate post-harvest infrastructure including scientific storage and modern transport logistics which degrades grain quality and disrupts exports.,firm,18,"Firms expressing resource deficits, lack of testing capability, or infrastructure gaps."
+EUDR compliance mandates extensive collection and assessment of geolocation and traceability data which imposes heavy processing burdens on exporters.,firm,3,Firms struggling to process or afford the proof-of-compliance required.
+European corporate sustainability directives mandate statutory reporting disclosures and complex environmental assurance procedures across supply chains.,firm,16,Firms struggling to process or afford the proof-of-compliance required.

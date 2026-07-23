@@ -1,10 +1,4 @@
 hurdle_a,hurdle_b,co_occurrence_count,jaccard,example_doc_ids
-Hurdle for Topic 7: 7_rice_tonnes_million_said,Hurdle for Topic 9: 9_news_comments_india_2026,2,0.0741,"B-GD-041, B-GD-052"
-Hurdle for Topic 0: 0_ex_eu_export_spices,Hurdle for Topic 9: 9_news_comments_india_2026,2,0.0238,"B-GD-089, B-GD-105"
-Hurdle for Topic 13: 13_company_spices_fy26_growth,Hurdle for Topic 9: 9_news_comments_india_2026,2,0.1,"B-GD-023, B-GD-098"
-Hurdle for Topic 3: 3_export_agricultural_mangoes_district,Hurdle for Topic 8: 8_yogi_indias_farmers_minister,2,0.069,"B-GD-072, B-GD-078"
-Hurdle for Topic 2: 2_tea_nepal_india_said,Hurdle for Topic 9: 9_news_comments_india_2026,2,0.0645,"B-GD-069, B-GD-071"
-Hurdle for Topic 0: 0_ex_eu_export_spices,Hurdle for Topic 12: 12_shall_food_meat_storage,1,0.0141,A-MPEDA-003
-Hurdle for Topic 6: 6_fisheries_seafood_exports_value,Hurdle for Topic 9: 9_news_comments_india_2026,1,0.0435,B-GD-009
-Hurdle for Topic 0: 0_ex_eu_export_spices,Hurdle for Topic 11: 11_cent_exports_value_volume,1,0.0125,A-MPEDA-004
-Hurdle for Topic 8: 8_yogi_indias_farmers_minister,Hurdle for Topic 9: 9_news_comments_india_2026,1,0.037,B-GD-101
+Macro-level trade discourse highlighting government initiatives and free trade agreements without detailing operational firm-level compliance friction.,"Pack-house and cold-chain infrastructure is concentrated in a few districts, leaving exporters outside those clusters without EU-compliant post-harvest facilities.",2,0.069,"B-GD-072, B-GD-078"
+Mandatory consignment-wise inspection schemes and heightened EU border controls impose strict health certification requirements on spice and marine exports.,Statutory hygiene and sanitary regulations mandate specific facility standards and waste disposal practices that challenge the infrastructure capability of petty operators.,1,0.0141,A-MPEDA-003
+Aggregate national export volume and value reporting that functions as a press-release cluster rather than identifying specific MSME supply chain barriers.,Mandatory consignment-wise inspection schemes and heightened EU border controls impose strict health certification requirements on spice and marine exports.,1,0.0125,A-MPEDA-004

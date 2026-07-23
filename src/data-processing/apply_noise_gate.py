@@ -59,7 +59,11 @@ def main():
     filtered_metadata = metadata[valid_mask].copy()
     filtered_embeddings = embeddings[valid_mask.values]
     
+    # Filter modeling_units_with_topics
+    filtered_units = units_with_topics[~units_with_topics['unit_id'].isin(noisy_units)].copy()
+    
     filtered_metadata.to_csv(root / "data" / "embeddings" / "modeling_units_metadata.csv", index=False)
+    filtered_units.to_csv(root / "data" / "embeddings" / "modeling_units_with_topics.csv", index=False)
     np.save(root / "data" / "embeddings" / "unit_embeddings.npy", filtered_embeddings)
     
     print(f"Saved cleaned matrices. Remaining units: {len(filtered_metadata)}")

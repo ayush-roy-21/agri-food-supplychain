@@ -1,0 +1,234 @@
+
+
+=== TOPIC -1: -1_mpeda_export_trade_india ===
+Docs: ['A-APEDA-102', 'A-MPEDA-004', 'B-GD-008', 'B-GD-018', 'B-GD-020']
+  Doc 1: [Page 36]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+36 
+For this study, we used the Neilsen Norman Group’s Heuristic Evaluation to assess and 
+report the level of user -friendliness of the web portals offered by MPEDA for the 
+central sector scheme.  
+4.4 Sampling  
+Purposive sampling method was used. The sample was drawn from the list of 
+beneficiaries during the per...
+  Doc 2: [Page 100]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+100 
+Scheme: Services by MPEDA QC & ELISA labs 
+S No. Particulars Response 
+1.  Which lab services of MPEDA did 
+you take up? 
+(1) ELISA Lab for Pre-Harvest Tests 
+(2) QC Lab – Microbiology test 
+(3) QC Lab – Chemical Test for ﬁsh and 
+ﬁsh products 
+(4) QC Lab – Chemical Test for water 
+(5) QC Lab – Special package ...
+  Doc 3: [Page 1]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+1
+
+[Page 2]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+2 
+ 
+ 
+Report 
+ 
+ 
+ 
+ 
+EVALUATION & IMPACT ASSESSMENT OF THE 
+CENTRAL SECTOR SCHEME OF MARINE PRODUCTS 
+EXPORT DEVELOPMENT AUTHORITY 
+for SFC 2017-2020
+
+[Page 3]
+Evaluation and Impact Assessment of the Central Sector Scheme of MPEDA 
+3...
+
+
+=== TOPIC 0: 0_ex_eu_export_spices ===
+Docs: ['A-IEC-001', 'A-IEC-002', 'A-MPEDA-001', 'A-MPEDA-003', 'A-MPEDA-004']
+  Doc 1: Title: Gazette Notification S.O. 4031(E) - Export Inspection and Health Certification for Marine Products
+Source: Gazette of India (Department of Publication / NIC)
+URL: https://egazette.nic.in/
+Scraped Date: 2026-07-03T16:11:24.256018
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+MINISTRY OF COMMERCE AND INDUSTRY / ORDER
+Notification S.O. 4031(E) under Section 6 of the Export (Quality Control and Inspect...
+  Doc 2: Title: EIC Mandatory Consignment-Wise Inspection Scheme for Export of Spices (Chilli, Nutmeg, Curry Leaves) to EU
+URL: https://eicindia.gov.in/Spices.aspx
+Scraped Date: 2026-07-03T12:00:09.615696
+
+EXPORT INSPECTION COUNCIL OF INDIA (EIC)
+CONSIGNMENT-WISE INSPECTION & HEALTH CERTIFICATION PROTOCOL FOR EXPORT OF SPICES TO EUROPEAN UNION
+
+1. BACKGROUND & JOINT MANDATE WITH SPICES BOARD:
+Pursuant to E...
+  Doc 3: Title: Commission Implementing Regulation (EU) 2019/1793 - Temporary Increase of Official Controls on Third Country Imports
+URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1793
+Scraped Date: 2026-07-03T12:17:49.129415
+
+OFFICIAL JOURNAL OF THE EUROPEAN UNION
+COMMISSION IMPLEMENTING REGULATION (EU) 2019/1793
+on the temporary increase of official controls and emergency measures g...
+
+
+=== TOPIC 2: 2_tea_nepal_india_said ===
+Docs: ['B-GD-019', 'B-GD-024', 'B-GD-056', 'B-GD-057', 'B-GD-058']
+  Doc 1: of whom depend heavily on the Indian market. Officials say the latest development appears to have effectively reinstated testing requirements, although no formal notification has yet been received in Nepal. An official at the Nepal Tea and Coffee Development Board said the board had also learned that Indian authorities were conducting mandatory laboratory tests on tea imported from Nepal but had n...
+  Doc 2: Just two weeks after India relaxed testing requirements for Nepali tea exports, fresh hurdles have emerged as Indian authorities have again begun mandatory sampling and laboratory testing of tea purchased from Nepal, prompting Indian buyers to suspend purchases and disrupting exports once more. According to Nepali tea exporters, Indian traders have become reluctant to buy tea from Nepal after the ...
+  Doc 3: New Delhi, May 21 : India's tea exports have witnessed a remarkable growth of 93 per cent over the past decade, rising from Rs 4,509 crore in FY2013-14 to Rs 8,719 crore in FY2025-26, Union Commerce and Industry Minister Piyush Goyal said on Thursday. Highlighting the growing global appeal of Indian tea on the occasion of International Tea Day, Goyal described tea as an emotion and said it remains...
+
+
+=== TOPIC 3: 3_export_agricultural_mangoes_district ===
+Docs: ['B-GD-027', 'B-GD-072', 'B-GD-073', 'B-GD-075', 'B-GD-076']
+  Doc 1: ANI |
+ Updated: Jun 06, 2026 17:53  IST
+
+New Delhi [India], June 6 (ANI): Aamrapali mangoes grown by a women led farmer producer company in Jharkhand's Simdega district are reaching the United Kingdom, Union Commerce and Industry Minister Piyush Goyal said on Saturday, highlighting the growing global footprint of India's agricultural exports.Sharing the development on social media platform X, Goya...
+  Doc 2: ANI | Updated: Jun 25, 2026 13:21 IST New Delhi [India], June 25 (ANI): The Agricultural and Processed Food Products Export Development Authority (APEDA), under the Ministry of Commerce and Industry, has facilitated the first commercial sea shipment of premium Banganapalle mangoes from India to Singapore, marking a significant step in promoting cost-effective and sustainable exports of Indian hort...
+  Doc 3: The Agricultural and Processed Food Products Export Development Authority (APEDA), under the Ministry of Commerce & Industry, has facilitated the commercial export of 2 metric tonnes (MT) of Amrapali mangoes from the Aspirational District of Gumla and Aspirational Block of Deoghar in Jharkhand to Dubai on July 3, 2026. The consignment was exported by M/s Fair Exports (India) Pvt. Ltd. for retail d...
+
+
+=== TOPIC 4: 4_data_eudr_2025_et al ===
+Docs: ['A-CSR-100', 'A-EUDR-100', 'A-EUDR-102', 'A-CSR-102', 'A-CSR-002']
+  Doc 1: [Page 4]
+governance realms which their partners must adapt to ( Aaronson and 
+Leblond, 2018 ). In the EU, the General Data Protection Regulation 
+(GDPR) gives fundamental rights and control over personal data to the 
+primary owners (data subjects) ( Regulation (EU) 2016/679 ). The GDPR 
+protects the personal data of EU residents, as well as that of residents of 
+third countries once it enters the ...
+  Doc 2: [Page 1]
+Commentary
+Dealing with the cost of EUDR compliance data and potential monetisation: 
+Opportunities and risks
+Lydia Afriyie-Kraft
+*
+, Astrid Zabel , Thomas Breu
+Centre for Development and Environment, University of Bern, Mittelstrasse 43, 3012 Bern, Switzerland
+ARTICLE INFO
+Keywords 
+EUDR
+Compliance cost
+Data monetisation
+Data protection
+Personal data
+ABSTRACT
+The European Union Deforesta...
+  Doc 3: [Page 2]
+4 mandates operators (importers) to exercise due diligence before 
+placing any relevant products on the EU market. As outlined in Articles 
+8, 9 and 10 of the EUDR, due diligence includes collecting and assessing 
+large amounts of data, e. g. geolocation data and documents proving 
+legal production. This data must be collected at the beginning of each 
+supply chain, processed by various a...
+
+
+=== TOPIC 6: 6_fisheries_seafood_exports_value ===
+Docs: ['B-GD-006', 'B-GD-007', 'B-GD-009', 'B-GD-011', 'B-GD-015']
+  Doc 1: Speaking at a national workshop on seafood exports in Visakhapatnam, Goyal said the ambitious target is achievable but only if the sector sharpens its focus on production quality and value-added goods rather than raw commodities."Take India's fish across the world. Reduce import of raw shrimp and export value-added goods and build brands," he urged industry stakeholders.Goyal also pointed to India...
+  Doc 2: development of global markets alongside domestic markets. Noting the vast untapped potential of the fisheries sector, he underscored opportunities in ready-to-eat and ready-to-cook segments, which are witnessing growing global demand. "Take India's fish across the world. Reduce import of raw shrimp and export value-added goods and build brands," he urged industry stakeholders.Goyal also pointed to...
+  Doc 3: of global markets alongside domestic markets. Noting the vast untapped potential of the fisheries sector, he underscored opportunities in ready-to-eat and ready-to-cook segments, which are witnessing growing global demand. (ANI) Speaking at a national workshop on seafood exports in Visakhapatnam, Goyal said the ambitious target is achievable but only if the sector sharpens its focus on production ...
+
+
+=== TOPIC 7: 7_rice_tonnes_million_said ===
+Docs: ['B-GD-038', 'B-GD-039', 'B-GD-040', 'B-GD-041', 'B-GD-043']
+  Doc 1: GM crops, other than cotton. The affected companies had taken up the matter with India’s agri export promotion body APEDA as well as the Indian Council of Agricultural Research (ICAR). Industry sources said that China grows GM rice, and in 2006, the European Union had flagged the issue of GM contamination in Chinese rice. India had exported 180,805 tonnes worth $79.43 million of non-Basmati rice t...
+  Doc 2: to over 590 lakh tonnes. He noted that efficient logistics, scientific storage systems, and modern transport infrastructure are now essential to prevent post-harvest losses and maintain grain quality over time. Also Read: That Perfect Millet Rice Recipe Is Not A Dream Anymore, Check How? Industry stakeholders are also pressing for the introduction of a single-window clearance system to simplify li...
+  Doc 3: The rice industry in West Bengal, the country’s largest rice-producing State, has sought better infrastructure, faster approvals and stronger export promotion from the new BJP Government in the State to boost growth and investments in the sector. Ricevilla Foods CEO Suraj Agarwal said the industry was looking for improvement in infrastructure for rice mills and warehouses, particularly in rural ar...
+
+
+=== TOPIC 8: 8_yogi_indias_farmers_minister ===
+Docs: ['B-GD-017', 'B-GD-021', 'B-GD-030', 'B-GD-032', 'B-GD-033']
+  Doc 1: also highlighted the proposed "Spice and Heal" initiative, noting that it could become a powerful branding campaign positioning India as a global leader in holistic health and natural healing solutions. Emphasising the government's commitment to empowering MSMEs, startups, women entrepreneurs, farmers, and young innovators, the minister said the initiative aligns closely with the vision of Prime M...
+  Doc 2: reduced dependence on intermediaries. It will also create local employment opportunities in processing, packaging and logistics and promote exports of certified organic products from the North East, the statement added. Meanwhile, the Indiaâ€"European Union Free Trade Agreement (FTA) is expected to significantly enhance export opportunities for Indian spices, with improved market access, regulator...
+  Doc 3: to benefit millet-growing farmers through enhanced demand and improved market access. Such initiatives contribute to strengthening India's agri-export ecosystem while generating opportunities across the millet value chain, the statement said. The successful shipment demonstrates the increasing global acceptance of innovative millet-based products and reinforces the growing potential of India's mil...
+
+
+=== TOPIC 10: 10_sustainability_ar_inf_directive ===
+Docs: ['A-EUDR-101', 'A-CSR-001']
+  Doc 1: [Page 60]
+(26) Ar ticle 38 is amended as f ollows :
+(a) paragraph 1 is replaced by the f ollowi ng:
+‘1. Member Stat es shall ensure that statut or y auditors or audit fir ms ma y be dismissed only where there are 
+proper grounds. Diverg ence of opinions on accounting treatments, audit procedures or , where applicable, on 
+sustainability repor ting or assurance procedures shall not be proper ground...
+  Doc 2: [Page 28]
+(2) Ar ticle 2 is amended as f ollo ws:
+(a) point (5) is replaced by the f ollowi ng:
+‘(5) “net tur nover” means the amounts der ived from the sale of products and the pro vision of ser vices af ter 
+deducting sales rebate s and value added tax and other taxe s directly linke d to tur no ver ; however , f or 
+insurance under takings refe r red to in point (a) of the first subparagraph of...
+  Doc 3: [Page 12]
+(34) It is not the objective of this amending Directive to require under takings to disclose intellectual capital, intellectual 
+proper ty , know-ho w or the results of innovati on that w ould qualify as trade secrets as defined in Directive (EU) 
+2016/943 of the European P arliament and of the Council (
+22
+) . Repor ting requirements pro vided f or in this 
+amending Directive should the...
+
+
+=== TOPIC 11: 11_cent_exports_value_volume ===
+Docs: ['A-MPEDA-004', 'B-GD-001', 'B-GD-002', 'B-GD-012', 'B-GD-013']
+  Doc 1: India's seafood exports achieved a historic high of ₹72,325.82 crore in the 2025-26 financial year. Frozen shrimp was the primary growth driver, making up more than two-thirds of the total export earnings. While exports to the United States declined, significant growth in markets like China and the European Union compensated for the shortfall. Major ports like Visakhapatnam and JNPT handled nearly...
+  Doc 2: ANI |
+ Updated: Apr 21, 2026 22:10  IST
+
+New Delhi [India], April 21 (ANI): India's marine exports surged to an all-time high of ₹72,325.82 crore (USD 8.28 billion) in FY 2025-26, with total export volumes reaching 19.32 lakh metric tonnes, according to provisional data released by the Marine Products Export Development Authority (MPEDA) on Tuesday.Frozen shrimp remained the key driver of growth, ...
+  Doc 3: New Delhi, April 22 (IANS) India’s seafood exports surged to a record Rs 72,325.82 crore ($8.28 billion) in FY26, with volumes reaching 19.32 lakh metric tonnes, according to provisional data released by the Marine Products Export Development Authority (MPEDA).
+
+Frozen shrimp remained the primary growth driver, contributing Rs 47,973.13 crore ($5.51 billion), accounting for over two-thirds of tota...
+
+
+=== TOPIC 12: 12_shall_food_meat_storage ===
+Docs: ['A-FSSAI-001', 'A-MPEDA-003']
+  Doc 1: [Page 36]
+100 THE  GAZETTE  OF  INDIA  :  EXTRAORDINARY [P ART III—S EC. 4]
+any meat food product is prepared or handled shall be free from dust and from odours emanating from dressing
+rooms, toilet rooms, catch basins, hide cellars, casing rooms and livestock pens.
+4.09 Every practicable precaution shall be taken to exclude flies, rats, mice and vermin from the establishments
+/ Slaughter Houses. ...
+  Doc 2: [Page 23]
+¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 87
+ Part I - General Hygienic and Sanitary practices to be followed by Petty Food Business Operators applying for
+Registration
+(See Regulation 2.1.1(2))
+In case inspection of the units is directed by the Registering or Licensing Authority, the inspection should confirm
+that the following measures are adopted by the unit as far as possible:
+ S...
+  Doc 3: [Page 27]
+¹Hkkx III— [k.M 4º Hkkjr dk jkti=k % vlk/kj.k 91
+4.5 Drainage and waste disposal
+4.5.1 Food waste and other waste materials shall be removed periodically from the place where food is being
+handled or cooked or manufactured to avoid building up. A refuse bin of adequate size with a proper cover
+preferably one which need not be touched for opening shall be provided in the premises for coll...
+
+
+=== TOPIC 14: 14_slavery_modern slavery_modern_supply ===
+Docs: ['A-CSR-101']
+  Doc 1: [Page 8]
+around our four key contingencies, focusing on how they facilitate (or 
+inhibit) identifying modern slavery by leveraging monitoring technol -
+ogies through multi-actor collaboration. Collectively, the findings pro -
+vide a basis for directly answering our research question.
+4.1. Modern slavery posture
+Modern slavery posture refers to the reason why an organization 
+pursues collaboration....
+  Doc 2: [Page 14]
+Previous studies have demonstrated that actors tend to focus on 
+developing collaborations that assist them in advancing their strategic 
+goals ( Shiu et al., 2023 ); for example by developing dyadic relationships 
+with individual actors such as certifiers ( Castka et al., 2015 ). Organi -
+zations operating in such institutional environments thus primarily seek 
+to maintain their autonom...
+  Doc 3: [Page 3]
+Stevenson and Cole, 2018 ), or there can be inaction and the failure to 
+acknowledge its occurrence ( Stevenson, 2022 ).
+The contracts- and conditions-focused domains provide a granular 
+understanding of how to identify modern slavery, recognizing how 
+different approaches can lead to different outcomes. However, much like 
+firms can simultaneously adopt symbolic and substantive practices...
