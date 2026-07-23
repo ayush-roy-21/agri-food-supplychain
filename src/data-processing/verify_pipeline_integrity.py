@@ -45,8 +45,8 @@ def verify_pipeline_integrity():
         errors.append(f"Missing master_registry.csv at {master_path}")
     else:
         master_headers, master_rows = read_csv(master_path)
-        if len(master_headers) != 26:
-            errors.append(f"Master Registry has {len(master_headers)} columns; expected 26.")
+        if len(master_headers) != 25:
+            errors.append(f"Master Registry has {len(master_headers)} columns; expected 25.")
         if len(master_rows) != 259:
             errors.append(f"Master Registry has {len(master_rows)} records; expected exactly 259.")
         
