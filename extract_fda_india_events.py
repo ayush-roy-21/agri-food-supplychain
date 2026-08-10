@@ -88,10 +88,17 @@ def parse_firm_blocks(full_text, list_type, alert_number, alert_name, url):
     )
     for m in firm_pattern.finditer(block_text):
         firm_name, date_pub, address_raw = m.groups()
+        address_clean = address_raw.strip().replace('\n', ' ')
+        state = ''
+        if ',' in address_clean:
+            state = address_clean.split(',')[-1].strip()
+        else:
+            state = address_clean.split()[-1] if address_clean else ''
+            
         events.append({
             'alert_number': alert_number, 'alert_name': alert_name, 'list_type': list_type,
-            'firm_name': firm_name.strip(), 'address_raw': address_raw.strip().replace('\n', ' '),
-            'state': '', 'country': 'INDIA', 'product_code': '', 'product_desc': '',
+            'firm_name': firm_name.strip(), 'address_raw': address_clean,
+            'state': state, 'country': 'INDIA', 'product_code': '', 'product_desc': '',
             'date_published': date_pub.strip(), 'notes': '', 'source_url': url,
             'extraction_date': datetime.now(timezone.utc).date().isoformat(),
         })
