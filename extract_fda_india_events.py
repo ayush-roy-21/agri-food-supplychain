@@ -122,18 +122,20 @@ def parse_firm_blocks(full_text, list_type, alert_number, alert_name, url):
     block_text = full_text[idx:]
 
     firm_pattern = re.compile(
-        r"\n([A-Z][A-Za-z0-9&.,()\-/ ]{2,80})\n\s*Date Published\s*:\s*([\d/]+)\n"
-        r"([^\n]+(?:\n[^\n]+){0,3}?)\n\s*([A-Za-z ]+)\s+INDIA\n"
+        r"\n([A-Z][A-Za-z0-9&.,()\-/ ]{2,80}?)\s*\n+\s*"
+        r"Date Published\s*:\s*([\d/]+)\s*\n+"
+        r"([\s\S]{1,200}?)\s*INDIA\b"
     )
     for m in firm_pattern.finditer(block_text):
-        firm_name, date_pub, address_raw, state = m.groups()
+        firm_name, date_pub, address_raw = m.groups()
+        state = "" # State is hard to reliably parse out of the raw address block
         events.append({
             "alert_number": alert_number,
             "alert_name": alert_name,
             "list_type": list_type,
             "firm_name": firm_name.strip(),
             "address_raw": address_raw.strip().replace("\n", " "),
-            "state": state.strip(),
+            "state": state,
             "country": "INDIA",
             "product_code": "",
             "product_desc": "",
