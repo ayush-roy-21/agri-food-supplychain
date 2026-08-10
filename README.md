@@ -242,7 +242,7 @@ To support thesis examination, external review, and computational trade policy r
 | **Data Collection Protocol** | `[DATA_COLLECTION_PROTOCOL.md](file:///e:/Summer%20Internship%2726/agri-food-project/docs/DATA_COLLECTION_PROTOCOL.md)` | Rigorous step-by-step extraction, DQA evaluation, and Stage 4 MSME verification protocol across all scraper modules. |
 | **Registry Schema & Exceptions** | `[REGISTRY_SCHEMA.md](file:///e:/Summer%20Internship%2726/agri-food-project/docs/REGISTRY_SCHEMA.md)` | Complete data dictionary for `master_registry.csv` (`25 columns`), `chunk_manifest.csv`, and `exceptions_log.csv` (`599 records`). |
 
-### Reproducibility Guarantee & Verification Commands
+### Reproducibility Guarantee & Verification Command
 All computational results presented in this project correspond exactly to stable Git release tag **`v1.1.0`**. Researchers can verify byte-for-byte dataset integrity, exact parent counts (`112 Corpus A + 147 Corpus B = 259 parents`), down-weighted chunk sampling (`357 chunks`), verified modeling units (`152 units`), and embedding matrix shapes (`152 × 768`) at any time by executing:
 ```bash
 python src/data-processing/verify_pipeline_integrity.py
