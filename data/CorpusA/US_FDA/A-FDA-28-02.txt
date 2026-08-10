@@ -1,0 +1,859 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Import Alert 28-02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+Skip to main page content
+
+
+Skip to search
+
+
+Skip to topics menu
+
+
+Skip to common links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+HHS
+ 
+U.S. Department of Health and Human Services
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+U.S. Food and Drug Administration
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+A to Z Index
+
+
+Follow FDA
+
+
+En Español
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search FDA
+
+
+
+
+
+
+Submit search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Content
+
+
+Home
+
+
+Food
+
+
+Drugs
+
+
+Medical Devices
+
+
+Radiation-Emitting Products
+
+
+Vaccines, Blood & Biologics
+
+
+Animal & Veterinary
+
+
+Cosmetics
+
+
+Tobacco Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Import Program
+ 
+Import Alerts
+ 
+Imports Alerts by Number
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Import Alert 28-02
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+
+
+
+
+
+Tweet
+
+
+
+
+Linkedin
+
+
+Pin it
+
+
+
+
+More sharing options
+
+
+
+
+
+
+Linkedin
+
+
+
+
+
+
+Pin it
+
+
+
+
+
+
+
+
+
+
+Email
+
+
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Note: This import alert represents the Agency's current guidance to FDA field personnel regarding the manufacturer(s) and/or products(s) at issue. It does not create or confer any rights for or on any person, and does not operate to bind FDA or the public).
+
+
+Import Alert
+ # 28-02
+
+
+Published Date:
+  03/05/2026
+
+
+Type:
+  DWPE
+
+
+Import Alert Name:
+
+
+"DETENTION WITHOUT PHYSICAL EXAMINATION OF BLACK PEPPER FROM INDIA"
+
+
+Reason for Alert:
+
+
+ Note: The revision of this Import Alert (IA) dated 10/31/2022 updates the name of the alert, guidance section including agency contacts, charge codes and charge code language and product description. Changes to the import alert are bracketed by asterisks (***).
+From December 1, 1986, through May 31, 1987, 20 out of 60 shipments of black pepper (peppercorns) that were sampled, or 33 percent, were detained for filth. The 20 detentions represented 11 different shippers. These findings resulted in black pepper from India being placed under detention without physical examination in July 1987.
+Discussions between FDA and the Government of India resulted in a certification program being implemented by the Export Inspection Council (EIC) of the Indian Ministry of Commerce. Under this program the EIC is committed to: sample and test each lot of black pepper exported to the United states; only permit those lots that comply with FDA's requirements for Salmonella, filth, mold and foreign matter to be exported to the United States; and supply a certificate, to be attached to the shipping manifest of each lot found acceptable for export to the United States.
+On March 9, 1989, a field assignment issued to NYK-DO and BLT-DO for the collection of Indian black pepper samples from entries with EIC certificates. The objective of the assignment was to determine the effectiveness of the certification program. Results from 23 samples collected during the period of March 1989 through September 1989 did not reveal any violative certified entries.
+Because of the apparently successful certification program initiated by the Government of India, detention without physical examination of Indian black pepper shipments will not be invoked when such shipments are accompanied by certificates.
+
+
+Guidance:
+
+
+ ***Divisions may detain without physical examination, all shipments of black pepper (including whole peppercorns, ground, crushed, etc.) from
+India not accompanied by a certificate from the Indian EIC. 
+EIC certificates should contain the following information:
+a. Lot identification number;
+b. Number and size of containers in the lot; 
+c. Analytical methodology used to determine levels of adulterants/ contaminants;
+d. Analytical results of tests for Salmonella, filth, mold and foreign matter;
+e. Date of certificate; and, 
+f. Name and stamp or seal of authorizing official.
+All requests for addition to DWPE will be evaluated by the Division of Import Operations (DIO) and the Center for Food Safety and Applied Nutrition (CFSAN), Office of Compliance, Division of Enforcement.***
+Audit sampling of shipments accompanied by certificates is at the discretion of each Division. However, please alert CFSAN's Division of Enforcement (HFS-605), Division of Field Programs and Guidance, when entries accompanied by certificates are found violative.
+***Release of Articles Subject to Detention Without Physical Examination under This Import Alert:
+In order to secure release of an individual shipment subject to DWPE under this import alert, the owner, consignee and/or other responsible party for the affected goods should provide evidence which demonstrates that the product does not contain Salmonella and Filth. Such evidence may include private laboratory analysis of samples.
+Such evidence should be submitted to the appropriate FDA Division Compliance Office for consideration, per the notice of detention. If a private laboratory is used, further information regarding private laboratory analyses is found in FDA's Laboratory Procedure-Private Laboratory Analytical Packages. Following receipt and review of analytical results, the FDA may, at its discretion, collect and analyze audit samples before rendering a final decision on the admissibility of the article.***
+***
+Questions or issues involving import operations should be addressed to OII Division of Import Operations (DIO) at (301) 796-0356 or Imports@fda.hhs.gov.
+Questions or issues involving science policy, analysis, preparation, or analytical methodology, should be addressed to FDAPRIVATELABIMPORTALERTS@fda.hhs.gov
+Questions or issues with regard to human food on policy, sample collection recommendations, or any additional questions not directly related to a detained entry, should be addressed to the Human Foods Program Imports Enforcement Branch at HFP-OCE-Imports@fda.hhs.gov
+                                                                                                                                                                
+ ***
+
+
+Product Description:
+
+
+ ***Black Pepper (including whole peppercorns, ground, crushed, etc.)***
+
+
+Charge:
+
+
+ *** The article is subject to refusal of admission 	pursuant to Section 801(a)(3) in it appears to contain Salmonella, a poisonous or deleterious 
+substance which may render it injurious to health [402(a)(1) Adulteration]."
+OASIS charge code – SALMONELLA
+AND/OR
+"The article is subject to refusal of admission pursuant to Section 801(a)(3) in that the article appears to consist in whole or in part of a filthy,
+putrid, or decomposed substance or be otherwise unfit for food [402(a)(3) Adulteration]."
+OASIS charge code – FILTHY ***
+
+
+Countries
+
+
+
+
+
+
+INDIA
+
+
+
+
+
+
+
+
+
+
+(28 A - - 54)
+ Pepper,Black, Whole (Spice)
+
+
+
+
+
+											Problems:SALMONELLA;
+										
+
+
+
+
+
+
+
+
+(28 B - - 54)
+ Pepper, Black, Ground, Cracked  (Spice)
+
+
+
+
+
+											Problems:SALMONELLA;
+										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+FDA
+ 
+
+
+
+
+
+
+Accessibility
+
+
+Careers
+
+
+FDA Basics
+
+
+FOIA
+
+
+No FEAR Act
+
+
+Site Map
+
+
+Nondiscrimination
+
+
+Website Policies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U.S. Food and Drug Administration
+
+                    10903 New Hampshire Avenue
+
+                    Silver Spring, MD 20993
+
+                    1-888-INFO-FDA (1-888-463-6332)
+
+
+ Contact FDA
+
+
+
+
+
+
+ 
+Subscribe to FDA RSS feeds
+ 
+Follow FDA on Twitter
+ 
+Follow FDA on Facebook
+ 
+View FDA videos on YouTube
+ 
+View FDA photos on Flickr
+ 
+
+
+
+
+
+
+
+
+
+
+ FDA Archive
+
+
+ Combination Products
+
+
+ Advisory Committees
+
+
+ Regulatory Information
+
+
+ Safety
+
+
+
+
+
+
+
+
+
+
+ Emergency Preparedness
+
+
+ International Programs
+
+
+ News & Events
+
+
+ Training & Continuing Education
+
+
+ Inspections & Compliance
+
+
+
+
+
+
+
+
+
+
+ Federal, State & Local Officials
+
+
+ Consumers
+
+
+ Health Professionals
+
+
+ Science & Research
+
+
+ Industry
+
+
+Vulnerability Disclosure Policy
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Scroll back to top
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Content
+
+
+
+
+Home
+
+
+Latest Recalls
+
+
+Report an Adverse Event
+
+
+MedWatch Safety Alerts
+
+
+News Releases
+
+
+Consumer Updates
+
+
+About FDA
+
+
+Contact FDA
+
+
+ 
+Browse by Product Area
+
+
+
+
+Product Areas
+
+
+back
+
+
+
+
+Food
+
+
+Drugs
+
+
+Medical Devices
+
+
+Radiation-Emitting Products
+
+
+Vaccines, Blood & Biologics
+
+
+Animal & Veterinary
+
+
+Cosmetics
+
+
+Tobacco Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
