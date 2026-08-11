@@ -1,0 +1,66 @@
+record_id,comment_id,udyam_verified,instruments_named,multi_instrument_flag,comment_text
+B-YT-001,C001,False,"EUDR, MPEDA",True,Placeholder hand-coded text for MSME voice.
+B-YT-001,C002,False,"TraceNet, CSRD",True,Placeholder hand-coded text for MSME voice.
+B-YT-002,C003,False,"APEDA, FSSAI",True,Placeholder hand-coded text for MSME voice.
+B-YT-002,C004,False,"EUDR, MPEDA",True,Placeholder hand-coded text for MSME voice.
+B-YT-003,C005,False,"TraceNet, CSRD",True,Placeholder hand-coded text for MSME voice.
+B-YT-003,C006,False,"APEDA, FSSAI",True,Placeholder hand-coded text for MSME voice.
+B-YT-004,C007,False,"EUDR, MPEDA",True,Placeholder hand-coded text for MSME voice.
+B-YT-004,C008,False,"TraceNet, CSRD",True,Placeholder hand-coded text for MSME voice.
+B-YT-005,C009,False,"APEDA, FSSAI",True,Placeholder hand-coded text for MSME voice.
+B-YT-005,C010,False,"EUDR, MPEDA",True,Placeholder hand-coded text for MSME voice.
+B-YT-006,C011,False,"TraceNet, CSRD",True,Placeholder hand-coded text for MSME voice.
+B-YT-006,C012,False,"APEDA, FSSAI",True,Placeholder hand-coded text for MSME voice.
+B-YT-007,C013,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-007,C014,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-008,C015,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-008,C016,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-009,C017,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-009,C018,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-010,C019,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-010,C020,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-011,C021,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-011,C022,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-012,C023,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-012,C024,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-013,C025,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-013,C026,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-014,C027,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-014,C028,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-015,C029,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-015,C030,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-016,C031,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-016,C032,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-017,C033,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-017,C034,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-018,C035,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-018,C036,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-019,C037,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-019,C038,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-020,C039,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-020,C040,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-021,C041,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-021,C042,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-022,C043,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-022,C044,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-023,C045,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-023,C046,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-024,C047,True,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-024,C048,True,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-025,C049,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-025,C050,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-026,C051,True,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-026,C052,True,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-027,C053,True,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-028,C054,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-029,C055,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-030,C056,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-031,C057,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-032,C058,True,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-033,C059,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-034,C060,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-035,C061,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-036,C062,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-037,C063,False,FSSAI,False,Placeholder hand-coded text for MSME voice.
+B-YT-038,C064,False,APEDA,False,Placeholder hand-coded text for MSME voice.
+B-YT-039,C065,False,MPEDA,False,Placeholder hand-coded text for MSME voice.
