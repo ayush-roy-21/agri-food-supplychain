@@ -1,282 +1,289 @@
-firm_name,udyam_verified,iec_verified,cres_verified
-Dummy Firm 0,False,False,False
-Dummy Firm 1,False,False,False
-Dummy Firm 2,False,False,False
-Dummy Firm 3,False,False,False
-Dummy Firm 4,False,False,False
-Dummy Firm 5,False,False,False
-Dummy Firm 6,False,False,False
-Dummy Firm 7,False,False,False
-Dummy Firm 8,False,False,False
-Dummy Firm 9,False,False,False
-Dummy Firm 10,False,False,False
-Dummy Firm 11,False,False,False
-Dummy Firm 12,False,False,False
-Dummy Firm 13,False,False,False
-Dummy Firm 14,False,False,False
-Dummy Firm 15,False,False,False
-Dummy Firm 16,False,False,False
-Dummy Firm 17,False,False,False
-Dummy Firm 18,False,False,False
-Dummy Firm 19,False,False,False
-Dummy Firm 20,False,False,False
-Dummy Firm 21,False,False,False
-Dummy Firm 22,False,False,False
-Dummy Firm 23,False,False,False
-Dummy Firm 24,False,False,False
-Dummy Firm 25,False,False,False
-Dummy Firm 26,False,False,False
-Dummy Firm 27,False,False,False
-Dummy Firm 28,False,False,False
-Dummy Firm 29,False,False,False
-Dummy Firm 30,False,False,False
-Dummy Firm 31,False,False,False
-Dummy Firm 32,False,False,False
-Dummy Firm 33,False,False,False
-Dummy Firm 34,False,False,False
-Dummy Firm 35,False,False,False
-Dummy Firm 36,False,False,False
-Dummy Firm 37,False,False,False
-Dummy Firm 38,False,False,False
-Dummy Firm 39,False,False,False
-Dummy Firm 40,False,False,False
-Dummy Firm 41,False,False,False
-Dummy Firm 42,False,False,False
-Dummy Firm 43,False,False,False
-Dummy Firm 44,False,False,False
-Dummy Firm 45,False,False,False
-Dummy Firm 46,False,False,False
-Dummy Firm 47,False,False,False
-Dummy Firm 48,False,False,False
-Dummy Firm 49,False,False,False
-Dummy Firm 50,False,False,False
-Dummy Firm 51,False,False,False
-Dummy Firm 52,False,False,False
-Dummy Firm 53,False,False,False
-Dummy Firm 54,False,False,False
-Dummy Firm 55,False,False,False
-Dummy Firm 56,False,False,False
-Dummy Firm 57,False,False,False
-Dummy Firm 58,False,False,False
-Dummy Firm 59,False,False,False
-Dummy Firm 60,False,False,False
-Dummy Firm 61,False,False,False
-Dummy Firm 62,False,False,False
-Dummy Firm 63,False,False,False
-Dummy Firm 64,False,False,False
-Dummy Firm 65,False,False,False
-Dummy Firm 66,False,False,False
-Dummy Firm 67,False,False,False
-Dummy Firm 68,False,False,False
-Dummy Firm 69,False,False,False
-Dummy Firm 70,False,False,False
-Dummy Firm 71,False,False,False
-Dummy Firm 72,False,False,False
-Dummy Firm 73,False,False,False
-Dummy Firm 74,False,False,False
-Dummy Firm 75,False,False,False
-Dummy Firm 76,False,False,False
-Dummy Firm 77,False,False,False
-Dummy Firm 78,False,False,False
-Dummy Firm 79,False,False,False
-Dummy Firm 80,False,False,False
-Dummy Firm 81,False,False,False
-Dummy Firm 82,False,False,False
-Dummy Firm 83,False,False,False
-Dummy Firm 84,False,False,False
-Dummy Firm 85,False,False,False
-Dummy Firm 86,False,False,False
-Dummy Firm 87,False,False,False
-Dummy Firm 88,False,False,False
-Dummy Firm 89,False,False,False
-Dummy Firm 90,False,False,False
-Dummy Firm 91,False,False,False
-Dummy Firm 92,False,False,False
-Dummy Firm 93,False,False,False
-Dummy Firm 94,False,False,False
-Dummy Firm 95,False,False,False
-Dummy Firm 96,False,False,False
-Dummy Firm 97,False,False,False
-Dummy Firm 98,False,False,False
-Dummy Firm 99,False,False,False
-Dummy Firm 100,False,False,False
-Dummy Firm 101,False,False,False
-Dummy Firm 102,False,False,False
-Dummy Firm 103,False,False,False
-Dummy Firm 104,False,False,False
-Dummy Firm 105,False,False,False
-Dummy Firm 106,False,False,False
-Dummy Firm 107,False,False,False
-Dummy Firm 108,False,False,False
-Dummy Firm 109,False,False,False
-Dummy Firm 110,False,False,False
-Dummy Firm 111,False,False,False
-Dummy Firm 112,False,False,False
-Dummy Firm 113,False,False,False
-Dummy Firm 114,False,False,False
-Dummy Firm 115,False,False,False
-Dummy Firm 116,False,False,False
-Dummy Firm 117,False,False,False
-Dummy Firm 118,False,False,False
-Dummy Firm 119,False,False,False
-Dummy Firm 120,False,False,False
-Dummy Firm 121,False,False,False
-Dummy Firm 122,False,False,False
-Dummy Firm 123,False,False,False
-Dummy Firm 124,False,False,False
-Dummy Firm 125,False,False,False
-Dummy Firm 126,False,False,False
-Dummy Firm 127,False,False,False
-Dummy Firm 128,False,False,False
-Dummy Firm 129,False,False,False
-Dummy Firm 130,False,False,False
-Dummy Firm 131,False,False,False
-Dummy Firm 132,False,False,False
-Dummy Firm 133,False,False,False
-Dummy Firm 134,False,False,False
-Dummy Firm 135,False,False,False
-Dummy Firm 136,False,False,False
-Dummy Firm 137,False,False,False
-Dummy Firm 138,False,False,False
-Dummy Firm 139,False,False,False
-Dummy Firm 140,False,False,False
-Dummy Firm 141,False,False,False
-Dummy Firm 142,False,False,False
-Dummy Firm 143,False,False,False
-Dummy Firm 144,False,False,False
-Dummy Firm 145,False,False,False
-Dummy Firm 146,False,False,False
-Dummy Firm 147,False,False,False
-Dummy Firm 148,False,False,False
-Dummy Firm 149,False,False,False
-Dummy Firm 150,False,False,False
-Dummy Firm 151,False,False,False
-Dummy Firm 152,False,False,False
-Dummy Firm 153,False,False,False
-Dummy Firm 154,False,False,False
-Dummy Firm 155,False,False,False
-Dummy Firm 156,False,False,False
-Dummy Firm 157,False,False,False
-Dummy Firm 158,False,False,False
-Dummy Firm 159,False,False,False
-Dummy Firm 160,False,False,False
-Dummy Firm 161,False,False,False
-Dummy Firm 162,False,False,False
-Dummy Firm 163,False,False,False
-Dummy Firm 164,False,False,False
-Dummy Firm 165,False,False,False
-Dummy Firm 166,False,False,False
-Dummy Firm 167,False,False,False
-Dummy Firm 168,False,False,False
-Dummy Firm 169,False,False,False
-Dummy Firm 170,False,False,False
-Dummy Firm 171,False,False,False
-Dummy Firm 172,False,False,False
-Dummy Firm 173,False,False,False
-Dummy Firm 174,False,False,False
-Dummy Firm 175,False,False,False
-Dummy Firm 176,False,False,False
-Dummy Firm 177,False,False,False
-Dummy Firm 178,False,False,False
-Dummy Firm 179,False,False,False
-Dummy Firm 180,False,False,False
-Dummy Firm 181,False,False,False
-Dummy Firm 182,False,False,False
-Dummy Firm 183,False,False,False
-Dummy Firm 184,False,False,False
-Dummy Firm 185,False,False,False
-Dummy Firm 186,False,False,False
-Dummy Firm 187,False,False,False
-Dummy Firm 188,False,False,False
-Dummy Firm 189,False,False,False
-Dummy Firm 190,False,False,False
-Dummy Firm 191,False,False,False
-Dummy Firm 192,False,False,False
-Dummy Firm 193,False,False,False
-Dummy Firm 194,False,False,False
-Dummy Firm 195,False,False,False
-Dummy Firm 196,False,False,False
-Dummy Firm 197,False,False,False
-Dummy Firm 198,False,False,False
-Dummy Firm 199,False,False,False
-Dummy Firm 200,False,False,False
-Dummy Firm 201,False,False,False
-Dummy Firm 202,False,False,False
-Dummy Firm 203,False,False,False
-Dummy Firm 204,False,False,False
-Dummy Firm 205,False,False,False
-Dummy Firm 206,False,False,False
-Dummy Firm 207,False,False,False
-Dummy Firm 208,False,False,False
-Dummy Firm 209,False,False,False
-Dummy Firm 210,False,False,False
-Dummy Firm 211,False,False,False
-Dummy Firm 212,False,False,False
-Dummy Firm 213,False,False,False
-Dummy Firm 214,False,False,False
-Dummy Firm 215,False,False,False
-Dummy Firm 216,False,False,False
-Dummy Firm 217,False,False,False
-Dummy Firm 218,False,False,False
-Dummy Firm 219,False,False,False
-Dummy Firm 220,False,False,False
-Dummy Firm 221,False,False,False
-Dummy Firm 222,False,False,False
-Dummy Firm 223,False,False,False
-Dummy Firm 224,False,False,False
-Dummy Firm 225,False,False,False
-Dummy Firm 226,False,False,False
-Dummy Firm 227,False,False,False
-Dummy Firm 228,False,False,False
-Dummy Firm 229,False,False,False
-Dummy Firm 230,False,False,False
-Dummy Firm 231,False,False,False
-Dummy Firm 232,False,False,False
-Dummy Firm 233,False,False,False
-Dummy Firm 234,False,False,False
-Dummy Firm 235,False,False,False
-Dummy Firm 236,False,False,False
-Dummy Firm 237,False,False,False
-Dummy Firm 238,False,False,False
-Dummy Firm 239,False,False,False
-Dummy Firm 240,False,False,False
-Dummy Firm 241,False,False,False
-Dummy Firm 242,False,False,False
-Dummy Firm 243,False,False,False
-Dummy Firm 244,False,False,False
-Dummy Firm 245,False,False,False
-Dummy Firm 246,False,False,False
-Dummy Firm 247,False,False,False
-Dummy Firm 248,False,False,False
-Dummy Firm 249,False,False,False
-Dummy Firm 250,False,False,False
-Dummy Firm 251,False,False,False
-Dummy Firm 252,False,False,False
-Dummy Firm 253,False,False,False
-Dummy Firm 254,False,False,False
-Dummy Firm 255,False,False,False
-Dummy Firm 256,False,False,False
-Dummy Firm 257,False,False,False
-Dummy Firm 258,False,False,False
-Dummy Firm 259,False,False,False
-Dummy Firm 260,False,False,False
-Dummy Firm 261,False,False,False
-Dummy Firm 262,False,False,False
-Dummy Firm 263,False,False,False
-Dummy Firm 264,False,False,False
-Dummy Firm 265,False,False,False
-Dummy Firm 266,False,False,False
-Dummy Firm 267,False,False,False
-Dummy Firm 268,False,False,False
-Dummy Firm 269,False,False,False
-Dummy Firm 270,False,False,False
-Dummy Firm 271,False,False,False
-Dummy Firm 272,False,False,False
-Dummy Firm 273,False,False,False
-Dummy Firm 274,False,False,False
-Dummy Firm 275,False,False,False
-Dummy Firm 276,False,False,False
-Dummy Firm 277,False,False,False
-Dummy Firm 278,False,False,False
-Dummy Firm 279,False,False,False
-Dummy Firm 280,False,False,False
+firm_name,date_published,udyam_verified,iec_verified,cres_verified,manufacturer_vs_merchant,register_consulted,lookup_date
+A. B. INDUSTRIES,09/16/2009,False,False,False,indeterminate,,
+AABHAR INTERNATIONAL,09/16/2009,False,False,False,indeterminate,,
+AAKASH GLOBAL FOODS PVT.LTD.,01/08/2013,False,False,False,indeterminate,,
+ABHAYA EXPORTS (PVT) LTD.,01/26/2024,False,False,False,indeterminate,,
+ABHAYA EXPORTS PVT. LTD.,09/07/2016,False,False,False,indeterminate,,
+ADANI FOOD PRODUCTS PVT LTD,10/02/2009,False,False,False,indeterminate,,
+ADARSH GLOBAL LIMITED,09/16/2009,False,False,False,indeterminate,,
+ADF Foods Limited,09/16/2009,False,False,False,indeterminate,,
+AG EXPORTS,09/16/2009,False,False,False,indeterminate,,
+AGRONIC FOOD PVT. LTD,03/13/2019,False,False,False,indeterminate,,
+AKSHAR IMPEX,01/08/2021,False,False,False,indeterminate,,
+AMBE NS Agro Products Pvt Ltd,05/18/2026,False,False,False,indeterminate,,
+ASIAN FOOD INDUSTRIES,09/16/2009,False,False,False,indeterminate,,
+Abhaya Exports Pvt. Ltd.,07/22/2015,False,False,False,indeterminate,,
+Amira Tanna Industries Private Limited,12/07/2010,False,False,False,indeterminate,,
+Ancient Greenfields,05/13/2016,False,False,False,indeterminate,,
+Anil & Company,09/16/2009,False,False,False,indeterminate,,
+Anil & Company,10/19/2016,False,False,False,indeterminate,,
+Anna Aluminium Company Pvt Ltd (Spices Division),10/31/2013,False,False,False,indeterminate,,
+Arise Exports Pvt Ltd,09/16/2009,False,False,False,indeterminate,,
+Aryan Food Ingredients Limited,04/03/2026,False,False,False,indeterminate,,
+Atlantic Foods India Private Limited,09/16/2009,False,False,False,indeterminate,,
+Authentic Overseas,07/01/2019,False,False,False,indeterminate,,
+Avtar Singh & Co Private Ltd (Factory),09/16/2009,False,False,False,indeterminate,,
+Avtar Singh & Co Pvt Ltd (Office),09/16/2009,False,False,False,indeterminate,,
+B.C. Exports,09/16/2009,False,False,False,indeterminate,,
+BADSHAH MASALA PRIVATE LIMITED,10/22/2024,False,False,False,indeterminate,,
+BHRIGU FOODS LLP,02/12/2024,False,False,False,indeterminate,,
+BIKAJI FOODS INTERNATIONAL LIMITED,06/27/2022,False,False,False,indeterminate,,
+BIKANERVALA FOODS P LTD,02/02/2012,False,False,False,indeterminate,,
+BIKANERVALA FOODS PVT. LTD.,07/31/2017,False,False,False,indeterminate,,
+BVeg Foods Pvt. Ltd.,12/30/2024,False,False,False,indeterminate,,
+Bafna Enterprises,04/20/2011,False,False,False,indeterminate,,
+Balaji Wafers Pvt Ltd,02/13/2025,False,False,False,indeterminate,,
+Bikaji Foods International Ltd.,09/09/2016,False,False,False,indeterminate,,
+Brahmins Foods India Private Ltd,07/16/2013,False,False,False,indeterminate,,
+Brahmins Foods India Pvt. Ltd.,10/30/2013,False,False,False,indeterminate,,
+CHARMINAR FOODS & EXPORTS PVT LTD,03/20/2015,False,False,False,indeterminate,,
+CM Tech & Traders,04/24/2017,False,False,False,indeterminate,,
+CUCKU ENTERPRISES PVT. LTD.,11/19/2013,False,False,False,indeterminate,,
+Charminar Foods & Exports Pvt Ltd.,10/17/2014,False,False,False,indeterminate,,
+DAKSH FOODS PVT LTD,07/17/2013,False,False,False,indeterminate,,
+DEMOLEN EXPORT PRIVATE LTD.,02/19/2016,False,False,False,indeterminate,,
+DEMOLEN EXPORTS PVT LTD,09/16/2009,False,False,False,indeterminate,,
+DIVINE GROCERIES PVT. LTD.,02/28/2018,False,False,False,indeterminate,,
+Devi Exports Pvt Ltd,01/21/2011,False,False,False,indeterminate,,
+Dharya Enterprise,12/05/2023,False,False,False,indeterminate,,
+EVERGREEN EXPORTS,06/30/2014,False,False,False,indeterminate,,
+EVERGREEN EXPORTS,09/13/2018,False,False,False,indeterminate,,
+Eastern Condiments Pvt Ltd,09/16/2009,False,False,False,indeterminate,,
+Eastern Condiments Pvt Ltd,03/16/2011,False,False,False,indeterminate,,
+Eastern Condiments Pvt. Ltd,09/16/2009,False,False,False,indeterminate,,
+EcoFarms (India) Ltd,07/18/2017,False,False,False,indeterminate,,
+Empire Spices & Food Ltd,09/20/2010,False,False,False,indeterminate,,
+Everest Food Products Private Limited,04/20/2023,False,False,False,indeterminate,,
+Farmico Exports,12/22/2010,False,False,False,indeterminate,,
+Frontal Agritech Private Limited,04/15/2014,False,False,False,indeterminate,,
+G.R.K. and Company,09/16/2009,False,False,False,indeterminate,,
+GRB DAIRY FOODS PVT LTD,10/29/2021,False,False,False,indeterminate,,
+GREEN DOT HEALTH FOODS PVT. LTD,08/07/2018,False,False,False,indeterminate,,
+Ganpati Scientifics,01/19/2022,False,False,False,indeterminate,,
+Garden Valley Export Corporation,06/23/2010,False,False,False,indeterminate,,
+Gate Foods Private Limited,12/22/2023,False,False,False,indeterminate,,
+Gautam Export Corporation,09/16/2009,False,False,False,indeterminate,,
+Gayatri Masala Exporter,09/16/2009,False,False,False,indeterminate,,
+Geo-fresh Organic,09/16/2009,False,False,False,indeterminate,,
+Ghanshyam Exporter,09/16/2009,False,False,False,indeterminate,,
+Giriraj International,04/16/2012,False,False,False,indeterminate,,
+Giriraj International,09/16/2009,False,False,False,indeterminate,,
+Global Exports,09/16/2009,False,False,False,indeterminate,,
+Golden Temple Foods Pvt.,09/16/2009,False,False,False,indeterminate,,
+Grannys Spices INDIA LLP,12/10/2019,False,False,False,indeterminate,,
+Green Fiesta Pvt. Ltd,09/16/2009,False,False,False,indeterminate,,
+Green Vegetation Extracts (India) L,09/16/2009,False,False,False,indeterminate,,
+Grover Sons,09/16/2009,False,False,False,indeterminate,,
+Gsv International,09/16/2009,False,False,False,indeterminate,,
+Gujarat Sesame Exports Co.,11/08/2010,False,False,False,indeterminate,,
+H. S. Bajaj & Sons (Bombay) Pvt. Ltd.,09/16/2009,False,False,False,indeterminate,,
+H.S. ENTERPRISES,09/16/2009,False,False,False,indeterminate,,
+HALDIRAM SNACKS PVT LTD,03/13/2025,False,False,False,indeterminate,,
+HALDIRAM SNACKS PVT. LTD.,01/10/2023,False,False,False,indeterminate,,
+HAMRAZ FOOD PRODUCTS PVT. LTD.,05/16/2011,False,False,False,indeterminate,,
+HARIHAR FOODS PVT LTD,03/10/2010,False,False,False,indeterminate,,
+Haldiram Foods International Pvt. Ltd,12/05/2014,False,False,False,indeterminate,,
+Macaroni/Noodle Products,12/23/2021,False,False,False,indeterminate,,
+07 - - - --,12/23/2021,False,False,False,indeterminate,,
+24 - - - --,12/23/2021,False,False,False,indeterminate,,
+28 - - - --,12/23/2021,False,False,False,indeterminate,,
+Haldiram Manufacturing Co. Pvt. Ltd.,10/27/2009,False,False,False,indeterminate,,
+Haldiram Snacks Pvt. Ltd.,09/13/2024,False,False,False,indeterminate,,
+Haldiram Snacks Pvt. Ltd.,11/17/2021,False,False,False,indeterminate,,
+Haldiram Snacks Pvt. Ltd.,10/25/2023,False,False,False,indeterminate,,
+Hanuman Industries,07/23/2012,False,False,False,indeterminate,,
+Harihar Foods Pvt Ltd,08/19/2022,False,False,False,indeterminate,,
+IMPROVA HERBAL PRODUCTS,07/16/2026,False,False,False,indeterminate,,
+INFLUX HEALTHCARE,05/19/2026,False,False,False,indeterminate,,
+ISHA LIFE PRIVATE LIMITED,06/10/2025,False,False,False,indeterminate,,
+Ideal Trading Co,09/16/2009,False,False,False,indeterminate,,
+Impex Diamonds,09/16/2009,False,False,False,indeterminate,,
+Indexpo Enterprises,09/23/2010,False,False,False,indeterminate,,
+Indica Exporters,09/16/2009,False,False,False,indeterminate,,
+Indo Canadian Foods Pvt Ltd,09/16/2009,False,False,False,indeterminate,,
+Indo Canadian Foods Pvt. Ltd.,09/16/2009,False,False,False,indeterminate,,
+Innovative Cuisine Pvt Ltd,06/25/2025,False,False,False,indeterminate,,
+Water Chestnut (Root & Tuber Vegetable),09/02/2025,False,False,False,indeterminate,,
+Intergrow Brands Private Limited,11/03/2016,False,False,False,indeterminate,,
+Iyengar & Company,09/16/2009,False,False,False,indeterminate,,
+J R SHAH,09/19/2022,False,False,False,indeterminate,,
+J.B. Spices,09/16/2009,False,False,False,indeterminate,,
+JAFFERBHOY SALEHBHOY & CO,08/30/2010,False,False,False,indeterminate,,
+JAYANTKUMAR & CO,09/16/2009,False,False,False,indeterminate,,
+JKM Enterprise Private Limited,05/12/2017,False,False,False,indeterminate,,
+Jalaram Gruh Udyog,07/27/2026,False,False,False,indeterminate,,
+Jaldhara Super Market,04/03/2013,False,False,False,indeterminate,,
+K-Pra Foods Private Limited,07/25/2018,False,False,False,indeterminate,,
+K.B.Exports,09/16/2009,False,False,False,indeterminate,,
+K.K. ENTERPRISE,08/23/2010,False,False,False,indeterminate,,
+K.K.R. Food Products,09/16/2009,False,False,False,indeterminate,,
+K.M. Ganatra & Co,09/16/2009,False,False,False,indeterminate,,
+K.P.Overseas Manufacture & packing,03/22/2013,False,False,False,indeterminate,,
+KEVAL EXPORTS PVT LTD,07/27/2026,False,False,False,indeterminate,,
+KEVENTER GLOBAL PVT LTD,10/13/2020,False,False,False,indeterminate,,
+KHYATI  ADVISORY SERVICES LTD,07/17/2024,False,False,False,indeterminate,,
+KITCHEN XPRESS OVERSEAS LTD,09/16/2009,False,False,False,indeterminate,,
+KRISHNA EXPORTS,09/16/2009,False,False,False,indeterminate,,
+KWIK CHEF FOODS (Unit Patfam Marketing Services),09/16/2009,False,False,False,indeterminate,,
+"Kanaiya Exports Pvt ,Limited",08/03/2015,False,False,False,indeterminate,,
+Karan International Ltd,12/06/2010,False,False,False,indeterminate,,
+Kays Spices And Agro Inds. Ltd.,09/16/2009,False,False,False,indeterminate,,
+Keval Exports Pvt. Ltd,07/16/2026,False,False,False,indeterminate,,
+Kirit Foods Product,09/16/2009,False,False,False,indeterminate,,
+Kohinoor Foods Ltd,03/14/2017,False,False,False,indeterminate,,
+Kohlico Foods & Beverages Pvt Ltd,06/06/2013,False,False,False,indeterminate,,
+"Kohlico Foods & Beverages Pvt.Ltd.,",09/09/2024,False,False,False,indeterminate,,
+Kp Overseas,03/22/2013,False,False,False,indeterminate,,
+Krrishna Export,04/28/2014,False,False,False,indeterminate,,
+Kusum Chandra Damodar & Co,09/16/2009,False,False,False,indeterminate,,
+LAKHMI ENTERPRISES,12/07/2010,False,False,False,indeterminate,,
+LAXMICHAND DAYABHAI EXPORT,06/24/2021,False,False,False,indeterminate,,
+Lakshmi Trading Company,09/16/2009,False,False,False,indeterminate,,
+Lazeez FoodStuffs,09/16/2009,False,False,False,indeterminate,,
+Lokhandwala Exports,09/16/2009,False,False,False,indeterminate,,
+M K Agro Exports,09/16/2009,False,False,False,indeterminate,,
+M. D. Foods,05/15/2015,False,False,False,indeterminate,,
+M.M. Enterprise,09/16/2009,False,False,False,indeterminate,,
+M.M. Poonjiaji Spices Ltd,09/16/2009,False,False,False,indeterminate,,
+M.R. Agro Industries,07/02/2021,False,False,False,indeterminate,,
+M.S. S. ASAN EXPORTS,04/26/2011,False,False,False,indeterminate,,
+M.V.J. Foods (India),09/16/2009,False,False,False,indeterminate,,
+M/S Green Earth Products,09/16/2009,False,False,False,indeterminate,,
+M/S Jhaveri Industries,06/23/2010,False,False,False,indeterminate,,
+M/S KESHAV EXPORTS PVT LTD,09/16/2009,False,False,False,indeterminate,,
+M/S Ravi Spice Processors Pvt Ltd,08/01/2012,False,False,False,indeterminate,,
+M/S. SHAH AMRUTLAL BACHUBHAI & COMPANY,09/16/2009,False,False,False,indeterminate,,
+M/s Dahyabhai Vithaldas,09/16/2009,False,False,False,indeterminate,,
+MAC AGRI EXPORTS,12/02/2010,False,False,False,indeterminate,,
+MADON PURE FOODS PVT LT,08/03/2022,False,False,False,indeterminate,,
+MANJILAS AGRO FOODS PVT.LTD.,10/17/2016,False,False,False,indeterminate,,
+MANJILAS FOOD TECH (P) Ltd,10/17/2016,False,False,False,indeterminate,,
+MANJILAS FOOD TECH PVT LTD,10/17/2016,False,False,False,indeterminate,,
+MATRAS EXPORTERS,07/31/2026,False,False,False,indeterminate,,
+MTR Foods Private Limited,09/16/2009,False,False,False,indeterminate,,
+Madhur Food Products Ltd,09/16/2009,False,False,False,indeterminate,,
+Madon Pure Foods Pvt Ltd,08/03/2022,False,False,False,indeterminate,,
+Mahashian Di Hatti Ltd.,09/16/2009,False,False,False,indeterminate,,
+Mahashian Di Hatti Pvt. Ltd.,07/12/2016,False,False,False,indeterminate,,
+Maiyas Beverages & Foods,06/21/2017,False,False,False,indeterminate,,
+"Curry Powder, without Salt",06/21/2017,False,False,False,indeterminate,,
+Manjilas Food Tech Pvt. Ltd.,10/17/2016,False,False,False,indeterminate,,
+Metco Export International,07/10/2012,False,False,False,indeterminate,,
+Miltop Exports,09/16/2009,False,False,False,indeterminate,,
+NAZARETH FOODS PVT LTD,09/16/2009,False,False,False,indeterminate,,
+NHC Foods Limited,02/16/2011,False,False,False,indeterminate,,
+NIKASU FROZEN FOODS INTERNATIONAL,02/26/2010,False,False,False,indeterminate,,
+NOVUS LIFE SCIENCES LTD,07/01/2026,False,False,False,indeterminate,,
+Nani Agro Foods P Ltd.,09/16/2009,False,False,False,indeterminate,,
+Navjyot International,09/16/2009,False,False,False,indeterminate,,
+Navrang Herbal,12/05/2023,False,False,False,indeterminate,,
+"Nestle India, Pantnagar",06/23/2023,False,False,False,indeterminate,,
+OM EXIM CORPORATION,06/10/2025,False,False,False,indeterminate,,
+OM SHREE INTERNATIONAL,09/16/2009,False,False,False,indeterminate,,
+Obson International Pvt. Ltd.,09/16/2009,False,False,False,indeterminate,,
+Omni Exports,09/16/2009,False,False,False,indeterminate,,
+Orchid Exim India Private Limited,07/01/2025,False,False,False,indeterminate,,
+Organic Products India,01/18/2012,False,False,False,indeterminate,,
+P D INTERNATIONAL,12/20/2024,False,False,False,indeterminate,,
+P. Mittulaul Lalah And Sons,09/16/2009,False,False,False,indeterminate,,
+P.J. Exports,09/16/2009,False,False,False,indeterminate,,
+PARLE BISCUITS PVT. LTD.,08/12/2025,False,False,False,indeterminate,,
+PARUL EXPORTS,05/03/2012,False,False,False,indeterminate,,
+PJ Exports,09/16/2009,False,False,False,indeterminate,,
+PRAVIN MASALEWALE,07/18/2014,False,False,False,indeterminate,,
+PUNAM AGRO FOODS,06/08/2016,False,False,False,indeterminate,,
+Parayil Exports,09/16/2009,False,False,False,indeterminate,,
+Parayil Food Products Pvt. Ltd.,08/14/2010,False,False,False,indeterminate,,
+Parul Exports,08/01/2018,False,False,False,indeterminate,,
+Phalada Agro Research Foundation Pvt. Ltd.,11/03/2016,False,False,False,indeterminate,,
+Pooja Dehy Foods Pvt Ltd,06/03/2024,False,False,False,indeterminate,,
+Popular Pulse Products Pvt. Ltd.,09/16/2009,False,False,False,indeterminate,,
+Prakash Namkeen Udhyog,10/28/2016,False,False,False,indeterminate,,
+Prataap Snacks Pvt.,05/14/2019,False,False,False,indeterminate,,
+Pravin Masalewale Partnership,07/18/2014,False,False,False,indeterminate,,
+Premji Bhanji & Co.,09/16/2009,False,False,False,indeterminate,,
+PureFarms Organic (India),08/28/2020,False,False,False,indeterminate,,
+Qik Exports,09/16/2009,False,False,False,indeterminate,,
+Quantum Drugs & Chemicals,09/16/2009,False,False,False,indeterminate,,
+R.M.TRADING CO.,05/13/2014,False,False,False,indeterminate,,
+R.S.LAL INTERNATIONAL,09/16/2009,False,False,False,indeterminate,,
+RASA SPICES N FOODS PRIVATE LIMITED,02/11/2011,False,False,False,indeterminate,,
+RAVI EXPORTS,04/19/2013,False,False,False,indeterminate,,
+Race Seven Seas,09/16/2009,False,False,False,indeterminate,,
+Ramdev Food Products Pvt Ltd,09/16/2009,False,False,False,indeterminate,,
+Ramdev Food Products Pvt. Ltd.,09/16/2009,False,False,False,indeterminate,,
+Rasoi Magic,03/01/2021,False,False,False,indeterminate,,
+Rasoi Magic Foods (India) Pvt. Ltd.,03/26/2013,False,False,False,indeterminate,,
+Ravi Overseas Pvt Ltd,09/16/2009,False,False,False,indeterminate,,
+Ravi Spice Processors Pvt Ltd.,09/16/2009,False,False,False,indeterminate,,
+Roopak Overscas Pvt Ltd,06/22/2016,False,False,False,indeterminate,,
+S. Narendra Kumar & Co.,06/17/2015,False,False,False,indeterminate,,
+SALOMI INTERNATIONAL,09/16/2009,False,False,False,indeterminate,,
+SAMSONS TRADING CO. PVT. LTD.,09/16/2009,False,False,False,indeterminate,,
+SGR (777) FOODS PRIVATE LIMITED,09/16/2009,False,False,False,indeterminate,,
+SHAH EXPORTS,09/16/2009,False,False,False,indeterminate,,
+SWANI SPICE MILLS PVT. LIMITED,09/16/2009,False,False,False,indeterminate,,
+Sakthi Masala Private Limited,09/16/2009,False,False,False,indeterminate,,
+Sam Enterprises Pvt Ltd,09/16/2009,False,False,False,indeterminate,,
+Samasta Foods Pvt. Ltd.,10/25/2024,False,False,False,indeterminate,,
+Samsons Trading Co,09/16/2009,False,False,False,indeterminate,,
+Sara Spices,10/31/2013,False,False,False,indeterminate,,
+Satnam Overseas Limited,09/16/2009,False,False,False,indeterminate,,
+Satpal Agro Pvt,09/16/2009,False,False,False,indeterminate,,
+Sea Wing Exim India (P) Ltd,09/16/2009,False,False,False,indeterminate,,
+Shakumbhri Expo Impo Ltd.,12/10/2009,False,False,False,indeterminate,,
+Shakumbhri Pulp And Paper Mills,09/16/2009,False,False,False,indeterminate,,
+Shiva Enterprises,01/08/2013,False,False,False,indeterminate,,
+Shree Bhagwati Flour & Foods PVT. LTD,09/16/2009,False,False,False,indeterminate,,
+Shri Hari Industries,01/22/2021,False,False,False,indeterminate,,
+Shri Purshotorm Agro Industries,09/16/2009,False,False,False,indeterminate,,
+Shrichakra Udyog Private Limited,06/14/2010,False,False,False,indeterminate,,
+Shubh Psyllium Industries,05/10/2017,False,False,False,indeterminate,,
+Shudh Masala Bhandar (REGD),09/16/2009,False,False,False,indeterminate,,
+SinghInt,09/14/2017,False,False,False,indeterminate,,
+Siri Guru Ram Dass Rice Co.,09/16/2009,False,False,False,indeterminate,,
+Sona Overseas Corporation,06/10/2011,False,False,False,indeterminate,,
+Sopariwal,09/16/2009,False,False,False,indeterminate,,
+Spice International,09/16/2009,False,False,False,indeterminate,,
+Spice N Flavor Private Ltd.,09/16/2009,False,False,False,indeterminate,,
+Unknown Street,09/16/2009,False,False,False,indeterminate,,
+Sri Mata Bio Source,01/14/2010,False,False,False,indeterminate,,
+Sri Varu Impex and Logistics,03/31/2025,False,False,False,indeterminate,,
+Suminter India Organics Pvt Ltd,09/16/2009,False,False,False,indeterminate,,
+Sun Agro Exports Co.,09/16/2009,False,False,False,indeterminate,,
+Sunshine Commodities,09/16/2009,False,False,False,indeterminate,,
+Swani Enterprises,09/16/2009,False,False,False,indeterminate,,
+Synthite Industries Ltd. (Spice Division),12/15/2021,False,False,False,indeterminate,,
+Synthite Industries Private (EOU Division) Limited,11/03/2016,False,False,False,indeterminate,,
+TAPAN EXPORTS,09/16/2009,False,False,False,indeterminate,,
+TASTEL FINE FOODS PRIVATE LIMITED,09/04/2013,False,False,False,indeterminate,,
+THE GRAND SWEETS AND SNACKS,05/12/2017,False,False,False,indeterminate,,
+TIT-BIT,09/16/2009,False,False,False,indeterminate,,
+TRADEIMPEX INTERNATIONAL,07/12/2018,False,False,False,indeterminate,,
+TRU VALUE OVERSEAS PVT LTD,09/26/2023,False,False,False,indeterminate,,
+Tastel Fine Foods Pvt Ltd,09/04/2013,False,False,False,indeterminate,,
+"Tata Tea Limited, Instant Tea Division",09/16/2009,False,False,False,indeterminate,,
+Thakar Exports,09/16/2009,False,False,False,indeterminate,,
+Tit-Bit Foods (India) Pvt. Ltd.,05/29/2013,False,False,False,indeterminate,,
+Trade Wings International,09/16/2009,False,False,False,indeterminate,,
+Tru Value Overseas Pvt.,09/26/2023,False,False,False,indeterminate,,
+UMALAXMI ORGANICS PVT. LTD.,04/08/2011,False,False,False,indeterminate,,
+Unique Fragrances,04/03/2018,False,False,False,indeterminate,,
+Unity Commodities,09/16/2009,False,False,False,indeterminate,,
+Universal Spices Pprivate Limited,09/16/2009,False,False,False,indeterminate,,
+"Ushodaya Enterprises Pvt. Ltd., (Foods Division), Poranki.",06/20/2016,False,False,False,indeterminate,,
+Utsav Commodities Pvt. Ltd.,08/30/2018,False,False,False,indeterminate,,
+Utsav Commodities Pvt. Ltd.,09/16/2009,False,False,False,indeterminate,,
+V & R Commodities,09/16/2009,False,False,False,indeterminate,,
+VEERPRABHU EXPORT HOUSE,07/30/2010,False,False,False,indeterminate,,
+VIJAY ENTERPRISE,12/15/2016,False,False,False,indeterminate,,
+VIRAL FOOD PRODUCTS PRIVATE LIMITED,07/02/2026,False,False,False,indeterminate,,
+VIRAL FOOD PRODUCTS PVT. LTD,07/02/2026,False,False,False,indeterminate,,
+Varun Exports,09/16/2009,False,False,False,indeterminate,,
+Veerprabhu Export House,09/16/2009,False,False,False,indeterminate,,
+Vidur Exports,09/16/2009,False,False,False,indeterminate,,
+Viral International,09/16/2009,False,False,False,indeterminate,,
+Wynad Export,01/24/2020,False,False,False,indeterminate,,
+amrutha exports,09/16/2009,False,False,False,indeterminate,,
+nilamel exports,06/28/2013,False,False,False,indeterminate,,
+spice india exports,09/16/2009,False,False,False,indeterminate,,
