@@ -47,11 +47,11 @@ def main():
     
     # Fig 2: Hurdle Co-occurrence
     try:
-        rq2 = pd.read_csv(results_dir / "rq2_hurdle_cooccurrence.csv")
+        rq2 = pd.read_csv(results_dir / "rq2_hurdle_cooccurrence.csv", comment="#")
         # Ensure it's not empty and has actual data
-        # Assuming rq2 has 'hurdle_1', 'hurdle_2', 'jaccard'
+        # Assuming rq2 has 'hurdle_a', 'hurdle_b', 'jaccard'
         if not rq2.empty and 'jaccard' in rq2.columns:
-            pivot = rq2.pivot(index='hurdle_1', columns='hurdle_2', values='jaccard')
+            pivot = rq2.pivot(index='hurdle_a', columns='hurdle_b', values='jaccard')
             fig, ax = plt.subplots(figsize=(10, 8))
             sns.heatmap(pivot, annot=True, cmap="Greys", cbar=True, fmt=".3f", ax=ax)
             ax.set_xlabel("Hurdle")
@@ -84,7 +84,7 @@ def main():
         # which acts as a parallel coordinates plot
         fig, ax = plt.subplots(figsize=(10, 6))
         
-        cols = ['Commodity', 'Mandate', 'Aspect']
+        cols = ['commodity', 'sustainability_mandate', 'aspect']
         # check if these columns exist, else fallback
         if all(c in mapping.columns for c in cols):
             mapping['count'] = 1 # or aggregate
@@ -93,7 +93,7 @@ def main():
             # Simple visualization
             # Just mapping the flows
             for idx, row in agg.iterrows():
-                ax.plot([0, 1, 2], [row['Commodity'], row['Mandate'], row['Aspect']], color=base_color, alpha=0.5, linewidth=row['unit_count']*2)
+                ax.plot([0, 1, 2], [row['commodity'], row['sustainability_mandate'], row['aspect']], color=base_color, alpha=0.5, linewidth=row['unit_count']*2)
                 
             ax.set_xticks([0, 1, 2])
             ax.set_xticklabels(cols)

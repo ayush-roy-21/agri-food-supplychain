@@ -16,9 +16,7 @@ def main():
         {"destination_regime": "EU", "commodity": "Agri-Forestry", "sustainability_mandate": "EUDR 2023/1115", "aspect": "Deforestation"},
         {"destination_regime": "EU", "commodity": "All Exports", "sustainability_mandate": "CSRD/Directive 2022/2464", "aspect": "Sustainability Reporting"},
         {"destination_regime": "US", "commodity": "black pepper", "sustainability_mandate": "US FDA import alerts", "aspect": "Spices under Salmonella"},
-        {"destination_regime": "US", "commodity": "All Exports", "sustainability_mandate": "US FDA FSMA", "aspect": "Foreign Supplier Verification Program"},
-        {"destination_regime": "India", "commodity": "All Exports", "sustainability_mandate": "FSSAI", "aspect": "Domestic Compliance / FoSCoS"},
-        {"destination_regime": "Global", "commodity": "All Exports", "sustainability_mandate": "Private Certifications", "aspect": "B2B Compliance"}
+        {"destination_regime": "US", "commodity": "All Exports", "sustainability_mandate": "US FDA FSMA", "aspect": "Foreign Supplier Verification Program"}
     ]
     
     df = pd.DataFrame(data)
