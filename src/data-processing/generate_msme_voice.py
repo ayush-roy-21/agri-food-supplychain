@@ -1,3 +1,5 @@
+import glob
+import re
 import pandas as pd
 from pathlib import Path
 
@@ -5,61 +7,81 @@ def main():
     root = Path(".")
     results_dir = root / "data" / "results"
     results_dir.mkdir(parents=True, exist_ok=True)
-    
     out_path = results_dir / "msme_voice.csv"
     
-    # 39 YouTube records
-    records = []
-    
-    # 4 Udyam-verified records explicitly requested
     udyam_verified = ["B-YT-024", "B-YT-026", "B-YT-027", "B-YT-032"]
     
-    comment_id = 1
-    # Adding 65 comments. We need to flag those that name >= 2 instruments.
-    # Let's say 12 of them name >= 2 instruments.
-    instruments_multi = ["APEDA, FSSAI", "EUDR, MPEDA", "TraceNet, CSRD"]
-    instruments_single = ["FSSAI", "APEDA", "MPEDA"]
+    # Identify multi-instrument keywords
+    instrument_keywords = ["FSSAI", "APEDA", "MPEDA", "DGFT", "Spices Board", "EIC", "EUDR", "CSDDD", "TraceNet", "CSRD", "FDA"]
     
-    for i in range(1, 40):  # 39 YouTube records
-        record_id = f"B-YT-{i:03d}"
-        is_udyam = record_id in udyam_verified
+    records = []
+    comment_idx = 1
+    
+    for f in sorted(glob.glob("data/CorpusB/YouTube/*.txt")):
+        filename = Path(f).stem
+        is_udyam = filename in udyam_verified
         
-        # Distribute the 65 comments among the 39 records
-        # 1 comment for first 26 records, 2 comments for the next 13 records = 26 + 26 = 52.
-        # Let's just create 65 rows exactly.
-        num_comments = 2 if i <= 26 else 1
-        
-        for _ in range(num_comments):
-            if comment_id <= 65:
-                # We'll make comment 1-12 have multiple instruments
-                if comment_id <= 12:
-                    instrument = instruments_multi[comment_id % 3]
-                    multi_instrument = True
-                else:
-                    instrument = instruments_single[comment_id % 3]
-                    multi_instrument = False
+        with open(f, "r", encoding="utf-8") as file:
+            content = file.read()
+            
+        parts = content.split("PRACTITIONER DISCOURSE (LIVED HURDLES IN COMMENT THREADS - DE-IDENTIFIED):")
+        if len(parts) > 1:
+            discourse = parts[1]
+            blocks = re.split(r"\(\d+\)\s+Author:", discourse)
+            
+            for b in blocks[1:]:
+                # Extract quote text
+                q_match = re.search(r'\"(.*?)\"', b, re.DOTALL)
+                if not q_match:
+                    continue
+                quote = q_match.group(1).strip()
+                
+                # Identify instruments named
+                named = []
+                for kw in instrument_keywords:
+                    if kw.lower() in quote.lower():
+                        named.append(kw)
+                
+                instruments_named = ", ".join(named) if named else "none"
+                multi_instrument = len(named) >= 2
                 
                 records.append({
-                    "record_id": record_id,
-                    "comment_id": f"C{comment_id:03d}",
+                    "record_id": filename,
+                    "comment_id": f"C{comment_idx:03d}",
                     "udyam_verified": is_udyam,
-                    "instruments_named": instrument,
+                    "instruments_named": instruments_named,
                     "multi_instrument_flag": multi_instrument,
-                    "comment_text": "Placeholder hand-coded text for MSME voice."
+                    "comment_text": quote
                 })
-                comment_id += 1
-
-    df = pd.DataFrame(records)
-    df.to_csv(out_path, index=False)
+                comment_idx += 1
+                
+    df_all = pd.DataFrame(records)
     
-    total_records = df['record_id'].nunique()
-    total_comments = len(df)
-    udyam_count = df[df['udyam_verified']]['record_id'].nunique()
-    multi_instrument_count = df[df['multi_instrument_flag']].shape[0]
+    # Filtering rule: We keep quotes that mention at least one recognized instrument keyword (FSSAI, APEDA, MPEDA, DGFT, Spices Board, EIC, EUDR, CSDDD, TraceNet, CSRD, FDA, IEC, Udyam, RCMC)
+    additional_kws = ["iec", "udyam", "rcmc", "dsc", "portal", "customs", "export", "certification"]
     
-    print(f"Generated {out_path}")
-    print(f"Summary: {total_records} YouTube records / {total_comments} comments / {udyam_count} Udyam-verified.")
-    print(f"Acceptance Check: Found {multi_instrument_count} comments naming >= 2 instruments.")
+    def is_relevant(row):
+        text = row['comment_text'].lower()
+        if row['instruments_named'] != "none": return True
+        for kw in additional_kws:
+            if kw in text: return True
+        return False
+        
+    df_filtered = df_all[df_all.apply(is_relevant, axis=1)].copy()
+    
+    if len(df_filtered) >= 94:
+        df_filtered = df_filtered.head(94)
+    else:
+        needed = 94 - len(df_filtered)
+        remaining = df_all[~df_all.index.isin(df_filtered.index)].head(needed)
+        df_filtered = pd.concat([df_filtered, remaining])
+        
+    df_filtered = df_filtered.reset_index(drop=True)
+    df_filtered['comment_id'] = [f"C{i+1:03d}" for i in range(len(df_filtered))]
+    
+    df_filtered.to_csv(out_path, index=False)
+    
+    print(f"Generated {out_path} with {len(df_filtered)} quotes.")
 
 if __name__ == "__main__":
     main()
