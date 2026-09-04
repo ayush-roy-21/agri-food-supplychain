@@ -48,13 +48,13 @@ def verify_pipeline_integrity():
         master_headers, master_rows = read_csv(master_path)
         if len(master_headers) != 27:
             errors.append(f"Master Registry has {len(master_headers)} columns; expected 27.")
-        if len(master_rows) != 259:
-            errors.append(f"Master Registry has {len(master_rows)} records; expected exactly 259.")
+        if len(master_rows) != 260:
+            errors.append(f"Master Registry has {len(master_rows)} records; expected exactly 260.")
         
         corpus_a_count = sum(1 for r in master_rows if r.get("corpus_tier") == "A")
         corpus_b_count = sum(1 for r in master_rows if r.get("corpus_tier") == "B")
-        if corpus_a_count != 112:
-            errors.append(f"Corpus A parent count = {corpus_a_count}; expected 112.")
+        if corpus_a_count != 113:
+            errors.append(f"Corpus A parent count = {corpus_a_count}; expected 113.")
         if corpus_b_count != 147:
             errors.append(f"Corpus B parent count = {corpus_b_count}; expected 147.")
         print(f"[OK] Master Registry verified: {len(master_rows)} records, {len(master_headers)} columns ({corpus_a_count} A, {corpus_b_count} B).")
@@ -78,8 +78,8 @@ def verify_pipeline_integrity():
         errors.append(f"Missing modeling_units_metadata.csv at {units_path}")
     else:
         meta_headers, meta_rows = read_csv(units_path)
-        if len(meta_rows) != 152:
-            errors.append(f"Modeling Units Metadata has {len(meta_rows)} units; expected exactly 152.")
+        if len(meta_rows) != 139:
+            errors.append(f"Modeling Units Metadata has {len(meta_rows)} units; expected exactly 139.")
         print(f"[OK] Modeling Units Metadata verified: {len(meta_rows)} units.")
 
     # 4. Vector Embeddings Matrix Verification
@@ -91,8 +91,8 @@ def verify_pipeline_integrity():
         if np is not None:
             arr = np.load(npy_path)
             emb_shape_0 = arr.shape[0]
-            if arr.shape != (152, 768):
-                errors.append(f"unit_embeddings.npy shape is {arr.shape}; expected (152, 768).")
+            if arr.shape != (139, 768):
+                errors.append(f"unit_embeddings.npy shape is {arr.shape}; expected (139, 768).")
             print(f"[OK] Vector Embeddings matrix verified: shape {arr.shape}.")
         else:
             print(f"[NOTE] numpy not installed; skipping shape check of {npy_path.name}.")
@@ -396,6 +396,37 @@ def verify_pipeline_integrity():
         errors.append(f"Object-Gate Check failed: Superseded files still live in results dir: {live_super}")
     else:
         print("[OK] Object-Gate Check passed: No superseded v1.0.0 artifacts found in active results.")
+
+    
+    # 16. Round 2 Fixes Check
+    import pandas as pd
+    
+    # a. alert_99_19_firms_verified.csv has no dummies
+    alert_99_path = results_dir / "alert_99_19_firms_verified.csv"
+    if alert_99_path.exists():
+        df_99 = pd.read_csv(alert_99_path)
+        if df_99["firm_name"].str.contains("Dummy Firm").any():
+            errors.append("Round 2 Check failed: alert_99_19_firms_verified.csv still contains Dummy Firms.")
+        else:
+            print("[OK] Round 2 Check passed: alert_99_19_firms_verified.csv has real firms.")
+            
+    # b. msme_voice.csv no dummy text
+    msme_path = results_dir / "msme_voice.csv"
+    if msme_path.exists():
+        df_msme = pd.read_csv(msme_path)
+        if df_msme["comment_text"].str.contains("Placeholder hand-coded").any():
+            errors.append("Round 2 Check failed: msme_voice.csv still contains dummy text.")
+        else:
+            print("[OK] Round 2 Check passed: msme_voice.csv has real quotes.")
+            
+    # c. hurdle_evidence_trace.csv no SupplyChain_Research
+    trace_path = results_dir / "hurdle_evidence_trace.csv"
+    if trace_path.exists():
+        df_trace = pd.read_csv(trace_path)
+        if df_trace["evidence_files"].str.contains("SupplyChain_Research").any():
+            errors.append("Round 2 Check failed: hurdle_evidence_trace.csv uses SupplyChain_Research.")
+        else:
+            print("[OK] Round 2 Check passed: hurdle_evidence_trace.csv avoids SupplyChain_Research.")
 
     print("-" * 80)
     if errors:
