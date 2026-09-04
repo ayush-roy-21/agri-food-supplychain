@@ -12,7 +12,7 @@ def main():
     udyam_verified = ["B-YT-024", "B-YT-026", "B-YT-027", "B-YT-032"]
     
     # Identify multi-instrument keywords
-    instrument_keywords = ["FSSAI", "APEDA", "MPEDA", "DGFT", "Spices Board", "EIC", "EUDR", "CSDDD", "TraceNet", "CSRD", "FDA"]
+    instrument_keywords = ["FSSAI", "APEDA", "MPEDA", "DGFT", "Spices Board", "EIC", "EUDR", "CSDDD", "TraceNet", "CSRD", "FDA", "IEC", "Udyam", "RCMC", "ICEGATE"]
     
     records = []
     comment_idx = 1
@@ -57,26 +57,11 @@ def main():
                 
     df_all = pd.DataFrame(records)
     
-    # Filtering rule: We keep quotes that mention at least one recognized instrument keyword (FSSAI, APEDA, MPEDA, DGFT, Spices Board, EIC, EUDR, CSDDD, TraceNet, CSRD, FDA, IEC, Udyam, RCMC)
-    additional_kws = ["iec", "udyam", "rcmc", "dsc", "portal", "customs", "export", "certification"]
+    # Filtering rule: Keep ONLY quotes that mention at least one recognized instrument keyword
+    df_filtered = df_all[df_all['instruments_named'] != "none"].copy()
     
-    def is_relevant(row):
-        text = row['comment_text'].lower()
-        if row['instruments_named'] != "none": return True
-        for kw in additional_kws:
-            if kw in text: return True
-        return False
-        
-    df_filtered = df_all[df_all.apply(is_relevant, axis=1)].copy()
-    
-    if len(df_filtered) >= 94:
-        df_filtered = df_filtered.head(94)
-    else:
-        needed = 94 - len(df_filtered)
-        remaining = df_all[~df_all.index.isin(df_filtered.index)].head(needed)
-        df_filtered = pd.concat([df_filtered, remaining])
-        
-    df_filtered = df_filtered.reset_index(drop=True)
+    # Sort by multi_instrument_flag first (True first)
+    df_filtered = df_filtered.sort_values(by=['multi_instrument_flag', 'record_id'], ascending=[False, True]).reset_index(drop=True)
     df_filtered['comment_id'] = [f"C{i+1:03d}" for i in range(len(df_filtered))]
     
     df_filtered.to_csv(out_path, index=False)

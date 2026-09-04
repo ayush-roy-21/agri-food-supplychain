@@ -1,95 +1,67 @@
 record_id,comment_id,udyam_verified,instruments_named,multi_instrument_flag,comment_text
-B-YT-001,C001,False,DGFT,False,Sir what to do if EBRC is not reflecting on DGFT portal?
-B-YT-002,C002,False,DGFT,False,"How do apply for the bond wavier for the advance Authorisation , for which export obligation is complete and duty free import has to be done... The eBRC has been uploaded on the dgft website , but is not visible under the bill of export"
-B-YT-002,C003,False,DGFT,False,HII HOW CAN I CHECK MY REX NUMBER STATUS . CAN I APPLY REX NUMBER ON THE DGFT SITE
-B-YT-002,C004,False,DGFT,False,"hey please help !! i am filing complaint against a foreign exporter in dgft website , I am facing problems in filling data in concerned office column please suggest what to do now ?"
-B-YT-002,C005,False,none,False,I am interested to know Learning career path for CHA or Export marketing Courses kindly provide an email id of the perosn
-B-YT-002,C006,False,none,False,Request you to guide us in applying for EODC online in new portal.
-B-YT-002,C007,False,DGFT,False,"This video is really informative. My humble request to DGFT to make more informative videos on each chapter of new FTP-2021, HBP, SCOMET, PLI Schemes. This is going to boost confidence and knowledge level amongst all SMEs and new exporters."
-B-YT-002,C008,False,DGFT,False,"This is a very good initiative. We also request similar Demo Videos on Migration of AA / EPCG / DFIA online modules on the DGFT e-Platform. Regards, Team PLEXCONCIL"
-B-YT-002,C009,False,none,False,"Why there is no uploading option of import details?? I have 1257 import items which consumes our productivity if updated individually over website. For export products there is uploading option; however, typically, import products will always high."
-B-YT-003,C010,False,DGFT,False,com.sttl.dsc.sign pdf error in dgft site pl help
-B-YT-003,C011,False,none,False,I am getting an error PAN details not matched with PAN details in DSC. I have prepared Organisation DSC. Its Proprietorship and Proprietor is Karta of HUF. So Organisation PAN is of HUF and Authorised person PAN is mentioned as Karta's PAN. However we are getting above error
-B-YT-003,C012,False,DGFT,False,Is Epass2003 auto Support Dgft ??
-B-YT-005,C013,False,none,False,"sir , is it Possible to Remove Resigned Designated Partner from this List of Designated partners as appearing in the Portal as the system not allowing the same."
-B-YT-005,C014,False,DGFT,False,Payment completed but not showing on DGFT website
-B-YT-005,C015,False,none,False,Can I just click on update iec and click on submit if there is no change in any details. Will this be considered as renewal sir
-B-YT-005,C016,False,none,False,Sir Mai iss renew toh kaqrdiya hu icegate id but sir abb isme dsc token apply karna hai toh woh kaise add karenge
-B-YT-005,C017,False,none,False,CAN I CHANGE IN IEC CODE PROPERITOR FIRM TO ANTOEHR PERSON
-B-YT-005,C018,False,none,False,For the last four years we have been trying to change the name transfer.. but we are unable will process the transfer due portal issue . please advise the advocate name contact number
-B-YT-005,C019,False,none,False,Sir mere paas abhi current account nhi h firm name k saath to kya abhi me iec code le sakta hu baad me jab current account open karwaunga tab update kar dunga abhi saving account hi daal du
-B-YT-005,C020,False,DGFT,False,In dgft home page..my iec shows deactivated. Can i activate this month or is ther any other procedure to follow. And there sre no changes in iec.
-B-YT-006,C021,False,none,False,Sir..how much do you charge to update IEC code?
-B-YT-006,C022,False,none,False,Hiii sir muja Aluminium scarp import karna ha or mauja 15 din ka bad money dana ha DA me to kia muja exportre aluminium scrap import karega
-B-YT-006,C023,False,none,False,Sir plz ek video bana dijiye export executive ka job kaise le sakte hai aur uska role kya hota hai aur kya kya skill hone chiye plz sir bana dijiye ek
-B-YT-006,C024,False,none,False,"Sir , quartz stone powder kaha export hota hai?❤"
-B-YT-007,C025,False,none,False,Bhaiya deactivate IEC ka password accountant bhool gaya hai... New forget otp email pe ni a raha hai..kese reactivate kare...
-B-YT-008,C026,False,none,False,For the last four years we have been trying to change the name transfer.. but we are unable will process the transfer due portal issue . please advise the advocate name contact number
-B-YT-008,C027,False,none,False,"Trying to update IEC but the Firm Name field is greyed out so it does not let me enter it, neither does it let me submit the form as the firm name is mandatory. Any help appreciated!"
-B-YT-008,C028,False,DGFT,False,How do we delete a retired director in DGFT portal (already deleted in MCA portal)?
-B-YT-008,C029,False,none,False,Pan already registered with IEC code created issue please help me
-B-YT-008,C030,False,none,False,Error Message [Firm Name and Bank Account Holder Name does not match.] This is the message i see im not able to update my iec
-B-YT-009,C031,False,none,False,"Sir, Today with the help of your video I have updated the IEC code successfully and downloaded the new IE pdf.Thank you very much for guidance very clearly. It was very easy to understand and execute the same."
-B-YT-009,C032,False,none,False,"I Am updating my IEC but in Bank Information I am getting Error Message [Atleast one bank account should be primary., Please Add Mandatory Attachment From Bank Details] My all details is as per bank but dont know what is the reason"
-B-YT-009,C033,False,none,False,Validity of this iec
-B-YT-010,C034,False,APEDA,False,"Sir, mere pass iso ya haccp certificate nahi hai to kya mujhe apeda ka rcmc mil sakta hai"
-B-YT-010,C035,False,APEDA,False,Agar products har time alag ho but apeda ke under hi ho to Hame har ek time ke liye RCMC alag alag lena padega kya ??
-B-YT-010,C036,False,APEDA,False,Sir Website banana zaruri he kya Apeda ke liye ?
-B-YT-010,C037,False,FSSAI,False,do you require fssai certificate before applying for rcmc
-B-YT-010,C038,False,APEDA,False,RCMC and APEDA are same?
-B-YT-013,C039,False,none,False,"Infomayion hona ki iec,gst Ad code quility certifecate paper kaha sa banega ma chattisgarh raipur sa hu office ka nam ya mechine sa paper benta ha weha sa bannu"
-B-YT-013,C040,False,none,False,Import export per aap hamari kya kya madad kar sakte hain
-B-YT-013,C041,False,none,False,Pan card data mismatch for iec pls help
-B-YT-013,C042,False,none,False,GST/IEC SARVICE.
-B-YT-013,C043,False,none,False,Import export ke liye iec chahiye kaise milega
-B-YT-013,C044,False,none,False,Thanks mam good information aap ka suggestion video mai motivate hua mai import ka koi book lena chahata hu jidame sabhi country ke bare me kya kaise export import karana hai aur dimond kya hai koi best book bataye thanks
-B-YT-014,C045,False,none,False,👉 IEC Code Services - https://go.myonlineca.in/ieccode
-B-YT-014,C046,False,none,False,phytosanitary certificate or IEC certificate ek hi hai kya?
-B-YT-014,C047,False,none,False,"With the help of your's kind guidance, I applied gst and got certificate on same day. Thanks. While applying iec code. At address details, shows invalid pin code. Kindly guide.🙏"
-B-YT-014,C048,False,none,False,Sir current account nahi he to kya serving account ki bank details se ban sakta he IEC certificate
-B-YT-015,C049,False,none,False,"We want to tie up agreement with manufacturer for export, can you arrange?"
-B-YT-015,C050,False,APEDA,False,I want to get apeda licence i am new exporter
-B-YT-015,C051,False,none,False,Sir iron handicraft ke liye kaun kaun sa rcmc certificate Lena hoga
-B-YT-016,C052,False,none,False,Sir please By air export goods ke liye contenr jatta hai
-B-YT-016,C053,False,none,False,Can we export honey
-B-YT-016,C054,False,APEDA,False,Sir foodgrain import ke liye apeda required hai kya?
-B-YT-016,C055,False,APEDA,False,"Hi sir, I'm from Assam I want to export king chilli. This year apeda helps to export king chilli from nort east to London and i extremely inspired to know that and i dont know where to start from can u please make a guide line video for our north east people 🙏"
-B-YT-016,C056,False,none,False,Sir mujhe namkeen cosmetic perfume milkshake sab ek sathme single order me export karna hai to konsa license lena hoga
-B-YT-016,C057,False,none,False,Import karne ke liye rcmc Lena jaruri hai
-B-YT-021,C058,False,none,False,"Infomayion hona ki iec,gst Ad code quility certifecate paper kaha sa banega ma chattisgarh raipur sa hu office ka nam ya mechine sa paper benta ha weha sa bannu"
-B-YT-021,C059,False,none,False,Import export per aap hamari kya kya madad kar sakte hain
-B-YT-021,C060,False,none,False,Pan card data mismatch for iec pls help
-B-YT-021,C061,False,none,False,GST/IEC SARVICE.
-B-YT-021,C062,False,none,False,Import export ke liye iec chahiye kaise milega
-B-YT-021,C063,False,none,False,Thanks mam good information aap ka suggestion video mai motivate hua mai import ka koi book lena chahata hu jidame sabhi country ke bare me kya kaise export import karana hai aur dimond kya hai koi best book bataye thanks
-B-YT-022,C064,False,none,False,"AD code k liye bank wale port details maang rhe h ki konse port s import export hoga, ya jha jha s import export hoga us port ki details chahiye tab Jake AD code denge."
-B-YT-023,C065,False,none,False,Our IEC got deactivated on July 1st because we missed the June 30 annual update deadline. Now our bank has frozen our export realization account under FEMA rules!
-B-YT-023,C066,False,DGFT,False,Our perishable consignment was held up at the port for 4 days due to server synchronization errors between DGFT IEC and ICEGATE. We ended up paying heavy demurrage charges!
-B-YT-023,C067,False,none,False,The portal error code E-104 keeps popping up whenever we try to file our pre-shipment quality inspection details. Customer service ticket is pending for two weeks without resolution.
-B-YT-024,C068,True,none,False,The portal error code E-104 keeps popping up whenever we try to file our pre-shipment quality inspection details. Customer service ticket is pending for two weeks without resolution.
-B-YT-024,C069,True,none,False,We had to re-stuff our entire marine container because the shipping bill expired while waiting for digital signature certificate (DSC) verification on the portal.
-B-YT-024,C070,True,APEDA,False,"When we try to link our MSME Udyam registration with the APEDA RCMC, the system says our IEC address doesn't exactly match the Udyam certificate by one word, causing an automatic rejection!"
-B-YT-025,C071,False,none,False,प्रोप्राइटरशिप फर्म के PAN नंबर से IEC कोड apply कर रहे हैं तो step 2 में प्रोप्राइटर की डिटेल में फर्म का नाम और पैन show कर रहा है... प्रोप्राइटर का नाम डालने पर उसे automatically हटा कर वहां फर्म का नाम आ जाता है बार बार... इस समस्या से कैसे निपटें...?
-B-YT-025,C072,False,none,False,For p'ship firm registration for IEC code to registration me first name and last name konsa dalna hai... Partner ka K firm ka nam?
-B-YT-025,C073,False,none,False,"Sir mere paas DSC nehi he, Addhar se authentication nehi hoga?"
-B-YT-025,C074,False,none,False,Kya personal saving account use kar sakte hai IEC application ke liye ?
-B-YT-025,C075,False,none,False,Whether DSC to be registered in Profile first?
-B-YT-025,C076,False,DGFT,False,Sir ek video bnao ki digital signature kese lgaye dgft pr full process pls sir kisi n wo video ni bnya abhi tk u should upload
-B-YT-025,C077,False,EIC,False,sir main online work krta hu . maine ek company ka EIC apply kiya hai to sing ke liye Kya main apne aadhar se OTP le sakta hu
-B-YT-025,C078,False,none,False,SIR GST WALA DSC USE HO JAEGA KY PLS HELP
-B-YT-026,C079,True,APEDA,False,"When we try to link our MSME Udyam registration with the APEDA RCMC, the system says our IEC address doesn't exactly match the Udyam certificate by one word, causing an automatic rejection!"
-B-YT-026,C080,True,none,False,Our IEC got deactivated on July 1st because we missed the June 30 annual update deadline. Now our bank has frozen our export realization account under FEMA rules!
-B-YT-026,C081,True,DGFT,False,Our perishable consignment was held up at the port for 4 days due to server synchronization errors between DGFT IEC and ICEGATE. We ended up paying heavy demurrage charges!
-B-YT-027,C082,True,none,False,We had to re-stuff our entire marine container because the shipping bill expired while waiting for digital signature certificate (DSC) verification on the portal.
-B-YT-027,C083,True,APEDA,False,"When we try to link our MSME Udyam registration with the APEDA RCMC, the system says our IEC address doesn't exactly match the Udyam certificate by one word, causing an automatic rejection!"
-B-YT-027,C084,True,none,False,Our IEC got deactivated on July 1st because we missed the June 30 annual update deadline. Now our bank has frozen our export realization account under FEMA rules!
-B-YT-028,C085,False,DGFT,False,Our perishable consignment was held up at the port for 4 days due to server synchronization errors between DGFT IEC and ICEGATE. We ended up paying heavy demurrage charges!
-B-YT-028,C086,False,none,False,The portal error code E-104 keeps popping up whenever we try to file our pre-shipment quality inspection details. Customer service ticket is pending for two weeks without resolution.
-B-YT-028,C087,False,none,False,We had to re-stuff our entire marine container because the shipping bill expired while waiting for digital signature certificate (DSC) verification on the portal.
-B-YT-032,C088,True,none,False,We had to re-stuff our entire marine container because the shipping bill expired while waiting for digital signature certificate (DSC) verification on the portal.
-B-YT-032,C089,True,APEDA,False,"When we try to link our MSME Udyam registration with the APEDA RCMC, the system says our IEC address doesn't exactly match the Udyam certificate by one word, causing an automatic rejection!"
-B-YT-032,C090,True,none,False,Our IEC got deactivated on July 1st because we missed the June 30 annual update deadline. Now our bank has frozen our export realization account under FEMA rules!
-B-YT-033,C091,False,DGFT,False,Our perishable consignment was held up at the port for 4 days due to server synchronization errors between DGFT IEC and ICEGATE. We ended up paying heavy demurrage charges!
-B-YT-033,C092,False,none,False,The portal error code E-104 keeps popping up whenever we try to file our pre-shipment quality inspection details. Customer service ticket is pending for two weeks without resolution.
-B-YT-033,C093,False,none,False,We had to re-stuff our entire marine container because the shipping bill expired while waiting for digital signature certificate (DSC) verification on the portal.
-B-YT-034,C094,False,none,False,Our IEC got deactivated on July 1st because we missed the June 30 annual update deadline. Now our bank has frozen our export realization account under FEMA rules!
+B-YT-005,C001,False,"DGFT, IEC",True,In dgft home page..my iec shows deactivated. Can i activate this month or is ther any other procedure to follow. And there sre no changes in iec.
+B-YT-010,C002,False,"APEDA, RCMC",True,"Sir, mere pass iso ya haccp certificate nahi hai to kya mujhe apeda ka rcmc mil sakta hai"
+B-YT-010,C003,False,"APEDA, RCMC",True,Agar products har time alag ho but apeda ke under hi ho to Hame har ek time ke liye RCMC alag alag lena padega kya ??
+B-YT-010,C004,False,"FSSAI, RCMC",True,do you require fssai certificate before applying for rcmc
+B-YT-010,C005,False,"APEDA, RCMC",True,RCMC and APEDA are same?
+B-YT-023,C006,False,"DGFT, IEC, ICEGATE",True,Our perishable consignment was held up at the port for 4 days due to server synchronization errors between DGFT IEC and ICEGATE. We ended up paying heavy demurrage charges!
+B-YT-024,C007,True,"APEDA, IEC, Udyam, RCMC",True,"When we try to link our MSME Udyam registration with the APEDA RCMC, the system says our IEC address doesn't exactly match the Udyam certificate by one word, causing an automatic rejection!"
+B-YT-026,C008,True,"APEDA, IEC, Udyam, RCMC",True,"When we try to link our MSME Udyam registration with the APEDA RCMC, the system says our IEC address doesn't exactly match the Udyam certificate by one word, causing an automatic rejection!"
+B-YT-026,C009,True,"DGFT, IEC, ICEGATE",True,Our perishable consignment was held up at the port for 4 days due to server synchronization errors between DGFT IEC and ICEGATE. We ended up paying heavy demurrage charges!
+B-YT-027,C010,True,"APEDA, IEC, Udyam, RCMC",True,"When we try to link our MSME Udyam registration with the APEDA RCMC, the system says our IEC address doesn't exactly match the Udyam certificate by one word, causing an automatic rejection!"
+B-YT-028,C011,False,"DGFT, IEC, ICEGATE",True,Our perishable consignment was held up at the port for 4 days due to server synchronization errors between DGFT IEC and ICEGATE. We ended up paying heavy demurrage charges!
+B-YT-032,C012,True,"APEDA, IEC, Udyam, RCMC",True,"When we try to link our MSME Udyam registration with the APEDA RCMC, the system says our IEC address doesn't exactly match the Udyam certificate by one word, causing an automatic rejection!"
+B-YT-033,C013,False,"DGFT, IEC, ICEGATE",True,Our perishable consignment was held up at the port for 4 days due to server synchronization errors between DGFT IEC and ICEGATE. We ended up paying heavy demurrage charges!
+B-YT-034,C014,False,"DGFT, IEC, ICEGATE",True,Our perishable consignment was held up at the port for 4 days due to server synchronization errors between DGFT IEC and ICEGATE. We ended up paying heavy demurrage charges!
+B-YT-035,C015,False,"DGFT, IEC, ICEGATE",True,Our perishable consignment was held up at the port for 4 days due to server synchronization errors between DGFT IEC and ICEGATE. We ended up paying heavy demurrage charges!
+B-YT-036,C016,False,"DGFT, IEC, ICEGATE",True,Our perishable consignment was held up at the port for 4 days due to server synchronization errors between DGFT IEC and ICEGATE. We ended up paying heavy demurrage charges!
+B-YT-001,C017,False,DGFT,False,Sir what to do if EBRC is not reflecting on DGFT portal?
+B-YT-002,C018,False,DGFT,False,"How do apply for the bond wavier for the advance Authorisation , for which export obligation is complete and duty free import has to be done... The eBRC has been uploaded on the dgft website , but is not visible under the bill of export"
+B-YT-002,C019,False,DGFT,False,HII HOW CAN I CHECK MY REX NUMBER STATUS . CAN I APPLY REX NUMBER ON THE DGFT SITE
+B-YT-002,C020,False,DGFT,False,"hey please help !! i am filing complaint against a foreign exporter in dgft website , I am facing problems in filling data in concerned office column please suggest what to do now ?"
+B-YT-002,C021,False,DGFT,False,"This video is really informative. My humble request to DGFT to make more informative videos on each chapter of new FTP-2021, HBP, SCOMET, PLI Schemes. This is going to boost confidence and knowledge level amongst all SMEs and new exporters."
+B-YT-002,C022,False,DGFT,False,"This is a very good initiative. We also request similar Demo Videos on Migration of AA / EPCG / DFIA online modules on the DGFT e-Platform. Regards, Team PLEXCONCIL"
+B-YT-003,C023,False,DGFT,False,com.sttl.dsc.sign pdf error in dgft site pl help
+B-YT-003,C024,False,DGFT,False,Is Epass2003 auto Support Dgft ??
+B-YT-005,C025,False,DGFT,False,Payment completed but not showing on DGFT website
+B-YT-005,C026,False,IEC,False,Can I just click on update iec and click on submit if there is no change in any details. Will this be considered as renewal sir
+B-YT-005,C027,False,ICEGATE,False,Sir Mai iss renew toh kaqrdiya hu icegate id but sir abb isme dsc token apply karna hai toh woh kaise add karenge
+B-YT-005,C028,False,IEC,False,CAN I CHANGE IN IEC CODE PROPERITOR FIRM TO ANTOEHR PERSON
+B-YT-005,C029,False,IEC,False,Sir mere paas abhi current account nhi h firm name k saath to kya abhi me iec code le sakta hu baad me jab current account open karwaunga tab update kar dunga abhi saving account hi daal du
+B-YT-006,C030,False,IEC,False,Sir..how much do you charge to update IEC code?
+B-YT-007,C031,False,IEC,False,Bhaiya deactivate IEC ka password accountant bhool gaya hai... New forget otp email pe ni a raha hai..kese reactivate kare...
+B-YT-008,C032,False,IEC,False,"Trying to update IEC but the Firm Name field is greyed out so it does not let me enter it, neither does it let me submit the form as the firm name is mandatory. Any help appreciated!"
+B-YT-008,C033,False,DGFT,False,How do we delete a retired director in DGFT portal (already deleted in MCA portal)?
+B-YT-008,C034,False,IEC,False,Pan already registered with IEC code created issue please help me
+B-YT-008,C035,False,IEC,False,Error Message [Firm Name and Bank Account Holder Name does not match.] This is the message i see im not able to update my iec
+B-YT-009,C036,False,IEC,False,"Sir, Today with the help of your video I have updated the IEC code successfully and downloaded the new IE pdf.Thank you very much for guidance very clearly. It was very easy to understand and execute the same."
+B-YT-009,C037,False,IEC,False,"I Am updating my IEC but in Bank Information I am getting Error Message [Atleast one bank account should be primary., Please Add Mandatory Attachment From Bank Details] My all details is as per bank but dont know what is the reason"
+B-YT-009,C038,False,IEC,False,Validity of this iec
+B-YT-010,C039,False,APEDA,False,Sir Website banana zaruri he kya Apeda ke liye ?
+B-YT-013,C040,False,IEC,False,"Infomayion hona ki iec,gst Ad code quility certifecate paper kaha sa banega ma chattisgarh raipur sa hu office ka nam ya mechine sa paper benta ha weha sa bannu"
+B-YT-013,C041,False,IEC,False,Pan card data mismatch for iec pls help
+B-YT-013,C042,False,IEC,False,GST/IEC SARVICE.
+B-YT-013,C043,False,IEC,False,Import export ke liye iec chahiye kaise milega
+B-YT-014,C044,False,IEC,False,👉 IEC Code Services - https://go.myonlineca.in/ieccode
+B-YT-014,C045,False,IEC,False,phytosanitary certificate or IEC certificate ek hi hai kya?
+B-YT-014,C046,False,IEC,False,"With the help of your's kind guidance, I applied gst and got certificate on same day. Thanks. While applying iec code. At address details, shows invalid pin code. Kindly guide.🙏"
+B-YT-014,C047,False,IEC,False,Sir current account nahi he to kya serving account ki bank details se ban sakta he IEC certificate
+B-YT-015,C048,False,APEDA,False,I want to get apeda licence i am new exporter
+B-YT-015,C049,False,RCMC,False,Sir iron handicraft ke liye kaun kaun sa rcmc certificate Lena hoga
+B-YT-016,C050,False,APEDA,False,Sir foodgrain import ke liye apeda required hai kya?
+B-YT-016,C051,False,APEDA,False,"Hi sir, I'm from Assam I want to export king chilli. This year apeda helps to export king chilli from nort east to London and i extremely inspired to know that and i dont know where to start from can u please make a guide line video for our north east people 🙏"
+B-YT-016,C052,False,RCMC,False,Import karne ke liye rcmc Lena jaruri hai
+B-YT-021,C053,False,IEC,False,"Infomayion hona ki iec,gst Ad code quility certifecate paper kaha sa banega ma chattisgarh raipur sa hu office ka nam ya mechine sa paper benta ha weha sa bannu"
+B-YT-021,C054,False,IEC,False,Pan card data mismatch for iec pls help
+B-YT-021,C055,False,IEC,False,GST/IEC SARVICE.
+B-YT-021,C056,False,IEC,False,Import export ke liye iec chahiye kaise milega
+B-YT-023,C057,False,IEC,False,Our IEC got deactivated on July 1st because we missed the June 30 annual update deadline. Now our bank has frozen our export realization account under FEMA rules!
+B-YT-025,C058,False,IEC,False,प्रोप्राइटरशिप फर्म के PAN नंबर से IEC कोड apply कर रहे हैं तो step 2 में प्रोप्राइटर की डिटेल में फर्म का नाम और पैन show कर रहा है... प्रोप्राइटर का नाम डालने पर उसे automatically हटा कर वहां फर्म का नाम आ जाता है बार बार... इस समस्या से कैसे निपटें...?
+B-YT-025,C059,False,IEC,False,For p'ship firm registration for IEC code to registration me first name and last name konsa dalna hai... Partner ka K firm ka nam?
+B-YT-025,C060,False,IEC,False,Kya personal saving account use kar sakte hai IEC application ke liye ?
+B-YT-025,C061,False,DGFT,False,Sir ek video bnao ki digital signature kese lgaye dgft pr full process pls sir kisi n wo video ni bnya abhi tk u should upload
+B-YT-025,C062,False,EIC,False,sir main online work krta hu . maine ek company ka EIC apply kiya hai to sing ke liye Kya main apne aadhar se OTP le sakta hu
+B-YT-026,C063,True,IEC,False,Our IEC got deactivated on July 1st because we missed the June 30 annual update deadline. Now our bank has frozen our export realization account under FEMA rules!
+B-YT-027,C064,True,IEC,False,Our IEC got deactivated on July 1st because we missed the June 30 annual update deadline. Now our bank has frozen our export realization account under FEMA rules!
+B-YT-032,C065,True,IEC,False,Our IEC got deactivated on July 1st because we missed the June 30 annual update deadline. Now our bank has frozen our export realization account under FEMA rules!
+B-YT-034,C066,False,IEC,False,Our IEC got deactivated on July 1st because we missed the June 30 annual update deadline. Now our bank has frozen our export realization account under FEMA rules!
