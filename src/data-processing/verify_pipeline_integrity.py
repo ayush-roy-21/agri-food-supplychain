@@ -236,6 +236,22 @@ def verify_pipeline_integrity():
         else:
             print("[OK] Literature-Exclusion Check passed: 0 background-literature documents in modeling matrix.")
             
+    # 9.5. Git LFS Pointer Stub Check
+    lfs_stubs_found = []
+    for file_path in data_dir.glob("Corpus*/**/*.*"):
+        if file_path.is_file():
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    first_line = f.readline()
+                    if first_line.startswith("version https://git-lfs.github.com"):
+                        lfs_stubs_found.append(file_path.name)
+            except Exception:
+                pass
+    if lfs_stubs_found:
+        errors.append(f"LFS Stub Check failed: Found unpulled Git LFS pointers instead of actual files: {lfs_stubs_found}")
+    else:
+        print("[OK] LFS Stub Check passed: No unpulled Git LFS pointer stubs found in Corpus.")
+            
     # 10. Scale-Coverage Check
     if master_rows is not None:
         valid_scales = {
