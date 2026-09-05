@@ -6,28 +6,10 @@ import os
 sys.path.append('src/data-collection')
 from entity_allowlist import VERIFIED_FIRM_ALLOWLIST
 
-def heuristic_manufacturer_vs_merchant(firm_name):
-    firm_name = str(firm_name).upper()
-    manufacturers = ['MANUFACTUR', 'MILL', 'AGRO', 'FARMS', 'INDUSTRIES', 'PROCESS', 'PRODUCE', 'MAKERS', 'PRIVATE', 'LTD', 'LIMITED']
-    merchants = ['TRADER', 'EXPORT', 'MERCHANT', 'IMPEX', 'GLOBAL', 'OVERSEAS', 'ENTERPRISE', 'TRADING']
-    
-    is_mfg = any(x in firm_name for x in manufacturers)
-    is_mer = any(x in firm_name for x in merchants)
-    
-    if is_mfg and not is_mer:
-        return 'manufacturer'
-    elif is_mer and not is_mfg:
-        return 'merchant exporter'
-    elif is_mfg and is_mer:
-        return 'manufacturer & merchant'
-    else:
-        return 'indeterminate'
-
 def verify_df(df):
     lookup_dt = datetime.now().strftime('%Y-%m-%d')
     df['register_consulted'] = df['register_consulted'].astype(str)
     df['lookup_date'] = df['lookup_date'].astype(str)
-    df['manufacturer_vs_merchant'] = df['manufacturer_vs_merchant'].astype(str)
     
     for i, row in df.iterrows():
         firm_name = str(row['firm_name']).strip()
@@ -36,6 +18,7 @@ def verify_df(df):
         udyam = False
         iec = False
         cres = False
+        reg_consulted = 'Not Verified'
         
         if cleaned_name in VERIFIED_FIRM_ALLOWLIST:
             info = VERIFIED_FIRM_ALLOWLIST[cleaned_name]
@@ -49,15 +32,16 @@ def verify_df(df):
             else:
                 m = info.get('method')
                 reg_consulted = f"{m} (Matched)"
+            
+            df.at[i, 'lookup_date'] = lookup_dt
         else:
-            reg_consulted = 'BSE/NSE, Udyam, DGFT IEC, Spices Board CRES (No Match)'
+            df.at[i, 'lookup_date'] = ''
             
         df.at[i, 'udyam_verified'] = udyam
         df.at[i, 'iec_verified'] = iec
         df.at[i, 'cres_verified'] = cres
-        df.at[i, 'manufacturer_vs_merchant'] = heuristic_manufacturer_vs_merchant(firm_name)
         df.at[i, 'register_consulted'] = reg_consulted
-        df.at[i, 'lookup_date'] = lookup_dt
+        df.at[i, 'manufacturer_vs_merchant'] = ''  # Removed fake heuristic
         
     return df
 
