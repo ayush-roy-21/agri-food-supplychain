@@ -111,6 +111,7 @@ def verify_pipeline_integrity():
 
     # 6. Row consistency across the three core files & Contamination
     topics_path = embeddings_dir / "modeling_units_with_topics.csv"
+    topics_rows = None
     if not topics_path.exists():
         errors.append(f"Missing modeling_units_with_topics.csv at {topics_path}")
     elif meta_rows is not None:
@@ -142,6 +143,19 @@ def verify_pipeline_integrity():
             errors.append(f"Provenance-header contamination found in {contaminated_count} units in modeling_units_with_topics.csv.")
         else:
             print("[OK] No provenance-header contamination in modeled text.")
+
+        # Matrix-purity check
+        if master_rows is not None:
+            pass_docs = {r.get("doc_id") for r in master_rows if r.get("anchor_verdict") == "pass"}
+            contaminated_fda_units = 0
+            for r in topics_rows:
+                parent_doc_id = r.get("parent_doc_id", "")
+                if parent_doc_id and parent_doc_id not in pass_docs:
+                    contaminated_fda_units += 1
+            if contaminated_fda_units > 0:
+                errors.append(f"Matrix-purity Check failed: {contaminated_fda_units} units in modeling_units_with_topics.csv have parent_doc_ids without a 'pass' anchor_verdict in master_registry.csv.")
+            else:
+                print("[OK] Matrix-purity Check passed: All modeled units have a 'pass' anchor_verdict.")
 
     # 7. bertopic_topic_info.csv is the source of truth for topic count / outlier total
     bt_path = results_dir / "bertopic_topic_info.csv"
@@ -291,7 +305,9 @@ def verify_pipeline_integrity():
         "rq1_locus_distribution.csv",
         "rq2_hurdle_cooccurrence.csv",
         "rq3_actor_framing.csv",
-        "rq_robustness_sensitivity.csv"
+        "rq_robustness_sensitivity.csv",
+        "hurdle_rq_esg_map.csv",
+        "fig5_hurdle_directive_esg.png"
     ]
     missing_rqs = []
     for rqf in rq_files:
@@ -314,6 +330,28 @@ def verify_pipeline_integrity():
                 errors.append("RQ-Correctness Grep Check failed: 'nan' strings found in rq1_locus_distribution.csv.")
             else:
                 print("[OK] RQ-Correctness Grep Check passed: RQ deliverables are populated and structurally sound.")
+                
+            # Unit-reconciliation check
+            if topics_rows is not None:
+                unit_sum = sum(int(float(r.get("unit_count", 0))) for r in rq1_rows)
+                
+                header_units = -1
+                import re
+                with open(rq1_path, "r", encoding="utf-8-sig") as f:
+                    for line in f:
+                        if line.startswith("#"):
+                            m = re.search(r"\((\d+)\s*Units\)", line, re.IGNORECASE)
+                            if m:
+                                header_units = int(m.group(1))
+                            break
+                
+                noise_exclusion = sum(1 for r in topics_rows if str(r.get("assigned_topic", "")) == "-1")
+                expected_units = len(topics_rows) - noise_exclusion
+                
+                if unit_sum != header_units or header_units != expected_units:
+                    errors.append(f"Unit-reconciliation Check failed: rq1_locus_distribution.csv unit sum ({unit_sum}) != header-stated units ({header_units}) != modeling matrix minus noise ({len(topics_rows)} - {noise_exclusion} = {expected_units}).")
+                else:
+                    print(f"[OK] Unit-reconciliation Check passed: {unit_sum} units consistently reported.")
 
     # 14. Anchor Verdict Integrity Check
     if master_rows is not None:
@@ -420,11 +458,12 @@ def verify_pipeline_integrity():
     
     def check_uniformity(df, file_name, column_name):
         non_empty = df[column_name].replace("", pd.NA).dropna()
-        non_empty = non_empty[non_empty != "Not Verified"]
         if not non_empty.empty and len(non_empty) > 10:
             top_val = non_empty.value_counts(normalize=True).iloc[0]
             if top_val > 0.90:
                 errors.append(f"Round 2 Check failed: {file_name} has >90% identical values in {column_name}, indicating faked or unvaried lookups.")
+    
+    valid_registers = ["Udyam", "DGFT IEC", "Spices Board CRES", "Screened Large-Firm", "Indeterminate"]
     
     # a. alert_99_19_firms_verified.csv has no dummies and IS actually verified
     alert_99_path = results_dir / "alert_99_19_firms_verified.csv"
@@ -435,7 +474,7 @@ def verify_pipeline_integrity():
         
         check_uniformity(df_99, "alert_99_19_firms_verified.csv", "register_consulted")
         
-        verified_count = df_99["register_consulted"].notna().sum()
+        verified_count = df_99["register_consulted"].isin(valid_registers).sum()
         if verified_count == 0:
              errors.append("Round 2 Check failed: alert_99_19_firms_verified.csv has no verification data.")
         else:
@@ -448,7 +487,7 @@ def verify_pipeline_integrity():
         
         check_uniformity(df_16, "alert_16_35_firms_verified.csv", "register_consulted")
         
-        verified_count = df_16["register_consulted"].notna().sum()
+        verified_count = df_16["register_consulted"].isin(valid_registers).sum()
         if verified_count == 0:
              errors.append("Round 2 Check failed: alert_16_35_firms_verified.csv has no verification data.")
         else:
@@ -463,11 +502,20 @@ def verify_pipeline_integrity():
         else:
             print("[OK] Round 2 Check passed: msme_voice.csv has real quotes.")
             
+        # Duplicate-comment check
+        if "record_id" in df_msme.columns and "comment_text" in df_msme.columns:
+            dupes = df_msme.groupby("comment_text")["record_id"].nunique()
+            bad_dupes = dupes[dupes > 1]
+            if not bad_dupes.empty:
+                errors.append("Duplicate-comment Check failed: msme_voice.csv has duplicate comments across multiple record_ids.")
+            else:
+                print("[OK] Duplicate-comment Check passed: No duplicate comments across record_ids in msme_voice.csv.")
+            
     # d. hurdle_evidence_trace.csv logic
     trace_path = results_dir / "hurdle_evidence_trace.csv"
     if trace_path.exists():
         df_trace = pd.read_csv(trace_path)
-        if df_trace["evidence_files"].str.contains("SupplyChain_Research").any():
+        if df_trace["evidence_files"].astype(str).str.contains("SupplyChain_Research").any():
             errors.append("Round 2 Check failed: hurdle_evidence_trace.csv uses SupplyChain_Research.")
         
         invalid_dest = df_trace[~df_trace["destination_regime"].isin(["EU", "US"])]
@@ -475,6 +523,15 @@ def verify_pipeline_integrity():
             errors.append(f"Round 2 Check failed: hurdle_evidence_trace.csv has invalid destination_regime (must be EU or US strictly). Found: {invalid_dest['destination_regime'].unique()}")
         else:
             print("[OK] Round 2 Check passed: hurdle_evidence_trace.csv avoids SupplyChain_Research and has strict EU/US regimes.")
+
+        # Evidence-quote sanity check
+        if "evidence_quote" in df_trace.columns:
+            bad_quotes = df_trace["evidence_quote"].dropna().astype(str)
+            bad_quotes = bad_quotes[bad_quotes.str.contains(r"---|PAGE ", regex=True)]
+            if not bad_quotes.empty:
+                errors.append("Evidence-quote Sanity Check failed: hurdle_evidence_trace.csv contains '---' or 'PAGE ' artifacts in evidence_quote.")
+            else:
+                print("[OK] Evidence-quote Sanity Check passed: hurdle_evidence_trace.csv quotes look clean.")
 
     print("-" * 80)
     if errors:
