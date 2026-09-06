@@ -1,11 +1,9 @@
-# Core N = 88 Documents (144 Units)
+# Core N = 78 Documents (134 Units)
 hurdle_name,actor_type,unit_count,paraphrased_framing
 APEDA Registration & Post-Harvest Infrastructure Bottlenecks,regulator,25,Regulators framed as establishing mandatory baseline requirements that stretch capacity.
 APEDA Registration & Post-Harvest Infrastructure Bottlenecks,media,1,Media discourse highlighting capacity deficits and infrastructure shortfalls.
-APEDA Registration & Post-Harvest Infrastructure Bottlenecks,firm,2,"Firms expressing resource deficits, lack of testing capability, or infrastructure gaps."
 FSSAI Hygiene Standards & Facility Audit Compliance,regulator,12,Regulators framed as establishing mandatory baseline requirements that stretch capacity.
-FSSAI Hygiene Standards & Facility Audit Compliance,firm,1,"Firms expressing resource deficits, lack of testing capability, or infrastructure gaps."
-Market Access & MPEDA/EU Export Infrastructure Costs,regulator,71,Regulators framed as establishing mandatory baseline requirements that stretch capacity.
-Market Access & MPEDA/EU Export Infrastructure Costs,firm,16,Firms experiencing direct coercion from buyers or unmanageable margin pressures.
+Market Access & MPEDA/EU Export Infrastructure Costs,regulator,64,Regulators framed as creating complex compliance burdens and strict enforcement policies.
+Market Access & MPEDA/EU Export Infrastructure Costs,firm,16,Firms navigating uncertain rules and overlapping administrative mandates.
 Market Access & MPEDA/EU Export Infrastructure Costs,media,1,Media reporting focusing on aggregate trade barriers and regulatory impacts.
 EUDR & CSRD Sustainability Reporting Burden (Resolved Topic 10 equivalent),regulator,15,Regulators framed as demanding costly supply chain traceability data and assurance.

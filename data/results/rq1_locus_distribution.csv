@@ -1,6 +1,6 @@
-# Core N = 88 Documents (144 Units)
+# Core N = 78 Documents (134 Units)
 hurdle,locus,unit_count,corpus_a_count,corpus_b_count,scope
-APEDA Registration & Post-Harvest Infrastructure Bottlenecks,internal-capability,28,27,1,structural
-FSSAI Hygiene Standards & Facility Audit Compliance,internal-capability,13,13,0,structural
-Market Access & MPEDA/EU Export Infrastructure Costs,institutional-voids,88,87,1,structural
+APEDA Registration & Post-Harvest Infrastructure Bottlenecks,internal-capability,26,25,1,structural
+FSSAI Hygiene Standards & Facility Audit Compliance,internal-capability,12,12,0,structural
+Market Access & MPEDA/EU Export Infrastructure Costs,institutional-voids,81,80,1,structural
 EUDR & CSRD Sustainability Reporting Burden (Resolved Topic 10 equivalent),informational-verifiability,15,15,0,specific

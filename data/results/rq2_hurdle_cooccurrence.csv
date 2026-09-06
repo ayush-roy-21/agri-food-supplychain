@@ -1,4 +1,3 @@
-# Core N = 88 Documents (144 Units)
-hurdle_a,hurdle_b,co_occurrence_count,jaccard,example_doc_ids
-FSSAI Hygiene Standards & Facility Audit Compliance,Market Access & MPEDA/EU Export Infrastructure Costs,1,0.0141,A-MPEDA-003
-APEDA Registration & Post-Harvest Infrastructure Bottlenecks,Market Access & MPEDA/EU Export Infrastructure Costs,1,0.0118,B-GD-093
+topic_a,topic_b,raw_cooccurrence_count,jaccard_similarity
+0,3,1,0.0149
+0,1,1,0.0125
