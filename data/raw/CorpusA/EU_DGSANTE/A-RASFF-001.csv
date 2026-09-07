@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ec79ec97524835702d9af0fb49836c5d4a585d06f5c6ab916e3c3d8368deceb5
-size 1175
+reference,date,notification_type,notifying_country,origin_country,product_category,subject,hazard,action_taken,distribution_status
+2026.1042,2026-06-14,Border Rejection,Germany,India,spices and herbs,Ethylene oxide (0.45 mg/kg) in organic cumin seed from India,Ethylene Oxide (ETO),Re-dispatch or destruction,Product not distributed
+2026.0915,2026-05-22,Border Rejection,Netherlands,India,crustaceans and products,Nitrofuran metabolite (AOZ) at 0.88 ppb in frozen raw peeled shrimp,Veterinary drug residues,Official detention at border,Product not distributed
+2026.0884,2026-05-10,Alert,Italy,India,spices and herbs,Salmonella spp. detected in ground black pepper and chilli powder,Microbiological contamination (Salmonella),Recall from consumer,Widely distributed
+2026.0712,2026-04-18,Information for attention,France,India,crustaceans and products,Inadequate health certificate endorsement and cold chain failure (-12 C),Hygiene / Temperature control,Re-dispatch,Product not distributed
+2026.0603,2026-03-29,Border Rejection,Spain,India,cephalopods and products,Cadmium (1.85 mg/kg) exceeding MRL in frozen cuttlefish,Heavy metals,Destruction,Product not distributed

@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8033dc407c8b78335306802ffe2fb1c174ca398714fc29342bec02f21a08b31e
-size 1424
+Fiscal_Year,HS_Code,Commodity_Group,Principal_Export_Market,Export_Volume_MT,Export_Value_USD_Million,SPS_Compliance_Tier
+2023-24,030617,Frozen Aquaculture Shrimp,United States (US FDA),315400,2480.5,Mandatory NOAA DS-2031 & PHT Antibiotic Screening
+2023-24,030617,Frozen Aquaculture Shrimp,European Union (DG SANTE),84200,610.2,Mandatory Catch Certificate & NRMP Traceability
+2023-24,030617,Frozen Aquaculture Shrimp,Japan (MHLW),42100,312.8,Mandatory Oxytetracycline & Furazolidone Screen
+2023-24,090421,Dried Chilli & Capsicum,European Union (DG SANTE),38500,142.0,Mandatory EIC/Spices Board CoI under EU 2019/1793
+2023-24,090421,Dried Chilli & Capsicum,United States (US FDA),52100,185.4,Mandatory Salmonella Absence Testing & FSVP
+2023-24,090931,Cumin Seeds (Jeera),European Union (DG SANTE),18200,84.6,Mandatory ETO <0.05 mg/kg & Multi-Residue Screen
+2023-24,200989,Processed Fruit & Vegetable Purees,European Union / United Kingdom,64300,115.8,FSSAI Central License & Third-Party BRCGS/FSSC 22000
+2023-24,200989,Processed Fruit & Vegetable Purees,United States / Canada,71200,138.2,FDA Food Facility Registration & HACCP Plan Verification
+2024-25 (Est),030617,Frozen Aquaculture Shrimp,United States (US FDA),328000,2590.0,Mandatory NOAA DS-2031 & PHT Antibiotic Screening
+2024-25 (Est),090421,Dried Chilli & Capsicum,European Union (DG SANTE),41000,154.0,Mandatory EIC/Spices Board CoI under EU 2019/1793
