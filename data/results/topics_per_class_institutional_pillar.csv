@@ -1,21 +1,18 @@
 Topic,Words,Frequency,Class
--1,"change, 14, 03, 2026, 29",6,General Statutory & State Gazette
-0,"export, inspection, act, gazette, notification",14,General Statutory & State Gazette
--1,"yes, did, fairs, mpeda, selected",1,MPEDA (Marine Products Export Authority)
-0,"mpeda, export, marine, products, scheme",18,MPEDA (Marine Products Export Authority)
-3,"women, committee, shall, office, committee shall",1,MPEDA (Marine Products Export Authority)
-0,"fda, import, food, section, united states",6,US FDA / US Regulatory Agencies
--1,"csr, companies, form, 135, crore",1,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-1,"zero, food, enterprises, certification, apeda",2,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-3,"rural, csr, schedule vii, vii, eligible",1,Domestic Infrastructure & Capacity (MoFPI/MSME/NITI/CSR)
-0,"export, trade, dgft, electronic, certificate",5,DGFT & Ministry of Commerce
-0,"inspection, export, eic, quality, testing",5,EIC/EIA (Export Inspection Council)
-1,"apeda, products, rice, download, format",24,APEDA (Agricultural & Processed Food Authority)
-0,"food, food safety, safety, export, auditing",4,FSSAI (Food Safety Authority of India)
-3,"shall, food, meat, used, storage",11,FSSAI (Food Safety Authority of India)
-0,"eu, regulation, european, official, food",19,EU DG SANTE / European Commission
+0,"fda, food, facility, foreign, fsma",2,US FDA / US Regulatory Agencies
+0,"tea, imported, india, decision, testing",1,Practitioner & Media Discourse
+1,"tea, nepal, said, india, association",1,Practitioner & Media Discourse
+-1,"ex, ex 2008, 2008, 19, 19 ex",3,Spices Board of India
+0,"spices, export, eu, official, board",12,Spices Board of India
+1,"ex, 20, 90, fresh, chilled",1,Spices Board of India
+1,"apeda, products, rice, download, size",24,APEDA (Agricultural & Processed Food Authority)
+0,"eu, regulation, european, official, regulation eu",17,EU DG SANTE / European Commission
 1,"apeda, plot, gps, indian exporters, eudr",1,EU DG SANTE / European Commission
 2,"sustainability, ar, directive, assurance, standards",15,EU DG SANTE / European Commission
-0,"2008, spices, 97, 19, export",16,Spices Board of India
-0,"tea, imported, decision, india, testing",1,Practitioner & Media Discourse
-1,"tea, nepal, said, india, association",1,Practitioner & Media Discourse
+0,"export, inspection, act, gazette, notification",13,General Statutory & State Gazette
+0,"mpeda, export, products, eu, impact",19,MPEDA (Marine Products Export Authority)
+3,"committee, women, shall, office, committee shall",1,MPEDA (Marine Products Export Authority)
+0,"food, food safety, safety, export, auditing",4,FSSAI (Food Safety Authority of India)
+3,"shall, food, meat, used, storage",11,FSSAI (Food Safety Authority of India)
+0,"inspection, export, eic, testing, quality",5,EIC/EIA (Export Inspection Council)
+0,"export, trade, dgft, electronic, certificate",5,DGFT & Ministry of Commerce
